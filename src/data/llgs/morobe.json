@@ -1,0 +1,1473 @@
+{
+  "provinceId": "morobe",
+  "electorates": [
+    {
+      "electorateSlug": "lae",
+      "llgs": [
+        {
+          "id": "lae-lae-urban",
+          "name": "Lae Urban LLG",
+          "electorateSlug": "lae",
+          "wards": [
+            {
+              "id": "lae-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2107
+            },
+            {
+              "id": "lae-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2241
+            },
+            {
+              "id": "lae-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1274
+            },
+            {
+              "id": "lae-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1295
+            },
+            {
+              "id": "lae-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2954
+            },
+            {
+              "id": "lae-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1769
+            },
+            {
+              "id": "lae-urban-w07",
+              "name": "Ward 7",
+              "registeredVoters": 3009
+            },
+            {
+              "id": "lae-urban-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1769
+            },
+            {
+              "id": "lae-urban-w09",
+              "name": "Ward 9",
+              "registeredVoters": 2811
+            },
+            {
+              "id": "lae-urban-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1356
+            }
+          ]
+        },
+        {
+          "id": "lae-ahi",
+          "name": "Ahi LLG",
+          "electorateSlug": "lae",
+          "wards": [
+            {
+              "id": "ahi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1274
+            },
+            {
+              "id": "ahi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1337
+            },
+            {
+              "id": "ahi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2561
+            },
+            {
+              "id": "ahi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2440
+            },
+            {
+              "id": "ahi-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1758
+            },
+            {
+              "id": "ahi-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1828
+            },
+            {
+              "id": "ahi-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1857
+            },
+            {
+              "id": "ahi-w08",
+              "name": "Ward 8",
+              "registeredVoters": 2580
+            },
+            {
+              "id": "ahi-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1274
+            },
+            {
+              "id": "ahi-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1866
+            }
+          ]
+        },
+        {
+          "id": "lae-huon",
+          "name": "Huon LLG",
+          "electorateSlug": "lae",
+          "wards": [
+            {
+              "id": "huon-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1505
+            },
+            {
+              "id": "huon-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1423
+            },
+            {
+              "id": "huon-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1384
+            },
+            {
+              "id": "huon-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1351
+            },
+            {
+              "id": "huon-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1828
+            },
+            {
+              "id": "huon-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2361
+            },
+            {
+              "id": "huon-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1162
+            },
+            {
+              "id": "huon-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1248
+            },
+            {
+              "id": "huon-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1799
+            },
+            {
+              "id": "huon-w10",
+              "name": "Ward 10",
+              "registeredVoters": 2858
+            }
+          ]
+        },
+        {
+          "id": "lae-butibam",
+          "name": "Butibam LLG",
+          "electorateSlug": "lae",
+          "wards": [
+            {
+              "id": "butibam-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1924
+            },
+            {
+              "id": "butibam-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2812
+            },
+            {
+              "id": "butibam-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3070
+            },
+            {
+              "id": "butibam-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2667
+            },
+            {
+              "id": "butibam-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2758
+            },
+            {
+              "id": "butibam-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1600
+            },
+            {
+              "id": "butibam-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1938
+            }
+          ]
+        },
+        {
+          "id": "lae-taraka",
+          "name": "Taraka LLG",
+          "electorateSlug": "lae",
+          "wards": [
+            {
+              "id": "taraka-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2500
+            },
+            {
+              "id": "taraka-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2060
+            },
+            {
+              "id": "taraka-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2395
+            },
+            {
+              "id": "taraka-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1504
+            },
+            {
+              "id": "taraka-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1917
+            },
+            {
+              "id": "taraka-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2344
+            },
+            {
+              "id": "taraka-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2430
+            },
+            {
+              "id": "taraka-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1746
+            },
+            {
+              "id": "taraka-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1344
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "huon-gulf",
+      "llgs": [
+        {
+          "id": "huon-gulf-huon-gulf",
+          "name": "Huon Gulf LLG",
+          "electorateSlug": "huon-gulf",
+          "wards": [
+            {
+              "id": "huon-gulf-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2115
+            },
+            {
+              "id": "huon-gulf-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2262
+            },
+            {
+              "id": "huon-gulf-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1888
+            },
+            {
+              "id": "huon-gulf-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1522
+            },
+            {
+              "id": "huon-gulf-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2937
+            },
+            {
+              "id": "huon-gulf-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2185
+            },
+            {
+              "id": "huon-gulf-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1300
+            }
+          ]
+        },
+        {
+          "id": "huon-gulf-salamaua",
+          "name": "Salamaua LLG",
+          "electorateSlug": "huon-gulf",
+          "wards": [
+            {
+              "id": "salamaua-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1522
+            },
+            {
+              "id": "salamaua-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1762
+            },
+            {
+              "id": "salamaua-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2036
+            },
+            {
+              "id": "salamaua-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2282
+            },
+            {
+              "id": "salamaua-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1555
+            },
+            {
+              "id": "salamaua-w06",
+              "name": "Ward 6",
+              "registeredVoters": 3197
+            }
+          ]
+        },
+        {
+          "id": "huon-gulf-wampar",
+          "name": "Wampar LLG",
+          "electorateSlug": "huon-gulf",
+          "wards": [
+            {
+              "id": "wampar-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2746
+            },
+            {
+              "id": "wampar-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2904
+            },
+            {
+              "id": "wampar-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3207
+            },
+            {
+              "id": "wampar-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1597
+            },
+            {
+              "id": "wampar-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2467
+            }
+          ]
+        },
+        {
+          "id": "huon-gulf-lababia",
+          "name": "Lababia LLG",
+          "electorateSlug": "huon-gulf",
+          "wards": [
+            {
+              "id": "lababia-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3068
+            },
+            {
+              "id": "lababia-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2100
+            },
+            {
+              "id": "lababia-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1825
+            },
+            {
+              "id": "lababia-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2902
+            },
+            {
+              "id": "lababia-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3305
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "bulolo",
+      "llgs": [
+        {
+          "id": "bulolo-bulolo-urban",
+          "name": "Bulolo Urban LLG",
+          "electorateSlug": "bulolo",
+          "wards": [
+            {
+              "id": "bulolo-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1154
+            },
+            {
+              "id": "bulolo-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1060
+            },
+            {
+              "id": "bulolo-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1826
+            },
+            {
+              "id": "bulolo-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1661
+            },
+            {
+              "id": "bulolo-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1443
+            },
+            {
+              "id": "bulolo-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1237
+            },
+            {
+              "id": "bulolo-urban-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1700
+            },
+            {
+              "id": "bulolo-urban-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1903
+            },
+            {
+              "id": "bulolo-urban-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1415
+            },
+            {
+              "id": "bulolo-urban-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1501
+            }
+          ]
+        },
+        {
+          "id": "bulolo-wau",
+          "name": "Wau LLG",
+          "electorateSlug": "bulolo",
+          "wards": [
+            {
+              "id": "wau-w01",
+              "name": "Ward 1",
+              "registeredVoters": 7301
+            },
+            {
+              "id": "wau-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3668
+            },
+            {
+              "id": "wau-w03",
+              "name": "Ward 3",
+              "registeredVoters": 7069
+            }
+          ]
+        },
+        {
+          "id": "bulolo-mumeng",
+          "name": "Mumeng LLG",
+          "electorateSlug": "bulolo",
+          "wards": [
+            {
+              "id": "mumeng-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3487
+            },
+            {
+              "id": "mumeng-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3324
+            },
+            {
+              "id": "mumeng-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2832
+            },
+            {
+              "id": "mumeng-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2568
+            },
+            {
+              "id": "mumeng-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3381
+            },
+            {
+              "id": "mumeng-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1553
+            }
+          ]
+        },
+        {
+          "id": "bulolo-watut",
+          "name": "Watut LLG",
+          "electorateSlug": "bulolo",
+          "wards": [
+            {
+              "id": "watut-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1460
+            },
+            {
+              "id": "watut-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1537
+            },
+            {
+              "id": "watut-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2286
+            },
+            {
+              "id": "watut-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2228
+            },
+            {
+              "id": "watut-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1577
+            },
+            {
+              "id": "watut-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1464
+            },
+            {
+              "id": "watut-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1579
+            },
+            {
+              "id": "watut-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1158
+            },
+            {
+              "id": "watut-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1635
+            },
+            {
+              "id": "watut-w10",
+              "name": "Ward 10",
+              "registeredVoters": 2201
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "finschhafen",
+      "llgs": [
+        {
+          "id": "finschhafen-finschhafen-urban",
+          "name": "Finschhafen Urban LLG",
+          "electorateSlug": "finschhafen",
+          "wards": [
+            {
+              "id": "finschhafen-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1674
+            },
+            {
+              "id": "finschhafen-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2222
+            },
+            {
+              "id": "finschhafen-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2729
+            },
+            {
+              "id": "finschhafen-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2244
+            },
+            {
+              "id": "finschhafen-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3515
+            }
+          ]
+        },
+        {
+          "id": "finschhafen-hube",
+          "name": "Hube LLG",
+          "electorateSlug": "finschhafen",
+          "wards": [
+            {
+              "id": "hube-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2863
+            },
+            {
+              "id": "hube-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1650
+            },
+            {
+              "id": "hube-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3625
+            },
+            {
+              "id": "hube-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2480
+            },
+            {
+              "id": "hube-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2236
+            }
+          ]
+        },
+        {
+          "id": "finschhafen-kotte",
+          "name": "Kotte LLG",
+          "electorateSlug": "finschhafen",
+          "wards": [
+            {
+              "id": "kotte-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1149
+            },
+            {
+              "id": "kotte-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2239
+            },
+            {
+              "id": "kotte-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1809
+            },
+            {
+              "id": "kotte-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1363
+            },
+            {
+              "id": "kotte-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1006
+            },
+            {
+              "id": "kotte-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1432
+            },
+            {
+              "id": "kotte-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2025
+            },
+            {
+              "id": "kotte-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1314
+            },
+            {
+              "id": "kotte-w09",
+              "name": "Ward 9",
+              "registeredVoters": 2260
+            },
+            {
+              "id": "kotte-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1568
+            }
+          ]
+        },
+        {
+          "id": "finschhafen-komba",
+          "name": "Komba LLG",
+          "electorateSlug": "finschhafen",
+          "wards": [
+            {
+              "id": "komba-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1660
+            },
+            {
+              "id": "komba-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1732
+            },
+            {
+              "id": "komba-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1282
+            },
+            {
+              "id": "komba-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1541
+            },
+            {
+              "id": "komba-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1284
+            },
+            {
+              "id": "komba-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1076
+            },
+            {
+              "id": "komba-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2269
+            },
+            {
+              "id": "komba-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1813
+            },
+            {
+              "id": "komba-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1693
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "kabwum",
+      "llgs": [
+        {
+          "id": "kabwum-kabwum",
+          "name": "Kabwum LLG",
+          "electorateSlug": "kabwum",
+          "wards": [
+            {
+              "id": "kabwum-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1771
+            },
+            {
+              "id": "kabwum-w02",
+              "name": "Ward 2",
+              "registeredVoters": 874
+            },
+            {
+              "id": "kabwum-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1167
+            },
+            {
+              "id": "kabwum-w04",
+              "name": "Ward 4",
+              "registeredVoters": 820
+            },
+            {
+              "id": "kabwum-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1064
+            },
+            {
+              "id": "kabwum-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1056
+            },
+            {
+              "id": "kabwum-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2172
+            },
+            {
+              "id": "kabwum-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1220
+            }
+          ]
+        },
+        {
+          "id": "kabwum-selepet",
+          "name": "Selepet LLG",
+          "electorateSlug": "kabwum",
+          "wards": [
+            {
+              "id": "selepet-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1735
+            },
+            {
+              "id": "selepet-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2861
+            },
+            {
+              "id": "selepet-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3583
+            },
+            {
+              "id": "selepet-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2081
+            }
+          ]
+        },
+        {
+          "id": "kabwum-timbe",
+          "name": "Timbe LLG",
+          "electorateSlug": "kabwum",
+          "wards": [
+            {
+              "id": "timbe-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1048
+            },
+            {
+              "id": "timbe-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1455
+            },
+            {
+              "id": "timbe-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1130
+            },
+            {
+              "id": "timbe-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1098
+            },
+            {
+              "id": "timbe-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1249
+            },
+            {
+              "id": "timbe-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1510
+            },
+            {
+              "id": "timbe-w07",
+              "name": "Ward 7",
+              "registeredVoters": 807
+            },
+            {
+              "id": "timbe-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1314
+            },
+            {
+              "id": "timbe-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1557
+            },
+            {
+              "id": "timbe-w10",
+              "name": "Ward 10",
+              "registeredVoters": 832
+            }
+          ]
+        },
+        {
+          "id": "kabwum-komba-north",
+          "name": "Komba North LLG",
+          "electorateSlug": "kabwum",
+          "wards": [
+            {
+              "id": "komba-north-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1245
+            },
+            {
+              "id": "komba-north-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1201
+            },
+            {
+              "id": "komba-north-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1449
+            },
+            {
+              "id": "komba-north-w04",
+              "name": "Ward 4",
+              "registeredVoters": 946
+            },
+            {
+              "id": "komba-north-w05",
+              "name": "Ward 5",
+              "registeredVoters": 703
+            },
+            {
+              "id": "komba-north-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1604
+            },
+            {
+              "id": "komba-north-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1133
+            },
+            {
+              "id": "komba-north-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1199
+            },
+            {
+              "id": "komba-north-w09",
+              "name": "Ward 9",
+              "registeredVoters": 999
+            },
+            {
+              "id": "komba-north-w10",
+              "name": "Ward 10",
+              "registeredVoters": 821
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "markham",
+      "llgs": [
+        {
+          "id": "markham-markham",
+          "name": "Markham LLG",
+          "electorateSlug": "markham",
+          "wards": [
+            {
+              "id": "markham-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4770
+            },
+            {
+              "id": "markham-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3866
+            },
+            {
+              "id": "markham-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3580
+            },
+            {
+              "id": "markham-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2357
+            }
+          ]
+        },
+        {
+          "id": "markham-umi-atzera",
+          "name": "Umi-Atzera LLG",
+          "electorateSlug": "markham",
+          "wards": [
+            {
+              "id": "umi-atzera-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1902
+            },
+            {
+              "id": "umi-atzera-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1078
+            },
+            {
+              "id": "umi-atzera-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1168
+            },
+            {
+              "id": "umi-atzera-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2053
+            },
+            {
+              "id": "umi-atzera-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1900
+            },
+            {
+              "id": "umi-atzera-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1878
+            },
+            {
+              "id": "umi-atzera-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1580
+            },
+            {
+              "id": "umi-atzera-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1314
+            },
+            {
+              "id": "umi-atzera-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1208
+            },
+            {
+              "id": "umi-atzera-w10",
+              "name": "Ward 10",
+              "registeredVoters": 2253
+            }
+          ]
+        },
+        {
+          "id": "markham-wampar-plains",
+          "name": "Wampar Plains LLG",
+          "electorateSlug": "markham",
+          "wards": [
+            {
+              "id": "wampar-plains-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3603
+            },
+            {
+              "id": "wampar-plains-w02",
+              "name": "Ward 2",
+              "registeredVoters": 7574
+            },
+            {
+              "id": "wampar-plains-w03",
+              "name": "Ward 3",
+              "registeredVoters": 6374
+            }
+          ]
+        },
+        {
+          "id": "markham-leron",
+          "name": "Leron LLG",
+          "electorateSlug": "markham",
+          "wards": [
+            {
+              "id": "leron-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4628
+            },
+            {
+              "id": "leron-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3788
+            },
+            {
+              "id": "leron-w03",
+              "name": "Ward 3",
+              "registeredVoters": 7109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "menyamya",
+      "llgs": [
+        {
+          "id": "menyamya-menyamya",
+          "name": "Menyamya LLG",
+          "electorateSlug": "menyamya",
+          "wards": [
+            {
+              "id": "menyamya-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1633
+            },
+            {
+              "id": "menyamya-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2695
+            },
+            {
+              "id": "menyamya-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1259
+            },
+            {
+              "id": "menyamya-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2053
+            },
+            {
+              "id": "menyamya-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2182
+            },
+            {
+              "id": "menyamya-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2711
+            },
+            {
+              "id": "menyamya-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1722
+            }
+          ]
+        },
+        {
+          "id": "menyamya-kapao",
+          "name": "Kapao LLG",
+          "electorateSlug": "menyamya",
+          "wards": [
+            {
+              "id": "kapao-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1575
+            },
+            {
+              "id": "kapao-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2794
+            },
+            {
+              "id": "kapao-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1217
+            },
+            {
+              "id": "kapao-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2726
+            },
+            {
+              "id": "kapao-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1935
+            },
+            {
+              "id": "kapao-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2192
+            },
+            {
+              "id": "kapao-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1789
+            },
+            {
+              "id": "kapao-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1405
+            }
+          ]
+        },
+        {
+          "id": "menyamya-aseki",
+          "name": "Aseki LLG",
+          "electorateSlug": "menyamya",
+          "wards": [
+            {
+              "id": "aseki-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4261
+            },
+            {
+              "id": "aseki-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4766
+            },
+            {
+              "id": "aseki-w03",
+              "name": "Ward 3",
+              "registeredVoters": 7273
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "nawae",
+      "llgs": [
+        {
+          "id": "nawae-nawae",
+          "name": "Nawae LLG",
+          "electorateSlug": "nawae",
+          "wards": [
+            {
+              "id": "nawae-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2341
+            },
+            {
+              "id": "nawae-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1489
+            },
+            {
+              "id": "nawae-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1461
+            },
+            {
+              "id": "nawae-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1982
+            },
+            {
+              "id": "nawae-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1799
+            },
+            {
+              "id": "nawae-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1065
+            },
+            {
+              "id": "nawae-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1512
+            },
+            {
+              "id": "nawae-w08",
+              "name": "Ward 8",
+              "registeredVoters": 2476
+            },
+            {
+              "id": "nawae-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1738
+            },
+            {
+              "id": "nawae-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1116
+            }
+          ]
+        },
+        {
+          "id": "nawae-labuta",
+          "name": "Labuta LLG",
+          "electorateSlug": "nawae",
+          "wards": [
+            {
+              "id": "labuta-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4236
+            },
+            {
+              "id": "labuta-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3809
+            },
+            {
+              "id": "labuta-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4078
+            },
+            {
+              "id": "labuta-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2381
+            },
+            {
+              "id": "labuta-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2423
+            }
+          ]
+        },
+        {
+          "id": "nawae-erap-wantoat",
+          "name": "Erap-Wantoat LLG",
+          "electorateSlug": "nawae",
+          "wards": [
+            {
+              "id": "erap-wantoat-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2087
+            },
+            {
+              "id": "erap-wantoat-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2500
+            },
+            {
+              "id": "erap-wantoat-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2354
+            },
+            {
+              "id": "erap-wantoat-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1541
+            },
+            {
+              "id": "erap-wantoat-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2097
+            },
+            {
+              "id": "erap-wantoat-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1347
+            },
+            {
+              "id": "erap-wantoat-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2397
+            },
+            {
+              "id": "erap-wantoat-w08",
+              "name": "Ward 8",
+              "registeredVoters": 2039
+            },
+            {
+              "id": "erap-wantoat-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1506
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "tewai-siassi",
+      "llgs": [
+        {
+          "id": "tewai-siassi-tewai",
+          "name": "Tewai LLG",
+          "electorateSlug": "tewai-siassi",
+          "wards": [
+            {
+              "id": "tewai-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2083
+            },
+            {
+              "id": "tewai-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2634
+            },
+            {
+              "id": "tewai-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2219
+            },
+            {
+              "id": "tewai-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3711
+            },
+            {
+              "id": "tewai-w05",
+              "name": "Ward 5",
+              "registeredVoters": 4541
+            }
+          ]
+        },
+        {
+          "id": "tewai-siassi-siassi",
+          "name": "Siassi LLG",
+          "electorateSlug": "tewai-siassi",
+          "wards": [
+            {
+              "id": "siassi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1643
+            },
+            {
+              "id": "siassi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2983
+            },
+            {
+              "id": "siassi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2225
+            },
+            {
+              "id": "siassi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2817
+            },
+            {
+              "id": "siassi-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2505
+            }
+          ]
+        },
+        {
+          "id": "tewai-siassi-umboi-island",
+          "name": "Umboi Island LLG",
+          "electorateSlug": "tewai-siassi",
+          "wards": [
+            {
+              "id": "umboi-island-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1653
+            },
+            {
+              "id": "umboi-island-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2148
+            },
+            {
+              "id": "umboi-island-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3522
+            },
+            {
+              "id": "umboi-island-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2853
+            },
+            {
+              "id": "umboi-island-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2443
+            },
+            {
+              "id": "umboi-island-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1315
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

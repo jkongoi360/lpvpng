@@ -1,0 +1,966 @@
+{
+  "provinceId": "chimbu",
+  "electorates": [
+    {
+      "electorateSlug": "kundiawa-gembogl",
+      "llgs": [
+        {
+          "id": "kundiawa-gembogl-kundiawa-urban",
+          "name": "Kundiawa Urban LLG",
+          "electorateSlug": "kundiawa-gembogl",
+          "wards": [
+            {
+              "id": "kundiawa-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1511
+            },
+            {
+              "id": "kundiawa-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2675
+            },
+            {
+              "id": "kundiawa-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2331
+            },
+            {
+              "id": "kundiawa-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1685
+            },
+            {
+              "id": "kundiawa-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1967
+            },
+            {
+              "id": "kundiawa-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1674
+            },
+            {
+              "id": "kundiawa-urban-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2643
+            },
+            {
+              "id": "kundiawa-urban-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1316
+            }
+          ]
+        },
+        {
+          "id": "kundiawa-gembogl-gembogl",
+          "name": "Gembogl LLG",
+          "electorateSlug": "kundiawa-gembogl",
+          "wards": [
+            {
+              "id": "gembogl-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1877
+            },
+            {
+              "id": "gembogl-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1850
+            },
+            {
+              "id": "gembogl-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1960
+            },
+            {
+              "id": "gembogl-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2908
+            },
+            {
+              "id": "gembogl-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2208
+            },
+            {
+              "id": "gembogl-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1128
+            },
+            {
+              "id": "gembogl-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2692
+            },
+            {
+              "id": "gembogl-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1581
+            }
+          ]
+        },
+        {
+          "id": "kundiawa-gembogl-sinasina-east",
+          "name": "Sinasina East LLG",
+          "electorateSlug": "kundiawa-gembogl",
+          "wards": [
+            {
+              "id": "sinasina-east-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1421
+            },
+            {
+              "id": "sinasina-east-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1359
+            },
+            {
+              "id": "sinasina-east-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1378
+            },
+            {
+              "id": "sinasina-east-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1821
+            },
+            {
+              "id": "sinasina-east-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1693
+            },
+            {
+              "id": "sinasina-east-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1324
+            },
+            {
+              "id": "sinasina-east-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1457
+            },
+            {
+              "id": "sinasina-east-w08",
+              "name": "Ward 8",
+              "registeredVoters": 967
+            },
+            {
+              "id": "sinasina-east-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1260
+            },
+            {
+              "id": "sinasina-east-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1011
+            }
+          ]
+        },
+        {
+          "id": "kundiawa-gembogl-dom",
+          "name": "Dom LLG",
+          "electorateSlug": "kundiawa-gembogl",
+          "wards": [
+            {
+              "id": "dom-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2936
+            },
+            {
+              "id": "dom-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2281
+            },
+            {
+              "id": "dom-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3881
+            },
+            {
+              "id": "dom-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2192
+            },
+            {
+              "id": "dom-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "chuave",
+      "llgs": [
+        {
+          "id": "chuave-chuave",
+          "name": "Chuave LLG",
+          "electorateSlug": "chuave",
+          "wards": [
+            {
+              "id": "chuave-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1528
+            },
+            {
+              "id": "chuave-w02",
+              "name": "Ward 2",
+              "registeredVoters": 913
+            },
+            {
+              "id": "chuave-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1155
+            },
+            {
+              "id": "chuave-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1410
+            },
+            {
+              "id": "chuave-w05",
+              "name": "Ward 5",
+              "registeredVoters": 975
+            },
+            {
+              "id": "chuave-w06",
+              "name": "Ward 6",
+              "registeredVoters": 846
+            },
+            {
+              "id": "chuave-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1460
+            },
+            {
+              "id": "chuave-w08",
+              "name": "Ward 8",
+              "registeredVoters": 971
+            },
+            {
+              "id": "chuave-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1065
+            },
+            {
+              "id": "chuave-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1618
+            }
+          ]
+        },
+        {
+          "id": "chuave-elimbari",
+          "name": "Elimbari LLG",
+          "electorateSlug": "chuave",
+          "wards": [
+            {
+              "id": "elimbari-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1577
+            },
+            {
+              "id": "elimbari-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3468
+            },
+            {
+              "id": "elimbari-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1777
+            },
+            {
+              "id": "elimbari-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1765
+            },
+            {
+              "id": "elimbari-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3082
+            },
+            {
+              "id": "elimbari-w06",
+              "name": "Ward 6",
+              "registeredVoters": 3382
+            }
+          ]
+        },
+        {
+          "id": "chuave-nomane-north",
+          "name": "Nomane North LLG",
+          "electorateSlug": "chuave",
+          "wards": [
+            {
+              "id": "nomane-north-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2069
+            },
+            {
+              "id": "nomane-north-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1609
+            },
+            {
+              "id": "nomane-north-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1561
+            },
+            {
+              "id": "nomane-north-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1323
+            },
+            {
+              "id": "nomane-north-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1154
+            },
+            {
+              "id": "nomane-north-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2437
+            },
+            {
+              "id": "nomane-north-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1835
+            }
+          ]
+        },
+        {
+          "id": "chuave-siane",
+          "name": "Siane LLG",
+          "electorateSlug": "chuave",
+          "wards": [
+            {
+              "id": "siane-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3388
+            },
+            {
+              "id": "siane-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3238
+            },
+            {
+              "id": "siane-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1639
+            },
+            {
+              "id": "siane-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2693
+            },
+            {
+              "id": "siane-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2142
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "sinasina-yonggamugl",
+      "llgs": [
+        {
+          "id": "sinasina-yonggamugl-sinasina",
+          "name": "Sinasina LLG",
+          "electorateSlug": "sinasina-yonggamugl",
+          "wards": [
+            {
+              "id": "sinasina-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1773
+            },
+            {
+              "id": "sinasina-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2468
+            },
+            {
+              "id": "sinasina-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2416
+            },
+            {
+              "id": "sinasina-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3877
+            },
+            {
+              "id": "sinasina-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1698
+            }
+          ]
+        },
+        {
+          "id": "sinasina-yonggamugl-yonggamugl",
+          "name": "Yonggamugl LLG",
+          "electorateSlug": "sinasina-yonggamugl",
+          "wards": [
+            {
+              "id": "yonggamugl-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2181
+            },
+            {
+              "id": "yonggamugl-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2577
+            },
+            {
+              "id": "yonggamugl-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1773
+            },
+            {
+              "id": "yonggamugl-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2230
+            },
+            {
+              "id": "yonggamugl-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1802
+            },
+            {
+              "id": "yonggamugl-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1830
+            }
+          ]
+        },
+        {
+          "id": "sinasina-yonggamugl-gunangi",
+          "name": "Gunangi LLG",
+          "electorateSlug": "sinasina-yonggamugl",
+          "wards": [
+            {
+              "id": "gunangi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2337
+            },
+            {
+              "id": "gunangi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2881
+            },
+            {
+              "id": "gunangi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2066
+            },
+            {
+              "id": "gunangi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2615
+            },
+            {
+              "id": "gunangi-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1768
+            }
+          ]
+        },
+        {
+          "id": "sinasina-yonggamugl-tabare",
+          "name": "Tabare LLG",
+          "electorateSlug": "sinasina-yonggamugl",
+          "wards": [
+            {
+              "id": "tabare-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4934
+            },
+            {
+              "id": "tabare-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4339
+            },
+            {
+              "id": "tabare-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3177
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "gumine",
+      "llgs": [
+        {
+          "id": "gumine-gumine",
+          "name": "Gumine LLG",
+          "electorateSlug": "gumine",
+          "wards": [
+            {
+              "id": "gumine-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1436
+            },
+            {
+              "id": "gumine-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1526
+            },
+            {
+              "id": "gumine-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1372
+            },
+            {
+              "id": "gumine-w04",
+              "name": "Ward 4",
+              "registeredVoters": 827
+            },
+            {
+              "id": "gumine-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1139
+            },
+            {
+              "id": "gumine-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1331
+            },
+            {
+              "id": "gumine-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1586
+            },
+            {
+              "id": "gumine-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1328
+            },
+            {
+              "id": "gumine-w09",
+              "name": "Ward 9",
+              "registeredVoters": 595
+            }
+          ]
+        },
+        {
+          "id": "gumine-digine",
+          "name": "Digine LLG",
+          "electorateSlug": "gumine",
+          "wards": [
+            {
+              "id": "digine-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2388
+            },
+            {
+              "id": "digine-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1974
+            },
+            {
+              "id": "digine-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1704
+            },
+            {
+              "id": "digine-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1940
+            },
+            {
+              "id": "digine-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1420
+            },
+            {
+              "id": "digine-w06",
+              "name": "Ward 6",
+              "registeredVoters": 965
+            }
+          ]
+        },
+        {
+          "id": "gumine-golin",
+          "name": "Golin LLG",
+          "electorateSlug": "gumine",
+          "wards": [
+            {
+              "id": "golin-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1323
+            },
+            {
+              "id": "golin-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1465
+            },
+            {
+              "id": "golin-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1092
+            },
+            {
+              "id": "golin-w04",
+              "name": "Ward 4",
+              "registeredVoters": 949
+            },
+            {
+              "id": "golin-w05",
+              "name": "Ward 5",
+              "registeredVoters": 859
+            },
+            {
+              "id": "golin-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1657
+            },
+            {
+              "id": "golin-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1436
+            },
+            {
+              "id": "golin-w08",
+              "name": "Ward 8",
+              "registeredVoters": 953
+            },
+            {
+              "id": "golin-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1305
+            },
+            {
+              "id": "golin-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1037
+            }
+          ]
+        },
+        {
+          "id": "gumine-salt-nomane",
+          "name": "Salt-Nomane LLG",
+          "electorateSlug": "gumine",
+          "wards": [
+            {
+              "id": "salt-nomane-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2320
+            },
+            {
+              "id": "salt-nomane-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2364
+            },
+            {
+              "id": "salt-nomane-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1853
+            },
+            {
+              "id": "salt-nomane-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2541
+            },
+            {
+              "id": "salt-nomane-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1972
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "kerowagi",
+      "llgs": [
+        {
+          "id": "kerowagi-kerowagi",
+          "name": "Kerowagi LLG",
+          "electorateSlug": "kerowagi",
+          "wards": [
+            {
+              "id": "kerowagi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3983
+            },
+            {
+              "id": "kerowagi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2747
+            },
+            {
+              "id": "kerowagi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4086
+            },
+            {
+              "id": "kerowagi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2257
+            }
+          ]
+        },
+        {
+          "id": "kerowagi-gena-waugla",
+          "name": "Gena-Waugla LLG",
+          "electorateSlug": "kerowagi",
+          "wards": [
+            {
+              "id": "gena-waugla-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1567
+            },
+            {
+              "id": "gena-waugla-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1267
+            },
+            {
+              "id": "gena-waugla-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2971
+            },
+            {
+              "id": "gena-waugla-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1324
+            },
+            {
+              "id": "gena-waugla-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2009
+            },
+            {
+              "id": "gena-waugla-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2538
+            }
+          ]
+        },
+        {
+          "id": "kerowagi-kunabau",
+          "name": "Kunabau LLG",
+          "electorateSlug": "kerowagi",
+          "wards": [
+            {
+              "id": "kunabau-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2689
+            },
+            {
+              "id": "kunabau-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1957
+            },
+            {
+              "id": "kunabau-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1293
+            },
+            {
+              "id": "kunabau-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2945
+            },
+            {
+              "id": "kunabau-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1336
+            },
+            {
+              "id": "kunabau-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1893
+            },
+            {
+              "id": "kunabau-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2388
+            }
+          ]
+        },
+        {
+          "id": "kerowagi-mitnande",
+          "name": "Mitnande LLG",
+          "electorateSlug": "kerowagi",
+          "wards": [
+            {
+              "id": "mitnande-w01",
+              "name": "Ward 1",
+              "registeredVoters": 959
+            },
+            {
+              "id": "mitnande-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1827
+            },
+            {
+              "id": "mitnande-w03",
+              "name": "Ward 3",
+              "registeredVoters": 963
+            },
+            {
+              "id": "mitnande-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1249
+            },
+            {
+              "id": "mitnande-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1838
+            },
+            {
+              "id": "mitnande-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1214
+            },
+            {
+              "id": "mitnande-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1587
+            },
+            {
+              "id": "mitnande-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1313
+            },
+            {
+              "id": "mitnande-w09",
+              "name": "Ward 9",
+              "registeredVoters": 954
+            },
+            {
+              "id": "mitnande-w10",
+              "name": "Ward 10",
+              "registeredVoters": 996
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "karimui-nomane",
+      "llgs": [
+        {
+          "id": "karimui-nomane-karimui",
+          "name": "Karimui LLG",
+          "electorateSlug": "karimui-nomane",
+          "wards": [
+            {
+              "id": "karimui-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1018
+            },
+            {
+              "id": "karimui-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1013
+            },
+            {
+              "id": "karimui-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2062
+            },
+            {
+              "id": "karimui-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1505
+            },
+            {
+              "id": "karimui-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1962
+            },
+            {
+              "id": "karimui-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2245
+            },
+            {
+              "id": "karimui-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1325
+            }
+          ]
+        },
+        {
+          "id": "karimui-nomane-nomane",
+          "name": "Nomane LLG",
+          "electorateSlug": "karimui-nomane",
+          "wards": [
+            {
+              "id": "nomane-w01",
+              "name": "Ward 1",
+              "registeredVoters": 930
+            },
+            {
+              "id": "nomane-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1461
+            },
+            {
+              "id": "nomane-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1169
+            },
+            {
+              "id": "nomane-w04",
+              "name": "Ward 4",
+              "registeredVoters": 910
+            },
+            {
+              "id": "nomane-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2059
+            },
+            {
+              "id": "nomane-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1889
+            },
+            {
+              "id": "nomane-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1679
+            },
+            {
+              "id": "nomane-w08",
+              "name": "Ward 8",
+              "registeredVoters": 799
+            },
+            {
+              "id": "nomane-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1563
+            }
+          ]
+        },
+        {
+          "id": "karimui-nomane-daribi",
+          "name": "Daribi LLG",
+          "electorateSlug": "karimui-nomane",
+          "wards": [
+            {
+              "id": "daribi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2709
+            },
+            {
+              "id": "daribi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4233
+            },
+            {
+              "id": "daribi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 6026
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

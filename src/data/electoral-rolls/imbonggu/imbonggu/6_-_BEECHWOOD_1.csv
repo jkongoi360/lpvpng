@@ -1,0 +1,660 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160250364,"Aloma, Kandiye",F,Beechwood 1,Subsistence Farmer,01 Jan 1964
+2,25082144,"Andrew, Elis",F,Beechwood 1,Household Duties,28 Apr 1980
+3,160250361,"Angima, Nerolyn",F,Beechwood 1,Household Duties,01 Jan 1985
+4,160250516,"Angima, Rachael",F,Beechwood 1,Teacher,01 Jan 1983
+5,160442868,"Angima, Serah",F,Beechwood 1,Subsistence Farmer,24 Dec 1982
+6,160442869,"Apa, Grace",F,Beechwood 1,Subsistence Farmer,14 Nov 1994
+7,160165096,"Apa, Kina",F,Beechwood 1,Household Duties,01 Jan 1973
+8,160250535,"Appa, Joicelyn",F,Beechwood 1,Household Duties,01 Jan 1982
+9,25082177,"Appa, Joyce",F,Beechwood 1,Subsistence Farmer,28 Jun 1989
+10,25082182,"Appa, Kupini",F,Beechwood 1,Subsistence Farmer,15 Jul 1956
+11,160204676,"Arume, Linet",F,Beechwood 1,Housegirl,01 Jan 1988
+12,160128210,"Bali, Helvina",F,Beechwood 1,Subsistence Farmer,12 Nov 1989
+13,25082193,"Benjamin, Marta",F,Beechwood 1,Household Duties,28 Apr 1991
+14,25082198,"Besta, Paula",F,Beechwood 1,Household Duties,28 Jun 2002
+15,160206345,"Daniel, Cathy",F,Beechwood 1,Household Duties,01 Jan 1976
+16,160156164,"Diowai, Angella",F,Beechwood 1,Subsistence Farmer,01 Jan 1986
+17,160156157,"Diowai, Exen",F,Beechwood 1,Subsistence Farmer,01 Jan 1968
+18,160156161,"Diowai, Hellen",F,Beechwood 1,Subsistence Farmer,01 Jan 1976
+19,160156419,"Diowai, Jenny",F,Beechwood 1,Student,01 Jan 1980
+20,160156162,"Diowai, Joan",F,Beechwood 1,Subsistence Farmer,01 Jan 1958
+21,160156394,"Diowai, Lineth",F,Beechwood 1,Subsistence Farmer,01 Jan 1970
+22,160158692,"Dominic, Napiye",F,Beechwood 1,Household Duties,01 Jan 1971
+23,160158790,"Eddie, Mata",F,Beechwood 1,Household Duties,01 Jan 1968
+24,160157335,"Ekare, Kerolin",F,Beechwood 1,Household Duties,01 Jan 1986
+25,160157386,"Ekare, Linda",F,Beechwood 1,Household Duties,01 Jan 1976
+26,160157375,"Ekare, Seron",F,Beechwood 1,Household Duties,01 Jan 1958
+27,160204672,"Elepona, Maria",F,Beechwood 1,Household Duties,01 Jan 1966
+28,160206789,"Elepona, Roslyn",F,Beechwood 1,Household Duties,01 Jan 1977
+29,25082200,"Era, Alice",F,Beechwood 1,Subsistence Farmer,28 Apr 1973
+30,160250357,"Era, Carolyn",F,Beechwood 1,Student,01 Jan 1986
+31,25082213,"Era, Melili",F,Beechwood 1,Student,28 Apr 2003
+32,160250769,"Era, Monica",F,Beechwood 1,Subsistence Farmer,01 Jan 1986
+33,160442872,"Era, Tenge",F,Beechwood 1,Subsistence Farmer,13 Jul 1980
+34,25082235,"Gedion, Benzilla",F,Beechwood 1,Nurse,28 Apr 1985
+35,160168850,"Glowaiye, Lus",F,Beechwood 1,Household Duties,01 Jan 1966
+36,160206389,"Ipo, Naile",F,Beechwood 1,Subsistence Farmer,01 Jan 1939
+37,160250762,"Ipo, Rebecca",F,Beechwood 1,Student,01 Jan 1988
+38,160158720,"Jack, Matina",F,Beechwood 1,Household Duties,01 Jan 1978
+39,160155928,"James, Koladi",F,Beechwood 1,Household Duties,01 Jan 1988
+40,25082241,"Jano, Regina",F,Beechwood 1,Household Duties,28 Apr 1986
+41,25082246,"Jimmy, Lavi",F,Beechwood 1,Household Duties,15 Mar 1993
+42,160182462,"Kakula, Anjoe",F,Beechwood 1,Household Duties,01 Jan 1948
+43,160169005,"Kakula, Christina",F,Beechwood 1,Household Duties,01 Jan 1988
+44,160157487,"Kale, Margeret",F,Beechwood 1,Household Duties,01 Jan 1971
+45,160157458,"Kale, Ninde",F,Beechwood 1,Household Duties,01 Jan 1961
+46,160128249,"Kambu, Regina",F,Beechwood 1,Household Duties,01 Jan 1970
+47,160206336,"Karaiye, Jenet",F,Beechwood 1,Household Duties,01 Jan 1977
+48,160156439,"Kari, Kolabo",F,Beechwood 1,Household Duties,01 Jan 1966
+49,160156440,"Kari, Yama",F,Beechwood 1,Household Duties,01 Jan 1970
+50,160206791,"Kariye, Ewa",F,Beechwood 1,Household Duties,01 Jan 1955
+51,160165094,"Kepu, Anna",F,Beechwood 1,Household Duties,01 Jan 1968
+52,160250746,"Kera, Frida",F,Beechwood 1,Student,01 Jan 1988
+53,160250766,"Kera, Macasha",F,Beechwood 1,Student,01 Jan 1985
+54,25082270,"Kera, Ritha",F,Beechwood 1,Household Duties,26 Nov 1987
+55,160250765,"Kera, Roselyn",F,Beechwood 1,Student,01 Jan 1979
+56,160442877,"Kera, Steveny",F,Beechwood 1,Nurse,24 Oct 1998
+57,25087212,"Kereme, Angelyne",F,Beechwood 1,Household Duties,18 Jun 1975
+58,160156018,"Kereme, Bulkondo",F,Beechwood 1,Subsistence Farmer,01 Jan 1957
+59,160252359,"Kereme, Erina",F,Beechwood 1,Student,01 Jan 1991
+60,25082297,"Kereme, Evalyn",F,Beechwood 1,Student,28 Apr 2004
+61,160250756,"Kereme, Jacklyn",F,Beechwood 1,Self Employed,01 Jan 1993
+62,160156428,"Kereme, Jenifa",F,Beechwood 1,Subsistence Farmer,01 Jan 1974
+63,160155939,"Kereme, Johan",F,Beechwood 1,Household Duties,01 Jan 1980
+64,160252329,"Kereme, Meriam",F,Beechwood 1,Subsistence Farmer,01 Jan 1988
+65,160155934,"Kereme, Muru",F,Beechwood 1,Household Duties,01 Jan 1972
+66,160156043,"Kereme, Racheal",F,Beechwood 1,Subsistence Farmer,01 Jan 1976
+67,160156037,"Kereme, Regina",F,Beechwood 1,Subsistence Farmer,01 Jan 1976
+68,160156180,"Kereme, Rossy",F,Beechwood 1,Student,01 Jan 1989
+69,160442878,"Kereme, Sendra",F,Beechwood 1,Student,27 Mar 2003
+70,25082303,"Kereme, Shamillah",F,Beechwood 1,Student,28 Apr 2004
+71,160156325,"Kereme, Shelly",F,Beechwood 1,Student,01 Jan 1988
+72,160156139,"Kereme, Susan",F,Beechwood 1,Household Duties,01 Jan 1979
+73,160156458,"Kereme, Teino",F,Beechwood 1,Household Duties,01 Jan 1977
+74,160156042,"Kereme, Unjokola",F,Beechwood 1,Subsistence Farmer,01 Jan 1959
+75,160156141,"Kereme, Wendy",F,Beechwood 1,Student,01 Jan 1983
+76,160156311,"Kevin, Annia",F,Beechwood 1,Household Duties,01 Jan 1971
+77,25082315,"Kila, Edima",F,Beechwood 1,Student,28 Feb 2000
+78,160182461,"Kina, Nomi",F,Beechwood 1,Household Duties,01 Jan 1980
+79,160168851,"Kinjalo, Rusy",F,Beechwood 1,Household Duties,01 Jan 1976
+80,160252356,"Klumbu, Anna",F,Beechwood 1,Housegirl,01 Jan 1990
+81,160156447,"Kola, Racheal",F,Beechwood 1,Subsistence Farmer,01 Jan 1977
+82,160252322,"Koniye, Nancy",F,Beechwood 1,Student,01 Jan 1993
+83,25082321,"Koniye, Sivolin",F,Beechwood 1,Student,28 Apr 2000
+84,160160229,"Korowi, Anna",F,Beechwood 1,Household Duties,01 Jan 1979
+85,160442882,"Koyaiye, Brittney",F,Beechwood 1,Student,12 Feb 2002
+86,160252325,"Koyaiye, Melly",F,Beechwood 1,Household Duties,01 Jan 1986
+87,160252324,"Koyaiye, Sina",F,Beechwood 1,Student,01 Jan 1984
+88,160168832,"Kugumbu, Mit",F,Beechwood 1,Subsistence Farmer,01 Jan 1950
+89,160182618,"Kuiye, Jobet",F,Beechwood 1,Household Duties,01 Jan 1972
+90,160156190,"Kuleko, Lebo",F,Beechwood 1,Household Duties,01 Jan 1938
+91,160251796,"Kuleme, Jenneth",F,Beechwood 1,Subsistence Farmer,01 Jan 1973
+92,160251775,"Kultiye, July",F,Beechwood 1,Subsistence Farmer,01 Jan 1983
+93,160442889,"Kulume, Lenita",F,Beechwood 1,Student,15 Oct 2001
+94,160168853,"Kuno, Mapingi",F,Beechwood 1,Household Duties,01 Jan 1963
+95,160252318,"Langai, Emolyn",F,Beechwood 1,Student,01 Jan 1991
+96,25082330,"Langai, Jamin",F,Beechwood 1,Student,28 Jul 2000
+97,160252370,"Langi, Christal",F,Beechwood 1,Student,01 Jan 1990
+98,160251786,"Langi, Pricela",F,Beechwood 1,Student,01 Jan 1988
+99,160128266,"Lari, Linnethria",F,Kavepena,Student,23 Nov 1989
+100,160157355,"Las, Ambowangono",F,Beechwood 1,Subsistence Farmer,01 Jan 1936
+101,160157353,"Las, Poenge",F,Beechwood 1,Subsistence Farmer,01 Jan 1976
+102,160156312,"Limbiye, Anna",F,Beechwood 1,Household Duties,01 Jan 1972
+103,160156036,"Lipu, Epame",F,Beechwood 1,Household Duties,01 Jan 1946
+104,160206324,"Makaiye, Henny",F,Beechwood 1,Subsistence Farmer,01 Jan 1977
+105,160206323,"Makaiye, Maria",F,Beechwood 1,Household Duties,01 Jan 1978
+106,160206792,"Makaiye, Molombo",F,Beechwood 1,Household Duties,01 Jan 1956
+107,160206329,"Makaiye, Roslyn",F,Beechwood 1,Household Duties,01 Jan 1980
+108,160156305,"Makinje, Aketa",F,Beechwood 1,Household Duties,01 Jan 1958
+109,160252514,"Makinje, Dolly",F,Beechwood 1,Subsistence Farmer,01 Jan 1984
+110,160156181,"Makinje, Elly",F,Beechwood 1,Household Duties,01 Jan 1984
+111,160442894,"Makinje, Elvina",F,Beechwood 1,Subsistence Farmer,15 Jun 1998
+112,160252354,"Makinje, Rachael",F,Beechwood 1,Student,01 Jan 1990
+113,160128208,"Makinje, Regina",F,Beechwood 1,Student,09 Feb 1999
+114,25082340,"Malaki, Milred",F,Beechwood 1,Household Duties,15 Jan 1997
+115,160163459,"Malto, Ande",F,Beechwood 1,Household Duties,01 Jan 1945
+116,160168849,"Malto, Kewabo",F,Beechwood 1,Household Duties,01 Jan 1946
+117,160252512,"Mamili, Carolyn",F,Beechwood 1,Subsistence Farmer,01 Jan 1982
+118,160128257,"Mamili, Kuru",F,Kavepena,Household Duties,01 Jan 1957
+119,160252510,"Mamili, Leia",F,Beechwood 1,Student,01 Jan 1990
+120,160252509,"Mamili, Leoni",F,Beechwood 1,Student,01 Jan 1987
+121,160252363,"Mamili, Linda",F,Beechwood 1,Student,01 Jan 1990
+122,160252511,"Mamili, Lineth",F,Beechwood 1,Student,01 Jan 1980
+123,160128256,"Mamili, Mombo",F,Kavepena,Household Duties,01 Jan 1948
+124,160136564,"Mamili, Susan",F,Kavepena,Household Duties,01 Jan 1969
+125,160157389,"Mape, Susan",F,Beechwood 1,Household Duties,01 Jan 1963
+126,160252501,"Marowa, Kina",F,Beechwood 1,Household Duties,01 Jan 1982
+127,160442896,"Marowa, Vicky",F,Beechwood 1,Student,19 Jun 2002
+128,160160069,"Merowa, Kolombaine",F,Beechwood 1,Subsistence Farmer,01 Jan 1956
+129,25082354,"Merowa, Wenda",F,Beechwood 1,Self Employed,28 Apr 1997
+130,25082359,"Mike, Anita",F,Beechwood 1,Household Duties,19 Mar 2000
+131,160158696,"Mita, Wendy",F,Beechwood 1,Household Duties,01 Jan 1984
+132,160157463,"Mita, Wepa",F,Beechwood 1,Household Duties,01 Jan 1966
+133,160128273,"Mukiye, Mombo",F,Kavepena,Student,16 Sep 1997
+134,160128092,"Mukiye, Salomi",F,Kavepena,Student,16 Jan 1999
+135,160128271,"Mukiye, Wambari",F,Kavepena,Student,21 Feb 1993
+136,160206491,"Mune, Wameambo",F,Beechwood 1,Household Duties,01 Jan 1967
+137,160158784,"Namba, Metrina",F,Beechwood 1,Household Duties,01 Jan 1989
+138,160158782,"Namba, Mini",F,Beechwood 1,Household Duties,01 Jan 1948
+139,160158721,"Namba, Robina",F,Beechwood 1,Household Duties,01 Jan 1990
+140,160128083,"Nanua, Glopambo",F,Kavepena,Household Duties,11 Dec 1963
+141,160156002,"Napa, Bepi",F,Beechwood 1,Subsistence Farmer,01 Jan 1956
+142,160156003,"Napa, Magret",F,Beechwood 1,Student,01 Jan 1986
+143,25082366,"Nelson, Kemala",F,Beechwood 1,Teacher,28 Apr 2004
+144,25082372,"Nelson, Maria",F,Beechwood 1,Household Duties,28 Jun 1990
+145,160157486,"Nike, Jipi",F,Beechwood 1,Household Duties,01 Jan 1940
+146,160136561,"Nindie, Mane",F,Beechwood 1,Household Duties,01 Jan 1948
+147,160252339,"Nindiye, Cathy",F,Beechwood 1,Subsistence Farmer,01 Jan 1985
+148,160252497,"Nindiye, Feona",F,Beechwood 1,Household Duties,01 Jan 1983
+149,160442902,"Nindiye, Freda",F,Beechwood 1,Student,13 Oct 2001
+150,160442904,"Nindiye, Mali",F,Beechwood 1,Student,25 May 1999
+151,160442907,"Nindiye, Shelina",F,Beechwood 1,Student,17 Sep 2000
+152,160252437,"Nindiye, Stella",F,Beechwood 1,Student,01 Jan 1992
+153,160156150,"Ninge, Lin",F,Beechwood 1,Subsistence Farmer,01 Jan 1976
+154,160252334,"Niye, Ales",F,Beechwood 1,Subsistence Farmer,01 Jan 1992
+155,160252439,"Niye, Cathy",F,Beechwood 1,Subsistence Farmer,01 Jan 1986
+156,160442908,"Niye, Ita",F,Beechwood 1,Household Duties,11 Oct 1993
+157,160442909,"Niye, Kristina",F,Beechwood 1,Student,10 Feb 2002
+158,160206483,"Nolepo, Cathy kie",F,Beechwood 1,Household Duties,01 Jan 1979
+159,160207264,"Nolepo, Jenipher",F,Beechwood 1,Household Duties,01 Jan 1968
+160,160128232,"Noma, Anna",F,Beechwood 1,Household Duties,18 Jun 1965
+161,160252442,"Noma, Charoty",F,Beechwood 1,Student,01 Jan 1990
+162,160252494,"Noma, Fiona",F,Beechwood 1,Student,01 Jan 1993
+163,160252441,"Noma, Jane",F,Beechwood 1,Subsistence Farmer,01 Jan 1984
+164,160252332,"Noma, Josephine",F,Beechwood 1,Student,01 Jan 1990
+165,160252331,"Noma, Noan",F,Beechwood 1,Household Duties,01 Jan 1983
+166,160128235,"Noma, Penapeli",F,Beechwood 1,Household Duties,01 Jan 1945
+167,160128231,"Noma, Pilembo",F,Beechwood 1,Household Duties,19 Feb 1999
+168,160136557,"Noma, Sandy",F,Beechwood 1,Subsistence Farmer,01 Jan 1972
+169,160128233,"Noma, Tenge",F,Beechwood 1,Household Duties,01 Jan 1965
+170,160128274,"Normen, Esther",F,Kavepena,Household Duties,25 Sep 1979
+171,160252435,"Olo, Justina",F,Beechwood 1,Student,01 Jan 1994
+172,160251743,"Olo, Leanet",F,Beechwood 1,Subsistence Farmer,01 Jan 1989
+173,160251792,"Opa, Cindra",F,Beechwood 1,Student,01 Jan 1986
+174,160251791,"Opa, Dian",F,Beechwood 1,Student,01 Jan 1990
+175,160442916,"Opa, Emma",F,Beechwood 1,Student,17 May 2002
+176,160155931,"Opa, Rosly",F,Beechwood 1,Household Duties,01 Jan 1969
+177,160251797,"Opa, Sila",F,Beechwood 1,Subsistence Farmer,01 Jan 1980
+178,160128264,"Paka, Alira",F,Kavepena,Household Duties,20 Feb 1992
+179,160158793,"Pale, Glawa",F,Beechwood 1,Household Duties,01 Jan 1942
+180,160158794,"Pale, Kaite",F,Beechwood 1,Household Duties,01 Jan 1942
+181,160172096,"Pani, Baleno",F,Beechwood 1,Subsistence Farmer,01 Jan 1935
+182,160156058,"Pani, Perona",F,Beechwood 1,Subsistence Farmer,01 Jan 1960
+183,160165097,"Paru, Angela",F,Beechwood 1,Household Duties,01 Jan 1989
+184,160163472,"Paru, Makabo",F,Beechwood 1,Household Duties,01 Jan 1942
+185,160163462,"Paru, Nidebo",F,Beechwood 1,Household Duties,01 Jan 1964
+186,160442920,"Pasinga, Jesinta",F,Beechwood 1,Subsistence Farmer,17 Oct 1990
+187,160157459,"Pembo, Maria",F,Beechwood 1,Household Duties,01 Jan 1980
+188,160158694,"Peter, Helen",F,Beechwood 1,Household Duties,01 Jan 1968
+189,25082376,"Peter, Rachael",F,Beechwood 1,Household Duties,28 Apr 1979
+190,160156309,"Peya, Josephine",F,Beechwood 1,Household Duties,01 Jan 1976
+191,160128270,"Pilimbo, Tomambo",F,Kavepena,Household Duties,19 Feb 1958
+192,160206251,"Pokeya, Apukembo",F,Beechwood 1,Subsistence Farmer,01 Jan 1936
+193,25082384,"Pombra, Anita",F,Beechwood 1,Student,28 Feb 2002
+194,25082388,"Pombra, Silah",F,Beechwood 1,Student,28 Apr 2004
+195,160171932,"Pora, Tomagi",F,Beechwood 1,Household Duties,01 Jan 1978
+196,160169006,"Porowe, Ekabo",F,Beechwood 1,Household Duties,01 Jan 1942
+197,160165100,"Porowe, Ema",F,Beechwood 1,Household Duties,01 Jan 2000
+198,160156050,"Poya, Bembo",F,Beechwood 1,Household Duties,01 Jan 1956
+199,160156302,"Poya, Kerolin",F,Beechwood 1,Household Duties,01 Jan 1988
+200,160156184,"Poya, Masia",F,Beechwood 1,Household Duties,01 Jan 1986
+201,160155929,"Poya, Rony",F,Beechwood 1,Household Duties,01 Jan 1983
+202,160182608,"Pulu, Matina",F,Beechwood 1,Household Duties,01 Jan 1978
+203,160157369,"Puri, Jenifer",F,Beechwood 1,Household Duties,01 Jan 1983
+204,160157481,"Puru, Janet",F,Beechwood 1,Student,01 Jan 1988
+205,160158691,"Puru, Kilok",F,Beechwood 1,Subsistence Farmer,01 Jan 1956
+206,160157480,"Puru, Rose",F,Beechwood 1,Student,01 Jan 1986
+207,160157379,"Puru, Tebono",F,Beechwood 1,Subsistence Farmer,01 Jan 1966
+208,160442925,"Remo, Apoloni",F,Beechwood 1,Student,27 Jan 2002
+209,160128254,"Remo, Faith",F,Kavepena,Student,04 May 1995
+210,160136563,"Remo, Noelin",F,Kavepena,Student,12 Feb 1999
+211,25082394,"Rex, Christolyn",F,Beechwood 1,Student,15 Aug 2000
+212,160128262,"Robert, Gloria",F,Kavepena,Household Duties,27 Feb 1988
+213,25082400,"Roger, Christy",F,Beechwood 1,Household Duties,28 Apr 1992
+214,25082404,"Sam, Roselyn",F,Beechwood 1,Teacher,15 Dec 1978
+215,25082409,"Seeto, Fleena",F,Beechwood 1,Accountant,28 Apr 1988
+216,25082417,"Sent, Margret",F,Beechwood 1,Household Duties,28 Apr 1985
+217,25082419,"Simon, Carolyn",F,Beechwood 1,Household Duties,28 Apr 1995
+218,25082424,"Stephen, Stephlyn",F,Beechwood 1,Student,17 Aug 2000
+219,160251789,"Talopa, Betty",F,Beechwood 1,Subsistence Farmer,01 Jan 1984
+220,160251769,"Talopa, Faith",F,Beechwood 1,Subsistence Farmer,01 Jan 1986
+221,160251768,"Talopa, Joy",F,Beechwood 1,Student,01 Jan 1982
+222,160251788,"Talopa, Lean",F,Beechwood 1,Student,01 Jan 1987
+223,160252352,"Talopa, Sovi",F,Beechwood 1,Student,01 Jan 1988
+224,160252365,"Talopa, Viki",F,Beechwood 1,Student,01 Jan 1990
+225,160156443,"Tambi, Jesica",F,Beechwood 1,Household Duties,01 Jan 1976
+226,160156438,"Tambi, Kanibabo",F,Beechwood 1,Household Duties,01 Jan 1946
+227,160156314,"Tambi, Mare",F,Beechwood 1,Household Duties,01 Jan 1966
+228,160156315,"Tambi, Moli",F,Beechwood 1,Household Duties,01 Jan 1976
+229,160156032,"Tambi, Perepabo",F,Beechwood 1,Household Duties,01 Jan 1970
+230,160156005,"Tambi, Temoi",F,Beechwood 1,Household Duties,01 Jan 1946
+231,160136550,"Tame, Jacklyn",F,Beechwood 1,Student,28 Mar 1999
+232,160128209,"Tame, Monicah",F,Beechwood 1,Subsistence Farmer,01 Nov 1996
+233,160442929,"Tame, Naiomi",F,Beechwood 1,Student,16 Nov 2001
+234,160136551,"Tame, Niomi",F,Beechwood 1,Student,30 Dec 1998
+235,160128228,"Tamo, Korowambo",F,Beechwood 1,Student,19 Mar 1995
+236,160128253,"Tapa, Adora",F,Kavepena,Student,04 Jan 1999
+237,160156413,"Tawa, Boti",F,Beechwood 1,Subsistence Farmer,01 Jan 1968
+238,160252350,"Tawa, Faith",F,Beechwood 1,Student,01 Jan 1992
+239,160442933,"Tawa, Fredelma",F,Beechwood 1,Student,29 Nov 2001
+240,160252351,"Tawa, Pricela",F,Beechwood 1,Subsistence Farmer,01 Jan 1990
+241,160252358,"Tawa, Sopia",F,Beechwood 1,Student,01 Jan 1992
+242,160158730,"Tendepaine, Deni",F,Beechwood 1,Household Duties,01 Jan 1976
+243,160158729,"Tendepaine, Mainege",F,Beechwood 1,Household Duties,01 Jan 1948
+244,160128240,"Tendi, Esther",F,Beechwood 1,Household Duties,18 Jul 1982
+245,160136558,"Tendi, Topo",F,Beechwood 1,Household Duties,01 Jan 1962
+246,160128085,"Tendili, Kellen",F,Kavepena,Household Duties,08 Mar 1970
+247,160156300,"Tenge, Loka",F,Beechwood 1,Household Duties,01 Jan 1976
+248,160128087,"Tennis, Regina",F,Kavepena,Household Duties,10 Oct 1980
+249,160156154,"Thomas, Clare",F,Beechwood 1,Subsistence Farmer,01 Jan 1955
+250,25082575,"Thomas, Doreen",F,Beechwood 1,Teacher,15 Jan 1979
+251,160157405,"Thomas, Esther",F,Beechwood 1,Student,01 Jan 1986
+252,160155925,"Thomas, Moiye",F,Beechwood 1,Household Duties,01 Jan 1976
+253,160156403,"Thomas, Wali",F,Beechwood 1,Student,01 Jan 1981
+254,25082579,"Thomson, Sussie",F,Beechwood 1,Student,28 Apr 2004
+255,160156488,"Timbo, Eiyembo",F,Beechwood 1,Household Duties,01 Jan 1958
+256,25082582,"Timothy, Cathy",F,Beechwood 1,Household Duties,06 Jul 2000
+257,160206340,"Tipora, Polin",F,Beechwood 1,Household Duties,01 Jan 1980
+258,160206338,"Toiye, Lein",F,Beechwood 1,Household Duties,01 Jan 1982
+259,160206331,"Tommy, Theresa",F,Beechwood 1,Household Duties,01 Jan 1974
+260,160158717,"Topele, Tawame",F,Beechwood 1,Subsistence Farmer,01 Jan 1956
+261,25082587,"Tuku, Alice",F,Beechwood 1,Subsistence Farmer,28 Apr 1974
+262,160165102,"Ulu, Kulupine",F,Beechwood 1,Household Duties,01 Jan 1956
+263,160163465,"Ulu, Lina",F,Beechwood 1,Household Duties,01 Jan 1989
+264,160156449,"Unjo, Cathy",F,Beechwood 1,Student,01 Jan 1990
+265,160156422,"Unjo, Kowambo",F,Beechwood 1,Subsistence Farmer,01 Jan 1976
+266,160156014,"Unjo, Kuku",F,Beechwood 1,Subsistence Farmer,01 Jan 1981
+267,160442937,"Uru, Amenda",F,Beechwood 1,Subsistence Farmer,18 Jul 1995
+268,160136379,"Wain, Cathy",F,Kavepena,Storeman,01 Jan 1989
+269,160158708,"Waiye, Clare",F,Beechwood 1,Student,01 Jan 1987
+270,160158716,"Waiye, Jennifer",F,Beechwood 1,Student,01 Jan 1988
+271,160158715,"Waiye, Nemaino",F,Beechwood 1,Subsistence Farmer,01 Jan 1954
+272,160158707,"Waiye, Peni",F,Beechwood 1,Student,01 Jan 1981
+273,160158889,"Waki, Becky",F,Beechwood 1,Subsistence Farmer,01 Jan 1976
+274,160160088,"Waki, Merolyn",F,Beechwood 1,Student,01 Jan 1979
+275,160160087,"Waki, Pileme",F,Beechwood 1,Subsistence Farmer,01 Jan 1960
+276,160163468,"Wane, Julie",F,Beechwood 1,Household Duties,01 Jan 1986
+277,160169012,"Wane, Temane",F,Beechwood 1,Household Duties,01 Jan 1971
+278,25082603,"Wapea, Jenny",F,Beechwood 1,Subsistence Farmer,28 Apr 1980
+279,25082607,"Wapeya, Joycelyn",F,Beechwood 1,Self Employed,28 Apr 1985
+280,160152056,"Wapoi, Regina",F,Beechwood 1,Subsistence Farmer,01 Jan 1980
+281,160153723,"Wapoi, Roselyn",F,Beechwood 1,Student,01 Jan 1980
+282,160152051,"Wapoi, Wikai",F,Beechwood 1,Subsistence Farmer,01 Jan 1969
+283,160206487,"Warea, Alice",F,Beechwood 1,Household Duties,01 Jan 1980
+284,160206495,"Warea, Lewa",F,Beechwood 1,Housegirl,01 Jan 1988
+285,160206320,"Warea, Mageret",F,Beechwood 1,Household Duties,01 Jan 1986
+286,160206488,"Warea, Penga",F,Beechwood 1,Household Duties,01 Jan 1956
+287,160156460,"Wareka, Avila",F,Beechwood 1,Subsistence Farmer,01 Jan 1981
+288,160157471,"Wareka, Carolyn",F,Beechwood 1,Student,01 Jan 1985
+289,160156409,"Wareka, Jannifer",F,Beechwood 1,Student,01 Jan 1986
+290,160157395,"Wareka, Marcia",F,Beechwood 1,Student,01 Jan 1989
+291,160157398,"Wareka, Mepeli",F,Beechwood 1,Household Duties,01 Jan 1969
+292,160156462,"Wareka, Nangu",F,Beechwood 1,Subsistence Farmer,01 Jan 1937
+293,160157467,"Wareka, Punda",F,Beechwood 1,Household Duties,01 Jan 1961
+294,160251778,"Wareke, Ruthy",F,Beechwood 1,Student,01 Jan 1992
+295,160442961,"Wareya, Kukiss",F,Beechwood 1,Subsistence Farmer,11 Oct 2000
+296,160158711,"Wariye, Nini",F,Beechwood 1,Subsistence Farmer,01 Jan 1948
+297,160206635,"Wiko, Eli",F,Beechwood 1,Household Duties,01 Jan 1985
+298,160206634,"Wiko, Jenet",F,Beechwood 1,Household Duties,01 Jan 1971
+299,160157381,"William, Noino",F,Beechwood 1,Subsistence Farmer,01 Jan 1960
+300,25082622,"William, Raita",F,Beechwood 1,Baby Sitter,28 Apr 1994
+301,25082626,"Winni, Sindia",F,Beechwood 1,Household Duties,28 Apr 1984
+302,160206489,"Yako, Aketa",F,Beechwood 1,Household Duties,01 Jan 1955
+303,160206490,"Yako, Ale",F,Beechwood 1,Household Duties,01 Jan 1977
+304,160442964,"Yako, Judy",F,Beechwood 1,Household Duties,16 May 1988
+305,160204669,"Yako, Mageret",F,Beechwood 1,Household Duties,01 Jan 1956
+306,160442966,"Yako, Natasha",F,Beechwood 1,Student,15 Jul 2000
+307,160442967,"Yako, Nelisa",F,Beechwood 1,Student,04 Jun 1998
+308,160157766,"Yako, Pilembo",F,Beechwood 1,Household Duties,01 Jan 1942
+309,160204671,"Yako, Susen",F,Beechwood 1,Household Duties,01 Jan 1976
+310,160156411,"Yala, Merolin",F,Beechwood 1,Household Duties,01 Jan 1984
+311,160156399,"Yala, Susi",F,Beechwood 1,Household Duties,01 Jan 1976
+312,160156169,"Yala, Toipembo",F,Beechwood 1,Subsistence Farmer,01 Jan 1957
+313,160157385,"Yombi, Anege",F,Beechwood 1,Subsistence Farmer,01 Jan 1982
+314,160136559,"Yombi, Nino",F,Beechwood 1,Subsistence Farmer,01 Jan 1969
+315,160157382,"Yombi, Nipili",F,Beechwood 1,Subsistence Farmer,01 Jan 1947
+316,160136560,"Yombi, Ronda",F,Beechwood 1,Household Duties,11 Sep 1982
+317,160128245,"Yombi, Sheron",F,Beechwood 1,Household Duties,01 Jan 1989
+318,160252328,"Yoreya, Liya",F,Beechwood 1,Subsistence Farmer,01 Jan 1991
+319,160252345,"Yoreya, Puke",F,Beechwood 1,Subsistence Farmer,01 Jan 1985
+320,160250406,"Aloma, Bani",M,Beechwood 1,Subsistence Farmer,01 Jan 1984
+321,160250433,"Aloma, Kuiye",M,Beechwood 1,Subsistence Farmer,01 Jan 1960
+322,160250431,"Aloma, Martin",M,Beechwood 1,Subsistence Farmer,01 Jan 1982
+323,160250365,"Aloma, Salias",M,Beechwood 1,Subsistence Farmer,01 Jan 1980
+324,160250363,"Aloma, Yako",M,Beechwood 1,Student,01 Jan 1994
+325,160250358,"Angima, Lamaiye",M,Beechwood 1,Self Employed,01 Jan 1950
+326,160442867,"Angima, Samson",M,Beechwood 1,Driver,20 Oct 1985
+327,160128269,"Apa, Mukiye",M,Kavepena,Subsistence Farmer,12 Dec 1956
+328,25082148,"Apa, Nelson",M,Beechwood 1,Subsistence Farmer,17 Jun 1972
+329,160168848,"Ape, Kinjalo",M,Beechwood 1,Subsistence Farmer,01 Jan 1971
+330,25082154,"Apo, Tuku",M,Beechwood 1,Subsistence Farmer,28 Apr 1955
+331,160250395,"Appa, Ben",M,Beechwood 1,Subsistence Farmer,01 Jan 1984
+332,25082158,"Appa, Charles",M,Beechwood 1,Subsistence Farmer,28 Oct 1994
+333,25082163,"Appa, Joe",M,Beechwood 1,Accountant,28 Apr 1997
+334,25082168,"Appa, Joel",M,Beechwood 1,Subsistence Farmer,28 Apr 1986
+335,25082170,"Appa, John",M,Beechwood 1,Subsistence Farmer,13 Feb 1967
+336,160250767,"Appa, Neki",M,Beechwood 1,Subsistence Farmer,01 Jan 1980
+337,25082188,"Appa, Noel",M,Beechwood 1,Self Employed,12 May 1992
+338,160250510,"Appa, Rocky",M,Beechwood 1,Student,01 Jan 1991
+339,160250508,"Appa, Yoni",M,Beechwood 1,Student,01 Jan 1990
+340,160204674,"Arume, Palus",M,Beechwood 1,Student,01 Jan 1984
+341,160156405,"Dowai, Konbi",M,Beechwood 1,Subsistence Farmer,01 Jan 1975
+342,160157373,"Ekare, Kevin",M,Beechwood 1,Policeman,01 Jan 1956
+343,160206628,"Elepon, Steven",M,Beechwood 1,Student,01 Jan 1988
+344,160204675,"Elepona, Dominic",M,Beechwood 1,Subsistence Farmer,01 Jan 1960
+345,160204673,"Elepona, Joseph",M,Beechwood 1,Subsistence Farmer,01 Jan 1961
+346,160206322,"Elepona, Moses",M,Beechwood 1,Subsistence Farmer,01 Jan 1990
+347,160250399,"Era, Charley",M,Beechwood 1,Security,01 Jan 1982
+348,25082209,"Era, Henry",M,Beechwood 1,Accountant,28 Apr 1959
+349,160442871,"Era, Keto",M,Beechwood 1,Student,18 May 2002
+350,160250382,"Era, Laden",M,Beechwood 1,Student,01 Jan 1993
+351,25082220,"Era, Monda",M,Beechwood 1,Subsistence Farmer,15 Jul 1973
+352,25082225,"Era, Niningi",M,Beechwood 1,Accountant,28 Sep 1967
+353,25082232,"Era, Pis",M,Beechwood 1,Subsistence Farmer,28 Nov 1988
+354,160250770,"Era, Taiye",M,Beechwood 1,Student,01 Jan 1983
+355,160442873,"Gibson, Kera",M,Beechwood 1,Driver,21 Oct 1998
+356,160158733,"Goraiye, Nombri",M,Beechwood 1,Subsistence Farmer,01 Jan 1989
+357,160156320,"Kakeiye, Tenge",M,Beechwood 1,Subsistence Farmer,01 Jan 1975
+358,160168855,"Kakula, Amos",M,Beechwood 1,Subsistence Farmer,01 Jan 1980
+359,160182613,"Kakula, Jeff",M,Beechwood 1,Subsistence Farmer,01 Jan 1976
+360,160182610,"Kakula, Joseph",M,Beechwood 1,Subsistence Farmer,01 Jan 1946
+361,160169011,"Kakula, Mark",M,Beechwood 1,Subsistence Farmer,01 Jan 1982
+362,160157489,"Kale, James",M,Beechwood 1,Subsistence Farmer,01 Jan 1986
+363,160157488,"Kale, Pembo",M,Beechwood 1,Subsistence Farmer,01 Jan 1980
+364,160157371,"Kale, Peter",M,Beechwood 1,Subsistence Farmer,01 Jan 1986
+365,160128248,"Kambu, Yunu",M,Beechwood 1,Self Employed,01 Jan 1973
+366,160158777,"Kana, Waiye",M,Beechwood 1,Subsistence Farmer,01 Jan 1956
+367,160206793,"Karaiye, James",M,Beechwood 1,Subsistence Farmer,01 Jan 1987
+368,160206332,"Karaiye, John",M,Beechwood 1,Subsistence Farmer,01 Jan 1978
+369,160206333,"Karaiye, Markson aiye",M,Beechwood 1,Subsistence Farmer,01 Jan 1985
+370,160156027,"Kari, Junior",M,Beechwood 1,Subsistence Farmer,01 Jan 1989
+371,160156297,"Kari, Vincent",M,Beechwood 1,Subsistence Farmer,01 Jan 1988
+372,160206334,"Kelgaiye, Steven",M,Beechwood 1,Subsistence Farmer,01 Jan 1941
+373,160250370,"Kera, Jeremiay",M,Beechwood 1,Student,01 Jan 1980
+374,25082252,"Kera, Kaile",M,Beechwood 1,Driver,28 Apr 1964
+375,25082258,"Kera, Kandiye",M,Beechwood 1,Hostess,11 Jul 1972
+376,25082264,"Kera, Mike",M,Beechwood 1,Administrator,12 Apr 1992
+377,25082276,"Kera, Timothy",M,Beechwood 1,Pastor,04 Sep 1973
+378,25082285,"Kereme, Authur",M,Beechwood 1,Student,21 Oct 2001
+379,160251713,"Kereme, Bradly",M,Beechwood 1,Student,01 Jan 1992
+380,25082291,"Kereme, Brian",M,Beechwood 1,Announcer,28 Apr 2004
+381,160252321,"Kereme, Elias",M,Beechwood 1,Student,01 Jan 1989
+382,160155943,"Kereme, Henry",M,Beechwood 1,Student,01 Jan 1977
+383,160156482,"Kereme, Issac",M,Beechwood 1,Student,01 Jan 1989
+384,160156136,"Kereme, John",M,Beechwood 1,Councillor,01 Jan 1969
+385,160156138,"Kereme, Luke",M,Beechwood 1,Subsistence Farmer,01 Jan 1976
+386,160155936,"Kereme, Philimon",M,Beechwood 1,Student,01 Jan 1978
+387,160156135,"Kereme, Sam",M,Beechwood 1,Student,01 Jan 1987
+388,160442879,"Kereme, Solo",M,Beechwood 1,Student,15 Jan 1997
+389,160156322,"Kereme, Ulu",M,Beechwood 1,Public Servant,01 Jan 1957
+390,160156456,"Kereme, Waima",M,Beechwood 1,Subsistence Farmer,01 Jan 1979
+391,25082309,"Kila, Adrian",M,Beechwood 1,Student,28 Apr 2004
+392,160156168,"Koipa, Yala",M,Beechwood 1,Subsistence Farmer,01 Jan 1951
+393,160156416,"Kola, Ares",M,Beechwood 1,Subsistence Farmer,01 Jan 1970
+394,160206337,"Kolemba, Toiye",M,Beechwood 1,Subsistence Farmer,01 Jan 1978
+395,160206330,"Kolemba, Tommy",M,Beechwood 1,Self Employed,01 Jan 1976
+396,25082327,"Korowi, Issac",M,Beechwood 1,Student,28 Jan 1994
+397,160160084,"Korowi, Owen",M,Beechwood 1,Pastor,01 Jan 1982
+398,160252323,"Koyaiye, Onil",M,Beechwood 1,Student,01 Jan 1986
+399,160442883,"Koyaiye, Rayan",M,Beechwood 1,Driver,01 May 1997
+400,160252330,"Koyiaye, Justin",M,Beechwood 1,Driver,01 Jan 1983
+401,160168833,"Kugumbu, Nembo",M,Beechwood 1,Subsistence Farmer,01 Jan 1940
+402,160158894,"Kugumbu, Tom",M,Beechwood 1,Subsistence Farmer,01 Jan 1972
+403,160158726,"Kugumbu, Tugu",M,Beechwood 1,Subsistence Farmer,01 Jan 1960
+404,160158722,"Kugumbu, Wapo",M,Beechwood 1,Subsistence Farmer,01 Jan 1940
+405,160156304,"Kuleko, Makinje",M,Beechwood 1,Subsistence Farmer,01 Jan 1958
+406,160155932,"Kuleko, Pora",M,Beechwood 1,Subsistence Farmer,01 Jan 1974
+407,160172115,"Kuleko, Tiye",M,Beechwood 1,Subsistence Farmer,01 Jan 1978
+408,160252344,"Kuleme, Jeffery",M,Beechwood 1,Self Employed,01 Jan 1981
+409,160251795,"Kuleme, Kuleko",M,Beechwood 1,Subsistence Farmer,01 Jan 1980
+410,160252364,"Kuleme, Palus",M,Beechwood 1,Subsistence Farmer,01 Jan 1987
+411,160172093,"Kultiye, Pora",M,Beechwood 1,Subsistence Farmer,01 Jan 1979
+412,160442888,"Kulume, Bembo",M,Beechwood 1,Subsistence Farmer,20 Sep 1974
+413,160163461,"Kuno, Jeffrey",M,Beechwood 1,Subsistence Farmer,01 Jan 1986
+414,160168854,"Kuno, Stanley",M,Beechwood 1,Subsistence Farmer,01 Jan 2000
+415,160158895,"Kup, Wariye",M,Beechwood 1,Subsistence Farmer,01 Jan 1950
+416,160442893,"Langai, Wiko",M,Beechwood 1,Student,19 May 1996
+417,160252369,"Langi, Cains",M,Beechwood 1,Student,01 Jan 1991
+418,160252319,"Langi, Kingsford",M,Beechwood 1,Student,01 Jan 1990
+419,160252353,"Langi, Nakanol",M,Beechwood 1,Student,01 Jan 1986
+420,160251785,"Langi, Philimon",M,Beechwood 1,Student,01 Jan 1986
+421,160128267,"Lari, Breadley",M,Kavepena,Student,17 Apr 1992
+422,160128268,"Lari, Kingsley",M,Kavepena,Student,21 Feb 1998
+423,160156152,"Loko, Las",M,Beechwood 1,Subsistence Farmer,01 Jan 1971
+424,160128241,"Makai, Yombi",M,Beechwood 1,Subsistence Farmer,01 Jan 1940
+425,160206618,"Makaiye, Frencis",M,Beechwood 1,Subsistence Farmer,01 Jan 1965
+426,160206335,"Makaiye, Joel",M,Beechwood 1,Subsistence Farmer,01 Jan 1976
+427,160206619,"Makaiye, Paul",M,Beechwood 1,Subsistence Farmer,01 Jan 1972
+428,160156182,"Makinje, Charlie",M,Beechwood 1,Subsistence Farmer,01 Jan 1988
+429,160252316,"Makinje, Enimol",M,Beechwood 1,Self Employed,01 Jan 1983
+430,160128207,"Makinje, Gibson",M,Beechwood 1,Student,21 Feb 1997
+431,160252513,"Makinje, Iven",M,Beechwood 1,Subsistence Farmer,01 Jan 1982
+432,160156196,"Makinje, Kelly",M,Beechwood 1,Subsistence Farmer,01 Jan 1986
+433,160156307,"Makinje, Peya",M,Beechwood 1,Subsistence Farmer,01 Jan 1976
+434,160252362,"Makinje, Steven",M,Beechwood 1,Self Employed,01 Jan 1980
+435,160128082,"Makinje, Tekulu",M,Kavepena,Subsistence Farmer,03 Mar 1960
+436,160163460,"Malto, Glowaiye",M,Beechwood 1,Subsistence Farmer,01 Jan 1961
+437,160182609,"Malto, Jacob",M,Beechwood 1,Subsistence Farmer,01 Jan 1980
+438,160182607,"Malto, Kina",M,Beechwood 1,Subsistence Farmer,01 Jan 1976
+439,160182617,"Malto, Kuiye",M,Beechwood 1,Subsistence Farmer,01 Jan 1968
+440,160168852,"Malto, Kuno",M,Beechwood 1,Subsistence Farmer,01 Jan 1963
+441,160182606,"Malto, Pulu",M,Beechwood 1,Subsistence Farmer,01 Jan 1976
+442,25082345,"Mambu, Jimmy",M,Beechwood 1,Accountant,15 Jan 1992
+443,160252317,"Mamili, Monda",M,Beechwood 1,Self Employed,01 Jan 1955
+444,160128265,"Mandea, Lari",M,Kavepena,Accountant,03 Mar 1965
+445,160157390,"Mape, Karia",M,Beechwood 1,Subsistence Farmer,01 Jan 1964
+446,160252361,"Marowa, Pamenda",M,Beechwood 1,Driver,01 Jan 1979
+447,160252500,"Marowa, Slaven",M,Beechwood 1,Student,01 Jan 1991
+448,160442895,"Marowa, Somera",M,Beechwood 1,Subsistence Farmer,17 Aug 1997
+449,160158781,"Mek, Namba",M,Beechwood 1,Subsistence Farmer,01 Jan 1946
+450,160163467,"Merowa, Niwi",M,Beechwood 1,Subsistence Farmer,01 Jan 1955
+451,25087223,"Merowa, Wan",M,Beechwood 1,Self Employed,28 Apr 1999
+452,160163475,"Merowa, Yombi",M,Beechwood 1,Subsistence Farmer,01 Jan 1966
+453,160157370,"Mita, Gibson",M,Beechwood 1,Subsistence Farmer,01 Jan 1987
+454,160128090,"Moka, Issasc",M,Kavepena,Student,22 Feb 1995
+455,160136381,"Moka, Jacob",M,Kavepena,Student,11 Jan 1997
+456,160157456,"Moke, Kewa",M,Beechwood 1,Subsistence Farmer,01 Jan 1981
+457,160157462,"Moke, Mita",M,Beechwood 1,Subsistence Farmer,01 Jan 1963
+458,160157485,"Moke, Tony",M,Beechwood 1,Subsistence Farmer,01 Jan 1985
+459,160128272,"Mukiye, Willie",M,Kavepena,Student,11 Jan 1995
+460,160206636,"Mune, Peter killy",M,Beechwood 1,Subsistence Farmer,01 Jan 1955
+461,160206637,"Mune, Philip perel",M,Beechwood 1,Worker,01 Jan 1976
+462,160158783,"Namba, Jack",M,Beechwood 1,Subsistence Farmer,01 Jan 1978
+463,160157764,"Namba, Mesi",M,Beechwood 1,Subsistence Farmer,01 Jan 1980
+464,160157357,"Napa, John",M,Beechwood 1,Subsistence Farmer,01 Jan 1952
+465,160157397,"Napa, Nick",M,Beechwood 1,Student,01 Jan 1983
+466,160165101,"Nekiye, Ulu",M,Beechwood 1,Subsistence Farmer,01 Jan 1950
+467,160157457,"Nike, Kale",M,Beechwood 1,Subsistence Farmer,01 Jan 1960
+468,160442898,"Nimba, Kennet",M,Beechwood 1,Driver,27 May 1994
+469,160442899,"Nimba, Mann",M,Beechwood 1,Student,17 Jan 1995
+470,160128246,"Nimba, Oki",M,Beechwood 1,Subsistence Farmer,01 Jan 1950
+471,160128247,"Nindie, Kambu",M,Beechwood 1,Subsistence Farmer,01 Jan 1945
+472,160128251,"Nindie, Peambo",M,Beechwood 1,Pastor,01 Jan 1983
+473,160128250,"Nindie, Richard",M,Beechwood 1,Teacher,01 Jan 1980
+474,160442900,"Nindiye, Cairns",M,Beechwood 1,Student,11 Jul 2000
+475,160442901,"Nindiye, Enoch",M,Beechwood 1,Student,07 Oct 2000
+476,160442903,"Nindiye, Jonah",M,Beechwood 1,Student,04 Jun 2001
+477,160252499,"Nindiye, Kanombo",M,Beechwood 1,Subsistence Farmer,01 Jan 1985
+478,160252338,"Nindiye, Nale",M,Beechwood 1,Subsistence Farmer,01 Jan 1983
+479,160442905,"Nindiye, Philemon",M,Beechwood 1,Teacher,15 Oct 1990
+480,160252498,"Nindiye, Richard",M,Beechwood 1,Teacher,01 Jan 1978
+481,160252445,"Nindiye, Robin",M,Beechwood 1,Student,01 Jan 1990
+482,160442906,"Nindiye, Sammy",M,Beechwood 1,Student,05 Jun 1999
+483,160252444,"Nindiye, Turi",M,Beechwood 1,Self Employed,01 Jan 1985
+484,160156149,"Ninge, Thomas",M,Beechwood 1,Subsistence Farmer,01 Jan 1973
+485,160252449,"Niye, Issack",M,Beechwood 1,Subsistence Farmer,01 Jan 1983
+486,160252450,"Niye, Kingston",M,Beechwood 1,Student,01 Jan 1990
+487,160252440,"Niye, Mark",M,Beechwood 1,Subsistence Farmer,01 Jan 1982
+488,160442910,"Niye, Mike",M,Beechwood 1,Teacher,20 Nov 1979
+489,160442911,"Niye, Raven",M,Beechwood 1,Student,02 Nov 1999
+490,160442912,"Niye, Salies",M,Beechwood 1,Subsistence Farmer,29 Aug 1966
+491,160252438,"Niye, Wesely",M,Beechwood 1,Subsistence Farmer,01 Jan 1986
+492,160207411,"Nolepo, Frencis",M,Beechwood 1,Subsistence Farmer,01 Jan 1957
+493,160136555,"Noma, David",M,Beechwood 1,Subsistence Farmer,20 Nov 1959
+494,160128234,"Noma, Dickson",M,Beechwood 1,Student,11 Dec 1998
+495,160252451,"Noma, Eric",M,Beechwood 1,Student,01 Jan 1986
+496,160252446,"Noma, Issack",M,Beechwood 1,Casual Worker,01 Jan 1980
+497,160136556,"Noma, Jacob",M,Beechwood 1,Self Employed,18 Sep 1968
+498,160442913,"Noma, Junior",M,Beechwood 1,Student,12 Oct 2000
+499,160252335,"Noma, Justin",M,Beechwood 1,Subsistence Farmer,01 Jan 1984
+500,160252443,"Noma, Morgan",M,Beechwood 1,Student,01 Jan 1992
+501,160128230,"Noma, Peter",M,Beechwood 1,Driver,24 Sep 1992
+502,160252433,"Noma, Wari",M,Beechwood 1,Subsistence Farmer,01 Jan 1991
+503,160128237,"Norman, Cain",M,Beechwood 1,Electrician,17 Nov 1980
+504,160442914,"Olo, Brandon",M,Beechwood 1,Student,05 Dec 2002
+505,160252436,"Olo, Daman",M,Beechwood 1,Student,01 Jan 1987
+506,160442915,"Olo, Mitaiye",M,Beechwood 1,Driver,18 Nov 1968
+507,160252434,"Olo, Stanley",M,Beechwood 1,Student,01 Jan 1983
+508,160252333,"Olo, Tary",M,Beechwood 1,Student,01 Jan 1986
+509,160251774,"Opa, Ake",M,Beechwood 1,Subsistence Farmer,01 Jan 1989
+510,160252377,"Opa, Dickson",M,Beechwood 1,Self Employed,01 Jan 1994
+511,160442917,"Opa, Immanuel",M,Beechwood 1,Student,05 Oct 2001
+512,160251773,"Opa, Nathan",M,Beechwood 1,Subsistence Farmer,01 Jan 1985
+513,160251770,"Opa, Oke",M,Beechwood 1,Subsistence Farmer,01 Jan 1990
+514,160128261,"Paka, Robert",M,Kavepena,Soldier,01 Sep 1987
+515,160128263,"Paka, Thomas",M,Kavepena,Pastor,30 Sep 1991
+516,160128259,"Paka, Wain",M,Kavepena,Self Employed,01 Jan 1972
+517,160157482,"Paka, William",M,Beechwood 1,Subsistence Farmer,01 Jan 1961
+518,160157606,"Pale, Dominic",M,Beechwood 1,Subsistence Farmer,01 Jan 1970
+519,160158789,"Pale, Eddie",M,Beechwood 1,Subsistence Farmer,01 Jan 1966
+520,160157605,"Pale, Kane",M,Beechwood 1,Subsistence Farmer,01 Jan 1966
+521,160158693,"Pale, Peter",M,Beechwood 1,Subsistence Farmer,01 Jan 1972
+522,160158695,"Pale, Puri",M,Beechwood 1,Subsistence Farmer,01 Jan 1978
+523,160206339,"Pandea, Tipora",M,Beechwood 1,Subsistence Farmer,01 Jan 1976
+524,160165095,"Paru, Apa",M,Beechwood 1,Teacher,01 Jan 1971
+525,160165098,"Paru, Peter",M,Beechwood 1,Subsistence Farmer,01 Jan 2000
+526,160442921,"Pasinga, Smith",M,Beechwood 1,Student,19 Mar 1997
+527,160128089,"Peyandi, Stanley",M,Kavepena,Subsistence Farmer,24 Nov 1983
+528,160136380,"Peyandi, Tonny",M,Kavepena,Subsistence Farmer,23 Dec 1997
+529,160207418,"Pokeya, Tom",M,Beechwood 1,Subsistence Farmer,01 Jan 1945
+530,25082381,"Poki, Jeff",M,Beechwood 1,Driver,28 Apr 1988
+531,160442924,"Pombo, Tonny",M,Beechwood 1,Subsistence Farmer,16 Oct 1983
+532,160165099,"Porowe, Junior",M,Beechwood 1,Subsistence Farmer,01 Jan 1966
+533,160163469,"Porowe, Kepu",M,Beechwood 1,Teacher,01 Jan 1967
+534,160169014,"Porowe, Taket",M,Beechwood 1,Subsistence Farmer,01 Jan 1971
+535,160163470,"Porowe, Wagi",M,Beechwood 1,Subsistence Farmer,01 Jan 1984
+536,160169007,"Porowe, Wane",M,Beechwood 1,Subsistence Farmer,01 Jan 1964
+537,160155926,"Poya, James",M,Beechwood 1,Subsistence Farmer,01 Jan 1980
+538,160156176,"Poya, Thomas",M,Beechwood 1,Subsistence Farmer,01 Jan 1967
+539,160157483,"Punini, Yombi",M,Beechwood 1,Subsistence Farmer,01 Jan 1940
+540,160157377,"Pupai, Paka",M,Beechwood 1,Subsistence Farmer,01 Jan 1900
+541,160157378,"Puru, John",M,Beechwood 1,Subsistence Farmer,01 Jan 1966
+542,160157380,"Puru, Kelem",M,Beechwood 1,Student,01 Jan 1989
+543,160442926,"Remo, Nasmi",M,Beechwood 1,Student,24 Nov 1997
+544,160128255,"Remo, Rodney",M,Kavepena,Student,11 Mar 1999
+545,25082429,"Taksi, Philemon",M,Beechwood 1,Student,28 Apr 2000
+546,160252366,"Talopa, Edward",M,Beechwood 1,Subsistence Farmer,01 Jan 1983
+547,160252367,"Talopa, Jackson",M,Beechwood 1,Student,01 Jan 1990
+548,160442927,"Talopa, Jimmy",M,Beechwood 1,Student,18 Dec 2000
+549,160251772,"Talopa, Kita",M,Beechwood 1,Subsistence Farmer,01 Jan 1991
+550,160252376,"Talopa, Rodney",M,Beechwood 1,Subsistence Farmer,01 Jan 1989
+551,160442928,"Talopa, Soro",M,Beechwood 1,Student,17 Dec 1999
+552,160156034,"Tambi, Ake",M,Beechwood 1,Subsistence Farmer,01 Jan 1984
+553,160156317,"Tambi, Anold",M,Beechwood 1,Subsistence Farmer,01 Jan 1987
+554,160156006,"Tambi, Kari",M,Beechwood 1,Subsistence Farmer,01 Jan 1966
+555,160156028,"Tambi, Kevin",M,Beechwood 1,Subsistence Farmer,01 Jan 1967
+556,160156298,"Tambi, Limbiye",M,Beechwood 1,Subsistence Farmer,01 Jan 1970
+557,160156316,"Tambi, Michael",M,Beechwood 1,Subsistence Farmer,01 Jan 1986
+558,160128205,"Tame, Elizah",M,Beechwood 1,Subsistence Farmer,11 Mar 1994
+559,160128203,"Tame, Gorden",M,Beechwood 1,Student,22 Dec 1997
+560,160128206,"Tame, Issac",M,Beechwood 1,Student,20 Oct 1993
+561,160128093,"Tame, Norman",M,Kavepena,Subsistence Farmer,06 Jul 1977
+562,160442930,"Tame, Rainol",M,Beechwood 1,Student,15 Dec 2000
+563,160128204,"Tame, Stanley",M,Beechwood 1,Subsistence Farmer,16 Sep 1995
+564,160206790,"Tanguwe, Ipiri",M,Beechwood 1,Subsistence Farmer,01 Jan 1944
+565,160128252,"Tapa, Nenjipa",M,Kavepena,Subsistence Farmer,30 Sep 1994
+566,160252349,"Tawa, Bobby",M,Beechwood 1,Student,01 Jan 1990
+567,160442934,"Tawa, Jeffron",M,Beechwood 1,Student,17 Dec 2000
+568,25082433,"Tawa, Kongupo",M,Beechwood 1,Pastor,28 Apr 1980
+569,25082438,"Tawa, Tasi",M,Beechwood 1,Salesman,16 Oct 1978
+570,25082443,"Tawa, Tenda",M,Beechwood 1,Subsistence Farmer,18 Jul 1979
+571,160156415,"Tawa, Thomas",M,Beechwood 1,Student,01 Jan 1989
+572,160156418,"Tawa, Warepa",M,Beechwood 1,Subsistence Farmer,01 Jan 1953
+573,160158731,"Tendepaine, Kewa",M,Beechwood 1,Subsistence Farmer,01 Jan 1986
+574,160158732,"Tendepaine, Peter",M,Beechwood 1,Subsistence Farmer,01 Jan 1989
+575,160128238,"Tendi, Garry",M,Beechwood 1,Subsistence Farmer,11 Sep 1984
+576,160128239,"Tendi, Junior",M,Beechwood 1,Electrician,11 Dec 1978
+577,160128236,"Tendi, Norman",M,Beechwood 1,Electrician,01 Jan 1955
+578,160128084,"Tendili, Robert",M,Kavepena,Subsistence Farmer,01 Jan 1969
+579,160128086,"Tendili, Tennis",M,Kavepena,Subsistence Farmer,07 Aug 1978
+580,160157406,"Thomas, Kote",M,Beechwood 1,Subsistence Farmer,01 Jan 1977
+581,25082577,"Thomas, Willie",M,Beechwood 1,Student,28 Apr 2004
+582,160156035,"Timbo, Elvis",M,Beechwood 1,Subsistence Farmer,01 Jan 1956
+583,25082585,"Timothy, Junior",M,Beechwood 1,Student,28 Apr 2000
+584,160158718,"Topele, Elep",M,Beechwood 1,Student,01 Jan 1984
+585,160157399,"Topele, Korowi",M,Beechwood 1,Student,01 Jan 1986
+586,160158780,"Topele, Micheal",M,Beechwood 1,Subsistence Farmer,01 Jan 1951
+587,160157352,"Topele, Samuel",M,Beechwood 1,Student,01 Jan 1988
+588,25082591,"Tuku, Otali",M,Beechwood 1,Student,28 Apr 1999
+589,25082592,"Tuku, Robin",M,Beechwood 1,Student,04 Jul 2001
+590,160128211,"Tundubo, Oliva",M,Beechwood 1,Student,27 May 1997
+591,160160066,"Ulu, Wakena",M,Beechwood 1,Subsistence Farmer,01 Jan 1974
+592,160163463,"Ulu, Wali",M,Beechwood 1,Subsistence Farmer,01 Jan 1980
+593,160160065,"Ulu, We",M,Beechwood 1,Subsistence Farmer,01 Jan 1973
+594,160156012,"Unjo, Nale",M,Beechwood 1,Subsistence Farmer,01 Jan 1947
+595,160156425,"Unjo, Paul",M,Beechwood 1,Student,01 Jan 2000
+596,160442935,"Unjo, Topa",M,Beechwood 1,Driver,28 May 1996
+597,160442936,"Uru, Alex",M,Beechwood 1,Student,17 May 1997
+598,160252374,"Uru, Allan",M,Beechwood 1,Student,01 Jan 1989
+599,160157342,"Waeka, Benjiman",M,Beechwood 1,Student,01 Jan 1981
+600,25082595,"Waima, Ketani",M,Beechwood 1,Student,28 Feb 2000
+601,160128260,"Wain, Mari",M,Kavepena,Student,04 Jan 1999
+602,160158714,"Waiye, Kanombo",M,Beechwood 1,Student,01 Jan 1984
+603,25082598,"Waki, Ligstan",M,Beechwood 1,Student,28 Jan 1998
+604,160169013,"Wane, Roger",M,Beechwood 1,Subsistence Farmer,01 Jan 1988
+605,25082612,"Wapeya, Kolomba",M,Beechwood 1,Subsistence Farmer,28 Apr 1964
+606,25082615,"Wapeya, Luther",M,Beechwood 1,Student,28 Apr 2004
+607,160205095,"Wapeya, Mandeya",M,Beechwood 1,Subsistence Farmer,01 Jan 1940
+608,25082619,"Wapeya, Paul",M,Beechwood 1,Subsistence Farmer,28 Jan 1987
+609,160155930,"Wapie, Opa",M,Beechwood 1,Subsistence Farmer,01 Jan 1966
+610,160156048,"Wapie, Poya",M,Beechwood 1,Subsistence Farmer,01 Jan 1950
+611,160206486,"Warea, John",M,Beechwood 1,Subsistence Farmer,01 Jan 1984
+612,160206494,"Warea, Luke",M,Beechwood 1,Pastor,01 Jan 1970
+613,160206484,"Warea, Simon",M,Beechwood 1,Subsistence Farmer,01 Jan 1980
+614,160157340,"Wareka, David",M,Beechwood 1,Subsistence Farmer,01 Jan 1980
+615,160157345,"Wareka, Goroli",M,Beechwood 1,Subsistence Farmer,01 Jan 1961
+616,160157358,"Wareka, Haigen",M,Beechwood 1,Student,01 Jan 1990
+617,160157344,"Wareka, Jasuwa",M,Beechwood 1,Student,01 Jan 1976
+618,160156464,"Wareka, Joel",M,Beechwood 1,Student,01 Jan 1987
+619,160157392,"Wareka, Opa",M,Beechwood 1,Pastor,01 Jan 1941
+620,160156407,"Wareka, Tony",M,Beechwood 1,Student,01 Jan 1984
+621,160157348,"Wareka, Tope",M,Beechwood 1,Pastor,01 Jan 1964
+622,160442959,"Wareke, Ezekiel",M,Beechwood 1,Student,11 Sep 2000
+623,160442960,"Wareke, Jonah",M,Beechwood 1,Student,11 Sep 1998
+624,160252326,"Wareke, Kelep",M,Beechwood 1,Student,01 Jan 1990
+625,160252371,"Wareke, Kipo",M,Beechwood 1,Student,01 Jan 1991
+626,160442962,"Wareya, Timson",M,Beechwood 1,Student,14 Aug 2001
+627,160158898,"Wariye, Benjiman",M,Beechwood 1,Student,01 Jan 1987
+628,160158899,"Wariye, Lama",M,Beechwood 1,Student,01 Jan 1989
+629,160206485,"Werea, Mek",M,Beechwood 1,Subsistence Farmer,01 Jan 1976
+630,160206638,"Wiko, Peter okywa",M,Beechwood 1,Subsistence Farmer,01 Jan 1967
+631,160206492,"Wiko, Rex",M,Beechwood 1,Subsistence Farmer,01 Jan 1984
+632,160206633,"Wiko, Simon",M,Beechwood 1,Subsistence Farmer,01 Jan 1976
+633,160206639,"Wiko, Stenly",M,Beechwood 1,Student,01 Jan 1986
+634,160206321,"Wiye, Yako",M,Beechwood 1,Subsistence Farmer,01 Jan 1935
+635,25082632,"Yakili, Melepaiye",M,Beechwood 1,Public Servant,28 Apr 1955
+636,160442963,"Yako, Danny",M,Beechwood 1,Student,13 Nov 2002
+637,160158792,"Yako, Disi",M,Beechwood 1,Subsistence Farmer,01 Jan 1973
+638,160158734,"Yako, Goraiye",M,Beechwood 1,Subsistence Farmer,01 Jan 1961
+639,160204670,"Yako, Jecob",M,Beechwood 1,Subsistence Farmer,01 Jan 1967
+640,160204668,"Yako, Kelly",M,Beechwood 1,Subsistence Farmer,01 Jan 1966
+641,160157319,"Yako, Kina",M,Beechwood 1,Subsistence Farmer,01 Jan 1988
+642,160442965,"Yako, Lolo",M,Beechwood 1,Student,17 Oct 1999
+643,160442968,"Yako, Rommy",M,Beechwood 1,Student,03 Oct 1997
+644,160157765,"Yako, Tendepaine",M,Beechwood 1,Subsistence Farmer,01 Jan 1948
+645,160156435,"Yala, Neki mistake",M,Beechwood 1,Subsistence Farmer,01 Jan 1975
+646,160156400,"Yala, Niko",M,Beechwood 1,Subsistence Farmer,01 Jan 1980
+647,160156437,"Yala, Timothy",M,Beechwood 1,Subsistence Farmer,01 Jan 1981
+648,160156166,"Yawi, Teru",M,Beechwood 1,Subsistence Farmer,01 Jan 1941
+649,160156153,"Yawi, Thomas",M,Beechwood 1,Subsistence Farmer,01 Jan 1951
+650,160128088,"Yendili, Wesley",M,Kavepena,Subsistence Farmer,06 Dec 1983
+651,160158677,"Yoko, Titus",M,Beechwood 1,Student,01 Jan 1988
+652,160206493,"Yolom, Joseph",M,Beechwood 1,Subsistence Farmer,01 Jan 1931
+653,160128244,"Yombi, John",M,Beechwood 1,Teacher,30 Nov 1982
+654,160128243,"Yombi, Kapa",M,Beechwood 1,Carpenter,01 Jan 1976
+655,160128242,"Yombi, Kepa",M,Beechwood 1,Teacher,01 Jan 1973
+656,160157383,"Yombi, Norman",M,Beechwood 1,Subsistence Farmer,01 Jan 1980
+657,160252327,"Yoreya, Ekop",M,Beechwood 1,Self Employed,01 Jan 1980
+658,160251779,"Yoreya, Mala",M,Beechwood 1,Student,01 Jan 1986
+659,160252372,"Yoreya, Sotti",M,Beechwood 1,Student,01 Jan 1989

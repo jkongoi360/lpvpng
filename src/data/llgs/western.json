@@ -1,0 +1,620 @@
+{
+  "provinceId": "western",
+  "electorates": [
+    {
+      "electorateSlug": "north-fly",
+      "llgs": [
+        {
+          "id": "north-fly-kiunga-urban",
+          "name": "Kiunga Urban LLG",
+          "electorateSlug": "north-fly",
+          "wards": [
+            {
+              "id": "kiunga-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1311
+            },
+            {
+              "id": "kiunga-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2229
+            },
+            {
+              "id": "kiunga-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2443
+            },
+            {
+              "id": "kiunga-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1202
+            },
+            {
+              "id": "kiunga-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2904
+            },
+            {
+              "id": "kiunga-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1460
+            },
+            {
+              "id": "kiunga-urban-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2257
+            },
+            {
+              "id": "kiunga-urban-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1873
+            }
+          ]
+        },
+        {
+          "id": "north-fly-ningerum",
+          "name": "Ningerum LLG",
+          "electorateSlug": "north-fly",
+          "wards": [
+            {
+              "id": "ningerum-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1870
+            },
+            {
+              "id": "ningerum-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2734
+            },
+            {
+              "id": "ningerum-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2551
+            },
+            {
+              "id": "ningerum-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1979
+            },
+            {
+              "id": "ningerum-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1954
+            },
+            {
+              "id": "ningerum-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1876
+            },
+            {
+              "id": "ningerum-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1712
+            }
+          ]
+        },
+        {
+          "id": "north-fly-olsobip",
+          "name": "Olsobip LLG",
+          "electorateSlug": "north-fly",
+          "wards": [
+            {
+              "id": "olsobip-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3056
+            },
+            {
+              "id": "olsobip-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3942
+            },
+            {
+              "id": "olsobip-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2985
+            },
+            {
+              "id": "olsobip-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2972
+            }
+          ]
+        },
+        {
+          "id": "north-fly-star-mountains",
+          "name": "Star Mountains LLG",
+          "electorateSlug": "north-fly",
+          "wards": [
+            {
+              "id": "star-mountains-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2003
+            },
+            {
+              "id": "star-mountains-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1547
+            },
+            {
+              "id": "star-mountains-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3792
+            },
+            {
+              "id": "star-mountains-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1982
+            },
+            {
+              "id": "star-mountains-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2499
+            },
+            {
+              "id": "star-mountains-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2727
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "middle-fly",
+      "llgs": [
+        {
+          "id": "middle-fly-balimo-urban",
+          "name": "Balimo Urban LLG",
+          "electorateSlug": "middle-fly",
+          "wards": [
+            {
+              "id": "balimo-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1392
+            },
+            {
+              "id": "balimo-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2070
+            },
+            {
+              "id": "balimo-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1681
+            },
+            {
+              "id": "balimo-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1967
+            },
+            {
+              "id": "balimo-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1421
+            },
+            {
+              "id": "balimo-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1261
+            }
+          ]
+        },
+        {
+          "id": "middle-fly-bamu",
+          "name": "Bamu LLG",
+          "electorateSlug": "middle-fly",
+          "wards": [
+            {
+              "id": "bamu-w01",
+              "name": "Ward 1",
+              "registeredVoters": 702
+            },
+            {
+              "id": "bamu-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1056
+            },
+            {
+              "id": "bamu-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1245
+            },
+            {
+              "id": "bamu-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1151
+            },
+            {
+              "id": "bamu-w05",
+              "name": "Ward 5",
+              "registeredVoters": 682
+            },
+            {
+              "id": "bamu-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1438
+            },
+            {
+              "id": "bamu-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1335
+            },
+            {
+              "id": "bamu-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1088
+            },
+            {
+              "id": "bamu-w09",
+              "name": "Ward 9",
+              "registeredVoters": 808
+            },
+            {
+              "id": "bamu-w10",
+              "name": "Ward 10",
+              "registeredVoters": 811
+            }
+          ]
+        },
+        {
+          "id": "middle-fly-gogodala",
+          "name": "Gogodala LLG",
+          "electorateSlug": "middle-fly",
+          "wards": [
+            {
+              "id": "gogodala-w01",
+              "name": "Ward 1",
+              "registeredVoters": 907
+            },
+            {
+              "id": "gogodala-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1685
+            },
+            {
+              "id": "gogodala-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1113
+            },
+            {
+              "id": "gogodala-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1049
+            },
+            {
+              "id": "gogodala-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1632
+            },
+            {
+              "id": "gogodala-w06",
+              "name": "Ward 6",
+              "registeredVoters": 819
+            },
+            {
+              "id": "gogodala-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1119
+            },
+            {
+              "id": "gogodala-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1402
+            },
+            {
+              "id": "gogodala-w09",
+              "name": "Ward 9",
+              "registeredVoters": 939
+            }
+          ]
+        },
+        {
+          "id": "middle-fly-suki-fly-delta",
+          "name": "Suki-Fly Delta LLG",
+          "electorateSlug": "middle-fly",
+          "wards": [
+            {
+              "id": "suki-fly-delta-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2190
+            },
+            {
+              "id": "suki-fly-delta-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3311
+            },
+            {
+              "id": "suki-fly-delta-w03",
+              "name": "Ward 3",
+              "registeredVoters": 5024
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "south-fly",
+      "llgs": [
+        {
+          "id": "south-fly-daru-urban",
+          "name": "Daru Urban LLG",
+          "electorateSlug": "south-fly",
+          "wards": [
+            {
+              "id": "daru-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2276
+            },
+            {
+              "id": "daru-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1940
+            },
+            {
+              "id": "daru-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1696
+            },
+            {
+              "id": "daru-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1668
+            },
+            {
+              "id": "daru-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1291
+            },
+            {
+              "id": "daru-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1504
+            }
+          ]
+        },
+        {
+          "id": "south-fly-kiwai",
+          "name": "Kiwai LLG",
+          "electorateSlug": "south-fly",
+          "wards": [
+            {
+              "id": "kiwai-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1221
+            },
+            {
+              "id": "kiwai-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1418
+            },
+            {
+              "id": "kiwai-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1252
+            },
+            {
+              "id": "kiwai-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1011
+            },
+            {
+              "id": "kiwai-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1217
+            },
+            {
+              "id": "kiwai-w06",
+              "name": "Ward 6",
+              "registeredVoters": 772
+            },
+            {
+              "id": "kiwai-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1568
+            },
+            {
+              "id": "kiwai-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1239
+            },
+            {
+              "id": "kiwai-w09",
+              "name": "Ward 9",
+              "registeredVoters": 734
+            }
+          ]
+        },
+        {
+          "id": "south-fly-oriomo",
+          "name": "Oriomo LLG",
+          "electorateSlug": "south-fly",
+          "wards": [
+            {
+              "id": "oriomo-w01",
+              "name": "Ward 1",
+              "registeredVoters": 5274
+            },
+            {
+              "id": "oriomo-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2370
+            },
+            {
+              "id": "oriomo-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4970
+            }
+          ]
+        },
+        {
+          "id": "south-fly-morehead",
+          "name": "Morehead LLG",
+          "electorateSlug": "south-fly",
+          "wards": [
+            {
+              "id": "morehead-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3519
+            },
+            {
+              "id": "morehead-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3185
+            },
+            {
+              "id": "morehead-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2100
+            },
+            {
+              "id": "morehead-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3071
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "delta-fly",
+      "llgs": [
+        {
+          "id": "delta-fly-wawoi-falls",
+          "name": "Wawoi Falls LLG",
+          "electorateSlug": "delta-fly",
+          "wards": [
+            {
+              "id": "wawoi-falls-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2430
+            },
+            {
+              "id": "wawoi-falls-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1351
+            },
+            {
+              "id": "wawoi-falls-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1706
+            },
+            {
+              "id": "wawoi-falls-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1804
+            },
+            {
+              "id": "wawoi-falls-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3825
+            }
+          ]
+        },
+        {
+          "id": "delta-fly-bamu-south",
+          "name": "Bamu South LLG",
+          "electorateSlug": "delta-fly",
+          "wards": [
+            {
+              "id": "bamu-south-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1558
+            },
+            {
+              "id": "bamu-south-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1621
+            },
+            {
+              "id": "bamu-south-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1110
+            },
+            {
+              "id": "bamu-south-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1092
+            },
+            {
+              "id": "bamu-south-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1577
+            },
+            {
+              "id": "bamu-south-w06",
+              "name": "Ward 6",
+              "registeredVoters": 673
+            },
+            {
+              "id": "bamu-south-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1237
+            },
+            {
+              "id": "bamu-south-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1416
+            },
+            {
+              "id": "bamu-south-w09",
+              "name": "Ward 9",
+              "registeredVoters": 722
+            },
+            {
+              "id": "bamu-south-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1326
+            }
+          ]
+        },
+        {
+          "id": "delta-fly-lake-murray",
+          "name": "Lake Murray LLG",
+          "electorateSlug": "delta-fly",
+          "wards": [
+            {
+              "id": "lake-murray-w01",
+              "name": "Ward 1",
+              "registeredVoters": 926
+            },
+            {
+              "id": "lake-murray-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1520
+            },
+            {
+              "id": "lake-murray-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1096
+            },
+            {
+              "id": "lake-murray-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1330
+            },
+            {
+              "id": "lake-murray-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1622
+            },
+            {
+              "id": "lake-murray-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2168
+            },
+            {
+              "id": "lake-murray-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1392
+            },
+            {
+              "id": "lake-murray-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1880
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

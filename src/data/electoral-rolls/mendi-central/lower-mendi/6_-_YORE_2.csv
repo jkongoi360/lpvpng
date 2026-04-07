@@ -1,0 +1,1360 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160188061,"Agomala, Barbra",F,Yore 2,Household Duties,12 Jul 1970
+2,160128590,"Alex, Lenneth",F,Yore 2,Household Duties,04 Mar 1982
+3,160182866,"Aluwa, Nedisu",F,Yore 2,Household Duties,03 Aug 1974
+4,160180326,"Amesi, Lamenu",F,Yore 2,Household Duties,14 Oct 1932
+5,160180331,"Amesi, Oyago",F,Yore 2,Household Duties,17 Aug 1933
+6,160221914,"Amua, Daina",F,Yore 2,Household Duties,03 Mar 1946
+7,160218863,"Amua, Dolly",F,Yore 2,Housegirl,01 Jan 1987
+8,160509639,"Amua, Rose",F,Yore 2,Household Duties,28 Apr 2003
+9,160229689,"Andape, Romuame",F,Yore 2,Household Duties,01 Jan 1964
+10,160244001,"Andmi, Nancy",F,RIRA,Student,11 Oct 1980
+11,160244000,"Andmi, Ruthy",F,RIRA,Student,09 Sep 1990
+12,160243175,"Andrew, Dallcy",F,Kado,Student,01 Jan 1989
+13,160243177,"Andrew, Danilla",F,Kado,Student,01 Jan 1994
+14,160139530,"Andrew, Jayman",F,Yore 2,Household Duties,19 Oct 1983
+15,160243166,"Andrew, Lorina",F,Kado,Teacher,01 Jan 1988
+16,160219250,"Andrew, Revina",F,Yore 2,Household Duties,16 Dec 1968
+17,160243178,"Andrew, Ruth",F,Kado,Household Duties,01 Jan 1984
+18,160128744,"Ango, Cathlyn",F,Yore 2,Student,02 Mar 1997
+19,160139687,"Ango, Easter",F,Yore 2,Student,29 Jul 1997
+20,160128734,"Ango, Jeneffer",F,Yore 2,Student,22 Aug 1990
+21,160128739,"Ango, Malinda",F,Yore 2,Household Duties,07 Aug 1990
+22,160128742,"Ango, Wendi",F,Yore 2,Student,17 Jun 1998
+23,160235153,"Anna, Nano",F,Wesda,Student,12 Feb 1986
+24,160241745,"Anna, Nano",F,Yenglam,Student,25 Jan 1994
+25,160229714,"Apkas, Yuena",F,Yore 2,Household Duties,01 Jan 1969
+26,160243002,"Apyo, Poli",F,Umu,Student,19 Feb 1984
+27,160217896,"Arimba, Martha",F,Yore 2,Household Duties,15 Nov 1985
+28,160439469,"Ariyo, Rosah",F,Yore 2,Student,25 Apr 2004
+29,160509641,"Awroa, Darumis",F,Yore 2,Household Duties,23 Nov 1998
+30,160243782,"Ayone, Cathy",F,Umu,Student,27 Nov 1988
+31,160160137,"Ayone, Dolly",F,Yore 2,Student,15 Sep 1987
+32,160153460,"Ayone, Nasom",F,Yore 2,Household Duties,05 Aug 1971
+33,160509642,"Bepi, Alice",F,Yore 2,Household Duties,22 Sep 1996
+34,160509643,"Bepi, Alikend",F,Yore 2,Housegirl,21 Nov 1996
+35,160243533,"Bepi, Anna",F,Kengere,Housegirl,12 Feb 1980
+36,160509645,"Bepi, Lucy",F,Yore 2,Household Duties,23 Nov 1998
+37,160180593,"Bepi, Ore",F,Yore 2,Household Duties,19 Apr 1971
+38,160229692,"Binowi, Gean",F,Yore 2,Household Duties,01 Jan 1979
+39,160509648,"Binowi, Lidia",F,Yore 2,Casual Worker,22 Oct 1992
+40,160439370,"Bosave, Kemothy",F,Yore 2,Student,04 Apr 2004
+41,160439538,"Bosave, Mathy",F,Yore 2,Student,01 Apr 2000
+42,160439561,"Bosave, Roberta",F,Yore 2,Student,07 Apr 2000
+43,160439539,"Bosave, Rosa",F,Yore 2,Student,17 Jan 2000
+44,160439328,"Bosave, Rose",F,Yore 2,Household Duties,02 Aug 2001
+45,160439372,"Bosave, Siave",F,Yore 2,Student,02 Jan 2004
+46,160509649,"Brenda, Meagy",F,Yore 2,Student,28 Apr 2004
+47,160175798,"Brus, Presila",F,Yore 2,Student,12 May 1987
+48,160439362,"Buka, Eloney",F,Yore 2,Student,03 Apr 2000
+49,160216400,"Buka, Jesslyne",F,Yore 2,Household Duties,01 Jan 1987
+50,160509651,"Buka, Julian",F,Yore 2,Student,22 Nov 1982
+51,160243552,"Buka, Jullian porepa",F,Mele,Student,03 Sep 1994
+52,160509624,"Buka, Lasman",F,Kengere,Catechist,24 Nov 1999
+53,160216402,"Buka, Lindia",F,Yore 2,Household Duties,01 Jan 1982
+54,160509653,"Buka, Melda",F,Yore 2,Apprentice,22 Oct 1997
+55,160439366,"Buka, Mele",F,Yore 2,Student,06 Jan 2004
+56,160241855,"Buka, Monica",F,Mele,Household Duties,16 Oct 1977
+57,160215997,"Buka, Raizal",F,Yore 2,Teacher,18 Jan 1987
+58,160243777,"Burus, Precila",F,Umu,Housegirl,16 Jun 1993
+59,160215483,"Cloman, Pokosa",F,Yore 2,Household Duties,01 Jan 1980
+60,160128750,"Colman, Adram",F,Yore 2,Student,24 Jun 1998
+61,160128598,"Colman, Agnes",F,Yore 2,Household Duties,23 Jul 1987
+62,160182853,"Colman, Anna",F,Yore 2,Store Keeper,08 Apr 1979
+63,160128597,"Colman, Catherina",F,Yore 2,Household Duties,19 Jul 1983
+64,160139690,"Colman, Delma",F,Yore 2,Household Duties,09 Feb 1987
+65,160139689,"Colman, Elvia",F,Yore 2,Student,05 Apr 1995
+66,160243769,"Colman, Evallin",F,Umu,Student,15 Nov 1988
+67,160128603,"Colman, Habriana",F,Yore 2,Student,28 May 1998
+68,160128602,"Colman, Haby",F,Yore 2,Student,13 Mar 1999
+69,160229694,"Colman, Hellygrade",F,Yore 2,Student,01 Jan 1989
+70,160439376,"Colman, Hildas",F,Yore 2,Student,12 Jan 2004
+71,160139693,"Colman, Joyce",F,Yore 2,Teacher,24 Mar 1982
+72,160229562,"Colman, Kerol",F,Yore 2,Teacher,01 Jan 1979
+73,160128747,"Colman, Maria",F,Yore 2,Household Duties,19 Nov 1969
+74,160439318,"Colman, Mayame",F,Yore 2,Student,04 Mar 2004
+75,160128599,"Colman, Nono",F,Yore 2,Student,18 Apr 1999
+76,160128604,"Colman, Nowelyn",F,Yore 2,Student,17 Jul 1998
+77,160439323,"Colman, Pamiler",F,Yore 2,Student,02 Mar 2000
+78,160128751,"Colman, Pojna",F,Yore 2,Teacher,22 Mar 1975
+79,160128748,"Colman, Rhonda",F,Yore 2,Storeman,19 Oct 1987
+80,160139691,"Colman, Tasia",F,Yore 2,Student,05 Mar 1990
+81,160182968,"Colman, Teresa",F,Yore 2,Household Duties,10 Feb 1954
+82,160439563,"Colman, Walepame",F,Yore 2,Student,20 Apr 2000
+83,160229716,"Dakea, Nepulu",F,Yore 2,Household Duties,01 Jan 1968
+84,160439465,"Daniel, Sara",F,Yore 2,Student,10 Jan 2004
+85,160234915,"David, Batallin",F,Mol,Subsistence Farmer,01 Jan 1981
+86,160234914,"David, Delma",F,Mol,Student,01 Jan 1990
+87,160234910,"David, Dodo",F,Mol,Student,01 Jan 1986
+88,160439537,"David, Lyndia",F,Yore 2,Household Duties,21 Jul 1996
+89,160509656,"Dickson, Roselyn",F,Yore 2,Subsistence Farmer,21 Sep 1995
+90,160439353,"Dina, Nowem",F,Yore 2,Student,04 Mar 2000
+91,160229715,"Edu, Lepo",F,Yore 2,Household Duties,01 Jan 1983
+92,160439516,"Elais, Angelyn",F,Yore 2,Student,15 Apr 2004
+93,160139526,"Elais, Anjela",F,Yore 2,Student,12 Mar 1995
+94,160128624,"Elais, Anjelyn",F,Yore 2,Student,12 Jul 1980
+95,160139525,"Elais, Evalyn",F,Yore 2,Household Duties,20 Jul 1986
+96,160187786,"Epala, Weri",F,Yore 2,Household Duties,08 Apr 1971
+97,160439341,"Eric, Regina",F,Yore 2,Teacher,15 Aug 1995
+98,160176072,"Eyosi, Keno",F,Yore 2,Household Duties,01 Jun 1900
+99,160183129,"Eyosi, Mariame",F,Yore 2,Household Duties,19 Aug 1977
+100,160509657,"Eyosi, Nogo",F,Yore 2,Household Duties,22 Apr 1969
+101,160160351,"Gerry, Anna",F,Yore 2,Household Duties,11 Aug 1970
+102,160243436,"Gerry, Jaylin",F,Yowal,Household Duties,16 Jul 1985
+103,160243775,"Gerry, Sellia",F,Umu,Student,24 Jun 1994
+104,160162795,"Gerry, Selly",F,Yore 2,Student,10 Nov 1988
+105,160139529,"Gerry, Veronica",F,Yore 2,Household Duties,11 Jul 1981
+106,160229703,"Gilbert, Alice",F,Yore 2,Household Duties,01 Jan 1987
+107,160229704,"Gilbert, Hellen",F,Yore 2,Student,01 Jan 1988
+108,160139681,"Gilbert, Rose",F,Yore 2,Student,26 Feb 1998
+109,160509658,"Imane, Jenny",F,Yore 2,Accountant,22 Jul 1997
+110,160159975,"Ingip, Epei",F,Yore 2,Household Duties,29 Aug 1967
+111,160153465,"Ingipi, Anna",F,Yore 2,Store Keeper,18 Nov 1972
+112,160439406,"Isther, Soty",F,Yore 2,Student,02 Apr 2004
+113,160243244,"Jackob, Evallin",F,Hurul,Student,16 Mar 1984
+114,160439486,"Jackop, Clereisa",F,Yore 2,Student,02 Apr 2004
+115,160243624,"Jackson, Jayrani",F,Umu,Student,10 Nov 1994
+116,160243776,"Jackson, Mackda",F,Umu,Student,16 Jul 1992
+117,160244146,"Jacob, Esta",F,Hurul,Household Duties,16 Feb 1977
+118,160509659,"Jacob, Jenny",F,Yore 2,Housegirl,23 Oct 1993
+119,160229834,"James, Daina",F,Yore 2,Household Duties,01 Jan 1978
+120,160439524,"Jeffrey, Celtonia",F,Yore 2,Student,06 Apr 2001
+121,160243440,"Jerry, Julie",F,Yowal,Household Duties,12 Jun 1980
+122,160439396,"Joel, Adasa",F,Yore 2,Student,02 Apr 2004
+123,160234609,"John, Alis",F,Rumere,Student,12 Aug 1982
+124,160243619,"John, Anna",F,Urul,Housegirl,12 Jan 1977
+125,160242996,"John, Darina",F,Umu,Nurse,28 Dec 1986
+126,160185704,"John, Dolina",F,Yore 2,Household Duties,01 Jan 1984
+127,160185703,"John, Gloria",F,Yore 2,Household Duties,01 Jan 1985
+128,160243168,"John, Jebureina",F,Kengere,Student,03 Apr 1990
+129,160439390,"John, Jelo",F,Yore 2,Student,02 Apr 2004
+130,160243406,"John, Jennifer",F,Retret,Student,01 Jan 1990
+131,160243344,"John, Jenny",F,Retret,Household Duties,01 Jan 1988
+132,160185687,"John, Kerolin",F,Yore 2,Teacher,06 Jul 1977
+133,160243771,"John, Magaret",F,Umu,Household Duties,01 Jan 1978
+134,160243623,"John, Maklina",F,Urul,Household Duties,01 Jan 1980
+135,160234608,"John, Maria",F,Rumere,Household Duties,06 Apr 1980
+136,160243001,"John, Mirrian",F,Umu,Household Duties,30 Aug 1981
+137,160439392,"John, Selo",F,Yore 2,Student,02 Apr 2004
+138,160243400,"John, Sentra",F,Retret,Student,16 Feb 1993
+139,160439519,"John, Sinah",F,Yore 2,Student,12 May 2001
+140,160243237,"John, Steveni",F,Retret,Household Duties,08 Jan 1984
+141,160234599,"John, Trancy",F,Rumere,Student,08 May 1990
+142,160243405,"John, Was",F,Retret,Household Duties,01 Jan 1987
+143,160182676,"Jorom, Jackaline",F,Yore 2,Household Duties,14 May 1976
+144,160182678,"Jorom, Jenny",F,Yore 2,Household Duties,19 Apr 1975
+145,160243170,"Josehp, Malinda",F,Rum,Household Duties,08 Jan 1987
+146,160243171,"Joseph, Hyda",F,Rum,Student,02 Sep 1990
+147,160243556,"Justin, Bun",F,Mele,Student,26 Dec 1989
+148,160243569,"Justin, Henet",F,Mele,Household Duties,24 Jun 1981
+149,160243574,"Justin, Rose",F,Mele,Household Duties,20 Nov 1989
+150,160229563,"Kalari, Anna",F,Yore 2,Household Duties,01 Jan 1973
+151,160187580,"Kalpeol, Emm",F,Yore 2,Housegirl,02 Nov 1988
+152,160186023,"Kalpeol, Patrisa",F,Yore 2,Household Duties,08 May 1965
+153,160243536,"Kam, Joci",F,Umu,Household Duties,07 Nov 1991
+154,160229554,"Kane, Yakop",F,Yore 2,Household Duties,01 Jan 1969
+155,160128621,"Karinj, Lin",F,Yore 2,Household Duties,12 Jul 1987
+156,160439552,"Kay, Jennath",F,Yore 2,Household Duties,02 Apr 1995
+157,160439556,"Kay, Kerollyn",F,Yore 2,Student,02 Apr 2000
+158,160439551,"Kay, Nail",F,Yore 2,Student,04 Jan 2004
+159,160168713,"Kaya, Mary",F,Yore 2,Student,01 Jun 1978
+160,160128723,"Kegei, Dolly",F,Yore 2,Household Duties,10 May 1998
+161,160198690,"Kelari, Anna",F,Yore 2,Household Duties,18 Apr 1966
+162,160128653,"Kendeapa, Cipora",F,Yore 2,Household Duties,10 Mar 1994
+163,160128733,"Kendeapea, Laiya",F,Yore 2,Student,05 Feb 1999
+164,160128731,"Kendeapea, Leryan",F,Yore 2,Student,05 Feb 1999
+165,160128717,"Kendepa, Id",F,Yore 2,Household Duties,03 May 1995
+166,160128718,"Kendepa, Lona",F,Yore 2,Household Duties,27 Sep 1982
+167,160128719,"Kendepa, Pricella",F,Yore 2,Household Duties,26 Apr 1992
+168,160163288,"Kendepea, Anna",F,Yore 2,Household Duties,18 Apr 1966
+169,160182862,"Kendepea, Betty",F,Yore 2,Household Duties,01 Jan 1966
+170,160187103,"Kendepea, Cathy",F,Yore 2,Household Duties,11 Jul 1977
+171,160188207,"Kendepea, Christina",F,Yore 2,Household Duties,05 Mar 1961
+172,160182430,"Kendepea, Dorika",F,Yore 2,Household Duties,02 May 1979
+173,160172011,"Kendepea, Elizabeth",F,Yore 2,Household Duties,01 Jan 1956
+174,160243164,"Kendepea, Filmatt",F,Kengere,Student,02 Dec 1990
+175,160243158,"Kendepea, Germa",F,Kengere,Student,04 Feb 1994
+176,160171984,"Kendepea, Glorian",F,Yore 2,Student,16 Apr 1981
+177,160139534,"Kendepea, Jacklyn",F,Yore 2,Student,15 Jun 1997
+178,160243165,"Kendepea, Janet",F,Kengere,Student,03 Dec 1992
+179,160139696,"Kendepea, Jebu",F,Yore 2,Student,02 Jun 1998
+180,160139678,"Kendepea, Jecinta",F,Yore 2,Household Duties,02 Apr 1992
+181,160128584,"Kendepea, Joi",F,Yore 2,Student,04 Jul 1989
+182,160178164,"Kendepea, Joyce",F,Yore 2,Student,17 Dec 1983
+183,160182684,"Kendepea, Judy",F,Yore 2,Household Duties,10 Mar 1981
+184,160171883,"Kendepea, Julian",F,Yore 2,Household Duties,19 May 1980
+185,160173151,"Kendepea, Kelean",F,Yore 2,Household Duties,01 Jan 1968
+186,160183135,"Kendepea, Kombe",F,Yore 2,Household Duties,04 Sep 1983
+187,160229699,"Kendepea, Kombe",F,Yore 2,Household Duties,01 Jan 1975
+188,160201659,"Kendepea, Lucy",F,Yore 2,Housegirl,01 Jan 1973
+189,160185696,"Kendepea, Magaret",F,Yore 2,Household Duties,01 Jan 1960
+190,160175617,"Kendepea, Matta",F,Yore 2,Household Duties,05 Jun 1971
+191,160128652,"Kendepea, Meriam",F,Yore 2,Student,13 Feb 1996
+192,160176061,"Kendepea, Nomi",F,Yore 2,Household Duties,07 Jan 1979
+193,160175614,"Kendepea, Ramo jeff",F,Yore 2,Household Duties,29 Jan 1970
+194,160185608,"Kendepea, Rodah",F,Yore 2,Household Duties,09 Jan 1979
+195,160182422,"Kendepea, Saina",F,Yore 2,Teacher,15 Oct 1976
+196,160176182,"Kendepea, Susana",F,Yore 2,Household Duties,31 Jan 1983
+197,160182865,"Kendepea, Tapili",F,Yore 2,Household Duties,04 Nov 1984
+198,160243161,"Kendepea, Wareame",F,Kengere,Housegirl,03 Dec 1982
+199,160171839,"Kendepea, Yumongo",F,Yore 2,Household Duties,01 Jan 1942
+200,160128720,"Kendewpa, Julie",F,Yore 2,Household Duties,02 Jun 1990
+201,160243301,"Kendex, Balida",F,Hurul,Household Duties,01 Jan 1982
+202,160160502,"Kenge, Andowame",F,Yore 2,Household Duties,12 May 1979
+203,160160497,"Kenge, Hundup",F,Yore 2,Housegirl,20 Nov 1980
+204,160168540,"Kenge, Hup",F,Yore 2,Household Duties,06 Aug 1958
+205,160180309,"Kengi, Julie",F,Yore 2,Household Duties,23 Jun 1971
+206,160180483,"Kengi, Lari",F,Yore 2,Household Duties,29 Aug 1979
+207,160194345,"Kengi, Mary",F,Yore 2,Household Duties,02 Apr 1962
+208,160128613,"Kengi, Melvin",F,Yore 2,Household Duties,03 Mar 1992
+209,160128588,"Kengi, Merry",F,Yore 2,Household Duties,12 Nov 1983
+210,160139683,"Kengi, Nancy",F,Yore 2,Household Duties,14 Apr 1984
+211,160243152,"Kengi, Pedly",F,Kengere,Student,20 Dec 1990
+212,160128721,"Kengi, Rejina",F,Yore 2,Household Duties,02 Mar 1992
+213,160193628,"Kengi, Seron",F,Yore 2,Store Keeper,22 Mar 1940
+214,160213126,"Kessy, Kelean",F,Yore 2,Household Duties,01 Jan 1987
+215,160187447,"Kessy, Molintah",F,Yore 2,Household Duties,01 Jan 1984
+216,160188069,"Kessy, Pokeame",F,Yore 2,Household Duties,01 Jan 1987
+217,160243260,"Kessy, Sumi",F,Umu,Household Duties,16 Dec 1987
+218,160128585,"Kewa, Nowelyn",F,Yore 2,Household Duties,15 Jul 1989
+219,160128582,"Kewa, Yero",F,Yore 2,Store Keeper,19 Apr 1994
+220,160234908,"Kingi, Anita",F,Mol,Student,16 Sep 1984
+221,160139531,"Kingi, Julie",F,Yore 2,Cleaner,11 Jul 1983
+222,160439360,"Kiwa, Coriane",F,Yore 2,Student,02 Jun 2000
+223,160501159,"Kiwa, Econey",F,Yore 2,Student,01 Feb 2003
+224,160163240,"Kiwa, Ericca",F,Yore 2,Household Duties,07 Apr 1983
+225,160509664,"Kiwa, Florance",F,Yore 2,Student,28 Apr 2004
+226,160128583,"Kiwa, Jalin",F,Yore 2,Household Duties,07 Feb 1990
+227,160160015,"Kiwa, Jamala",F,Yore 2,Student,02 Mar 1980
+228,160160503,"Kiwa, Jenny",F,Yore 2,Subsistence Farmer,02 Aug 1982
+229,160139679,"Kiwa, Josephine",F,Yore 2,Household Duties,06 Mar 1992
+230,160439355,"Kiwa, Julie",F,Yore 2,Student,03 Apr 2000
+231,160162952,"Kiwa, Lina",F,Yore 2,Subsistence Farmer,04 Oct 1973
+232,160139680,"Kiwa, Regina",F,Yore 2,Student,05 Mar 1991
+233,160509666,"Kiwa, Roselyn",F,Yore 2,Fisherman,28 Apr 2004
+234,160509667,"Kiwa, Susan",F,Yore 2,Self Employed,28 Oct 1997
+235,160128650,"Kobol, Anna",F,Yore 2,Household Duties,12 Oct 1982
+236,160139533,"Kobol, Lin",F,Yore 2,Household Duties,11 Apr 1981
+237,160128648,"Kobol, Nancy",F,Yore 2,Household Duties,12 Feb 1986
+238,160139532,"Kobol, Rebecca",F,Yore 2,Household Duties,20 Dec 1987
+239,160128649,"Kobol, Rose",F,Yore 2,Household Duties,20 Apr 1982
+240,160180580,"Kogurea, Nobri",F,Yore 2,Student,12 Jun 1988
+241,160235163,"Kom, Tango",F,Parure,Housegirl,20 Dec 1984
+242,160243626,"Kopeap, Pore",F,Umu,Household Duties,10 Dec 1981
+243,160139528,"Kosda, Rose",F,Yore 2,Teacher,19 Nov 1991
+244,160165589,"Kosnaik, Christopa",F,Yore 2,Household Duties,10 Nov 1981
+245,160153439,"Kosoda, Wayonogo",F,Yore 2,Household Duties,11 May 1962
+246,160162957,"Kum, Doris",F,Yore 2,Not Specified,28 Jun 1974
+247,160243434,"Kunz, Dolly",F,Yowal,Household Duties,15 Aug 1990
+248,160128610,"Kunz, Hunk",F,Yore 2,Household Duties,18 Aug 1986
+249,160439534,"Kunz, Ihi",F,Yore 2,Household Duties,02 Aug 1987
+250,160128608,"Kunz, Jacklyn",F,Yore 2,Student,20 Jul 1984
+251,160185763,"Kunz, Kosando",F,Yore 2,Household Duties,15 Aug 1965
+252,160185587,"Kunz, Mary",F,Yore 2,Household Duties,16 May 1975
+253,160139517,"Kunz, Saina",F,Yore 2,Student,25 Jan 1984
+254,160180985,"Kunz, Sana",F,Yore 2,Housegirl,02 Dec 1978
+255,160509668,"Kunz, Selly",F,Yore 2,Accountant,23 Oct 1994
+256,160187315,"Kurap, Atame",F,Yore 2,Student,13 Feb 1986
+257,160187423,"Kurap, Mary",F,Yore 2,Typist,05 Mar 1978
+258,160186030,"Kurap, Paula",F,Yore 2,Student,18 Jan 1980
+259,160189876,"Kuru, Bethalyn",F,Yore 2,Student,01 Jan 1988
+260,160128614,"Kuru, Marisa",F,Yore 2,Household Duties,15 May 1992
+261,160128616,"Kuru, Merolyn",F,Yore 2,Household Duties,05 Feb 1981
+262,160139522,"Kuru, Monigo",F,Yore 2,Student,15 Jun 1998
+263,160501160,"Kuru, Mono",F,Yore 2,Student,21 Apr 2001
+264,160190534,"Kuru, Namme",F,Yore 2,Household Duties,17 Aug 1958
+265,160128615,"Kuru, Veio",F,Yore 2,Student,14 Feb 1997
+266,160221945,"Kusa, Bun",F,Yore 2,Housegirl,12 Aug 1980
+267,160221939,"Kusa, Ipnape",F,Yore 2,Housegirl,20 Mar 1983
+268,160439493,"Kusa, Jenny",F,Yore 2,Student,05 Apr 2000
+269,160198559,"Kusa, Kerop",F,Yore 2,Household Duties,11 Feb 1940
+270,160243439,"Kusa, Rachael",F,Yowal,Student,29 Jun 1978
+271,160243437,"Kusa, Rose",F,Yowal,Student,22 Dec 1992
+272,160243443,"Kusa, Yetex",F,Yowal,Household Duties,15 Oct 1942
+273,160243573,"Leno, Apukas",F,Mele,Housegirl,12 Oct 1970
+274,160188475,"Leon, Esnogo",F,Yore 2,Household Duties,26 Aug 1961
+275,160243118,"Leon, Jenny",F,Mele,Housegirl,16 Jan 1975
+276,160509672,"Lesly, Maria",F,Yore 2,Household Duties,23 Sep 1999
+277,160439478,"Lesta, Adalin",F,Yore 2,Household Duties,02 Apr 2004
+278,160439531,"Lesta, Amenda",F,Yore 2,Household Duties,02 Apr 2004
+279,160243763,"Lida, Jenny",F,Urul,Household Duties,01 Jan 1980
+280,160182554,"Linsy wisu, Dol",F,Yore 2,Household Duties,15 Jun 1980
+281,160178151,"Lipa, Bevelyn",F,Yore 2,Household Duties,24 Nov 1979
+282,160234774,"Lopia, Lucy",F,Rumere,Household Duties,12 Jun 1980
+283,160234772,"Lopia, Nancy",F,Rumere,Student,16 Aug 1982
+284,160128635,"Luke, Dila",F,Yore 2,Household Duties,17 Feb 1990
+285,160242010,"Luke, Kenny",F,Umu,Household Duties,03 Jan 1977
+286,160243511,"Lus, Betty",F,Hurul,Subsistence Farmer,01 Jan 1969
+287,160243349,"Lus, Betty",F,Hurul,Subsistence Farmer,01 Jan 1983
+288,160243347,"Lus, Cathrin",F,Hurul,Student,20 Nov 1994
+289,160509675,"Mal, Yanguli",F,Yore 2,Baby Sitter,22 Oct 1991
+290,160243768,"Malaki, Abhram",F,Umu,Student,18 Jun 1984
+291,160439459,"Malaki, Aepkupnogo",F,Yore 2,Student,20 Apr 2004
+292,160439450,"Malaki, Fenila",F,Yore 2,Student,08 Apr 2004
+293,160439448,"Malaki, Jesinta",F,Yore 2,Student,07 Apr 2004
+294,160439461,"Malaki, Linda",F,Yore 2,Household Duties,10 Nov 1998
+295,160128625,"Malnaki, Cecillia",F,Yore 2,Student,19 Aug 1990
+296,160128626,"Malnaki, Hellen",F,Yore 2,Student,14 Feb 1997
+297,160128631,"Malnaki, Heton",F,Yore 2,Student,14 Feb 1992
+298,160128628,"Malnaki, Lutia",F,Yore 2,Household Duties,14 Aug 1985
+299,160243773,"Mark, Babara",F,Umu,Household Duties,20 Aug 1970
+300,160229670,"Mark, Daina",F,Yore 2,Household Duties,01 Jan 1978
+301,160229674,"Mark, Doriga",F,Yore 2,Household Duties,01 Jan 2000
+302,160128639,"Mark, Perina",F,Yore 2,Student,20 Oct 1995
+303,160243371,"Mark, Varina",F,Hurul,Student,10 Jan 1994
+304,160186031,"Marop, Keith",F,Yore 2,Household Duties,01 Jan 1980
+305,160159962,"Marop, Lucy",F,Yore 2,Household Duties,15 Apr 1972
+306,160160355,"Marop, Ogunape",F,Yore 2,Household Duties,17 Feb 1967
+307,160243081,"Marrian, Mudia",F,Keta,Household Duties,01 Jan 1989
+308,160128622,"Mathais, Hagen",F,Yore 2,Household Duties,18 Feb 1999
+309,160233184,"Mathew, Cathlyn",F,Yore 2,Household Duties,06 Jan 1980
+310,160240992,"Mathew, Jacklin",F,Umu,Household Duties,16 May 1990
+311,160233185,"Mathew, Wendi",F,Yore 2,Student,03 Jul 1990
+312,160193488,"Mathias, Doris",F,Yore 2,Household Duties,18 Feb 1979
+313,160509676,"Meagy, Hellony",F,Yore 2,Student,23 Mar 2003
+314,160509677,"Meagy, Mecklyn",F,Yore 2,Clerk,23 Oct 1997
+315,160509679,"Meagy, Melly",F,Yore 2,Student,28 Oct 2002
+316,160439513,"Megere, Sindia",F,Yore 2,Student,12 Feb 2004
+317,160439512,"Megere, Windy",F,Yore 2,Student,16 Jan 2003
+318,160243554,"Megili, Akipame",F,Umu,Household Duties,28 Feb 1970
+319,160243107,"Megili, Matina",F,Umu,Student,02 Dec 1989
+320,160241862,"Megili, Paul",F,Umu,Household Duties,25 Oct 1985
+321,160233182,"Mele, Ariama",F,Yore 2,Teacher,01 Jan 1990
+322,160233174,"Mele, Keren",F,Yore 2,Subsistence Farmer,01 Jan 1994
+323,160215842,"Menge, Jossie",F,Yore 2,Household Duties,16 Oct 1987
+324,160215865,"Menge, Julian",F,Yore 2,Household Duties,20 May 1985
+325,160215502,"Menge, Rita",F,Yore 2,Household Duties,17 Mar 1987
+326,160439526,"Meram, Unes",F,Yore 2,Student,06 Apr 2000
+327,160439481,"Messel, Maria",F,Yore 2,Household Duties,02 Apr 2004
+328,160128636,"Michael, Janet",F,Yore 2,Nurse,11 Dec 1993
+329,160509681,"Michael, Uneth",F,Yore 2,Student,20 Jan 1982
+330,160182437,"Micheal, Julie",F,Yore 2,Household Duties,15 Feb 1974
+331,160243580,"Micheal, Lucy",F,Hurul,Household Duties,01 Jan 1970
+332,160242001,"Molnaik, Helapa",F,Mele,Household Duties,16 Nov 1965
+333,160241860,"Molnaik, Messnogo",F,Mele,Housegirl,21 Oct 1960
+334,160243132,"Molnaik, Nancy",F,Mele,Housegirl,13 Oct 1979
+335,160243568,"Molnaik, Yellonu",F,Mele,Household Duties,20 Nov 1942
+336,160189786,"Molnaiki, Moluwe",F,Yore 2,Household Duties,01 Jan 1961
+337,160243630,"Monda, Damaris",F,Umu,Student,09 Nov 1990
+338,160160025,"Monda, Damasina",F,Yore 2,Student,17 Sep 1988
+339,160128632,"Monda, Keren",F,Yore 2,Household Duties,11 Jul 1980
+340,160163255,"Monda, Kopi",F,Yore 2,Household Duties,18 May 1973
+341,160235156,"Monda, Maria",F,Wesda,Subsistence Farmer,01 Jan 1987
+342,160235159,"Monda, Rimaya",F,Wesda,Student,01 Jan 1990
+343,160243070,"Mudia, Jullian",F,Keta,Student,01 Jan 1988
+344,160184452,"Muri, Agtaa",F,Yore 2,Household Duties,13 Aug 1961
+345,160128645,"Muri, Dodo",F,Yore 2,Student,19 May 1998
+346,160227941,"Muri, Doris",F,Yore 2,Household Duties,01 Jan 1982
+347,160184442,"Muri, Eprep",F,Yore 2,Household Duties,20 Jul 1960
+348,160185708,"Muri, Joesphine",F,Yore 2,Household Duties,14 Sep 1980
+349,160128640,"Muri, Joyce",F,Yore 2,Student,20 Nov 1980
+350,160229560,"Muri, Keth",F,Yore 2,Household Duties,01 Jan 1970
+351,160128646,"Muri, Lovina",F,Yore 2,Student,16 Oct 1997
+352,160229701,"Muri, Nombri",F,Yore 2,Household Duties,01 Jan 1984
+353,160128643,"Muri, Regina",F,Yore 2,Household Duties,22 Apr 1989
+354,160128641,"Muri, Rexan",F,Yore 2,Student,20 Oct 1983
+355,160165585,"Naik david, Doris",F,Yore 2,Subsistence Farmer,09 Jul 1985
+356,160188322,"Nakisi, Ali",F,Yore 2,Housegirl,14 Sep 1986
+357,160188319,"Nakisi, Mongu",F,Yore 2,Household Duties,01 Nov 1958
+358,160243548,"Nathan, Hun",F,Umu,Household Duties,01 Mar 1979
+359,160439472,"Nelson, Angela",F,Yore 2,Student,15 Nov 2003
+360,160509682,"Nelson, Besiba",F,Yore 2,Household Duties,24 Nov 1996
+361,160243445,"Nelson, Brenda",F,Yowal,Student,15 Mar 1985
+362,160509683,"Nelson, Jina",F,Yore 2,Subsistence Farmer,24 Jan 2002
+363,160243451,"Nelson, Margaret",F,Yowal,Household Duties,27 Jul 1982
+364,160509684,"Nelson, Mono",F,Yore 2,Baby Sitter,22 Nov 1992
+365,160439304,"Nelson, Tama",F,Yore 2,Student,01 Apr 2004
+366,160243458,"Nogo, Ima",F,Rirarogo,Subsistence Farmer,19 Nov 1975
+367,160229669,"Nomo, Mali",F,Yore 2,Household Duties,01 Jan 1970
+368,160439312,"Nono, Freya",F,Yore 2,Student,03 Apr 2004
+369,160186025,"Nono, Kurap",F,Yore 2,Household Duties,13 Jul 1959
+370,160439311,"Nono, Libethy",F,Yore 2,Student,02 Mar 2004
+371,160439378,"Nono, Taita",F,Yore 2,Student,01 Jan 2004
+372,160186021,"Nono, Tulpi mayame",F,Yore 2,Household Duties,01 Jun 1900
+373,160243505,"Nowi, Dilla",F,Hurul,Student,11 Dec 1994
+374,160241857,"Nowi, Lydia",F,Umu,Household Duties,01 Apr 1978
+375,160243412,"Nowi, Sentralla",F,Hurul,Student,09 Feb 1995
+376,160243149,"Nuia, Catherine",F,Kengere,Student,12 Nov 1990
+377,160180338,"Nuia, Nancy",F,Yore 2,Household Duties,06 Nov 1976
+378,160243865,"Nuia, Regina",F,Kengere,Self Employed,04 Dec 1980
+379,160243150,"Nuia, Vivian",F,Kengere,Student,11 Jun 1993
+380,160162953,"Olesu, Kombe",F,Yore 2,Household Duties,28 Aug 1930
+381,160187333,"Olesu, Yambo",F,Yore 2,Housegirl,31 Jan 1969
+382,160159944,"Ombu, Mackda",F,Yore 2,Student,19 Oct 1987
+383,160243069,"Onde, Rabicca",F,Keta,Sister,01 Jan 1988
+384,160243144,"Onde, Ronge",F,Keta,Nurse,01 Jan 1984
+385,160439454,"Onge, Toi",F,Yore 2,Student,08 Feb 2004
+386,160176118,"Onne, Nancy",F,Yore 2,Household Duties,14 Mar 1972
+387,160201715,"Otana, Peri",F,Yore 2,Household Duties,08 Nov 1950
+388,160243442,"Otmar, Wendi",F,Yowal,Household Duties,30 Jan 1989
+389,160162788,"Pala, Jacline",F,Yore 2,Household Duties,28 Oct 1969
+390,160243625,"Pala, Sela",F,Umu,Student,16 Feb 1994
+391,160241999,"Pasi, Jenny",F,Mele,Teacher,12 Nov 1976
+392,160439482,"Patric, Julie",F,Yore 2,Student,09 Jan 2004
+393,160509627,"Patrick, Chinna",F,Kengere,Customs Officer,23 Oct 1997
+394,160241130,"Paul, Alis",F,Umu,Student,02 Apr 1985
+395,160234917,"Paul, Alis",F,Mol,Student,10 Jun 1994
+396,160128716,"Paul, Anna",F,Yore 2,Household Duties,23 May 1997
+397,160242992,"Paul, Cathy",F,Umu,Student,12 Jan 1994
+398,160243263,"Paul, Joyce",F,Umu,Student,12 Aug 1992
+399,160240997,"Paul, Mary",F,Umu,Student,07 Aug 1989
+400,160241129,"Paul, Nancy",F,Umu,Self Employed,06 Jun 1981
+401,160241863,"Paul, Nancy",F,Umu,Household Duties,10 Nov 1992
+402,160241133,"Paul, Naomi",F,Umu,Household Duties,10 Dec 1983
+403,160439495,"Paul, Nicker",F,Yore 2,Student,04 Jan 2004
+404,160243559,"Paul, Rosila",F,Umu,Household Duties,20 Dec 1970
+405,160439553,"Peasi, Melkris",F,Yore 2,Student,22 Apr 2000
+406,160183131,"Peasi, Telopiri",F,Yore 2,Household Duties,19 May 1939
+407,160182423,"Peiya, Arena",F,Yore 2,Subsistence Farmer,02 Jul 1980
+408,160183133,"Peiya, Kandipisu",F,Yore 2,Household Duties,02 Nov 1982
+409,160175616,"Peiya, Soapu",F,Yore 2,Teacher,02 Aug 1979
+410,160175793,"Peiya, Yassa",F,Yore 2,Household Duties,02 Nov 1980
+411,160182433,"Pelea, Elis",F,Yore 2,Teacher,01 Jan 1980
+412,160182442,"Pelea, Julian",F,Yore 2,Household Duties,01 Jan 1980
+413,160235161,"Pelea, Shinta",F,Parure,Household Duties,08 Nov 1982
+414,160235158,"Pena, Dorothy",F,Parure,Student,07 Dec 1992
+415,160235162,"Pena, Grace",F,Parure,Household Duties,06 Jul 1986
+416,160185619,"Peter, Agnes",F,Yore 2,Household Duties,05 Jun 1977
+417,160234759,"Peter, Dasina",F,Parure,Housegirl,11 Feb 1986
+418,160229556,"Peter, Debra onde",F,Yore 2,Household Duties,01 Jan 1977
+419,160234607,"Peter, Jennifer",F,Rumere,Household Duties,11 May 1982
+420,160185677,"Peter, Jona",F,Yore 2,Self Employed,16 Dec 1978
+421,160235165,"Peter, Josphine",F,Parure,Student,27 Feb 1994
+422,160128593,"Peter, Julie",F,Yore 2,Household Duties,02 Feb 1985
+423,160243654,"Peter, Lin",F,Mele,Household Duties,14 Dec 1982
+424,160439529,"Peter, Lisa",F,Yore 2,Student,06 Apr 2000
+425,160235167,"Peter, Maklina",F,Parure,Household Duties,01 Jan 1984
+426,160243265,"Peter, Noel",F,Mele,Student,19 Jun 1982
+427,160139682,"Peter, Norren",F,Yore 2,Student,10 Apr 1998
+428,160214035,"Peter, Poyame",F,Yore 2,Household Duties,01 Jan 1982
+429,160509688,"Peter, Racheal",F,Yore 2,Subsistence Farmer,23 Nov 2000
+430,160439521,"Peter, Ralis",F,Yore 2,Student,11 Apr 2004
+431,160234776,"Peter, Susan",F,Parure,Household Duties,16 Sep 1975
+432,160214032,"Peter, Vera",F,Yore 2,Household Duties,01 Jan 1984
+433,160183114,"Peter gean, Yope",F,Yore 2,Household Duties,28 Mar 1977
+434,160189886,"Peter weskado, Jenny",F,Yore 2,Household Duties,17 Mar 1969
+435,160241123,"Philip, Maklinda",F,Rea,Household Duties,16 Aug 1972
+436,160241392,"Philip, Shirley",F,Rea,Student,21 Mar 1985
+437,160235081,"Pim, Dahula",F,RIRA,Student,24 Jun 1994
+438,160128589,"Polna, Jacklyn",F,Yore 2,Student,02 Jan 1998
+439,160187097,"Polom, Rossi",F,Yore 2,Typist,04 Aug 1972
+440,160439544,"Poloua, Jemellyn",F,Yore 2,Student,03 Apr 2003
+441,160509689,"Pombere, Gebora",F,Yore 2,Housegirl,23 Feb 2000
+442,160509690,"Pombere, Joana",F,Yore 2,Banker,28 Apr 1998
+443,160181096,"Pombere, Les",F,Yore 2,Housegirl,12 Jun 1986
+444,160509691,"Pombere, Nicka",F,Yore 2,Student,28 Apr 1998
+445,160243758,"Pombere, Prissilla",F,Rogo,Teacher,25 Dec 1992
+446,160218584,"Pombere, Tamren",F,Yore 2,Household Duties,01 Jan 1941
+447,160243540,"Pondo, Kokunu",F,Umu,Household Duties,27 Dec 1961
+448,160162782,"Pope, Morin",F,Yore 2,Household Duties,17 Dec 1980
+449,160187117,"Pope, Porame",F,Yore 2,Household Duties,16 Feb 1969
+450,160139524,"Pope, Repre",F,Yore 2,Household Duties,10 Nov 1978
+451,160193498,"Pope, Ripre",F,Yore 2,Household Duties,11 Jul 1984
+452,160128618,"Pope, Wesis",F,Yore 2,Household Duties,10 Nov 1980
+453,160172017,"Pukama, Bepi",F,Yore 2,Household Duties,13 Oct 1968
+454,160168684,"Pukama, Dolly",F,Yore 2,Household Duties,13 Oct 1974
+455,160163450,"Pukama, Esther",F,Yore 2,Household Duties,19 May 1975
+456,160163077,"Pukama, Hungia",F,Yore 2,Household Duties,14 Mar 1971
+457,160176176,"Pukama, Jenny",F,Yore 2,Household Duties,10 Dec 1974
+458,160217852,"Pukama, Malin",F,Yore 2,Household Duties,26 Feb 1972
+459,160173612,"Pukama, Maria",F,Yore 2,Household Duties,01 Jan 1981
+460,160168686,"Pukama, Marian",F,Yore 2,Household Duties,16 Oct 1972
+461,160168707,"Pukama, Marlyn",F,Yore 2,Household Duties,11 Oct 1974
+462,160160594,"Pukama, Marycol",F,Yore 2,Household Duties,15 Oct 1974
+463,160172023,"Pukama, Nancy",F,Yore 2,Household Duties,16 Oct 1970
+464,160198363,"Pukama, Natnogo",F,Yore 2,Household Duties,13 Jun 1953
+465,160176168,"Pukama, Natonon",F,Yore 2,Household Duties,05 Jun 1981
+466,160218380,"Pukama, Nekalame",F,Yore 2,Household Duties,09 Apr 1971
+467,160168534,"Pukama, Nogosi",F,Yore 2,Household Duties,16 Oct 1975
+468,160218895,"Pukama, Paullin",F,Yore 2,Housegirl,21 Aug 1976
+469,160176178,"Pukama, Pauplyn",F,Yore 2,Household Duties,18 Sep 1972
+470,160163444,"Pukama, Robecca",F,Yore 2,Household Duties,16 Oct 1968
+471,160171842,"Pukama, Rose",F,Yore 2,Household Duties,16 Feb 1969
+472,160171861,"Pukama, Stella",F,Yore 2,Household Duties,10 Jun 1970
+473,160173129,"Pukama, Theresa",F,Yore 2,Household Duties,09 Oct 1975
+474,160196671,"Pukama, Tulpi",F,Yore 2,Housegirl,08 Jul 1972
+475,160215099,"Pulubare, Norren",F,Yore 2,Household Duties,01 Jan 1943
+476,160227971,"Puri, Heldi",F,Yore 2,Student,01 Jan 1985
+477,160182709,"Rale, Nisimi",F,Yore 2,Subsistence Farmer,03 Jul 1983
+478,160175999,"Rale, Noame",F,Yore 2,Household Duties,03 Jul 1979
+479,160183020,"Rama, Johnnia",F,Yore 2,Household Duties,15 Apr 1970
+480,160176071,"Rama, Lora",F,Yore 2,Household Duties,30 Jun 1975
+481,160180945,"Rama, Lora",F,Yore 2,Household Duties,21 Jan 1950
+482,160171991,"Rama, Magret",F,Yore 2,Household Duties,12 Oct 1970
+483,160182417,"Rama, Maro",F,Yore 2,Household Duties,12 Oct 1965
+484,160177809,"Rama, Morin",F,Yore 2,Household Duties,02 Sep 1970
+485,160183024,"Rama, Noreen",F,Yore 2,Household Duties,12 Oct 1981
+486,160177677,"Rama, Pomborame",F,Yore 2,Housegirl,18 Sep 1971
+487,160243778,"Ramnaki, Poborame",F,Umu,Household Duties,23 Dec 1970
+488,160243781,"Ramnaki, Rimere",F,Umu,Housegirl,23 Nov 1975
+489,160182966,"Randa, Delina",F,Yore 2,Housegirl,26 Aug 1988
+490,160175791,"Randa, Lina",F,Yore 2,Pastor,27 Sep 1971
+491,160240642,"Randa, Matilda",F,Umu,Student,01 Apr 1993
+492,160229829,"Randa, Susan helen",F,Yore 2,Housegirl,01 Jan 1984
+493,160241845,"Ratis, Ponja",F,Yenglam,Teacher,15 Oct 1983
+494,160243295,"Rele, Joci",F,Hurul,Student,21 Dec 1986
+495,160243064,"Rena, Grace",F,Retret,Teacher,10 Nov 1990
+496,160160356,"Rex, Kuk",F,Yore 2,Household Duties,19 Jun 1978
+497,160439536,"Robin, Jenny",F,Yore 2,Household Duties,22 Jun 2001
+498,160229840,"Robin, Nancy",F,Yore 2,Household Duties,01 Jan 1968
+499,160229565,"Robin, Wendy",F,Yore 2,Student,01 Jan 1988
+500,160243438,"Rolosi, Kang",F,Yowal,Household Duties,16 Oct 1960
+501,160175608,"Romnaik, Porame",F,Yore 2,Household Duties,17 Feb 1955
+502,160227937,"Romson, Roselin",F,Yore 2,Household Duties,01 Jan 1984
+503,160240637,"Rose, Apkas",F,Umu,Household Duties,20 Dec 1979
+504,160243312,"Rumere, Rose",F,Keta,Student,16 Dec 1993
+505,160186014,"Rumex, Josapine",F,Yore 2,Household Duties,01 Jan 1988
+506,160243334,"Rumex, Rose",F,Hurul,Housegirl,23 Oct 1984
+507,160160035,"Rundu, Agnes",F,Yore 2,Subsistence Farmer,03 Jun 1980
+508,160243761,"Rundu, Alin",F,Sumelame,Student,12 Oct 1984
+509,160509694,"Rundu, Alonie",F,Yore 2,Student,28 Apr 2004
+510,160243073,"Rundu, Ann",F,Keta,Student,27 Sep 1994
+511,160509695,"Rundu, Anna",F,Yore 2,Housegirl,28 Apr 2004
+512,160243065,"Rundu, Bepi",F,Keta,Student,12 Dec 1980
+513,160509629,"Rundu, Daniel",F,Kengere,Barman,23 Nov 2003
+514,160160354,"Rundu, Depina",F,Yore 2,Student,06 Aug 1974
+515,160243356,"Rundu, Dorothy",F,Hurul,Student,22 Nov 1985
+516,160243361,"Rundu, Jenny",F,Hurul,Student,16 Jan 1988
+517,160509696,"Rundu, Lina",F,Yore 2,Household Duties,28 Apr 2000
+518,160162781,"Rundu, Magaret",F,Yore 2,Subsistence Farmer,05 Oct 1974
+519,160243341,"Rundu, Margret",F,Hurul,Household Duties,14 May 1989
+520,160509697,"Rundu, Marlyn",F,Yore 2,Self Employed,28 Apr 2004
+521,160153499,"Rundu, Mateline",F,Yore 2,Student,26 Apr 1984
+522,160509630,"Rundu, Molina",F,Kengere,Student,24 Nov 1997
+523,160509698,"Rundu, Monica",F,Yore 2,Subsistence Farmer,22 Mar 1987
+524,160509699,"Rundu, Monica",F,Yore 2,Self Employed,28 Apr 1999
+525,160509700,"Rundu, Norman",F,Yore 2,Household Duties,24 Nov 1998
+526,160160127,"Rundu, Poline",F,Yore 2,Household Duties,22 Oct 1985
+527,160509701,"Rundu, Ronda",F,Yore 2,Self Employed,28 Apr 1999
+528,160243074,"Rundu, Roselyn",F,Keta,Stenographer,10 Nov 1994
+529,160509703,"Rundu, Tina",F,Yore 2,Housegirl,28 Apr 2004
+530,160159977,"Rundu, Wanu",F,Yore 2,Subsistence Farmer,30 May 1981
+531,160153442,"Rundu, Yalinu",F,Yore 2,Household Duties,11 Oct 1983
+532,160439565,"Runi, Arthem",F,Yore 2,Household Duties,16 Mar 1998
+533,160509704,"Runi, Issen",F,Yore 2,Student,16 Jun 1986
+534,160509705,"Runi, Jennifer",F,Yore 2,Household Duties,22 Oct 1986
+535,160509706,"Runi, Joelyn",F,Yore 2,Aid Post Orderly,14 Feb 1983
+536,160509707,"Runi, Kerisina",F,Yore 2,Student,23 Sep 2002
+537,160439332,"Runi, Messy",F,Yore 2,Student,20 Jul 2000
+538,160509708,"Runi, Sarah",F,Yore 2,Cashier,14 Apr 1990
+539,160439559,"Runi, Sarah",F,Yore 2,Household Duties,25 May 1999
+540,160509631,"Samela, Kunz",F,Kengere,Student,23 Sep 1999
+541,160509709,"Samela, Yanguli",F,Yore 2,Student,28 Apr 2004
+542,160128730,"Samo, Janet",F,Yore 2,Household Duties,14 Dec 1998
+543,160509710,"Samo, Juddy",F,Yore 2,Household Duties,28 Apr 2003
+544,160173424,"Samo, Les",F,Yore 2,Housegirl,11 Jun 1984
+545,160243861,"Samo, Luan",F,Kengere,Household Duties,06 Feb 1990
+546,160243862,"Samo, Matina",F,Kengere,Household Duties,02 Dec 1989
+547,160176107,"Samo, Ramo",F,Yore 2,Household Duties,14 Jun 1963
+548,160509711,"Samo, Rebecca",F,Yore 2,Student,23 Nov 1998
+549,160198683,"Samo, Selly",F,Yore 2,Household Duties,27 Oct 1968
+550,160177841,"Samo, Tato",F,Yore 2,Household Duties,18 Mar 1940
+551,160173559,"Samo, Wame",F,Yore 2,Household Duties,25 Sep 1971
+552,160243863,"Samo, Wani",F,Kengere,Household Duties,12 Mar 1990
+553,160177850,"Samo, Yondunu",F,Yore 2,Household Duties,12 Feb 1948
+554,160439549,"Sawa, Jenneth",F,Yore 2,Student,25 Mar 1994
+555,160186048,"Sekepalo, Jinna",F,Yore 2,Household Duties,03 May 1977
+556,160182431,"Sekepalo, Sapu",F,Yore 2,Household Duties,04 Aug 1982
+557,160185698,"Sekepalo, Wata",F,Yore 2,Teacher,02 Jul 1984
+558,160243562,"Sekepolo, Verero",F,Umu,Household Duties,01 Jan 1993
+559,160139519,"Sekpalo, Maplyn",F,Yore 2,Student,16 Jul 1996
+560,160509632,"Semi, Carol",F,Kengere,Student,23 Oct 1998
+561,160439508,"Semi, Ennisa",F,Yore 2,Student,02 Apr 2004
+562,160509714,"Semi, Francy",F,Yore 2,Housegirl,28 Apr 2003
+563,160439557,"Semi, Jacklyn",F,Yore 2,Household Duties,05 Feb 1994
+564,160439507,"Semi, Korin",F,Yore 2,Household Duties,04 Mar 1994
+565,160439511,"Semi, Margaret",F,Yore 2,Household Duties,06 Mar 1987
+566,160439509,"Semi, Susan",F,Yore 2,Student,08 Apr 2004
+567,160439510,"Semi, Tinna",F,Yore 2,Student,03 Apr 2004
+568,160509717,"Semi, Tunde",F,Yore 2,Aid Post Orderly,22 Oct 1997
+569,160191395,"Senis, Justina",F,Yore 2,Housegirl,15 Jul 1988
+570,160241743,"Sesio, Matilda",F,Yenglam,Student,05 Aug 1980
+571,160241744,"Sevin, Jenny",F,Yenglam,Teacher,26 Aug 1980
+572,160439457,"Simon, Esther",F,Yore 2,Household Duties,20 Nov 1992
+573,160439444,"Simon, Julias",F,Yore 2,Student,10 Jan 2004
+574,160243537,"Simon, Lorina",F,Umu,Student,09 Apr 1994
+575,160439452,"Simon, Stalon",F,Yore 2,Student,10 Apr 2004
+576,160509718,"Siri, Jethlyna",F,Yore 2,Student,22 Oct 1991
+577,160509719,"Siro, Betty",F,Yore 2,Student,22 Oct 2001
+578,160439545,"Steven, Pasatil",F,Yore 2,Student,16 Apr 2004
+579,160243077,"Steven, Penelopu",F,Keta       Health Extention Officer 30 Sep 1986,"580     160243071     Steven, Sera               F        Keta       Household Duties",17 Apr 1982
+580,160243860,"Steven, Sila",F,Kengere,Student,30 Sep 1990
+581,160191021,"Supu, Lucy",F,Yore 2,Housegirl,25 Nov 1971
+582,160439523,"Talua, Stencela",F,Yore 2,Student,06 Jul 2003
+583,160509723,"Terry, Theresa",F,Yore 2,Book Keeper,22 Oct 1997
+584,160241122,"Thomas, Dodo",F,Rea,Student,01 Apr 1983
+585,160241121,"Thomas, Julie",F,Rea,Driver,17 Dec 1982
+586,160243402,"Thomas, Matilda",F,Retret,Student,04 Feb 1994
+587,160243240,"Thomas, Veronica",F,Retret,Teacher,16 Feb 1975
+588,160243145,"Tigi, Dorothy",F,Keta,Student,01 Jan 1984
+589,160234779,"Timoth, Shirely",F,Rumere,Student,10 Jun 1986
+590,160509634,"Timothy, Paulin",F,Kengere,Student,24 Nov 1998
+591,160229557,"Timothy, Regina",F,Yore 2,Household Duties,01 Jan 1974
+592,160509635,"Timothy, Terry",F,Kengere,Self Employed,28 Nov 1996
+593,160439506,"Timothy, Theressia",F,Yore 2,Household Duties,03 Jun 1984
+594,160509725,"Timothy, Tims",F,Yore 2,Student,22 Oct 2002
+595,160509636,"Timothy, Vero",F,Yenglam,Unemployed,17 Aug 1990
+596,160128722,"Tolai, Vero",F,Yore 2,Household Duties,15 Jun 1997
+597,160243146,"Tommy, Noreen",F,Kengere,Household Duties,08 Feb 1980
+598,160243565,"Tonny, Luthia",F,Umu,Household Duties,19 Jun 1978
+599,160243185,"Tunu, Cathy",F,Retret,Household Duties,20 Dec 1980
+600,160509731,"Vincent, Mal",F,Yore 2,Student,22 Oct 1997
+601,160439562,"Vincent, Steveni",F,Yore 2,Household Duties,02 Apr 1998
+602,160243119,"Waki, Balida",F,Mele,Housegirl,20 Nov 1989
+603,160242007,"Waki, Morrin",F,Mele,Housegirl,16 Jul 1988
+604,160128620,"Wapi, Jesinta",F,Yore 2,Household Duties,14 Apr 1982
+605,160165435,"Wapla, Elle",F,Yore 2,Church Worker,05 Feb 1961
+606,160173124,"Waya, Betty",F,Yore 2,Household Duties,01 Jan 1971
+607,160178173,"Waya, Jesinta",F,Yore 2,Student,15 May 1988
+608,160173122,"Waya, Norin",F,Yore 2,Household Duties,01 Jan 1955
+609,160172000,"Wend, Beverlyn",F,Yore 2,Household Duties,04 May 1980
+610,160171903,"Wend, Cicellia",F,Yore 2,Household Duties,15 Oct 1962
+611,160173632,"Wend, Ever",F,Yore 2,Subsistence Farmer,10 Apr 1984
+612,160168674,"Wend, Evonny",F,Yore 2,Household Duties,10 Nov 1977
+613,160184467,"Wend, Grace",F,Yore 2,Household Duties,06 Dec 1980
+614,160171875,"Wend, Gracinda",F,Yore 2,Household Duties,03 Aug 1985
+615,160171905,"Wend, Helen",F,Yore 2,Household Duties,04 May 1979
+616,160171879,"Wend, Irwembi",F,Yore 2,Household Duties,15 Oct 1968
+617,160160602,"Wend, Jasonny",F,Yore 2,Household Duties,12 Oct 1969
+618,160160591,"Wend, Julian",F,Yore 2,Household Duties,16 Sep 1979
+619,160163082,"Wend, Justina",F,Yore 2,Household Duties,06 Oct 1985
+620,160167397,"Wend, Korin",F,Yore 2,Household Duties,20 Dec 1970
+621,160171852,"Wend, Levern",F,Yore 2,Household Duties,10 Dec 1984
+622,160167401,"Wend, Margaret",F,Yore 2,Household Duties,04 Sep 1983
+623,160173638,"Wend, Maria",F,Yore 2,Household Duties,01 Nov 1966
+624,160168531,"Wend, Melisa",F,Yore 2,Student,02 Aug 1980
+625,160176068,"Wend, Nancy",F,Yore 2,Household Duties,04 Oct 1985
+626,160185747,"Wend, Nancy",F,Yore 2,Household Duties,27 Apr 1969
+627,160176175,"Wend, Nogosi",F,Yore 2,Household Duties,11 Oct 1978
+628,160185515,"Wend, Sarah",F,Yore 2,Household Duties,19 Apr 1970
+629,160167389,"Wend, Susan",F,Yore 2,Household Duties,18 May 1978
+630,160187114,"Wend, Weriam",F,Yore 2,Household Duties,01 Jan 2000
+631,160243435,"Wendi, Meline",F,Yowal,Student,28 Dec 1991
+632,160509732,"Wendi, Yanguli",F,Yore 2,Household Duties,23 Sep 1998
+633,160235924,"Wendia, Morrin",F,Rea,Household Duties,19 Apr 1977
+634,160235925,"Wendia, Sisale",F,Rea,Household Duties,18 Jun 1980
+635,160128647,"Wendy, Meclyn",F,Yore 2,Student,12 Jul 1996
+636,160439505,"Werit, Rose",F,Yore 2,Household Duties,02 May 1984
+637,160439502,"Werit, Rosinna",F,Yore 2,Student,04 Feb 2004
+638,160243541,"Willam, Liliyn",F,Umu,Household Duties,08 Jul 1984
+639,160229698,"Wip, Aline",F,Yore 2,Student,01 Jan 1984
+640,160183134,"Wip, Dirimi",F,Yore 2,Housegirl,16 Mar 1979
+641,160229697,"Wip, Dolry",F,Yore 2,Student,10 Aug 1966
+642,160227943,"Wip, Frank",F,Yore 2,Household Duties,01 Jan 1986
+643,160185519,"Wip, Molu",F,Yore 2,Household Duties,18 Nov 1966
+644,160180417,"Wip, Rosa",F,Yore 2,Household Duties,08 Dec 1949
+645,160229558,"Wip, Rosa",F,Yore 2,Household Duties,01 Jan 1971
+646,160243184,"Wisa, Easter",F,Retret,Household Duties,04 Dec 1984
+647,160171993,"Wisu, Renremo",F,Yore 2,Household Duties,03 Jul 1969
+648,160182419,"Wisu, Undirinogo",F,Yore 2,Household Duties,10 Nov 1985
+649,160234780,"Yakop, Anita",F,Rumere,Student,14 Dec 1993
+650,160243143,"Yamba, Cathrin",F,Keta,Household Duties,01 Jan 1978
+651,160188055,"Yanda, Ellygret",F,Yore 2,Housegirl,14 Jan 1987
+652,160187567,"Yanda, Mone",F,Yore 2,Household Duties,17 Jun 1951
+653,160188364,"Yanda, Roselyn",F,Yore 2,Housegirl,11 Sep 1980
+654,160229847,"Yap, Linda",F,Yore 2,Housegirl,01 Jan 1982
+655,160243513,"Yap, Margret",F,Hurul,Household Duties,01 Jan 1981
+656,160243467,"Yasi, Merian",F,Hurul,Household Duties,16 Mar 1989
+657,160243469,"Yasi, Susan",F,Hurul,Student,06 Sep 1992
+658,160229559,"Yei, Nancy",F,Yore 2,Household Duties,01 Jan 1982
+659,160173121,"Yekiara, Lucy",F,Yore 2,Subsistence Farmer,02 Aug 1983
+660,160173119,"Yekiara, Misis",F,Yore 2,Household Duties,03 May 1982
+661,160240645,"Yolopua, Monica",F,Umu,Student,10 Nov 1993
+662,160240644,"Yolopua, Paruna",F,Umu,Household Duties,01 Jan 1960
+663,160509736,"Yope, Carolyn",F,Yore 2,Subsistence Farmer,22 Sep 1990
+664,160439548,"Yope, Catherin",F,Yore 2,Household Duties,26 Mar 1996
+665,160242990,"Yope, Jin",F,Umu,Household Duties,04 Jan 1980
+666,160229691,"Yope, Lidia",F,Yore 2,Household Duties,01 Jan 1972
+667,160176075,"Yope, Lindia",F,Yore 2,Household Duties,17 Nov 1979
+668,160184460,"Agata, Kingi",M,Yore 2,Student,08 Nov 1988
+669,160184458,"Agata, Stanly",M,Yore 2,Houseboy,27 Mar 1976
+670,160139685,"Ago, Peter",M,Yore 2,Student,02 Aug 1990
+671,160188058,"Agomala, Inipia",M,Yore 2,Subsistence Farmer,21 Jul 1966
+672,160190530,"Alea, Kuru",M,Yore 2,Subsistence Farmer,29 Mar 1957
+673,160188375,"Aluwa, Pora",M,Yore 2,Pastor,03 May 1984
+674,160182864,"Aluwa, Ratape",M,Yore 2,Subsistence Farmer,02 May 1981
+675,160180617,"Amesi, Surua",M,Yore 2,Unemployed,01 Jan 1930
+676,160221907,"Amua, Ferman",M,Yore 2,Student,30 Apr 1983
+677,160221919,"Amua, Gerry",M,Yore 2,Student,15 Aug 1980
+678,160509637,"Amua, Melkeyford",M,Yore 2,Student,23 Nov 1998
+679,160509638,"Amua, Nono",M,Yore 2,Baby Sitter,25 Jan 2000
+680,160220885,"Amua, Ronal",M,Yore 2,Houseboy,01 Jan 2000
+681,160220817,"Amua, Soty",M,Yore 2,Houseboy,16 Jul 1985
+682,160509640,"Amua, Stanley",M,Yore 2,Student,28 Apr 2004
+683,160229690,"Anape, Amos",M,Yore 2,Student,01 Jan 1986
+684,160243172,"Andrew, Lopa",M,Kado,Student,01 Jan 1990
+685,160128741,"Ango, Benjamin",M,Yore 2,Student,06 May 1992
+686,160128746,"Ango, Francy",M,Yore 2,Student,10 Nov 1998
+687,160139686,"Ango, Garry",M,Yore 2,Student,05 May 1991
+688,160128740,"Ango, John",M,Yore 2,Machinist,21 Mar 1989
+689,160128737,"Ango, Joseph",M,Yore 2,Student,22 May 1965
+690,160128743,"Ango, Joshua",M,Yore 2,Student,20 Jul 1998
+691,160128736,"Ango, Kiemol",M,Yore 2,Student,01 Mar 1983
+692,160128745,"Ango, Remo",M,Yore 2,Student,04 Aug 1997
+693,160139688,"Ango, Yako",M,Yore 2,Student,01 Oct 1998
+694,160128738,"Ango, Yowa",M,Yore 2,Student,07 Feb 1991
+695,160173150,"Arima, Jeff",M,Yore 2,Subsistence Farmer,04 Aug 1978
+696,160439467,"Ariyo, Awesa",M,Yore 2,Student,21 Sep 2002
+697,160509644,"Bepi, Chris",M,Yore 2,Household Duties,23 Nov 1987
+698,160184578,"Bepi, Dickson",M,Yore 2,Student,12 Apr 1981
+699,160509646,"Binowi, Jasmine",M,Yore 2,Student,24 Dec 1981
+700,160509647,"Binowi, Justin",M,Yore 2,Plumber,23 Nov 1973
+701,160243444,"Bolo, Nelson",M,Yowal,Self Employed,17 Dec 1970
+702,160439388,"Bosave, Gaso",M,Yore 2,Student,09 Jan 2004
+703,160439325,"Bosave, Obert",M,Yore 2,Subsistence Farmer,05 Jul 2000
+704,160439550,"Bosave, Robert",M,Yore 2,Student,07 Apr 2004
+705,160439380,"Bosave, Salom",M,Yore 2,Student,04 Jan 2004
+706,160439368,"Bosave, Semi",M,Yore 2,Student,01 Dec 2000
+707,160439546,"Bosave, Steven",M,Yore 2,Student,20 Apr 2000
+708,160509650,"Buka, Gassom",M,Yore 2,Student,04 Oct 2001
+709,160217905,"Buka, Isaac",M,Yore 2,Subsistence Farmer,17 Dec 1984
+710,160234911,"Buka, Kingi",M,Mol,Student,12 Jul 1989
+711,160216593,"Buka, Linus",M,Yore 2,Household Duties,16 Dec 1984
+712,160509652,"Buka, Meagi",M,Yore 2,Baker,28 Apr 2003
+713,160216590,"Buka, Nande",M,Yore 2,Subsistence Farmer,17 Dec 1986
+714,160162780,"Buka, Poripa",M,Yore 2,Self Employed,12 Nov 1978
+715,160216004,"Buka, Sali",M,Yore 2,Subsistence Farmer,17 Feb 1981
+716,160439364,"Buka, Tana",M,Yore 2,Student,06 Apr 2000
+717,160217820,"Buka, Yokepita",M,Yore 2,Subsistence Farmer,01 Jan 1986
+718,160242993,"Busu, John",M,Umu,Subsistence Farmer,24 Apr 1980
+719,160229695,"Busu, Kalari",M,Yore 2,Driver,01 Jan 1972
+720,160227938,"Charlie, Nelson",M,Yore 2,Student,01 Jan 1986
+721,160215878,"Cloman, Geromy",M,Yore 2,Teacher,01 Jan 1981
+722,160509654,"Coip, John",M,Yore 2,Household Duties,22 Oct 1990
+723,160139692,"Colman, Anderson",M,Yore 2,Student,01 Mar 1999
+724,160128752,"Colman, Andy",M,Yore 2,Student,24 Mar 1998
+725,160128605,"Colman, Awaken",M,Yore 2,Student,23 Feb 1999
+726,160439309,"Colman, Bosco",M,Yore 2,Student,04 Mar 2004
+727,160439306,"Colman, Boss",M,Yore 2,Student,19 Feb 2000
+728,160128595,"Colman, Chad",M,Yore 2,Student,28 Mar 1999
+729,160439320,"Colman, Erte",M,Yore 2,Student,05 Mar 2004
+730,160439314,"Colman, Faithson",M,Yore 2,Student,02 Apr 2004
+731,160128749,"Colman, Febian",M,Yore 2,Student,15 Feb 1999
+732,160128753,"Colman, Goren",M,Yore 2,Student,18 Mar 1999
+733,160439382,"Colman, Hapyap",M,Yore 2,Student,28 Apr 2004
+734,160439543,"Colman, Jaycee",M,Yore 2,Student,07 Apr 2000
+735,160182971,"Colman, John",M,Yore 2,Teacher,23 Apr 1977
+736,160139694,"Colman, Jorden",M,Yore 2,Student,24 Apr 1998
+737,160139695,"Colman, Junior",M,Yore 2,Student,27 Dec 1998
+738,160128601,"Colman, Ken",M,Yore 2,Student,21 Jan 1999
+739,160439316,"Colman, Kopa",M,Yore 2,Student,03 Apr 2004
+740,160215101,"Colman, Mathew",M,Yore 2,Student,01 Feb 1981
+741,160439560,"Colman, Mei",M,Yore 2,Student,07 Apr 2000
+742,160182434,"Colman, Micheal",M,Yore 2,Pastor,09 Jun 1974
+743,160439384,"Colman, Nolpi",M,Yore 2,Student,28 Apr 2004
+744,160128596,"Colman, Patrick",M,Yore 2,Subsistence Farmer,30 Jul 1981
+745,160187322,"Colman, Sevin",M,Yore 2,Student,26 Dec 1981
+746,160128600,"Colman, Travis",M,Yore 2,Student,18 Apr 1999
+747,160439446,"Daniel, Macwind",M,Yore 2,Student,22 Apr 2000
+748,160243764,"David, Daniel",M,Urul,Subsistence Farmer,01 Jan 1989
+749,160243463,"David, Mothy",M,Wesda,Student,01 Jan 1993
+750,160243462,"David, Othy",M,Wesda,Student,01 Jan 1991
+751,160243464,"David, Rothy",M,Wesda,Student,01 Jan 1990
+752,160509655,"Dickson, Bepi",M,Yore 2,Student,23 Nov 1998
+753,160243241,"Dol, Mondu",M,Hurul,Subsistence Farmer,16 Apr 1988
+754,160128623,"Elais, Anjelas",M,Yore 2,Student,14 Jul 1996
+755,160439515,"Elais, Willy",M,Yore 2,Student,01 Apr 2000
+756,160187230,"Epala, John",M,Yore 2,Student,25 Sep 1970
+757,160187232,"Epala, Kopeap",M,Yore 2,Student,19 Aug 1982
+758,160188461,"Epala, Moses",M,Yore 2,Student,18 Sep 1981
+759,160187697,"Epala, Paul",M,Yore 2,Student,16 Feb 1984
+760,160187327,"Epala, Saki",M,Yore 2,Self Employed,15 Feb 1967
+761,160178155,"Eprep, Joda",M,Yore 2,Student,02 Apr 1985
+762,160185718,"Eprep, Nathan",M,Yore 2,Pastor,30 Mar 1977
+763,160243620,"Eret, John",M,Urul,Subsistence Farmer,16 Oct 1961
+764,160439347,"Eric, Jeffinah",M,Yore 2,Student,07 Apr 2004
+765,160439345,"Eric, Jefta",M,Yore 2,Student,06 Apr 2004
+766,160243063,"Esu, Rumere",M,Keta,Subsistence Farmer,01 Jan 1989
+767,160243005,"Eyosi, Alex",M,Umu,Student,01 Feb 1990
+768,160183127,"Eyosi, Nowi",M,Yore 2,Student,12 Oct 1981
+769,160243651,"Eyosi, Pisa",M,Umu,Student,02 Apr 1992
+770,160183123,"Eyosi, Yope",M,Yore 2,Houseboy,18 Apr 1978
+771,160439303,"Gapi, Abra",M,Yore 2,Student,28 Apr 2004
+772,160439474,"Gapi, Danny",M,Yore 2,Student,04 Feb 2003
+773,160439477,"Gapi, Malpon",M,Yore 2,Student,16 Feb 2004
+774,160243535,"Gerry, Limax",M,Umu,Student,22 Nov 1993
+775,160233179,"Inesolo, Keta",M,Yore 2,Subsistence Farmer,01 Jan 1960
+776,160240483,"Ingid, Apkas",M,Umu,Subsistence Farmer,12 Oct 1970
+777,160182857,"Ingip, Moses",M,Yore 2,Houseboy,04 Oct 1988
+778,160243766,"Ingip, Oberth",M,Urul,Student,04 Feb 1993
+779,160153466,"Ingip, Pesu",M,Yore 2,Houseboy,02 Jul 1985
+780,160243351,"Jackob, Micheal",M,Hurul,Student,20 Jun 1986
+781,160439484,"Jackop, Elisa",M,Yore 2,Student,02 Apr 2004
+782,160439488,"Jackop, Steword",M,Yore 2,Student,02 Apr 2004
+783,160243631,"Jackson, Talex",M,Umu,Student,21 Oct 1994
+784,160235152,"Janathan, Lus",M,Wesda,Student,07 Oct 1994
+785,160439525,"Jeffery, Talua",M,Yore 2,Student,06 Mar 2000
+786,160235154,"Jerom, Stallon",M,Wesda,Student,08 Jan 1994
+787,160159971,"Jerry, Laspaip",M,Yore 2,Houseboy,30 Jul 1988
+788,160235176,"Jetro, Onde",M,Wesda,Student,03 Apr 1984
+789,160439404,"Joel, Mananse",M,Yore 2,Student,02 Apr 2004
+790,160439517,"John, Alpi",M,Yore 2,Student,20 Apr 2000
+791,160243398,"John, Andrew",M,Retret,Student,16 Dec 1984
+792,160243399,"John, Apol",M,Retret,Student,20 Jan 1988
+793,160439542,"John, Awapb",M,Yore 2,Student,02 Apr 2001
+794,160439555,"John, David",M,Yore 2,Student,02 Apr 2002
+795,160243238,"John, Doli",M,Retret,Student,01 Jan 1984
+796,160243621,"John, Doli",M,Urul,Student,17 Jun 1994
+797,160439518,"John, Fredi",M,Yore 2,Student,08 Jan 2001
+798,160243264,"John, George",M,Umu,Student,30 Sep 1984
+799,160243167,"John, Ishan",M,Kengere,Student,03 Mar 1992
+800,160234603,"John, Joshua",M,Rumere,Student,15 Mar 1984
+801,160439394,"John, Kame",M,Yore 2,Student,02 Apr 2004
+802,160243342,"John, Ken",M,Retret,Subsistence Farmer,16 Nov 1987
+803,160234600,"John, Lapun",M,Rumere,Student,16 Jul 1993
+804,160243628,"John, Mackda",M,Urul,Housegirl,10 Dec 1975
+805,160185707,"John, Moria",M,Yore 2,Subsistence Farmer,01 Jan 1986
+806,160243622,"John, Ondo",M,Urul,Student,20 Jul 1994
+807,160243401,"John, Repo",M,Retret,Student,20 Jan 1986
+808,160243314,"John, Tunu",M,Retret,Self Employed,16 Oct 1984
+809,160184435,"John, Yolu",M,Yore 2,Subsistence Farmer,01 Jan 1983
+810,160242988,"Jorom, Ako",M,Umu,Student,21 Jun 1994
+811,160243570,"Jorom, Gordan",M,Umu,Student,02 Jul 1993
+812,160242998,"Jorom, Medleson",M,Umu,Student,03 Apr 1990
+813,160509660,"Joseph, Paula",M,Yore 2,Consultant,28 Apr 2004
+814,160509661,"Joshua, Kunz",M,Yore 2,Accountant,22 Nov 1997
+815,160509625,"Junior, Unis",M,Kengere,Baker,23 Oct 1999
+816,160509626,"Kalpeal, Peter",M,Kengere,Student,24 Nov 1970
+817,160186015,"Kalpeol, Abot",M,Yore 2,Student,19 Jun 1988
+818,160187416,"Kalpeol, Sasio",M,Yore 2,Student,16 Nov 1986
+819,160243539,"Kam, Rexan",M,Umu,Student,10 Nov 1990
+820,160243563,"Kam, Tatius",M,Umu,Subsistence Farmer,16 Jul 1987
+821,160128606,"Kamkapu, Akai",M,Yore 2,Student,23 Jun 1998
+822,160177819,"Kandepea, Samo",M,Yore 2,Subsistence Farmer,15 Aug 1936
+823,160175785,"Kasu, Peasi",M,Yore 2,Subsistence Farmer,18 Jun 1937
+824,160439547,"Kay, John",M,Yore 2,Pastor,03 Mar 1989
+825,160190437,"Kay, Nakisi",M,Yore 2,Subsistence Farmer,15 Apr 1956
+826,160190596,"Kay, Penjo",M,Yore 2,Subsistence Farmer,15 Feb 1967
+827,160241126,"Kei, Wendia",M,Rea,Subsistence Farmer,06 Dec 1965
+828,160128638,"Kend, Stanley",M,Yore 2,Subsistence Farmer,12 Feb 1981
+829,160128728,"Kendeapa, Kombya",M,Yore 2,Subsistence Farmer,08 Jul 1984
+830,160139520,"Kendeapea, Icen",M,Yore 2,Student,02 Jun 1996
+831,160139521,"Kendeapea, Rex",M,Yore 2,Houseboy,23 May 1989
+832,160139684,"Kendepa, Daniel",M,Yore 2,Student,05 Apr 1997
+833,160128724,"Kendepa, Greg",M,Yore 2,Student,04 Jun 1997
+834,160128725,"Kendepa, Kandex",M,Yore 2,Student,02 Mar 1998
+835,160188372,"Kendepea, Charlie",M,Yore 2,Driver,11 May 1957
+836,160183036,"Kendepea, Dickson",M,Yore 2,Subsistence Farmer,22 Mar 1974
+837,160175612,"Kendepea, Jeffery",M,Yore 2,Subsistence Farmer,03 Apr 1971
+838,160182690,"Kendepea, Jeri maya",M,Yore 2,Student,21 Nov 1981
+839,160243160,"Kendepea, Jethro ipis",M,Kengere,Student,10 Dec 1987
+840,160186043,"Kendepea, Jetro",M,Yore 2,Student,21 Mar 1988
+841,160160736,"Kendepea, Joel",M,Yore 2,Student,05 Apr 1984
+842,160185701,"Kendepea, Josuha",M,Yore 2,Student,30 Mar 1982
+843,160171846,"Kendepea, Junior",M,Yore 2,Student,14 Jun 1984
+844,160163282,"Kendepea, Kengi",M,Yore 2,Subsistence Farmer,01 Jan 1946
+845,160176062,"Kendepea, Lesly",M,Yore 2,Student,05 Apr 1985
+846,160163285,"Kendepea, Michael",M,Yore 2,Subsistence Farmer,01 Jan 1960
+847,160176058,"Kendepea, Nande",M,Yore 2,Subsistence Farmer,01 May 1982
+848,160163286,"Kendepea, Nuia",M,Yore 2,Subsistence Farmer,01 Jan 1964
+849,160186016,"Kendepea, Patrick",M,Yore 2,Student,03 Aug 1988
+850,160243155,"Kendepea, Piap",M,Kengere,Student,12 Apr 1990
+851,160185865,"Kendepea, Pumi",M,Yore 2,Student,16 Apr 1988
+852,160186046,"Kendepea, Puri",M,Yore 2,Subsistence Farmer,01 Jan 1959
+853,160172010,"Kendepea, Richard",M,Yore 2,Student,11 Jan 1988
+854,160186017,"Kendepea, Sakim",M,Yore 2,Driver,05 Sep 1979
+855,160173644,"Kendepea, Stimo",M,Yore 2,Student,04 Mar 1981
+856,160243156,"Kendepea, Thompson",M,Kengere,Student,30 Apr 1990
+857,160173139,"Kendepea, Timothy",M,Yore 2,Student,25 Nov 1988
+858,160182426,"Kendepea, Ucy",M,Yore 2,Student,15 Sep 1987
+859,160243159,"Kendepea, Wallace",M,Kengere,Student,04 Apr 1994
+860,160185606,"Kendepea, Willie",M,Yore 2,Student,01 Oct 1984
+861,160176181,"Kendepea, Wolup",M,Yore 2,Student,01 May 1982
+862,160128612,"Kendepea, Yasi",M,Yore 2,Houseboy,02 Mar 1987
+863,160168527,"Kendepea, Yutikas",M,Yore 2,Student,07 Jun 1988
+864,160187421,"Kendex, Anis",M,Yore 2,Subsistence Farmer,01 Jan 1982
+865,160187314,"Kendex, Blackara",M,Yore 2,Subsistence Farmer,01 Jan 1982
+866,160187309,"Kendex, Kasop",M,Yore 2,Teacher,01 Jan 1981
+867,160160608,"Kenge, Luke",M,Yore 2,Subsistence Farmer,19 Nov 1971
+868,160168544,"Kenge, Timothy",M,Yore 2,Pastor,20 Mar 1974
+869,160180462,"Kengi, Bepi",M,Yore 2,Driver,17 Apr 1970
+870,160193635,"Kengi, Colman",M,Yore 2,Carpenter,21 Feb 1958
+871,160439386,"Kengi, Esther",M,Yore 2,Carpenter,04 May 1964
+872,160128727,"Kengi, James",M,Yore 2,Subsistence Farmer,05 Feb 1985
+873,160196837,"Kengi, John",M,Yore 2,Student,11 Sep 1969
+874,160243866,"Kengi, Lista",M,Kengere,Student,17 Apr 1985
+875,160243151,"Kengi, Margaret",M,Kengere,Student,20 Dec 1980
+876,160201654,"Kengi, Soty",M,Yore 2,Student,14 Mar 1988
+877,160180487,"Kengi, Steven",M,Yore 2,Student,28 May 1985
+878,160243534,"Kengi, Tommy",M,Kengere,Self Employed,20 Dec 1985
+879,160243157,"Kengi, Warea",M,Kengere,Student,06 Jan 1994
+880,160213125,"Kessy, Jetly",M,Yore 2,Subsistence Farmer,01 Jan 1982
+881,160215105,"Kessy, Kruis",M,Yore 2,Carpenter,01 Jan 1970
+882,160243357,"Kessy, Peterson",M,Hurul,Subsistence Farmer,01 Jan 1992
+883,160243266,"Kessy, Rogomo",M,Umu,Student,20 Jan 1989
+884,160215098,"Kessy, Waya",M,Yore 2,Mechanic,01 Jan 1980
+885,160165432,"Kilari, Busu",M,Yore 2,Subsistence Farmer,16 Apr 1959
+886,160234913,"Kingi, Oberth",M,Mol,Student,18 Dec 1988
+887,160234912,"Kingi, Roberth",M,Mol,Student,16 Nov 1985
+888,160243566,"Kinz, Nathan",M,Umu,Subsistence Farmer,07 Feb 1980
+889,160163251,"Kiwa, Anga",M,Yore 2,Subsistence Farmer,03 Apr 1983
+890,160160021,"Kiwa, Betty",M,Yore 2,Subsistence Farmer,03 Jun 1980
+891,160163253,"Kiwa, Buka",M,Yore 2,Committee Member,03 Apr 1972
+892,160439357,"Kiwa, Denial",M,Yore 2,Student,09 Feb 2003
+893,160509662,"Kiwa, Fijo",M,Yore 2,Budgeting Officer,28 Apr 2003
+894,160509663,"Kiwa, Fijo",M,Yore 2,Cashier,28 Apr 2004
+895,160509665,"Kiwa, Gedion",M,Yore 2,Student,28 Apr 2004
+896,160163272,"Kiwa, Jacob",M,Yore 2,Student,07 Mar 1982
+897,160165455,"Kiwa, Kondo",M,Yore 2,Subsistence Farmer,05 Mar 1981
+898,160160018,"Kiwa, Landon",M,Yore 2,Student,04 Jun 1980
+899,160163249,"Kiwa, Lasmon",M,Yore 2,Student,04 Sep 1985
+900,160168712,"Kiwa, Lemis",M,Yore 2,Subsistence Farmer,02 Apr 1976
+901,160165592,"Kiwa, Peri",M,Yore 2,Subsistence Farmer,04 Jul 1987
+902,160163254,"Kiwa, Philip",M,Yore 2,Student,03 Nov 1984
+903,160163266,"Kiwa, Riggy",M,Yore 2,Student,03 Jul 1985
+904,160160519,"Kiwa, Winni",M,Yore 2,Subsistence Farmer,04 May 1984
+905,160128651,"Kobol, Jafeth",M,Yore 2,Student,19 Feb 1998
+906,160128732,"Kobol, Jeffery",M,Yore 2,Student,04 Jul 1980
+907,160234760,"Kom, Peknaik",M,Parure,Subsistence Farmer,11 Jul 1958
+908,160234595,"Kom, Peter",M,Parure,Subsistence Farmer,06 Feb 1960
+909,160235166,"Kom, Sam",M,Parure,Student,16 Aug 1986
+910,160183118,"Kono, Eyosi",M,Yore 2,Subsistence Farmer,01 Jan 1900
+911,160215088,"Kopa, Kalepeol",M,Yore 2,Subsistence Farmer,06 Jul 1964
+912,160160510,"Kosnail, Wanpis",M,Yore 2,Student,03 Apr 1984
+913,160162784,"Kum, Simon",M,Yore 2,Student,12 Jul 1972
+914,160439535,"Kunz, Awape",M,Yore 2,Student,03 Apr 2004
+915,160180571,"Kunz, Francis",M,Yore 2,Houseboy,18 Nov 1986
+916,160180577,"Kunz, Joshua",M,Yore 2,Student,01 Jan 1987
+917,160128609,"Kunz, Nega",M,Yore 2,Supervisor,16 Apr 1999
+918,160128611,"Kunz, Nega",M,Yore 2,Student,10 Jan 1999
+919,160243545,"Kunz, Onge",M,Umu,Student,21 Oct 1984
+920,160185811,"Kunz, Ottoma",M,Yore 2,Student,28 Nov 1977
+921,160185601,"Kunz, Pisa",M,Yore 2,Houseboy,18 Jul 1984
+922,160128607,"Kunz, Ruben",M,Yore 2,Student,19 Apr 1999
+923,160139516,"Kunz, Rume",M,Yore 2,Consultant,17 Feb 1981
+924,160185512,"Kurap, Ratis",M,Yore 2,Student,04 Oct 1983
+925,160189916,"Kuru, Barbara",M,Yore 2,Student,30 Apr 1986
+926,160189927,"Kuru, Daniel",M,Yore 2,Houseboy,12 Aug 1983
+927,160188336,"Kuru, Eric",M,Yore 2,Student,11 Apr 1985
+928,160188497,"Kuru, Jacob",M,Yore 2,Pastor,06 Nov 1980
+929,160243450,"Kusa, Chris",M,Yowal,Self Employed,10 Dec 1989
+930,160509669,"Kusa, Judy",M,Yore 2,Student,23 Nov 1998
+931,160509670,"Kusa, Lemeck",M,Yore 2,Student,23 Oct 1998
+932,160221929,"Kusa, Paul",M,Yore 2,Student,14 Jun 1978
+933,160509671,"Kusa, Stanford",M,Yore 2,Malaria Sprayer,28 Nov 1998
+934,160221994,"Kusa, Wari",M,Yore 2,Public Servant,13 Sep 1968
+935,160439351,"Lemis, Nemord",M,Yore 2,Student,02 Jun 2000
+936,160243572,"Leno, Jackob",M,Mele,Student,11 Jul 1986
+937,160182972,"Leslie, Kendex",M,Yore 2,Teacher,01 Jan 1984
+938,160187319,"Leslie, Morris",M,Yore 2,Subsistence Farmer,01 Jan 1983
+939,160439400,"Lesta, Sten",M,Yore 2,Student,02 Apr 2004
+940,160229464,"Lopia, Kane",M,Rumere,Subsistence Farmer,01 Jan 1972
+941,160234773,"Lopia, Tom",M,Rumere,Student,10 Nov 1986
+942,160128634,"Luke, John",M,Yore 2,Subsistence Farmer,11 Aug 1980
+943,160509673,"Luke, Timon",M,Yore 2,Household Duties,20 Mar 1993
+944,160509674,"Lun, Siro",M,Yore 2,Subsistence Farmer,04 Nov 1994
+945,160439558,"Lus, Maxford",M,Yore 2,Student,03 Apr 2000
+946,160243242,"Lus, Yamba",M,Hurul,Student,25 Dec 1994
+947,160243629,"Malaki, John",M,Umu,Houseboy,01 Jan 1970
+948,160243774,"Malaki, Kopeap",M,Umu,Student,10 Nov 1981
+949,160243627,"Malaki, Paul",M,Umu,Student,12 Dec 1984
+950,160128627,"Malnaki, Adol",M,Yore 2,Student,14 Feb 1996
+951,160128629,"Malnaki, Emhilton",M,Yore 2,Student,19 Jan 1998
+952,160128630,"Malnaki, Hilinton",M,Yore 2,Student,17 Apr 1994
+953,160439491,"Manus, Kusa",M,Yore 2,Student,03 Apr 2000
+954,160243547,"Mark, Erick",M,Umu,Subsistence Farmer,15 Oct 1984
+955,160234604,"Mark, Junior",M,Rumere,Student,06 Mar 1994
+956,160243542,"Mark, Samial",M,Umu,Student,07 Dec 1993
+957,160243302,"Mark, Sol",M,Hurul,Subsistence Farmer,01 Jan 1960
+958,160234763,"Mark, Vensi",M,Rumere,Student,01 Dec 1992
+959,160160034,"Marop, Gerry",M,Yore 2,Subsistence Farmer,30 Nov 1968
+960,160160125,"Marop, Jackson",M,Yore 2,Subsistence Farmer,02 Oct 1968
+961,160159940,"Marop, Rex",M,Yore 2,Houseboy,14 Aug 1979
+962,160233176,"Mathew, Ben",M,Yore 2,Student,02 Nov 1985
+963,160233177,"Mathew, Remo",M,Yore 2,Student,08 Dec 1993
+964,160439427,"Mathias, Granfic",M,Yore 2,Student,25 Mar 2000
+965,160439431,"Mathias, Hiya",M,Yore 2,Subsistence Farmer,28 Sep 1993
+966,160439442,"Mathias, Sapi",M,Yore 2,Student,03 Nov 2001
+967,160439429,"Mathias, Winty",M,Yore 2,Student,15 Apr 2000
+968,160215889,"May, Pulbere",M,Yore 2,Subsistence Farmer,01 Jan 1952
+969,160509678,"Meagy, Melda",M,Yore 2,Household Duties,22 Sep 1996
+970,160439514,"Megere, Joe",M,Yore 2,Subsistence Farmer,11 Jul 2000
+971,160215858,"Megi, Ipis",M,Yore 2,Subsistence Farmer,17 Oct 1985
+972,160241861,"Megili, Aluwis",M,Umu,Student,11 Apr 1980
+973,160243133,"Megili, Jacob",M,Umu,Student,06 Dec 1984
+974,160243555,"Megili, Otmar",M,Umu,Self Employed,16 Dec 1978
+975,160188492,"Megili, Ottma",M,Yore 2,Student,15 Sep 1982
+976,160233180,"Meken, Mele",M,Yore 2,Subsistence Farmer,01 Jan 1969
+977,160233181,"Mele, Sino",M,Yore 2     Health Extention Officer 01 Jan 1989,"311     160215496     Menge, Lessly              M        Yore 2     Subsistence Farmer",19 Oct 1985
+978,160215837,"Menge, Makai",M,Yore 2,Driver,19 Mar 1986
+979,160229675,"Miamo, Anape",M,Yore 2,Subsistence Farmer,01 Jan 1959
+980,160227945,"Miamo, Momo",M,Yore 2,Subsistence Farmer,01 Jan 1962
+981,160128637,"Michael, Hagai",M,Yore 2,Student,10 Jan 1992
+982,160509680,"Michael, Tonny",M,Yore 2,Subsistence Farmer,28 Apr 2003
+983,160243377,"Micheal, Hawene",M,Hurul,Teacher,01 Jan 1987
+984,160243418,"Micheal, Justin",M,Hurul,Subsistence Farmer,01 Jan 1967
+985,160243581,"Micheal, Pathrus",M,Hurul,Student,01 Jan 1984
+986,160243553,"Molnaik, Megilli",M,Mele,Mechanic,12 Oct 1961
+987,160243564,"Molnaik, Tonny",M,Umu,Electrician,20 Jul 1960
+988,160243571,"Molnaik, Waki",M,Mele,Subsistence Farmer,11 Jun 1961
+989,160188474,"Molnaiki, Leon",M,Yore 2,Store Keeper,28 Apr 1960
+990,160188677,"Molnaiki, Nelson",M,Yore 2,Student,08 Oct 1983
+991,160188457,"Molnaiki, Wilson",M,Yore 2,Houseboy,16 Dec 1985
+992,160235155,"Monda, James",M,Wesda,Subsistence Farmer,01 Jan 1985
+993,160243772,"Monda, Mothy",M,Umu,Student,07 Sep 1990
+994,160243784,"Monda, Othy",M,Umu,Student,22 Nov 1990
+995,160139527,"Monda, Otniel",M,Yore 2,Student,17 Jul 1996
+996,160235157,"Monda, Wanpis",M,Wesda,Student,01 Jan 1989
+997,160128633,"Mondo, Tatus",M,Yore 2,Student,12 Nov 1997
+998,160243767,"Moses, Malaki",M,Umu,Student,11 Oct 1985
+999,160243141,"Mudia, Bari",M,Keta,Student,20 Oct 1994
+1000,160243079,"Mudia, Inopu",M,Keta,Teacher,01 Jan 1984
+1001,160243080,"Mudia, Obulap",M,Keta,Subsistence Farmer,01 Jan 1987
+1002,160243173,"Muner, John",M,Kengere,Pastor,06 Dec 1980
+1003,160128644,"Muri, Linot",M,Yore 2,Student,14 Feb 1997
+1004,160128642,"Muri, Nathaniel",M,Yore 2,Student,19 Oct 1986
+1005,160185616,"Muri, Peter",M,Yore 2,Councillor,18 Sep 1978
+1006,160439433,"Naikisi, Wari",M,Yore 2,Student,27 Apr 2000
+1007,160243783,"Nakisi, Doli",M,Umu,Student,27 Mar 1989
+1008,160190525,"Nakisi, Emane",M,Yore 2,Houseboy,17 Feb 1988
+1009,160128617,"Nakisi, Joel",M,Yore 2,Student,12 Nov 1998
+1010,160139523,"Nakisi, Leo",M,Yore 2,Student,04 Feb 1998
+1011,160243618,"Namba, Yasi",M,Urul,Subsistence Farmer,11 Aug 1972
+1012,160243543,"Nathan, Rodricker",M,Umu,Student,19 Aug 1993
+1013,160243549,"Nathan, Timothy",M,Umu,Student,25 Nov 1981
+1014,160501161,"Nelson, Bopi",M,Yore 2,Student,15 Apr 2000
+1015,160128586,"Nelson, Epo",M,Yore 2,Student,04 Jul 1996
+1016,160128587,"Nelson, Iven",M,Yore 2,Student,17 Mar 1998
+1017,160439440,"Nelson, Jeff",M,Yore 2,Teacher,04 Jul 1993
+1018,160243441,"Nelson, Pukii",M,Yowal,Student,16 Dec 1990
+1019,160439438,"Nelson, Ronold",M,Yore 2,Student,22 Sep 1996
+1020,160439436,"Nelson, Steven",M,Yore 2,Student,27 Nov 1993
+1021,160439470,"Nelson, Willson",M,Yore 2,Student,25 Apr 2004
+1022,160439374,"Nono, Alopa",M,Yore 2,Student,07 Apr 2004
+1023,160439321,"Nono, Gerek",M,Yore 2,Student,05 Mar 2004
+1024,160509685,"Norin, Kunz",M,Yore 2,Household Duties,22 Oct 1998
+1025,160243460,"Nowi, Alex",M,Rirarogo,Student,12 Nov 1984
+1026,160243461,"Nowi, Jasford",M,Rirarogo,Student,04 Mar 1990
+1027,160243459,"Nowi, Rogut",M,Rirarogo,Subsistence Farmer,16 Apr 1988
+1028,160509686,"Nuia, Jerry",M,Yore 2,Houseboy,22 Oct 1991
+1029,160243148,"Nuia, Willson",M,Kengere,Student,26 Oct 1985
+1030,160439540,"Ogu, Nipanaki",M,Yore 2,Student,02 Apr 2004
+1031,160160507,"Olesu, Monda",M,Yore 2,Subsistence Farmer,29 Apr 1971
+1032,160165433,"Oluwa, Paul",M,Yore 2,Subsistence Farmer,17 Feb 1981
+1033,160243067,"Onde, Yamba",M,Keta,Teacher,01 Jan 1970
+1034,160439463,"Onge, Kenneth",M,Yore 2,Student,10 Apr 2004
+1035,160243779,"Onge, Mark",M,Umu,Household Duties,26 Sep 1967
+1036,160439455,"Onge, Remond",M,Yore 2,Driver,07 Aug 1997
+1037,160160033,"Pala, Max",M,Yore 2,Student,26 Oct 1988
+1038,160182427,"Paropsi, Make",M,Yore 2,Subsistence Farmer,02 Jul 1979
+1039,160182425,"Paropsi, Merepsi",M,Yore 2,Subsistence Farmer,03 Jul 1982
+1040,160439520,"Pat, Runi",M,Yore 2,Driver,12 Jun 1998
+1041,160509687,"Patrick, Charlie",M,Yore 2,Student,28 Apr 2004
+1042,160234921,"Paul, Antony",M,Mol,Student,04 Dec 1990
+1043,160241131,"Paul, Colman",M,Umu,Student,02 Oct 1992
+1044,160243560,"Paul, Endi",M,Umu,Student,16 Nov 1991
+1045,160243558,"Paul, George",M,Umu,Subsistence Farmer,16 Oct 1967
+1046,160241132,"Paul, Merian",M,Umu,Household Duties,10 Feb 1980
+1047,160234920,"Paul, Mone",M,Mol,Student,03 Feb 1990
+1048,160439496,"Paul, Nicker",M,Yore 2,Student,06 Apr 2004
+1049,160182673,"Peasi, Jorom",M,Yore 2,Not Specified,16 Nov 1974
+1050,160182671,"Peiya, Jep",M,Yore 2,Carpenter,03 Jul 1981
+1051,160183033,"Peiya, Kenger songo",M,Yore 2,Subsistence Farmer,03 Aug 1982
+1052,160182683,"Peiya, Mal",M,Yore 2,Teacher,02 Jul 1982
+1053,160243174,"Peiya, Mathew",M,Bispa,Self Employed,12 Aug 1970
+1054,160185675,"Peiya, Olumbi",M,Yore 2,Subsistence Farmer,03 Sep 1981
+1055,160175613,"Peiya, Polope",M,Yore 2,Subsistence Farmer,02 Jul 1977
+1056,160182686,"Peiya, Reti",M,Yore 2,Subsistence Farmer,03 Jul 1970
+1057,160175796,"Peiya, Sapu",M,Yore 2,Subsistence Farmer,03 Jul 1984
+1058,160243176,"Peiya, Timothy",M,Bispa,Student,12 Feb 1992
+1059,160183139,"Peiya, Yeri",M,Yore 2,Household Duties,05 Aug 1982
+1060,160185612,"Pelea, Jeff",M,Yore 2,Subsistence Farmer,01 Jan 1980
+1061,160186038,"Pelea, John",M,Yore 2,Driver,01 Jan 1987
+1062,160235164,"Pelea, Sampson",M,Parure,Student,01 Mar 1983
+1063,160185615,"Pelea, Sirox",M,Yore 2,Subsistence Farmer,01 Jan 1983
+1064,160234757,"Pena, Ricky",M,Parure,Student,01 Feb 1989
+1065,160243140,"Penelopu, Cola",M,Keta,Teacher,01 Dec 1987
+1066,160243078,"Penelopu, Mathias",M,Keta,Student,11 Jan 1989
+1067,160243076,"Penelopu, Peter",M,Keta,Student,22 Dec 1994
+1068,160190023,"Penjo, Kudunu",M,Yore 2,Church Worker,10 Dec 1966
+1069,160184449,"Pesu, Tape",M,Yore 2,Student,04 Dec 1986
+1070,160215848,"Peter, Atasi",M,Yore 2,Subsistence Farmer,01 Jan 1980
+1071,160178153,"Peter, David",M,Yore 2,Subsistence Farmer,29 Dec 1985
+1072,160439500,"Peter, Dion",M,Yore 2,Student,05 Feb 2004
+1073,160439530,"Peter, Gidion",M,Yore 2,Student,03 Aug 2003
+1074,160234605,"Peter, Jackson",M,Rumere,Student,16 Feb 1986
+1075,160243765,"Peter, Jayson",M,Urul,Student,03 Feb 1994
+1076,160128592,"Peter, Jererey",M,Yore 2,Carpenter,04 Mar 1984
+1077,160439528,"Peter, Kinslly",M,Yore 2,Student,03 Apr 2000
+1078,160509628,"Peter, Leon",M,Kengere,Self Employed,28 Apr 2002
+1079,160185712,"Peter, Lipa",M,Yore 2,Self Employed,04 Jun 1981
+1080,160235172,"Peter, Mathew",M,Parure,Self Employed,10 Jul 1982
+1081,160439498,"Peter, Matin",M,Yore 2,Student,03 Apr 2004
+1082,160234606,"Peter, Maxson",M,Rumere,Student,12 Aug 1990
+1083,160243370,"Peter, Norman",M,Hurul,Student,16 Nov 1984
+1084,160189784,"Peter, Simon",M,Yore 2,Houseboy,01 Jan 1988
+1085,160214038,"Peter, Sipora",M,Yore 2,Subsistence Farmer,01 Jan 1980
+1086,160214025,"Peter, Yolosi",M,Yore 2,Business man,01 Jan 1980
+1087,160241124,"Philip, Maripu",M,Rea,Student,11 Nov 1993
+1088,160241113,"Philip, Pedly",M,Rea,Student,18 Mar 1983
+1089,160234789,"Pima, Jimmy",M,Keta,Security,01 Jan 1984
+1090,160234783,"Pima, Moro",M,Keta,Driver,01 Jan 1984
+1091,160233200,"Pima, Raki",M,Keta,Driver,01 Jan 1982
+1092,160234788,"Pima, Yowa",M,Keta,Driver,01 Jan 1985
+1093,160188480,"Pisa, Paul",M,Yore 2,Student,01 Jan 1977
+1094,160220747,"Pobere, Eron",M,Yore 2,Unemployed,14 Oct 1978
+1095,160184461,"Poko, Paul",M,Yore 2,Subsistence Farmer,11 Jul 1976
+1096,160187098,"Polom, Nakipe",M,Yore 2,Subsistence Farmer,02 Jun 1978
+1097,160176044,"Polom, Pana",M,Yore 2,Carpenter,03 Aug 1975
+1098,160171886,"Polom, Vitus",M,Yore 2,Subsistence Farmer,03 Jun 1979
+1099,160218599,"Pombere, Clemen",M,Yore 2,Houseboy,13 Sep 1982
+1100,160243762,"Pombere, Dominice",M,Rogo,Student,12 Jan 1990
+1101,160218595,"Pombere, Kingi",M,Yore 2,Student,15 Aug 1980
+1102,160243757,"Pombere, Max",M,Rogo,Subsistence Farmer,16 May 1991
+1103,160220620,"Pombere, Norman",M,Yore 2,Houseboy,11 Apr 1984
+1104,160160134,"Pondo, Ayone",M,Yore 2,Subsistence Farmer,27 Nov 1988
+1105,160162786,"Pondo, Pala",M,Yore 2,Subsistence Farmer,01 Mar 1967
+1106,160243567,"Pope, Clancy",M,Mele,Houseboy,16 Nov 1984
+1107,160190290,"Pope, Mathias",M,Yore 2,Houseboy,16 Apr 1978
+1108,160190317,"Pope, Pat",M,Yore 2,Student,13 Nov 1981
+1109,160189882,"Pope, Peter",M,Yore 2,Driver,12 Jun 1970
+1110,160128619,"Pope, Pora",M,Yore 2,Subsistence Farmer,14 May 1997
+1111,160191008,"Pope, Porame",M,Yore 2,Houseboy,13 Apr 1979
+1112,160229555,"Pua, Retambu",M,Yore 2,Subsistence Farmer,01 Jan 1959
+1113,160173643,"Pukama, Andrew",M,Yore 2,Subsistence Farmer,10 Nov 1968
+1114,160173626,"Pukama, Aron",M,Yore 2,Subsistence Farmer,05 Jun 1973
+1115,160167380,"Pukama, Daniel",M,Yore 2,Subsistence Farmer,04 Oct 1972
+1116,160217855,"Pukama, Daniel",M,Yore 2,Houseboy,29 Jan 1983
+1117,160173615,"Pukama, Eric",M,Yore 2,Subsistence Farmer,15 Dec 1980
+1118,160217921,"Pukama, Erikasu",M,Yore 2,Student,16 Feb 1982
+1119,160173130,"Pukama, Eso",M,Yore 2,Subsistence Farmer,04 Jun 1979
+1120,160173618,"Pukama, Jacob",M,Yore 2,Subsistence Farmer,14 Oct 1980
+1121,160168539,"Pukama, Jeckie",M,Yore 2,Subsistence Farmer,10 Dec 1972
+1122,160175629,"Pukama, Jimmy",M,Yore 2,Subsistence Farmer,04 Jun 1971
+1123,160218431,"Pukama, Jimmy",M,Yore 2,Student,22 Nov 1982
+1124,160160604,"Pukama, Jonah",M,Yore 2,Subsistence Farmer,16 Dec 1984
+1125,160171897,"Pukama, Joseph",M,Yore 2,Subsistence Farmer,11 Oct 1960
+1126,160163085,"Pukama, Lasman",M,Yore 2,Subsistence Farmer,16 Sep 1972
+1127,160171892,"Pukama, Okosi",M,Yore 2,Subsistence Farmer,17 Oct 1963
+1128,160168670,"Pukama, Onge",M,Yore 2,Subsistence Farmer,18 Nov 1984
+1129,160160597,"Pukama, Peter",M,Yore 2,Subsistence Farmer,10 Nov 1984
+1130,160218041,"Pukama, Ron",M,Yore 2,Houseboy,16 Oct 1980
+1131,160167400,"Pukama, Saya",M,Yore 2,Subsistence Farmer,18 Oct 1980
+1132,160171869,"Pukama, Stony",M,Yore 2,Subsistence Farmer,15 Oct 1980
+1133,160176171,"Pukama, Tulupi",M,Yore 2,Subsistence Farmer,13 Dec 1974
+1134,160213127,"Pulubare, James",M,Yore 2,Student,02 Apr 1988
+1135,160215505,"Pulubare, Rombo",M,Yore 2,Student,03 May 1984
+1136,160241568,"Pulumbere, Jethro",M,Yenglam,Student,04 Jan 1993
+1137,160234916,"Pung, Paul",M,Mol,Subsistence Farmer,15 Mar 1965
+1138,160229842,"Puri, Mark",M,Yore 2,Subsistence Farmer,01 Jan 1979
+1139,160176059,"Rale, Gabriel",M,Yore 2,Teacher,02 Jul 1978
+1140,160176004,"Rale, Mande",M,Yore 2,Subsistence Farmer,06 Aug 1976
+1141,160172014,"Rale, Pena",M,Yore 2,Teacher,02 Aug 1984
+1142,160171830,"Rale, Repeas",M,Yore 2,Driver,03 Aug 1981
+1143,160176179,"Rale, Wisu",M,Yore 2,Teacher,03 Jul 1982
+1144,160171986,"Rama, Amos",M,Yore 2,Student,10 Dec 1980
+1145,160182551,"Rama, Buka",M,Yore 2,Subsistence Farmer,16 Oct 1983
+1146,160183017,"Rama, Jerry",M,Yore 2,Subsistence Farmer,10 Oct 1972
+1147,160177961,"Rama, Jerry",M,Yore 2,Student,15 Aug 1980
+1148,160177963,"Rama, John",M,Yore 2,Houseboy,01 Jan 1981
+1149,160177957,"Rama, Maren",M,Yore 2,Student,16 Apr 1977
+1150,160183121,"Rama, Marin",M,Yore 2,Subsistence Farmer,06 Nov 1970
+1151,160187120,"Rama, Mon",M,Yore 2,Committee Member,18 Apr 1947
+1152,160178110,"Rama, Ogula",M,Yore 2,Houseboy,01 May 1973
+1153,160201713,"Rama, Ottana",M,Yore 2,Household Duties,10 Sep 1946
+1154,160182681,"Rama, Paul",M,Yore 2,Subsistence Farmer,10 Dec 1969
+1155,160184463,"Rama, Peter",M,Yore 2,Subsistence Farmer,10 Dec 1966
+1156,160243780,"Ramnaki, Maya",M,Umu,Student,17 Jul 1990
+1157,160240990,"Randa, Ramcy",M,Umu,Student,15 Jun 1989
+1158,160243360,"Rele, Josphine",M,Hurul,Subsistence Farmer,16 Nov 1984
+1159,160243294,"Rele, Samuel",M,Hurul,Student,20 Nov 1985
+1160,160243186,"Rele, Tigi",M,Keta,Subsistence Farmer,01 Jan 1960
+1161,160243343,"Repo, John",M,Retret,Self Employed,01 Jan 1985
+1162,160509692,"Richie, Kunz",M,Yore 2,Student,19 Apr 2004
+1163,160509693,"Richie, Yanguli",M,Yore 2,Student,28 Apr 2001
+1164,160235160,"Robin, Jackson",M,Parure,Mechanic,12 Feb 1979
+1165,160234758,"Robin, Luke",M,Parure,Student,10 Feb 1994
+1166,160439541,"Robin, Robina",M,Yore 2,Student,03 Apr 2000
+1167,160439349,"Rolam, Girdon",M,Yore 2,Student,07 Apr 2002
+1168,160242000,"Rondu, Molnaik",M,Mele,Subsistence Farmer,11 Oct 1940
+1169,160165436,"Rum, Gelly",M,Yore 2,Subsistence Farmer,06 Mar 1984
+1170,160243062,"Rumere, John",M,Keta,Student,20 Nov 1990
+1171,160243313,"Rumere, Tracy",M,Keta,Student,10 Jan 1994
+1172,160243404,"Rumex, Timothy",M,Hurul,Household Duties,10 Dec 1986
+1173,160159961,"Rundu, Akuda",M,Yore 2,Subsistence Farmer,08 Oct 1978
+1174,160243296,"Rundu, Alex",M,Hurul,Student,10 Dec 1987
+1175,160243066,"Rundu, Alex",M,Keta,Student,06 Jan 1994
+1176,160221901,"Rundu, Amua",M,Yore 2,Driver,03 Aug 1944
+1177,160160734,"Rundu, Andmi",M,Yore 2,Subsistence Farmer,04 Jun 1974
+1178,160160136,"Rundu, Bera",M,Yore 2,Student,13 Apr 1986
+1179,160243142,"Rundu, Buka",M,Keta,Student,04 Dec 1990
+1180,160162785,"Rundu, Bune",M,Yore 2,Student,04 Oct 1983
+1181,160162956,"Rundu, James",M,Yore 2,Student,06 Oct 1980
+1182,160234634,"Rundu, John",M,Rumere,Mechanic,02 Nov 1975
+1183,160243169,"Rundu, Joseph",M,Rum,Self Employed,05 Oct 1980
+1184,160160124,"Rundu, Kesu",M,Yore 2,Subsistence Farmer,17 Mar 1984
+1185,160185518,"Rundu, Kisambo",M,Yore 2,Subsistence Farmer,21 Oct 1983
+1186,160163100,"Rundu, Kuma",M,Yore 2,Subsistence Farmer,03 Oct 1980
+1187,160201537,"Rundu, Kusa",M,Yore 2,Subsistence Farmer,15 Sep 1938
+1188,160162789,"Rundu, Manus",M,Yore 2,Subsistence Farmer,03 Oct 1984
+1189,160159942,"Rundu, Mapi",M,Yore 2,Subsistence Farmer,02 Sep 1985
+1190,160234787,"Rundu, Mathew",M,Rumere,Subsistence Farmer,15 Apr 1970
+1191,160162958,"Rundu, Mone",M,Yore 2,Committee Member,06 Jul 1980
+1192,160160122,"Rundu, Peliya",M,Yore 2,Student,04 May 1980
+1193,160234602,"Rundu, Peter",M,Rumere,Subsistence Farmer,10 Feb 1972
+1194,160220902,"Rundu, Pombere",M,Yore 2,Magistrate,06 Oct 1939
+1195,160162778,"Rundu, Ricky",M,Yore 2,Student,27 Apr 1975
+1196,160159970,"Rundu, Rogomo",M,Yore 2,Subsistence Farmer,21 May 1984
+1197,160180949,"Rundu, Rom",M,Yore 2,Pastor,18 Mar 1977
+1198,160509702,"Rundu, Ruben",M,Yore 2,Household Duties,22 Oct 1994
+1199,160157508,"Rundu, Rulunaki",M,Yore 2,Subsistence Farmer,20 Nov 1979
+1200,160187323,"Rundu, Rumnaki",M,Yore 2,Subsistence Farmer,24 Mar 1983
+1201,160187228,"Rundu, Soko",M,Yore 2,Student,24 Jun 1985
+1202,160159968,"Rundu, Standford",M,Yore 2,Subsistence Farmer,28 Oct 1984
+1203,160243072,"Rundu, Suku",M,Keta,Student,17 Aug 1989
+1204,160243759,"Rundu, Wafo",M,Sumelame,Student,13 Dec 1988
+1205,160243760,"Rundu, Waluda",M,Sumelame,Student,08 Jan 1978
+1206,160162794,"Rundu, Wari",M,Yore 2,Subsistence Farmer,05 Jun 1973
+1207,160162783,"Rundu, Yane",M,Yore 2,Teacher,04 Jun 1977
+1208,160187145,"Rundua, Membi",M,Yore 2,Pastor,19 Dec 1974
+1209,160439343,"Runi, Anndy",M,Yore 2,Student,21 May 2002
+1210,160439335,"Runi, Artherke",M,Yore 2,Student,21 Jun 2003
+1211,160439330,"Runi, Enjoe",M,Yore 2,Student,12 Jul 2000
+1212,160439338,"Runi, Nelson",M,Yore 2,Student,12 Jan 2001
+1213,160501158,"Runi, Slipaster",M,Yore 2,Student,25 Jun 2002
+1214,160439337,"Runi, Stalon",M,Yore 2,Student,06 Jul 2003
+1215,160198680,"Samo, Alex",M,Yore 2,Teacher,17 Jun 1969
+1216,160243859,"Samo, Eddie",M,Kengere,Student,16 Mar 1993
+1217,160243153,"Samo, Jordan",M,Kengere,Student,18 Oct 1993
+1218,160198684,"Samo, Kasu",M,Yore 2,Houseboy,13 Feb 1988
+1219,160173511,"Samo, Nombri",M,Yore 2,Student,20 Oct 1981
+1220,160176099,"Samo, Onne",M,Yore 2,Subsistence Farmer,25 Apr 1971
+1221,160201797,"Samo, Philip",M,Yore 2,Teacher,29 Apr 1957
+1222,160243858,"Samo, Rele",M,Kengere,Student,28 Mar 1990
+1223,160173494,"Samo, Steven",M,Yore 2,Student,15 Sep 1987
+1224,160177846,"Samo, Yongpu",M,Yore 2,Doctor,15 Aug 1970
+1225,160173507,"Samo, Yope",M,Yore 2,Student,19 Nov 1984
+1226,160439398,"Samuel, Sen",M,Yore 2,Student,02 Apr 2004
+1227,160186044,"Sekepalo, Kewei",M,Yore 2,Subsistence Farmer,03 Jun 1981
+1228,160185694,"Sekepalo, Robbin",M,Yore 2,Teacher,01 Jan 1975
+1229,160185864,"Sekepalo, Steward",M,Yore 2,Mechanic,04 Jul 1985
+1230,160243561,"Sekepolo, Domis",M,Umu,Subsistence Farmer,11 Dec 1987
+1231,160139518,"Sekpalo, Samis",M,Yore 2,Student,11 Jun 1997
+1232,160509712,"Semi, Billa",M,Yore 2,Student,22 Oct 1994
+1233,160439423,"Semi, Elija",M,Yore 2,Subsistence Farmer,05 Feb 1993
+1234,160509713,"Semi, Elisa",M,Yore 2,Ambulance Man,28 Apr 2003
+1235,160439425,"Semi, Ismael",M,Yore 2,Subsistence Farmer,28 Apr 2004
+1236,160439527,"Semi, Jeffeth",M,Yore 2,Student,06 May 1989
+1237,160509633,"Semi, Joshua",M,Kengere,Household Duties,20 Jan 1996
+1238,160439417,"Semi, Mathew",M,Yore 2,Pastor,06 Mar 1993
+1239,160439420,"Semi, Moses",M,Yore 2,Subsistence Farmer,03 Jun 1994
+1240,160439421,"Semi, Peter",M,Yore 2,Subsistence Farmer,01 Jul 1995
+1241,160509716,"Semi, Stanley",M,Yore 2,Customs Officer,28 Apr 2003
+1242,160439410,"Semi, Terry",M,Yore 2,Student,01 Feb 2004
+1243,160439416,"Semi, Timom",M,Yore 2,Student,02 Apr 2004
+1244,160439408,"Semi, Timothy",M,Yore 2,Councillor,04 Jul 1972
+1245,160439412,"Semi, Tims",M,Yore 2,Student,03 Jun 2000
+1246,160439414,"Semi, Timson",M,Yore 2,Student,04 Mar 2004
+1247,160191033,"Senis, Elijah",M,Yore 2,Student,02 Aug 1987
+1248,160191239,"Senis, Junior",M,Yore 2,Student,11 Feb 1986
+1249,160243544,"Senny, Onge",M,Umu,Subsistence Farmer,27 Nov 1987
+1250,160240634,"Sero, Aerina",M,Umu,Student,30 Dec 1994
+1251,160240485,"Sero, Andi",M,Umu,Student,12 Jun 1993
+1252,160240646,"Sero, Kapas",M,Umu,Houseboy,07 Oct 1965
+1253,160240638,"Sero, Sakura",M,Umu,Student,30 Dec 1994
+1254,160439554,"Simon, Nomo",M,Yore 2,Student,07 Apr 2000
+1255,160242995,"Simon, Peter",M,Mele,Student,01 Jan 1993
+1256,160240996,"Siro, Jetly",M,Umu,Student,30 Jan 1994
+1257,160509720,"Siro, Kasu",M,Yore 2,Student,22 Sep 1993
+1258,160509721,"Siro, Maya",M,Yore 2,Student,28 Apr 2004
+1259,160128735,"Sngo, Mathew",M,Yore 2,Subsistence Farmer,10 Aug 1995
+1260,160128591,"Steven, Jimson",M,Yore 2,Student,04 Feb 1996
+1261,160243532,"Steven, Ningro",M,Kengere,Student,13 Dec 1986
+1262,160243068,"Steven, Peap",M,Keta,Household Duties,20 Aug 1984
+1263,160243154,"Steven, Ricky",M,Kengere,Student,11 Apr 1982
+1264,160190763,"Supu, Bonny",M,Yore 2,Houseboy,14 Jun 1985
+1265,160243557,"Supu, Jethro",M,Mele,Student,11 Nov 1981
+1266,160196708,"Supu, Justin",M,Yore 2,Student,21 Aug 1980
+1267,160188668,"Supu, Yanda",M,Yore 2,Subsistence Farmer,17 Mar 1949
+1268,160227969,"Tai, Stephen",M,Yore 2,Subsistence Farmer,01 Jan 1978
+1269,160439522,"Talua, Spanaca",M,Yore 2,Student,06 Mar 2000
+1270,160234601,"Temi, Mark",M,Rumere,Subsistence Farmer,15 Oct 1978
+1271,160243034,"Thomas, Alphie",M,Retret,Student,20 Nov 1990
+1272,160241391,"Thomas, Solo",M,Rea,Student,01 Aug 1984
+1273,160243311,"Thomas, Teddy",M,Retret,Student,10 Dec 1991
+1274,160243183,"Thomas, Terro",M,Retret,Student,06 Jan 1990
+1275,160243610,"Thomas, Timothy",M,Yowal,Self Employed,12 Jul 1980
+1276,160243075,"Tigi, Thomas walan",M,Keta,Subsistence Farmer,01 Jan 1988
+1277,160243139,"Tigi, Tunu",M,Keta,Student,01 Jan 1980
+1278,160241858,"Timothy, John",M,Umu,Student,04 Jan 1993
+1279,160509724,"Timothy, Simon",M,Yore 2,Household Duties,23 Mar 1980
+1280,160509726,"Timothy, Timson",M,Yore 2,Household Duties,22 Nov 1978
+1281,160509727,"Timothy, Timson",M,Yore 2,Student,28 Apr 2004
+1282,160509728,"Tom, David",M,Yore 2,Student,28 Apr 2004
+1283,160243551,"Tonny, Ellinton",M,Mele,Student,26 Sep 1990
+1284,160243550,"Tonny, Emmilton",M,Mele,Student,20 Aug 1994
+1285,160439402,"Vincent, Melam",M,Yore 2,Student,02 Apr 2004
+1286,160242951,"Waki, Pisa",M,Mele,Teacher,09 Oct 1969
+1287,160159966,"Wanpis, Jarret",M,Yore 2,Houseboy,01 Jan 1982
+1288,160234909,"Wapu, David",M,Mol,Subsistence Farmer,01 Jan 1989
+1289,160209800,"Wata, Kang bepi",M,Yore 2,Houseboy,01 Jan 1967
+1290,160160512,"Wata, Kebby",M,Yore 2,Subsistence Farmer,08 Sep 1983
+1291,160128726,"Wata, Thomas",M,Yore 2,Driver,05 Jul 1987
+1292,160243163,"Waya, Quinton",M,Kengere,Student,28 Oct 1992
+1293,160243162,"Waya, Simon",M,Kengere,Aid Post Orderly,26 Oct 1973
+1294,160187336,"Wend, Ario",M,Yore 2,Subsistence Farmer,17 May 1958
+1295,160172003,"Wend, Augustine",M,Yore 2,Student,10 Apr 1987
+1296,160168702,"Wend, David",M,Yore 2,Subsistence Farmer,10 Nov 1988
+1297,160168679,"Wend, Elijah",M,Yore 2,Student,10 Dec 1986
+1298,160168682,"Wend, Gilbert",M,Yore 2,Subsistence Farmer,06 May 1980
+1299,160168698,"Wend, Ira",M,Yore 2,Subsistence Farmer,01 May 1979
+1300,160175996,"Wend, Ismael",M,Yore 2,Student,15 Oct 1986
+1301,160176177,"Wend, James",M,Yore 2,Subsistence Farmer,15 Apr 1972
+1302,160171997,"Wend, Johnson",M,Yore 2,Subsistence Farmer,20 Jun 1968
+1303,160173609,"Wend, Joseph",M,Yore 2,Subsistence Farmer,12 Jun 1985
+1304,160176184,"Wend, Justin",M,Yore 2,Student,21 Jan 1986
+1305,160176057,"Wend, Laito",M,Yore 2,Subsistence Farmer,04 May 1982
+1306,160173628,"Wend, Marex",M,Yore 2,Subsistence Farmer,20 Nov 1987
+1307,160171890,"Wend, Mark",M,Yore 2,Subsistence Farmer,20 Nov 1960
+1308,160171854,"Wend, Mathew",M,Yore 2,Subsistence Farmer,10 Mar 1985
+1309,160176164,"Wend, Maxson",M,Yore 2,Subsistence Farmer,11 Sep 1987
+1310,160172018,"Wend, Moses",M,Yore 2,Subsistence Farmer,10 Dec 1974
+1311,160173636,"Wend, Oropeane",M,Yore 2,Subsistence Farmer,10 Feb 1963
+1312,160168693,"Wend, Sesio",M,Yore 2,Subsistence Farmer,10 Oct 1984
+1313,160171862,"Wend, Timothy",M,Yore 2,Subsistence Farmer,11 Oct 1975
+1314,160243850,"Wendi, Morris",M,Kengere,Teacher,26 Jul 1980
+1315,160128594,"Wendi, Nelson",M,Yore 2,Public Servant,23 Mar 1992
+1316,160243613,"Wendi, Robin",M,Yowal,Student,10 Dec 1984
+1317,160187212,"Wendi, Tolai",M,Yore 2,Houseboy,15 Oct 1979
+1318,160241114,"Wendia, Philip",M,Rea,Subsistence Farmer,10 Jun 1970
+1319,160241125,"Wendia, Thomas",M,Rea,Teacher,16 Jul 1980
+1320,160178186,"Wensy, Morris",M,Yore 2,Subsistence Farmer,27 Jan 1973
+1321,160234761,"Wepo, Peter",M,Parure,Subsistence Farmer,12 Feb 1970
+1322,160509733,"Weris, Peter",M,Yore 2,Baby Sitter,22 Jun 1982
+1323,160439533,"Werit, Chales",M,Yore 2,Student,02 Jan 2004
+1324,160439532,"Werit, Howad",M,Yore 2,Student,05 Mar 2000
+1325,160439504,"Werit, Johnathan",M,Yore 2,Student,03 Feb 2004
+1326,160439564,"Werit, Jonna",M,Yore 2,Subsistence Farmer,02 Apr 2000
+1327,160509734,"Wilson, Stephanie",M,Yore 2,Household Duties,23 Nov 1998
+1328,160175795,"Wip, Burus",M,Yore 2,Driver,11 Apr 1961
+1329,160168548,"Wip, Frank",M,Yore 2,Student,11 Oct 1981
+1330,160182859,"Wip, Micheal",M,Yore 2,Student,06 Jul 1980
+1331,160175606,"Wip, Ramnaki",M,Yore 2,Worker,26 Mar 1953
+1332,160183140,"Wip, Randa",M,Yore 2,Pastor,26 Nov 1969
+1333,160185672,"Wip, Siro",M,Yore 2,Driver,14 Jun 1970
+1334,160182693,"Wisu, Alex",M,Yore 2,Subsistence Farmer,20 May 1984
+1335,160182696,"Wisu, Michael",M,Yore 2,Subsistence Farmer,11 Aug 1980
+1336,160171995,"Wisu, Samuel",M,Yore 2,Student,10 Oct 1985
+1337,160182553,"Wisu, Steven",M,Yore 2,Subsistence Farmer,12 Mar 1980
+1338,160509735,"Wisu, Yokea",M,Yore 2,Household Duties,22 Oct 1986
+1339,160243403,"Yad, David",M,Hurul,Student,01 Jan 1988
+1340,160243362,"Yad, Ipesa",M,Hurul,Student,16 Jan 1986
+1341,160243346,"Yad, Jasford",M,Hurul,Student,12 Oct 1988
+1342,160243517,"Yad, Joro",M,Hurul,Student,01 Jan 1994
+1343,160243508,"Yad, Yonny",M,Hurul,Student,01 Jan 1986
+1344,160185556,"Yaguli, Bepi",M,Yore 2,Subsistence Farmer,18 Jul 1976
+1345,160185798,"Yaguli, Kunz",M,Yore 2,Subsistence Farmer,16 Oct 1940
+1346,160188359,"Yanda, Dominic",M,Yore 2,Houseboy,06 May 1978
+1347,160180604,"Yanguli, Rolosi",M,Yore 2,Subsistence Farmer,18 Jun 1948
+1348,160229844,"Yap, Epe",M,Yore 2,Subsistence Farmer,01 Jan 1983
+1349,160229848,"Yap, Opa",M,Yore 2,Subsistence Farmer,01 Jan 1980
+1350,160244278,"Yapape, Opyo",M,Rirarogo,Houseboy,01 Jan 1979
+1351,160243239,"Yapare, Thomas",M,Retret,Mechanic,11 Oct 1960
+1352,160243468,"Yasi, Mempi",M,Hurul,Student,12 Mar 1991
+1353,160243470,"Yasi, Stance",M,Hurul,Student,03 Dec 1993
+1354,160243465,"Yasi, Tommy",M,Hurul,Student,02 Jan 1994
+1355,160243466,"Yasi, Willie",M,Hurul,Student,04 Mar 1994
+1356,160173123,"Yekiara, Nason",M,Yore 2,Teacher,03 Jul 1978
+1357,160185683,"Yekiara, Ran",M,Yore 2,Subsistence Farmer,04 Jul 1979
+1358,160178168,"Yekiara, Thomas",M,Yore 2,Subsistence Farmer,02 Aug 1984
+1359,160240641,"Yolopua, Mathew",M,Umu,Self Employed,01 Jan 1982

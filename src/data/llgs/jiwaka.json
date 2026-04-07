@@ -1,0 +1,289 @@
+{
+  "provinceId": "jiwaka",
+  "electorates": [
+    {
+      "electorateSlug": "anglimp-south-wahgi",
+      "llgs": [
+        {
+          "id": "anglimp-south-wahgi-anglimp",
+          "name": "Anglimp LLG",
+          "electorateSlug": "anglimp-south-wahgi",
+          "wards": [
+            {
+              "id": "anglimp-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2847
+            },
+            {
+              "id": "anglimp-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4539
+            },
+            {
+              "id": "anglimp-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4588
+            },
+            {
+              "id": "anglimp-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3696
+            }
+          ]
+        },
+        {
+          "id": "anglimp-south-wahgi-south-wahgi",
+          "name": "South Wahgi LLG",
+          "electorateSlug": "anglimp-south-wahgi",
+          "wards": [
+            {
+              "id": "south-wahgi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2202
+            },
+            {
+              "id": "south-wahgi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2180
+            },
+            {
+              "id": "south-wahgi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2911
+            },
+            {
+              "id": "south-wahgi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3871
+            },
+            {
+              "id": "south-wahgi-w05",
+              "name": "Ward 5",
+              "registeredVoters": 4985
+            }
+          ]
+        },
+        {
+          "id": "anglimp-south-wahgi-banz-urban",
+          "name": "Banz Urban LLG",
+          "electorateSlug": "anglimp-south-wahgi",
+          "wards": [
+            {
+              "id": "banz-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1724
+            },
+            {
+              "id": "banz-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1365
+            },
+            {
+              "id": "banz-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2654
+            },
+            {
+              "id": "banz-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1855
+            },
+            {
+              "id": "banz-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1444
+            },
+            {
+              "id": "banz-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1159
+            },
+            {
+              "id": "banz-urban-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2382
+            },
+            {
+              "id": "banz-urban-w08",
+              "name": "Ward 8",
+              "registeredVoters": 2162
+            },
+            {
+              "id": "banz-urban-w09",
+              "name": "Ward 9",
+              "registeredVoters": 2244
+            },
+            {
+              "id": "banz-urban-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1612
+            }
+          ]
+        },
+        {
+          "id": "anglimp-south-wahgi-kugilka",
+          "name": "Kugilka LLG",
+          "electorateSlug": "anglimp-south-wahgi",
+          "wards": [
+            {
+              "id": "kugilka-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1548
+            },
+            {
+              "id": "kugilka-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1051
+            },
+            {
+              "id": "kugilka-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1544
+            },
+            {
+              "id": "kugilka-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2533
+            },
+            {
+              "id": "kugilka-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1914
+            },
+            {
+              "id": "kugilka-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2333
+            },
+            {
+              "id": "kugilka-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1809
+            },
+            {
+              "id": "kugilka-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1559
+            },
+            {
+              "id": "kugilka-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1541
+            },
+            {
+              "id": "kugilka-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "jimi",
+      "llgs": [
+        {
+          "id": "jimi-jimi",
+          "name": "Jimi LLG",
+          "electorateSlug": "jimi",
+          "wards": [
+            {
+              "id": "jimi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 7036
+            },
+            {
+              "id": "jimi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3221
+            },
+            {
+              "id": "jimi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 5237
+            }
+          ]
+        },
+        {
+          "id": "jimi-upper-jimi",
+          "name": "Upper Jimi LLG",
+          "electorateSlug": "jimi",
+          "wards": [
+            {
+              "id": "upper-jimi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1107
+            },
+            {
+              "id": "upper-jimi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1850
+            },
+            {
+              "id": "upper-jimi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1876
+            },
+            {
+              "id": "upper-jimi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1452
+            },
+            {
+              "id": "upper-jimi-w05",
+              "name": "Ward 5",
+              "registeredVoters": 897
+            },
+            {
+              "id": "upper-jimi-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1137
+            },
+            {
+              "id": "upper-jimi-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1996
+            },
+            {
+              "id": "upper-jimi-w08",
+              "name": "Ward 8",
+              "registeredVoters": 829
+            },
+            {
+              "id": "upper-jimi-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1317
+            },
+            {
+              "id": "upper-jimi-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1656
+            }
+          ]
+        },
+        {
+          "id": "jimi-tabibuga",
+          "name": "Tabibuga LLG",
+          "electorateSlug": "jimi",
+          "wards": [
+            {
+              "id": "tabibuga-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4557
+            },
+            {
+              "id": "tabibuga-w02",
+              "name": "Ward 2",
+              "registeredVoters": 7581
+            },
+            {
+              "id": "tabibuga-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4030
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

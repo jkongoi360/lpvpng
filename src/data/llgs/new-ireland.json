@@ -1,0 +1,222 @@
+{
+  "provinceId": "new-ireland",
+  "electorates": [
+    {
+      "electorateSlug": "kavieng",
+      "llgs": [
+        {
+          "id": "kavieng-kavieng-urban",
+          "name": "Kavieng Urban LLG",
+          "electorateSlug": "kavieng",
+          "wards": [
+            {
+              "id": "kavieng-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2449
+            },
+            {
+              "id": "kavieng-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2874
+            },
+            {
+              "id": "kavieng-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2673
+            },
+            {
+              "id": "kavieng-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2066
+            },
+            {
+              "id": "kavieng-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1269
+            },
+            {
+              "id": "kavieng-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1578
+            },
+            {
+              "id": "kavieng-urban-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2720
+            }
+          ]
+        },
+        {
+          "id": "kavieng-tikana",
+          "name": "Tikana LLG",
+          "electorateSlug": "kavieng",
+          "wards": [
+            {
+              "id": "tikana-w01",
+              "name": "Ward 1",
+              "registeredVoters": 5205
+            },
+            {
+              "id": "tikana-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3803
+            },
+            {
+              "id": "tikana-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2683
+            },
+            {
+              "id": "tikana-w04",
+              "name": "Ward 4",
+              "registeredVoters": 5740
+            }
+          ]
+        },
+        {
+          "id": "kavieng-central-new-ireland",
+          "name": "Central New Ireland LLG",
+          "electorateSlug": "kavieng",
+          "wards": [
+            {
+              "id": "central-new-ireland-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3285
+            },
+            {
+              "id": "central-new-ireland-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3234
+            },
+            {
+              "id": "central-new-ireland-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2401
+            },
+            {
+              "id": "central-new-ireland-w04",
+              "name": "Ward 4",
+              "registeredVoters": 4297
+            },
+            {
+              "id": "central-new-ireland-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2951
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "namatanai",
+      "llgs": [
+        {
+          "id": "namatanai-namatanai-urban",
+          "name": "Namatanai Urban LLG",
+          "electorateSlug": "namatanai",
+          "wards": [
+            {
+              "id": "namatanai-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3714
+            },
+            {
+              "id": "namatanai-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3753
+            },
+            {
+              "id": "namatanai-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 5428
+            }
+          ]
+        },
+        {
+          "id": "namatanai-sentral-niu-ailan",
+          "name": "Sentral Niu Ailan LLG",
+          "electorateSlug": "namatanai",
+          "wards": [
+            {
+              "id": "sentral-niu-ailan-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2929
+            },
+            {
+              "id": "sentral-niu-ailan-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2199
+            },
+            {
+              "id": "sentral-niu-ailan-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3635
+            },
+            {
+              "id": "sentral-niu-ailan-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2510
+            },
+            {
+              "id": "sentral-niu-ailan-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2512
+            },
+            {
+              "id": "sentral-niu-ailan-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2588
+            }
+          ]
+        },
+        {
+          "id": "namatanai-tanir-lihir",
+          "name": "Tanir-Lihir LLG",
+          "electorateSlug": "namatanai",
+          "wards": [
+            {
+              "id": "tanir-lihir-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2305
+            },
+            {
+              "id": "tanir-lihir-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1842
+            },
+            {
+              "id": "tanir-lihir-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2337
+            },
+            {
+              "id": "tanir-lihir-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1047
+            },
+            {
+              "id": "tanir-lihir-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1962
+            },
+            {
+              "id": "tanir-lihir-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2583
+            },
+            {
+              "id": "tanir-lihir-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1102
+            },
+            {
+              "id": "tanir-lihir-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1890
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

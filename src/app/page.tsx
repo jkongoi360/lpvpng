@@ -1,65 +1,78 @@
-import Image from "next/image";
+import Link from "next/link";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 
 export default function Home() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12">
+      <div className="text-center mb-12">
+        <h1 className="text-4xl font-bold tracking-tight text-zinc-900 sm:text-5xl">
+          PNG Election Simulator
+        </h1>
+        <p className="mt-4 text-lg text-zinc-600 max-w-2xl mx-auto">
+          Explore Papua New Guinea&apos;s Limited Preferential Voting (LPV) system
+          and simulate election outcomes for the 2027 General Elections.
+        </p>
+        <div className="mt-4 flex items-center justify-center gap-2">
+          <div className="h-1 w-12 bg-png-red" />
+          <div className="h-1 w-12 bg-png-black" />
+          <div className="h-1 w-12 bg-png-gold" />
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
+      </div>
+
+      <div className="grid gap-8 md:grid-cols-2 max-w-4xl mx-auto">
+        <Link href="/regional" className="group">
+          <Card className="h-full transition-all hover:shadow-lg hover:border-png-red/50 group-hover:-translate-y-1">
+            <CardHeader>
+              <CardTitle className="text-2xl">Regional Seats</CardTitle>
+              <CardDescription className="text-base">
+                22 Provincial/Regional electorates &mdash; one per province
+              </CardDescription>
+            </CardHeader>
+            <CardContent>
+              <p className="text-zinc-600">
+                Each province in PNG elects one Regional Member of Parliament.
+                Regional seats cover the entire province, representing all open
+                electorates within it.
+              </p>
+              <div className="mt-4 flex items-center gap-2 text-sm font-medium text-png-red">
+                View Regional Seats
+                <span className="transition-transform group-hover:translate-x-1">&rarr;</span>
+              </div>
+            </CardContent>
+          </Card>
+        </Link>
+
+        <Link href="/open" className="group">
+          <Card className="h-full transition-all hover:shadow-lg hover:border-png-gold/50 group-hover:-translate-y-1">
+            <CardHeader>
+              <CardTitle className="text-2xl">Open Seats</CardTitle>
+              <CardDescription className="text-base">
+                89 Open electorates across all provinces
+              </CardDescription>
+            </CardHeader>
+            <CardContent>
+              <p className="text-zinc-600">
+                Open electorates are subdivisions within each province. Each
+                elects one Open Member of Parliament. Select an electorate to
+                view its LLGs, wards, and run a vote simulation.
+              </p>
+              <div className="mt-4 flex items-center gap-2 text-sm font-medium text-png-gold">
+                Browse Open Seats
+                <span className="transition-transform group-hover:translate-x-1">&rarr;</span>
+              </div>
+            </CardContent>
+          </Card>
+        </Link>
+      </div>
+
+      <div className="mt-16 text-center">
+        <Link
+          href="/about"
+          className="inline-flex items-center gap-2 text-sm text-zinc-500 hover:text-zinc-900 transition-colors"
+        >
+          Learn how Limited Preferential Voting works &rarr;
+        </Link>
+      </div>
     </div>
   );
 }

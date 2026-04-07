@@ -1,0 +1,685 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,25083869,"Abla, Statee",F,APUTOLI,Household Duties,26 May 1990
+2,160249750,"Adoma, Magret",F,KOLOPENA,Household Duties,08 Nov 1980
+3,160445653,"Ambo, Matinda",F,NAPIYE,Subsistence Farmer,06 Sep 2003
+4,160160269,"Andurew, Lyn",F,Tukupangi,Household Duties,01 Jan 1969
+5,160133225,"Angola, Metii",F,Tukupangi,Household Duties,18 Feb 1985
+6,160445631,"Anji, Anjola",F,APUTOLI,Student,09 Apr 2004
+7,25087335,"Anna, Safo",F,KALAPOI,Household Duties,09 Aug 1989
+8,160173718,"Anthon, Kathy",F,Tukupangi,Household Duties,01 Jan 1983
+9,160249363,"Aruru, Anita",F,KOLOPENA,Student,01 Mar 1990
+10,160249364,"Aruru, Emoly",F,KOLOPENA,Student,03 Feb 1992
+11,160173714,"Augusten, Kuta",F,Tukupangi,Household Duties,01 Jan 1956
+12,160445624,"Bepi, Jenneth",F,KOLOPENA,Student,03 Feb 2000
+13,160445656,"Beteni, Beta",F,APUTOLI,Subsistence Farmer,12 Mar 2000
+14,160445608,"Betiba, Roselyn",F,KALAPOI,Student,06 Jan 2004
+15,160167570,"Bule, Margret",F,Tukupangi,Household Duties,01 Jan 1985
+16,160445627,"Buli, Darlcy",F,KALAPOI,Student,16 Mar 2004
+17,25083879,"Catherine, Nogo",F,KOLOPENA,Household Duties,26 Jul 1992
+18,160445596,"Clear, Kagupo",F,NAPIYE,Student,09 May 2003
+19,160445659,"Clena, Elena",F,KALAPOI,Student,29 Jan 2000
+20,160159029,"David, Steveny",F,Tukupangi,Nurse,01 Jan 1970
+21,160133194,"Dolly, Doris",F,Tukupangi,Household Duties,06 Jan 1998
+22,160133217,"Dolly, Elis",F,Tukupangi,Household Duties,06 Jun 1998
+23,25083872,"Dolly, Susi",F,KALAPOI,Household Duties,20 Mar 1982
+24,160445593,"Eli, Elina",F,NAPIYE,Student,10 May 2003
+25,160445647,"Eli, Elish",F,NAPIYE,Student,22 Mar 2004
+26,160445612,"Eli, Pollin",F,Tukupangi,Nurse,27 Nov 1997
+27,160133215,"Elis, Las",F,Tukupangi,Sales Women,20 Nov 1993
+28,160445600,"Elis, Lowa",F,KOLOPENA,Student,29 Jan 2003
+29,25083881,"Ema, Ewa",F,KOLOPENA,Student,06 Jun 2000
+30,160445667,"Ene, Betsiba",F,NAPIYE,Student,12 Mar 2003
+31,160445658,"Eni, Cleni",F,KALAPOI,Student,23 Apr 2004
+32,160160431,"Epawa, Kuin",F,Tukupangi,Student,01 Jan 1989
+33,160445604,"Esta, Eliza",F,KALAPOI,Teacher,30 Oct 1999
+34,160445644,"Eto, Klona",F,NAPIYE,Student,03 Jan 2004
+35,160445639,"Evellyn, Ambo",F,Tukupangi,Student,28 Apr 2004
+36,160159018,"Fabiyan, Mary",F,Tukupangi,Household Duties,01 Jan 2000
+37,25083882,"Freda, Makadalin",F,KOLOPENA,Household Duties,06 May 2000
+38,160445591,"Gegina, Iki",F,APUTOLI,Nurse,03 Dec 2002
+39,160445602,"Gegina, Kalopera",F,KOLOPENA,Household Duties,02 Apr 2000
+40,160249111,"George, Melisa",F,KALAPOI,Student,25 Jul 1990
+41,160249214,"George, Tangondo",F,KALAPOI,Household Duties,11 Aug 1967
+42,160169125,"Gerry, Doli",F,Tukupangi,Student,01 Jan 1986
+43,160175844,"Gerry, Kuku",F,Tukupangi,Household Duties,01 Jan 1949
+44,160158989,"Gerry, Mageret",F,Tukupangi,Household Duties,01 Jan 1963
+45,160158996,"Gerry, Rolyn",F,Tukupangi,Student,01 Jan 1985
+46,160158995,"Gerry, Ronny",F,Tukupangi,Student,01 Jan 1983
+47,160158992,"Gerry, Tenge",F,Tukupangi,Household Duties,01 Jan 1957
+48,160153187,"Gerry, Wati",F,Tukupangi,Household Duties,01 Jan 1965
+49,160182655,"Glaime, Jenny",F,Tukupangi,Household Duties,01 Jan 1966
+50,160169127,"Gram, Yapil",F,Tukupangi,Household Duties,01 Jan 1976
+51,160137903,"Hellen, Malo",F,Tukupangi,Household Duties,03 May 1992
+52,160182815,"Huno, Nomaino",F,Tukupangi,Student,01 Jan 1981
+53,160182495,"Huno, Soti",F,Tukupangi,Student,01 Jan 1984
+54,160160380,"Imbiye, Betty",F,Tukupangi,Student,01 Jan 1986
+55,160160261,"Imbiye, Grace",F,Tukupangi,Subsistence Farmer,01 Jan 1975
+56,160160260,"Imbiye, Midilambo",F,Tukupangi,Subsistence Farmer,01 Jan 1950
+57,160249561,"Indpine, Aki",F,NAPIYE,Household Duties,04 May 1973
+58,160249533,"Indpine, Emolyn",F,NAPIYE,Student,15 Jun 1991
+59,160249534,"Indpine, Lora",F,NAPIYE,Household Duties,07 Mar 1988
+60,160249044,"Indpine, Lyn",F,NAPIYE,Household Duties,14 Mar 1981
+61,160249045,"Indpine, Welly",F,NAPIYE,Household Duties,05 Jul 1983
+62,160160375,"Irepo, Danny",F,Tukupangi,Nurse,01 Jan 1970
+63,160159011,"Irepo, Iko",F,Tukupangi,Subsistence Farmer,01 Jan 1970
+64,160159008,"Irepo, Vicky",F,Tukupangi,Subsistence Farmer,01 Jan 1975
+65,160159004,"James, Everlyn",F,Tukupangi,Household Duties,01 Jan 1984
+66,160158971,"James, Lynhone",F,Tukupangi,Household Duties,01 Jan 1974
+67,160445586,"Jenet, Nema",F,KALAPOI,Teacher,19 Mar 2003
+68,160445601,"Jeniffer, Korowi",F,KOLOPENA,Household Duties,08 Jun 2003
+69,160445657,"Jero, Veronica",F,KOLOPENA,Student,22 Mar 2001
+70,160167601,"Jim, Cathy",F,Tukupangi,Household Duties,01 Jan 1969
+71,160167602,"Jim, Charon",F,Tukupangi,Household Duties,01 Jan 1968
+72,160249217,"John, Jesika",F,KALAPOI,Household Duties,15 Feb 1978
+73,160206873,"John, Josica",F,Tukupangi,Student,01 Jan 1989
+74,160206721,"John, Kuiana",F,Tukupangi,Household Duties,01 Jan 1970
+75,160247008,"John, Malin",F,KALAPOI,Household Duties,21 Jun 1975
+76,160173695,"Joseph, Ambilambo",F,Tukupangi,Household Duties,01 Jan 1952
+77,160173691,"Joseph, Linnet",F,Tukupangi,Student,01 Jan 1984
+78,160445606,"Josephine, Akew",F,NAPIYE,Student,05 Apr 2004
+79,25083873,"Josephine, Alki",F,KALAPOI,Household Duties,21 Aug 2002
+80,160133229,"Joy, Jacklyn",F,Tukupangi,Sales Women,14 Feb 1999
+81,160445589,"Judy, Toko",F,KOLOPENA,Household Duties,28 Jun 2002
+82,160445605,"Jux, Julian",F,Tukupangi,Household Duties,16 Dec 2002
+83,160182657,"Kambe, Angila",F,Tukupangi,Student,01 Jan 1990
+84,160182505,"Kambe, Roselyne",F,Tukupangi,Household Duties,01 Jan 1969
+85,160182504,"Kambe, Rosemary",F,Tukupangi,Student,01 Jan 1980
+86,160137894,"Kanambo, Ism",F,Tukupangi,Not Specified,11 Feb 1996
+87,160167576,"Kanambo, Jowana",F,Tukupangi,Student,01 Jan 1985
+88,160169291,"Kanambo, Morwe",F,Tukupangi,Household Duties,01 Jan 1948
+89,160133379,"Kanambo, Silvia",F,Tukupangi,Student,12 Jan 1998
+90,160206737,"Kapale, Maria",F,Tukupangi,Household Duties,01 Jan 1963
+91,160205321,"Kapale, Miri",F,Tukupangi,Student,01 Jan 1986
+92,160247006,"Karimbi, Lin",F,KALAPOI,Student,02 Apr 1985
+93,160249116,"Karimbi, Ruth",F,KALAPOI,Student,20 May 1991
+94,160137898,"Karimbi, Sindiea",F,Tukupangi,Sales Women,17 Mar 1998
+95,160247030,"Kema, Kuku",F,KOLOPENA,Household Duties,04 Jan 1990
+96,160160358,"Kemapu, Cathy",F,Tukupangi,Student,01 Jan 1988
+97,160160429,"Kemapu, Nancy",F,Tukupangi,Subsistence Farmer,01 Jan 1983
+98,160160755,"Kemapu, Nepo",F,Tukupangi,Subsistence Farmer,01 Jan 1958
+99,160158986,"Kenet, Bapera",F,Tukupangi,Student,01 Jan 1986
+100,160158985,"Kenet, Jacklyn",F,Tukupangi,Household Duties,01 Jan 1965
+101,160247027,"Kenneth, Babra",F,KOLOPENA,Student,10 Nov 1983
+102,160247028,"Kenneth, Debra",F,KOLOPENA,Student,03 Aug 1988
+103,160249184,"Kenneth, Kinje",F,KOLOPENA,Household Duties,01 Jan 1976
+104,160445642,"Kepa, Macdala",F,KOLOPENA,Student,13 Feb 2004
+105,160159031,"Kepo, Wialo",F,Tukupangi,Subsistence Farmer,01 Jan 1948
+106,160206730,"Kepu, Yando",F,Tukupangi,Household Duties,01 Jan 1968
+107,160173683,"Kewei, Bepi",F,Tukupangi,Household Duties,01 Jan 1963
+108,160169133,"Kewei, Helen",F,Tukupangi,Housegirl,01 Jan 1981
+109,160173684,"Kewei, Mery",F,Tukupangi,Household Duties,01 Jan 1959
+110,160445609,"Kina, Ruth",F,KOLOPENA,Student,06 Jul 2003
+111,160137901,"Kipi, Seli",F,Tukupangi,Sales Women,10 Jan 1999
+112,160133207,"Kirine, Esta",F,Tukupangi,Subsistence Farmer,17 Mar 1998
+113,160133203,"Kiwopu, Magani",F,Tukupangi,Sales Women,07 Feb 1996
+114,160167718,"Kolandi, Mirriam",F,Tukupangi,Subsistence Farmer,01 Jan 1965
+115,160173689,"Kolen, Joice",F,Tukupangi,Household Duties,01 Jan 1982
+116,160133205,"Koli, Pricillar",F,Tukupangi,Sales Women,03 Dec 1997
+117,160133198,"Kolma, Stephnie",F,Tukupangi,Sales Women,31 Jan 1999
+118,160133227,"Kondoambo, Lenitha",F,Tukupangi,Sales Women,20 Mar 1999
+119,160445652,"Kondoli, Lenita",F,NAPIYE,Subsistence Farmer,03 Sep 2003
+120,160182492,"Koniye, Betty",F,Tukupangi,Student,01 Jan 1986
+121,160184534,"Koniye, Mainenge",F,Tukupangi,Household Duties,01 Jan 1936
+122,160249257,"Konjel, Kiye",F,KOLOPENA,Student,05 Oct 1989
+123,160249626,"Konjel, Melen",F,KOLOPENA,Household Duties,08 Jun 1986
+124,160247112,"Konjel, Mone",F,KOLOPENA,Household Duties,01 Jan 1958
+125,160249761,"Konjel, Resol",F,KOLOPENA,Household Duties,11 Nov 1983
+126,160249258,"Konjel, Ruth",F,KOLOPENA,Student,01 Dec 1990
+127,160167590,"Kopeya, Betty",F,Tukupangi,Household Duties,01 Jan 1971
+128,160169139,"Koropa, Roselin",F,Tukupangi,Household Duties,01 Jan 1983
+129,160169124,"Korowi, Anny",F,Tukupangi,Household Duties,01 Jan 1976
+130,160169287,"Kuleko, Frida",F,Tukupangi,Household Duties,01 Jan 1982
+131,160169286,"Kuleko, Jennet",F,Tukupangi,Household Duties,01 Jan 1976
+132,160167571,"Kuleko, Konopu",F,Tukupangi,Household Duties,01 Jan 1981
+133,160167588,"Kulema, Betty",F,Tukupangi,Housegirl,01 Jan 1985
+134,160205225,"Kultiye, Kendelame",F,Tukupangi,Household Duties,01 Jan 1933
+135,160205316,"Kultiye, Nori",F,Tukupangi,Household Duties,01 Jan 1975
+136,160205224,"Kultiye, Opirame",F,Tukupangi,Household Duties,01 Jan 1930
+137,160133218,"Laki, Lyion",F,Tukupangi,Household Duties,03 Feb 1997
+138,160445643,"Lala, Gina",F,APUTOLI,Student,09 Feb 2004
+139,160133220,"Lavina, Mone",F,Tukupangi,Household Duties,21 Feb 1995
+140,160133223,"Lawa, Velin",F,Tukupangi,Household Duties,16 Feb 1992
+141,160184699,"Limbo, Malipeme",F,Tukupangi,Subsistence Farmer,01 Jan 1934
+142,25087339,"Linda, Lita",F,NAPIYE,Household Duties,04 Feb 2001
+143,160133197,"Lisa, Elisha",F,Tukupangi,Sales Women,17 Jan 1999
+144,160205220,"Liyo, Cathy",F,Tukupangi,Household Duties,15 Jun 1953
+145,160205325,"Liyo, Lucy",F,Tukupangi,Student,01 Jan 1990
+146,160205349,"Lopeke, Kapu",F,Tukupangi,Household Duties,01 Jan 1940
+147,160160359,"Luke, Kolowa",F,Tukupangi,Subsistence Farmer,01 Jan 1954
+148,160160760,"Luke, Rose",F,Tukupangi,Subsistence Farmer,01 Jan 1965
+149,160249640,"Lume, Jesita",F,KOLOPENA,Student,10 Oct 1991
+150,160159028,"Lume, Kuta",F,Tukupangi,Subsistence Farmer,01 Jan 1956
+151,160247032,"Lume, Rita",F,KOLOPENA,Household Duties,11 May 1980
+152,160249188,"Lume, Rose",F,KOLOPENA,Household Duties,30 Apr 1975
+153,160249189,"Lume, Roselyn",F,KOLOPENA,Household Duties,21 Jul 1984
+154,160247033,"Lume, Yanda",F,KOLOPENA,Household Duties,29 Feb 1988
+155,160249215,"Lusy, Puiye",F,KALAPOI,Household Duties,01 Jan 1962
+156,25083902,"Lyion, Besinba",F,Tukupangi,Student,05 May 2000
+157,160137900,"Lyonny, Temo",F,Tukupangi,Sales Women,20 Jan 1999
+158,25083884,"Magalina, Ista",F,KOLOPENA,Household Duties,03 Jun 2001
+159,160445607,"Magret, Kondoa",F,NAPIYE,Student,03 Aug 2000
+160,160133384,"Maina, Melony",F,Tukupangi,Sales Women,15 Dec 1997
+161,160249538,"Maka, Doris",F,NAPIYE,Student,06 Dec 1990
+162,160249017,"Maka, Monica",F,NAPIYE,Household Duties,10 Mar 1976
+163,160246857,"Makange, Mery",F,KOLOPENA,Household Duties,01 Jan 1963
+164,160249192,"Makange, Rebeca",F,KOLOPENA,Household Duties,10 Dec 1989
+165,160445614,"Malida, Meli",F,Tukupangi,Student,16 Jan 2003
+166,160249541,"Mambo, Karela",F,NAPIYE,Houseboy,01 Jan 1949
+167,160249544,"Mambo, Kerolyn",F,NAPIYE,Student,21 Dec 1990
+168,160249020,"Mambo, Teres",F,NAPIYE,Household Duties,16 Oct 1988
+169,160137905,"Margaret, Esta",F,Tukupangi,Household Duties,14 Feb 1989
+170,25083885,"Markdala, Mono",F,KOLOPENA,Student,16 Jun 2002
+171,160169146,"Marukus, Moneka",F,Tukupangi,Household Duties,01 Jan 1982
+172,160167572,"Mata, Dapi",F,Tukupangi,Household Duties,01 Jan 1956
+173,160169290,"Mata, Jophina",F,Tukupangi,Student,01 Jan 1984
+174,25083886,"Mawo, Endee",F,KOLOPENA,Student,12 Aug 2000
+175,160249630,"Mendel, Daina",F,KOLOPENA,Household Duties,01 Jan 1989
+176,160249260,"Mendel, Doroty",F,KOLOPENA,Student,01 Jan 1991
+177,160249259,"Mendel, Evelyn",F,KOLOPENA,Household Duties,01 Jan 1986
+178,160445595,"Miriam, Kakol",F,NAPIYE,Student,04 Feb 2002
+179,160133196,"Mobe, Vero",F,Tukupangi,Sales Women,28 Jan 1999
+180,160445648,"Mombe, Vero",F,NAPIYE,Subsistence Farmer,03 Sep 2001
+181,25083899,"Mondi, Monica",F,NAPIYE,Student,12 Jun 2000
+182,160249540,"Mongea, Andi",F,NAPIYE,Household Duties,12 Sep 1985
+183,160249539,"Mongea, Kamunge",F,NAPIYE,Household Duties,01 Jan 1954
+184,160133219,"Mopune, Mada",F,Tukupangi,Household Duties,09 Oct 1991
+185,160160281,"Moses, Robame",F,Tukupangi,Pastor,01 Jan 1959
+186,160249227,"Nandiye, Lucy",F,KALAPOI,Household Duties,21 Jul 1986
+187,160249226,"Nandiye, Magret",F,KALAPOI,Household Duties,16 Sep 1982
+188,160247132,"Nandiye, Pulte",F,KALAPOI,Household Duties,01 Jan 1941
+189,160249225,"Nandiye, Wasi",F,KALAPOI,Household Duties,23 Aug 1980
+190,160133195,"Naome, Shandra",F,Tukupangi,Sales Women,27 Feb 1997
+191,160445650,"Natasha, Nayi",F,Tukupangi,Student,05 Mar 2002
+192,160182509,"Nema, Agnes",F,Tukupangi,Student,01 Jan 1980
+193,160249648,"Nema, Hailen",F,KOLOPENA,Household Duties,19 Jul 1989
+194,160249647,"Nema, Helen",F,KOLOPENA,Household Duties,18 Mar 1982
+195,160249651,"Nema, Joice",F,KOLOPENA,Student,14 Nov 1992
+196,160249636,"Nema, Merolyn",F,KOLOPENA,Household Duties,16 Feb 1986
+197,160249633,"Nema, Nemogo",F,KOLOPENA,Household Duties,01 Jan 1948
+198,160249635,"Nema, Punu",F,KOLOPENA,Household Duties,03 Aug 1984
+199,160249758,"Nema, Sabeth",F,KOLOPENA,Household Duties,01 Jan 1978
+200,160249638,"Nema, Toi",F,KOLOPENA,Household Duties,05 Jan 1987
+201,160249242,"Nembo, Lucy",F,KOLOPENA,Household Duties,01 Jan 1958
+202,160249244,"Nembo, Regi",F,KOLOPENA,Subsistence Farmer,13 Aug 1990
+203,25083870,"Nemola, Awdi",F,APUTOLI,Household Duties,02 Jul 1987
+204,160175829,"Newa, Nopie",F,Tukupangi,Student,01 Jan 1978
+205,160175828,"Newa, Roselyne",F,Tukupangi,Student,01 Jan 1985
+206,160238959,"Nichalas, Ruth",F,APUTOLI,Household Duties,03 Mar 1981
+207,160205340,"Ninge, Nopiye",F,Tukupangi,Household Duties,01 Jan 1969
+208,160205231,"Ninge, Solome",F,Tukupangi,Household Duties,01 Jan 1965
+209,160238969,"Niningi, Kaka",F,APUTOLI,Household Duties,03 Oct 1983
+210,160238936,"Niningi, Kola",F,APUTOLI,Household Duties,01 Jan 1964
+211,160238968,"Niningi, Kuku",F,APUTOLI,Household Duties,10 Apr 1979
+212,160238952,"Niningi, Stiki",F,APUTOLI,Household Duties,07 Nov 1986
+213,160445626,"Noame, Sendra",F,NAPIYE,Student,28 Apr 2004
+214,160169128,"Noru, Terum",F,Tukupangi,Household Duties,01 Jan 1936
+215,160249360,"Opa, Elinda",F,KOLOPENA,Student,10 May 1990
+216,160159013,"Opa, Kamba",F,Tukupangi,Household Duties,01 Jan 1967
+217,160160364,"Palaru, Kaite",F,Tukupangi,Subsistence Farmer,01 Jan 1956
+218,160160363,"Palaru, Kumbiye",F,Tukupangi,Subsistence Farmer,01 Jan 1960
+219,160160373,"Palaru, Lero",F,Tukupangi,Subsistence Farmer,01 Jan 1960
+220,25083903,"Pamela, Eli",F,Tukupangi,Student,03 Jun 2000
+221,160169129,"Pandeya, Lonti",F,Tukupangi,Household Duties,01 Jan 1977
+222,160160378,"Pangoiye, Jonna",F,Tukupangi,Subsistence Farmer,01 Jan 1964
+223,160167720,"Panjipo, Elis lhs",F,Tukupangi,Subsistence Farmer,01 Jan 1973
+224,160173701,"Paul, Maria",F,Tukupangi,Household Duties,01 Jan 1971
+225,160137906,"Pawdambo, Nathsa",F,Tukupangi,Sales Women,10 Feb 1999
+226,25083906,"Pena, Ilix",F,Tukupangi,Student,25 Nov 2001
+227,25083888,"Pena, Poppy",F,KOLOPENA,Student,22 Feb 2002
+228,25083910,"Pena, Roudah",F,Tukupangi,Household Duties,29 Jul 1996
+229,25083911,"Pena, Tukupangi",F,Tukupangi,Student,15 Dec 2000
+230,160133206,"Penga, Lucy",F,Tukupangi,Warder,09 Feb 1998
+231,160249545,"Peraile, Maria",F,NAPIYE,Household Duties,01 Jan 1956
+232,160249015,"Peraile, Meli",F,NAPIYE,Household Duties,14 Jul 1989
+233,160249547,"Peraile, Miriam",F,NAPIYE,Household Duties,25 Apr 1986
+234,160249546,"Peraile, Sent",F,NAPIYE,Household Duties,06 May 1984
+235,160167728,"Peter, Nancy",F,Tukupangi,Household Duties,01 Jan 1976
+236,160173699,"Peter, Nency",F,Tukupangi,Household Duties,01 Jan 1987
+237,160167716,"Peter, Rebecca",F,Tukupangi,Household Duties,01 Jan 1975
+238,160205320,"Philip, Betty",F,Tukupangi,Household Duties,01 Jan 1977
+239,160175842,"Pilimbo, Miti",F,Tukupangi,Household Duties,01 Jan 1966
+240,160133204,"Pima, Eli",F,Tukupangi,Sales Women,02 Jan 1998
+241,160249536,"Pokea, Kola",F,NAPIYE,Household Duties,03 Jul 1972
+242,160173682,"Ponde, Akinis",F,Tukupangi,Housegirl,01 Jan 1983
+243,160173681,"Ponde, Akiri",F,Tukupangi,Housegirl,01 Jan 1980
+244,160169131,"Ponde, Manie",F,Tukupangi,Household Duties,01 Jan 1958
+245,160175851,"Ponde, Nency",F,Tukupangi,Student,01 Jan 1988
+246,25083913,"Pora, Gethrut",F,Tukupangi,Household Duties,16 Jan 1984
+247,160205236,"Pora, Julie",F,Tukupangi,Student,01 Jan 1983
+248,160205346,"Pora, Kiluambo",F,Tukupangi,Household Duties,01 Jan 1943
+249,25083900,"Posu, Ben",F,NAPIYE,Student,23 Dec 1999
+250,160249018,"Poya, Weiane",F,NAPIYE,Household Duties,01 Jan 1952
+251,160205333,"Pumbo, Elly",F,Tukupangi,Household Duties,01 Jan 1980
+252,160205332,"Pumbo, Yara",F,Tukupangi,Household Duties,01 Jan 1979
+253,25083875,"Ralin, Rena",F,KALAPOI,Student,02 Jun 2002
+254,25083890,"Regina, Opox",F,KOLOPENA,Farm worker,25 Jun 1999
+255,160249113,"Remina, Puiye",F,KALAPOI,Household Duties,25 Dec 1981
+256,160445623,"Renita, Opriki",F,APUTOLI,Student,09 Feb 2004
+257,160238956,"Rera, Tarapi",F,APUTOLI,Household Duties,01 Jan 1957
+258,25087337,"Ronda, Rose",F,KOLOPENA,Student,03 May 1998
+259,25083876,"Rose, Mandi",F,KALAPOI,Household Duties,07 Jun 1972
+260,25083916,"Rose, Mary",F,Tukupangi,Student,03 Jun 2000
+261,160445599,"Rosely, Roti",F,NAPIYE,Household Duties,05 Jun 2003
+262,160167592,"Sehent, Melce",F,Tukupangi,Household Duties,01 Jan 1976
+263,160249219,"Sem, Pandipembo",F,KALAPOI,Household Duties,15 Feb 1982
+264,160249117,"Sem, Waruambo",F,KALAPOI,Household Duties,11 Dec 1985
+265,25083901,"Sera, Neomi",F,NAPIYE,Household Duties,11 Mar 1989
+266,160137899,"Seron, Jessica",F,Tukupangi,Sales Women,16 Feb 1999
+267,160169130,"Simon, Kopari",F,Tukupangi,Household Duties,01 Jan 1978
+268,160175848,"Simon, Mery",F,Tukupangi,Housegirl,01 Jan 1988
+269,160133216,"Soti, Carolyn",F,Tukupangi,Household Duties,30 Apr 1997
+270,160445594,"Susa, Mopune",F,NAPIYE,Household Duties,07 Dec 2003
+271,160445603,"Susi, Toa",F,KALAPOI,Student,01 Apr 2004
+272,160249655,"Taka, Hewa",F,KOLOPENA,Household Duties,01 Jan 1948
+273,160247119,"Taka, Jipi",F,KOLOPENA,Household Duties,01 Jan 1974
+274,160158809,"Taka, Keno",F,Tukupangi,Household Duties,01 Jan 1940
+275,160249656,"Taka, Monica",F,KOLOPENA,Household Duties,01 Jan 1979
+276,160246856,"Taka, Rozar",F,KOLOPENA,Household Duties,01 Jan 1985
+277,160206865,"Tamo, Kolambo",F,Tukupangi,Household Duties,01 Jan 1932
+278,160206723,"Tamo, Misak",F,Tukupangi,Student,01 Jan 1969
+279,160238958,"Tarapi, Beki",F,APUTOLI,Household Duties,01 Jan 2000
+280,160238957,"Tarapi, Mopune",F,APUTOLI,Household Duties,16 Feb 1986
+281,160238938,"Tarapi, Ruth",F,APUTOLI,Household Duties,01 Jan 1983
+282,160249047,"Tembo, Kumbiye",F,NAPIYE,Household Duties,01 Jan 1952
+283,160249535,"Tembo, Moiye",F,NAPIYE,Household Duties,21 Apr 1983
+284,160238944,"Tene, Betty",F,KOLOPENA,Student,09 May 1990
+285,160238943,"Tene, Kethy",F,KOLOPENA,Household Duties,16 Nov 1984
+286,160238941,"Tene, Munis",F,KOLOPENA,Household Duties,01 Jan 1956
+287,160236061,"Tene, Sera",F,KOLOPENA,Household Duties,27 Dec 1987
+288,160238942,"Tene, Wali",F,KOLOPENA,Household Duties,05 Oct 1981
+289,160206752,"Tepune, Mopune",F,Tukupangi,Household Duties,01 Jan 1970
+290,160206295,"Tepune, Siliva",F,Tukupangi,Household Duties,01 Jan 1968
+291,160160423,"Teru, Hellen",F,Tukupangi,Subsistence Farmer,01 Jan 1970
+292,160160753,"Teru, Magalina",F,Tukupangi,Subsistence Farmer,01 Jan 1940
+293,160162745,"Teru, Sunday sande",F,Tukupangi,Subsistence Farmer,01 Jan 1986
+294,160247121,"Terum, Doris",F,KOLOPENA,Household Duties,03 Nov 1989
+295,160247108,"Terum, Melen",F,KOLOPENA,Household Duties,04 Jul 1984
+296,160206880,"Timothy, Anjola",F,Tukupangi,Household Duties,01 Jan 1966
+297,160182819,"Tiri, Kambeino",F,Tukupangi,Household Duties,01 Jan 1949
+298,160184709,"Tope, Aiembo",F,Tukupangi,Student,01 Jan 1988
+299,160205244,"Tope, Kuta",F,Tukupangi,Household Duties,01 Jan 1948
+300,160206734,"Topi, Tiyembo",F,Tukupangi,Household Duties,01 Jan 1944
+301,160445668,"Toro, Nathasa",F,NAPIYE,Student,07 Feb 2004
+302,25083894,"Tuku, Clena",F,KOLOPENA,Student,04 Jun 2000
+303,25083895,"Tuku, Cleny",F,KOLOPENA,Student,03 Jun 2000
+304,160238954,"Tuku, Julian",F,APUTOLI,Household Duties,26 May 1984
+305,160238955,"Tuku, Linet",F,APUTOLI,Student,24 Mar 1991
+306,160236059,"Tuku, Lionni",F,APUTOLI,Student,13 Jul 1987
+307,160236058,"Tuku, Magret",F,APUTOLI,Household Duties,11 Mar 1975
+308,160238971,"Tuku, Ugembo",F,APUTOLI,Household Duties,01 Jan 1966
+309,160249751,"Turi, Bepi",F,KOLOPENA,Household Duties,01 Jan 1964
+310,160160271,"Turi, Kopil",F,Tukupangi,Household Duties,01 Jan 1960
+311,160249185,"Turi, Melen",F,KOLOPENA,Household Duties,01 Jan 2000
+312,160249245,"Turi, Racheal",F,KOLOPENA,Student,08 Oct 1989
+313,160249358,"Turi, Regina",F,KOLOPENA,Student,20 Jun 1989
+314,160247029,"Turi, Ruth",F,KOLOPENA,Student,19 Apr 1986
+315,160249359,"Turi, Welina",F,KOLOPENA,Student,13 Mar 1991
+316,160445666,"Tuta, Liya",F,Tukupangi,Student,08 Feb 2004
+317,160133208,"Undi, Melisa",F,Tukupangi,Household Duties,01 Oct 1996
+318,25083918,"Ungia, Faith",F,Tukupangi,Student,28 Jul 2000
+319,25083877,"Ungia, Jeffiner",F,KALAPOI,Self Employed,17 Aug 1998
+320,25087340,"Ungia, Patricia",F,Tukupangi,Self Employed,28 Apr 2004
+321,25083897,"Velo, Kala",F,KOLOPENA,Student,05 Jun 2000
+322,160445629,"Wagolo, Matilda",F,KALAPOI,Student,22 Jan 2004
+323,160249080,"Waima, Ambil",F,KALAPOI,Household Duties,03 Aug 1971
+324,160247001,"Waima, Anna",F,KALAPOI,Household Duties,01 Jan 1964
+325,160249229,"Waima, Kellen",F,KALAPOI,Household Duties,30 May 1983
+326,160133375,"Wain, Saron",F,Tukupangi,Student,17 Apr 1998
+327,160182806,"Wamo, Kawame",F,Tukupangi,Household Duties,01 Jan 1945
+328,160160361,"Wamo, Mepili",F,Tukupangi,Subsistence Farmer,01 Jan 1962
+329,160182808,"Wamo, Penny",F,Tukupangi,Household Duties,01 Jan 1979
+330,160182508,"Wandi, Kanambo",F,Tukupangi,Household Duties,01 Jan 1971
+331,160167334,"Wane, Tress",F,Tukupangi,Subsistence Farmer,01 Jan 1969
+332,160182801,"Wangua, Ltepoli",F,Tukupangi,Subsistence Farmer,01 Jan 1935
+333,160445610,"Wari, Kelo",F,NAPIYE,Household Duties,09 Dec 1997
+334,25083923,"Wari, Susan",F,Tukupangi,Household Duties,20 Jun 1989
+335,160445625,"Welin, Malin",F,NAPIYE,Student,13 Sep 2000
+336,160205233,"Were, Pondo",F,Tukupangi,Household Duties,01 Jan 1950
+337,160133214,"Wesis, Jacklyn",F,Tukupangi,Household Duties,13 May 1998
+338,160205326,"Wesley, Cathy",F,Tukupangi,Household Duties,01 Jan 1965
+339,160205341,"Wesley, Sendrela",F,Tukupangi,Student,01 Jan 1990
+340,160158976,"Wiko, Noino",F,Tukupangi,Household Duties,01 Jan 1939
+341,160158807,"Willson, Rose",F,Tukupangi,Household Duties,01 Jan 1969
+342,160249371,"Windi, Merolin",F,KOLOPENA,Household Duties,08 Apr 1988
+343,160249365,"Windi, Oro",F,KOLOPENA,Household Duties,01 Jan 1957
+344,160249366,"Windi, Wein",F,KOLOPENA,Household Duties,01 Jan 1974
+345,160133222,"Wiru, Alin",F,Tukupangi,Household Duties,19 Apr 1998
+346,160182659,"Wiwa, Bepi",F,Tukupangi,Household Duties,01 Jan 1966
+347,160249122,"Yakil, Doroty",F,KALAPOI,Household Duties,20 Mar 1985
+348,160249355,"Yakil, Jacklyn",F,KALAPOI,Student,18 Jul 1990
+349,160249208,"Yakil, Kombil",F,KALAPOI,Household Duties,01 Jan 1956
+350,160206876,"Yando, Susi",F,Tukupangi,Household Duties,01 Jan 1976
+351,160133221,"Yapi, Jessica",F,Tukupangi,Sales Women,07 Apr 1995
+352,160238967,"Yawa, Kethrine",F,KALAPOI,Household Duties,19 Aug 1990
+353,160249220,"Yawa, Magret",F,KALAPOI,Household Duties,28 Jan 1989
+354,160247009,"Yawa, Mita",F,KALAPOI,Household Duties,01 Jan 1969
+355,160158972,"Yunugo, Jully",F,Tukupangi,Student,01 Jan 1986
+356,160158812,"Yunugo, Mone",F,Tukupangi,Household Duties,01 Jan 1947
+357,160158810,"Yunugo, Parelambo",F,Tukupangi,Household Duties,01 Jan 1955
+358,160158974,"Yunugo, Weyapi",F,Tukupangi,Student,01 Jan 1987
+359,160249180,"Yunungo, Mone",F,KOLOPENA,Household Duties,01 Jan 1979
+360,160249183,"Yunungo, Rose",F,KOLOPENA,Student,20 Nov 1993
+361,160249181,"Yunungo, Weks",F,KOLOPENA,Student,10 Nov 1988
+362,160445622,"Abram, Jordan",M,Tukupangi,Student,08 Jun 2003
+363,160445620,"Ali, Alfred",M,NAPIYE,Student,20 Feb 2003
+364,160133380,"Angu, Ange",M,Tukupangi,Sales Women,09 Mar 1999
+365,160445635,"Apa, Manuel",M,KALAPOI,Student,26 Apr 2003
+366,160445664,"Ape, Newton",M,APUTOLI,Student,03 Sep 2002
+367,160445617,"Ata, Pala",M,Tukupangi,Carpenter,08 Dec 1992
+368,160167581,"Augusten, Jimmy",M,Tukupangi,Student,01 Jan 1983
+369,160167579,"Augusten, Nick",M,Tukupangi,Student,01 Jan 1982
+370,160173713,"Augusten, Wati",M,Tukupangi,Subsistence Farmer,01 Jan 1940
+371,160133188,"Augustin, Fedlis",M,Tukupangi,Sales Women,18 Feb 1996
+372,160133189,"Augustin, Yatu",M,Tukupangi,Sales Women,12 Mar 1999
+373,160445613,"Benjil, Benjiman",M,NAPIYE,Student,11 Mar 2003
+374,25083878,"Bly, Steward",M,KOLOPENA,Student,09 Jun 2000
+375,160445637,"Bradly, Apa",M,Tukupangi,Student,23 Sep 2003
+376,160445634,"Brain, Fitla",M,KALAPOI,Student,27 Dec 2000
+377,160445638,"Brandson, Nai",M,Tukupangi,Student,30 Sep 2001
+378,160445660,"Clancy, Clay",M,KALAPOI,Machinist,09 Nov 2000
+379,25083880,"Cliff, Lengi",M,KOLOPENA,Director,28 Apr 1989
+380,160133199,"Dipol, Heron",M,Tukupangi,Sales Women,16 Feb 1998
+381,160445632,"Dodo, Keeper",M,Tukupangi,Student,28 Apr 2004
+382,160445621,"Douglass, Waim",M,KALAPOI,Student,26 May 2003
+383,160445663,"Emois, Emos",M,KOLOPENA,Student,06 Mar 2003
+384,160445649,"Enge, Saion",M,Tukupangi,Student,09 Feb 2002
+385,160160284,"Epawa, Andrew",M,Tukupangi,Subsistence Farmer,01 Jan 1966
+386,160160286,"Epawa, James",M,Tukupangi,Subsistence Farmer,01 Jan 1974
+387,160160275,"Fabiyan, Steven",M,Tukupangi,Student,01 Jan 1987
+388,160249112,"George, Ray",M,KALAPOI,Student,16 Nov 1992
+389,160175991,"Gerry, David",M,Tukupangi,Subsistence Farmer,01 Jan 1980
+390,160158993,"Gerry, Gibson",M,Tukupangi,Subsistence Farmer,01 Jan 1985
+391,160158994,"Gerry, Mathew",M,Tukupangi,Student,01 Jan 1981
+392,160169126,"Gerry, Normen",M,Tukupangi,Student,01 Jan 1987
+393,160153188,"Gerry, Robert",M,Tukupangi,Student,01 Jan 1979
+394,160158991,"Gerry, Robin",M,Tukupangi,Student,01 Jan 1986
+395,160158990,"Gerry, Steven",M,Tukupangi,Student,01 Jan 1982
+396,160182484,"Huno, Kupu",M,Tukupangi,Student,01 Jan 1980
+397,160159024,"Imbiye, Simon",M,Tukupangi,Teacher,01 Jan 1974
+398,160249043,"Indipine, Anthon tano",M,NAPIYE,Teacher,28 Dec 1983
+399,160249562,"Indpine, Endy",M,NAPIYE,Subsistence Farmer,06 Feb 1987
+400,160160360,"Irepo, George",M,Tukupangi,Subsistence Farmer,01 Jan 1975
+401,160160366,"Irepo, Glen",M,Tukupangi,Student,01 Jan 1988
+402,160160764,"Irepo, Joe",M,Tukupangi,Student,01 Jan 1987
+403,160160754,"Irepo, Kemapu",M,Tukupangi,Subsistence Farmer,01 Jan 1965
+404,160160759,"Irepo, Luke",M,Tukupangi,Subsistence Farmer,01 Jan 1951
+405,160160365,"Irepo, Paul",M,Tukupangi,Teacher,01 Jan 1964
+406,160445590,"Jacob, Lote",M,Tukupangi,Teacher,19 Mar 1990
+407,160445645,"James, Mark",M,APUTOLI,Subsistence Farmer,04 Jun 2000
+408,160445641,"Joe, Ape",M,APUTOLI,Subsistence Farmer,22 Jan 2000
+409,160133230,"Joe, Jion",M,Tukupangi,Sales Women,12 Jan 1999
+410,160445587,"John, Bulga",M,Tukupangi,Welder,13 Oct 2003
+411,160133192,"John, Jeffery",M,Tukupangi,Sales Women,08 Jan 1999
+412,160445619,"John, Kera",M,KOLOPENA,Student,04 Dec 2003
+413,160133211,"John, Tepo",M,Tukupangi,Sales Women,04 Jun 1998
+414,160445628,"Jordan, Piele",M,NAPIYE,Teacher,09 Sep 1991
+415,160173697,"Joseph, Manuel",M,Tukupangi,Student,01 Jan 1987
+416,160249759,"Kaku, Turi",M,KOLOPENA,Subsistence Farmer,01 Jan 1960
+417,160249639,"Kambenda, Konjel",M,KOLOPENA,Subsistence Farmer,01 Jan 1956
+418,160167724,"Kambenda, Tomano clemement",M,Tukupangi,Subsistence Farmer,01 Jan 1945
+419,160249354,"Kambenda, Yakil",M,KALAPOI,Subsistence Farmer,01 Jan 1945
+420,25083883,"Kamion, Kini",M,KOLOPENA,Student,29 Jun 2000
+421,160169293,"Kanambo, Paul",M,Tukupangi,Student,01 Jan 1980
+422,160133378,"Kanambo, Rachet",M,Tukupangi,Not Specified,14 Apr 1999
+423,160173712,"Kanambo, Wanis",M,Tukupangi,Student,01 Jan 1982
+424,160205216,"Kapale, Kuleko",M,Tukupangi,Mechanic,01 Jan 1967
+425,160206739,"Kapale, Pundiki",M,Tukupangi,Engineer,01 Jan 1969
+426,160249118,"Kapolo, Yawa",M,KALAPOI,Subsistence Farmer,01 Jan 1967
+427,160247005,"Karambi, Lama",M,KALAPOI,Subsistence Farmer,12 Nov 1978
+428,160133190,"Karimbi, Brian",M,Tukupangi,Sales Women,10 Feb 1999
+429,160249115,"Karimbi, John",M,KALAPOI,Student,11 Feb 1988
+430,160249216,"Karimbi, Paul",M,KALAPOI,Subsistence Farmer,07 Sep 1981
+431,160249114,"Karimbi, Tali",M,KALAPOI,Subsistence Farmer,07 Sep 1948
+432,160133381,"Kela, Onlie",M,Tukupangi,Sales Women,04 Mar 1999
+433,160173710,"Kelema, Kanambo",M,Tukupangi,Subsistence Farmer,01 Jan 1941
+434,160173708,"Kelema, Mata",M,Tukupangi,Subsistence Farmer,01 Jan 1951
+435,160162749,"Kemapu, James",M,Tukupangi,Student,01 Jan 1987
+436,160160756,"Kemapu, Puke",M,Tukupangi,Subsistence Farmer,01 Jan 1980
+437,160160377,"Kenegua, Paul",M,Tukupangi,Teacher,01 Jan 1972
+438,160173687,"Kenewi, Ben",M,Tukupangi,Subsistence Farmer,01 Jan 1984
+439,160133373,"Kenneth, Livai",M,Tukupangi,Student,19 Feb 1998
+440,160445633,"Kepsi, Cristopa",M,KOLOPENA,Student,29 Jun 2001
+441,160159032,"Kepu, Micheal",M,Tukupangi,Student,01 Jan 1988
+442,160160266,"Kepu, Pani",M,Tukupangi,Student,01 Jan 1984
+443,160169142,"Kera, Paul",M,Tukupangi,Subsistence Farmer,01 Jan 1964
+444,160159012,"Ketopa, Opa",M,Tukupangi,Subsistence Farmer,01 Jan 1953
+445,160160270,"Ketopa, Turi",M,Tukupangi,Subsistence Farmer,01 Jan 1951
+446,160158805,"Ketopa, Willson",M,Tukupangi,Subsistence Farmer,01 Jan 1962
+447,160249526,"Kewa, Mambo",M,NAPIYE,Subsistence Farmer,01 Jan 1940
+448,160175841,"Kewa, Pilimbo",M,Tukupangi,Subsistence Farmer,01 Jan 1954
+449,160173679,"Kewei, Biri",M,Tukupangi,Subsistence Farmer,01 Jan 1987
+450,160173688,"Kewei, Kolen",M,Tukupangi,Subsistence Farmer,01 Jan 1976
+451,160160272,"Kill, Taka",M,Tukupangi,Subsistence Farmer,01 Jan 1934
+452,25083874,"Kolive, Paul",M,KALAPOI,Student,07 Jun 2000
+453,160182654,"Kolowa, Glaime",M,Tukupangi,Instructor,01 Jan 1963
+454,160182810,"Koniye, Nelson",M,Tukupangi,Student,01 Jan 1980
+455,160182490,"Koniye, Samuel",M,Tukupangi,Student,01 Jan 1982
+456,160249246,"Konjel, Bili",M,KOLOPENA,Subsistence Farmer,01 Jan 1980
+457,160249627,"Konjel, Noel",M,KOLOPENA,Student,02 Jul 1993
+458,160205219,"Korowi, Lepi",M,Tukupangi,Carpenter,01 Jan 1965
+459,160206744,"Korowi, Lesley",M,Tukupangi,Student,01 Jan 1990
+460,160173707,"Kuleko, Sem",M,Tukupangi,Student,01 Jan 1987
+461,160169145,"Kulema, Sent",M,Tukupangi,Subsistence Farmer,01 Jan 1961
+462,160169122,"Kulema, Willy",M,Tukupangi,Subsistence Farmer,01 Jan 1984
+463,160169298,"Kuleme, Kopeya",M,Tukupangi,Subsistence Farmer,01 Jan 1961
+464,160167583,"Kuleme, Marukus",M,Tukupangi,Accountant,01 Jan 1959
+465,160206729,"Kultiye, Kepu",M,Tukupangi,Subsistence Farmer,01 Jan 1966
+466,160206881,"Kultiye, Temane",M,Tukupangi,Subsistence Farmer,01 Jan 1963
+467,160206728,"Kultiye, Toringi",M,Tukupangi,Subsistence Farmer,01 Jan 1961
+468,160167719,"Kunekara, Wane",M,Tukupangi,Subsistence Farmer,01 Jan 1968
+469,160445597,"Laki, Turi",M,KOLOPENA,Student,05 Mar 2003
+470,160445640,"Lamba, Tonney",M,KOLOPENA,Student,12 Mar 2004
+471,160167335,"Limbo, Nelson panjipo",M,Tukupangi,Subsistence Farmer,01 Jan 1971
+472,160445655,"Livai, Livai",M,APUTOLI,Student,03 Feb 2000
+473,160206746,"Liyo, Stanley",M,Tukupangi,Student,07 Jan 1987
+474,160133377,"Lodwik, Samuel",M,Tukupangi,Student,16 Feb 1997
+475,160137893,"Ludwik, Iki",M,Tukupangi,Student,15 Feb 1999
+476,160511101,"Luke, Maka",M,Tukupangi,Student,11 May 2000
+477,160158988,"Lume, Gerry",M,Tukupangi,Councillor,01 Jan 1937
+478,160160262,"Lume, Jim",M,Tukupangi,Student,01 Jan 1988
+479,160159027,"Lume, Wete",M,Tukupangi,Subsistence Farmer,01 Jan 1954
+480,160159038,"Lume, Windi john",M,Tukupangi,Subsistence Farmer,01 Jan 1950
+481,160249378,"Maka, Joseph",M,NAPIYE,Subsistence Farmer,01 Jan 1956
+482,160249016,"Maka, Tendel",M,NAPIYE,Subsistence Farmer,01 Jan 1938
+483,160158816,"Makage, Kiiko",M,Tukupangi,Subsistence Farmer,01 Jan 1939
+484,160249274,"Makage, Mano",M,KOLOPENA,Subsistence Farmer,01 Jan 1961
+485,160160277,"Makage, Yunugo",M,Tukupangi,Subsistence Farmer,01 Jan 1964
+486,160160273,"Makange, Fabiyan",M,Tukupangi,Subsistence Farmer,01 Jan 1964
+487,160247106,"Makange, Jackson",M,KOLOPENA,Student,27 Aug 1992
+488,160175852,"Makorol, Kewei",M,Tukupangi,Subsistence Farmer,01 Jan 1956
+489,160175849,"Makorol, Lombil",M,Tukupangi,Subsistence Farmer,01 Jan 1936
+490,160173680,"Makorol, Ponde amdoli",M,Tukupangi,Subsistence Farmer,01 Jan 1954
+491,160175990,"Makorol, Simon perel",M,Tukupangi,Subsistence Farmer,01 Jan 1971
+492,160445630,"Maku, Manuel",M,KOLOPENA,Student,03 Feb 2004
+493,160445654,"Malakai, Maka",M,APUTOLI,Student,04 Sep 2003
+494,160445615,"Mali, Tembo",M,Tukupangi,Teacher,09 May 1987
+495,160167568,"Mambo, Bule",M,Tukupangi,Subsistence Farmer,01 Jan 1974
+496,160249543,"Mambo, Jeffry",M,NAPIYE,Subsistence Farmer,11 Nov 1984
+497,160249542,"Mambo, Tilto",M,NAPIYE,Subsistence Farmer,23 May 1978
+498,160137897,"Mano, Anthon",M,Tukupangi,Sales Women,16 Apr 1997
+499,160205319,"Mano, Mokoiye",M,Tukupangi,Subsistence Farmer,01 Jan 1930
+500,160205322,"Mano, Notele",M,Tukupangi,Subsistence Farmer,01 Jan 1900
+501,160238940,"Mape, Nichalas",M,APUTOLI,Subsistence Farmer,01 Jan 1974
+502,160445662,"Masoc, Jesi",M,KALAPOI,Student,07 Mar 2000
+503,160133210,"Mata, Erick",M,Tukupangi,Sales Women,06 Jul 1998
+504,160173709,"Mata, Redy",M,Tukupangi,Student,01 Jan 1987
+505,160133371,"Mata, Roy",M,NAPIYE,Student,18 Apr 1999
+506,160445588,"Mele, Tonny",M,Tukupangi,Student,16 Mar 2003
+507,160249753,"Mendel, Namba",M,KOLOPENA,Driver,01 Jan 1982
+508,160249629,"Mendel john, John",M,KOLOPENA,Pastor,01 Jan 1978
+509,160205235,"Mini, Tiro",M,Tukupangi,Mechanic,01 Jan 1952
+510,160160282,"Moses, Abrahm",M,Tukupangi,Student,01 Jan 1980
+511,160160267,"Moses, Aisacc",M,Tukupangi,Student,01 Jan 1986
+512,160133200,"Moses, Liye",M,Tukupangi,Sales Women,30 Jan 1999
+513,160159033,"Moses, Mondo",M,Tukupangi,Pastor,01 Jan 1951
+514,160249356,"Nandiye, Aiyel",M,KALAPOI,Subsistence Farmer,01 Jan 1973
+515,160249210,"Nandiye, Aruru",M,KALAPOI,Subsistence Farmer,01 Jan 1970
+516,160247142,"Nandiye, Bili",M,KALAPOI,Subsistence Farmer,13 May 1979
+517,160249212,"Nandiye, David",M,KALAPOI,Student,10 Feb 1989
+518,160249211,"Nandiye, Micheal",M,KALAPOI,Subsistence Farmer,01 Jan 1975
+519,25083887,"Nathan, Kennedy",M,KOLOPENA,Student,27 Jun 2000
+520,160133372,"Nelson, Nathaniel",M,Tukupangi,Student,17 Apr 1999
+521,160249637,"Nema, Felix",M,KOLOPENA,Driver,16 Dec 1987
+522,160137892,"Nema, Frankey",M,Tukupangi,Student,16 Mar 1999
+523,160175831,"Nema, Joseph",M,Tukupangi,Student,01 Jan 1985
+524,160247111,"Nema, Mali",M,KOLOPENA,Student,10 Jan 1988
+525,160249634,"Nema, Pilimbo",M,KOLOPENA,Subsistence Farmer,01 Jan 1970
+526,160249650,"Nema, Pilimon",M,KOLOPENA,Student,11 Mar 1990
+527,160249649,"Nema, Teke",M,KOLOPENA,Subsistence Farmer,15 Apr 1983
+528,160247110,"Nema, Thomas",M,KOLOPENA,Mechanic,11 May 1980
+529,160249748,"Nembo, Anjo",M,KOLOPENA,Subsistence Farmer,05 Mar 1988
+530,160249747,"Nembo, Pumbo",M,KOLOPENA,Subsistence Farmer,18 Mar 1981
+531,160249243,"Nembo, Wambo",M,KOLOPENA,Subsistence Farmer,10 Sep 1984
+532,160175830,"Newa, Rex",M,Tukupangi,Subsistence Farmer,01 Jan 1970
+533,160445592,"Nidil, Aruru",M,NAPIYE,Student,30 Dec 2003
+534,160167714,"Nike, Peil",M,Tukupangi,Subsistence Farmer,01 Jan 1937
+535,160238953,"Niningi, Mike",M,APUTOLI,Student,19 Feb 1991
+536,160238951,"Niningi, Peter",M,APUTOLI,Plumber,12 Mar 1976
+537,160445665,"Nobeya, Nobert",M,APUTOLI,Student,05 Mar 2000
+538,160205344,"Noila, Peri",M,Tukupangi,Student,01 Jan 1967
+539,160175847,"Noru, Pandeya",M,Tukupangi,Nurse,01 Jan 1973
+540,160133187,"Opa, Lapo",M,Tukupangi,Sales Women,01 Apr 1999
+541,160137896,"Opa, Puli",M,Tukupangi,Sales Women,13 Apr 1999
+542,160175843,"Pandeya, Pendene",M,Tukupangi,Student,01 Jan 1989
+543,160160368,"Pangoiye, James",M,Tukupangi,Teacher,01 Jan 1969
+544,160169143,"Paul, Jim",M,Tukupangi,Student,14 May 1988
+545,160167599,"Peil, Ena san",M,Tukupangi,Subsistence Farmer,01 Jan 1973
+546,160167717,"Peil, Kolandi",M,Tukupangi,Subsistence Farmer,01 Jan 1963
+547,160167600,"Peil, Lodwik jim",M,Tukupangi,Worker,01 Jan 1967
+548,160167715,"Peil, Peter",M,Tukupangi,Worker,01 Jan 1970
+549,160205223,"Pelde, Kondole",M,Tukupangi,Subsistence Farmer,01 Jan 1900
+550,160133226,"Pembi, Junior",M,Tukupangi,Sales Women,16 Apr 1998
+551,160445616,"Pembi, Pone",M,KOLOPENA,Subsistence Farmer,28 Jun 2003
+552,160133191,"Pembo, Joel",M,Tukupangi,Sales Women,15 Mar 1999
+553,25083904,"Pembo, Lodwik",M,Tukupangi,Subsistence Farmer,28 Feb 1978
+554,25083905,"Pena, Ado",M,Tukupangi,Student,16 May 2000
+555,160445646,"Pena, Jaffeth",M,KOLOPENA,Student,03 Sep 2000
+556,25083907,"Pena, Jess",M,Tukupangi,Driver,06 Dec 1999
+557,160133382,"Pena, Lengi",M,Tukupangi,Sales Women,04 Feb 1998
+558,25083908,"Pena, Peter",M,Tukupangi,Self Employed,12 Jun 1984
+559,25083909,"Pena, Roger",M,Tukupangi,Farm worker,09 Aug 1993
+560,160133383,"Pepna, Kekaiea",M,Tukupangi,Sales Women,18 Apr 1999
+561,25083912,"Pera, Samuel",M,Tukupangi,Student,15 May 2000
+562,160249548,"Peraile, Lukas",M,NAPIYE,Student,20 Jun 1988
+563,160247292,"Peraile, Luke",M,NAPIYE,Subsistence Farmer,11 Oct 1982
+564,160247253,"Peraile, Pulua",M,NAPIYE,Subsistence Farmer,03 Feb 1980
+565,25083889,"Peter, Stylon",M,KOLOPENA,Student,02 Apr 2000
+566,160175846,"Pilimbo, Gram",M,Tukupangi,Subsistence Farmer,01 Jan 1970
+567,160175845,"Pilimbo, Kari",M,Tukupangi,Subsistence Farmer,01 Jan 1980
+568,160249628,"Pilimbo, Mendel",M,KOLOPENA,Subsistence Farmer,01 Jan 1940
+569,160247252,"Pokea, John",M,NAPIYE,Subsistence Farmer,11 Oct 1969
+570,160249537,"Pokea, Micheal",M,NAPIYE,Student,08 Jul 1989
+571,160175850,"Ponde, Mathew",M,Tukupangi,Student,01 Jan 1986
+572,160445661,"Pondo, Jetro",M,KALAPOI,Student,03 May 2003
+573,160205238,"Pora, Apiri",M,Tukupangi,Subsistence Farmer,01 Jan 1978
+574,25083914,"Pora, Menge",M,Tukupangi,Household Duties,12 Oct 1981
+575,25083915,"Pora, Sam",M,Tukupangi,Student,13 Dec 2001
+576,160249525,"Poya, Alu",M,NAPIYE,Subsistence Farmer,01 Jan 1943
+577,160249019,"Poya, Mark",M,NAPIYE,Subsistence Farmer,26 Mar 1987
+578,160133202,"Poya, Sedrick",M,Tukupangi,Sales Women,08 Mar 1998
+579,160133224,"Pumbo, Joshua",M,Tukupangi,Sales Women,14 Feb 1999
+580,160247007,"Pup, John",M,KALAPOI,Driver,01 Jan 1966
+581,160137904,"Rebon, Tipo",M,Tukupangi,Sales Women,08 May 1981
+582,160238970,"Repa, Tuku",M,APUTOLI,Subsistence Farmer,01 Jan 1959
+583,160133212,"Samson, Kanombo",M,Tukupangi,Teacher,16 Feb 1997
+584,160445611,"Sedrick, Kera",M,NAPIYE,Student,11 Dec 1990
+585,160249218,"Sem, Kari",M,KALAPOI,Catering,21 Jun 1975
+586,160445618,"Simon, Boku",M,Tukupangi,Nurse,16 Jan 1990
+587,160445651,"Sion, Kayo",M,Tukupangi,Machinist,03 Dec 2000
+588,160445636,"Stan, Stanford",M,KALAPOI,Student,28 Mar 2004
+589,160445598,"Stancy, Koki",M,NAPIYE,Student,21 Apr 2004
+590,25083892,"Steward, Reyas",M,KOLOPENA,Student,03 Jun 2000
+591,160247118,"Taka, Tenge",M,KOLOPENA,Subsistence Farmer,01 Jan 1943
+592,160205222,"Tamo, Jackson",M,Tukupangi,Security,01 Jan 1971
+593,160206725,"Tamo, James",M,Tukupangi,Student,01 Jan 1990
+594,160206719,"Tamo, Pere",M,Tukupangi,Pastor,01 Jan 1965
+595,160206877,"Tamo, Philip",M,Tukupangi,Student,01 Jan 1987
+596,160167596,"Tapoly, Deneol",M,Tukupangi,Subsistence Farmer,01 Jan 1954
+597,160167595,"Tapoly, Korowi",M,Tukupangi,Subsistence Farmer,01 Jan 1973
+598,160167723,"Tapoly, Sam",M,Tukupangi,Subsistence Farmer,01 Jan 1953
+599,160167721,"Tapoly, Tumba",M,Tukupangi,Subsistence Farmer,01 Jan 1973
+600,160238939,"Tarapi, Anjo",M,APUTOLI,Student,21 Apr 1992
+601,160238937,"Tarapi, Niki",M,APUTOLI,Subsistence Farmer,01 Jan 1978
+602,160160265,"Tari, Thomas",M,Tukupangi,Nurse,01 Jan 1971
+603,160133201,"Tata, Benjamin",M,Tukupangi,Sales Women,01 Jan 1999
+604,160249046,"Tembo, Thomas",M,NAPIYE,Subsistence Farmer,01 Jan 1955
+605,25083893,"Tendon, Kewa",M,KOLOPENA,Student,07 Jun 2000
+606,160236060,"Tene, Makop",M,KOLOPENA,Subsistence Farmer,28 Mar 1978
+607,160206297,"Tepune, Nickson",M,Tukupangi,Student,01 Jan 1990
+608,160160425,"Teru, David",M,Tukupangi,Student,01 Jan 1985
+609,160160426,"Teru, Steven",M,Tukupangi,Student,01 Jan 1985
+610,160249756,"Terum, Posu",M,KOLOPENA,Mechanic,11 Feb 1980
+611,160182813,"Tiri, Huno",M,Tukupangi,Subsistence Farmer,01 Jan 1941
+612,160182660,"Tiri, Karumbi",M,Tukupangi,Subsistence Farmer,01 Jan 1967
+613,160182482,"Tiri, Lewa",M,Tukupangi,Subsistence Farmer,01 Jan 1969
+614,160182816,"Tiri, Wiwa",M,Tukupangi,Subsistence Farmer,01 Jan 1968
+615,160173717,"Tirimo, Anthon",M,Tukupangi,Subsistence Farmer,01 Jan 1976
+616,160167725,"Tomano, Philip",M,Tukupangi,Student,01 Jan 1982
+617,160182805,"Tope, Luke",M,Tukupangi,Student,01 Jan 1987
+618,160184707,"Tope, Pala",M,Tukupangi,Student,01 Jan 1979
+619,160184705,"Tope, Pulu",M,Tukupangi,Subsistence Farmer,01 Jan 1983
+620,160206735,"Topi, Tepune",M,Tukupangi,Subsistence Farmer,01 Jan 1967
+621,160133193,"Torobena, Remon",M,Tukupangi,Sales Women,18 Feb 1999
+622,160133209,"Tuku, Cliff",M,Tukupangi,Sales Women,03 Jun 1998
+623,25083896,"Tuku, Jeol",M,KOLOPENA,Student,01 Mar 2000
+624,160137902,"Tuku, Jero",M,Tukupangi,Sales Women,04 Mar 1998
+625,25083917,"Tuku, Jetro",M,Tukupangi,Student,10 Jan 2002
+626,160137895,"Turi, Joe",M,Tukupangi,Student,14 Feb 1999
+627,160249357,"Turi, Paul",M,KOLOPENA,Subsistence Farmer,11 Dec 1980
+628,160249760,"Turi, Solomon",M,KOLOPENA,Subsistence Farmer,18 Apr 1981
+629,160249752,"Turi, Wesly",M,KOLOPENA,Household Duties,10 Nov 1985
+630,160169136,"Undi, Joseph",M,Tukupangi,Subsistence Farmer,01 Jan 1942
+631,160169137,"Undi, Koropa",M,Tukupangi,Subsistence Farmer,01 Jan 1970
+632,160173693,"Undi, Peter",M,Tukupangi,Subsistence Farmer,01 Jan 1985
+633,160205334,"Undupie, Lopeke",M,Tukupangi,Subsistence Farmer,01 Jan 1938
+634,25083919,"Ungia, Joe",M,Tukupangi,Self Employed,13 Mar 1988
+635,25083920,"Ungia, John",M,Tukupangi,Self Employed,13 May 1988
+636,25083922,"Ungia, Pennis",M,Tukupangi,Farm worker,18 Feb 1995
+637,160249228,"Waima, Dominic",M,KALAPOI,Subsistence Farmer,25 Jul 1976
+638,160247003,"Waima, George",M,KALAPOI,Worker,03 Mar 1965
+639,160249230,"Waima, Korowi",M,KALAPOI,Student,25 May 1985
+640,160249213,"Waima, Moses",M,KALAPOI,Subsistence Farmer,01 Jan 1961
+641,160247002,"Waima, Taina",M,KALAPOI,Subsistence Farmer,04 Jun 1981
+642,160133376,"Wain, Clinton",M,Tukupangi,Student,18 Apr 1998
+643,160182489,"Waiye, Amos",M,Tukupangi,Subsistence Farmer,01 Jan 1962
+644,160182487,"Waiye, Keven",M,Tukupangi,Security,01 Jan 1981
+645,160169284,"Waka, Kuleko",M,Tukupangi,Subsistence Farmer,01 Jan 1968
+646,160182812,"Wamo, Eric",M,Tukupangi,Teacher,01 Jan 1969
+647,160184712,"Wamo, Nickson",M,Tukupangi,Student,01 Jan 1983
+648,160160370,"Wamo, Simon",M,Tukupangi,Student,01 Jan 1987
+649,160182802,"Wangua, Gibson",M,Tukupangi,Student,01 Jan 1989
+650,160184706,"Wangua, Thonny",M,Tukupangi,Student,01 Jan 1989
+651,160247109,"Wanje, Nema",M,KOLOPENA,Subsistence Farmer,01 Jan 1943
+652,160206748,"Were, Kambu",M,Tukupangi,Teacher,01 Jan 1960
+653,160205323,"Were, Liyo",M,Tukupangi,Pastor,03 Apr 1955
+654,160205338,"Were, Nonson",M,Tukupangi,Mechanic,01 Jan 1966
+655,160205336,"Wesley, Nimrod",M,Tukupangi,Student,01 Jan 1989
+656,160158987,"Wiko, James",M,Tukupangi,Subsistence Farmer,01 Jan 1975
+657,160153186,"Wiko, Kenet",M,Tukupangi,Pastor,01 Jan 1955
+658,160247026,"Wiko, Kenneth",M,KOLOPENA,Pastor,01 Jan 1970
+659,160159043,"Wiko, Posu",M,Tukupangi,Subsistence Farmer,01 Jan 1978
+660,160159042,"Wiko, Sam",M,Tukupangi,Student,01 Jan 1982
+661,160249642,"Windi, Ben",M,KOLOPENA,Student,16 Nov 1983
+662,160249645,"Windi, Emose",M,KOLOPENA,Subsistence Farmer,27 Sep 1990
+663,160249641,"Windi, John",M,KOLOPENA,Subsistence Farmer,01 Jan 1953
+664,160249369,"Windi, Pareka",M,KOLOPENA,Student,21 Oct 1986
+665,160249373,"Windi, Pirikoi",M,KOLOPENA,Student,10 Dec 1993
+666,160249367,"Windi, Timothy",M,KOLOPENA,Subsistence Farmer,01 Jan 1979
+667,160133213,"Wipo, Brus",M,Tukupangi,Dental Therapist,19 Jun 1982
+668,160206750,"Wiyo, Topi",M,Tukupangi,Subsistence Farmer,01 Jan 1942
+669,160249209,"Yakil, Ilaza",M,KALAPOI,Student,29 Mar 1988
+670,160249749,"Yama, Andoma",M,KOLOPENA,Subsistence Farmer,01 Jan 1955
+671,160247004,"Yama, Karimbi",M,KALAPOI,Subsistence Farmer,10 Nov 1944
+672,160205330,"Yama, Pinetapaiye",M,Tukupangi,Subsistence Farmer,01 Jan 1941
+673,160247010,"Yama, Samuel",M,KALAPOI,Subsistence Farmer,09 Aug 1979
+674,160249119,"Yawa, Jack",M,KALAPOI,Subsistence Farmer,10 Sep 1981
+675,160247011,"Yawa, Jacob",M,KALAPOI,Subsistence Farmer,25 May 1983
+676,160249120,"Yawa, Jeffery",M,KALAPOI,Student,16 Oct 1987
+677,160167733,"Yawaiye, Ongonoa robert",M,Tukupangi,Subsistence Farmer,01 Jan 1968
+678,160160765,"Yawi, Alfred",M,Tukupangi,Subsistence Farmer,01 Jan 1956
+679,160133374,"Yuningo, Sendric",M,Tukupangi,Student,12 Feb 1999
+680,160160278,"Yunugo, Charles",M,Tukupangi,Student,01 Jan 1981
+681,160159020,"Yunugo, Thomas",M,Tukupangi,Subsistence Farmer,01 Jan 1981
+682,160249182,"Yunungo, Gibson",M,KOLOPENA,Student,11 May 1990
+683,160249179,"Yunungo, Karel",M,KOLOPENA,Mechanic,01 Jan 1977
+684,160247025,"Yunungo, Pundu",M,KOLOPENA,Security,26 Jun 1984

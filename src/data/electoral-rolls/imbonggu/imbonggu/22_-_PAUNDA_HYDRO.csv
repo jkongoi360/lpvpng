@@ -1,0 +1,444 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160119641,"Ainjo, Melisa",F,WANGEAPUL,Student,15 Jan 1997
+2,160240958,"Alice, Onno",F,WANGEAPUL,Household Duties,05 Sep 1989
+3,160175700,"Amba, Alice",F,WANGEAPUL,Subsistence Farmer,01 Jan 1942
+4,160445569,"Amos, Joslyen",F,WANGEAPUL,Student,02 Sep 1998
+5,160241873,"Andoiye, Epo",F,WANGEAPUL,Subsistence Farmer,01 Jan 1968
+6,160237379,"Andoiye, Jenifer",F,WANGEAPUL,Housegirl,01 Jan 1992
+7,160237383,"Andoiye, Nelly",F,WANGEAPUL,Manager,01 Jan 1963
+8,160237381,"Andoiye, Susan",F,WANGEAPUL,Household Duties,01 Jan 1982
+9,160237404,"Andoiye, Venessa",F,WANGEAPUL,Student,07 Aug 1993
+10,160155919,"Angima, Macky",F,WANGEAPUL,Household Duties,01 Jan 1968
+11,160169010,"Anna, Kewambo",F,WANGEAPUL,Household Duties,01 Jan 1954
+12,160157703,"Arume, Roslin",F,WANGEAPUL,Household Duties,01 Jan 1981
+13,160177625,"Arume, Yamambo",F,WANGEAPUL,Household Duties,01 Jan 1931
+14,160177622,"Bani, Lusi",F,WANGEAPUL,Household Duties,01 Jan 1970
+15,160176384,"Denis, Sendy",F,WANGEAPUL,Household Duties,01 Jan 1978
+16,160445544,"Depra, Amba",F,WANGEAPUL,Student,10 Sep 1999
+17,160177470,"Dowa, Bepi",F,WANGEAPUL,Household Duties,01 Jan 1972
+18,160180842,"Dowa, Elizaberth",F,WANGEAPUL,Household Duties,01 Jan 1977
+19,160180829,"Dowa, Lina",F,WANGEAPUL,Student,01 Jan 1989
+20,160181002,"Dowa, Liyony",F,WANGEAPUL,Household Duties,01 Jan 1980
+21,160177473,"Dowa, Lucy",F,WANGEAPUL,Household Duties,01 Jan 1985
+22,160240801,"Frank, Joen",F,WANGEAPUL,Student,01 Jan 1994
+23,160133267,"Indipine, Jerry",F,WANGEAPUL,Sales Women,12 May 1972
+24,160119809,"Indipine, Leah",F,WANGEAPUL,Student,01 Oct 1996
+25,160133273,"Indipine, Melen",F,WANGEAPUL,Sales Women,12 Apr 1976
+26,160119645,"Jacklyn, Mayambo",F,WANGEAPUL,Student,10 Oct 1992
+27,25084883,"Jackson, Maya",F,WANGEAPUL,Student,10 Aug 2000
+28,25084884,"Jackson, Pilembo",F,WANGEAPUL,Household Duties,10 Oct 1980
+29,160445498,"Jacob, Niomi",F,WANGEAPUL,Student,10 Dec 2003
+30,160445535,"James, Amenda",F,WANGEAPUL,Student,02 May 2003
+31,160445542,"Jerothy, Mondo",F,WANGEAPUL,Student,19 May 2000
+32,160445516,"Jerry, Natali",F,WANGEAPUL,Student,02 Jul 2002
+33,160445572,"Joe, Ema",F,WANGEAPUL,Student,04 Aug 2001
+34,160445540,"Joseph, Lioney",F,WANGEAPUL,Student,18 Sep 1997
+35,160445568,"Joshua, Mesil",F,WANGEAPUL,Subsistence Farmer,28 Sep 1989
+36,160240649,"Kale, Grace",F,WANGEAPUL,Student,01 Jan 1994
+37,160180652,"Kanowi, Cathy",F,WANGEAPUL,Teacher,01 Jan 1964
+38,160176206,"Kanowi, Vero",F,WANGEAPUL,Housegirl,01 Jan 1970
+39,160153732,"Karia, Jobi",F,WANGEAPUL,Household Duties,01 Jan 1988
+40,160153731,"Karia, Josephine",F,WANGEAPUL,Household Duties,01 Jan 1986
+41,160153303,"Karia, Tangaiye",F,WANGEAPUL,Household Duties,01 Jan 1964
+42,160153305,"Karia, Weyangi",F,WANGEAPUL,Household Duties,01 Jan 1966
+43,160133263,"Kema, Merry",F,WANGEAPUL,Manageress,29 Apr 1967
+44,160249251,"Kewaye, Jennet",F,WANGEAPUL,Subsistence Farmer,01 Jan 1989
+45,160240659,"Kewaye, Lian",F,WANGEAPUL,Housegirl,01 Jan 1977
+46,160182748,"Kina, Gelma",F,WANGEAPUL,Student,01 Jan 1987
+47,160176207,"Komaiye, Balokeri",F,WANGEAPUL,Household Duties,01 Jan 1943
+48,160176209,"Komaiye, Hellen",F,WANGEAPUL,Household Duties,01 Jan 1978
+49,160177797,"Komaiye, Jenny",F,WANGEAPUL,Housegirl,01 Jan 1982
+50,160177798,"Komaiye, Judy",F,WANGEAPUL,Student,01 Jan 1985
+51,160156445,"Kulgeme, Cathy",F,WANGEAPUL,Subsistence Farmer,01 Jan 1976
+52,160157331,"Kumbiye, Janet",F,WANGEAPUL,Household Duties,01 Jan 1976
+53,160119640,"Kundipo, Stella",F,WANGEAPUL,Student,09 Dec 1997
+54,160156423,"Langi, Lowaiye",F,WANGEAPUL,Household Duties,01 Jan 1941
+55,160176386,"Lapi, Cathy",F,WANGEAPUL,Housegirl,01 Jan 1975
+56,160172100,"Lapi, Dorothy",F,WANGEAPUL,Housegirl,01 Jan 1988
+57,160171931,"Lara, Cathy",F,WANGEAPUL,Housegirl,01 Jan 1986
+58,160184357,"Ltingi, Jenny",F,KAPIEPUL,Subsistence Farmer,01 Jan 1987
+59,160182455,"Ltingi, Yokeya",F,KAPIEPUL,Household Duties,01 Jan 1960
+60,160180656,"Lucas, Mombo",F,WANGEAPUL,Subsistence Farmer,01 Jan 1967
+61,160175574,"Mainenge, Arumbi",F,WANGEAPUL,Household Duties,01 Jan 1940
+62,160180993,"Maipeile, Aiyembo",F,WANGEAPUL,Household Duties,01 Jan 1977
+63,160182466,"Maipeile, Magaret",F,WANGEAPUL,Household Duties,01 Jan 1983
+64,160182468,"Maipeile, Pukiri",F,WANGEAPUL,Household Duties,01 Jan 1967
+65,160180991,"Maipeile, Ropi",F,WANGEAPUL,Household Duties,01 Jan 1945
+66,160137786,"Mark, Jerothy",F,WANGEAPUL,Subsistence Farmer,21 Dec 1992
+67,160445523,"Mark, Jorothy",F,WANGEAPUL,Subsistence Farmer,02 Jul 1996
+68,160440457,"Markson, Elin",F,KAPIEPUL,Household Duties,21 Jan 1990
+69,160133254,"Marowa, Shelina",F,KAPIEPUL,Sales Women,23 Jul 1989
+70,160175591,"Mathew, Agnes",F,WANGEAPUL,Household Duties,01 Jan 1976
+71,160240970,"Mathew, Doris",F,WANGEAPUL,Nurse,17 May 1987
+72,160445579,"Mathew, John",F,WANGEAPUL,Student,22 Sep 1999
+73,160445573,"Mek, Jacklyn",F,WANGEAPUL,Student,03 Aug 2001
+74,160180658,"Melepaiye, Beveline",F,WANGEAPUL,Housegirl,01 Jan 1986
+75,160177615,"Melpa, Anna",F,WANGEAPUL,Household Duties,01 Jan 1958
+76,160176199,"Melpaiye, Lawa",F,WANGEAPUL,Household Duties,01 Jan 1945
+77,160445582,"Meriya, Ata",F,WANGEAPUL,Student,22 Sep 2002
+78,160119589,"Mindili, Nancy",F,WANGEAPUL,Student,10 Nov 1997
+79,160169009,"Miriam, Pengaiye",F,WANGEAPUL,Household Duties,01 Jan 1960
+80,25084894,"Monda, Hellen",F,WANGEAPUL,Self Employed,01 Feb 1977
+81,160249764,"Monda, Lipende",F,KAPIEPUL,Not Specified,01 Jan 1946
+82,160445501,"Monda, Naomi",F,WANGEAPUL,Student,12 Feb 2003
+83,25084898,"Monda, Quida",F,WANGEAPUL,Teacher,10 Jun 1993
+84,160249576,"Monda, Relinda",F,KAPIEPUL,Not Specified,01 Jan 1986
+85,160207407,"Mondo, Charothy",F,WANGEAPUL,Student,01 Jan 1982
+86,160137777,"Moro, Oliver",F,WANGEAPUL,Student,20 Feb 1997
+87,160207684,"Nanduka, Awiliambo",F,KAPIEPUL,Household Duties,01 Jan 1952
+88,160207713,"Nanu, Kapu",F,KAPIEPUL,Household Duties,01 Jan 1956
+89,160207717,"Nanu, Rosana",F,KAPIEPUL,Housegirl,01 Jan 1988
+90,160180666,"Neki, Helen",F,WANGEAPUL,Housegirl,01 Jan 1974
+91,160180826,"Neki, Yapelime",F,WANGEAPUL,Household Duties,01 Jan 1954
+92,160445518,"Nema, Jenivor",F,WANGEAPUL,Student,04 Jan 2004
+93,160119646,"Nema, Leksen",F,WANGEAPUL,Student,12 Aug 1998
+94,160119652,"Nema, Stenisa",F,WANGEAPUL,Student,10 Mar 1997
+95,160156473,"Niye, Cathy",F,WANGEAPUL,Student,10 Jul 1986
+96,160156029,"Niye, Kelly",F,WANGEAPUL,Student,17 Jan 1990
+97,160156471,"Niye, Koroli",F,WANGEAPUL,Subsistence Farmer,01 Jan 2000
+98,160156031,"Niye, Lucy",F,WANGEAPUL,Household Duties,01 Jan 1978
+99,160156299,"Niye, Roselyn",F,WANGEAPUL,Subsistence Farmer,01 Jan 1974
+100,160156025,"Niye, Ruth",F,WANGEAPUL,Subsistence Farmer,01 Jan 1979
+101,160240803,"Nolepo, Melony",F,WANGEAPUL,Household Duties,12 Jan 1984
+102,160445549,"Nomdul, Jeroty",F,WANGEAPUL,Student,15 Jun 2001
+103,160207768,"Oke, Esther",F,KAPIEPUL,Subsistence Farmer,01 Jan 1981
+104,160237285,"Pange, Joiclyn",F,KAPIEPUL,Student,30 Nov 1994
+105,160235094,"Pange, Kerolyn",F,KAPIEPUL,Student,26 Sep 1989
+106,160241757,"Pange, Merolyn",F,KAPIEPUL,Sales Women,01 Jan 1987
+107,160206327,"Pangoiye, Alice",F,WANGEAPUL,Housegirl,01 Jan 1968
+108,160206788,"Pangoiye, Enjoila",F,WANGEAPUL,Housegirl,01 Jan 1974
+109,160206622,"Pangoiye, Joana",F,WANGEAPUL,Household Duties,01 Jan 1963
+110,160206624,"Pangoiye, Lilly",F,WANGEAPUL,Household Duties,01 Jan 1965
+111,160206325,"Pangoiye, Monica",F,WANGEAPUL,Household Duties,01 Jan 1936
+112,160206326,"Pangoiye, Teresha",F,WANGEAPUL,Household Duties,01 Jan 1966
+113,160136235,"Panjipo, Niomi",F,KAPIEPUL,Sales Women,16 Sep 1998
+114,160156414,"Pegera, Julie",F,WANGEAPUL,Household Duties,01 Jan 1980
+115,160156476,"Pegera, Undia",F,WANGEAPUL,Household Duties,01 Jan 1956
+116,160175599,"Pembo, Alice",F,WANGEAPUL,Household Duties,01 Jan 2000
+117,160180839,"Pembo, Jeniffa",F,WANGEAPUL,Household Duties,01 Jan 1967
+118,160137774,"Pera, Jesicca",F,WANGEAPUL,Household Duties,18 Feb 1982
+119,160156487,"Pera, Koino",F,WANGEAPUL,Subsistence Farmer,01 Jan 1966
+120,160157503,"Peraiye, Oilembo",F,WANGEAPUL,Household Duties,01 Jan 1956
+121,160133256,"Pileru, Patricia",F,KAPIEPUL,Teacher,02 Jun 1973
+122,160206346,"Pilimbo, Enjoila",F,WANGEAPUL,Housegirl,01 Jan 1986
+123,160153322,"Pilimbo, Mote",F,WANGEAPUL,Household Duties,01 Jan 1958
+124,160177627,"Pinje, Pipia",F,WANGEAPUL,Household Duties,01 Jan 1960
+125,160119665,"Poneng, Dorin",F,WANGEAPUL,Subsistence Farmer,17 Oct 1989
+126,160177801,"Pora, Korowambo",F,WANGEAPUL,Household Duties,01 Jan 1963
+127,160445527,"Pora, Lovelline",F,WANGEAPUL,Subsistence Farmer,04 May 1999
+128,160175571,"Pora, Miri",F,WANGEAPUL,Housegirl,01 Jan 1988
+129,160156033,"Porole, Nondie",F,WANGEAPUL,Subsistence Farmer,01 Jan 1966
+130,160207400,"Porotoli, Waki",F,WANGEAPUL,Housegirl,01 Jan 1977
+131,160158785,"Puiye, Puke",F,WANGEAPUL,Household Duties,01 Jan 1972
+132,160176213,"Puko, Aline",F,WANGEAPUL,Household Duties,01 Jan 1960
+133,160171933,"Puko, Evaline",F,WANGEAPUL,Housegirl,01 Jan 1987
+134,160176214,"Puko, Margret",F,WANGEAPUL,Household Duties,01 Jan 1964
+135,160176224,"Puko, Mepili",F,WANGEAPUL,Household Duties,01 Jan 1953
+136,160237170,"Pumbu, Lobitidi",F,KAPIEPUL,Subsistence Farmer,01 Jan 1940
+137,160137778,"Pumbu, Renita",F,WANGEAPUL,Sales Women,12 Sep 1996
+138,160237291,"Pumbu, Sheron",F,KAPIEPUL,Subsistence Farmer,01 Jan 1982
+139,160445577,"Pumbu, Wato",F,WANGEAPUL,Student,22 Sep 1997
+140,160445553,"Pundu, Ruthy",F,WANGEAPUL,Student,01 Oct 2000
+141,160237319,"Pure, Angela",F,KAPIEPUL,Accountant,01 Jan 1984
+142,160237168,"Pure, Elvin",F,KAPIEPUL,Teacher,01 Jan 1981
+143,160237169,"Pure, Keren",F,WANGEAPUL,Doctor,01 Jan 1983
+144,160237322,"Pure, Sussy",F,WANGEAPUL,Subsistence Farmer,01 Jan 1975
+145,160250454,"Puruno, Dian",F,WANGEAPUL,Subsistence Farmer,01 Jan 1979
+146,160249712,"Puruno, Etrina",F,WANGEAPUL,Student,01 Jan 1986
+147,160250209,"Puruno, Gelma",F,WANGEAPUL,Student,01 Jan 1993
+148,160177471,"Puruno, Kandiki",F,WANGEAPUL,Household Duties,01 Jan 1955
+149,160249709,"Puruno, Kerolyn",F,WANGEAPUL,Manager,01 Jan 1985
+150,160250243,"Puruno, Natasha",F,WANGEAPUL,Student,01 Jan 1990
+151,160250619,"Puruno, Prichila",F,WANGEAPUL,Sales Women,01 Jan 1988
+152,160180843,"Puruno, Walopo",F,WANGEAPUL,Household Duties,01 Jan 1976
+153,160119654,"Rapol, Fiona",F,WANGEAPUL,Subsistence Farmer,11 Dec 1996
+154,25084931,"Raymond, Fio",F,WANGEAPUL,Subsistence Farmer,13 Apr 2000
+155,160171927,"Rema, Lamburi",F,WANGEAPUL,Household Duties,01 Jan 1949
+156,160240805,"Rex, Carolyn",F,WANGEAPUL,Nurse,28 Jun 1984
+157,160176200,"Rex, Lyn",F,WANGEAPUL,Household Duties,01 Jan 1952
+158,160445547,"Rex, Mesolyn",F,WANGEAPUL,Student,03 Mar 2000
+159,160445548,"Rex, Senny",F,WANGEAPUL,Student,06 Aug 2000
+160,160445539,"Ricky, Lioney",F,WANGEAPUL,Student,10 Dec 2001
+161,160445559,"Sam, Lain",F,WANGEAPUL,Subsistence Farmer,01 Dec 1998
+162,25084815,"Sammy, Eldah",F,WANGEAPUL,Student,25 Aug 2003
+163,25084937,"Samuel, Ellie",F,WANGEAPUL,Household Duties,10 Dec 1994
+164,160176195,"Samuel, Lauree",F,WANGEAPUL,Household Duties,01 Jan 1973
+165,160445562,"Samuel, Raya",F,WANGEAPUL,Student,28 Apr 2002
+166,160445557,"Samuel, Ruthy",F,WANGEAPUL,Student,08 Nov 2001
+167,160156402,"Sawa, Kupini",F,WANGEAPUL,Subsistence Farmer,01 Jan 1960
+168,160157367,"Sent, Bepi",F,WANGEAPUL,Household Duties,01 Jan 1984
+169,160157364,"Sent, Nondiye",F,WANGEAPUL,Household Duties,01 Jan 1957
+170,160240913,"Simon, Mary",F,WANGEAPUL,Policewomen,08 Dec 1985
+171,160445566,"Solo, Joys",F,WANGEAPUL,Subsistence Farmer,13 Aug 1976
+172,160445536,"Stanly, Frenda",F,WANGEAPUL,Household Duties,07 Oct 1996
+173,160156303,"Tamo, Alice",F,WANGEAPUL,Household Duties,01 Jan 1967
+174,160156177,"Tamo, Carolyn",F,WANGEAPUL,Student,01 Jan 1984
+175,160156191,"Tamo, Cathy",F,WANGEAPUL,Student,01 Jan 1988
+176,160156301,"Tamo, Cathy",F,WANGEAPUL,Student,01 Jan 1979
+177,160156308,"Tamo, Charity",F,WANGEAPUL,Student,01 Jan 1987
+178,160156197,"Tamo, Jecica",F,WANGEAPUL,Household Duties,01 Jan 1980
+179,160156306,"Tamo, Katherin",F,WANGEAPUL,Household Duties,01 Jan 1969
+180,160156194,"Tamo, Lesly",F,WANGEAPUL,Teacher,01 Jan 1967
+181,160156319,"Tamo, Lopa",F,WANGEAPUL,Subsistence Farmer,01 Jan 1940
+182,160156195,"Tamo, Maria",F,WANGEAPUL,Household Duties,01 Jan 1970
+183,160156047,"Tamo, Muna",F,WANGEAPUL,Household Duties,01 Jan 1956
+184,160156175,"Tamo, Peky",F,WANGEAPUL,Student,01 Jan 1982
+185,160156185,"Tamo, Pugembo",F,WANGEAPUL,Subsistence Farmer,01 Jan 1962
+186,160249337,"Tapoli, Davina",F,WANGEAPUL,Student,22 Apr 1994
+187,160241897,"Tapoli, Dilona",F,WANGEAPUL,Student,20 Jun 1994
+188,160249734,"Tapoli, Shelly",F,WANGEAPUL,Student,01 Jan 1992
+189,160237282,"Tapoli, Viala",F,WANGEAPUL,Student,01 Jan 1992
+190,160240960,"Tawa, Soty",F,WANGEAPUL,Student,22 May 1994
+191,160175703,"Tawenjo, Angela",F,WANGEAPUL,Housegirl,01 Jan 1982
+192,160172085,"Tawenjo, Joyceline",F,WANGEAPUL,Housegirl,01 Jan 1985
+193,160168837,"Tawenjo, Lorina",F,WANGEAPUL,Housegirl,01 Jan 1988
+194,160168830,"Tawenjo, Mone",F,WANGEAPUL,Household Duties,01 Jan 1950
+195,160175592,"Tawenjo, Wendy",F,WANGEAPUL,Household Duties,01 Jan 1980
+196,160250231,"Temane, Dilona",F,WANGEAPUL,Student,01 Jan 1991
+197,160249771,"Temane, Pideme",F,WANGEAPUL,Subsistence Farmer,01 Jan 1954
+198,160155916,"Tende, Dassy",F,WANGEAPUL,Household Duties,01 Jan 1974
+199,160156051,"Tende, Kolda",F,WANGEAPUL,Household Duties,01 Jan 1944
+200,160153511,"Tende, Kun",F,WANGEAPUL,Household Duties,01 Jan 1987
+201,160177474,"Tenge, Kupeli",F,WANGEAPUL,Household Duties,01 Jan 1962
+202,160181005,"Tenge, Yando",F,WANGEAPUL,Household Duties,01 Jan 1952
+203,160240968,"Tepi, Yawini",F,WANGEAPUL,Household Duties,21 Nov 1988
+204,160181120,"Teringi, Christina",F,WANGEAPUL,Student,01 Jan 1988
+205,160153479,"Tope, Alowa",F,WANGEAPUL,Household Duties,01 Jan 1956
+206,160177800,"Tope, Nancy",F,WANGEAPUL,Household Duties,01 Jan 1972
+207,160152060,"Tope, Tenis",F,WANGEAPUL,Household Duties,01 Jan 1982
+208,160177623,"Tuku, Docas",F,WANGEAPUL,Housegirl,01 Jan 1988
+209,160157493,"Tuku, Meli",F,WANGEAPUL,Household Duties,01 Jan 1971
+210,160250241,"Unde, Tungu",F,KAPIEPUL,Subsistence Farmer,01 Jan 1992
+211,160177977,"Wane, Brenda",F,WANGEAPUL,Household Duties,01 Jan 1974
+212,160240924,"Wapia, Selva",F,WANGEAPUL,Student,18 Apr 1994
+213,160206779,"Wariye, Roselyn ewa",F,WANGEAPUL,Teacher,01 Jan 1971
+214,160445541,"Wesley, Rose",F,WANGEAPUL,Subsistence Farmer,26 Oct 1977
+215,160119642,"Winis, Grace",F,WANGEAPUL,Student,13 Nov 1996
+216,160207015,"Yapa, Kandiye",F,WANGEAPUL,Student,01 Jan 1984
+217,160136240,"Yawi, Sharon",F,WANGEAPUL,Sales Women,02 Dec 1980
+218,160157346,"Yoko, Anjola",F,WANGEAPUL,Household Duties,01 Jan 1989
+219,160157391,"Yoko, Cathy",F,WANGEAPUL,Household Duties,01 Jan 1990
+220,160157349,"Yoko, Kellen",F,WANGEAPUL,Household Duties,01 Jan 1976
+221,160157341,"Yoko, Kellen",F,WANGEAPUL,Household Duties,01 Jan 1984
+222,160157337,"Yoko, Kuku",F,WANGEAPUL,Household Duties,01 Jan 1961
+223,160157469,"Yoko, Mowe",F,WANGEAPUL,Household Duties,01 Jan 1965
+224,160157460,"Yoko, Noidembo",F,WANGEAPUL,Household Duties,01 Jan 1936
+225,160119660,"Aei, Tendelema",M,WANGEAPUL,Subsistence Farmer,11 Jan 1996
+226,160137779,"Ai, Polis",M,WANGEAPUL,Student,01 Jan 1997
+227,160119637,"Ainjo, Manly",M,WANGEAPUL,Student,18 Sep 1998
+228,160180831,"Altu, Gini",M,WANGEAPUL,Subsistence Farmer,01 Jan 1900
+229,160181008,"Altu, Kuleko",M,WANGEAPUL,Subsistence Farmer,01 Jan 1981
+230,160180832,"Altu, Pambo",M,WANGEAPUL,Subsistence Farmer,01 Jan 1980
+231,160181006,"Altu, Pilge",M,WANGEAPUL,Household Duties,01 Jan 1968
+232,160177624,"Altu, Rex",M,WANGEAPUL,Subsistence Farmer,01 Jan 2000
+233,160445565,"Amba, Tonny",M,WANGEAPUL,Student,09 Jan 1979
+234,160237399,"Andoiye, Pawa",M,WANGEAPUL,Teacher,01 Jan 1984
+235,160156057,"Angima, Matoli",M,KAPIEPUL,Subsistence Farmer,01 Jan 1969
+236,160445533,"Anjo, Menzies",M,KAPIEPUL,Student,05 Jul 2003
+237,160445551,"Anjo, Robbin",M,KAPIEPUL,Student,06 Jul 2000
+238,160445552,"Anjo, Rubben",M,KAPIEPUL,Student,06 Jul 2000
+239,160240800,"Anton, Kuty",M,KAPIEPUL,Student,08 May 1994
+240,160156455,"Ape, Kepu",M,KAPIEPUL,Household Duties,01 Jan 1952
+241,160156457,"Ape, Matani",M,KAPIEPUL,Subsistence Farmer,01 Jan 1979
+242,160156310,"Ape, Panjipo",M,KAPIEPUL,Subsistence Farmer,01 Jan 1961
+243,160155933,"Ape, Richard",M,KAPIEPUL,Subsistence Farmer,01 Jan 1990
+244,160156039,"Ape, Yunu",M,KAPIEPUL,Subsistence Farmer,01 Jan 1971
+245,160176212,"David, Puko",M,KAPIEPUL,Subsistence Farmer,01 Jan 1949
+246,160445555,"Emba, Moro",M,KAPIEPUL,Student,02 Jun 2000
+247,160177619,"Francis, Kolome",M,KAPIEPUL,Subsistence Farmer,01 Jan 1969
+248,160172109,"Gabriel, Imbu",M,KAPIEPUL,Subsistence Farmer,01 Jan 1966
+249,160175595,"Garry, Bani",M,KAPIEPUL,Subsistence Farmer,01 Jan 1948
+250,160176215,"Garry, Pembo",M,KAPIEPUL,Subsistence Farmer,01 Jan 1964
+251,160440552,"Gibson, Eugene",M,WANGEAPUL,Student,16 Jun 1998
+252,160440564,"Gibson, Fredrick",M,WANGEAPUL,Student,21 Jul 1999
+253,160156395,"Goroli, Leckson",M,KAPIEPUL,Subsistence Farmer,01 Jan 1979
+254,160168829,"Henry, Tawenjo",M,KAPIEPUL,Subsistence Farmer,01 Jan 1958
+255,160133268,"Indipine, Sammy",M,WANGEAPUL,Dental Therapist,12 Jan 1979
+256,160137792,"James, Kentri",M,KAPIEPUL,Subsistence Farmer,08 Aug 1996
+257,160165093,"Joesph, Lapa",M,KAPIEPUL,Subsistence Farmer,01 Jan 1947
+258,160119808,"John, Junior",M,KAPIEPUL,Student,17 Jul 1997
+259,160133103,"Joseph, Jephiton",M,WANGEAPUL,Sales Women,15 Feb 1990
+260,160445574,"Joshua, Mondo",M,KAPIEPUL,Student,12 Apr 1998
+261,160240967,"Kabile, Brian",M,KAPIEPUL,Student,22 Apr 1994
+262,160240657,"Kale, Gilbert",M,WANGEAPUL,Student,06 May 1993
+263,160237490,"Kale, Pagipo",M,WANGEAPUL,Driver,01 Jan 1970
+264,160176205,"Kanowi, Alphonse",M,KAPIEPUL,Teacher,01 Jan 1965
+265,160445575,"Kelto, Merolyn",M,WANGEAPUL,Student,22 Sep 2001
+266,160440623,"Kema, Peter",M,WANGEAPUL,Self Employed,14 May 1986
+267,160133245,"Kema, Robert",M,WANGEAPUL,Sales Women,03 Nov 1996
+268,160176191,"Keneya, Kaiyaye",M,WANGEAPUL,Subsistence Farmer,01 Jan 1950
+269,160176194,"Keneya, Samuel",M,WANGEAPUL,Subsistence Farmer,01 Jan 1968
+270,160207410,"Kepo, Wariye",M,WANGEAPUL,Subsistence Farmer,01 Jan 1937
+271,160156467,"Kerie, John",M,KAPIEPUL,Subsistence Farmer,01 Jan 1938
+272,160156475,"Kerie, Pegera",M,KAPIEPUL,Subsistence Farmer,01 Jan 1956
+273,25084782,"Kili, Asah",M,WANGEAPUL,Subsistence Farmer,13 Jun 1994
+274,160119803,"Kino, Tonny",M,KAPIEPUL,Student,09 Jul 1997
+275,160176210,"Komaiye, Daniel",M,KAPIEPUL,Subsistence Farmer,01 Jan 1980
+276,160176211,"Komaiye, Morris",M,KAPIEPUL,Student,01 Jan 1984
+277,160176208,"Komaiye, Nathaniel",M,KAPIEPUL,Subsistence Farmer,01 Jan 1976
+278,160176227,"Komaiye, Nixen",M,KAPIEPUL,Student,01 Jan 1986
+279,160206259,"Koyapo, David",M,WANGEAPUL,Student,01 Jan 1981
+280,160168845,"Koyapo, Dokta",M,WANGEAPUL,Subsistence Farmer,01 Jan 1944
+281,160180668,"Koyapo, John",M,WANGEAPUL,Subsistence Farmer,01 Jan 1984
+282,160176202,"Koyapo, Kaku",M,WANGEAPUL,Subsistence Farmer,01 Jan 1970
+283,160163455,"Koyapo, Petrus",M,WANGEAPUL,Subsistence Farmer,01 Jan 1978
+284,160180828,"Koyapo, Simon",M,WANGEAPUL,Student,01 Jan 1985
+285,160445490,"Kuleko, Monda",M,WANGEAPUL,Subsistence Farmer,22 Apr 2004
+286,160445546,"Kundipo, George",M,WANGEAPUL,Student,28 Apr 2004
+287,160240965,"Kundipo, Jackson",M,WANGEAPUL,Student,25 Apr 1994
+288,160445567,"Kuno, Robin",M,WANGEAPUL,Student,04 Sep 1999
+289,160156013,"Kupe, Langi",M,WANGEAPUL,Pastor,01 Jan 1941
+290,160181001,"Kupini, Anna",M,WANGEAPUL,Household Duties,01 Jan 1957
+291,160445560,"Laiben, Pira",M,WANGEAPUL,Student,08 Apr 2001
+292,160156452,"Langi, David",M,WANGEAPUL,Subsistence Farmer,01 Jan 1988
+293,160156017,"Langi, Temane",M,WANGEAPUL,Subsistence Farmer,01 Jan 1941
+294,160175604,"Lapi, Ape",M,WANGEAPUL,Subsistence Farmer,01 Jan 1978
+295,160175702,"Lapi, Buka",M,WANGEAPUL,Subsistence Farmer,01 Jan 1982
+296,160176190,"Lapi, Ponenge",M,WANGEAPUL,Subsistence Farmer,01 Jan 1986
+297,160180659,"Lapun, Peter",M,WANGEAPUL,Catechist,01 Jan 1948
+298,160171930,"Lara, Joesph",M,WANGEAPUL,Subsistence Farmer,01 Jan 1969
+299,160119802,"Levi, David",M,WANGEAPUL,Student,10 Mar 1994
+300,160445571,"Liton, Nolepo",M,WANGEAPUL,Student,16 Apr 2000
+301,160182456,"Ltingi, Andrew",M,KAPIEPUL,Subsistence Farmer,01 Jan 1978
+302,160184475,"Ltingi, Roy",M,KAPIEPUL,Subsistence Farmer,01 Jan 1984
+303,160182457,"Ltingi, Steven",M,KAPIEPUL,Subsistence Farmer,01 Jan 1981
+304,160119801,"Mape, Ken",M,WANGEAPUL,Student,09 Oct 1997
+305,160153716,"Mape, Koyapo",M,WANGEAPUL,Subsistence Farmer,01 Jan 1976
+306,160136232,"Marowa, Elvis",M,KAPIEPUL,Sales Women,17 Jul 1996
+307,160119659,"Mindili, Anderw",M,KAPIEPUL,Subsistence Farmer,10 May 1995
+308,160445564,"Mindili, Solo",M,KAPIEPUL,Student,04 Jun 2002
+309,160180653,"Mita, Peter",M,KAPIEPUL,Subsistence Farmer,01 Jan 1951
+310,160156163,"Mogoye, Tene",M,KAPIEPUL,Subsistence Farmer,01 Jan 1969
+311,160249253,"Monda, Patrick",M,KAPIEPUL,Baker,01 Jan 1982
+312,160184691,"Monda, Philemon",M,KAPIEPUL,Student,01 Jan 1984
+313,160240802,"Muly, Sily",M,KAPIEPUL,Subsistence Farmer,22 May 1983
+314,160445491,"Nandiye, John",M,KAPIEPUL,Subsistence Farmer,12 Apr 2004
+315,160445570,"Nanu, Lesly",M,KAPIEPUL,Student,11 Mar 1999
+316,160445519,"Nema, Leckson",M,KAPIEPUL,Student,04 May 2003
+317,160177634,"Nema, Paina",M,KAPIEPUL,Subsistence Farmer,01 Jan 1980
+318,160169015,"Nerenge, Mano",M,KAPIEPUL,Subsistence Farmer,01 Jan 1959
+319,160156313,"Niye, Mike",M,WANGEAPUL,Public Servant,01 Jan 1979
+320,160156030,"Niye, Peter",M,WANGEAPUL,Subsistence Farmer,01 Jan 1976
+321,160156472,"Niye, Sailes",M,WANGEAPUL,Subsistence Farmer,01 Jan 1959
+322,160156026,"Niye, Wesly",M,WANGEAPUL,Student,08 Aug 1984
+323,160177632,"Nokopa, John",M,WANGEAPUL,Subsistence Farmer,01 Jan 1968
+324,160137782,"Nolepo, Augustine",M,WANGEAPUL,Sales Women,02 Dec 1996
+325,160181007,"Nolepo, Maika",M,WANGEAPUL,Subsistence Farmer,01 Jan 1978
+326,160133239,"Oke, Dickson",M,KAPIEPUL,Student,06 Mar 1998
+327,160440644,"Onga, Paul",M,KAPIEPUL,Self Employed,25 Aug 1976
+328,160206787,"Opa, Ruben",M,WANGEAPUL,Student,01 Jan 1987
+329,25084900,"Oscar, Danny",M,WANGEAPUL,Banker,07 Jan 1990
+330,25084902,"Oscar, Ramson",M,WANGEAPUL,Student,14 Jun 2003
+331,160241084,"Pale, Mick",M,WANGEAPUL,Policeman,22 Aug 1987
+332,160157710,"Pale, Philip",M,WANGEAPUL,Subsistence Farmer,01 Jan 1973
+333,160206621,"Pangoiye, James",M,WANGEAPUL,Teacher,01 Jan 1961
+334,160206627,"Pangoiye, Koki",M,WANGEAPUL,Student,01 Jan 1984
+335,160206626,"Pangoiye, Luke",M,WANGEAPUL,Subsistence Farmer,01 Jan 1981
+336,160206623,"Pangoiye, Samuel",M,WANGEAPUL,Subsistence Farmer,01 Jan 1962
+337,160136233,"Peleru, Buka",M,KAPIEPUL,Sales Women,16 Mar 1999
+338,160181000,"Pembo, Akena",M,KAPIEPUL,Subsistence Farmer,01 Jan 1984
+339,160180995,"Pembo, Jack",M,KAPIEPUL,Subsistence Farmer,01 Jan 1949
+340,160158701,"Peraiye, Beni",M,WANGEAPUL,Subsistence Farmer,01 Jan 1978
+341,160157475,"Peraiye, Kelly",M,WANGEAPUL,Subsistence Farmer,01 Jan 1986
+342,160158679,"Peraiye, Peni",M,WANGEAPUL,Subsistence Farmer,01 Jan 1976
+343,160157504,"Peraiye, Willie",M,WANGEAPUL,Teacher,01 Jan 1968
+344,160133269,"Pere, Taine",M,KAPIEPUL,Sales Women,12 May 1995
+345,160440558,"Pere, Wiana",M,KAPIEPUL,Subsistence Farmer,17 Aug 1986
+346,160156172,"Peyandi, Wange",M,WANGEAPUL,Subsistence Farmer,01 Jan 1978
+347,160440632,"Philip, Rocky",M,KAPIEPUL,Student,06 May 1999
+348,160440610,"Pileru, Amos",M,KAPIEPUL,Self Employed,03 Mar 1986
+349,160440639,"Pileru, John",M,KAPIEPUL,Pastor,07 Apr 1986
+350,160181010,"Pilge, Thomas",M,KAPIEPUL,Subsistence Farmer,01 Jan 1951
+351,160153085,"Pilimbo, Pawa",M,KAPIEPUL,Subsistence Farmer,01 Jan 1986
+352,160133249,"Pis, Fiddi",M,KAPIEPUL,Sales Women,05 Nov 1998
+353,160133108,"Pol, Gilmesha",M,KAPIEPUL,Sales Women,13 Sep 1987
+354,160137775,"Pote, Justin",M,KAPIEPUL,Student,12 Feb 1996
+355,160445578,"Power, Efa",M,KAPIEPUL,Student,22 Sep 2002
+356,160119799,"Pumbu, Blesed",M,KAPIEPUL,Teacher,19 Sep 1994
+357,25084813,"Pumbu, Kingisley",M,KAPIEPUL,Student,25 Aug 2000
+358,160241901,"Pumbu, Robert",M,KAPIEPUL,Security,01 Jan 1984
+359,160137781,"Pumbu, Tonny",M,KAPIEPUL,Student,01 Oct 1997
+360,160119644,"Pundu, Allan",M,KAPIEPUL,Student,12 Oct 1995
+361,160241905,"Pure, Mekson",M,WANGEAPUL,Student,01 Jan 1992
+362,160237270,"Pure, Ronny",M,WANGEAPUL,Security,01 Jan 1985
+363,160241906,"Pure, Sammy",M,WANGEAPUL,Security,01 Jan 1964
+364,160445545,"Puruli, Joel",M,KAPIEPUL,Student,11 Jan 2002
+365,160445554,"Puruli, Robbin",M,KAPIEPUL,Student,30 Dec 2001
+366,160250212,"Puruno, Apa jr",M,WANGEAPUL,Accountant,01 Jan 1985
+367,160250095,"Puruno, Apa sr",M,WANGEAPUL,Subsistence Farmer,01 Jan 1991
+368,160250589,"Puruno, Clancy",M,WANGEAPUL,Driver,01 Jan 1978
+369,160250607,"Puruno, Frincis",M,WANGEAPUL,Subsistence Farmer,01 Jan 1964
+370,160250599,"Puruno, Nathanol",M,WANGEAPUL,Subsistence Farmer,01 Jan 1974
+371,160250617,"Puruno, Philimon",M,WANGEAPUL,Student,01 Jan 1993
+372,160250098,"Puruno, Solomon",M,WANGEAPUL,Salesman,01 Jan 1983
+373,160249710,"Puruno, Tommy",M,WANGEAPUL,Student,01 Jan 1993
+374,160136236,"Remo, Wane",M,WANGEAPUL,Dental Therapist,15 Feb 1967
+375,160440562,"Taine, Junior",M,WANGEAPUL,Student,03 Nov 2003
+376,160158697,"Taiye, Luke",M,KAPIEPUL,Subsistence Farmer,01 Jan 1962
+377,160240912,"Takita, Peter",M,KAPIEPUL,Policeman,05 Dec 1984
+378,160156186,"Tamo, Benjamin",M,WANGEAPUL,Subsistence Farmer,01 Jan 1980
+379,160156187,"Tamo, Bob",M,WANGEAPUL,Student,01 Jan 1983
+380,160156193,"Tamo, Eric",M,WANGEAPUL,Doctor,01 Jan 1968
+381,160156049,"Tamo, Jim",M,WANGEAPUL,Student,01 Jan 1978
+382,160156183,"Tamo, Jonathan",M,WANGEAPUL,Student,01 Jan 1986
+383,160156489,"Tamo, Mambu",M,WANGEAPUL,Teacher,01 Jan 1952
+384,160156189,"Tamo, Robert",M,WANGEAPUL,Engineer,01 Jan 1962
+385,160155927,"Tamo, Steven",M,WANGEAPUL,Subsistence Farmer,01 Jan 1953
+386,160156192,"Tamo, Uwe",M,WANGEAPUL,Manager,01 Jan 1963
+387,160237329,"Tapol, Yulux",M,WANGEAPUL,Security,01 Jan 1984
+388,160176216,"Tapoli, Denis",M,WANGEAPUL,Subsistence Farmer,01 Jan 1966
+389,160249736,"Tapoli, Elvis",M,WANGEAPUL,Student,01 Jan 1993
+390,160137784,"Tawa, Joshua",M,WANGEAPUL,Student,04 Apr 1997
+391,160157495,"Tawa, Nindipo",M,WANGEAPUL,Subsistence Farmer,01 Jan 1964
+392,160153317,"Tawa, Pilimbo",M,WANGEAPUL,Subsistence Farmer,01 Jan 1958
+393,160158791,"Tawa, Puiye",M,WANGEAPUL,Subsistence Farmer,01 Jan 1972
+394,160119636,"Tawa, Rex",M,WANGEAPUL,Student,10 Apr 1994
+395,160153724,"Tawa, Tope",M,WANGEAPUL,Subsistence Farmer,01 Jan 1956
+396,160157492,"Tawa, Tuku",M,WANGEAPUL,Subsistence Farmer,01 Jan 1971
+397,160250228,"Temane, Ezekel",M,WANGEAPUL,Student,01 Jan 1989
+398,160249619,"Temane, Samuel",M,WANGEAPUL,Baker,01 Jan 1989
+399,160250093,"Temane, Yamo",M,WANGEAPUL,Subsistence Farmer,01 Jan 1959
+400,160155914,"Tende, Samuel",M,WANGEAPUL,Subsistence Farmer,01 Jan 1972
+401,160153737,"Tende, Solomon",M,WANGEAPUL,Subsistence Farmer,01 Jan 1981
+402,160445558,"Tendike, Gibbson",M,WANGEAPUL,Student,06 May 2001
+403,160440631,"Timbi, Elvis",M,WANGEAPUL,Self Employed,23 Sep 1990
+404,160137785,"Tiye, Pera",M,KAPIEPUL,Student,19 Oct 1997
+405,160137791,"Tiyopa, Peter",M,KAPIEPUL,Subsistence Farmer,09 Sep 1995
+406,160119800,"Tom, Jerry",M,KAPIEPUL,Student,10 Sep 1994
+407,160157320,"Tondea, Limbiye",M,KAPIEPUL,Subsistence Farmer,01 Jan 1976
+408,160153728,"Tope, Ono",M,KAPIEPUL,Subsistence Farmer,01 Jan 1970
+409,160152059,"Tope, Paulus",M,KAPIEPUL,Subsistence Farmer,01 Jan 1979
+410,160137783,"Toroppo, Asiaiha",M,KAPIEPUL,Student,04 May 1995
+411,160177616,"Tuku, Thomas",M,KAPIEPUL,Church Worker,01 Jan 1942
+412,160137780,"Tumba, Joshua",M,KAPIEPUL,Student,05 Jan 1995
+413,160171928,"Tumba, Ninigi",M,KAPIEPUL,Subsistence Farmer,01 Jan 1936
+414,160440629,"Ulenga, Alfred",M,KAPIEPUL,Driver,21 Oct 1975
+415,25084826,"Unde, Gideon",M,KAPIEPUL,Student,17 Aug 2000
+416,160250215,"Unde, Gini",M,KAPIEPUL,Subsistence Farmer,01 Jan 1981
+417,160250217,"Unde, Onda",M,KAPIEPUL,Subsistence Farmer,01 Jan 1985
+418,160250216,"Unde, Pawa",M,KAPIEPUL,Subsistence Farmer,01 Jan 1981
+419,25084827,"Unde, Solomon",M,KAPIEPUL,Student,24 Sep 1999
+420,160119804,"Uwe, Amos",M,KAPIEPUL,Student,02 Dec 1995
+421,160119805,"Uwe, Daniel",M,KAPIEPUL,Student,11 Oct 1997
+422,160177742,"Waka, Kepo",M,KAPIEPUL,Subsistence Farmer,01 Jan 1963
+423,160156198,"Waki, Stanley",M,KAPIEPUL,Subsistence Farmer,01 Jan 1949
+424,160440550,"Wane, Edmond",M,WANGEAPUL,Student,15 Feb 2001
+425,160440636,"Wane, Edwin",M,WANGEAPUL,Driver,23 Oct 1993
+426,160180711,"Wane, Oliver",M,WANGEAPUL,Student,01 Jan 1988
+427,160119798,"Wanpis, Biala",M,WANGEAPUL,Student,10 Oct 1996
+428,160137776,"Wanpis, Viki",M,WANGEAPUL,Student,10 Oct 1997
+429,160158675,"Warea, Apa",M,WANGEAPUL,Subsistence Farmer,01 Jan 1986
+430,160157327,"Warea, Kumbiye",M,WANGEAPUL,Subsistence Farmer,01 Jan 1974
+431,160157333,"Warea, Tony",M,WANGEAPUL,Subsistence Farmer,01 Jan 1980
+432,160119807,"Windi, Pembo",M,WANGEAPUL,Student,19 Feb 1995
+433,160182463,"Yake, Nakanoli",M,WANGEAPUL,Subsistence Farmer,01 Jan 1955
+434,160176217,"Yama, Benbo",M,WANGEAPUL,Subsistence Farmer,01 Jan 1966
+435,160440528,"Yawi, Ben",M,WANGEAPUL,Subsistence Farmer,13 Sep 1968
+436,160133270,"Yawi, Benjamin",M,WANGEAPUL,Dental Therapist,08 Dec 1973
+437,160119806,"Yoke, Peter",M,WANGEAPUL,Student,20 Oct 1997
+438,160157336,"Yoko, Kein",M,WANGEAPUL,Subsistence Farmer,01 Jan 1988
+439,160157465,"Yoko, Kenneth",M,WANGEAPUL,Subsistence Farmer,01 Jan 1984
+440,160157339,"Yoko, Koyapo",M,WANGEAPUL,Subsistence Farmer,01 Jan 1966
+441,160157461,"Yoko, Lartin",M,WANGEAPUL,Subsistence Farmer,01 Jan 1975
+442,160156465,"Yoko, Martin",M,WANGEAPUL,Teacher,01 Jan 1973
+443,160180827,"Yunugo, Goerge",M,WANGEAPUL,Subsistence Farmer,01 Jan 1968

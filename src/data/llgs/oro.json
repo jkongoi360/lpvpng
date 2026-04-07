@@ -1,0 +1,247 @@
+{
+  "provinceId": "oro",
+  "electorates": [
+    {
+      "electorateSlug": "ijivitari",
+      "llgs": [
+        {
+          "id": "ijivitari-popondetta-urban",
+          "name": "Popondetta Urban LLG",
+          "electorateSlug": "ijivitari",
+          "wards": [
+            {
+              "id": "popondetta-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2232
+            },
+            {
+              "id": "popondetta-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2374
+            },
+            {
+              "id": "popondetta-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1950
+            },
+            {
+              "id": "popondetta-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2088
+            },
+            {
+              "id": "popondetta-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1630
+            },
+            {
+              "id": "popondetta-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1646
+            },
+            {
+              "id": "popondetta-urban-w07",
+              "name": "Ward 7",
+              "registeredVoters": 3547
+            }
+          ]
+        },
+        {
+          "id": "ijivitari-kokoda",
+          "name": "Kokoda LLG",
+          "electorateSlug": "ijivitari",
+          "wards": [
+            {
+              "id": "kokoda-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1243
+            },
+            {
+              "id": "kokoda-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1720
+            },
+            {
+              "id": "kokoda-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1385
+            },
+            {
+              "id": "kokoda-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1511
+            },
+            {
+              "id": "kokoda-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1465
+            },
+            {
+              "id": "kokoda-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1546
+            },
+            {
+              "id": "kokoda-w07",
+              "name": "Ward 7",
+              "registeredVoters": 663
+            },
+            {
+              "id": "kokoda-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1018
+            },
+            {
+              "id": "kokoda-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1443
+            },
+            {
+              "id": "kokoda-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1287
+            }
+          ]
+        },
+        {
+          "id": "ijivitari-oro-bay",
+          "name": "Oro Bay LLG",
+          "electorateSlug": "ijivitari",
+          "wards": [
+            {
+              "id": "oro-bay-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2479
+            },
+            {
+              "id": "oro-bay-w02",
+              "name": "Ward 2",
+              "registeredVoters": 5543
+            },
+            {
+              "id": "oro-bay-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3613
+            },
+            {
+              "id": "oro-bay-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3133
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "sohe",
+      "llgs": [
+        {
+          "id": "sohe-saiho",
+          "name": "Saiho LLG",
+          "electorateSlug": "sohe",
+          "wards": [
+            {
+              "id": "saiho-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2117
+            },
+            {
+              "id": "saiho-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3913
+            },
+            {
+              "id": "saiho-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3548
+            },
+            {
+              "id": "saiho-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3984
+            }
+          ]
+        },
+        {
+          "id": "sohe-ioma",
+          "name": "Ioma LLG",
+          "electorateSlug": "sohe",
+          "wards": [
+            {
+              "id": "ioma-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2037
+            },
+            {
+              "id": "ioma-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1985
+            },
+            {
+              "id": "ioma-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2217
+            },
+            {
+              "id": "ioma-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2834
+            },
+            {
+              "id": "ioma-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2541
+            },
+            {
+              "id": "ioma-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1089
+            },
+            {
+              "id": "ioma-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1952
+            }
+          ]
+        },
+        {
+          "id": "sohe-tufi",
+          "name": "Tufi LLG",
+          "electorateSlug": "sohe",
+          "wards": [
+            {
+              "id": "tufi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1700
+            },
+            {
+              "id": "tufi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2244
+            },
+            {
+              "id": "tufi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1798
+            },
+            {
+              "id": "tufi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2082
+            },
+            {
+              "id": "tufi-w05",
+              "name": "Ward 5",
+              "registeredVoters": 4264
+            },
+            {
+              "id": "tufi-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1846
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

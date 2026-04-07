@@ -1,0 +1,1058 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160224563,"Aiye, Nane",F,Poneglama,Subsistence Farmer,01 Jan 1964
+2,160224707,"Aiye, Regina",F,Poneglama,Student,01 Jan 1988
+3,160233028,"Aiyele, Angela",F,Poneglama,Student,01 Jan 1974
+4,160138194,"Aiyele, Pricilar",F,Poneglama,Nurse,11 Oct 1975
+5,160224041,"Akele, Penga",F,Poneglama,Subsistence Farmer,01 Jan 1960
+6,160224039,"Akele, Tendambo",F,Poneglama,Subsistence Farmer,01 Jan 1945
+7,160438362,"Ale, Joyce",F,Poneglama,Student,12 Jan 2003
+8,160250661,"Alison, Elvis opa",F,Poneglama,Subsistence Farmer,01 Jan 1980
+9,25081483,"Alo, Enny",F,Poneglama,Student,28 Apr 2004
+10,160215254,"Alo, Kuku",F,Poneglama,Subsistence Farmer,01 Jan 1981
+11,160125590,"Alo, Mickel",F,Poneglama,Student,14 Apr 1998
+12,160438334,"Alo, Shemillah",F,Poneglama,Student,27 Apr 2004
+13,160250662,"Alo, Waipe",F,Poneglama,Household Duties,04 Nov 1980
+14,160229253,"Ambe, Julie kombili",F,Poneglama,Household Duties,01 Jan 1957
+15,160226306,"Amdol, Anita",F,Poneglama,Student,01 Jan 1988
+16,160125597,"Amdol, Letty",F,Poneglama,Student,16 Jan 1998
+17,160138063,"Amdol, Seron",F,Poneglama,Student,01 Apr 1999
+18,160252207,"Amdoli, Rita",F,Poneglama,Student,01 Jan 1995
+19,160240584,"Amdoli, Seron",F,Poneglama,Student,01 Jan 1994
+20,160233020,"Angi, Pala",F,Poneglama,Subsistence Farmer,01 Jan 1956
+21,160224465,"Angu, Ltepuli",F,Poneglama,Subsistence Farmer,01 Jan 1960
+22,160125612,"Appale, Elvinah",F,Poneglama,Hairdresser,11 Nov 1993
+23,160226298,"Apurel, Anna",F,Poneglama,Subsistence Farmer,01 Jan 1984
+24,25081488,"Apurel, Viola",F,Poneglama,Student,28 Apr 2004
+25,160125596,"Bapa, Jemimah",F,Poneglama,Student,04 Apr 1999
+26,160224459,"Bapa, Julian",F,Poneglama,Subsistence Farmer,01 Jan 2000
+27,160125580,"Benlly, Joice",F,Poneglama,Housegirl,14 Oct 1988
+28,160238622,"Betty, Jopa",F,Poneglama,Household Duties,10 Oct 1977
+29,25081493,"Billy, Esther",F,Poneglama,Subsistence Farmer,28 Apr 1987
+30,160438351,"Brandy, Nancy",F,Poneglama,Household Duties,15 Mar 1994
+31,160241191,"Cathy, John",F,Poneglama,Household Duties,01 Jan 1971
+32,25081515,"Cedrick, Mercy",F,Poneglama,Student,28 Apr 1998
+33,160250668,"Centrict, Ana",F,Poneglama,Subsistence Farmer,03 Jul 1982
+34,160125583,"Charlie, Pricilla",F,Poneglama,Hairdresser,10 Dec 1993
+35,25081522,"Christopher, Rambe",F,Poneglama,Self Employed,28 Apr 1990
+36,160217644,"Daiye, Hannah",F,Poneglama,Subsistence Farmer,01 Jan 1973
+37,160232190,"Daiye, Joan benjamin",F,Poneglama,Student,01 Jan 1990
+38,160216348,"Daiye, Timo timbi",F,Poneglama,Student,01 Jan 1990
+39,160232986,"Daniel, Cathy",F,Poneglama,Subsistence Farmer,01 Jan 1974
+40,160438258,"Daniel, Delma",F,Poneglama,Engineer,11 Nov 1990
+41,25081528,"David, Davina",F,Poneglama,Student,28 Apr 2004
+42,25081535,"David, Dorris",F,Poneglama,Student,28 Apr 2002
+43,160215249,"David, Esther",F,Poneglama,Subsistence Farmer,01 Jan 1985
+44,160250671,"David, Jenny",F,Poneglama,Teacher,01 Jan 1972
+45,160124514,"David, Joyce",F,Poneglama,Teacher,29 May 1990
+46,160125603,"David, Seron",F,Poneglama,Student,01 Jan 1999
+47,160250670,"David, Sophiyon",F,Poneglama,Student,01 Jan 1994
+48,160232834,"David, Stanila",F,Poneglama,Student,01 Jan 1990
+49,160233044,"Demo, Rose",F,Poneglama,Household Duties,01 Jan 1970
+50,160438342,"Dickson, Melody",F,Poneglama,Student,28 Apr 2004
+51,25081545,"Dili, Roselyn",F,Poneglama,Household Duties,28 Apr 1980
+52,160229374,"Dilly, Carolyn",F,Poneglama,Subsistence Farmer,01 Jan 1976
+53,160125795,"Elias, Linda",F,Poneglama,Subsistence Farmer,04 Feb 1999
+54,160125797,"Elias, Rose",F,Poneglama,Subsistence Farmer,03 Apr 1998
+55,160211266,"Eltekaile, Dorcas",F,Poneglama,Subsistence Farmer,01 Jan 1988
+56,160212992,"Eltekaile, Yandotil",F,Poneglama,Subsistence Farmer,01 Jan 1985
+57,25081552,"Elvis, Everlyn",F,Poneglama,Aid Post Orderly,28 Apr 1982
+58,160138184,"Elvis, Seron",F,Poneglama,Hairdresser,15 Sep 1989
+59,160226768,"Endy, Betty",F,Poneglama,Household Duties,01 Jan 1965
+60,160232999,"Etekaile, Mote",F,Poneglama,Student,01 Jan 1990
+61,160240335,"Everlyn, Jairus",F,Poneglama,Teacher,01 Dec 1988
+62,160438372,"Felex, Venia",F,Poneglama,Student,10 Apr 2003
+63,160438373,"Felly, Vilinta",F,Poneglama,Student,17 Apr 2003
+64,25081558,"Francis, Julie",F,Poneglama,Sales Women,28 Apr 1982
+65,25081565,"Freida, Hunda",F,Poneglama,Household Duties,28 Apr 1988
+66,25081570,"Gabrail, Miriam",F,Poneglama,Household Duties,28 Apr 1990
+67,160138182,"Gahare, David",F,Poneglama,Student,04 Apr 1999
+68,160125775,"Gahare, Shelin",F,Poneglama,Student,04 Apr 1999
+69,160217676,"Garu, Nembo",F,Poneglama,Subsistence Farmer,01 Jan 1945
+70,160238564,"Garu, Pumbo",F,Poneglama,Subsistence Farmer,01 Jan 1969
+71,160232961,"Garu, Tote",F,Poneglama,Student,01 Jan 1950
+72,160233105,"Gibson, Lopeke",F,Poneglama,Household Duties,01 Jan 1968
+73,160224702,"Gini, Ltepuli",F,Poneglama,Subsistence Farmer,01 Jan 1950
+74,160212984,"Gini, Tonoteli",F,Poneglama,Subsistence Farmer,01 Jan 1968
+75,160232209,"Indipine, Selly",F,Poneglama,Household Duties,01 Jan 1970
+76,160125586,"Ipuke, Kalenoko",F,Poneglama,Student,24 Apr 1993
+77,160438285,"Ipuke, Liya",F,Poneglama,Student,27 Apr 1999
+78,160438288,"Ipuke, Norin",F,Poneglama,Subsistence Farmer,11 Oct 2000
+79,160125584,"Ipuke, Talina",F,Poneglama,Hairdresser,10 Dec 1980
+80,25081575,"Ismael, Sendy",F,Poneglama,Household Duties,28 Apr 1990
+81,160224609,"Jack, Julian",F,Poneglama,Subsistence Farmer,01 Jan 1981
+82,160125804,"Jack, Lita",F,Poneglama,Hairdresser,11 Aug 1988
+83,160438321,"Jack, Toma",F,Poneglama,Student,24 Apr 2004
+84,160438357,"Jacka, Sussy",F,Poneglama,Subsistence Farmer,05 Jan 2000
+85,160438291,"Jacka, Suzzie",F,Poneglama,Household Duties,10 Oct 1994
+86,160438324,"Jackson, Wewale",F,Poneglama,Household Duties,02 Apr 1986
+87,160240333,"Jairus, Matha",F,Poneglama,Household Duties,11 Aug 1965
+88,25081577,"Jairus, Mela",F,Poneglama,Student,28 Apr 2004
+89,160229633,"James, Mapa",F,Poneglama,Not Specified,01 Jan 1977
+90,160240328,"Janet, Mathew",F,Poneglama,Student,01 Jan 1993
+91,160240331,"Jayma, Jairus",F,Poneglama,Student,01 Jan 1994
+92,160250660,"Jecica, David",F,Poneglama,Household Duties,01 Jan 1968
+93,160237611,"Jeffery, Esther",F,Poneglama,Household Duties,16 Mar 1981
+94,160125505,"Jeffery, Evarlyn",F,Poneglama,Subsistence Farmer,18 Oct 1989
+95,25081583,"Jeffery, Jervilah",F,Poneglama,Student,28 Apr 2004
+96,160213465,"Jeffery, Pricila",F,Poneglama,Public Servant,01 Jan 1967
+97,160237572,"Jenifer thomas, Jenifer",F,Poneglama,Household Duties,24 Feb 1980
+98,160438339,"Jeoffery, Jeffkah",F,Poneglama,Student,28 Apr 2004
+99,160438352,"Jerry, Yulang",F,Poneglama,Household Duties,04 Mar 1992
+100,25081599,"Job, Jokerbeth",F,Poneglama,Sales Women,28 Apr 1992
+101,25081606,"Joe, Dorin",F,Poneglama,Sales Women,28 Apr 1982
+102,160224695,"Joe, Maria",F,Poneglama,Nurse,01 Jan 1959
+103,25081612,"Joe, Olive",F,Poneglama,Student,18 Feb 2000
+104,160225295,"Joe, Rachael",F,Poneglama,Teacher,01 Jan 1980
+105,160224691,"Joe, Rhonda",F,Poneglama,Student,01 Jan 1988
+106,160224696,"Joe, Ruth",F,Poneglama,Student,01 Jan 1979
+107,25081637,"Joel, Winis",F,Poneglama,Student,28 Apr 1999
+108,160232916,"John, Etty",F,Poneglama,Subsistence Farmer,01 Jan 1976
+109,160438267,"John, Janilla",F,Poneglama,Student,02 Apr 2003
+110,160216116,"John, Nancy",F,Poneglama,Subsistence Farmer,01 Jan 1974
+111,160438322,"John, Temba",F,Poneglama,Student,13 Apr 2004
+112,160438329,"Jona, Nopenope",F,Poneglama,Household Duties,28 Jun 1996
+113,160227888,"Jonah, Joyce",F,Poneglama,Student,01 Jan 1988
+114,160233085,"Jonah, Ruth",F,Poneglama,Household Duties,01 Jan 1966
+115,25081645,"Jonny, Tabita",F,Poneglama,Self Employed,28 Apr 1994
+116,160138186,"Joseph, Josphin",F,Poneglama,Subsistence Farmer,10 Oct 1987
+117,160238732,"Kanambo, Ipuke",F,Poneglama,Houseboy,01 Jan 1983
+118,160212986,"Kanombo, Kandiye",F,Poneglama,Subsistence Farmer,01 Jan 1971
+119,160211247,"Kanombo, Polin",F,Poneglama,Subsistence Farmer,01 Jan 1971
+120,160212985,"Kanombo, Repaleme",F,Poneglama,Subsistence Farmer,01 Jan 1936
+121,160438266,"Kapiri, Helvina",F,Poneglama,Nurse,11 Nov 1992
+122,160125598,"Kapiri, Linda",F,Poneglama,Nurse,24 Dec 1989
+123,160233108,"Kapiri, Merolyn",F,Poneglama,Student,01 Jan 1990
+124,160125773,"Kapiri, Rebecca",F,Poneglama,Nurse,02 Jun 1968
+125,160138188,"Kapiri, Terolyn",F,Poneglama,Hairdresser,10 Dec 1978
+126,160216111,"Kapiri, Yapu",F,Poneglama,Subsistence Farmer,01 Jan 1946
+127,160237609,"Kapua, Lisa",F,Poneglama,Public Servant,01 Jan 1980
+128,160229580,"Kapua, Rose",F,Poneglama,Nurse,01 Jan 1958
+129,160237605,"Kawa, Miriam",F,Poneglama,Student,01 Jan 1994
+130,160237238,"Kawa, Rebecca",F,Poneglama,Student,01 Jan 1993
+131,160229627,"Kawalo, Susan",F,Poneglama,Subsistence Farmer,01 Jan 1960
+132,160232880,"Keap, Elly",F,Poneglama,Subsistence Farmer,01 Jan 1985
+133,160224044,"Keap, Mispel",F,Poneglama,Subsistence Farmer,01 Jan 1960
+134,160215638,"Kele, Pate",F,Poneglama,Subsistence Farmer,01 Jan 1974
+135,160438284,"Kelema, Dorothy",F,Poneglama,Household Duties,11 Mar 1988
+136,160438262,"Kelembo, Lydia",F,Poneglama,Teacher,12 Nov 1998
+137,160215306,"Kelembo, Matali",F,Poneglama,Subsistence Farmer,01 Jan 1970
+138,160215308,"Kelembo, Matina",F,Poneglama,Student,01 Jan 1987
+139,160250650,"Kelly, Elaine",F,Poneglama,Student,01 Jan 1992
+140,160250648,"Kelly, Enlyn",F,Poneglama,Subsistence Farmer,01 Jan 1990
+141,160138062,"Kelly, Enlyn",F,Poneglama,Student,04 Apr 1998
+142,160250791,"Kelly, Eny",F,Poneglama,Student,01 Jan 1991
+143,160227903,"Kelly, Francisca",F,Poneglama,Student,01 Jan 1987
+144,160250651,"Kelly, Mongaim",F,Poneglama,Subsistence Farmer,01 Jan 1990
+145,160213466,"Kelowa, Betty",F,Poneglama,Subsistence Farmer,01 Jan 1973
+146,160438336,"Kelowa, Forster",F,Poneglama,Nurse,28 Apr 2004
+147,160438338,"Kelowa, Freda",F,Poneglama,Self Employed,27 Nov 1998
+148,160224569,"Kemapu, Elizaberth",F,Poneglama,Student,01 Jan 1988
+149,160224708,"Kemapu, Pilembo",F,Poneglama,Subsistence Farmer,01 Jan 1958
+150,160212994,"Kepo, Dores",F,Poneglama,Subsistence Farmer,01 Jan 1963
+151,25081658,"Kepo, Joyce",F,Poneglama,Student,28 Apr 2000
+152,160212458,"Kepo, Soti",F,Poneglama,Subsistence Farmer,01 Jan 1986
+153,160227590,"Kevin, Roselyn",F,Poneglama,Household Duties,01 Jan 1975
+154,25081674,"Kiap, Mispel",F,Poneglama,Household Duties,16 Feb 1980
+155,160238727,"Kiap, Wendy",F,Poneglama,Student,01 Mar 1994
+156,160231056,"Kimbotil, Mindilambo",F,Poneglama,Subsistence Farmer,01 Jan 1960
+157,160229500,"Kimbotil, Pricilla",F,Poneglama,Student,01 Jan 1985
+158,160227985,"Kimbotil, Sela",F,Poneglama,Student,01 Jan 1987
+159,160229525,"Kimbotil, Tiyekololi",F,Poneglama,Subsistence Farmer,01 Jan 1963
+160,160229245,"Kingi, Lamina",F,Poneglama,Subsistence Farmer,01 Jan 1961
+161,160125787,"Kolopa, Roselyn",F,Poneglama,Teacher,29 Nov 1966
+162,160229725,"Kolopa, Waini",F,Poneglama,Subsistence Farmer,01 Jan 1978
+163,160224520,"Kolopa, Yuwini",F,Poneglama,Subsistence Farmer,01 Jan 1948
+164,160250794,"Kondi, Esta",F,Poneglama,Subsistence Farmer,01 Jan 1990
+165,160250792,"Kondi, Fins",F,Poneglama,Subsistence Farmer,01 Jan 1990
+166,160250649,"Kondi, Jesca",F,Poneglama,Subsistence Farmer,01 Jan 1993
+167,160250793,"Kondi, Ruth",F,Poneglama,Student,01 Jan 1994
+168,160224581,"Kondowa, Delma",F,Poneglama,Subsistence Farmer,01 Jan 1989
+169,160438272,"Kondowa, Elis",F,Poneglama,Doctor,11 Apr 2003
+170,160438271,"Kondowa, Elizah",F,Poneglama,Teacher,28 Apr 2004
+171,160438341,"Kondowa, Gedion",F,Poneglama,Student,03 Apr 2004
+172,160438269,"Kondowa, Lavina",F,Poneglama,Student,04 Apr 2003
+173,160225292,"Kondowa, Mone kurambo",F,Poneglama,Subsistence Farmer,01 Jan 1958
+174,160125791,"Kongum, Sety",F,Poneglama,Hairdresser,16 Oct 1982
+175,25081695,"Koni, Lastina",F,Poneglama,Student,28 Mar 2003
+176,25087160,"Koni, Lucy",F,Poneglama,Student,28 Apr 1998
+177,25081717,"Konopu, Julie",F,Poneglama,Student,23 Mar 2002
+178,25081729,"Konopu, Serina",F,Poneglama,Student,28 Apr 1999
+179,160229551,"Kopo, Rumbame",F,Poneglama,Subsistence Farmer,01 Jan 1955
+180,160229527,"Kopo, Sharon",F,Poneglama,Subsistence Farmer,01 Jan 1989
+181,25081737,"Kopu, Delma",F,Poneglama,Student,28 Apr 2000
+182,160438327,"Kopu, Martina",F,Poneglama,Student,04 Apr 2003
+183,160215623,"Kopu, Ruth",F,Poneglama,Subsistence Farmer,01 Jan 1982
+184,160438254,"Koya, Grace",F,Poneglama,Student,01 Apr 2003
+185,160438255,"Koya, Honey",F,Poneglama,Student,01 Feb 2003
+186,160217578,"Koya, Waki",F,Poneglama,Subsistence Farmer,01 Jan 1980
+187,160224703,"Koyapo, Laki",F,Poneglama,Subsistence Farmer,01 Jan 1988
+188,160229367,"Kuleko, Ipambo",F,Poneglama,Subsistence Farmer,01 Jan 1969
+189,160125776,"Kuleko, Maria",F,Poneglama,Subsistence Farmer,12 Feb 1988
+190,160227769,"Kuleko, Mary",F,Poneglama,Subsistence Farmer,01 Jan 1986
+191,160124511,"Kuleko, Melinda",F,Poneglama,Subsistence Farmer,20 Jun 1982
+192,160232831,"Kuleko, Nancy",F,Poneglama,Subsistence Farmer,01 Jan 1971
+193,160211071,"Kuleko, Nowaame",F,Poneglama,Subsistence Farmer,01 Jan 1982
+194,160229537,"Kuleko, Rebecca",F,Poneglama,Student,01 Jan 1983
+195,160125605,"Kuleko, Roselyn",F,Poneglama,Student,15 Mar 1997
+196,160206860,"Kuleko, Yunungo",F,Poneglama,Subsistence Farmer,01 Jan 1945
+197,160229531,"Kumbie, Mune",F,Poneglama,Household Duties,01 Jan 1957
+198,160238646,"Kumbiye, Beki",F,Poneglama,Teacher,24 Jul 1981
+199,160229534,"Kumbiye, Carol",F,Poneglama,Household Duties,01 Jan 1987
+200,160229535,"Kumbiye, Daina",F,Poneglama,Household Duties,01 Jan 1981
+201,160138036,"Kuno, Miriam",F,Poneglama,Hairdresser,05 Apr 1979
+202,160438313,"Kuri, Miriam",F,Poneglama,Household Duties,12 May 1988
+203,160125784,"Kuro, Medlyn",F,Poneglama,Subsistence Farmer,11 Apr 1993
+204,160232180,"Kurume, Helen",F,Poneglama,Subsistence Farmer,01 Jan 1979
+205,160232219,"Kurume, Rumbame",F,Poneglama,Subsistence Farmer,01 Jan 1960
+206,25081742,"Kusinda, Yalipu",F,Poneglama,Subsistence Farmer,28 Apr 1973
+207,160220597,"Lapa, Carlyn",F,Poneglama,Student,01 Jan 1987
+208,160438366,"Lapa, Mery",F,Poneglama,Subsistence Farmer,12 Sep 1986
+209,160233135,"Lapa, Mitinga",F,Poneglama,Subsistence Farmer,01 Jan 1979
+210,160225269,"Lapa, Rakeya",F,Poneglama,Subsistence Farmer,01 Jan 1936
+211,160225362,"Lapa, Sharon",F,Poneglama,Subsistence Farmer,01 Jan 1988
+212,160215943,"Lapa, Tonoteli",F,Poneglama,Subsistence Farmer,01 Jan 1964
+213,160220596,"Lapa, Yando",F,Poneglama,Subsistence Farmer,01 Jan 1946
+214,160250657,"Lapua, Las",F,Poneglama,Subsistence Farmer,01 Jan 1994
+215,160250665,"Lapua, Mikel",F,Poneglama,Student,01 Jan 1995
+216,160215255,"Lapua, Roselyn",F,Poneglama,Subsistence Farmer,01 Jan 1989
+217,160250655,"Lapua, Rosila",F,Poneglama,Subsistence Farmer,01 Jan 1990
+218,160250652,"Lapua, Tumili",F,Poneglama,Subsistence Farmer,01 Jan 1945
+219,160240722,"Lenny, Maindo",F,Poneglama,Teacher,01 Jan 1973
+220,160225272,"Lepi, Kurume",F,Poneglama,Subsistence Farmer,01 Jan 1950
+221,160240329,"Lina, Mathew",F,Poneglama,Household Duties,01 Jan 1982
+222,160233114,"Lipu, Kina",F,Poneglama,Student,01 Jan 1976
+223,160233260,"Lipu, Losu",F,Poneglama,Student,01 Jan 2000
+224,160232822,"Lipu, Mollo",F,Poneglama,Student,01 Jan 1985
+225,160232821,"Lipu, Toea",F,Poneglama,Student,01 Jan 1975
+226,160125781,"Lopeke, Anita",F,Poneglama,Student,23 Apr 1995
+227,25081765,"Lopeke, Christine",F,Poneglama,Household Duties,28 Apr 1989
+228,160227922,"Lopeke, Susie",F,Poneglama,Not Specified,01 Jan 1974
+229,160224692,"Lopuwe, Mone",F,Poneglama,Subsistence Farmer,01 Jan 1958
+230,160438345,"Luke, Carolyn",F,Poneglama,Household Duties,02 May 1999
+231,160215644,"Luke, Hellen",F,Poneglama,Subsistence Farmer,01 Jan 1981
+232,160232815,"Lumbi, Enny",F,Poneglama,Subsistence Farmer,01 Jan 1960
+233,160211242,"Lumbi, Ltepuli",F,Poneglama,Subsistence Farmer,01 Jan 1947
+234,160232697,"Lumine, Magalina",F,Poneglama,Student,01 Jan 1986
+235,160233119,"Lumine, Mata",F,Poneglama,Subsistence Farmer,01 Jan 1990
+236,160211251,"Lumine, Ponda",F,Poneglama,Subsistence Farmer,01 Jan 1955
+237,160215283,"Maiya, Esther",F,Poneglama,Subsistence Farmer,01 Jan 1988
+238,160215645,"Maiya, Kontomololi",F,Poneglama,Subsistence Farmer,01 Jan 1941
+239,160215284,"Maiya, Rebeca",F,Poneglama,Student,01 Jan 1990
+240,160212339,"Make, Wapeleino",F,Poneglama,Subsistence Farmer,01 Jan 1943
+241,160224570,"Mala, Enga enny",F,Poneglama,Subsistence Farmer,01 Jan 1977
+242,160125621,"Mala, Freda",F,Poneglama,Student,07 Feb 1999
+243,160225274,"Mala, Linnet",F,Poneglama,Student,01 Jan 1987
+244,160213526,"Mali, Agenes",F,Poneglama,Subsistence Farmer,01 Jan 1952
+245,160215286,"Mali, Doli",F,Poneglama,Student,01 Jan 1986
+246,160438326,"Malley, Dalley",F,Poneglama,Subsistence Farmer,12 Nov 1987
+247,25081788,"Mambu, Acii",F,Poneglama,Self Employed,28 Apr 1998
+248,160215250,"Mambu, Janet",F,Poneglama,Student,01 Jan 1989
+249,160215247,"Mambu, Kanambo",F,Poneglama,Subsistence Farmer,01 Jan 1958
+250,160215948,"Mambu, Maggi",F,Poneglama,Subsistence Farmer,01 Jan 1981
+251,160216132,"Mambu, Rigi",F,Poneglama,Subsistence Farmer,01 Jan 1948
+252,160215248,"Mambu, Susan",F,Poneglama,Subsistence Farmer,01 Jan 1961
+253,160215949,"Mambu, Wile",F,Poneglama,Subsistence Farmer,01 Jan 1981
+254,160125789,"Mande, Shara",F,Poneglama,Student,03 May 1995
+255,160125788,"Mande, Sharon",F,Poneglama,Student,23 Dec 1993
+256,160229726,"Mande, Sharon",F,Poneglama,Student,01 Jan 1989
+257,160438348,"Marey, Fredah",F,Poneglama,Household Duties,28 Jun 1993
+258,160438375,"Mark, Elis",F,Poneglama,Student,15 Jan 1998
+259,160213696,"Marowa, Mondi",F,Poneglama,Subsistence Farmer,01 Jan 1983
+260,160239148,"Marowa, Nopuduli",F,Poneglama,Household Duties,10 Apr 1954
+261,160213697,"Marowa, Sarah",F,Poneglama,Student,01 Jan 1988
+262,160233023,"Marowa, Sila",F,Poneglama,Student,01 Jan 1990
+263,160213152,"Mata, Lui",F,Poneglama,Subsistence Farmer,01 Jan 1990
+264,160213151,"Mata, Rekame",F,Poneglama,Subsistence Farmer,01 Jan 1967
+265,160125594,"Mata, Saberth",F,Poneglama,Student,06 Mar 1998
+266,160125582,"Matae, Ana",F,Poneglama,Pastor,11 Aug 1974
+267,160238731,"Mathew, Kenethy",F,Poneglama,Student,06 Jul 1996
+268,160240352,"Mathew, Poame",F,Poneglama,Subsistence Farmer,10 Nov 1970
+269,160438280,"Matta, Elisabeth",F,Poneglama,Student,03 Mar 1996
+270,160438279,"Matta, Jerrila",F,Poneglama,Student,03 May 1998
+271,160438282,"Matta, Leah",F,Poneglama,Nurse,12 Mar 1990
+272,160240334,"Melody, Dili",F,Poneglama,Not Specified,01 Jan 1994
+273,160224718,"Mendepo, Betty",F,Poneglama,Subsistence Farmer,01 Jan 1983
+274,160224719,"Mendepo, Mery",F,Poneglama,Student,01 Jan 1985
+275,160224716,"Mendepo, Witi",F,Poneglama,Subsistence Farmer,01 Jan 1959
+276,25081806,"Micheal, Linnet",F,Poneglama,Household Duties,28 Apr 1981
+277,160232710,"Mike, Edit",F,Poneglama,Household Duties,01 Jan 1961
+278,160232025,"Mike, Elyne",F,Poneglama,Student,01 Jan 1988
+279,160232027,"Mike, Lorry",F,Poneglama,Student,01 Jan 1990
+280,160239135,"Mike, Mopune",F,Poneglama,Student,01 Jan 1994
+281,160239132,"Mike, Venesa",F,Poneglama,Student,01 Jan 1994
+282,160238729,"Momo, Mendeli",F,Poneglama,Subsistence Farmer,01 Jan 1950
+283,160252212,"Monda, Ari",F,Poneglama,Subsistence Farmer,01 Jan 1971
+284,160240586,"Monda, Lili",F,Poneglama,Student,01 Jan 1988
+285,160211412,"Monda, Naomi",F,Poneglama,Student,01 Jan 1988
+286,160210730,"Monda, Rambame",F,Poneglama,Subsistence Farmer,01 Jan 1966
+287,160239139,"Moro, Anita",F,Poneglama,Sales Women,01 Jan 1980
+288,160125581,"Moro, Emma",F,Poneglama,Hairdresser,23 Aug 1993
+289,160224484,"Moro, Janny",F,Poneglama,Subsistence Farmer,01 Jan 1982
+290,160252211,"Moro, Maria",F,Poneglama,Subsistence Farmer,01 Jan 1979
+291,160240731,"Moro, Verolyn",F,Poneglama,Subsistence Farmer,01 Jan 1978
+292,160125777,"Moromo, Everlyn",F,Poneglama,Hairdresser,10 Feb 1987
+293,25087173,"Mote, Flocinda",F,Poneglama,Subsistence Farmer,28 Apr 1982
+294,160238629,"Muruabo, Ningi",F,Poneglama,Subsistence Farmer,01 Jan 1969
+295,160125601,"Naka, Joice",F,Poneglama,Hairdresser,10 Aug 1997
+296,160216117,"Nakanol, Ipirino",F,Poneglama,Subsistence Farmer,01 Jan 1941
+297,160211261,"Nakanol, Kena",F,Poneglama,Subsistence Farmer,01 Jan 1975
+298,160224480,"Nale, Miti",F,Poneglama,Subsistence Farmer,01 Jan 1938
+299,160224481,"Nale, Tapa",F,Poneglama,Student,01 Jan 1988
+300,160215613,"Nande, Keyame",F,Poneglama,Subsistence Farmer,01 Jan 1943
+301,160224590,"Nande, Lita",F,Poneglama,Subsistence Farmer,01 Jan 1976
+302,160227767,"Nande, Tema",F,Poneglama,Student,01 Jan 1982
+303,160125615,"Nata, Louis",F,Poneglama,Hairdresser,23 Nov 1980
+304,160233093,"Nelson, Mondi",F,Poneglama,Subsistence Farmer,01 Jan 1979
+305,160233106,"Nema, Leny",F,Poneglama,Worker,01 Jan 1971
+306,160226291,"Nema, Teresa",F,Poneglama,Subsistence Farmer,01 Jan 1969
+307,160252208,"Nimbo, Albeta",F,Poneglama,Student,01 Jan 1994
+308,160240726,"Nimbo, Sedra",F,Poneglama,Subsistence Farmer,01 Jan 1979
+309,160438355,"Ninge, Melisa",F,Poneglama,Student,18 Jul 2002
+310,160207078,"Ninge, Tiye",F,Poneglama,Subsistence Farmer,01 Jan 1977
+311,160240738,"Ningi, Bevlyn",F,Poneglama,Store Keeper,01 Jan 1990
+312,160209838,"Nino, Jerolyn",F,Poneglama,Subsistence Farmer,01 Jan 1979
+313,160241987,"Nipile, Nancy",F,Poneglama,Student,01 Jan 1990
+314,160224586,"Niwi, Kepeyame",F,Poneglama,Subsistence Farmer,01 Jan 1976
+315,160138190,"Noimbo, Melen",F,Poneglama,,20 Apr 1999
+316,160125614,"Noimbo, Melenda",F,Poneglama,Student,20 Apr 1999
+317,160224479,"Nokopa, Pontilbalo",F,Poneglama,Subsistence Farmer,01 Jan 1966
+318,160125595,"Nokopa, Seronny",F,Poneglama,Student,11 Mar 1998
+319,160218528,"Noma, Mellen",F,Poneglama,Subsistence Farmer,01 Jan 1984
+320,160229488,"Nonge, Pricilla",F,Poneglama,Subsistence Farmer,01 Jan 1982
+321,160225367,"Noyiwi, Momo",F,Poneglama,Subsistence Farmer,01 Jan 1955
+322,160224482,"One, Kiniye",F,Poneglama,Subsistence Farmer,01 Jan 1949
+323,160138064,"Onno, Lineth",F,Poneglama,Household Duties,11 Sep 1997
+324,160217671,"Ono, Mageret",F,Poneglama,Subsistence Farmer,01 Jan 1988
+325,160215639,"Ono, Mone",F,Poneglama,Subsistence Farmer,01 Jan 1962
+326,160216122,"Opa, Bepi",F,Poneglama,Subsistence Farmer,01 Jan 1961
+327,25081818,"Opa, Enny",F,Poneglama,Student,28 Apr 2004
+328,160218685,"Opa, Joycelyn",F,Poneglama,Student,01 Jan 1987
+329,160218682,"Opa, Komban ruth",F,Poneglama,Subsistence Farmer,01 Jan 1958
+330,160218683,"Opa, Madona",F,Poneglama,Student,01 Jan 1987
+331,160225364,"Opi, Kombili",F,Poneglama,Subsistence Farmer,01 Jan 1959
+332,160224560,"Opi, Tatina",F,Poneglama,Student,01 Jan 1987
+333,160224559,"Opi, Tiwi",F,Poneglama,Subsistence Farmer,01 Jan 1985
+334,160232712,"Opu, Roselyn",F,Poneglama,Student,01 Jan 1982
+335,160227765,"Opu, Veronica",F,Poneglama,Student,01 Jan 1980
+336,25081824,"Paita, Ketura",F,Poneglama,Self Employed,11 Aug 2001
+337,160215229,"Paita, Pokeyame",F,Poneglama,Subsistence Farmer,01 Jan 1962
+338,160240712,"Paita, Racheal",F,Poneglama,Subsistence Farmer,01 Jan 1990
+339,160232927,"Paiye, Nomuambo",F,Poneglama,Household Duties,01 Jan 2000
+340,160226289,"Pako, Josephine",F,Poneglama,Subsistence Farmer,01 Jan 1959
+341,25081829,"Pako, Sabeth",F,Poneglama,Student,28 Apr 1998
+342,160217669,"Palus, Karily",F,Poneglama,Subsistence Farmer,01 Jan 1989
+343,160217666,"Palus, Mone",F,Poneglama,Subsistence Farmer,01 Jan 1960
+344,160217667,"Palus, Tirimo",F,Poneglama,Subsistence Farmer,01 Jan 1982
+345,160211413,"Patel, Anna",F,Poneglama,Subsistence Farmer,01 Jan 1943
+346,160210607,"Patel, Jenifa",F,Poneglama,Subsistence Farmer,01 Jan 1983
+347,160211246,"Patel, Opambo",F,Poneglama,Subsistence Farmer,01 Jan 1985
+348,25081833,"Paul, Elly",F,Poneglama,Household Duties,28 Apr 1980
+349,160225239,"Paul, Esther",F,Poneglama,Subsistence Farmer,01 Jan 1980
+350,160225240,"Paul, Lora",F,Poneglama,Subsistence Farmer,01 Jan 1982
+351,25081837,"Paul, Paulinta",F,Poneglama,Student,28 Apr 2004
+352,160227920,"Paul, Rolyn",F,Poneglama,Student,01 Jan 1989
+353,160438307,"Paul, Ruih",F,Poneglama,Student,28 Apr 2004
+354,160438305,"Paul, Selva",F,Poneglama,Housegirl,11 Aug 2000
+355,160438359,"Paul, Shadrah",F,Poneglama,Subsistence Farmer,03 Jul 1994
+356,160227917,"Paul, Susan",F,Poneglama,Household Duties,01 Jan 1980
+357,160438347,"Paulson philimon, Acey",F,Poneglama,Household Duties,02 Mar 1997
+358,160227741,"Peku, Lucy",F,Poneglama,Subsistence Farmer,01 Jan 1974
+359,160229248,"Peku, Monica",F,Poneglama,Subsistence Farmer,01 Jan 1979
+360,160227897,"Peku, Tana",F,Poneglama,Subsistence Farmer,01 Jan 1984
+361,160229249,"Peku, Theresa",F,Poneglama,Subsistence Farmer,01 Jan 1982
+362,160229252,"Peku, Wendy",F,Poneglama,Subsistence Farmer,01 Jan 1989
+363,160216345,"Pembo, Ruth",F,Poneglama,Subsistence Farmer,01 Jan 1967
+364,160226296,"Pembu, Ltepuli",F,Poneglama,Subsistence Farmer,01 Jan 1957
+365,160224694,"Pena, Ema",F,Poneglama,Subsistence Farmer,01 Jan 1974
+366,25087178,"Pena, Joy",F,Poneglama,Self Employed,28 Apr 1994
+367,160215620,"Pero, Carolyn",F,Poneglama,Subsistence Farmer,01 Jan 1984
+368,160125623,"Peter, Beki",F,Poneglama,Student,06 Mar 1998
+369,160225376,"Peter, Lean",F,Poneglama,Subsistence Farmer,01 Jan 1976
+370,160212463,"Peya, Porande",F,Poneglama,Subsistence Farmer,01 Jan 1965
+371,160125800,"Philip, Alice",F,Poneglama,Hairdresser,11 Dec 1975
+372,160239144,"Philip, Racheal",F,Poneglama,Nurse,01 Jan 1980
+373,160237567,"Philip, Rita",F,Poneglama,Teacher,01 Jan 1981
+374,160125610,"Philip, Serah",F,Poneglama,Hairdresser,05 Apr 1992
+375,160227766,"Pilembo, Jennifer",F,Poneglama,Student,01 Jan 1983
+376,160232957,"Pilembo, Rose",F,Poneglama,Household Duties,01 Jan 1960
+377,160232817,"Pilimbo, Alice",F,Poneglama,Subsistence Farmer,01 Jan 1971
+378,160233259,"Pilimbo, Esther",F,Poneglama,Student,01 Jan 1989
+379,160227923,"Pilimbo, Lucy",F,Poneglama,Student,01 Jan 1985
+380,160232944,"Pilimbo, Makamambo",F,Poneglama,Subsistence Farmer,01 Jan 1974
+381,160239152,"Pilimbo, Mata",F,Poneglama,Subsistence Farmer,01 Jan 1976
+382,160225235,"Piliwi, Cristina",F,Poneglama,Subsistence Farmer,01 Jan 1989
+383,160225374,"Piliwi, Esther",F,Poneglama,Subsistence Farmer,01 Jan 1988
+384,160226313,"Piliwi, Pateli",F,Poneglama,Subsistence Farmer,01 Jan 1981
+385,160225372,"Piliwi, Pileli",F,Poneglama,Subsistence Farmer,01 Jan 1957
+386,160211264,"Pinte, Miti",F,Poneglama,Subsistence Farmer,01 Jan 1961
+387,160219091,"Pis, Hellen",F,Poneglama,Subsistence Farmer,01 Jan 1983
+388,160229494,"Piye, Ruth",F,Poneglama,Household Duties,01 Jan 1976
+389,160232692,"Poiye, Julie",F,Poneglama,Subsistence Farmer,01 Jan 1977
+390,160232988,"Poiye, Mepaandol",F,Poneglama,Subsistence Farmer,01 Jan 1969
+391,160232981,"Poiye, Meri",F,Poneglama,Student,01 Jan 1987
+392,160233001,"Poiye, Tinome",F,Poneglama,Subsistence Farmer,01 Jan 1949
+393,160237236,"Poki, Anita",F,Poneglama,Household Duties,01 Apr 1964
+394,160231071,"Poki, Wiruambo",F,Poneglama,Household Duties,01 Jan 1971
+395,160215939,"Pomboraiye, Tupula",F,Poneglama,Subsistence Farmer,01 Jan 1943
+396,160218531,"Pone, Tana",F,Poneglama,Subsistence Farmer,01 Jan 1934
+397,160241194,"Ponege, Mali",F,Poneglama,Subsistence Farmer,01 Jan 1982
+398,160224575,"Pora, Ekaino",F,Poneglama,Subsistence Farmer,01 Jan 1949
+399,160217649,"Pora, Eli",F,Poneglama,Subsistence Farmer,01 Jan 1979
+400,160217640,"Pora, Elvin",F,Poneglama,Teacher,01 Jan 1977
+401,160217650,"Pora, Jannet",F,Poneglama,Student,01 Jan 1987
+402,160224577,"Pora, Mery",F,Poneglama,Subsistence Farmer,01 Jan 1988
+403,160216341,"Pora, Waki",F,Poneglama,Subsistence Farmer,01 Jan 2000
+404,160241968,"Puino, Ruka",F,Poneglama,Subsistence Farmer,01 Jan 1986
+405,160241183,"Puke, Mali",F,Poneglama,Subsistence Farmer,01 Jan 1985
+406,160226418,"Pundu, Ronda",F,Poneglama,Subsistence Farmer,01 Jan 1977
+407,160250663,"Racheal, Paita",F,Poneglama,Subsistence Farmer,01 Jan 1986
+408,160241176,"Raitame, Mali",F,Poneglama,Subsistence Farmer,01 Jan 2000
+409,25081853,"Rambo, Julian",F,Poneglama,Subsistence Farmer,28 Apr 1987
+410,160213468,"Ramua, Kolambo",F,Poneglama,Subsistence Farmer,01 Jan 1972
+411,160241180,"Rebeca, Kera",F,Poneglama,Subsistence Farmer,01 Jan 1983
+412,160438265,"Rendy, Freda",F,Poneglama   Health Extention Officer 11 Dec 1998,"413     160232217     Robert, Sarah              F        Poneglama   Subsistence Farmer",01 Jan 1974
+413,160250653,"Rodney, Wendi",F,Poneglama,Subsistence Farmer,01 Jan 1975
+414,160229520,"Rombe, Aiyembo",F,Poneglama,Student,01 Jan 1985
+415,160229522,"Rombe, Lina",F,Poneglama,Teacher,01 Jan 1969
+416,160238737,"Rombe, Lopeke",F,Poneglama,Subsistence Farmer,07 May 1949
+417,160229511,"Rombe, Margaret",F,Poneglama,Student,01 Jan 1979
+418,160229518,"Rombe, Pimo",F,Poneglama,Subsistence Farmer,01 Jan 1978
+419,160218677,"Rome, Noile nancy",F,Poneglama,Subsistence Farmer,01 Jan 1950
+420,160438286,"Ronal, Buka",F,Poneglama,Household Duties,07 Jun 1998
+421,160220436,"Ruka, Waina",F,Poneglama,Subsistence Farmer,01 Jan 1958
+422,160232882,"Ruka, Willy",F,Poneglama,Student,01 Jan 1990
+423,160241181,"Ruth, Kera",F,Poneglama,Subsistence Farmer,01 Jan 1979
+424,160438253,"Samuel, Wenly",F,Poneglama,Nurse,11 Nov 1992
+425,160229479,"Saul, Martha",F,Poneglama,Subsistence Farmer,01 Jan 1977
+426,160250669,"Sera, Nokopa",F,Poneglama,Subsistence Farmer,01 Jan 1994
+427,160240709,"Serony, Ipuke",F,Poneglama,Student,01 Jan 1989
+428,160224713,"Simon, Aiye",F,Poneglama,Subsistence Farmer,01 Jan 1960
+429,160125502,"Simon, Cathy",F,Poneglama,Subsistence Farmer,15 Oct 1978
+430,160438319,"Simon, Jemelyn",F,Poneglama,Student,25 Apr 2004
+431,160232204,"Simon, Lina",F,Poneglama,Subsistence Farmer,01 Jan 1970
+432,160125501,"Simon, Lina",F,Poneglama,Hairdresser,11 Dec 1982
+433,160233022,"Simon, Sarah",F,Poneglama,Subsistence Farmer,01 Jan 1979
+434,160125792,"Simon, Shelina",F,Poneglama,Student,22 Apr 1999
+435,160125793,"Simon, Stephanie",F,Poneglama,Student,01 Mar 1999
+436,160438323,"Solomon, Ronda",F,Poneglama,Household Duties,12 Jun 1998
+437,160232704,"Stanley, Hellen",F,Poneglama,Household Duties,01 Jan 1967
+438,160138037,"Steven, Dorin",F,Poneglama,Hairdresser,11 Dec 1984
+439,160125802,"Steven, Jenny",F,Poneglama,Hairdresser,15 Mar 1980
+440,160125794,"Taine, Wenly",F,Poneglama,Hairdresser,01 Mar 1994
+441,25081857,"Taka, Bibian",F,Poneglama,Student,28 Jan 2004
+442,160125589,"Taka, Diahla",F,Poneglama,Student,16 Apr 1999
+443,25081866,"Taka, Rosilla",F,Poneglama,Student,28 Apr 2004
+444,160215621,"Taka, Sande",F,Poneglama,Subsistence Farmer,01 Jan 1972
+445,25081871,"Takes, Engila",F,Poneglama,Student,28 Apr 2004
+446,160218532,"Takis, Pora",F,Poneglama,Subsistence Farmer,01 Jan 1968
+447,25081875,"Tamane, Iko",F,Poneglama,Self Employed,28 Apr 1977
+448,160212325,"Tande, Berenda",F,Poneglama,Student,01 Jan 1988
+449,160212323,"Tande, Daisy",F,Poneglama,Student,01 Jan 1986
+450,160211402,"Tande, Jannet",F,Poneglama,Student,01 Jan 1987
+451,160211404,"Tande, Soti janifa",F,Poneglama,Student,01 Jan 1989
+452,160138191,"Tanemeiye, Pileme",F,Poneglama,Hairdresser,07 May 1979
+453,160125617,"Tanige, Steveny",F,Poneglama,Student,10 Apr 1999
+454,160226767,"Tapol, Lipiye",F,Poneglama,Subsistence Farmer,01 Jan 1970
+455,160224573,"Tapol, Mone",F,Poneglama,Subsistence Farmer,01 Jan 1958
+456,160227930,"Tara, Freda",F,Poneglama,Student,01 Jan 1990
+457,160220611,"Tara, Lina",F,Poneglama,Subsistence Farmer,01 Jan 1983
+458,160218674,"Tara, Mondi",F,Poneglama,Subsistence Farmer,01 Jan 1979
+459,160220612,"Tara, Roselyn",F,Poneglama,Subsistence Farmer,01 Jan 1983
+460,160218676,"Tara, Wendy",F,Poneglama,Subsistence Farmer,01 Jan 1984
+461,160220605,"Tekepo, Miti",F,Poneglama,Subsistence Farmer,01 Jan 1963
+462,25081888,"Temane, Kuta",F,Poneglama,Household Duties,28 Apr 1972
+463,160219092,"Temane, Wambo",F,Poneglama,Subsistence Farmer,01 Jan 1954
+464,160438354,"Tembo, Jemela",F,Poneglama,Student,02 May 2003
+465,160224844,"Tembo, Tangopale",F,Poneglama,Subsistence Farmer,01 Jan 1962
+466,160125782,"Temo, Leah",F,Poneglama,Hairdresser,20 Sep 1974
+467,160240728,"Temo, Rosa",F,Poneglama,Subsistence Farmer,01 Jan 1979
+468,160238572,"Temo, Yombiambo",F,Poneglama,Sales Women,01 Jan 1978
+469,160233099,"Tene, Jenny",F,Poneglama,Student,01 Jan 1989
+470,160212460,"Tereno, Kami",F,Poneglama,Subsistence Farmer,01 Jan 1968
+471,160212462,"Tereno, Linnet",F,Poneglama,Student,01 Jan 1987
+472,160438370,"Tereno, Velma",F,Poneglama,Student,17 Apr 2003
+473,160225355,"Tero, Jeclyn",F,Poneglama,Student,01 Jan 1986
+474,160224843,"Tero, Joyclyn",F,Poneglama,Student,01 Jan 1989
+475,160225354,"Tero, Mone",F,Poneglama,Subsistence Farmer,01 Jan 1962
+476,25081900,"Terry, Melody",F,Poneglama,Household Duties,28 Apr 1986
+477,160438277,"Teru, Anita",F,Poneglama,Nurse,04 Mar 1988
+478,160229372,"Tilto, Lucy",F,Poneglama,Student,01 Jan 1988
+479,160229236,"Tilto, Martha",F,Poneglama,Hostess,01 Jan 1959
+480,160125799,"Tim, Lidiah",F,Poneglama,Student,20 Apr 1998
+481,160438360,"Tim, Sintia",F,Poneglama,Student,01 Apr 2003
+482,160438361,"Tim, Tanita",F,Poneglama,Student,17 Mar 2004
+483,160238716,"Timo, Tereno",F,Poneglama,Subsistence Farmer,01 Jan 1972
+484,160249053,"Timthy, Zill",F,Poneglama,Subsistence Farmer,01 Jan 1992
+485,160125613,"Tiri, Ponny",F,Poneglama,Hairdresser,11 Dec 1982
+486,160232055,"Tiro, Emily",F,Poneglama,Household Duties,01 Jan 1960
+487,160237607,"Tiro, Nale",F,Poneglama,Household Duties,24 Jan 1950
+488,160232057,"Tiro, Sendi",F,Poneglama,Student,01 Jan 1988
+489,160232224,"Tiro, Sharon",F,Poneglama,Student,01 Jan 1986
+490,160125798,"Toiye, Semila",F,Poneglama,Hairdresser,04 Mar 1999
+491,160125786,"Tola, Pricilla",F,Poneglama,Hairdresser,14 Oct 1993
+492,160230648,"Tom, Rose",F,Poneglama,Subsistence Farmer,01 Jan 1956
+493,160125619,"Tonny, Gracy",F,Poneglama,Student,08 Mar 1998
+494,160125604,"Tonny, Hetty",F,Poneglama,Hairdresser,10 May 1998
+495,160438365,"Tonny, Kimbeyn",F,Poneglama,Student,18 Apr 2003
+496,160224572,"Tonny, Papu",F,Poneglama,Subsistence Farmer,01 Jan 1976
+497,160232018,"Tope, Ipeino",F,Poneglama,Household Duties,01 Jan 1960
+498,160232951,"Tope, Jenda",F,Poneglama,Student,01 Jan 1989
+499,160212456,"Topu, Kilubalo",F,Poneglama,Subsistence Farmer,01 Jan 1900
+500,160212993,"Topu, Oiye",F,Poneglama,Subsistence Farmer,01 Jan 1900
+501,160233133,"Topu, Puweme",F,Poneglama,Subsistence Farmer,01 Jan 1970
+502,160229504,"Toy, Paname",F,Poneglama,Subsistence Farmer,01 Jan 1980
+503,160233262,"Tuku, Meri",F,Poneglama,Student,01 Jan 1988
+504,160233261,"Tuku, Selly",F,Poneglama,Public Servant,01 Jan 1965
+505,160240583,"Tumbo, Easter",F,Poneglama,Student,01 Jan 1990
+506,160240730,"Tumbo, Julie",F,Poneglama,Subsistence Farmer,01 Jan 1991
+507,160240727,"Tumbo, Mata",F,Poneglama,Subsistence Farmer,01 Jan 1987
+508,160240714,"Tumbo, Nancy",F,Poneglama,Student,01 Jan 1991
+509,160224558,"Tungi, Kuini",F,Poneglama,Subsistence Farmer,01 Jan 1982
+510,160225280,"Tungi, Tili",F,Poneglama,Subsistence Farmer,01 Jan 1984
+511,160215642,"Turi, Rose",F,Poneglama,Student,01 Jan 1987
+512,160217673,"Turi, Tagopa",F,Poneglama,Subsistence Farmer,01 Jan 1949
+513,160232857,"Turi, Vicky",F,Poneglama,Household Duties,01 Jan 1972
+514,160226302,"Tuweyo, Lipetili",F,Poneglama,Subsistence Farmer,01 Jan 1966
+515,160211258,"Tuweyo, Nopunduli anna",F,Poneglama,Subsistence Farmer,01 Jan 1964
+516,160229626,"Uikeiye, Delma",F,Poneglama,Subsistence Farmer,01 Jan 1970
+517,160229468,"Uikeiye, Lia",F,Poneglama,Student,01 Jan 1990
+518,160229514,"Uikeiye, Naomi",F,Poneglama,Subsistence Farmer,01 Jan 1975
+519,160241969,"Uikeiye, Nipile",F,Poneglama,Subsistence Farmer,01 Jan 1968
+520,160225351,"Ukeiye, Wamoli",F,Poneglama,Subsistence Farmer,01 Jan 1952
+521,160438358,"Unungo, Pony",F,Poneglama,Subsistence Farmer,04 Dec 1993
+522,160224578,"Waima, Weneme",F,Poneglama,Subsistence Farmer,01 Jan 1973
+523,160125627,"Wak, Jenet",F,Poneglama,Pastor,17 Feb 1998
+524,160125500,"Wako, Judy",F,Poneglama,Student,11 Mar 1999
+525,160138040,"Wako, Regina",F,Poneglama,Hairdresser,24 Jul 1980
+526,160225249,"Wako, Tope",F,Poneglama,Subsistence Farmer,01 Jan 1971
+527,160211245,"Walo, Jenny",F,Poneglama,Student,01 Jan 1980
+528,160207080,"Walo, Mombo",F,Poneglama,Subsistence Farmer,01 Jan 1957
+529,160211244,"Walo, Nareino",F,Poneglama,Subsistence Farmer,01 Jan 1952
+530,160218687,"Walumeiye, Mare",F,Poneglama,Subsistence Farmer,01 Jan 1969
+531,160240336,"Wanpis, Taku nambo",F,Poneglama,Subsistence Farmer,01 Jan 1975
+532,160225261,"Wapea, Nombea",F,Poneglama,Subsistence Farmer,01 Jan 1970
+533,160225285,"Wapea, Pileru",F,Poneglama,Subsistence Farmer,01 Jan 1940
+534,160225262,"Wapea nombeya, Roselyn",F,Poneglama,Student,01 Jan 1987
+535,160216127,"Warea, Apuke",F,Poneglama,Subsistence Farmer,01 Jan 1950
+536,160438273,"Warea, Jessica",F,Poneglama,Nurse,13 Nov 1990
+537,160215465,"Warea, Kandiye",F,Poneglama,Subsistence Farmer,01 Jan 1982
+538,160215466,"Warea, Rehab",F,Poneglama,Subsistence Farmer,01 Jan 1987
+539,160125606,"Waringi, Cynthia",F,Poneglama,Self Employed,17 Jan 1986
+540,160215231,"Waringi, Janet yapeyame",F,Poneglama,Subsistence Farmer,01 Jan 1939
+541,25081916,"Wawena, Elly",F,Poneglama,Household Duties,28 Apr 1989
+542,160215251,"Wee, Kale",F,Poneglama,Subsistence Farmer,01 Jan 1980
+543,25087184,"Wee, Sili",F,Poneglama,Self Employed,28 Apr 1998
+544,160240330,"Wein, Aluwe ambo",F,Poneglama,Subsistence Farmer,01 Jan 1977
+545,160250658,"Weneme, Moses",F,Poneglama,Household Duties,11 Dec 1971
+546,160438299,"Wesley, Albertha",F,Poneglama,Student,11 Sep 1998
+547,160240718,"Willy, Carol",F,Poneglama,Household Duties,01 Jan 1980
+548,160230382,"Wind, Wendy",F,Poneglama,Subsistence Farmer,01 Jan 1976
+549,160225288,"Witol, Tabita",F,Poneglama,Student,01 Jan 1988
+550,160250666,"Yakopos, Miriame",F,Poneglama,Household Duties,01 Jan 1986
+551,160219097,"Yaku, Mevilin",F,Poneglama,Subsistence Farmer,01 Jan 1973
+552,160233018,"Yalipu, Lina",F,Poneglama,Student,01 Jan 1986
+553,160233017,"Yalipu, Lus",F,Poneglama,Subsistence Farmer,01 Jan 1984
+554,160219082,"Yamariye, Yara",F,Poneglama,Subsistence Farmer,01 Jan 1978
+555,160229618,"Yamba, Awape",F,Poneglama,Subsistence Farmer,01 Jan 1949
+556,160233024,"Yamba, Jenny",F,Poneglama,Worker,01 Jan 1970
+557,160232827,"Yamba, Lopambo",F,Poneglama,Household Duties,01 Jan 1977
+558,160226772,"Yamba, Merolyn",F,Poneglama,Teacher,01 Jan 1979
+559,160438312,"Yapi, Ester",F,Poneglama,Household Duties,15 Jul 1988
+560,160215618,"Yapo, Magalina",F,Poneglama,Student,01 Jan 1989
+561,160215624,"Yapo, Melen",F,Poneglama,Subsistence Farmer,01 Jan 1983
+562,160125592,"Yapo, Ruth",F,Poneglama,Student,16 Apr 1999
+563,160215617,"Yapo, Wendi",F,Poneglama,Subsistence Farmer,01 Jan 1946
+564,160138185,"Yombi, Anita",F,Poneglama,Student,14 Apr 1999
+565,160241152,"Yombi, Anita",F,Poneglama,Student,01 Jan 1994
+566,160232201,"Yombi, Elly",F,Poneglama,Student,01 Jan 1989
+567,25081934,"Yombi, Las",F,Poneglama,Self Employed,28 Apr 1975
+568,160241024,"Yombi, Melly",F,Poneglama,Student,01 Jan 1993
+569,25081940,"Yombi, Rebecca",F,Poneglama,Self Employed,28 Apr 1989
+570,25081948,"Yombi, Sala",F,Poneglama,Subsistence Farmer,28 Apr 1977
+571,160438350,"Yoni, Emesila",F,Poneglama,Self Employed,12 Sep 1998
+572,160227762,"Yopaiye, Akilo",F,Poneglama,Student,01 Jan 1990
+573,160225251,"Yopaiye, Pundiki",F,Poneglama,Subsistence Farmer,01 Jan 1986
+574,160438293,"Yopaiye, Tongi",F,Poneglama,Household Duties,02 Apr 1999
+575,160224476,"Agela, Demo",M,Poneglama,Salesman,01 Jan 1975
+576,160224475,"Agela, Nema",M,Poneglama,Subsistence Farmer,01 Jan 1990
+577,160438251,"Aiye, Batimas",M,Poneglama,Student,28 Apr 2003
+578,160438252,"Aiye, Sammy",M,Poneglama,Student,01 Apr 2003
+579,160226769,"Akele, Indipine",M,Poneglama,Driver,01 Jan 1973
+580,160226766,"Akele, Poki",M,Poneglama,Security,01 Jan 1967
+581,160232053,"Akele, Tom",M,Poneglama,Subsistence Farmer,01 Jan 1952
+582,160438363,"Ale, Keven",M,Poneglama,Student,24 Feb 2003
+583,160438333,"Alo, Kimoly",M,Poneglama,Student,28 Apr 2004
+584,160438301,"Alu, Komondu",M,Poneglama,Subsistence Farmer,02 Apr 1981
+585,160249457,"Andy, Timothy",M,Poneglama,Subsistence Farmer,01 Jan 1990
+586,160229585,"Angu, Sendo",M,Poneglama,Self Employed,01 Jan 1965
+587,160233115,"Angu, Tuku",M,Poneglama,Public Servant,01 Jan 1959
+588,160226297,"Apurel, Albert",M,Poneglama,Clerk,01 Jan 1973
+589,160226416,"Apurel, Nelson",M,Poneglama,Subsistence Farmer,01 Jan 1979
+590,160438264,"Bapa, Gidion",M,Poneglama,Student,07 Apr 2003
+591,160125600,"Bapa, Jonah",M,Poneglama,Subsistence Farmer,02 Aug 1980
+592,25081497,"Bote, James",M,Poneglama,Student,28 Aug 1999
+593,25081502,"Bote, Joe",M,Poneglama,Student,28 Apr 1998
+594,25081507,"Bote, Wagi",M,Poneglama,Student,28 Apr 2004
+595,25081511,"Cedrick, Kusa",M,Poneglama,Student,28 Apr 2000
+596,25081520,"Cedrick, Sol",M,Poneglama,Student,28 Apr 2001
+597,160216347,"Daiye, Alo",M,Poneglama,Subsistence Farmer,01 Jan 1979
+598,160217652,"Daiye, Benjamin",M,Poneglama,Subsistence Farmer,01 Jan 1969
+599,160216346,"Daiye, Benjamin emmanuel",M,Poneglama,Student,01 Jan 1987
+600,160226770,"Daiye, Endy ninge",M,Poneglama,Worker,01 Jan 1968
+601,160216121,"Daiye, Opa",M,Poneglama,Self Employed,01 Jan 1950
+602,160219088,"Daiye, Yombi",M,Poneglama,Subsistence Farmer,01 Jan 1949
+603,160438318,"David, Demas",M,Poneglama,Subsistence Farmer,08 Jul 1997
+604,160438317,"David, Derus",M,Poneglama,Student,12 Jul 1992
+605,160240341,"David, John",M,Poneglama,Student,01 Jan 1995
+606,160438316,"David, Maley",M,Poneglama,Student,10 Nov 1999
+607,25081538,"David, Warea",M,Poneglama,Student,28 Apr 1999
+608,160125796,"Elias, Alpah",M,Poneglama,Subsistence Farmer,01 Feb 1988
+609,160211265,"Eltekaile, Tirimo kupili",M,Poneglama,Subsistence Farmer,01 Jan 1981
+610,160215252,"Engenil, Lapua",M,Poneglama,Subsistence Farmer,01 Jan 1953
+611,160227597,"Epakai, Jonah",M,Poneglama,Pastor,01 Jan 1961
+612,160125774,"Gahare, David",M,Poneglama,Self Employed,19 Sep 1968
+613,160216118,"Garu, Luke",M,Poneglama,Subsistence Farmer,01 Jan 1978
+614,160232853,"Garu, Stanley nimbo",M,Poneglama,Worker,01 Jan 1968
+615,160226300,"Gini, Ampol",M,Poneglama,Dentist,01 Jan 1961
+616,160226284,"Gini, Apurel",M,Poneglama,Magistrate,01 Jan 1953
+617,160226417,"Imbi, Pundu",M,Poneglama,Subsistence Farmer,01 Jan 1976
+618,160231068,"Imbi, Tiro",M,Poneglama,Pastor,01 Jan 1960
+619,160229545,"Ipuke, David",M,Poneglama,Subsistence Farmer,01 Jan 1976
+620,160232218,"Ipuke, George",M,Poneglama,Student,01 Jan 1987
+621,160227905,"Ipuke, Kale",M,Poneglama,Student,01 Jan 1985
+622,160240342,"Ipuke, Rirme",M,Poneglama,Subsistence Farmer,01 Jan 1979
+623,160125585,"Ipuke, Ronal",M,Poneglama,Not Specified,21 Oct 1979
+624,160138035,"Iyemo, Jeffery",M,Poneglama,Subsistence Farmer,17 Feb 1999
+625,160138195,"Iyeno, Ismael",M,Poneglama,Subsistence Farmer,14 Dec 1987
+626,160233038,"Jack, Daniel",M,Poneglama,Subsistence Farmer,01 Jan 1971
+627,160438320,"Jack, Kakelye",M,Poneglama,Student,04 Apr 2003
+628,160239154,"Jairus, Misak",M,Poneglama,Student,10 Jan 1995
+629,160239155,"Jairus, Shadrack",M,Poneglama,Student,24 Sep 1994
+630,160237604,"James, Kawalo",M,Poneglama,Driver,01 Jan 1978
+631,160237606,"James, Kupili",M,Poneglama,Student,01 Jan 1990
+632,160438376,"Jeffery, Bredly",M,Poneglama,Student,05 Apr 2003
+633,160438377,"Jeffery, Meckly",M,Poneglama,Student,16 Feb 2004
+634,25081589,"Jeffery, Tua",M,Poneglama,Student,28 Apr 1982
+635,25081594,"Jeffery, Waima",M,Poneglama,Student,15 Dec 2003
+636,160438340,"Jeoffery, Aladin",M,Poneglama,Student,01 Feb 2004
+637,160224690,"Joe, Mercy",M,Poneglama,Student,01 Jan 1985
+638,25081617,"Joe, Samuel",M,Poneglama,Student,28 Apr 2004
+639,25081622,"Joe, Vendom",M,Poneglama,Student,28 Apr 1998
+640,25081630,"Joel, Jerry",M,Poneglama,Student,28 Apr 1999
+641,25081635,"Joel, Matu",M,Poneglama,Student,28 Apr 2004
+642,160125609,"John, Jeromaih",M,Poneglama,Student,20 Apr 1998
+643,160238626,"John, Piye",M,Poneglama,Student,01 Jan 1994
+644,160241200,"John, Were",M,Poneglama,Pastor,01 Jan 1969
+645,160241195,"Jona, Mali",M,Poneglama,Student,01 Jan 1993
+646,160438268,"Jopeka, Sadrick",M,Poneglama,Teacher,11 Nov 1990
+647,160240343,"Joseph, Jairus",M,Poneglama,Student,01 Jan 1990
+648,160438290,"Joshep, Tomtom",M,Poneglama,Student,28 Apr 2004
+649,160212987,"Kanobo, Monda",M,Poneglama,Subsistence Farmer,01 Jan 1961
+650,160210729,"Kanombo, Pili",M,Poneglama,Subsistence Farmer,01 Jan 1976
+651,160216114,"Kapiri, Abel",M,Poneglama,Student,01 Jan 1988
+652,160233097,"Kapiri, Cain",M,Poneglama,Doctor,01 Jan 1978
+653,160216112,"Kapiri, John",M,Poneglama,Subsistence Farmer,01 Jan 1974
+654,160233042,"Kapiri, Nema",M,Poneglama,Worker,01 Jan 1970
+655,160233096,"Kapiri, Philip",M,Poneglama,Doctor,01 Jan 1976
+656,160233029,"Kapua, Daisy",M,Poneglama,Student,01 Jan 1988
+657,160238633,"Kapua, Dick",M,Poneglama,Storeman,20 Apr 1991
+658,160233021,"Kapua, Dindin",M,Poneglama,Student,01 Jan 1990
+659,160227596,"Kapua, Emmanuel",M,Poneglama,Student,01 Jan 1980
+660,160438261,"Kawalo, Gideon",M,Poneglama,Doctor,02 Nov 1996
+661,160229515,"Kawalo, Toy",M,Poneglama,Not Specified,01 Jan 1979
+662,160229378,"Kaweiye, Kawalo",M,Poneglama,Subsistence Farmer,01 Jan 1958
+663,160217579,"Kaweiye, Pomboraiye",M,Poneglama,Subsistence Farmer,01 Jan 1937
+664,160232938,"Kaweiye, Tambu",M,Poneglama,Subsistence Farmer,01 Jan 1949
+665,160226776,"Keap, Billy",M,Poneglama,Student,01 Jan 1988
+666,160232921,"Keap, Mathew",M,Poneglama,Subsistence Farmer,01 Jan 1978
+667,160232878,"Keap, Pilimbo",M,Poneglama,Subsistence Farmer,01 Jan 1970
+668,160226414,"Keap, Rambo",M,Poneglama,Student,01 Jan 1989
+669,160232183,"Keap, Wanpis",M,Poneglama,Subsistence Farmer,01 Jan 1975
+670,160232923,"Keap, Wein",M,Poneglama,Subsistence Farmer,01 Jan 1976
+671,160241192,"Kela, Maindo",M,Poneglama,Student,02 May 1994
+672,160125620,"Kelembo, Silias",M,Poneglama,Student,20 Apr 1998
+673,160227899,"Kelly, Ambe",M,Poneglama,Public Servant,01 Jan 1954
+674,160227884,"Kelly, Francis",M,Poneglama,Student,01 Jan 1987
+675,160227902,"Kelly, Fred",M,Poneglama,Subsistence Farmer,01 Jan 1979
+676,160239120,"Kelly, Kele ono",M,Poneglama,Subsistence Farmer,01 Jan 1991
+677,160227886,"Kelly, Ojay",M,Poneglama,Student,01 Jan 1986
+678,160241023,"Kelly, Yombi",M,Poneglama,Subsistence Farmer,01 Jan 1980
+679,160438335,"Kelowa, Gibson",M,Poneglama,Student,30 Mar 2004
+680,160224035,"Kemapu, Jopa",M,Poneglama,Subsistence Farmer,01 Jan 1978
+681,160224567,"Kemapu, Thomas",M,Poneglama,Student,01 Jan 1982
+682,25081650,"Kepo, Joe",M,Poneglama,Subsistence Farmer,28 Apr 1986
+683,160229622,"Kepo, Jop",M,Poneglama,Student,01 Jan 1990
+684,25081664,"Kepo, Philimon",M,Poneglama,Student,16 Mar 2000
+685,160229523,"Kimbotil, Daniel",M,Poneglama,Student,01 Jan 1982
+686,25081681,"Kinde, Everlyn",M,Poneglama,Pastor,28 Apr 1990
+687,160250664,"Kingi, Lapua",M,Poneglama,Subsistence Farmer,01 Jan 1952
+688,160224521,"Kolopa, Saul",M,Poneglama,Subsistence Farmer,01 Jan 1979
+689,160224706,"Kolopa, Simon ondoleli",M,Poneglama,Subsistence Farmer,01 Jan 1957
+690,160232807,"Kombeke, Damu",M,Poneglama,Subsistence Farmer,01 Jan 1951
+691,160225377,"Kombeke, Yopaiye",M,Poneglama,Subsistence Farmer,01 Jan 1930
+692,25081686,"Kondi, Gledis",M,Poneglama,Student,28 Apr 2003
+693,160250647,"Kondi, Issac",M,Poneglama,Student,01 Jan 1994
+694,160250795,"Kondi, Pilimon",M,Poneglama,Student,01 Jan 1994
+695,25081690,"Kondi, Tomtom",M,Poneglama,Student,28 Apr 2004
+696,160224846,"Kondowa, Ale",M,Poneglama,Student,01 Jan 1986
+697,160224845,"Kondowa, Holi",M,Poneglama,Subsistence Farmer,01 Jan 1978
+698,160438270,"Kondowa, Jopah",M,Poneglama,Policeman,12 Dec 1991
+699,160225293,"Kondowa, Pena",M,Poneglama,Subsistence Farmer,01 Jan 1977
+700,25087162,"Koni, Mambu",M,Poneglama,Student,15 May 1999
+701,25081711,"Konopu, Berry",M,Poneglama,Student,13 Jan 1998
+702,25081723,"Konopu, Philip",M,Poneglama,Student,28 Apr 2003
+703,160227929,"Kopo, Moromo",M,Poneglama,Subsistence Farmer,01 Jan 1980
+704,160229539,"Kopo, Moti",M,Poneglama,Subsistence Farmer,01 Jan 1976
+705,160438328,"Kopu, Martin",M,Poneglama,Student,28 Apr 2004
+706,160226773,"Koyapo, Aiyele",M,Poneglama,Subsistence Farmer,01 Jan 1974
+707,160224519,"Koyapo, Kane",M,Poneglama,Subsistence Farmer,01 Jan 1979
+708,160224701,"Koyapo, Peter piyele",M,Poneglama,Subsistence Farmer,01 Jan 1972
+709,160227743,"Kuleko, Gabriel",M,Poneglama,Student,01 Jan 1989
+710,160125779,"Kuleko, Julumon",M,Poneglama,Subsistence Farmer,14 Jul 1997
+711,160227933,"Kuleko, Moa",M,Poneglama,Health Officer,01 Jan 1965
+712,160138183,"Kuleko, Moses",M,Poneglama,Not Specified,18 Feb 1993
+713,160211253,"Kuleko, Tawiya",M,Poneglama,Subsistence Farmer,01 Jan 1977
+714,160125778,"Kuleko, Timothy",M,Poneglama,Not Specified,08 Apr 1999
+715,160229360,"Kumbiye, David",M,Poneglama,Teacher,01 Jan 1983
+716,160125801,"Kuno, Chris",M,Poneglama,Self Employed,10 Sep 1978
+717,160438315,"Kuri, Jonah",M,Poneglama,Student,24 Aug 1991
+718,160438314,"Kuri, Samson",M,Poneglama,Student,24 May 1994
+719,25081754,"Langi, Esay",M,Poneglama,Student,28 Apr 2000
+720,25087164,"Langi, Jepeth",M,Poneglama,Student,28 Apr 1999
+721,160224720,"Lapa, Enoch",M,Poneglama,Student,01 Jan 1989
+722,160219100,"Lapa, Joel",M,Poneglama,Student,01 Jan 1987
+723,160211254,"Lapa, Jonathan",M,Poneglama,Student,01 Jan 1987
+724,160225279,"Lapa, Kane",M,Poneglama,Student,01 Jan 1987
+725,160215304,"Lapa, Kelembo",M,Poneglama,Subsistence Farmer,01 Jan 1968
+726,160225267,"Lapa, Yakopos",M,Poneglama,Teacher,01 Jan 1982
+727,160215253,"Lapua, Alo",M,Poneglama,Subsistence Farmer,01 Jan 1980
+728,160213520,"Lapua, Cristofer",M,Poneglama,Student,01 Jan 1990
+729,160438330,"Lapua, Jeremiah",M,Poneglama,Lawyer,19 Aug 1992
+730,160215619,"Lapua, Pero",M,Poneglama,Subsistence Farmer,01 Jan 1983
+731,160240338,"Ling, Pilimbo",M,Poneglama,Student,01 Jan 1995
+732,160232820,"Lipu, Daniel",M,Poneglama,Subsistence Farmer,01 Jan 1978
+733,160232819,"Lipu, Kumbiye",M,Poneglama,Subsistence Farmer,01 Jan 1976
+734,160233112,"Lipu, Mendel",M,Poneglama,Subsistence Farmer,01 Jan 1970
+735,160232818,"Lipu, Orum",M,Poneglama,Subsistence Farmer,01 Jan 1970
+736,160233113,"Lipu, Tenis",M,Poneglama,Subsistence Farmer,01 Jan 1974
+737,160224712,"Londolo, Kolopa",M,Poneglama,Subsistence Farmer,01 Jan 1940
+738,160229590,"Londolo, Tatamange topele",M,Poneglama,Pastor,01 Jan 1942
+739,25081770,"Lopeke, Shadrack",M,Poneglama,Student,16 Aug 2003
+740,25081775,"Lopeke, Simon",M,Poneglama,Student,28 Apr 2003
+741,25081781,"Lora, Paue",M,Poneglama,Student,28 Apr 1982
+742,160438297,"Luke, Junior",M,Poneglama,Student,11 Oct 2001
+743,160232816,"Lumbi, Apa",M,Poneglama,Student,01 Jan 1988
+744,160232814,"Lumbi, Nondopa",M,Poneglama,Evangelist,01 Jan 1966
+745,160206859,"Lumine, Gabriel",M,Poneglama,Student,01 Jan 1988
+746,160211250,"Lumine, Kambu",M,Poneglama,Subsistence Farmer,01 Jan 1951
+747,160229541,"Lumine, Luta",M,Poneglama,Welder,01 Jan 1979
+748,160232994,"Lumine, Pamenas",M,Poneglama,Student,01 Jan 1981
+749,160240713,"Maindo, Tapoli",M,Poneglama,Teacher,01 Jan 1975
+750,160215315,"Maiya, Mark",M,Poneglama,Student,01 Jan 1986
+751,160215246,"Make, Mambu",M,Poneglama,Subsistence Farmer,01 Jan 1940
+752,160216126,"Make, Warea",M,Poneglama,Subsistence Farmer,01 Jan 1948
+753,160225273,"Mala, Apa",M,Poneglama,Student,01 Jan 1982
+754,160224571,"Mala, Kambu",M,Poneglama,Subsistence Farmer,01 Jan 1985
+755,160225275,"Mala, Tonny",M,Poneglama,Subsistence Farmer,01 Jan 1974
+756,160438325,"Malakai, Opa",M,Poneglama,Houseboy,12 Mar 1962
+757,160215285,"Mali, Robert",M,Poneglama,Subsistence Farmer,01 Jan 1984
+758,160227921,"Mali, Undi",M,Poneglama,Student,01 Jan 1986
+759,160241177,"Mali, Wabiego",M,Poneglama,Subsistence Farmer,01 Jan 1980
+760,160240585,"Mali, Willy",M,Poneglama,Teacher,01 Jan 1978
+761,160215947,"Mambu, David",M,Poneglama,Subsistence Farmer,01 Jan 1983
+762,160215945,"Mambu, Dili",M,Poneglama,Subsistence Farmer,01 Jan 1978
+763,160216125,"Mambu, Joel",M,Poneglama,Subsistence Farmer,01 Jan 1988
+764,160215944,"Mambu, Kondowa",M,Poneglama,Subsistence Farmer,01 Jan 1968
+765,160215946,"Mambu, Wee",M,Poneglama,Subsistence Farmer,01 Jan 1982
+766,160125790,"Mande, Stanley",M,Poneglama,Student,07 Apr 1999
+767,25081795,"Manu, Willie",M,Poneglama,Student,28 Apr 1999
+768,160438374,"Mara, Aberthengo",M,Poneglama,Student,18 Apr 2003
+769,160232866,"Mara, Jeff kemapu",M,Poneglama,Stenographer,01 Jan 1990
+770,160224042,"Mara, Keap kumili",M,Poneglama,Driver,01 Jan 1952
+771,160224565,"Mara, Kemapu john",M,Poneglama,Carpenter,01 Jan 1950
+772,160226779,"Mara, Nema jerus",M,Poneglama,Subsistence Farmer,01 Jan 1967
+773,160226777,"Mara, Pako jerms",M,Poneglama,Subsistence Farmer,01 Jan 1959
+774,160212989,"Marowa, Paul",M,Poneglama,Student,01 Jan 1986
+775,160138060,"Matae, Ellaziah",M,Poneglama,Student,24 Dec 1996
+776,160138061,"Matae, Jessy",M,Poneglama,Student,03 Mar 1998
+777,160125578,"Matae, Nehemaiaa",M,Poneglama,Pastor,15 Jan 1960
+778,160238557,"Mathew, Gorge",M,Poneglama,Student,11 Oct 1995
+779,160238647,"Matin, Ka",M,Poneglama,Student,01 Jan 1990
+780,160438281,"Matta, Jerry",M,Poneglama,Doctor,12 Aug 1992
+781,160226310,"Mendeli, Paul",M,Poneglama,Subsistence Farmer,01 Jan 1973
+782,160226311,"Mendeli, Steven",M,Poneglama,Subsistence Farmer,01 Jan 1985
+783,160224032,"Mendepo, Mero",M,Poneglama,Subsistence Farmer,01 Jan 1979
+784,160224717,"Mendepo, Nekindi",M,Poneglama,Subsistence Farmer,01 Jan 1980
+785,160220606,"Michael, Lipu",M,Poneglama,Student,01 Jan 1983
+786,160218673,"Micheal, Waki",M,Poneglama,Student,01 Jan 1986
+787,160239133,"Mike, Paiere",M,Poneglama,Student,01 Jan 1993
+788,160252213,"Monda, Jay",M,Poneglama,Student,01 Jan 1994
+789,160252210,"Moro, Jona",M,Poneglama,Subsistence Farmer,01 Jan 1980
+790,160240729,"Moro, Midili",M,Poneglama,Student,01 Jan 1987
+791,160125803,"Moro, Mindil",M,Poneglama,Student,20 Apr 1998
+792,160138039,"Moro, Pera",M,Poneglama,Student,16 Apr 1999
+793,160252209,"Moro, Pera",M,Poneglama,Subsistence Farmer,01 Jan 1988
+794,160438278,"Morro, Faithon",M,Poneglama,Student,28 Apr 2004
+795,160438379,"Moses, Maika",M,Poneglama,Student,29 Feb 2004
+796,160438378,"Moses, Shelly",M,Poneglama,Student,01 Mar 2003
+797,160224699,"Mukiye, Mana",M,Poneglama,Student,01 Jan 1988
+798,160224585,"Mukiye, Niwi",M,Poneglama,Subsistence Farmer,01 Jan 1974
+799,160438368,"Mune, Naijol",M,Poneglama,Student,17 Mar 2003
+800,160213135,"Naduka, Waima",M,Poneglama,Subsistence Farmer,01 Jan 1934
+801,160224698,"Naka, Cetrick anjel",M,Poneglama,Student,01 Jan 1983
+802,160224710,"Naka, Peke mukiye",M,Poneglama,Subsistence Farmer,01 Jan 1949
+803,160225284,"Naka, Pora",M,Poneglama,Subsistence Farmer,01 Jan 1900
+804,160225290,"Nakanol, Moses yawaiye",M,Poneglama,Teacher,01 Jan 1969
+805,160232926,"Nakanol, Paiye",M,Poneglama,Worker,01 Jan 1970
+806,160232963,"Nakanol, Tope",M,Poneglama,Security,01 Jan 1958
+807,160224471,"Nale, Bapa",M,Poneglama,Subsistence Farmer,01 Jan 1974
+808,160224610,"Nale, Daniel",M,Poneglama,Teacher,01 Jan 1984
+809,160224470,"Nale, James",M,Poneglama,Subsistence Farmer,01 Jan 1986
+810,160215643,"Nale, Pera",M,Poneglama,Student,01 Jan 1990
+811,160227893,"Nande, Kondi",M,Poneglama,Health Officer,01 Jan 1972
+812,160213521,"Nande, Kopu",M,Poneglama,Subsistence Farmer,01 Jan 1982
+813,160215615,"Nande, Mane",M,Poneglama,Student,01 Jan 1985
+814,160207079,"Nandiye, Kanombo titus",M,Poneglama,Subsistence Farmer,01 Jan 1974
+815,160227896,"Nandiye, Mune",M,Poneglama,Self Employed,01 Jan 1978
+816,160227914,"Nandiye, Paul puputol",M,Poneglama,Self Employed,01 Jan 1959
+817,25081814,"Nelson, Nato",M,Poneglama,Student,28 Apr 2004
+818,160125608,"Nema, Daniel",M,Poneglama,Student,14 Dec 1992
+819,160125607,"Nema, Junior",M,Poneglama,Student,03 Jan 1999
+820,160233107,"Nema, Raily",M,Poneglama,Student,01 Jan 1989
+821,160438250,"Ninge, Ben",M,Poneglama,Student,06 Apr 2003
+822,160238724,"Nipile, Nakisi",M,Poneglama,Subsistence Farmer,01 Jan 1989
+823,160438367,"Niwi, Redal",M,Poneglama,Student,18 Mar 2003
+824,160229630,"Niwi, Selin",M,Poneglama,Subsistence Farmer,01 Jan 1973
+825,160233258,"Nokipa, Pilimbo",M,Poneglama,Pastor,01 Jan 1960
+826,160225257,"Nokopa, Sakias",M,Poneglama,Student,01 Jan 1990
+827,160225256,"Nokopa, Samuel",M,Poneglama,Student,01 Jan 1988
+828,160218529,"Noma, Norman",M,Poneglama,Student,01 Jan 1990
+829,160211243,"Noru, Walo",M,Poneglama,Subsistence Farmer,01 Jan 1949
+830,160224467,"One, George",M,Poneglama,Subsistence Farmer,01 Jan 1983
+831,160224472,"One, Moro",M,Poneglama,Health Officer,01 Jan 1976
+832,160125591,"Onno, Samuel",M,Poneglama,Student,10 Mar 1999
+833,160438296,"Ono, Buka",M,Poneglama,Subsistence Farmer,04 Aug 1998
+834,160217580,"Ono, Mako",M,Poneglama,Subsistence Farmer,01 Jan 1984
+835,160217663,"Ono, Nokop",M,Poneglama,Subsistence Farmer,01 Jan 1986
+836,160233027,"Opa, Elvis",M,Poneglama,Driver,01 Jan 1977
+837,160124513,"Opa, Malakai",M,Poneglama,Student,04 Feb 1998
+838,160125783,"Opa, Malakai",M,Poneglama,Student,03 Apr 1999
+839,160216124,"Opa, Robin",M,Poneglama,Student,01 Jan 1986
+840,160218684,"Opa, Rodney",M,Poneglama,Student,01 Jan 1985
+841,160225282,"Opi, Jeffrey",M,Poneglama,Subsistence Farmer,01 Jan 1983
+842,160232708,"Opu, Mike",M,Poneglama,Public Servant,01 Jan 1956
+843,160227764,"Opu, Wapu",M,Poneglama,Subsistence Farmer,01 Jan 1959
+844,160227909,"Oromo, Kelly",M,Poneglama,Salesman,01 Jan 1970
+845,160227911,"Oromo, Kevin",M,Poneglama,Store Keeper,01 Jan 1978
+846,160215640,"Pagim, Palus",M,Poneglama,Subsistence Farmer,01 Jan 1952
+847,160215230,"Paita, Erick",M,Poneglama,Subsistence Farmer,01 Jan 1988
+848,160125588,"Paita, Erick",M,Poneglama,Student,10 Apr 1999
+849,160438337,"Paita, Yano",M,Poneglama,Student,28 Apr 2004
+850,25081827,"Pako, Biden",M,Poneglama,Student,28 Apr 2004
+851,160232234,"Pako, Francis",M,Poneglama,Subsistence Farmer,01 Jan 1978
+852,160232941,"Pako, Pora",M,Poneglama,Subsistence Farmer,01 Jan 1980
+853,160238559,"Pako, Rodney",M,Poneglama,Student,12 Apr 1994
+854,160232928,"Pako, Tiye",M,Poneglama,Subsistence Farmer,01 Jan 2000
+855,160217668,"Palus, Daniel",M,Poneglama,Student,01 Jan 1987
+856,160438295,"Palus, Noa",M,Poneglama,Subsistence Farmer,06 Oct 1990
+857,160438294,"Palus, Nowl",M,Poneglama,Driver,28 Apr 1994
+858,160232019,"Palus, Steven",M,Poneglama,Student,01 Jan 1981
+859,160250654,"Paluwa, Betty",M,Poneglama,Student,01 Jan 1990
+860,160125579,"Pangim, Peter",M,Poneglama,Economist,30 Jun 1986
+861,160240719,"Pani, Jacob",M,Poneglama,Subsistence Farmer,01 Jan 1980
+862,160138038,"Patel, Daren",M,Poneglama,Not Specified,03 Mar 1999
+863,160211416,"Patel, Rex",M,Poneglama,Subsistence Farmer,01 Jan 1979
+864,160211414,"Patel, Samuel",M,Poneglama,Student,01 Jan 1976
+865,160213149,"Paue, Jeffrey",M,Poneglama,Public Servant,01 Jan 1960
+866,160438304,"Paul, Alen",M,Poneglama,Student,28 Apr 2004
+867,160438311,"Paul, Esraiel",M,Poneglama,Pastor,24 Apr 1986
+868,160438306,"Paul, Ismail",M,Poneglama,Student,11 Dec 1997
+869,160239153,"Paul, Mathew",M,Poneglama,Student,01 Jan 1995
+870,160438303,"Paul, Maxson",M,Poneglama,Student,14 Mar 2003
+871,160438302,"Paul, Nailon",M,Poneglama,Student,24 Apr 2004
+872,160438310,"Paul, Niwi",M,Poneglama,Subsistence Farmer,10 Feb 1988
+873,160438309,"Paul, Taroiye",M,Poneglama,Student,28 Apr 2004
+874,160238779,"Pea, Jona",M,Poneglama,Student,07 Apr 1995
+875,160229365,"Peku, Paul",M,Poneglama,Subsistence Farmer,01 Jan 1970
+876,160438263,"Peltem, Et",M,Poneglama,Student,12 Nov 1992
+877,160138192,"Pembo, Livai",M,Poneglama,Student,14 Apr 1998
+878,25081842,"Pena, Aton",M,Poneglama,Student,28 Apr 2000
+879,160438331,"Pero, Jordan",M,Poneglama,Student,28 Apr 2004
+880,160438332,"Pero, Wawi",M,Poneglama,Houseboy,18 Dec 1990
+881,160240345,"Peter, Mali",M,Poneglama,Student,01 Jan 1994
+882,160241182,"Peter, Were",M,Poneglama,Pastor,01 Jan 1971
+883,160209837,"Peya, Jonny",M,Poneglama,Student,01 Jan 1987
+884,160240337,"Pilimon, Pilimbo",M,Poneglama,Student,01 Jan 1995
+885,160225236,"Piliwi, Peter",M,Poneglama,Subsistence Farmer,01 Jan 1976
+886,160438260,"Piuwi, Issich",M,Poneglama,Policeman,01 Apr 2003
+887,160232336,"Poiye, Daniel",M,Poneglama,Subsistence Farmer,01 Jan 1972
+888,160232913,"Poiye, John",M,Poneglama,Subsistence Farmer,01 Jan 1976
+889,25081850,"Poki, Abetnego",M,Poneglama,Self Employed,28 Apr 1980
+890,160233257,"Pola, Rex joe",M,Poneglama,Subsistence Farmer,01 Jan 1972
+891,160511116,"Pomboea, Kepsey",M,Poneglama,Student,09 Apr 2000
+892,160215942,"Pomboraiye, Kele",M,Poneglama,Subsistence Farmer,01 Jan 1971
+893,160438300,"Pomboraiye, Ken",M,Poneglama,Driver,02 Apr 1992
+894,160215940,"Pomboraiye, Kepo",M,Poneglama,Subsistence Farmer,01 Jan 1986
+895,160438259,"Pomboraiye, Manuel",M,Poneglama,Student,04 Apr 2003
+896,160215941,"Pomboraiye, Tili",M,Poneglama,Subsistence Farmer,01 Jan 1985
+897,160218680,"Pone, Koya",M,Poneglama,Subsistence Farmer,01 Jan 1979
+898,160215938,"Pone, Takis",M,Poneglama,Subsistence Farmer,01 Jan 1964
+899,160511117,"Popu, Pea",M,Poneglama,Subsistence Farmer,10 Apr 1980
+900,160225294,"Pora, Joe topeya",M,Poneglama,Health Officer,01 Jan 1957
+901,160224580,"Pora, Kondowa",M,Poneglama,Subsistence Farmer,01 Jan 1956
+902,160250656,"Pora, Stanley",M,Poneglama,Subsistence Farmer,04 Jul 1980
+903,160224576,"Pora, Yunu",M,Poneglama,Student,01 Jan 1987
+904,160125626,"Poya, Wak",M,Poneglama,Pastor,23 May 1969
+905,160125785,"Pupu, Joesph",M,Poneglama,Subsistence Farmer,17 Dec 1958
+906,160213467,"Ramua, Mata",M,Poneglama,Subsistence Farmer,01 Jan 1960
+907,160438283,"Ramua, Matta",M,Poneglama,Driver,03 Nov 1975
+908,160240721,"Regina, Peter",M,Poneglama,Subsistence Farmer,01 Jan 1975
+909,160213524,"Ririme, Maiya",M,Poneglama,Subsistence Farmer,01 Jan 1933
+910,160213525,"Ririme, Mali",M,Poneglama,Subsistence Farmer,01 Jan 1951
+911,160215287,"Ririme, Paita",M,Poneglama,Subsistence Farmer,01 Jan 1961
+912,160213153,"Ririme, Yombi",M,Poneglama,Subsistence Farmer,01 Jan 1938
+913,160237599,"Robert, Poki",M,Poneglama,Subsistence Farmer,01 Jan 1974
+914,160229629,"Rombe, Aee",M,Poneglama,Student,01 Jan 2000
+915,160229239,"Rombe, Niwi",M,Poneglama,Subsistence Farmer,01 Jan 1976
+916,160229509,"Rombe, Pereko",M,Poneglama,Subsistence Farmer,01 Jan 1973
+917,160229521,"Rombe, Wee",M,Poneglama,Teacher,01 Jan 1969
+918,160125599,"Ruka, Tommy",M,Poneglama,Student,18 Apr 1999
+919,160125503,"Simon, Mapuna",M,Poneglama,Subsistence Farmer,10 Nov 1970
+920,160224714,"Simon, Samson",M,Poneglama,Subsistence Farmer,01 Jan 1988
+921,160438353,"Simon, Stiward",M,Poneglama,Student,18 Apr 2004
+922,160241179,"Steven, Ponege",M,Poneglama,Student,03 Jul 1994
+923,160250659,"Tainige, Tatamage",M,Poneglama,Subsistence Farmer,01 Jan 1982
+924,25087181,"Taka, Nowen",M,Poneglama,Student,28 Mar 2003
+925,160438256,"Takes, Jackson",M,Poneglama,Soldier,01 Feb 1990
+926,160218681,"Takis, Jackson",M,Poneglama,Student,01 Jan 1989
+927,160209844,"Tande, Joel",M,Poneglama,Subsistence Farmer,01 Jan 1986
+928,160238625,"Tande, Richard",M,Poneglama,Student,08 Jul 1993
+929,160125602,"Tande, Rozer",M,Poneglama,Student,16 Apr 1999
+930,160233104,"Tapol, Gibson",M,Poneglama,Teacher,01 Jan 1969
+931,160226774,"Tapol, Philip pile",M,Poneglama,Subsistence Farmer,01 Jan 1969
+932,160225291,"Tapol, Tembo",M,Poneglama,Subsistence Farmer,01 Jan 1963
+933,160125577,"Tara, Issack",M,Poneglama,Student,14 Mar 1999
+934,160226308,"Taroiye, Mendeli",M,Poneglama,Subsistence Farmer,01 Jan 1952
+935,160238728,"Taroiye, Mendeli",M,Poneglama,Student,01 Jan 1994
+936,160225370,"Taroiye, Piliwi",M,Poneglama,Subsistence Farmer,01 Jan 1956
+937,160232823,"Taroiye, Tepali",M,Poneglama,Self Employed,01 Jan 2000
+938,160229462,"Tatamange, Pona",M,Poneglama,Student,01 Jan 1980
+939,160233043,"Tekepo, Tene",M,Poneglama,Subsistence Farmer,01 Jan 1954
+940,160232870,"Temane, Andrew",M,Poneglama,Driver,01 Jan 1970
+941,25081882,"Temane, Brian",M,Poneglama,Subsistence Farmer,28 Apr 1991
+942,160438257,"Temane, Norman",M,Poneglama,Carpenter,12 Nov 1988
+943,160232767,"Temane, Pilembo",M,Poneglama,Policeman,01 Jan 1963
+944,160219101,"Temane, Pis",M,Poneglama,Subsistence Farmer,01 Jan 1981
+945,25081894,"Temane, Terry",M,Poneglama,Subsistence Farmer,28 Apr 1994
+946,160125624,"Tembo, Aisak",M,Poneglama,Subsistence Farmer,17 Feb 1999
+947,160224579,"Tembo, Amos",M,Poneglama,Student,01 Jan 1988
+948,160125622,"Tembo, Joesph",M,Poneglama,Subsistence Farmer,17 Feb 1999
+949,160125625,"Tembo, Keven",M,Poneglama,Student,12 Dec 1989
+950,160233109,"Tene, Jacob",M,Poneglama,Student,01 Jan 1987
+951,160138193,"Tero, Jackson",M,Poneglama,Student,24 Feb 1998
+952,160225270,"Tero, Jeka",M,Poneglama,Student,01 Jan 1988
+953,160238624,"Thomas, Jeff",M,Poneglama,Student,01 Oct 1994
+954,160229471,"Tilto, Anda",M,Poneglama,Student,01 Jan 1986
+955,160125780,"Tilto, Dickson",M,Poneglama,Subsistence Farmer,18 Sep 1980
+956,160229465,"Tilto, Kera",M,Poneglama,Student,01 Jan 1990
+957,160229235,"Tilto, Lepi",M,Poneglama,Public Servant,01 Jan 1952
+958,160220434,"Tilto, Ruka",M,Poneglama,Subsistence Farmer,01 Jan 1953
+959,160220438,"Tilto, Ulkeiye wesly",M,Poneglama,Subsistence Farmer,01 Jan 1969
+960,160124512,"Tim, Taitus",M,Poneglama,Student,18 Apr 1998
+961,160237573,"Tim, Taitus",M,Poneglama,Student,10 Jan 1995
+962,160249456,"Timothy, Edwin",M,Poneglama,Subsistence Farmer,01 Jan 1994
+963,160224588,"Tiwi, Poiye",M,Poneglama,Subsistence Farmer,01 Jan 1945
+964,160241193,"Tom, John",M,Poneglama,Student,01 Jan 1994
+965,160232233,"Tom, Junior",M,Poneglama,Student,01 Jan 1983
+966,160241851,"Tommy, Ruka",M,Poneglama,Student,01 Jan 1995
+967,160125618,"Tonny, Sammy",M,Poneglama,Student,10 Apr 1999
+968,160438356,"Tonringi, Steven",M,Poneglama,Subsistence Farmer,02 Apr 1986
+969,160232948,"Tope, Jonah",M,Poneglama,Student,01 Jan 1986
+970,160232804,"Tope, Nathan",M,Poneglama,Student,01 Jan 1984
+971,160232081,"Tope, Randy",M,Poneglama,Student,01 Jan 1986
+972,160212449,"Topu, Ka robert",M,Poneglama,Subsistence Farmer,01 Jan 1967
+973,160212457,"Topu, Kepo",M,Poneglama,Peace Officer,01 Jan 1958
+974,160209839,"Topu, Mark",M,Poneglama,Subsistence Farmer,01 Jan 1971
+975,160233123,"Topu, Mathew",M,Poneglama,Subsistence Farmer,01 Jan 1966
+976,160212465,"Topu, Nino",M,Poneglama,Subsistence Farmer,01 Jan 1968
+977,160212451,"Topu, Peya jack",M,Poneglama,Subsistence Farmer,01 Jan 1961
+978,160212459,"Topu, Tereno",M,Poneglama,Subsistence Farmer,01 Jan 1957
+979,160240725,"Tumbo, Nanu",M,Poneglama,Subsistence Farmer,01 Jan 1989
+980,160211415,"Tumbo, Ningi",M,Poneglama,Subsistence Farmer,01 Jan 1973
+981,160232984,"Tumbo, Pani",M,Poneglama,Painter,01 Jan 1976
+982,160229473,"Tumbo, Piye",M,Poneglama,Policeman,01 Jan 1969
+983,160209840,"Tumbo, Tande",M,Poneglama,Pastor,01 Jan 1963
+984,160225381,"Tungi, Angi",M,Poneglama,Subsistence Farmer,01 Jan 1949
+985,160224557,"Tungi, Kaipol",M,Poneglama,Subsistence Farmer,01 Jan 1980
+986,160224721,"Tungi, Peter",M,Poneglama,Subsistence Farmer,01 Jan 1978
+987,160232028,"Turi, Gari",M,Poneglama,Public Servant,01 Jan 1970
+988,160138059,"Turi, Simon",M,Poneglama,Teacher,29 Sep 1980
+989,160232707,"Turi, Tenis",M,Poneglama,Driver,01 Jan 1979
+990,160232716,"Turi, Terumu",M,Poneglama,Student,01 Jan 1981
+991,160213695,"Tuweyo, Marowa",M,Poneglama,Pastor,01 Jan 1960
+992,160211257,"Tuweyo, Nendo",M,Poneglama,Subsistence Farmer,01 Jan 1930
+993,160213698,"Tuweyo, Timu",M,Poneglama,Teacher,01 Jan 1973
+994,160220608,"Ukeiye, Andrew",M,Poneglama,Subsistence Farmer,01 Jan 1981
+995,160220609,"Ukeiye, Atta christoper",M,Poneglama,Student,01 Jan 1982
+996,160220607,"Ukeiye, Nonge",M,Poneglama,Subsistence Farmer,01 Jan 1977
+997,160229552,"Ukeiye, Pris",M,Poneglama,Worker,01 Jan 1977
+998,160213150,"Waima, Kelowa",M,Poneglama,Subsistence Farmer,01 Jan 1972
+999,160224468,"Wako, Gabriel",M,Poneglama,Student,01 Jan 1986
+1000,160225258,"Wako, Jack",M,Poneglama,Subsistence Farmer,01 Jan 1974
+1001,160138058,"Wako, Junior",M,Poneglama,Student,01 Apr 1998
+1002,160224469,"Wako, Nokopa",M,Poneglama,Subsistence Farmer,01 Jan 1964
+1003,160225254,"Wako, Simon",M,Poneglama,Student,01 Jan 1982
+1004,160125504,"Wako, Wanpis",M,Poneglama,Subsistence Farmer,21 Oct 1970
+1005,160211248,"Walo, Andi",M,Poneglama,Subsistence Farmer,01 Jan 1976
+1006,160227907,"Walo, Ningi",M,Poneglama,Self Employed,01 Jan 1974
+1007,160211249,"Walo, Windi",M,Poneglama,Subsistence Farmer,01 Jan 1977
+1008,160438344,"Waluanda, Nandex",M,Poneglama,Carpenter,11 Dec 1980
+1009,160511118,"Wambu, Wee",M,Poneglama,Subsistence Farmer,10 Apr 1979
+1010,160232016,"Wande, Ono",M,Poneglama,Subsistence Farmer,01 Jan 1950
+1011,160232996,"Wapea, Junior",M,Poneglama,Student,01 Jan 1988
+1012,160227987,"Wapea, Kimbotil",M,Poneglama,Self Employed,01 Jan 1961
+1013,160238619,"Wapea, Kumbiye",M,Poneglama,Teacher,03 Oct 1948
+1014,160229506,"Wapea, Lopeke",M,Poneglama,Subsistence Farmer,01 Jan 1950
+1015,160225263,"Wapea, Lopuwe",M,Poneglama,Subsistence Farmer,01 Jan 1958
+1016,160210608,"Wapi, Nandiye",M,Poneglama,Subsistence Farmer,01 Jan 1942
+1017,160215256,"Wapia, Michael",M,Poneglama,Subsistence Farmer,01 Jan 1981
+1018,160215612,"Wapia, Taka",M,Poneglama,Subsistence Farmer,01 Jan 1972
+1019,160215464,"Warea, Brendy",M,Poneglama,Subsistence Farmer,01 Jan 1980
+1020,25081904,"Warea, Filton",M,Poneglama,Student,28 Apr 1998
+1021,160438274,"Warea, Issich",M,Poneglama,Student,01 Feb 2003
+1022,160438276,"Waria, David",M,Poneglama,Student,11 Nov 2003
+1023,160438289,"Waringi, Britex",M,Poneglama,Student,14 Oct 1995
+1024,160213469,"Waringi, Gima",M,Poneglama,Student,01 Jan 1981
+1025,160213154,"Waringi, Immanuel",M,Poneglama,Subsistence Farmer,01 Jan 1986
+1026,25081911,"Waringi, Willie",M,Poneglama,Auditor,24 Feb 1999
+1027,160138187,"Waringi, Win",M,Poneglama,Self Employed,12 Sep 1972
+1028,25081921,"Wee, Philimon",M,Poneglama,Accountant,28 Apr 1999
+1029,160125587,"Wee, Yoni",M,Poneglama,Student,20 Apr 1999
+1030,160438343,"Weh, Asia",M,Poneglama,Student,20 Jan 2004
+1031,160438298,"Wesly, Charet",M,Poneglama,Student,04 Mar 2003
+1032,160215616,"Wiru, Yapo",M,Poneglama,Subsistence Farmer,01 Jan 1944
+1033,160224574,"Witol, Mackdonald",M,Poneglama,Student,01 Jan 1986
+1034,160229492,"Wpea, Kumbiye",M,Poneglama,Teacher,01 Jan 1951
+1035,160138189,"Yakela, Noyimbo",M,Poneglama,Subsistence Farmer,12 May 1974
+1036,160125616,"Yalibu, Alex",M,Poneglama,Not Specified,10 Jul 1971
+1037,160232203,"Yalipu, Brain",M,Poneglama,Student,01 Jan 1987
+1038,160226771,"Yalipu, Dik",M,Poneglama,Subsistence Farmer,01 Jan 1982
+1039,160232169,"Yalipu, Gimas",M,Poneglama,Subsistence Farmer,01 Jan 1979
+1040,160233030,"Yalipu, Simon",M,Poneglama,Subsistence Farmer,01 Jan 1976
+1041,160233026,"Yamba, Bapa",M,Poneglama,Worker,01 Jan 1969
+1042,160229632,"Yamba, James",M,Poneglama,Subsistence Farmer,01 Jan 1977
+1043,160224841,"Yamba, Tero",M,Poneglama,Subsistence Farmer,01 Jan 1964
+1044,160229583,"Yana, Lopeke",M,Poneglama,Self Employed,01 Jan 1963
+1045,160215622,"Yana, Nande",M,Poneglama,Subsistence Farmer,01 Jan 1938
+1046,160125593,"Yapo, Wanpis",M,Poneglama,Student,10 Apr 1999
+1047,160216119,"Yombi, David",M,Poneglama,Self Employed,01 Jan 1972
+1048,160438275,"Yombi, Manu",M,Poneglama,Driver,06 Jun 1992
+1049,160232032,"Yombi, Mek",M,Poneglama,Student,01 Jan 1987
+1050,160233019,"Yombi, Robert",M,Poneglama,Subsistence Farmer,01 Jan 1976
+1051,160219098,"Yombi, Timothy",M,Poneglama,Subsistence Farmer,01 Jan 1975
+1052,160233251,"Yopaiye, Dopo",M,Poneglama,Worker,01 Jan 2000
+1053,160224462,"Yopaiye, Kiap",M,Poneglama,Subsistence Farmer,01 Jan 1988
+1054,160227593,"Yopaiye, Lopeke",M,Poneglama,Subsistence Farmer,01 Jan 1969
+1055,160225250,"Yopaiye, Temo",M,Poneglama,Subsistence Farmer,01 Jan 1983
+1056,160225246,"Yopaiye, Tukundo",M,Poneglama,Subsistence Farmer,01 Jan 1989
+1057,160212983,"Yopaiye, Wama",M,Poneglama,Subsistence Farmer,01 Jan 1989

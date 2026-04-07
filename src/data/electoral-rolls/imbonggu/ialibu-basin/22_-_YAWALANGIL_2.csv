@@ -1,0 +1,565 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160147017,"Abel, Cathy",F,Yawalangil 2,Household Duties,01 Jan 2000
+2,160142688,"Aiya, Punde",F,Yawalangil 2,Household Duties,01 Jan 1942
+3,160148162,"Aiyele, Irimadi",F,Yawalangil 2,Household Duties,01 Jan 1958
+4,160148163,"Aiyele, Jullie",F,Yawalangil 2,Household Duties,01 Jan 1988
+5,160142669,"Aiyele, Pilembo",F,Yawalangil 2,Household Duties,01 Jan 1966
+6,160441109,"Aiyelupe, Joyce",F,Yawalangil 2,Student,07 Mar 2002
+7,160147027,"Akel, Albina",F,Yawalangil 2,Student,01 Jan 1988
+8,160146857,"Akel, Jennet",F,Yawalangil 2,Student,01 Jan 1988
+9,160147003,"Akel, Margret",F,Yawalangil 2,Household Duties,01 Jan 1957
+10,160146856,"Akel, Ronda",F,Yawalangil 2,Household Duties,01 Jan 1968
+11,160142681,"Alfred, Betty",F,Yawalangil 2,Household Duties,01 Jan 1978
+12,160441002,"Alfred, Jenny",F,Yawalangil 2,Student,16 Sep 2003
+13,160142682,"Alfred, Lyin",F,Yawalangil 2,Household Duties,01 Jan 1990
+14,160146712,"Alupase, Ruth",F,Yawalangil 2,Houseboy,01 Jan 1990
+15,160148490,"Alupase, Wete",F,Yawalangil 2,Household Duties,01 Jan 1956
+16,160146902,"Ambusoti lipu, Jenifa",F,Yawalangil 2,Household Duties,01 Jan 1977
+17,160440974,"Andrew, Centrah",F,Yawalangil 2,Household Duties,19 Jul 2001
+18,160151701,"Angawai, Kukembo",F,Yawalangil 2,Household Duties,01 Jan 1958
+19,25084400,"Anio, Desia",F,Yawalangil 2,Subsistence Farmer,04 Aug 1974
+20,160146745,"Apuale, Mapune",F,Yawalangil 2,Subsistence Farmer,01 Jan 1974
+21,160143779,"Aruru, Maiyambo",F,Yawalangil 2,Household Duties,01 Jan 1967
+22,160142009,"Aruru, Tenis",F,Yawalangil 2,Student,01 Jan 1990
+23,160143694,"Asiki, Mari",F,Yawalangil 2,Household Duties,01 Jan 1973
+24,160440998,"Beneth, Siyana",F,Yawalangil 2,Student,15 Jan 2004
+25,160441077,"Benjamin, Benzida",F,Yawalangil 2,Student,06 Jul 2003
+26,160138469,"Benjamin, Grace",F,Yawalangil 2,Student,04 May 1993
+27,160138471,"Benjamin, Oliv",F,Yawalangil 2,Student,26 Sep 1995
+28,160153067,"Bepi, Monica",F,Yawalangil 2,Household Duties,01 Jan 1970
+29,160142024,"Bernard, Mirriam",F,Yawalangil 2,Household Duties,01 Jan 1975
+30,160440923,"Billy, Monica",F,Yawalangil 2,Household Duties,04 May 1988
+31,160440934,"Bilson, Arin",F,Yawalangil 2,Teacher,02 Aug 1989
+32,160146719,"Charles, Josephine",F,Yawalangil 2,Household Duties,01 Jan 1975
+33,160440982,"Damien, Lucy",F,Yawalangil 2,Household Duties,09 Oct 1992
+34,160141908,"Daniel, Henny",F,Yawalangil 2,Household Duties,01 Jan 1978
+35,160148496,"Depos, Kanombo",F,Yawalangil 2,Household Duties,01 Jan 1972
+36,160146717,"Depos, Peke",F,Yawalangil 2,Household Duties,01 Jan 1977
+37,160121901,"Docketa, Esta",F,Yawalangil 2,Sales Women,01 Jan 1996
+38,160146753,"Dossy, Bethy",F,Yawalangil 2,Household Duties,01 Jan 1981
+39,160121997,"Erick, Erina",F,Yawalangil 2,Student,29 Dec 1995
+40,160121998,"Erick, Esther",F,Yawalangil 2,Student,16 Jul 1997
+41,160153596,"Erick, Nancy",F,Yawalangil 2,Household Duties,01 Jan 1971
+42,160441006,"Erri, Julie",F,Yawalangil 2,Household Duties,11 Sep 1993
+43,160138343,"Felix, Lucy",F,Yawalangil 2,Household Duties,16 Jun 1990
+44,160142457,"Felix, Monica",F,Yawalangil 2,Subsistence Farmer,01 Jan 1969
+45,160440897,"Felix, Sera",F,Yawalangil 2,Student,14 Dec 1997
+46,160138337,"Felix, Serah",F,Yawalangil 2,Sales Women,26 Feb 1997
+47,160153755,"Haiele, Janny",F,Yawalangil 2,Student,10 Dec 1980
+48,160153201,"Hallen, Joicypin",F,Yawalangil 2,Household Duties,01 Jan 1978
+49,160142540,"Ian, Agnes",F,Yawalangil 2,Household Duties,01 Jan 1971
+50,160142607,"Ian, Lia",F,Yawalangil 2,Student,01 Jan 1987
+51,160153326,"Iki, Sera",F,Yawalangil 2,Household Duties,01 Jan 1978
+52,160148172,"Iki, Tinna",F,Yawalangil 2,Household Duties,01 Jan 1965
+53,160146530,"Iki, Urembo",F,Yawalangil 2,Household Duties,01 Jan 1951
+54,160148166,"Iso, Lakina",F,Yawalangil 2,Household Duties,01 Jan 1978
+55,160122051,"Iso, Regina",F,Yawalangil 2,Household Duties,01 Jan 1994
+56,160441082,"Iso, Salomi",F,Yawalangil 2,Student,03 Sep 2001
+57,160440927,"Iso, Stepenny",F,Yawalangil 2,Student,23 Aug 2001
+58,160121994,"Iso, Steveny",F,Yawalangil 2,Student,09 Feb 1994
+59,160142533,"Issac, Lucy",F,Yawalangil 2,Household Duties,01 Jan 1984
+60,160142606,"Jack, Helly",F,Yawalangil 2,Household Duties,01 Jan 1976
+61,160440994,"Jack, Sharedian",F,Yawalangil 2,Student,15 Nov 2002
+62,160440958,"Jackey, Liah",F,Yawalangil 2,Household Duties,27 Sep 1992
+63,160142701,"Jacob, Elly",F,Yawalangil 2,Accountant,01 Jan 1964
+64,160143762,"James, Giam",F,Yawalangil 2,Student,01 Jan 1989
+65,160122001,"James, Sharon",F,Yawalangil 2,Household Duties,19 Jun 1990
+66,160440987,"Jeffery, Cinthia",F,Yawalangil 2,Student,05 Mar 2001
+67,160440984,"Jeffery, Kay",F,Yawalangil 2,Teacher,02 Sep 1992
+68,160440990,"Jim, Jacinta",F,Yawalangil 2,Subsistence Farmer,15 Jul 1995
+69,160148573,"Jim, Monica",F,Yawalangil 2,Household Duties,30 Jun 1985
+70,160121797,"Joe, Betty",F,Yawalangil 2,Subsistence Farmer,01 Jan 1989
+71,160142711,"John, Joycelyn",F,Yawalangil 2,Household Duties,01 Jan 1981
+72,160121981,"John, Melinda",F,Yawalangil 2,Household Duties,01 Jan 1996
+73,160153595,"Jona, Joslyn",F,Yawalangil 2,Student,01 Jan 1990
+74,160148457,"Jona, Mirriam",F,Yawalangil 2,Household Duties,01 Jan 1974
+75,160441044,"Jonathen, Miriham",F,Yawalangil 2,Student,09 Nov 2002
+76,160122000,"Jonnah, Ruth",F,Yawalangil 2,Student,06 Nov 1994
+77,160153060,"Kaltie, Hari",F,Yawalangil 2,Household Duties,01 Jan 1977
+78,160148538,"Kapale, Lin",F,Yawalangil 2,Student,11 Dec 1988
+79,160153757,"Kapale, Lombil",F,Yawalangil 2,Subsistence Farmer,10 Dec 1966
+80,160142662,"Keleli, Helen",F,Yawalangil 2,Teacher,01 Jan 1986
+81,160142112,"Keleli, Julian",F,Yawalangil 2,Household Duties,01 Jan 1957
+82,160142686,"Kelly, Delcy",F,Yawalangil 2,Student,01 Jan 1990
+83,160142029,"Kelly, Jenny",F,Yawalangil 2,Household Duties,01 Jan 1968
+84,160138336,"Kenneth, Anita",F,Yawalangil 2,Sales Women,15 Jun 1997
+85,160148487,"Kera, Norin",F,Yawalangil 2,Household Duties,01 Jan 1967
+86,160143796,"Kewa, Monica",F,Yawalangil 2,Household Duties,01 Jan 1969
+87,160143775,"Keyapo, Kuri",F,Yawalangil 2,Household Duties,01 Jan 1956
+88,160142698,"Kiluwe, Anni",F,Yawalangil 2,Household Duties,01 Jan 1971
+89,160142697,"Kiluwe, Martha",F,Yawalangil 2,Household Duties,01 Jan 1938
+90,160142525,"Kiluwe, Noime",F,Yawalangil 2,Household Duties,01 Jan 1958
+91,160142689,"Kiluwe, Serah",F,Yawalangil 2,Household Duties,01 Jan 1969
+92,160146226,"Kingi, Mirriam",F,Yawalangil 2,Household Duties,01 Jan 1987
+93,160142021,"Kombil, Jannifa",F,Yawalangil 2,Household Duties,01 Jan 1979
+94,160153232,"Kombil, Judy",F,Yawalangil 2,Household Duties,01 Jan 1971
+95,160146850,"Kombil, Lescy",F,Yawalangil 2,Student,01 Jan 1990
+96,160153234,"Kombil, Lilly",F,Yawalangil 2,Student,01 Jan 1989
+97,160440952,"Kombil, Moli",F,Yawalangil 2,Household Duties,01 Mar 1990
+98,160153233,"Kombil, Rose",F,Yawalangil 2,Student,01 Jan 1987
+99,160153338,"Kondoa, Kite",F,Yawalangil 2,Household Duties,01 Jan 1963
+100,160153340,"Kondoa, Lina",F,Yawalangil 2,Subsistence Farmer,01 Jan 1989
+101,160142349,"Kope, Alirapu",F,Yawalangil 2,Household Duties,01 Jan 1936
+102,160121983,"Koyapo, Lana",F,Yawalangil 2,Household Duties,20 Jul 1990
+103,160148722,"Koyapo, Linda",F,Yawalangil 2,Student,01 Jan 1990
+104,160153327,"Koyapo, Wendo",F,Yawalangil 2,Household Duties,01 Jan 1966
+105,160142702,"Kulino, Turi",F,Yawalangil 2,Household Duties,01 Jan 1956
+106,160153238,"Kuno, Akenambo",F,Yawalangil 2,Household Duties,01 Jan 1941
+107,160440901,"Kuno, Georgina",F,Yawalangil 2,Student,03 Jul 2000
+108,160440909,"Kuno, Marlin",F,Yawalangil 2,Household Duties,07 Nov 1980
+109,160142094,"Kuno, Terum",F,Yawalangil 2,Household Duties,01 Jan 1944
+110,160440896,"Kuno, Winnie",F,Yawalangil 2,Household Duties,07 Jul 1987
+111,160151702,"Lepi, Berry",F,Yawalangil 2,Household Duties,01 Jan 1976
+112,160146555,"Lepi, Jennifer",F,Yawalangil 2,Student,01 Jan 1990
+113,160146755,"Lepi, Jenny",F,Yawalangil 2,Student,01 Jan 1987
+114,160138345,"Lombil, Molly",F,Yawalangil 2,Student,14 Jun 1996
+115,160122008,"Lombil, Quida",F,Yawalangil 2,Student,24 Jan 1995
+116,160146551,"Mambo, Emba",F,Yawalangil 2,Household Duties,01 Jan 1947
+117,160147005,"Mara, Margret",F,Yawalangil 2,Household Duties,01 Jan 1977
+118,160148506,"Mark, Jenny",F,Yawalangil 2,Subsistence Farmer,01 Jan 1974
+119,160142672,"Marowa, Kayaku",F,Yawalangil 2,Household Duties,01 Jan 1959
+120,160143787,"Marowa, Sarah",F,Yawalangil 2,Student,01 Jan 1988
+121,160142028,"Meiye, Hellen",F,Yawalangil 2,Student,01 Jan 1990
+122,160142027,"Meiye, Mari",F,Yawalangil 2,Household Duties,01 Jan 1970
+123,160148721,"Mek, Cathy",F,Yawalangil 2,Household Duties,01 Jan 1977
+124,160146191,"Mek, Nipaambo",F,Yawalangil 2,Subsistence Farmer,01 Jan 2000
+125,160440938,"Mek, Wicky",F,Yawalangil 2,Household Duties,25 Sep 1987
+126,160143801,"Mendeli, Bepi",F,Yawalangil 2,Household Duties,01 Jan 1959
+127,160142703,"Mendepo, Betty",F,Yawalangil 2,Household Duties,01 Jan 1982
+128,160146528,"Michael, Joyce",F,Yawalangil 2,Household Duties,01 Jan 1966
+129,160148168,"Moke, Rubame",F,Yawalangil 2,Subsistence Farmer,01 Jan 1955
+130,160146868,"Monda, Mada",F,Yawalangil 2,Household Duties,01 Jan 1951
+131,160142105,"Monda, Telly",F,Yawalangil 2,Household Duties,01 Jan 1962
+132,160147024,"Moses, Alice",F,Yawalangil 2,Student,01 Jan 1990
+133,160440954,"Moses, Damila",F,Yawalangil 2,Student,23 Jul 2001
+134,160147023,"Moses, Linet",F,Yawalangil 2,Student,01 Jan 1988
+135,160148568,"Moses, Melinda",F,Yawalangil 2,Subsistence Farmer,16 May 1972
+136,160146853,"Moses, Tepa",F,Yawalangil 2,Household Duties,01 Jan 1974
+137,160148556,"Moses, Wendy",F,Yawalangil 2,Student,01 Jan 1987
+138,160142108,"Mulei, Kaka",F,Yawalangil 2,Household Duties,01 Jan 1969
+139,160142535,"Namba, Magalinda",F,Yawalangil 2,Household Duties,01 Jan 1987
+140,160142604,"Namba, Pipa",F,Yawalangil 2,Household Duties,01 Jan 1962
+141,160153241,"Nanape, Poya",F,Yawalangil 2,Household Duties,01 Jan 1944
+142,160148324,"Nandie, Wari",F,Yawalangil 2,Household Duties,01 Jan 1970
+143,160440916,"Nandiye, Centra",F,Yawalangil 2,Student,07 Apr 2004
+144,160141941,"Nandiye, Gaie",F,Yawalangil 2,Household Duties,01 Jan 1968
+145,160146532,"Nandiye, Susan",F,Yawalangil 2,Household Duties,01 Jan 1989
+146,160153392,"Nano, Kolakulu",F,Yawalangil 2,Household Duties,01 Jan 1974
+147,160146863,"Nano, Lorina",F,Yawalangil 2,Student,01 Jan 1989
+148,160148723,"Nano, Regina",F,Yawalangil 2,Student,01 Jan 1990
+149,160148724,"Nano, Ruth",F,Yawalangil 2,Household Duties,01 Jan 1975
+150,25084450,"Neckcy, Ruth",F,Yawalangil 2,Subsistence Farmer,13 Sep 1999
+151,160146533,"Nendiye, Secilia",F,Yawalangil 2,Household Duties,01 Jan 1989
+152,160147011,"Nendo, Lilly",F,Yawalangil 2,Household Duties,01 Jan 1970
+153,160153335,"Nendo, Veny",F,Yawalangil 2,Student,01 Jan 1990
+154,160148495,"Nepe, Nigi",F,Yawalangil 2,Household Duties,01 Jan 1959
+155,160146893,"Nick, Elis",F,Yawalangil 2,Household Duties,01 Jan 1978
+156,160141910,"Niye, Anna",F,Yawalangil 2,Nurse,01 Jan 1969
+157,160143785,"Niye, Baliwa",F,Yawalangil 2,Student,01 Jan 1986
+158,160142691,"Niye, Kaiembo",F,Yawalangil 2,Household Duties,01 Jan 1958
+159,160142692,"Niye, Rota",F,Yawalangil 2,Student,01 Jan 1979
+160,160142693,"Niye, Toy",F,Yawalangil 2,Student,01 Jan 1988
+161,160440892,"Norbet, Lavina",F,Yawalangil 2,Household Duties,07 Sep 2001
+162,160440890,"Norbet, Livina",F,Yawalangil 2,Household Duties,07 Feb 2003
+163,160143791,"Okim, Docas",F,Yawalangil 2,Household Duties,01 Jan 1989
+164,160142678,"Okim, Jacobeth",F,Yawalangil 2,Household Duties,01 Jan 1979
+165,160142022,"Okim, Kola",F,Yawalangil 2,Household Duties,01 Jan 1954
+166,160142023,"Okim, Wapola",F,Yawalangil 2,Household Duties,01 Jan 1958
+167,160142671,"Omi, Monica",F,Yawalangil 2,Household Duties,01 Jan 1988
+168,160143783,"Omi, Wambiye",F,Yawalangil 2,Household Duties,01 Jan 1960
+169,160146916,"Oni, Mama",F,Yawalangil 2,Subsistence Farmer,01 Jan 1934
+170,160147021,"Opa, Nancy",F,Yawalangil 2,Subsistence Farmer,01 Jan 1987
+171,160440978,"Opa, Naomi",F,Yawalangil 2,Student,28 Apr 2004
+172,160143747,"Papu, Epame",F,Yawalangil 2,Household Duties,01 Jan 1980
+173,160153242,"Pareka, Kepeyame",F,Yawalangil 2,Household Duties,01 Jan 1974
+174,160142713,"Paul, Betty",F,Yawalangil 2,Household Duties,01 Jan 1962
+175,160146848,"Paul, Betty",F,Yawalangil 2,Household Duties,01 Jan 1963
+176,160121977,"Pembo, Hellen",F,Yawalangil 2,Student,01 Jan 1993
+177,160146865,"Pepena, Tagondo",F,Yawalangil 2,Household Duties,01 Jan 1976
+178,160142117,"Pera, Magret",F,Yawalangil 2,Household Duties,01 Jan 1969
+179,160146658,"Peter, Jannet",F,Yawalangil 2,Subsistence Farmer,01 Jan 1977
+180,160146187,"Peter, Kewale",F,Yawalangil 2,Subsistence Farmer,01 Jan 2000
+181,160153073,"Peter, Napiye",F,Yawalangil 2,Household Duties,01 Jan 1971
+182,160143774,"Peyo, Andi",F,Yawalangil 2,Household Duties,01 Jan 1988
+183,160153593,"Peyo, Kulino",F,Yawalangil 2,Household Duties,01 Jan 1971
+184,160142118,"Peyo, Mundi",F,Yawalangil 2,Household Duties,01 Jan 1977
+185,160142663,"Philip, Christina",F,Yawalangil 2,Teacher,01 Jan 1979
+186,160146710,"Pora, Mapeyalu",F,Yawalangil 2,Household Duties,01 Jan 1956
+187,160121991,"Rasty, Joina",F,Yawalangil 2,Sales Women,04 Jul 1997
+188,160440924,"Robert, Anna",F,Yawalangil 2,Household Duties,07 Jan 1993
+189,160146534,"Saki, Rachael",F,Yawalangil 2,Household Duties,01 Jan 1982
+190,160146610,"Samuel, Richics",F,Yawalangil 2,Student,01 Jan 2000
+191,160153539,"Simon, Belinda",F,Yawalangil 2,Household Duties,27 Apr 1983
+192,160142106,"Simon, Evelyn",F,Yawalangil 2,Student,01 Jan 1990
+193,160143753,"Siyepai, Irimane",F,Yawalangil 2,Household Duties,01 Jan 1941
+194,160440913,"Smith, Annitah",F,Yawalangil 2,Household Duties,07 Aug 1989
+195,160441069,"Solomon, Shreley",F,Yawalangil 2,Nurse,03 Jan 1999
+196,160153229,"Solomon, Watepo",F,Yawalangil 2,Household Duties,01 Jan 1971
+197,160142696,"Stanley, Hellen",F,Yawalangil 2,Household Duties,01 Jan 1987
+198,160441136,"Stanley, Shelma",F,Yawalangil 2,Household Duties,17 May 1991
+199,160143803,"Steven, Linna",F,Yawalangil 2,Household Duties,01 Jan 1971
+200,160146531,"Suwawe, Kite",F,Yawalangil 2,Household Duties,01 Jan 1956
+201,160153752,"Taina, Ange",F,Yawalangil 2,Subsistence Farmer,11 Oct 1950
+202,160153753,"Taina, Betty",F,Yawalangil 2,Student,13 Jun 1982
+203,160141903,"Tapu, Betty",F,Yawalangil 2,Household Duties,01 Jan 1985
+204,160142532,"Tapu, Jennet",F,Yawalangil 2,Household Duties,01 Jan 1976
+205,160141902,"Tapu, Yuwini",F,Yawalangil 2,Household Duties,01 Jan 1965
+206,160146557,"Temen, Angnes",F,Yawalangil 2,Household Duties,01 Jan 1977
+207,160153328,"Tendy, Lame",F,Yawalangil 2,Household Duties,01 Jan 1966
+208,160148323,"Tendy, Linnet",F,Yawalangil 2,Household Duties,01 Jan 1988
+209,160142110,"Tene, Carolyn",F,Yawalangil 2,Household Duties,01 Jan 1987
+210,160146870,"Tene, Munene",F,Yawalangil 2,Household Duties,01 Jan 1967
+211,160146750,"Tennis, Helen",F,Yawalangil 2,Student,01 Jan 1981
+212,160153243,"Teringi, Maria",F,Yawalangil 2,Household Duties,01 Jan 1966
+213,160153390,"Teringi, Nala",F,Yawalangil 2,Student,01 Jan 1987
+214,160147009,"Teringi, Rachael",F,Yawalangil 2,Student,01 Jan 1988
+215,160141893,"Thomas, Akiri",F,Yawalangil 2,Household Duties,01 Jan 1961
+216,160148319,"Thomas, Dokas",F,Yawalangil 2,Household Duties,01 Jan 1976
+217,160151696,"Timothy, Yapi",F,Yawalangil 2,Household Duties,01 Jan 1967
+218,160141899,"Toiye, Bepi",F,Yawalangil 2,Household Duties,01 Jan 1970
+219,160441024,"Toiye, Boni",F,Yawalangil 2,Household Duties,17 Sep 1993
+220,160142527,"Toiye, Lenny",F,Yawalangil 2,Student,01 Jan 1988
+221,160440960,"Toiye, Soti",F,Yawalangil 2,Household Duties,27 Mar 1990
+222,160441029,"Tom, Sera",F,Yawalangil 2,Teacher,11 Sep 1998
+223,160138341,"Tom, Siye",F,Yawalangil 2,Student,20 Dec 1994
+224,160143699,"Tom, Wareame",F,Yawalangil 2,Household Duties,01 Jan 1974
+225,160147015,"Tope, Polina",F,Yawalangil 2,Household Duties,01 Jan 1985
+226,160440887,"Topias, Cecelia",F,Yawalangil 2,Household Duties,08 Apr 1983
+227,160146913,"Toringi, Kanbeno",F,Yawalangil 2,Subsistence Farmer,01 Jan 1939
+228,160148327,"Tugula nendo, Mellin",F,Yawalangil 2,Household Duties,01 Jan 1970
+229,160141897,"Turi, Bellinda",F,Yawalangil 2,Household Duties,01 Jan 1976
+230,160146859,"Turi, Elma",F,Yawalangil 2,Student,01 Jan 2000
+231,160142526,"Turi, Flora",F,Yawalangil 2,Household Duties,01 Jan 1983
+232,160138470,"Turi, Jennevi",F,Yawalangil 2,Student,03 Jul 1996
+233,160138335,"Turi, Jenny",F,Yawalangil 2,Worker,26 Sep 1969
+234,160153240,"Turi, Kupini",F,Yawalangil 2,Household Duties,01 Jan 1974
+235,160148725,"Unde, Lari",F,Yawalangil 2,Household Duties,01 Jan 1966
+236,160141904,"Wambo, Kondol",F,Yawalangil 2,Household Duties,01 Jan 1953
+237,160151698,"Wambo, Opambo",F,Yawalangil 2,Household Duties,01 Jan 1966
+238,160141909,"Wambo, Sindia",F,Yawalangil 2,Student,01 Jan 1988
+239,160146901,"Wandi, Cathrin",F,Yawalangil 2,Household Duties,01 Jan 1975
+240,160142530,"Wanpis, Bepi",F,Yawalangil 2,Household Duties,01 Jan 1970
+241,160146507,"Wanpis, Kaupena",F,Yawalangil 2,Subsistence Farmer,01 Jan 1972
+242,160146752,"Warea, Kaworu",F,Yawalangil 2,Subsistence Farmer,01 Jan 1941
+243,160148493,"Warea, Mundi",F,Yawalangil 2,Household Duties,01 Jan 1967
+244,160146716,"Warea, Tolly",F,Yawalangil 2,Household Duties,01 Jan 1980
+245,160146854,"Wasimali, Lopambo",F,Yawalangil 2,Subsistence Farmer,01 Jan 1971
+246,160153237,"Wasimali, Quin",F,Yawalangil 2,Subsistence Farmer,01 Jan 1987
+247,160142677,"Wasmali, Eli",F,Yawalangil 2,Student,01 Jan 1970
+248,160142013,"Willie, Rose",F,Yawalangil 2,Household Duties,01 Jan 1974
+249,160440915,"Wilson, Nelly",F,Yawalangil 2,Nurse,07 Dec 1995
+250,160153597,"Wiru, Loweme",F,Yawalangil 2,Household Duties,01 Jan 1976
+251,160146751,"Yakili, Meleni",F,Yawalangil 2,Student,01 Jan 1967
+252,160146714,"Yakili, Rachael",F,Yawalangil 2,Household Duties,01 Jan 1967
+253,160146200,"Yala, Kukango",F,Yawalangil 2,Subsistence Farmer,01 Jan 1978
+254,160151694,"Yala, Roselyn",F,Yawalangil 2,Household Duties,01 Jan 1977
+255,160122010,"Yama, Pricilla",F,Yawalangil 2,Teacher,11 Feb 1985
+256,160440921,"Yando, Heccy",F,Yawalangil 2,Household Duties,07 Aug 1981
+257,160148326,"Yando, Kombokadi",F,Yawalangil 2,Household Duties,01 Jan 1974
+258,160146896,"Yapo, Mali",F,Yawalangil 2,Household Duties,01 Jan 1946
+259,160142098,"Yawi, Leame",F,Yawalangil 2,Household Duties,01 Jan 1967
+260,160155745,"Yawi, Margeret",F,Yawalangil 2,Subsistence Farmer,16 Sep 1984
+261,160143793,"Yaya, Miriam",F,Yawalangil 2,Household Duties,01 Jan 1982
+262,160143749,"Yaya, Waru",F,Yawalangil 2,Household Duties,01 Jan 1942
+263,160141894,"Yoke, Cathy",F,Yawalangil 2,Household Duties,01 Jan 1978
+264,160153227,"Yoke, Cathy",F,Yawalangil 2,Subsistence Farmer,01 Jan 1984
+265,160153226,"Yoke, Mete",F,Yawalangil 2,Household Duties,01 Jan 1968
+266,160142699,"Yoke, Norin",F,Yawalangil 2,Household Duties,01 Jan 1975
+267,160148331,"Yoke, Reino",F,Yawalangil 2,Household Duties,01 Jan 1977
+268,160143798,"Yoko, Laki",F,Yawalangil 2,Student,01 Jan 1982
+269,160143591,"Yungo, Giame",F,Yawalangil 2,Household Duties,01 Jan 1969
+270,160146866,"Yunumi, Esther",F,Yawalangil 2,Household Duties,01 Jan 1948
+271,160143693,"Yunungo, Gelly",F,Yawalangil 2,Student,01 Jan 1990
+272,160142687,"Aiye, Ken",M,Yawalangil 2,Pastor,01 Jan 1971
+273,160153334,"Aiyele, Iso",M,Yawalangil 2,Subsistence Farmer,01 Jan 1976
+274,160147010,"Aiyele, Nendo",M,Yawalangil 2,Teacher,01 Jan 1967
+275,160153333,"Aiyele, Teke",M,Yawalangil 2,Student,01 Jan 1985
+276,160148325,"Aiyele, Yando",M,Yawalangil 2,Subsistence Farmer,01 Jan 1964
+277,160441004,"Alfred, Jerommy",M,Yawalangil 2,Student,11 Nov 2003
+278,160146758,"Alo, Teringi",M,Yawalangil 2,Subsistence Farmer,01 Jan 1979
+279,160148491,"Alupase, Nasimbo",M,Yawalangil 2,Mechanic,01 Jan 1973
+280,160146749,"Alupase, Tenis",M,Yawalangil 2,Subsistence Farmer,01 Jan 1979
+281,160142350,"Anda, Suwawe",M,Yawalangil 2,Subsistence Farmer,01 Jan 1945
+282,160146743,"Andoie, Mark",M,Yawalangil 2,Business man,01 Jan 1957
+283,160122009,"Andoiye, Tepede",M,Yawalangil 2,Worker,16 Jul 1975
+284,160146923,"Andoye, Samuel",M,Yawalangil 2,Worker,01 Jan 1957
+285,160148453,"Angawai, Lepi",M,Yawalangil 2,Pastor,01 Jan 1964
+286,160146562,"Anjo, John",M,Yawalangil 2,Subsistence Farmer,01 Jan 1990
+287,160142011,"Anjo, Kama",M,Yawalangil 2,Subsistence Farmer,01 Jan 1988
+288,160146383,"Anjo, Liva",M,Yawalangil 2,Subsistence Farmer,01 Jan 2000
+289,160142667,"Anjo, Onde",M,Yawalangil 2,Subsistence Farmer,01 Jan 1987
+290,160143778,"Aruru, Nengi",M,Yawalangil 2,Subsistence Farmer,01 Jan 1979
+291,160122056,"Benjamin, Dackless",M,Yawalangil 2,Sales Women,23 Feb 1991
+292,160121845,"Benjamin, Fred",M,Yawalangil 2,Student,07 Dec 1996
+293,160146900,"Bepi, Demen",M,Yawalangil 2,Student,01 Jan 1987
+294,160153197,"Bepi, Jeffery",M,Yawalangil 2,Student,01 Jan 1990
+295,160440899,"David, Rowel",M,Yawalangil 2,Student,27 Aug 2001
+296,160147007,"David, Samuel",M,Yawalangil 2,Student,01 Jan 1950
+297,160148452,"Dupia, Hone",M,Yawalangil 2,Subsistence Farmer,01 Jan 1956
+298,160143789,"Era, Okim",M,Yawalangil 2,Subsistence Farmer,01 Jan 1948
+299,160138340,"Erick, Ezrah",M,Yawalangil 2,Student,03 Nov 1992
+300,160146609,"Felix, Jeffery",M,Yawalangil 2,Student,01 Jan 1989
+301,160440992,"Felix, Jim",M,Yawalangil 2,Subsistence Farmer,29 Sep 1989
+302,160139988,"Glipu, Michael",M,Yawalangil 2,Accountant,26 Mar 1965
+303,160146711,"Guli, Alupase",M,Yawalangil 2,Subsistence Farmer,01 Jan 1948
+304,160148320,"Iki, Mek",M,Yawalangil 2,Subsistence Farmer,01 Jan 1973
+305,160148173,"Iki, Thomas",M,Yawalangil 2,Worker,01 Jan 1971
+306,160142107,"Ilo, Noloi",M,Yawalangil 2,Subsistence Farmer,01 Jan 1946
+307,160440925,"Iso, Dopi",M,Yawalangil 2,Student,10 Oct 2002
+308,160121993,"Iso, Jerry",M,Yawalangil 2,Student,26 Sep 1992
+309,160121992,"Iso, Junior",M,Yawalangil 2,Student,13 Apr 1990
+310,160440963,"Issac, Mepis",M,Yawalangil 2,Farm worker,29 Nov 1994
+311,160121844,"Jacob, Elizah",M,Yawalangil 2,Student,26 Mar 1995
+312,160440906,"Jacob, Elizer",M,Yawalangil 2,Student,07 Jan 2002
+313,160440903,"Jacob, Ezekel",M,Yawalangil 2,Student,07 Feb 2000
+314,160138338,"Jacob, Ezekiel",M,Yawalangil 2,Student,04 May 1997
+315,160440972,"James, Enoch",M,Yawalangil 2,Student,03 Apr 2004
+316,160440968,"James, Kalgari",M,Yawalangil 2,Student,01 Sep 2002
+317,160440962,"John, Clement",M,Yawalangil 2,Student,07 Sep 2002
+318,160142018,"John, Orty",M,Yawalangil 2,Student,01 Jan 1987
+319,160146641,"John, Tomo",M,Yawalangil 2,Subsistence Farmer,01 Jan 1984
+320,160141896,"John, Turi",M,Yawalangil 2,Councillor,01 Jan 1955
+321,160121999,"Jonnah, Nathan",M,Yawalangil 2,Worker,01 Dec 1992
+322,160146899,"Kambu, Bepi",M,Yawalangil 2,Subsistence Farmer,01 Jan 1967
+323,160153198,"Kambu, Wandy",M,Yawalangil 2,Subsistence Farmer,01 Jan 1970
+324,160146898,"Kambu, Yando",M,Yawalangil 2,Subsistence Farmer,01 Jan 1989
+325,160148548,"Kange, Kareme",M,Yawalangil 2,Subsistence Farmer,06 May 1934
+326,160147022,"Kanobo, Alo",M,Yawalangil 2,Subsistence Farmer,01 Jan 1990
+327,160153535,"Karoma, Koya",M,Yawalangil 2,Subsistence Farmer,28 Mar 1965
+328,160142113,"Keleli, Gibson",M,Yawalangil 2,Policeman,01 Jan 1967
+329,160142661,"Keleli, Manuel",M,Yawalangil 2,Student,01 Jan 1989
+330,160142114,"Keleli, Philip",M,Yawalangil 2,Driver,01 Jan 1971
+331,160142695,"Kelly, Stanley",M,Yawalangil 2,Subsistence Farmer,01 Jan 1985
+332,160142099,"Kelowa, Siyepai",M,Yawalangil 2,Subsistence Farmer,01 Jan 1944
+333,160142531,"Kende, Tumbo",M,Yawalangil 2,Subsistence Farmer,01 Jan 1968
+334,160121984,"Kenneth, Akon",M,Yawalangil 2,Student,27 Sep 1990
+335,160440930,"Kenneth, Albert",M,Yawalangil 2,Student,30 Mar 2004
+336,160121988,"Kenneth, Bernard",M,Yawalangil 2,Worker,03 Feb 1989
+337,160142014,"Kenneth, Bilson",M,Yawalangil 2,Student,01 Jan 1989
+338,160153336,"Keponge, Kaltie",M,Yawalangil 2,Subsistence Farmer,01 Jan 1966
+339,160151690,"Keponge, Nick",M,Yawalangil 2,Worker,01 Jan 1974
+340,160153065,"Keponge, Robert",M,Yawalangil 2,Teacher,01 Jan 1976
+341,160143776,"Keyapo, Aiye",M,Yawalangil 2,Subsistence Farmer,01 Jan 1989
+342,160142666,"Keyapo, Robert",M,Yawalangil 2,Subsistence Farmer,01 Jan 1978
+343,160142684,"Kiluwe, Kelly",M,Yawalangil 2,Subsistence Farmer,01 Jan 1961
+344,160142683,"Kiluwe, Meiye",M,Yawalangil 2,Subsistence Farmer,01 Jan 1968
+345,160142353,"Kingi, Ambuza",M,Yawalangil 2,Carpenter,01 Jan 1985
+346,160146846,"Kolgopu, Yawa",M,Yawalangil 2,Subsistence Farmer,01 Jan 1961
+347,160142020,"Kombil, Danny",M,Yawalangil 2,Student,01 Jan 1989
+348,160142676,"Kombil, Jacky",M,Yawalangil 2,Student,01 Jan 1989
+349,160147014,"Kondoa, Elpis",M,Yawalangil 2,Subsistence Farmer,01 Jan 1985
+350,160153339,"Kondoa, Oiye",M,Yawalangil 2,Subsistence Farmer,01 Jan 1980
+351,160148329,"Kondoa, Simon",M,Yawalangil 2,Subsistence Farmer,01 Jan 1979
+352,160153341,"Kondoa, Tope",M,Yawalangil 2,Subsistence Farmer,01 Jan 1969
+353,160143800,"Kondoli, Mendeli",M,Yawalangil 2,Subsistence Farmer,01 Jan 1957
+354,160153526,"Kongoi, Thomas",M,Yawalangil 2,Baker,05 Jun 1974
+355,160153204,"Kongoi, Thompsy",M,Yawalangil 2,Teacher,05 Nov 1974
+356,160151707,"Kope, Iki",M,Yawalangil 2,Subsistence Farmer,01 Jan 1954
+357,160148321,"Kope, Koyapo",M,Yawalangil 2,Subsistence Farmer,01 Jan 1958
+358,160153330,"Kope, Nandie",M,Yawalangil 2,Subsistence Farmer,01 Jan 1958
+359,160148322,"Kope, Tendy",M,Yawalangil 2,Subsistence Farmer,01 Jan 1957
+360,160138472,"Koyapo, Iki",M,Yawalangil 2,Student,01 Jul 1996
+361,160148454,"Koyapo, Mark",M,Yawalangil 2,Subsistence Farmer,01 Jan 1990
+362,160146871,"Koyeka, Mulei",M,Yawalangil 2,Subsistence Farmer,01 Jan 1956
+363,160148328,"Kulimu, Kondoa",M,Yawalangil 2,Subsistence Farmer,01 Jan 1958
+364,160142015,"Kulimu, Omi",M,Yawalangil 2,Subsistence Farmer,01 Jan 1957
+365,160151695,"Kulimu, Timothy",M,Yawalangil 2,Subsistence Farmer,01 Jan 1957
+366,160147026,"Kuno, Akel",M,Yawalangil 2,Subsistence Farmer,01 Jan 1947
+367,160440907,"Kuno, Joram",M,Yawalangil 2,Student,01 Nov 2002
+368,160142095,"Kuno, Kewa",M,Yawalangil 2,Subsistence Farmer,01 Jan 1965
+369,160147004,"Kuno, Mala",M,Yawalangil 2,Subsistence Farmer,01 Jan 1967
+370,160146858,"Kuno, Turi",M,Yawalangil 2,Subsistence Farmer,01 Jan 1950
+371,160142609,"Lamai, Niye",M,Yawalangil 2,Aid Post Orderly,01 Jan 1949
+372,160143786,"Lamie, Marowa",M,Yawalangil 2,Subsistence Farmer,01 Jan 1949
+373,160143752,"Lepabe, Yawi",M,Yawalangil 2,Subsistence Farmer,01 Jan 1966
+374,160151703,"Lepi, Dickson",M,Yawalangil 2,Student,01 Jan 1988
+375,160146554,"Lepi, Ronny",M,Yawalangil 2,Student,01 Jan 1989
+376,160148458,"Limbiye, Erick",M,Yawalangil 2,Warder,01 Jan 1966
+377,160153325,"Limbiye, John",M,Yawalangil 2,Subsistence Farmer,01 Jan 1968
+378,160153594,"Limbiye, Jona",M,Yawalangil 2,Subsistence Farmer,01 Jan 1961
+379,160148170,"Limbiye, Saki",M,Yawalangil 2,Subsistence Farmer,01 Jan 1970
+380,160143784,"Lipu, Michael",M,Yawalangil 2,Accountant,01 Jan 1961
+381,160148332,"Mackorol, Abel",M,Yawalangil 2,Pastor,01 Jan 1965
+382,160147016,"Mackorol, Yoke",M,Yawalangil 2,Subsistence Farmer,01 Jan 1961
+383,160146550,"Mage, Lepi lepi",M,Yawalangil 2,Subsistence Farmer,01 Jan 1945
+384,160151699,"Mambo, Gena",M,Yawalangil 2,Subsistence Farmer,01 Jan 1990
+385,160146553,"Mambo, Hallen",M,Yawalangil 2,Subsistence Farmer,01 Jan 1973
+386,160151704,"Mandikera, Pera",M,Yawalangil 2,Subsistence Farmer,01 Jan 1958
+387,160142016,"Marowa, Ake",M,Yawalangil 2,Driver,01 Jan 1976
+388,160142673,"Marowa, George",M,Yawalangil 2,Subsistence Farmer,01 Jan 1972
+389,160142675,"Marowa, Job",M,Yawalangil 2,Student,01 Jan 1989
+390,160142674,"Marowa, Joy",M,Yawalangil 2,Subsistence Farmer,01 Jan 1982
+391,160138339,"Mek, Enoch",M,Yawalangil 2,Student,27 Sep 1997
+392,160440936,"Mek, Enoch",M,Yawalangil 2,Student,01 Jan 2000
+393,160147013,"Mendel, Luke",M,Yawalangil 2,Subsistence Farmer,01 Jan 1987
+394,160143802,"Mendeli, Peter",M,Yawalangil 2,Subsistence Farmer,01 Jan 1989
+395,160146529,"Michael, Jerromy",M,Yawalangil 2,Household Duties,01 Jan 1988
+396,160153599,"Moke, Moses",M,Yawalangil 2,Subsistence Farmer,01 Jan 1976
+397,160148169,"Moke, Tennis",M,Yawalangil 2,Subsistence Farmer,01 Jan 1974
+398,160148167,"Moke, Wiru",M,Yawalangil 2,Subsistence Farmer,01 Jan 1966
+399,160142700,"Monda, Jacob",M,Yawalangil 2,Driver,01 Jan 1967
+400,160143700,"Monda, Las",M,Yawalangil 2,Subsistence Farmer,01 Jan 1985
+401,160143761,"Monda, Simon",M,Yawalangil 2,Subsistence Farmer,01 Jan 1954
+402,160143698,"Monda, Tom",M,Yawalangil 2,Subsistence Farmer,01 Jan 1974
+403,160148456,"Monda, Turi",M,Yawalangil 2,Subsistence Farmer,01 Jan 1981
+404,160148707,"Mone, Tom",M,Yawalangil 2,Teacher,17 Nov 1980
+405,160122004,"Moses, Livai",M,Yawalangil 2,Student,15 Jul 1997
+406,160440996,"Moses, Livai",M,Yawalangil 2,Student,20 Oct 2001
+407,160155763,"Mukundi, Kange",M,Yawalangil 2,Subsistence Farmer,10 Aug 1937
+408,160142109,"Mulei, Maine",M,Yawalangil 2,Student,01 Jan 1990
+409,160146556,"Mulei, Temen",M,Yawalangil 2,Subsistence Farmer,01 Jan 1970
+410,160143701,"Mulei, Tommy",M,Yawalangil 2,Subsistence Farmer,01 Jan 1977
+411,160146910,"Namba, Brojon",M,Yawalangil 2,Subsistence Farmer,01 Jan 1983
+412,160142605,"Namba, Gidion",M,Yawalangil 2,Student,01 Jan 1986
+413,160146731,"Namba, James",M,Yawalangil 2,Student,01 Jan 1978
+414,160147006,"Nanape, David",M,Yawalangil 2,Pastor,01 Jan 1968
+415,160148161,"Nandie, Tom",M,Yawalangil 2,Subsistence Farmer,01 Jan 1988
+416,160153331,"Nandie, Topu",M,Yawalangil 2,Student,01 Jan 1990
+417,160121995,"Nandiye, Daniel",M,Yawalangil 2,Student,19 Dec 1991
+418,160153393,"Nano, Ben",M,Yawalangil 2,Student,01 Jan 1987
+419,160142225,"Nema, Nigoro",M,Yawalangil 2,Student,01 Jan 1987
+420,160153763,"Ninde, Lowaiye",M,Yawalangil 2,Subsistence Farmer,06 Dec 1940
+421,160153760,"Ninde, Waki",M,Yawalangil 2,Subsistence Farmer,15 Dec 1956
+422,160142097,"Niwi, Steven",M,Yawalangil 2,Subsistence Farmer,01 Jan 1964
+423,160142611,"Niye, David",M,Yawalangil 2,Student,01 Jan 1990
+424,160142690,"Niye, John",M,Yawalangil 2   Health Extention Officer 01 Jan 1964,"154     160142610     Niye, Paul                 M        Yawalangil 2   Subsistence Farmer",01 Jan 1971
+425,160146915,"Nopul, Femen",M,Yawalangil 2,Student,01 Jan 1983
+426,160440893,"Norbet, Jeromy",M,Yawalangil 2,Subsistence Farmer,04 Jul 1997
+427,160142025,"Okim, Alfred",M,Yawalangil 2,Subsistence Farmer,01 Jan 1971
+428,160143792,"Okim, Bernard",M,Yawalangil 2,Subsistence Farmer,01 Jan 1967
+429,160146851,"Okim, Norman",M,Yawalangil 2,Subsistence Farmer,01 Jan 1983
+430,160143790,"Okim, Peter",M,Yawalangil 2,Student,01 Jan 1986
+431,160440976,"Opa, Andrew",M,Yawalangil 2,Subsistence Farmer,12 Jul 1979
+432,160122057,"Opa, Assac",M,Yawalangil 2,Sales Women,28 Feb 1994
+433,160147020,"Opa, Maria",M,Yawalangil 2,Subsistence Farmer,01 Jan 1974
+434,160153391,"Oru, Nano",M,Yawalangil 2,Subsistence Farmer,01 Jan 1954
+435,160147008,"Oru, Teringi",M,Yawalangil 2,Subsistence Farmer,01 Jan 1957
+436,160153071,"Oru, Unde",M,Yawalangil 2,Subsistence Farmer,01 Jan 1969
+437,160143794,"Pani, Kuno",M,Yawalangil 2,Subsistence Farmer,01 Jan 1949
+438,160153200,"Pani, Mambo",M,Yawalangil 2,Subsistence Farmer,01 Jan 1942
+439,160146867,"Pani, Monda",M,Yawalangil 2,Subsistence Farmer,01 Jan 1949
+440,160142704,"Papora, John",M,Yawalangil 2,Subsistence Farmer,01 Jan 1971
+441,160142529,"Papora, Las",M,Yawalangil 2,Student,01 Jan 1988
+442,160141900,"Papora, Pea",M,Yawalangil 2,Student,01 Jan 1982
+443,160142712,"Papora, Wanpis",M,Yawalangil 2,Subsistence Farmer,01 Jan 1972
+444,160122007,"Pareka, Elpis",M,Yawalangil 2,Student,23 Apr 1994
+445,160440980,"Pareka, Elvis",M,Yawalangil 2,Student,05 Jun 1998
+446,160146861,"Pareka, Mathew",M,Yawalangil 2,Student,01 Jan 1990
+447,160440911,"Pareka, Mathew",M,Yawalangil 2,Welder,03 May 1989
+448,160138344,"Pareka, Mokai",M,Yawalangil 2,Subsistence Farmer,21 Jul 1996
+449,160142665,"Pastor, Michael",M,Yawalangil 2,Pastor,01 Jan 1964
+450,160142536,"Peke, Wambo",M,Yawalangil 2,Subsistence Farmer,01 Jan 1948
+451,160146778,"Pera, Daniel",M,Yawalangil 2,Subsistence Farmer,01 Jan 1963
+452,160142348,"Pera, Paur",M,Yawalangil 2,Labourer,01 Jan 2000
+453,160146777,"Pera, Peter",M,Yawalangil 2,Pastor,01 Jan 2000
+454,160143773,"Pera, Samuel",M,Yawalangil 2,Subsistence Farmer,01 Jan 1988
+455,160146185,"Pera, Wanpis",M,Yawalangil 2,Subsistence Farmer,01 Jan 1967
+456,160151706,"Pera, Wanpis",M,Yawalangil 2,Subsistence Farmer,01 Jan 1973
+457,160142608,"Peter, Benjamin",M,Yawalangil 2,Student,01 Jan 1990
+458,160146767,"Peter, Vix",M,Yawalangil 2,Subsistence Farmer,01 Jan 1982
+459,160138342,"Peya, Abel",M,Yawalangil 2,Student,17 Feb 1996
+460,160122003,"Peyo, Carn",M,Yawalangil 2,Student,12 Aug 1995
+461,160148455,"Peyo, Necksy",M,Yawalangil 2,Student,01 Jan 1989
+462,160151700,"Pila, Angawai",M,Yawalangil 2,Subsistence Farmer,01 Jan 1932
+463,160143777,"Pilimbo, Aruru",M,Yawalangil 2,Subsistence Farmer,01 Jan 1962
+464,160143696,"Piltimu, Kera",M,Yawalangil 2,Subsistence Farmer,01 Jan 1961
+465,160143758,"Piltimu, Pera",M,Yawalangil 2,Subsistence Farmer,01 Jan 1962
+466,160153199,"Pindu, Lipu",M,Yawalangil 2,Subsistence Farmer,01 Jan 1954
+467,160148488,"Piztimu, Anjo",M,Yawalangil 2,Subsistence Farmer,01 Jan 1958
+468,160141898,"Pokora, Toiye",M,Yawalangil 2,Subsistence Farmer,01 Jan 1968
+469,160146748,"Pora, Andia",M,Yawalangil 2,Subsistence Farmer,01 Jan 1947
+470,160148489,"Pora, Tendeku",M,Yawalangil 2,Subsistence Farmer,01 Jan 1989
+471,160121990,"Rasty, Clancy",M,Yawalangil 2,Student,28 Sep 1996
+472,160142351,"Rema, Kingi",M,Yawalangil 2,Subsistence Farmer,01 Jan 1948
+473,160141945,"Rema, Yaya",M,Yawalangil 2,Subsistence Farmer,01 Jan 1946
+474,160153591,"Rero, Keleli",M,Yawalangil 2,Pastor,01 Jan 1956
+475,160146860,"Siri, Pareka",M,Yawalangil 2,Subsistence Farmer,01 Jan 1967
+476,160142104,"Siyepai, Asiki",M,Yawalangil 2,Worker,01 Jan 1969
+477,160143805,"Siyepai, Mano",M,Yawalangil 2,Subsistence Farmer,01 Jan 1981
+478,160142101,"Siyepai, Ponege",M,Yawalangil 2,Worker,01 Jan 1979
+479,160143755,"Siyepai, Yunugo",M,Yawalangil 2,Subsistence Farmer,01 Jan 1967
+480,160153230,"Solomon, Joel",M,Yawalangil 2,Subsistence Farmer,01 Jan 1980
+481,160148174,"Solomon, Samson",M,Yawalangil 2,Subsistence Farmer,01 Jan 1982
+482,160142026,"Solomon, Samuel",M,Yawalangil 2,Student,01 Jan 1989
+483,160153332,"Tama, Aiyele",M,Yawalangil 2,Subsistence Farmer,01 Jan 1938
+484,160146895,"Tama, Yapo",M,Yawalangil 2,Subsistence Farmer,01 Jan 1931
+485,160142603,"Tapu, Apol",M,Yawalangil 2,Student,01 Jan 1988
+486,160142602,"Tapu, Issac",M,Yawalangil 2,Welder,01 Jan 1978
+487,160440967,"Tapu, Steward",M,Yawalangil 2,Student,23 Dec 1990
+488,160440965,"Tapu, Tenis",M,Yawalangil 2,Subsistence Farmer,31 Dec 1993
+489,160147012,"Taulo, Mendel",M,Yawalangil 2,Subsistence Farmer,01 Jan 1964
+490,160147025,"Tawalo, Kuno",M,Yawalangil 2,Subsistence Farmer,01 Jan 1969
+491,160153072,"Tekulu, Pepena",M,Yawalangil 2,Subsistence Farmer,01 Jan 1970
+492,160121843,"Tendi, Martin",M,Yawalangil 2,Subsistence Farmer,14 Mar 1990
+493,160146225,"Tendi, Soti",M,Yawalangil 2,Student,01 Jan 1987
+494,160148160,"Tendy, Ben",M,Yawalangil 2,Student,01 Jan 1989
+495,160153329,"Tendy, Lee",M,Yawalangil 2,Student,01 Jan 1990
+496,160143768,"Tene, Joshua",M,Yawalangil 2,Student,01 Jan 1989
+497,160121985,"Tene, Terema",M,Yawalangil 2,Subsistence Farmer,17 Jan 1992
+498,160121986,"Teringi, Jepeth",M,Yawalangil 2,Student,19 Feb 1991
+499,160146862,"Teringi, Nickson",M,Yawalangil 2,Student,01 Jan 1988
+500,160146377,"Terry, Une",M,Yawalangil 2,Subsistence Farmer,01 Jan 1953
+501,160142010,"Tiri, Anjo",M,Yawalangil 2,Subsistence Farmer,01 Jan 1952
+502,160440961,"Toiye, Onil",M,Yawalangil 2,Student,23 Apr 2003
+503,160141892,"Tomoi, Thomas",M,Yawalangil 2,Subsistence Farmer,01 Jan 1955
+504,160148505,"Tonesela, Mark",M,Yawalangil 2,Salesman,01 Jan 1977
+505,160153592,"Tonge, Peyo",M,Yawalangil 2,Subsistence Farmer,01 Jan 1962
+506,160440883,"Topias, Kepson",M,Yawalangil 2,Student,08 Mar 2002
+507,160441000,"Torea, Benarld",M,Yawalangil 2,Student,05 Feb 2004
+508,160146849,"Torea, Kombil",M,Yawalangil 2,Subsistence Farmer,01 Jan 1945
+509,160146852,"Torea, Moses",M,Yawalangil 2,Subsistence Farmer,01 Jan 1960
+510,160148330,"Torea, Teru",M,Yawalangil 2,Subsistence Farmer,01 Jan 1970
+511,160153235,"Torea, Wasimali",M,Yawalangil 2,Subsistence Farmer,01 Jan 1957
+512,160153070,"Toringi, Joe",M,Yawalangil 2,Salesman,11 Feb 1970
+513,160148727,"Toropo, Nano",M,Yawalangil 2,Subsistence Farmer,01 Jan 1984
+514,160153075,"Toropo, Nema",M,Yawalangil 2,Subsistence Farmer,01 Jan 1970
+515,160148726,"Toropo, Peter",M,Yawalangil 2,Subsistence Farmer,01 Jan 1967
+516,160153524,"Toropo, Samson",M,Yawalangil 2,Accountant,24 Jun 1967
+517,160146869,"Toropo, Tene",M,Yawalangil 2,Subsistence Farmer,01 Jan 1959
+518,160440955,"Turi, Anda",M,Yawalangil 2,Mechanic,31 Jan 1998
+519,160121782,"Turi, Elizah",M,Yawalangil 2,Student,26 Jun 1993
+520,160143763,"Turi, William",M,Yawalangil 2,Student,01 Jan 1988
+521,160153231,"Umbuni, Matoli",M,Yawalangil 2,Subsistence Farmer,01 Jan 1970
+522,160147019,"Umbuni, Opa",M,Yawalangil 2,Subsistence Farmer,01 Jan 1951
+523,160146847,"Umbuni, Paul",M,Yawalangil 2,Subsistence Farmer,01 Jan 1964
+524,160146864,"Unde, Komon",M,Yawalangil 2,Student,01 Jan 1985
+525,160122006,"Unde, Polo",M,Yawalangil 2,Student,13 Mar 1994
+526,160122005,"Unde, Steven",M,Yawalangil 2,Student,12 Mar 1996
+527,160153533,"Undi, Sikipiye",M,Yawalangil 2,Subsistence Farmer,08 Jul 1948
+528,160142537,"Wambo, Daniel",M,Yawalangil 2,Subsistence Farmer,01 Jan 1969
+529,160142538,"Wambo, David",M,Yawalangil 2,Subsistence Farmer,01 Jan 1989
+530,160142539,"Wambo, Ian",M,Yawalangil 2,Teacher,01 Jan 1968
+531,160141905,"Wambo, Jack",M,Yawalangil 2,Subsistence Farmer,01 Jan 1972
+532,160141906,"Wambo, Las",M,Yawalangil 2,Subsistence Farmer,01 Jan 1982
+533,160141907,"Wambo, Willie",M,Yawalangil 2,Subsistence Farmer,01 Jan 1986
+534,160440940,"Wandi, Martin",M,Yawalangil 2,Student,27 Apr 2002
+535,160440941,"Wandi, Taku",M,Yawalangil 2,Student,07 Sep 2001
+536,160121989,"Wandi, Taku",M,Yawalangil 2,Student,04 Jul 1996
+537,160146756,"Warea, Depos",M,Yawalangil 2,Subsistence Farmer,01 Jan 1974
+538,160148494,"Warea, Dossy",M,Yawalangil 2,Subsistence Farmer,01 Jan 1976
+539,160146757,"Warea, Joseph",M,Yawalangil 2,Subsistence Farmer,01 Jan 1986
+540,160146718,"Warea, Kawa",M,Yawalangil 2,Subsistence Farmer,01 Jan 1983
+541,160148492,"Warea, Simon",M,Yawalangil 2,Student,01 Jan 1990
+542,160141901,"Warea, Tapu",M,Yawalangil 2,Subsistence Farmer,01 Jan 1954
+543,160146715,"Wareya, Jacob",M,Yawalangil 2,Pastor,01 Jan 1971
+544,160142534,"Wareya, Namba",M,Yawalangil 2,Peace Officer,01 Jan 1958
+545,160146754,"Wareya, Nepe",M,Yawalangil 2,Subsistence Farmer,01 Jan 1954
+546,160146713,"Wareya, Yakili",M,Yawalangil 2,Subsistence Farmer,01 Jan 1961
+547,160153236,"Wasimali, Topias",M,Yawalangil 2,Subsistence Farmer,01 Jan 1982
+548,160146855,"Wasimali, Yama",M,Yawalangil 2,Subsistence Farmer,01 Jan 1984
+549,160143797,"Wiye, Yoko",M,Yawalangil 2,Subsistence Farmer,01 Jan 1946
+550,160148164,"Yando, Billy",M,Yawalangil 2,Student,01 Jan 1989
+551,160121996,"Yando, Jason",M,Yawalangil 2,Subsistence Farmer,15 Nov 1990
+552,160148165,"Yando, Kobert",M,Yawalangil 2,Student,01 Jan 1990
+553,160142670,"Yapo, Willie",M,Yawalangil 2,Subsistence Farmer,01 Jan 1967
+554,160146897,"Yapo, Yala",M,Yawalangil 2,Security,01 Jan 1972
+555,160147018,"Yawa, Kanobo",M,Yawalangil 2,Subsistence Farmer,01 Jan 1974
+556,160141942,"Yaya, Kute",M,Yawalangil 2,Subsistence Farmer,01 Jan 1979
+557,160142354,"Yaya, Nandiye",M,Yawalangil 2,Subsistence Farmer,01 Jan 1964
+558,160143645,"Yaya, Papu",M,Yawalangil 2,Subsistence Farmer,01 Jan 1976
+559,160141944,"Yaya, Tapa",M,Yawalangil 2,Subsistence Farmer,01 Jan 1971
+560,160141895,"Yoke, Ismaiel",M,Yawalangil 2,Student,01 Jan 1990
+561,160440950,"Yoke, Philimon",M,Yawalangil 2,Student,05 Dec 2001
+562,160142096,"Yoko, Piksa",M,Yawalangil 2,Student,01 Jan 1985
+563,160143799,"Yoko, Tombo",M,Yawalangil 2,Subsistence Farmer,01 Jan 1946
+564,160153228,"Yunumi, Solomon",M,Yawalangil 2,Subsistence Farmer,01 Jan 1966

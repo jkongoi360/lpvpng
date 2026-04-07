@@ -1,0 +1,990 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160213585,"Akena, Jennifa",F,Kapoglapopilie,Student,27 Jan 1981
+2,160210327,"Akena, Monicha",F,Kapoglapopilie,Subsistence Farmer,19 May 1979
+3,160201210,"Akenga, Cathy",F,Kapoglapopilie,Subsistence Farmer,19 Jul 1961
+4,160201246,"Akenga, Jennifa",F,Kapoglapopilie,Student,01 Dec 1976
+5,160203666,"Akenga, Komon",F,Kapoglapopilie,Student,07 Aug 1982
+6,160201884,"Akenga, Palla",F,Kapoglapopilie,Subsistence Farmer,07 Aug 1957
+7,160227473,"Anda, Jenifa",F,Kapoglapopilie,Student,12 Feb 1984
+8,160138475,"Anis, Joicelyn dite",F,Kapoglapopilie,Household Duties,04 Aug 1972
+9,160446357,"Asaiah, Pamilar",F,Kapoglapopilie,Household Duties,10 May 1992
+10,160212591,"Awa, Kuku",F,Kapoglapopilie,Subsistence Farmer,05 Sep 1968
+11,160246592,"Ben, Lyn",F,Kapoglapopilie,Subsistence Farmer,03 Nov 1987
+12,160123756,"Benjamine, Cathy",F,Kapoglapopilie,Teacher,25 Mar 1995
+13,160446464,"Benjiman, Cathy",F,Kapoglapopilie,Teacher,05 Jun 1999
+14,160246201,"Benjiman, Sheron",F,Kapoglapopilie,Household Duties,12 May 1989
+15,160206698,"Berem, Dolly",F,Kapoglapopilie,Subsistence Farmer,03 Nov 1986
+16,160123876,"Berem, Esther",F,Kapoglapopilie,Student,16 Apr 1997
+17,160227479,"Berem, Monica",F,Kapoglapopilie,Household Duties,23 Mar 1986
+18,160216294,"Berem, Pati",F,Kapoglapopilie,Student,21 Sep 1981
+19,160244515,"Berem, Tovina",F,Kapoglapopilie,Housegirl,01 Jan 1991
+20,160446422,"Bill, Walina",F,Kapoglapopilie,Student,02 Apr 2004
+21,160446405,"Billex, Jenny",F,Kapoglapopilie,Household Duties,10 May 1991
+22,160246107,"Billy, Mary",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1976
+23,160246091,"Bobby, Miriam",F,Kapoglapopilie,Household Duties,11 Aug 1980
+24,160198417,"Borowa, Puke",F,Kapoglapopilie,Subsistence Farmer,18 Jun 1948
+25,160123870,"Boso, Abigal",F,Kapoglapopilie,Household Duties,20 Oct 1982
+26,160215920,"Boso, Aiga",F,Kapoglapopilie,Subsistence Farmer,25 Sep 1980
+27,160139276,"Boso, Amenda",F,Kapoglapopilie,Student,14 Feb 1995
+28,160215927,"Boso, Cecilia",F,Kapoglapopilie,Subsistence Farmer,29 Nov 1972
+29,160123874,"Boso, Clyda",F,Kapoglapopilie,Student,20 Apr 1996
+30,160213707,"Boso, Doris",F,Kapoglapopilie,Student,15 Jul 1975
+31,160215931,"Boso, Hendrian",F,Kapoglapopilie,Student,11 Sep 1972
+32,160215282,"Boso, Joicelyn",F,Kapoglapopilie,Subsistence Farmer,05 Sep 1975
+33,160123875,"Boso, Kate",F,Kapoglapopilie,Student,13 Apr 1996
+34,160213529,"Boso, Melinda",F,Kapoglapopilie,Student,26 Mar 1988
+35,160139275,"Boso, Ralvina",F,Kapoglapopilie,Student,18 Feb 1999
+36,160138473,"Boso, Rindunu",F,Kapoglapopilie,Student,14 Feb 1999
+37,160215954,"Boso, Roselyn",F,Kapoglapopilie,Student,12 Oct 1978
+38,160446365,"Boso, Rosey",F,Kapoglapopilie,Student,14 Apr 2004
+39,160446354,"Boso, Syntiah",F,Kapoglapopilie,Student,15 Apr 2004
+40,160213458,"Boso, Veida",F,Kapoglapopilie,Student,03 May 1988
+41,160246584,"Charlie, Ambo",F,Kapoglapopilie,Subsistence Farmer,10 Aug 1985
+42,160123729,"Charlie, Davina",F,Kapoglapopilie,Household Duties,25 Jan 1995
+43,160139282,"Charlie, Ruth",F,Kapoglapopilie,Household Duties,26 Mar 1990
+44,160446399,"Charlies, Glenda",F,Kapoglapopilie,Policewomen,04 Apr 1993
+45,160198411,"Clement, Esta",F,Kapoglapopilie,Student,29 Jul 1984
+46,160446368,"Clement, Sendy",F,Kapoglapopilie,Student,04 Feb 2004
+47,160246580,"Collin, Alice",F,Kapoglapopilie,Household Duties,21 Mar 1990
+48,160446374,"Danley, Minica",F,Kapoglapopilie,Household Duties,15 Jan 1995
+49,160123884,"Danly, Monica",F,Kapoglapopilie,Household Duties,26 Sep 1992
+50,160198429,"Das, Magret",F,Kapoglapopilie,Subsistence Farmer,21 Feb 1971
+51,160227395,"David, Hellen",F,Kapoglapopilie,Nurse,30 Oct 1978
+52,160246708,"David, Helly",F,Kapoglapopilie,Household Duties,28 Jun 1984
+53,160244493,"David, Regina",F,Kapoglapopilie,Household Duties,12 Mar 1974
+54,160227579,"Densi, Kana",F,Kapoglapopilie,Household Duties,18 Feb 1974
+55,160217577,"Dopo, Rosly",F,Kapoglapopilie,Student,04 Nov 1987
+56,160123748,"Douglas, Joicelyn",F,Kapoglapopilie,Household Duties,21 Feb 1993
+57,160246195,"Douglas, Serah",F,Kapoglapopilie,Household Duties,21 Jul 1990
+58,160446378,"Dow, Lucy",F,Kapoglapopilie,Household Duties,10 Mar 1995
+59,160446429,"Fax, Sila",F,Kapoglapopilie,Teacher,01 Jan 1992
+60,160123738,"Fred, Evelyn",F,Kapoglapopilie,Teacher,16 Nov 1990
+61,160123903,"Fred, Lucy",F,Kapoglapopilie,Household Duties,23 Apr 1985
+62,160246106,"Galepa, Dilailah",F,Kapoglapopilie,Student,02 Jul 1993
+63,160211144,"Galepa, Jaly",F,Kapoglapopilie,Student,01 Jan 1984
+64,160246095,"Galepa, Melisa",F,Kapoglapopilie,Student,25 Feb 1991
+65,160198426,"Garu, Jenny",F,Kapoglapopilie,Student,16 May 1987
+66,160198421,"Garu, Kombeame",F,Kapoglapopilie,Subsistence Farmer,29 Jun 1954
+67,160198425,"Garu, Tagaiye",F,Kapoglapopilie,Student,22 Jul 1981
+68,160123752,"Gate, Serah",F,Kapoglapopilie,Household Duties,14 Jun 1990
+69,160198424,"Gaven, Grace",F,Kapoglapopilie,Not Specified,18 May 1978
+70,160244520,"Gaye, Leah",F,Kapoglapopilie,Household Duties,10 Nov 1989
+71,160123894,"George, Lilly",F,Kapoglapopilie,Household Duties,20 Sep 1989
+72,160213704,"Gini, Tiye",F,Kapoglapopilie,Subsistence Farmer,07 Jul 1963
+73,160222667,"Gomoi, Note",F,Kapoglapopilie,Subsistence Farmer,12 Dec 1967
+74,160209771,"Gomoiye, Tereno",F,Kapoglapopilie,Subsistence Farmer,09 Nov 1969
+75,25084219,"Honda, Befelyn",F,Kapoglapopilie,Student,17 Sep 2003
+76,25084220,"Honda, Befiana",F,Kapoglapopilie,Student,05 Oct 2003
+77,160244501,"Honda, Jenneth",F,Kapoglapopilie,Household Duties,12 Nov 1988
+78,160139396,"Honda, Joice",F,Kapoglapopilie,Student,10 Feb 1999
+79,160246705,"Honda, Judith",F,Kapoglapopilie,Household Duties,13 Jan 1984
+80,160246706,"Honda, Selly",F,Kapoglapopilie,Household Duties,14 Mar 1983
+81,160139395,"Honda, Treacy",F,Kapoglapopilie,Household Duties,20 Dec 1986
+82,160123891,"Indidi, Lyn",F,Kapoglapopilie,Household Duties,12 Dec 1995
+83,160446424,"Indipine, Raylin",F,Kapoglapopilie,Student,03 Apr 2004
+84,160246080,"Indipine, Rose",F,Kapoglapopilie,Household Duties,04 Mar 1985
+85,25087360,"Jack, Jane",F,Kapoglapopilie,Student,11 Jan 2001
+86,160123902,"Jack, Joice",F,Kapoglapopilie,Household Duties,29 Aug 1986
+87,160246222,"Jack, Naomi",F,Kapoglapopilie,Not Specified,08 Feb 1989
+88,160123736,"Jack, Polyn",F,Kapoglapopilie,Student,01 Oct 1984
+89,160227323,"Jack, Rose",F,Kapoglapopilie,Household Duties,29 Dec 1979
+90,160446430,"Jackson, Cathy",F,Kapoglapopilie,Household Duties,04 Feb 1994
+91,160123747,"James, Delilah",F,Kapoglapopilie,Sales Women,24 Aug 1997
+92,25084227,"James, Lewa",F,Kapoglapopilie,Student,04 Feb 1994
+93,160246079,"James, Mathina",F,Kapoglapopilie,Household Duties,16 Mar 1987
+94,160246589,"James, Niomi",F,Kapoglapopilie,Student,18 Sep 1991
+95,160217659,"James, Reachel",F,Kapoglapopilie,Student,03 Oct 1987
+96,160446414,"James, Zina",F,Kapoglapopilie,Student,10 Apr 2004
+97,160446460,"Japeth kepu, Roselyn",F,Kapoglapopilie,Household Duties,05 Feb 2002
+98,160246590,"Jeremiah, Roselyn",F,Kapoglapopilie,Household Duties,11 May 1986
+99,160446351,"Jeromia, Jenny",F,Kapoglapopilie,Household Duties,01 Dec 1990
+100,160246747,"Jerry, Docas",F,Kapoglapopilie,Household Duties,10 Jan 1990
+101,160446350,"Jerry, Rose",F,Kapoglapopilie,Policewomen,20 Jun 1991
+102,160446441,"Jim, Melisah",F,Kapoglapopilie,Student,27 Jan 2004
+103,160198410,"Joe, Jeneth",F,Kapoglapopilie,Student,24 Mar 1980
+104,160244513,"Joe, Jolla",F,Kapoglapopilie,Student,12 Oct 1988
+105,160446352,"Joel, Dorothy",F,Kapoglapopilie,Household Duties,15 Jun 1996
+106,160123741,"John, Eli",F,Kapoglapopilie,Household Duties,20 May 1996
+107,160446442,"John, Elie",F,Kapoglapopilie,Subsistence Farmer,04 Mar 1994
+108,160246732,"John, Merelyn",F,Kapoglapopilie,Household Duties,10 Jan 1982
+109,160123878,"John, Monica",F,Kapoglapopilie,Household Duties,24 Jun 1990
+110,160139292,"John, Nancy",F,Kapoglapopilie,Household Duties,13 Aug 1985
+111,160244496,"John, Rachael",F,Kapoglapopilie,Household Duties,26 Jul 1980
+112,160123737,"John, Roselyn",F,Kapoglapopilie,Household Duties,28 Jul 1990
+113,25084232,"Joro, Zina",F,Kapoglapopilie,Student,03 Feb 2001
+114,160215928,"Joseph, Carthy",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1970
+115,160246321,"Joseph, Lenda",F,Kapoglapopilie,Household Duties,05 Oct 1988
+116,160215956,"Joseph, Ruth",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1969
+117,160446383,"Joseph, Vielar",F,Kapoglapopilie,Pastor,10 May 1991
+118,25084235,"Justin, Gifina",F,Kapoglapopilie,Student,09 Sep 1986
+119,160123896,"Justin, Jully",F,Kapoglapopilie,Household Duties,07 Nov 1988
+120,160123728,"Justin, Magret",F,Kapoglapopilie,Household Duties,14 Dec 1984
+121,160244344,"Justin, Mellen",F,Kapoglapopilie,Household Duties,01 Jan 1976
+122,160244345,"Justin, Sindi",F,Kapoglapopilie,Student,11 Sep 1986
+123,160217660,"Kaipo, Teni",F,Kapoglapopilie,Subsistence Farmer,26 Nov 1950
+124,160216137,"Kaku, Goraiye",F,Kapoglapopilie,Subsistence Farmer,11 Jun 1952
+125,160209721,"Kalatoli, Kundiye",F,Kapoglapopilie,Subsistence Farmer,07 Oct 1960
+126,160206841,"Kalatoli, Opambo",F,Kapoglapopilie,Subsistence Farmer,13 Sep 1953
+127,160138474,"Kali, Nashasa",F,Kapoglapopilie,Student,04 Feb 1997
+128,160446394,"Kali, Natasah",F,Kapoglapopilie,Household Duties,04 Feb 1994
+129,160246311,"Kalie, Rose",F,Kapoglapopilie,Subsistence Farmer,21 Nov 1987
+130,160246077,"Kama, Mery",F,Kapoglapopilie,Household Duties,11 Apr 1986
+131,160139289,"Kama, Sheron",F,Kapoglapopilie,Household Duties,13 May 1995
+132,160244484,"Kama, Sovia",F,Kapoglapopilie,Household Duties,26 Jul 1990
+133,160213362,"Kambaiye, Kandi",F,Kapoglapopilie,Teacher,07 Aug 1972
+134,160213365,"Kambaiye, Magereth",F,Kapoglapopilie,Student,05 Sep 1988
+135,160212601,"Kambaiye, Tereno",F,Kapoglapopilie,Student,11 Dec 1978
+136,160224488,"Kambile, Cathy",F,Kapoglapopilie,Subsistence Farmer,29 Oct 1970
+137,160246609,"Kambile, Serinda",F,Kapoglapopilie,Student,23 Jun 1989
+138,160222663,"Kambile, Tabita",F,Kapoglapopilie,Student,02 Nov 1988
+139,160446370,"Kamlus, Maria",F,Kapoglapopilie,Household Duties,14 Jun 1993
+140,160246196,"Kamunge, Rahab",F,Kapoglapopilie,Not Specified,17 Dec 1991
+141,160446448,"Kana, Jodimaiya",F,Kapoglapopilie,Student,02 Mar 2003
+142,160446449,"Kana, Senaia",F,Kapoglapopilie,Student,11 Dec 2000
+143,160215243,"Kanambo, Christina",F,Kapoglapopilie,Student,01 Jan 1988
+144,160446423,"Kanambo, Wala",F,Kapoglapopilie,Household Duties,05 Sep 1986
+145,160216129,"Kaname, Nondo",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1945
+146,160201889,"Kanda, Jenny",F,Kapoglapopilie,Subsistence Farmer,04 Sep 1978
+147,160201887,"Kanda, Lino",F,Kapoglapopilie,Subsistence Farmer,04 Jul 1963
+148,160203640,"Kanda, Merelin",F,Kapoglapopilie,Subsistence Farmer,28 Jul 1988
+149,160201890,"Kanda, Pakambo",F,Kapoglapopilie,Subsistence Farmer,09 May 1981
+150,160216297,"Kanda, Taket",F,Kapoglapopilie,Subsistence Farmer,16 Apr 1970
+151,160446433,"Kandale, Theresy",F,Kapoglapopilie,Accountant,13 May 1992
+152,160244503,"Kanombo, Evelyn",F,Kapoglapopilie,Household Duties,13 Jun 1970
+153,160215259,"Kanupu, Aname",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1970
+154,160446415,"Kapale, Helen bun",F,Kapoglapopilie,Household Duties,07 Jan 1968
+155,160227121,"Kapale, Judy",F,Kapoglapopilie,Household Duties,21 Oct 1968
+156,160123901,"Kapale, Kina",F,Kapoglapopilie,Student,04 Jan 1999
+157,160198405,"Kapale, Napren",F,Kapoglapopilie,Subsistence Farmer,10 Jul 1950
+158,160222546,"Kapelga, Anjo",F,Kapoglapopilie,Subsistence Farmer,02 Sep 1948
+159,160246622,"Kapiki, Juddy",F,Kapoglapopilie,Household Duties,18 Dec 1982
+160,160123909,"Kapiki, Lyn",F,Kapoglapopilie,Household Duties,14 Aug 1989
+161,160198419,"Karaiye, Nanoli",F,Kapoglapopilie,Subsistence Farmer,10 Aug 1962
+162,160227572,"Karaiye, Wendi",F,Kapoglapopilie,Student,05 Apr 1988
+163,160244336,"Kari, Dorothy",F,Kapoglapopilie,Household Duties,03 Feb 1984
+164,160217574,"Karoma, Regina",F,Kapoglapopilie,Subsistence Farmer,14 Jul 1969
+165,160246350,"Keku, Joice",F,Kapoglapopilie,Household Duties,04 Nov 1983
+166,160222538,"Kelly, Anna",F,Kapoglapopilie,Worker,26 Feb 1981
+167,160227478,"Kemapu, Betty",F,Kapoglapopilie,Household Duties,24 Jun 1984
+168,160244362,"Kemapu, Josephine",F,Kapoglapopilie,Household Duties,12 Jan 1987
+169,160139279,"Keponge, Elvina",F,Kapoglapopilie,Student,10 Jan 1999
+170,160222557,"Keponge, Kelen",F,Kapoglapopilie,Student,26 Mar 1989
+171,160215296,"Keponge, Mellen",F,Kapoglapopilie,Student,12 Sep 1989
+172,160217583,"Kepu, Aiye",F,Kapoglapopilie,Student,16 Oct 1982
+173,160215634,"Kepu, Akele",F,Kapoglapopilie,Subsistence Farmer,11 Jul 1952
+174,160227420,"Kepu, Jenifa",F,Kapoglapopilie,Household Duties,20 Feb 1981
+175,160206840,"Kepu, Sendi",F,Kapoglapopilie,Subsistence Farmer,09 Nov 1976
+176,160227113,"Kera, Beblyn",F,Kapoglapopilie,Student,05 Jan 1988
+177,160446372,"Kera, Lewa",F,Kapoglapopilie,Student,14 Mar 2004
+178,160244504,"Kereme, Wipa",F,Kapoglapopilie,Household Duties,11 Jul 1979
+179,160446367,"Kevin, Elina",F,Kapoglapopilie,Household Duties,06 May 1996
+180,160446466,"Kevin, Rosa",F,Kapoglapopilie,Household Duties,05 Sep 1996
+181,160246608,"Kewa, Anita",F,Kapoglapopilie,Student,14 Oct 1991
+182,160446444,"Kewa, Cerolyn",F,Kapoglapopilie,Household Duties,06 Jan 1994
+183,160246327,"Kewa, Lucy",F,Kapoglapopilie,Household Duties,25 Mar 1986
+184,160123880,"Kewa, Stephenie",F,Kapoglapopilie,Student,09 Jan 1999
+185,160198428,"Kipunge, Helen",F,Kapoglapopilie,Subsistence Farmer,16 Apr 1966
+186,160246731,"Kipunge, Maria",F,Kapoglapopilie,Household Duties,05 Oct 1964
+187,160204529,"Kira, Lombil",F,Kapoglapopilie,Subsistence Farmer,23 Sep 1958
+188,160246607,"Kira, Makas",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1961
+189,160244465,"Konobu, Yalta",F,Kapoglapopilie,Household Duties,16 Dec 1968
+190,160220604,"Konopu, Judy",F,Kapoglapopilie,Subsistence Farmer,07 Nov 1977
+191,160218672,"Konopu, Kakaiye",F,Kapoglapopilie,Subsistence Farmer,11 Jul 1944
+192,160246148,"Konopu, Kuwin",F,Kapoglapopilie,Household Duties,17 Jan 1974
+193,160219079,"Konopu, Pricila",F,Kapoglapopilie,Student,11 Oct 1988
+194,25084239,"Koro, Tina",F,Kapoglapopilie,Teacher,13 May 1995
+195,160246094,"Korowa, Arenambo",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1982
+196,160210339,"Korowa, Gomo",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1971
+197,160203663,"Koyapo, Yando",F,Kapoglapopilie,Subsistence Farmer,22 Feb 1979
+198,160215244,"Koyapu, Boku",F,Kapoglapopilie,Subsistence Farmer,03 Jan 1955
+199,160446471,"Kuin, Joice",F,Kapoglapopilie,Student,02 Mar 2001
+200,160212761,"Kuleko, Jesica",F,Kapoglapopilie,Student,02 Nov 1988
+201,160210330,"Kuleko, Kagadi",F,Kapoglapopilie,Subsistence Farmer,24 Apr 1962
+202,160210189,"Kuleko, Kapi",F,Kapoglapopilie,Subsistence Farmer,11 Oct 1961
+203,160246152,"Kunjipa, Bembo",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1961
+204,160203662,"Kunjipa, Mepili",F,Kapoglapopilie,Subsistence Farmer,21 Feb 1958
+205,160203641,"Kunjipa, Merolin",F,Kapoglapopilie,Student,10 May 1979
+206,160212756,"Kuteme, Hellen",F,Kapoglapopilie,Nurse,09 Oct 1969
+207,160206848,"Lagai, Torome",F,Kapoglapopilie,Subsistence Farmer,10 Nov 1943
+208,160201225,"Langai, Tondea",F,Kapoglapopilie,Subsistence Farmer,05 Nov 1954
+209,160210616,"Lapi, Shara",F,Kapoglapopilie,Student,24 Aug 1972
+210,160227457,"Lare, Mary",F,Kapoglapopilie,Household Duties,02 Mar 1985
+211,160215933,"Lare, Susan",F,Kapoglapopilie,Student,05 May 1987
+212,160203672,"Lawa, Punge",F,Kapoglapopilie,Subsistence Farmer,24 Jun 1976
+213,160207085,"Lawa, Susan",F,Kapoglapopilie,Student,12 Oct 1981
+214,160201243,"Lembo, Nondo",F,Kapoglapopilie,Subsistence Farmer,23 Feb 1965
+215,160213583,"Lembo, Tori",F,Kapoglapopilie,Subsistence Farmer,19 Jul 1972
+216,160246606,"Lembo, Wendi",F,Kapoglapopilie,Subsistence Farmer,09 Apr 1985
+217,25084241,"Leme, Neli",F,Kapoglapopilie,Nurse,06 Jun 1999
+218,160246191,"Lep, Julia",F,Kapoglapopilie,Household Duties,15 Jun 1986
+219,160206854,"Lepilepi, Kondoli",F,Kapoglapopilie,Household Duties,15 Nov 1947
+220,160246072,"Lewa, Miriam",F,Kapoglapopilie,Household Duties,12 Apr 1986
+221,160446401,"Listan, Hilda",F,Kapoglapopilie,Household Duties,24 May 1992
+222,160123885,"Listen, Pielin",F,Kapoglapopilie,Household Duties,25 Jul 1990
+223,160215079,"Liwa, Mawa",F,Kapoglapopilie,Subsistence Farmer,03 Oct 1953
+224,160446396,"Lockee, Maciya",F,Kapoglapopilie,Student,05 Feb 2004
+225,160446397,"Lockee, Neomi",F,Kapoglapopilie,Student,20 Jan 2004
+226,160210323,"Loko, Kiye",F,Kapoglapopilie,Subsistence Farmer,02 Mar 1951
+227,160209941,"Lomogoi, Wate",F,Kapoglapopilie,Subsistence Farmer,05 Jul 1954
+228,160213705,"Lope, Aki",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1961
+229,160210622,"Lope, Kela",F,Kapoglapopilie,Subsistence Farmer,04 Oct 1960
+230,160198413,"Lopeke, Pollyn",F,Kapoglapopilie,Subsistence Farmer,10 Oct 1972
+231,160213688,"Lowaiye, Miti",F,Kapoglapopilie,Student,12 Mar 1984
+232,160213463,"Lowaiye, Punge",F,Kapoglapopilie,Subsistence Farmer,08 Nov 1979
+233,160246558,"Lucas, Hellen",F,Kapoglapopilie,Household Duties,24 Jan 1983
+234,160123725,"Luke, Jenny",F,Kapoglapopilie,Household Duties,24 Jul 1997
+235,160244340,"Luke, Julie",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1970
+236,160244339,"Luke, Miriam",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1977
+237,160123727,"Luke, Nancy",F,Kapoglapopilie,Household Duties,12 Nov 1990
+238,160215277,"Lukia, Lopame",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1957
+239,160210196,"Lumundu, Mata",F,Kapoglapopilie,Student,19 Oct 1988
+240,160139288,"Lumundu, Rondi",F,Kapoglapopilie,Student,26 Dec 1996
+241,160246220,"Maine, Ambore",F,Kapoglapopilie,Household Duties,07 Jun 1985
+242,160139294,"Maite, Betty",F,Kapoglapopilie,Teacher,27 Jul 1985
+243,160246740,"Maite, Lyn",F,Kapoglapopilie,Household Duties,01 Apr 1985
+244,160227581,"Makuwa, Kandipi",F,Kapoglapopilie,Household Duties,11 May 1949
+245,160217584,"Makuwa, Noino",F,Kapoglapopilie,Pastor,09 Dec 1934
+246,160446459,"Mali, Alina",F,Kapoglapopilie,Student,05 Jun 2003
+247,160210633,"Mali, Bepi",F,Kapoglapopilie,Subsistence Farmer,21 Jun 1955
+248,160227543,"Mali, Evelyn",F,Kapoglapopilie,Student,21 Jun 1987
+249,160210443,"Mali, Joise",F,Kapoglapopilie,Subsistence Farmer,10 Jun 1985
+250,160244351,"Mali, Lineth",F,Kapoglapopilie,Subsistence Farmer,21 May 1989
+251,160210623,"Mali, Nanil",F,Kapoglapopilie,Subsistence Farmer,10 Jul 1956
+252,160123755,"Mali, Polina",F,Kapoglapopilie,Student,09 Feb 1999
+253,160139296,"Mali, Tiye",F,Kapoglapopilie,Household Duties,01 Aug 1997
+254,160210624,"Mali, Wendi",F,Kapoglapopilie,Student,06 Nov 1980
+255,160245984,"Manu, Mary",F,Kapoglapopilie,Household Duties,14 Feb 1986
+256,25084248,"Manu, Shemila",F,Kapoglapopilie,Nurse,20 Jun 1990
+257,160245985,"Manu, Susie",F,Kapoglapopilie,Household Duties,16 Aug 1989
+258,160244377,"Mape, Rosana",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1981
+259,160246089,"Mark, Angella",F,Kapoglapopilie,Household Duties,15 Mar 1988
+260,160123882,"Mark, Cathy",F,Kapoglapopilie,Household Duties,24 Oct 1990
+261,160244332,"Mark, Jally",F,Kapoglapopilie,Household Duties,12 Apr 1987
+262,160123743,"Mark, Margaret",F,Kapoglapopilie,Household Duties,05 Jan 1996
+263,25084249,"Mark, Marina",F,Kapoglapopilie,Student,16 Jun 2003
+264,160244375,"Mark, Martha",F,Kapoglapopilie,Subsistence Farmer,14 Jul 1984
+265,160446406,"Mark, Mellen",F,Kapoglapopilie,Household Duties,11 Jan 1986
+266,160213578,"Markrol, Pipuru",F,Kapoglapopilie,Subsistence Farmer,11 Sep 1955
+267,160139278,"Marowa, Jacklyn",F,Kapoglapopilie,Teacher,07 May 1981
+268,160244519,"Marowa, Jolla",F,Kapoglapopilie,Student,16 Apr 1994
+269,25084253,"Martin, Martina",F,Kapoglapopilie,Self Employed,12 Jun 1990
+270,160446455,"Martin, Monica",F,Kapoglapopilie,Household Duties,02 Oct 1998
+271,160446362,"Mateh, Jeniffer",F,Kapoglapopilie,Casual Worker,14 Jun 1991
+272,160246728,"Mathew, Oreiambo",F,Kapoglapopilie,Household Duties,27 May 1986
+273,160224490,"Meck, Miriam",F,Kapoglapopilie,Subsistence Farmer,12 Jan 1957
+274,160244335,"Meckwin, Kiwi",F,Kapoglapopilie,Household Duties,11 Feb 1991
+275,160216128,"Mek, Bepi",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1965
+276,25084254,"Mek, Wini",F,Kapoglapopilie,Teacher,10 Oct 1980
+277,160213461,"Mendep, Nanol",F,Kapoglapopilie,Subsistence Farmer,02 Apr 1963
+278,160209768,"Mendo, Lin",F,Kapoglapopilie,Subsistence Farmer,01 Mar 1970
+279,160244482,"Michael, Linda",F,Kapoglapopilie,Household Duties,12 Jan 1988
+280,160244485,"Miemo, Sela",F,Kapoglapopilie,Household Duties,08 Oct 1972
+281,160446425,"Mike, Evelyn",F,Kapoglapopilie,Household Duties,02 May 1997
+282,160446468,"Mike, Regina",F,Kapoglapopilie,Housegirl,02 May 1976
+283,160222672,"Miwa, Jenny",F,Kapoglapopilie,Subsistence Farmer,21 Jul 1973
+284,160446454,"Monda, Alis",F,Kapoglapopilie,Student,03 Mar 2002
+285,160209720,"Monda, Erisah",F,Kapoglapopilie,Student,12 Jul 1984
+286,160121982,"Monda, Ruth",F,Kapoglapopilie,Student,16 Feb 1999
+287,160213700,"Mondo, Nema",F,Kapoglapopilie,Subsistence Farmer,11 Mar 1954
+288,160210188,"Mondopa, Kuku",F,Kapoglapopilie,Subsistence Farmer,11 Oct 1972
+289,160206842,"Mondopa, Nali",F,Kapoglapopilie,Subsistence Farmer,26 Jul 1943
+290,160213703,"Mone, Jereti",F,Kapoglapopilie,Student,02 Apr 1988
+291,160213686,"Mone, Yara",F,Kapoglapopilie,Subsistence Farmer,05 Sep 1970
+292,160222548,"Mukiye, Kumbiye",F,Kapoglapopilie,Subsistence Farmer,24 Oct 1954
+293,160222541,"Mukiye, Lembo",F,Kapoglapopilie,Subsistence Farmer,05 Mar 1944
+294,160222550,"Mukiye, Molombo",F,Kapoglapopilie,Subsistence Farmer,19 Feb 1961
+295,160446407,"Nale, Jelyn",F,Kapoglapopilie,Household Duties,10 May 1994
+296,160123733,"Nale, Mayambo",F,Kapoglapopilie,Household Duties,11 Aug 1952
+297,160198409,"Nale, Tomambo",F,Kapoglapopilie,Subsistence Farmer,08 Nov 1949
+298,160244483,"Nandiye, Lilly",F,Kapoglapopilie,Household Duties,16 Jun 1979
+299,160210194,"Nangi, Christina",F,Kapoglapopilie,Teacher,07 Sep 1969
+300,160213359,"Nangi, Frinda",F,Kapoglapopilie,Subsistence Farmer,29 May 1979
+301,160219072,"Nangi, Jecica",F,Kapoglapopilie,Student,02 Nov 1980
+302,160227436,"Nawea, Reina",F,Kapoglapopilie,Household Duties,01 Jan 1977
+303,160446462,"Nelson, Ronda",F,Kapoglapopilie,Student,09 Mar 2004
+304,160213682,"Nema, Bepi",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1953
+305,160213684,"Nema, Macina",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1984
+306,160201227,"Nembo, Hellen",F,Kapoglapopilie,Subsistence Farmer,16 Nov 1977
+307,160446436,"Nembo, Momo",F,Kapoglapopilie,Typist,07 Aug 1979
+308,160215919,"Nembo, Mondieme",F,Kapoglapopilie,Subsistence Farmer,05 May 1981
+309,160198543,"Nembo, Sera",F,Kapoglapopilie,Student,03 May 1984
+310,160246739,"Nengi, Serah",F,Kapoglapopilie,Not Specified,10 Nov 1985
+311,160246719,"Nicolas, Cecilia",F,Kapoglapopilie,Household Duties,24 Jan 1982
+312,25084255,"Nindil, Mary",F,Kapoglapopilie,Student,07 Jan 2004
+313,160215935,"Ninge, Mary",F,Kapoglapopilie,Subsistence Farmer,01 Oct 1974
+314,160246221,"Ninge, Pileru",F,Kapoglapopilie,Household Duties,01 Jan 1955
+315,160215081,"Niningi, Janita",F,Kapoglapopilie,Subsistence Farmer,07 Aug 1986
+316,160215293,"Niningi, Pilto",F,Kapoglapopilie,Subsistence Farmer,05 May 1980
+317,160212595,"Nipul, Laiya",F,Kapoglapopilie,Subsistence Farmer,17 Aug 1971
+318,160123745,"Nobert, Lyn",F,Kapoglapopilie,Student,26 Sep 1996
+319,160123744,"Nobert, Quida",F,Kapoglapopilie,Student,01 Feb 1998
+320,160139290,"Nobert, Veida",F,Kapoglapopilie,Student,12 Nov 1998
+321,160215275,"Nokop, Norin",F,Kapoglapopilie,Student,05 Jul 1987
+322,160198420,"Nokop, Susan",F,Kapoglapopilie,Student,14 Aug 1987
+323,160217661,"Nokopa, Anna",F,Kapoglapopilie,Subsistence Farmer,07 Mar 1986
+324,160244495,"Nokopa, Merelyn",F,Kapoglapopilie,Household Duties,03 May 1980
+325,160216596,"Nokopa, Puke",F,Kapoglapopilie,Student,07 Jan 1990
+326,160244490,"Nokopa, Serah",F,Kapoglapopilie,Student,21 Oct 1991
+327,160201877,"Nombomaiye, Ninde",F,Kapoglapopilie,Subsistence Farmer,29 Sep 1946
+328,160446390,"Norbet, Vendor",F,Kapoglapopilie,Student,01 May 1997
+329,160446391,"Norbet, Zuider",F,Kapoglapopilie,Student,10 Feb 1995
+330,160209821,"Norum, Tagodo",F,Kapoglapopilie,Subsistence Farmer,19 Apr 1957
+331,160213577,"Nume, Ikino",F,Kapoglapopilie,Subsistence Farmer,13 Apr 1941
+332,160446438,"Olgai, Kati",F,Kapoglapopilie,Household Duties,28 Apr 1998
+333,160446359,"Onda, Frenda",F,Kapoglapopilie,Student,10 Jan 2004
+334,160227327,"Onda, Hellen",F,Kapoglapopilie,Household Duties,20 Apr 1974
+335,160123742,"Onda, Lina",F,Kapoglapopilie,Household Duties,01 Mar 1992
+336,160446355,"Opa, Roslyn",F,Kapoglapopilie,Household Duties,20 Jan 1991
+337,160244331,"Opa, Sheron",F,Kapoglapopilie,Household Duties,20 Apr 1987
+338,160216295,"Pakune, Kurume",F,Kapoglapopilie,Subsistence Farmer,11 Jan 1956
+339,160246711,"Pamili, Fidelyn",F,Kapoglapopilie,Student,20 Oct 1989
+340,160246715,"Pamili, Miriam",F,Kapoglapopilie,Household Duties,01 Jan 1976
+341,160244500,"Pandea, Anna",F,Kapoglapopilie,Student,14 Aug 1992
+342,160123746,"Pandea, Evelyn",F,Kapoglapopilie,Student,04 Feb 1994
+343,160210197,"Pandea, Kalepo",F,Kapoglapopilie,Subsistence Farmer,11 Sep 1957
+344,160244481,"Pandea, Lanis",F,Kapoglapopilie,Student,30 Oct 1990
+345,160209773,"Pandea, Nepiye",F,Kapoglapopilie,Student,05 Sep 1981
+346,160212594,"Pandea, Pilge",F,Kapoglapopilie,Subsistence Farmer,10 Nov 1968
+347,160216138,"Pandea, Veroni",F,Kapoglapopilie,Student,01 Dec 1986
+348,160246227,"Pandea, Walta",F,Kapoglapopilie,Household Duties,03 Jun 1950
+349,160227399,"Pandea, Wane",F,Kapoglapopilie,Student,12 Oct 1986
+350,160201875,"Pani, Kodeno",F,Kapoglapopilie,Subsistence Farmer,13 Jul 1969
+351,160222668,"Panjipo, Rota",F,Kapoglapopilie,Subsistence Farmer,29 Nov 1975
+352,160246199,"Panjipo, Sapona",F,Kapoglapopilie,Household Duties,04 Jan 1983
+353,160244383,"Pareka, Janeth",F,Kapoglapopilie,Not Specified,19 Mar 1987
+354,160203674,"Paru, Ponjilbal",F,Kapoglapopilie,Subsistence Farmer,29 Sep 1942
+355,160216142,"Paul, Helen",F,Kapoglapopilie,Subsistence Farmer,16 Nov 1979
+356,160446410,"Paul, Jenny",F,Kapoglapopilie,Household Duties,10 Sep 2000
+357,160213363,"Paul, Joies",F,Kapoglapopilie,Subsistence Farmer,16 Sep 1974
+358,160446408,"Paul, Jola",F,Kapoglapopilie,Student,10 Feb 2004
+359,160213356,"Paul, Nomi",F,Kapoglapopilie,Subsistence Farmer,13 Jan 1972
+360,160246334,"Paul, Rebecca",F,Kapoglapopilie,Household Duties,01 Jan 1983
+361,160246743,"Paul, Serina",F,Kapoglapopilie,Student,12 Mar 1986
+362,160227297,"Paul, Sheron",F,Kapoglapopilie,Household Duties,06 May 1982
+363,160246748,"Pawa, Pearlyn",F,Kapoglapopilie,Student,12 Oct 1991
+364,25084258,"Pawa, Sherol",F,Kapoglapopilie,Student,24 Jan 2000
+365,160206700,"Pawa, Tenny",F,Kapoglapopilie,Subsistence Farmer,11 Sep 1977
+366,160203661,"Pedene, Noimbo",F,Kapoglapopilie,Subsistence Farmer,26 Aug 1967
+367,160227461,"Peleyaie, Regina",F,Kapoglapopilie,Household Duties,01 Jan 2000
+368,160227282,"Peleyaire, Ruth",F,Kapoglapopilie,Household Duties,18 Aug 1978
+369,160201876,"Pembo, Melin",F,Kapoglapopilie,Student,12 Nov 1988
+370,160246143,"Pembo, Merolyn",F,Kapoglapopilie,Student,10 Dec 1990
+371,160204682,"Pembo, Tenny",F,Kapoglapopilie,Subsistence Farmer,11 Jun 1975
+372,160123740,"Pena, Alice",F,Kapoglapopilie,Household Duties,27 Mar 1991
+373,160123739,"Pepena, Priscilla",F,Kapoglapopilie,Nurse,05 Jun 1993
+374,160244486,"Pepena, Rebeca",F,Kapoglapopilie,Household Duties,22 May 1988
+375,160139281,"Pera, Bepi",F,Kapoglapopilie,Household Duties,24 Jun 1981
+376,160203671,"Pera, Bepi",F,Kapoglapopilie,Subsistence Farmer,16 Apr 1952
+377,160203670,"Pera, Dolly",F,Kapoglapopilie,Subsistence Farmer,12 Sep 1987
+378,25084259,"Pera, Dorothy",F,Kapoglapopilie,Self Employed,14 May 1998
+379,160209848,"Pera, Ely",F,Kapoglapopilie,Subsistence Farmer,08 Jan 1985
+380,160244353,"Pera, Maggi thomas",F,Kapoglapopilie,Subsistence Farmer,14 Jun 1984
+381,160210618,"Pera, Maria",F,Kapoglapopilie,Subsistence Farmer,05 Dec 1953
+382,160209851,"Pera, Nawa",F,Kapoglapopilie,Subsistence Farmer,16 Feb 1988
+383,160215950,"Pera, Tiye",F,Kapoglapopilie,Subsistence Farmer,11 Sep 1952
+384,160222542,"Pera, Waina",F,Kapoglapopilie,Subsistence Farmer,02 Oct 1967
+385,160244506,"Pero, Lucy",F,Kapoglapopilie,Household Duties,31 Dec 1989
+386,25084260,"Perry, Irreen",F,Kapoglapopilie,Accountant,15 Jun 1980
+387,160244505,"Peter, Daina",F,Kapoglapopilie,Household Duties,01 Jan 1981
+388,160246332,"Peter, Diana",F,Kapoglapopilie,Student,03 Oct 1988
+389,160244366,"Peter, Jenny",F,Kapoglapopilie,Household Duties,01 Jan 1969
+390,160244477,"Peter, Joicyka",F,Kapoglapopilie,Household Duties,28 Oct 1987
+391,160123897,"Peter, Judith",F,Kapoglapopilie,Household Duties,04 Mar 1982
+392,160446375,"Peter, Judy",F,Kapoglapopilie,Accountant,04 May 1985
+393,160123905,"Peter, Marin",F,Kapoglapopilie,Household Duties,19 Sep 1990
+394,160123883,"Peter, Ruth",F,Kapoglapopilie,Household Duties,19 Jul 1990
+395,160139293,"Peter, Sharean",F,Kapoglapopilie,Student,12 Jan 1999
+396,160446403,"Peter, Sovian",F,Kapoglapopilie,Student,01 Feb 2004
+397,160244509,"Peter, Tovila",F,Kapoglapopilie,Not Specified,21 Oct 1992
+398,160227434,"Peya, Jenifer",F,Kapoglapopilie,Student,05 Mar 1987
+399,160227452,"Peya, Jenny",F,Kapoglapopilie,Household Duties,23 Apr 1976
+400,160227439,"Peya, Mapa",F,Kapoglapopilie,Household Duties,27 Feb 1959
+401,160210731,"Peyandi, Lamambo",F,Kapoglapopilie,Subsistence Farmer,09 Feb 1975
+402,160204684,"Peyandi, Lelly",F,Kapoglapopilie,Student,06 Mar 1982
+403,160244350,"Philip, Carolyn",F,Kapoglapopilie,Household Duties,05 Feb 1985
+404,160123754,"Philip, Loi",F,Kapoglapopilie,Household Duties,06 Aug 1991
+405,160123753,"Philip, Maria",F,Kapoglapopilie,Household Duties,17 Apr 1994
+406,160244337,"Pila, Rebeca",F,Kapoglapopilie,Household Duties,16 Nov 1989
+407,160206852,"Pilembo, Bedeneth",F,Kapoglapopilie,Student,28 May 1980
+408,160227295,"Pilembo, Lina",F,Kapoglapopilie,Student,09 Nov 1985
+409,160204512,"Pilembo, Magani",F,Kapoglapopilie,Subsistence Farmer,29 Jun 1974
+410,160204513,"Pilembo, Mare",F,Kapoglapopilie,Worker,09 Nov 1976
+411,160204515,"Pilembo, Roslin",F,Kapoglapopilie,Student,09 Nov 1979
+412,160215925,"Poropa, Beki",F,Kapoglapopilie,Subsistence Farmer,10 Dec 1959
+413,160227429,"Puage, Jenet",F,Kapoglapopilie,Typist,14 Nov 1982
+414,160204680,"Puiye, Anna",F,Kapoglapopilie,Subsistence Farmer,09 Nov 1980
+415,160446384,"Puiye, Rosa",F,Kapoglapopilie,Household Duties,06 Jan 2000
+416,160204519,"Puleke, Jenny",F,Kapoglapopilie,Subsistence Farmer,01 Sep 1968
+417,160204521,"Puleke, Ruth",F,Kapoglapopilie,Subsistence Farmer,04 Dec 1972
+418,160446363,"Pumbo, Belinda",F,Kapoglapopilie,Household Duties,06 Jul 1996
+419,160244376,"Pumpo, Mombo",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1980
+420,160244381,"Pundia, Anita",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1985
+421,160123887,"Pundia, Meklyn",F,Kapoglapopilie,Household Duties,19 May 1992
+422,160246353,"Pundia, Pai",F,Kapoglapopilie,Household Duties,19 Oct 1981
+423,160215080,"Puri, Wambiye",F,Kapoglapopilie,Subsistence Farmer,03 May 1971
+424,160123900,"Puye, Rosa",F,Kapoglapopilie,Household Duties,10 Apr 1986
+425,25084266,"Remcy, Dodo",F,Kapoglapopilie,Teacher,01 Jun 2000
+426,160244342,"Robert, Lian",F,Kapoglapopilie,Household Duties,02 Apr 1985
+427,160227328,"Ron, Ruth",F,Kapoglapopilie,Household Duties,21 Mar 1982
+428,160215258,"Roy, Nancy",F,Kapoglapopilie,Subsistence Farmer,03 Jun 1981
+429,25084271,"Salas, Jenny",F,Kapoglapopilie,Student,12 Jul 1999
+430,160123877,"Samson, Regina",F,Kapoglapopilie,Household Duties,12 Jan 1984
+431,160123890,"Samson, Sheron",F,Kapoglapopilie,Household Duties,07 Aug 1986
+432,160224494,"Sanio, Lany",F,Kapoglapopilie,Subsistence Farmer,05 Nov 1982
+433,160222658,"Sanio, Treci",F,Kapoglapopilie,Student,03 May 1989
+434,160446465,"Ship, Lia",F,Kapoglapopilie,Household Duties,09 Mar 2000
+435,160446451,"Simon, Alice",F,Kapoglapopilie,Subsistence Farmer,05 Jun 1978
+436,160122059,"Simon, Betty",F,Kapoglapopilie,Household Duties,12 Nov 1985
+437,160201218,"Simon, Evellin",F,Kapoglapopilie,Subsistence Farmer,11 Oct 1946
+438,160446393,"Simon, Selina",F,Kapoglapopilie,Student,04 Feb 2004
+439,160138477,"Solomon, Pricillla",F,Kapoglapopilie,Worker,06 Jun 1991
+440,160446443,"Solomon, Selly",F,Kapoglapopilie,Nurse,05 Jan 2000
+441,160244323,"Solomon, Wendy",F,Kapoglapopilie,Household Duties,13 Dec 1990
+442,160446377,"Stanley, Jocica",F,Kapoglapopilie,Household Duties,04 May 1994
+443,160244487,"Stanley, Joice",F,Kapoglapopilie,Household Duties,12 Nov 1991
+444,160446428,"Stanley, Joisaina",F,Kapoglapopilie,Household Duties,02 Jun 1995
+445,160139280,"Stanley, Regina",F,Kapoglapopilie,Household Duties,04 Nov 1991
+446,160446413,"Stanley, Roslyn",F,Kapoglapopilie,Household Duties,10 Jun 2000
+447,160446427,"Stanley, Serah",F,Kapoglapopilie,Household Duties,04 Feb 1995
+448,160123888,"Tai, Roselyn",F,Kapoglapopilie,Household Duties,29 Dec 1990
+449,160246235,"Tale, Mary",F,Kapoglapopilie,Household Duties,24 Mar 1968
+450,160215932,"Tale, Pollyn",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1986
+451,160446463,"Tale, Saplyn",F,Kapoglapopilie,Student,05 Nov 2001
+452,160446440,"Tamaiye, Rose",F,Kapoglapopilie,Student,10 Jan 2004
+453,160203677,"Tambai, Cathy",F,Kapoglapopilie,Subsistence Farmer,11 Dec 1972
+454,160446439,"Tambaiye, Joice",F,Kapoglapopilie,Student,02 Apr 2004
+455,160121970,"Tambaiye, Rose",F,Kapoglapopilie,Student,03 Feb 1999
+456,160246579,"Tame, Anjo",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1948
+457,160222669,"Tame, Cleya",F,Kapoglapopilie,Subsistence Farmer,06 Nov 1966
+458,160213527,"Tape, Akenes",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1980
+459,160210192,"Tele, Wari",F,Kapoglapopilie,Subsistence Farmer,12 Feb 1956
+460,160209847,"Temane, Magret",F,Kapoglapopilie,Subsistence Farmer,21 Aug 1971
+461,160210444,"Ten, Regina",F,Kapoglapopilie,Student,01 Jan 1983
+462,160215234,"Tene, Kerambo",F,Kapoglapopilie,Subsistence Farmer,18 Oct 1978
+463,160217586,"Teng, Carthy",F,Kapoglapopilie,Subsistence Farmer,12 Sep 1967
+464,160139295,"Tenge, Alina",F,Kapoglapopilie,Student,07 Jan 1999
+465,160227480,"Tenge, Kethy",F,Kapoglapopilie,Household Duties,20 Jan 1981
+466,160246578,"Tenis, Anna",F,Kapoglapopilie,Household Duties,04 Nov 1989
+467,160446411,"Thomas, Anna",F,Kapoglapopilie,Household Duties,07 Feb 1986
+468,160216109,"Thomas, Berinda",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1966
+469,160123726,"Thomas, Lyn",F,Kapoglapopilie,Household Duties,04 Feb 1996
+470,25084275,"Thomas, Pacence",F,Kapoglapopilie,Student,01 Jan 2003
+471,160227190,"Thomas, Purem",F,Kapoglapopilie,Teacher,03 Feb 1978
+472,160446404,"Timothy, Jerothy",F,Kapoglapopilie,Household Duties,10 Jan 1994
+473,160246746,"Titus, Mary",F,Kapoglapopilie,Household Duties,10 Dec 1959
+474,160123757,"Tiye, Oliver",F,Kapoglapopilie,Student,03 Jan 1999
+475,160215637,"Tiyewe, Mele",F,Kapoglapopilie,Subsistence Farmer,04 Jun 1960
+476,160201206,"Toite, Bepi",F,Kapoglapopilie,Subsistence Farmer,12 Nov 1957
+477,160210634,"Toite, Yawini",F,Kapoglapopilie,Subsistence Farmer,26 Apr 1953
+478,160244357,"Toiye, Nancy",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1987
+479,160222539,"Tokopi, Jeneth",F,Kapoglapopilie,Subsistence Farmer,04 Nov 1977
+480,25084277,"Tolai, Francian",F,Kapoglapopilie,Student,19 Oct 2000
+481,160227445,"Tolai, Susan",F,Kapoglapopilie,Household Duties,27 Jul 1978
+482,160139286,"Toli, Carolyn",F,Kapoglapopilie,Household Duties,17 Jul 1997
+483,160203665,"Tomano, Cicilia",F,Kapoglapopilie,Student,23 Oct 1981
+484,160203664,"Tomano, Yarambo",F,Kapoglapopilie,Subsistence Farmer,11 Oct 1957
+485,160246712,"Tombambo, Ana",F,Kapoglapopilie,Household Duties,01 Jan 1974
+486,160246103,"Tombo, Engambo",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1971
+487,160123881,"Tombo, Rita",F,Kapoglapopilie,Student,08 Feb 1999
+488,160246154,"Tonda, Nancy",F,Kapoglapopilie,Subsistence Farmer,01 Jan 1974
+489,160246753,"Tonny, Heather",F,Kapoglapopilie,Student,03 Apr 1990
+490,160209820,"Tonny, Topina",F,Kapoglapopilie,Student,20 Apr 1987
+491,160215235,"Torea, Carthy",F,Kapoglapopilie,Subsistence Farmer,11 Jan 1970
+492,160246697,"Tuku, Mary",F,Kapoglapopilie,Household Duties,03 Oct 1982
+493,160138464,"Tuku, Regina",F,Kapoglapopilie,Household Duties,25 Jul 1994
+494,25084280,"Tukundo, Lenda",F,Kapoglapopilie,Student,12 Apr 2002
+495,160204707,"Tumonoiye, Wandea",F,Kapoglapopilie,Subsistence Farmer,10 Nov 1946
+496,160215955,"Tungil, Betty",F,Kapoglapopilie,Subsistence Farmer,03 Mar 1985
+497,160215924,"Tungil, Hellen",F,Kapoglapopilie,Subsistence Farmer,10 Apr 1981
+498,160244489,"Turi, Delma",F,Kapoglapopilie,Household Duties,25 Sep 1987
+499,160123734,"Turi, Jacklyn",F,Kapoglapopilie,Not Specified,16 Dec 1994
+500,160198422,"Turi, Lenta",F,Kapoglapopilie,Student,16 Apr 1983
+501,160227116,"Turi, Lucy",F,Kapoglapopilie,Household Duties,06 Mar 1987
+502,160222664,"Turi, Maria",F,Kapoglapopilie,Subsistence Farmer,01 Feb 1962
+503,160446385,"Turi, Oliver",F,Kapoglapopilie,Household Duties,05 Jan 1979
+504,160224489,"Turi, Pulgiye",F,Kapoglapopilie,Subsistence Farmer,07 Aug 1960
+505,160246248,"Ume, Yakelatel",F,Kapoglapopilie,Household Duties,03 Nov 1960
+506,160209823,"Waka, Pukiri",F,Kapoglapopilie,Subsistence Farmer,29 Jun 1954
+507,160213701,"Wakane, Betty",F,Kapoglapopilie,Subsistence Farmer,07 Nov 1972
+508,25084282,"Wakane, Dormil",F,Kapoglapopilie,Student,02 Jan 2004
+509,25084283,"Wakane, Dormil",F,Kapoglapopilie,Student,20 Jan 2004
+510,25084284,"Wakane, Jassinta",F,Kapoglapopilie,Student,07 Aug 2000
+511,160213702,"Wakane, Mary",F,Kapoglapopilie,Student,01 Mar 1980
+512,160213464,"Wakane, Matina",F,Kapoglapopilie,Student,05 Apr 1990
+513,160213687,"Wakane, Muniye",F,Kapoglapopilie,Subsistence Farmer,04 Jul 1969
+514,25087366,"Wakani, Josinta",F,Kapoglapopilie,Student,07 Aug 2000
+515,160246581,"Wako, Rachael",F,Kapoglapopilie,Household Duties,16 May 1989
+516,160217680,"Wali, Genny",F,Kapoglapopilie,Subsistence Farmer,26 Aug 1970
+517,160244130,"Wama, Jenneth",F,Kapoglapopilie,Household Duties,12 Jan 1984
+518,160244521,"Wamoko, Anita",F,Kapoglapopilie,Student,15 Apr 1995
+519,160222555,"Wamoko, Monica",F,Kapoglapopilie,Student,28 Jul 1985
+520,160215952,"Wamoko, Tande",F,Kapoglapopilie,Student,03 Nov 1989
+521,160246714,"Wande, Christina",F,Kapoglapopilie,Student,04 Nov 1990
+522,160446470,"Wande, Dorcas",F,Kapoglapopilie,Student,10 Apr 2003
+523,160212468,"Wande, Lina",F,Kapoglapopilie,Student,05 Feb 1984
+524,160213357,"Wande, Pukiri",F,Kapoglapopilie,Subsistence Farmer,11 Oct 1957
+525,160210333,"Wane, Mary",F,Kapoglapopilie,Student,08 Sep 1986
+526,160212588,"Wane, Mopune",F,Kapoglapopilie,Subsistence Farmer,11 Jan 1972
+527,160219075,"Wane, Nali",F,Kapoglapopilie,Worker,27 Jun 1975
+528,160210325,"Wane, Wanita",F,Kapoglapopilie,Subsistence Farmer,11 Jan 1950
+529,160227476,"Wanpis, Meklyn",F,Kapoglapopilie,Household Duties,05 Apr 1980
+530,160123907,"Wanpis, Ronda",F,Kapoglapopilie,Student,06 Jan 1999
+531,160198402,"Wapea, Jenny",F,Kapoglapopilie,Subsistence Farmer,19 Nov 1968
+532,160220600,"Wapea, Konie",F,Kapoglapopilie,Subsistence Farmer,11 Dec 1960
+533,160210322,"Wapo, Kuta",F,Kapoglapopilie,Subsistence Farmer,02 Jul 1950
+534,25084290,"Warea, Shakinsa",F,Kapoglapopilie,Nurse,16 Jun 2001
+535,160446386,"Wari, Alis",F,Kapoglapopilie,Household Duties,05 Jun 1996
+536,160244494,"Wari, Josephine",F,Kapoglapopilie,Household Duties,17 Sep 1984
+537,160123893,"Wee, Hellen",F,Kapoglapopilie,Household Duties,01 Jan 1989
+538,160207083,"Wepa, Ipondo",F,Kapoglapopilie,Subsistence Farmer,10 Nov 1952
+539,160227450,"Wepa, Ruth",F,Kapoglapopilie,Household Duties,25 Apr 1954
+540,25084292,"Wera, Ninde",F,Kapoglapopilie,Teacher,18 Jul 1990
+541,160217662,"Wereko, Jully",F,Kapoglapopilie,Subsistence Farmer,08 Dec 1971
+542,160139283,"Wesley, Emma",F,Kapoglapopilie,Household Duties,01 Jun 1981
+543,160123904,"Wesly, Lisa",F,Kapoglapopilie,Worker,10 Jul 1983
+544,160446458,"Wiks, Elevin",F,Kapoglapopilie,Household Duties,11 Dec 1998
+545,25084293,"Willy, Selly",F,Kapoglapopilie,Student,16 Mar 2001
+546,160211318,"Windi, Ely",F,Kapoglapopilie,Subsistence Farmer,14 Jun 1970
+547,160210631,"Wini, Miti",F,Kapoglapopilie,Subsistence Farmer,26 May 1976
+548,160246559,"Wini, Pauline",F,Kapoglapopilie,Household Duties,03 Dec 1974
+549,25084294,"Wini, Shemila",F,Kapoglapopilie,Student,05 Jan 2004
+550,160244330,"Wiwa, Merelyn",F,Kapoglapopilie,Household Duties,18 Dec 1986
+551,160246071,"Yaki, Mary",F,Kapoglapopilie,Household Duties,29 Oct 1982
+552,160244510,"Yala, Freda",F,Kapoglapopilie,Store Keeper,16 Sep 1989
+553,160446446,"Yala, Vero",F,Kapoglapopilie,Student,06 Feb 2004
+554,160446373,"Yali, Ragilar",F,Kapoglapopilie,Student,05 Feb 2004
+555,160201878,"Yalkape, Betty",F,Kapoglapopilie,Subsistence Farmer,16 Feb 1958
+556,160246318,"Yando, Helly",F,Kapoglapopilie,Household Duties,17 May 1989
+557,160446445,"Yando, Ronda",F,Kapoglapopilie,Housegirl,05 Jun 1996
+558,160246696,"Yangon, Natasa",F,Kapoglapopilie,Student,01 Jan 1993
+559,160219073,"Yombono, Yarino",F,Kapoglapopilie,Subsistence Farmer,21 Jul 1972
+560,160244518,"Yote, Lodica",F,Kapoglapopilie,Student,27 Aug 1994
+561,160246082,"Yunugo, Lina",F,Kapoglapopilie,Household Duties,14 Mar 1987
+562,160227469,"Ailembo, Jenet",M,Kapoglapopilie,Student,11 Oct 1981
+563,160215921,"Aiyeulge, Nokop",M,Kapoglapopilie,Subsistence Farmer,12 Oct 1964
+564,160215279,"Aiyeulge, Tonda",M,Kapoglapopilie,Subsistence Farmer,11 Mar 1974
+565,160210326,"Akena, John",M,Kapoglapopilie,Subsistence Farmer,04 Aug 1977
+566,160213580,"Akena, Mark",M,Kapoglapopilie,Worker,17 Apr 1972
+567,160210338,"Akena, Solomon",M,Kapoglapopilie,Student,20 Feb 1989
+568,160246709,"Alandi, Ninge",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1954
+569,160210334,"Andoli, Korowa",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1950
+570,25084214,"Anis, Pindi",M,Kapoglapopilie,Household Duties,03 Mar 2000
+571,25084215,"Arigo, Mandawi",M,Kapoglapopilie,Accountant,13 Nov 1990
+572,160246087,"Berem, Brass",M,Kapoglapopilie,Student,13 Apr 1991
+573,160217681,"Berem, Lukas",M,Kapoglapopilie,Subsistence Farmer,19 Oct 1976
+574,160211146,"Berem, Makoroli",M,Kapoglapopilie,Subsistence Farmer,21 Jul 1982
+575,160210626,"Berem, Mali",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1987
+576,160123889,"Berem, Pende",M,Kapoglapopilie,Student,20 Apr 1997
+577,160244517,"Berem, Rex",M,Kapoglapopilie,Houseboy,01 Jan 1990
+578,160203675,"Berem, Simon",M,Kapoglapopilie,Subsistence Farmer,05 Jan 1982
+579,160206847,"Berem, Willy",M,Kapoglapopilie,Subsistence Farmer,15 Feb 1981
+580,160246110,"Billy, Takera",M,Kapoglapopilie,Student,13 Mar 1990
+581,160123873,"Boso, Jack",M,Kapoglapopilie,Student,14 May 1998
+582,160139277,"Boso, Kuro",M,Kapoglapopilie,Student,21 Aug 1994
+583,160123872,"Boso, Rali",M,Kapoglapopilie,Sales Women,06 Feb 1999
+584,160139274,"Boso, William",M,Kapoglapopilie,Student,08 Mar 1999
+585,160123871,"Boso, Yaa",M,Kapoglapopilie,Student,16 Apr 1997
+586,160446366,"Boso, Yano",M,Kapoglapopilie,Student,03 Mar 2004
+587,160446353,"Clement, Jero",M,Kapoglapopilie,Student,20 Jan 2004
+588,160446376,"Collin, Nason",M,Kapoglapopilie,Student,04 Feb 2004
+589,25084216,"Danlly, Benjamin",M,Kapoglapopilie,Student,01 Jan 2000
+590,160222673,"Dopo, Kelly",M,Kapoglapopilie,Worker,18 Jun 1977
+591,160215633,"Dopo, Puiye",M,Kapoglapopilie,Subsistence Farmer,03 Oct 1976
+592,160215635,"Dopo, Tedako",M,Kapoglapopilie,Student,07 Mar 1990
+593,160217575,"Dopo, Turi",M,Kapoglapopilie,Subsistence Farmer,11 Dec 1980
+594,160210635,"Galepa, Kari",M,Kapoglapopilie,Student,11 Oct 1990
+595,160227553,"Garu, Gifson",M,Kapoglapopilie,Subsistence Farmer,17 Apr 1985
+596,160227585,"Garu, Lewa",M,Kapoglapopilie,Subsistence Farmer,03 Dec 1975
+597,160219078,"Garu, Nombea",M,Kapoglapopilie,Subsistence Farmer,25 Mar 1959
+598,25084217,"Gath, Sains",M,Kapoglapopilie,Student,27 Sep 2003
+599,25084218,"Gelepa, Micha",M,Kapoglapopilie,Student,19 Oct 2000
+600,160246150,"Glare, Jacob",M,Kapoglapopilie,Student,21 Sep 1989
+601,160245993,"Glare, Jonah",M,Kapoglapopilie,Student,15 Mar 1991
+602,25084221,"Honda, Bozovi",M,Kapoglapopilie,Student,02 May 2002
+603,160123751,"Honda, Joas",M,Kapoglapopilie,Student,21 Feb 1999
+604,25084222,"Honda, Maxwel",M,Kapoglapopilie,Student,06 Apr 2003
+605,25084223,"Honda, Steward",M,Kapoglapopilie,Student,24 Jun 1997
+606,160210445,"Ilaka, Loko",M,Kapoglapopilie,Subsistence Farmer,11 May 1950
+607,160198416,"Ipo, Karaiye",M,Kapoglapopilie,Subsistence Farmer,14 Mar 1950
+608,160446434,"Jack, Clinton",M,Kapoglapopilie,Student,11 Jan 2004
+609,25084226,"Jack, Milten",M,Kapoglapopilie,Student,06 Sep 2003
+610,160446472,"James, Danstan",M,Kapoglapopilie,Student,24 Jan 2004
+611,160227293,"James, Douglas",M,Kapoglapopilie,Student,24 Jan 1988
+612,160246749,"James, Masiah",M,Kapoglapopilie,Student,13 Apr 1989
+613,25084228,"Jera, Kapolapopile",M,Kapoglapopilie,Teacher,13 Nov 2001
+614,25084229,"Jeremiah, Junior",M,Kapoglapopilie,Student,16 Jun 2003
+615,25087362,"Joe, Charlie",M,Kapoglapopilie,Student,01 Jan 2001
+616,160446400,"John, Johnson",M,Kapoglapopilie,Student,06 Jan 2004
+617,160246218,"Joseph, Philip",M,Kapoglapopilie,Student,10 May 1992
+618,160246582,"Junior, Charlie",M,Kapoglapopilie,Student,27 Mar 1989
+619,25084233,"Justin, Benjamin",M,Kapoglapopilie,Student,02 Jan 2003
+620,25084234,"Justin, Denden",M,Kapoglapopilie,Student,04 Apr 2000
+621,25084236,"Justin, Joel",M,Kapoglapopilie,Student,03 Feb 2003
+622,160244346,"Justin, Olgai",M,Kapoglapopilie,Student,11 Mar 1988
+623,160246752,"Kala toli, Pareka",M,Kapoglapopilie,Subsistence Farmer,04 Sep 1987
+624,160209850,"Kalatoli, Samson",M,Kapoglapopilie,Subsistence Farmer,07 Dec 1985
+625,160222549,"Kalatoli, Thomas",M,Kapoglapopilie,Subsistence Farmer,07 Sep 1965
+626,160227582,"Kalatoli, Tiye",M,Kapoglapopilie,Subsistence Farmer,21 Sep 1982
+627,160203668,"Kalatoli, Tukundo",M,Kapoglapopilie,Subsistence Farmer,16 Feb 1980
+628,160216135,"Kalta, Kera",M,Kapoglapopilie,Subsistence Farmer,10 May 1950
+629,160213459,"Kalta, Wakane",M,Kapoglapopilie,Subsistence Farmer,11 Oct 1962
+630,160227394,"Kambaiye, Brigrit",M,Kapoglapopilie,Student,01 Jan 1987
+631,160212602,"Kambaiye, Gepen",M,Kapoglapopilie,Subsistence Farmer,04 Mar 1980
+632,160219071,"Kambaiye, Pembo",M,Kapoglapopilie,Teacher,01 Sep 1970
+633,160227392,"Kambaiye, Shalot",M,Kapoglapopilie,Student,05 May 1986
+634,160213360,"Kambaiye, Thomas",M,Kapoglapopilie,Teacher,11 Oct 1971
+635,160215240,"Kanambo, Keku",M,Kapoglapopilie,Driver,01 Jan 1977
+636,160215237,"Kanambo, Tuku",M,Kapoglapopilie,Driver,01 Jan 1970
+637,160201888,"Kanda, Kewa",M,Kapoglapopilie,Subsistence Farmer,07 Feb 1976
+638,160215236,"Kanda, Staford",M,Kapoglapopilie,Student,12 Jan 1988
+639,160139287,"Kanombo, Joshua",M,Kapoglapopilie,Student,24 Sep 1996
+640,160446452,"Kanombo, Stanley",M,Kapoglapopilie,Subsistence Farmer,01 Dec 2002
+641,160198408,"Kapale, Konjel",M,Kapoglapopilie,Subsistence Farmer,07 Aug 1947
+642,160446360,"Kapale, Millton",M,Kapoglapopilie,Student,10 Feb 2004
+643,160446432,"Kapale, Putu",M,Kapoglapopilie,Student,10 Feb 2004
+644,160201229,"Kapale, Wari",M,Kapoglapopilie,Student,04 Jun 1981
+645,25084237,"Kapiki, Deves",M,Kapoglapopilie,Student,08 Sep 2003
+646,160246099,"Kapiri, Joe",M,Kapoglapopilie,Teacher,01 Jan 1969
+647,160227311,"Karaie, Junia",M,Kapoglapopilie,Subsistence Farmer,06 Sep 1986
+648,160227312,"Karaiye, Kelly",M,Kapoglapopilie,Student,08 Jul 1987
+649,160222556,"Karaiye, Kevin",M,Kapoglapopilie,Student,10 Jun 1988
+650,160210603,"Karoma, Lapi",M,Kapoglapopilie,Subsistence Farmer,22 Jul 1949
+651,160204696,"Karoma, Monda",M,Kapoglapopilie,Subsistence Farmer,24 Nov 1938
+652,160209722,"Karoma, Taitus",M,Kapoglapopilie,Driver,26 May 1954
+653,160209819,"Karoma, Tonny",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1954
+654,160207081,"Kata, Wepa",M,Kapoglapopilie,Driver,16 Aug 1959
+655,25084238,"Kemapu, Stan bolo",M,Kapoglapopilie,Student,09 Jun 1999
+656,160123892,"Keponge, Jonah",M,Kapoglapopilie,Not Specified,01 Mar 1987
+657,160213528,"Keponge, Mark",M,Kapoglapopilie,Subsistence Farmer,10 Nov 1980
+658,160215294,"Keponge, Pumbo",M,Kapoglapopilie,Subsistence Farmer,04 Sep 1978
+659,160244507,"Keponge, Tomson",M,Kapoglapopilie,Student,21 May 1991
+660,160213531,"Keponge, Wesily",M,Kapoglapopilie,Student,07 Nov 1986
+661,160217677,"Kepu, Jepeth",M,Kapoglapopilie,Student,17 Aug 1985
+662,160217670,"Kepu, Robet",M,Kapoglapopilie,Subsistence Farmer,14 Aug 1979
+663,160216143,"Kera, Benjamin",M,Kapoglapopilie,Subsistence Farmer,11 Sep 1990
+664,160511151,"Kera, Denly",M,Kapoglapopilie,Driver,05 Apr 1990
+665,160216131,"Kera, Peter",M,Kapoglapopilie,Subsistence Farmer,05 Apr 1990
+666,160215257,"Kera, Pora",M,Kapoglapopilie,Teacher,03 Sep 1973
+667,160215242,"Kera, Stanly",M,Kapoglapopilie,Subsistence Farmer,02 Jul 1987
+668,160215241,"Kera, Tenny",M,Kapoglapopilie,Subsistence Farmer,03 Aug 1985
+669,160216139,"Kera, Unu",M,Kapoglapopilie,Subsistence Farmer,05 Jun 1978
+670,160215238,"Kera, Yali",M,Kapoglapopilie,Subsistence Farmer,04 Jul 1981
+671,160198412,"Kereme, Kanombo",M,Kapoglapopilie,Subsistence Farmer,04 May 1967
+672,160139284,"Kewa, Terry",M,Kapoglapopilie,Not Specified,10 Jul 1997
+673,160201886,"Kira, Simon",M,Kapoglapopilie,Subsistence Farmer,21 Nov 1979
+674,160206858,"Konjel, Akenga",M,Kapoglapopilie,Subsistence Farmer,01 Sep 1955
+675,160198403,"Konjel, Nale",M,Kapoglapopilie,Subsistence Farmer,09 Apr 1948
+676,160201217,"Konjel, Nembo",M,Kapoglapopilie,Subsistence Farmer,09 Dec 1951
+677,160201882,"Konjel, Puleke",M,Kapoglapopilie,Subsistence Farmer,10 Sep 1948
+678,160123906,"Konobo, Stanley",M,Kapoglapopilie,Student,05 Feb 1999
+679,160212470,"Konopu, Kamunge",M,Kapoglapopilie,Subsistence Farmer,07 Jul 1959
+680,160219074,"Konopu, Onda",M,Kapoglapopilie,Subsistence Farmer,11 Dec 1976
+681,160215951,"Koro, Paul boso kuro",M,Kapoglapopilie,Business man,30 Nov 1957
+682,160210195,"Korowa, Awa",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1970
+683,160212593,"Korowa, Kapili",M,Kapoglapopilie,Subsistence Farmer,24 Nov 1977
+684,160210193,"Korowa, Lepo",M,Kapoglapopilie,Subsistence Farmer,28 Oct 1985
+685,160212600,"Korowa, Maine",M,Kapoglapopilie,Subsistence Farmer,16 Dec 1987
+686,160210199,"Korowa, Mathew",M,Kapoglapopilie,Subsistence Farmer,04 Dec 1983
+687,160212587,"Korowa, Pawembo",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1980
+688,160213586,"Korowa, Wali",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1978
+689,160227541,"Kowori, Michael",M,Kapoglapopilie,Subsistence Farmer,19 May 1979
+690,160201207,"Koyapo, John",M,Kapoglapopilie,Subsistence Farmer,14 Jul 1983
+691,25084240,"Koyapo, Oti",M,Kapoglapopilie,Student,05 Apr 2002
+692,160244355,"Koyapo, Paul",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1987
+693,160201242,"Koyapo, Stiven",M,Kapoglapopilie,Subsistence Farmer,19 Jun 1980
+694,160201241,"Koyapo, Toiye",M,Kapoglapopilie,Subsistence Farmer,20 Mar 1973
+695,160201240,"Koyapo, Wee",M,Kapoglapopilie,Subsistence Farmer,30 Sep 1976
+696,160244497,"Kuleko, Meckwin",M,Kapoglapopilie,Subsistence Farmer,14 Jul 1985
+697,160244498,"Kuleko, Sepik",M,Kapoglapopilie,Student,13 Apr 1989
+698,160215276,"Kultikil, Lare",M,Kapoglapopilie,Subsistence Farmer,10 Nov 1962
+699,160215953,"Kultikil, Tungil",M,Kapoglapopilie,Subsistence Farmer,06 Sep 1964
+700,160215281,"Kumboli, Ninigi",M,Kapoglapopilie,Subsistence Farmer,12 May 1963
+701,160210200,"Kumbule, Kambaiye",M,Kapoglapopilie,Subsistence Farmer,02 Sep 1953
+702,160246577,"Kunjipa, Francis",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1982
+703,160246575,"Lagueye, Kambile",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1968
+704,160217576,"Laiboye, Kepu",M,Kapoglapopilie,Subsistence Farmer,10 Apr 1949
+705,160210617,"Lapi, Joseph",M,Kapoglapopilie,Student,21 Apr 1977
+706,160209824,"Lapi, Kari",M,Kapoglapopilie,Driver,10 Apr 1963
+707,160210615,"Lapi, Wama",M,Kapoglapopilie,Worker,01 Jan 1966
+708,160227467,"Lare, Joel",M,Kapoglapopilie,Student,01 Jan 2000
+709,160213706,"Lare, Paul",M,Kapoglapopilie,Subsistence Farmer,14 May 1979
+710,160209822,"Lawa, Bembo",M,Kapoglapopilie,Driver,28 Nov 1972
+711,160207082,"Lawa, Kapiki",M,Kapoglapopilie,Subsistence Farmer,10 Nov 1979
+712,160227561,"Lawa, Paul",M,Kapoglapopilie,Student,14 Jun 1987
+713,160207084,"Lawa, Pundia",M,Kapoglapopilie,Student,24 Nov 1980
+714,160201244,"Lembo, Agua",M,Kapoglapopilie,Subsistence Farmer,16 Apr 1977
+715,160210332,"Lembo, Chally",M,Kapoglapopilie,Student,01 Jan 1985
+716,160244374,"Lembo, Kela",M,Kapoglapopilie,Student,28 Jul 1988
+717,160213579,"Lembo, Pundia",M,Kapoglapopilie,Student,01 Jan 1982
+718,25084242,"Leo, Fillberth",M,Kapoglapopilie,Nurse,13 Oct 1999
+719,160446453,"Lepi, Ange",M,Kapoglapopilie,Teacher,01 Jan 1971
+720,160446435,"Lepi, Enge",M,Kapoglapopilie,Teacher,01 Feb 1950
+721,25084243,"Lexy, Fizzy",M,Kapoglapopilie,Nurse,13 Oct 1990
+722,160446395,"Lockee, Ismael",M,Kapoglapopilie,Student,10 Jan 2004
+723,160210627,"Loke, Givson",M,Kapoglapopilie,Student,24 Feb 1990
+724,160210324,"Loko, Amos",M,Kapoglapopilie,Teacher,11 Oct 1969
+725,160210331,"Loko, Gini",M,Kapoglapopilie,Subsistence Farmer,11 Jul 1974
+726,160213584,"Loko, Pareka",M,Kapoglapopilie,Student,09 Jul 1984
+727,160244371,"Lombil, Jeremiah",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1964
+728,160224473,"Lowaiye, Meckson",M,Kapoglapopilie,Student,04 Nov 1987
+729,160246583,"Lowaiye, Wanpis",M,Kapoglapopilie,Student,14 Mar 1990
+730,160446457,"Lumundu, Nickson",M,Kapoglapopilie,Student,05 Jan 2002
+731,160212590,"Lumundu, Wapis",M,Kapoglapopilie,Subsistence Farmer,09 Nov 1977
+732,25084244,"Lumundu, Yombi",M,Kapoglapopilie,Student,04 Nov 2003
+733,25084245,"Mali, Brandon",M,Kapoglapopilie,Student,20 Dec 2003
+734,25084246,"Mali, Brandy",M,Kapoglapopilie,Student,20 Dec 2003
+735,160226998,"Mali, Gate",M,Kapoglapopilie,Student,21 Sep 1987
+736,25084247,"Mali, John",M,Kapoglapopilie,Student,05 Feb 2002
+737,160211145,"Mali, Kemapu",M,Kapoglapopilie,Subsistence Farmer,11 Jul 1977
+738,160244329,"Mali, Mepo",M,Kapoglapopilie,Student,06 Apr 1988
+739,160244328,"Mali, Numan",M,Kapoglapopilie,Student,07 Aug 1990
+740,160210637,"Mali, Philip",M,Kapoglapopilie,Student,02 Sep 1983
+741,160226997,"Mali, Pila",M,Kapoglapopilie,Student,25 Dec 1984
+742,160210321,"Mali, Ron",M,Kapoglapopilie,Subsistence Farmer,09 Oct 1974
+743,160211319,"Mali, Simon",M,Kapoglapopilie,Subsistence Farmer,06 Nov 1965
+744,160210625,"Mali, Wiwa",M,Kapoglapopilie,Subsistence Farmer,12 Jul 1982
+745,160222553,"Malto, Bili",M,Kapoglapopilie,Subsistence Farmer,24 Feb 1978
+746,160215937,"Malto, Keponge",M,Kapoglapopilie,Subsistence Farmer,12 Sep 1951
+747,160227569,"Malto, Lombil",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1940
+748,160213699,"Malto, Lowaiye",M,Kapoglapopilie,Subsistence Farmer,08 Jul 1948
+749,160224492,"Malto, Sanio",M,Kapoglapopilie,Subsistence Farmer,11 Feb 1968
+750,160244378,"Mape, Enoch",M,Kapoglapopilie,Student,16 Apr 1989
+751,160222660,"Mape, Jastin",M,Kapoglapopilie,Driver,03 May 1972
+752,160222545,"Mape, Kali",M,Kapoglapopilie,Student,03 Apr 1985
+753,160222666,"Mape, Paul",M,Kapoglapopilie,Subsistence Farmer,09 Sep 1970
+754,160222659,"Mape, Pele",M,Kapoglapopilie,Subsistence Farmer,10 Nov 1969
+755,160244491,"Mare, Peter",M,Kapoglapopilie,Subsistence Farmer,10 Dec 1974
+756,25087364,"Mark, Miron",M,Kapoglapopilie,Student,10 Jun 2003
+757,25084251,"Marowa, Benben",M,Kapoglapopilie,Student,11 Feb 1997
+758,160198415,"Membi, Kipunge",M,Kapoglapopilie,Worker,26 Mar 1959
+759,160219076,"Membi, Wini",M,Kapoglapopilie,Subsistence Farmer,12 Oct 1970
+760,160446426,"Mike, Amos",M,Kapoglapopilie,Subsistence Farmer,02 Oct 2001
+761,160446469,"Mike, Taitus",M,Kapoglapopilie,Driver,04 Apr 2004
+762,160246175,"Monda, Jeffery",M,Kapoglapopilie,Student,11 Sep 1990
+763,160204697,"Monda, Kewa",M,Kapoglapopilie,Student,17 Feb 1980
+764,160246358,"Monda, Martin",M,Kapoglapopilie,Student,07 Jan 1985
+765,160138476,"Monda, Matthew",M,Kapoglapopilie,Student,25 Jul 1994
+766,160222544,"Monda, Tombo",M,Kapoglapopilie,Subsistence Farmer,06 Nov 1968
+767,160227425,"Monda, Yando",M,Kapoglapopilie,Student,16 Apr 1984
+768,160123899,"Mondo, Nale",M,Kapoglapopilie,Subsistence Farmer,20 Oct 1974
+769,160203673,"Mondopa, Peter",M,Kapoglapopilie,Subsistence Farmer,10 Nov 1977
+770,160246745,"Mone, Mathew",M,Kapoglapopilie,Church Worker,01 Jan 1971
+771,160222547,"Mukiye, Marowa",M,Kapoglapopilie,Subsistence Farmer,16 May 1979
+772,160222540,"Mukiye, Tennis",M,Kapoglapopilie,Subsistence Farmer,08 Jul 1981
+773,160201855,"Nakanol, Maite",M,Kapoglapopilie,Subsistence Farmer,07 Sep 1979
+774,160206699,"Nakanol, Pawa",M,Kapoglapopilie,Subsistence Farmer,26 Sep 1977
+775,160206844,"Nakanol, Pena",M,Kapoglapopilie,Subsistence Farmer,12 Sep 1968
+776,160511152,"Nakonol, Pawa",M,Kapoglapopilie,Teacher,07 Apr 1995
+777,160123731,"Nale, Anis",M,Kapoglapopilie,Subsistence Farmer,30 Jan 1982
+778,160123879,"Nale, George",M,Kapoglapopilie,Subsistence Farmer,17 Jun 1992
+779,160123735,"Nale, Joel",M,Kapoglapopilie,Student,20 Aug 1997
+780,160123732,"Nale, Nindil",M,Kapoglapopilie,Subsistence Farmer,11 Jul 1987
+781,160244492,"Nale, Noel",M,Kapoglapopilie,Not Specified,16 Jul 1981
+782,160198404,"Nale, Nommen",M,Kapoglapopilie,Student,02 Jul 1988
+783,160446431,"Nale, Steven",M,Kapoglapopilie,Student,04 Mar 2004
+784,160123730,"Nale, Tai",M,Kapoglapopilie,Subsistence Farmer,11 Mar 1991
+785,160215233,"Nama, Berem",M,Kapoglapopilie,Subsistence Farmer,09 Nov 1942
+786,160246707,"Nanduka, Peya",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1962
+787,160210198,"Nangi, Anni",M,Kapoglapopilie,Student,12 Jul 1979
+788,160213366,"Nangi, Bobi",M,Kapoglapopilie,Student,05 Oct 1979
+789,160209774,"Nangi, David",M,Kapoglapopilie,Subsistence Farmer,24 Oct 1977
+790,160213355,"Nangi, Mark",M,Kapoglapopilie,Subsistence Farmer,21 Dec 1976
+791,160209770,"Nangi, Nicolas",M,Kapoglapopilie,Subsistence Farmer,10 Apr 1979
+792,160227454,"Nawea, Ismael",M,Kapoglapopilie,Subsistence Farmer,01 Jan 2000
+793,160227455,"Nawea, Jenny",M,Kapoglapopilie,Student,23 Jun 1987
+794,160198407,"Nawea, Joe",M,Kapoglapopilie,Worker,19 Apr 1972
+795,160123898,"Nema, Imanuel",M,Kapoglapopilie,Subsistence Farmer,20 Jun 1996
+796,160213683,"Nema, James",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1978
+797,160446467,"Nema, Mark",M,Kapoglapopilie,Student,03 Feb 2000
+798,160213685,"Nema, Shoty",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1987
+799,160215297,"Nema, Wee",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1981
+800,160201226,"Nembo, Onda",M,Kapoglapopilie,Subsistence Farmer,03 Nov 1976
+801,160246713,"Ninge, George",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1984
+802,160246197,"Ninge, James",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1982
+803,160246710,"Ninge, Paul",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1978
+804,160213530,"Niningi, Kamalus",M,Kapoglapopilie,Student,10 Nov 1990
+805,160446371,"Niningi, Philip",M,Kapoglapopilie,Student,06 Dec 1996
+806,160446409,"Nokop, Enos",M,Kapoglapopilie,Student,20 Jan 2004
+807,160244514,"Nokop, Ismael",M,Kapoglapopilie,Student,16 Mar 1991
+808,160215232,"Nokopa, Buka",M,Kapoglapopilie,Subsistence Farmer,05 Dec 1977
+809,160217585,"Nokopa, David",M,Kapoglapopilie,Subsistence Farmer,04 Nov 1970
+810,160217678,"Nokopa, Wari",M,Kapoglapopilie,Subsistence Farmer,11 Mar 1980
+811,160209849,"Norum, Lawa",M,Kapoglapopilie,Subsistence Farmer,26 Sep 1952
+812,160210329,"Oiye, Akena",M,Kapoglapopilie,Subsistence Farmer,04 Oct 1942
+813,160210335,"Oiye, Kuleko",M,Kapoglapopilie,Subsistence Farmer,03 Sep 1961
+814,160446437,"Onda, Bonzy",M,Kapoglapopilie,Student,12 Apr 2004
+815,160222671,"Opa, Miwa",M,Kapoglapopilie,Worker,16 Apr 1969
+816,160446456,"Padea, Jayson",M,Kapoglapopilie,Student,05 Sep 2000
+817,160206843,"Pakune, Olgai",M,Kapoglapopilie,Subsistence Farmer,30 Nov 1971
+818,160203676,"Pakune, Tambai",M,Kapoglapopilie,Subsistence Farmer,26 Jul 1971
+819,160246722,"Pamili, Jeroh",M,Kapoglapopilie,Student,03 Mar 1990
+820,160227550,"Pandea, Andi",M,Kapoglapopilie,Student,03 Dec 1987
+821,160446417,"Pandea, David",M,Kapoglapopilie,Student,05 Jan 2004
+822,160123886,"Pandea, Late",M,Kapoglapopilie,Student,04 Jan 1999
+823,160244338,"Pandea, Lembo",M,Kapoglapopilie,Student,25 Jul 1991
+824,160215239,"Pandea, Linsan",M,Kapoglapopilie,Student,11 Jul 1989
+825,160209775,"Pandea, Opa",M,Kapoglapopilie,Student,10 Sep 1984
+826,160244511,"Pandea, Timothy",M,Kapoglapopilie,Student,16 Sep 1989
+827,160216296,"Pandea, Wako",M,Kapoglapopilie,Student,10 May 1980
+828,160198406,"Pandea, Yala",M,Kapoglapopilie,Subsistence Farmer,09 Apr 1983
+829,160244382,"Panjipo, Molli",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1972
+830,25084256,"Panjipo, Willie",M,Kapoglapopilie,Student,12 Jan 2001
+831,25084257,"Pareka, Rayn",M,Kapoglapopilie,Student,20 Jan 2001
+832,160446358,"Paul, Brendy",M,Kapoglapopilie,Student,10 Feb 2004
+833,160246331,"Paul, Charlie",M,Kapoglapopilie,Student,01 Jan 1989
+834,160246073,"Paul, Deiman",M,Kapoglapopilie,Student,15 Feb 1993
+835,160246200,"Paul, Gideon",M,Kapoglapopilie,Student,18 Feb 1992
+836,160246309,"Paul, Jayson",M,Kapoglapopilie,Student,23 Sep 1986
+837,160246576,"Paul, Penga",M,Kapoglapopilie,Student,15 Dec 1988
+838,160446364,"Paul, Sharril",M,Kapoglapopilie,Student,11 Jan 2004
+839,160227431,"Paul, Steward",M,Kapoglapopilie,Student,28 Aug 1987
+840,160446450,"Pawa, Korea",M,Kapoglapopilie,Student,05 Jun 2001
+841,160246330,"Pawa, Philimon",M,Kapoglapopilie,Student,16 Feb 1990
+842,160446419,"Pawa, Saitoe",M,Kapoglapopilie,Student,05 Apr 2004
+843,160215245,"Peami, Indipine",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1971
+844,160216130,"Peami, Unungo",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1969
+845,160207086,"Pedene, Berem",M,Kapoglapopilie,Subsistence Farmer,29 May 1956
+846,160209825,"Pedene, Kalatoli",M,Kapoglapopilie,Subsistence Farmer,24 Sep 1951
+847,160206850,"Pedene, Kanda",M,Kapoglapopilie,Subsistence Farmer,05 Mar 1957
+848,160201883,"Pedene, Kira",M,Kapoglapopilie,Subsistence Farmer,10 Nov 1951
+849,160204340,"Pedene, Koyapo",M,Kapoglapopilie,Subsistence Farmer,13 Jul 1962
+850,160201885,"Pedene, Toropo",M,Kapoglapopilie,Subsistence Farmer,11 Oct 1949
+851,160227471,"Peleyaiye, Jeremaiah",M,Kapoglapopilie,Student,09 Sep 1987
+852,160123908,"Pembo, Brandon",M,Kapoglapopilie,Student,04 Mar 1999
+853,160446418,"Pembo, Dakee",M,Kapoglapopilie,Student,10 Nov 2002
+854,160139291,"Pembo, Elizah",M,Kapoglapopilie,Student,27 Apr 1997
+855,160206846,"Pena, Jenny",M,Kapoglapopilie,Student,12 May 1982
+856,160217581,"Pepe, Toreya",M,Kapoglapopilie,Subsistence Farmer,08 Nov 1960
+857,160446412,"Pera, George",M,Kapoglapopilie,Student,10 Feb 2004
+858,160216136,"Pera, Kanambo",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1945
+859,160209845,"Pera, Luck",M,Kapoglapopilie,Subsistence Farmer,24 Jul 1973
+860,160203669,"Pera, Stenily",M,Kapoglapopilie,Subsistence Farmer,24 Aug 1983
+861,160209846,"Pera, Thomas",M,Kapoglapopilie,Subsistence Farmer,28 Nov 1981
+862,160213361,"Pera, Wande",M,Kapoglapopilie,Subsistence Farmer,23 Nov 1952
+863,25084261,"Peter, Deban",M,Kapoglapopilie,Student,10 Dec 2002
+864,25084262,"Peter, Deban",M,Kapoglapopilie,Student,10 Nov 2002
+865,160446398,"Peter, Dickson",M,Kapoglapopilie,Student,10 Feb 2004
+866,160122060,"Peter, Elvins",M,Kapoglapopilie,Student,04 Feb 1997
+867,160446402,"Peter, Eving",M,Kapoglapopilie,Student,02 Feb 2004
+868,25084263,"Peter, Tunem",M,Kapoglapopilie,Student,20 Sep 2003
+869,160246619,"Peter, Wane",M,Kapoglapopilie,Student,16 Apr 1990
+870,160227318,"Peya, Andrew",M,Kapoglapopilie,Subsistence Farmer,12 Oct 1982
+871,160227433,"Peya, James",M,Kapoglapopilie,Student,01 Nov 1984
+872,160227453,"Peya, Peter",M,Kapoglapopilie,Subsistence Farmer,25 Sep 1979
+873,160210594,"Peyandi, Kama",M,Kapoglapopilie,Student,02 Apr 1988
+874,25084264,"Philip, Ezekiel",M,Kapoglapopilie,Student,07 Sep 2003
+875,160201881,"Pilembo, Jackson",M,Kapoglapopilie,Student,05 Aug 1988
+876,160201879,"Pilembo, Nandiye",M,Kapoglapopilie,Driver,21 Dec 1977
+877,160204514,"Pilembo, Pepena",M,Kapoglapopilie,Driver,10 Nov 1977
+878,160206851,"Pilembo, Pero",M,Kapoglapopilie,Driver,11 Sep 1976
+879,160201880,"Pilembo, Stenly",M,Kapoglapopilie,Student,06 Sep 1982
+880,160206853,"Pilembo, Warepa",M,Kapoglapopilie,Student,11 May 1978
+881,160204511,"Pilemo, Peter",M,Kapoglapopilie,Driver,21 Nov 1976
+882,160216134,"Puiye, Goraiye",M,Kapoglapopilie,Subsistence Farmer,03 Nov 1968
+883,160206849,"Puiye, Kana",M,Kapoglapopilie,Subsistence Farmer,28 Oct 1981
+884,160204681,"Puiye, Pembo",M,Kapoglapopilie,Not Specified,07 Oct 1976
+885,160204517,"Puleke, Jack",M,Kapoglapopilie,Driver,06 May 1967
+886,160204520,"Puleke, John",M,Kapoglapopilie,Driver,06 Dec 1972
+887,160206856,"Puleke, Toli",M,Kapoglapopilie,Subsistence Farmer,03 Mar 1974
+888,160206857,"Puleke, Yaki",M,Kapoglapopilie,Subsistence Farmer,02 Nov 1979
+889,160446379,"Pulgiye, Don",M,Kapoglapopilie,Student,04 Feb 2004
+890,25084265,"Punge, Waity",M,Kapoglapopilie,Student,02 Jun 2000
+891,160215082,"Pupu, Nema",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1941
+892,160215929,"Pupu, Tale",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1959
+893,160215934,"Pupu, Tape",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1943
+894,25084267,"Rika, Francis",M,Kapoglapopilie,Teacher,05 Jun 1990
+895,25084268,"Robert, Waka",M,Kapoglapopilie,Student,10 Dec 2002
+896,160206855,"Rombola, Anda",M,Kapoglapopilie,Subsistence Farmer,11 Sep 1965
+897,160204516,"Rombola, Peleya",M,Kapoglapopilie,Subsistence Farmer,16 Aug 1949
+898,160204518,"Rombola, Torigi",M,Kapoglapopilie,Subsistence Farmer,20 Feb 1952
+899,160446420,"Ron, Clemton",M,Kapoglapopilie,Student,05 Mar 2004
+900,25084269,"Ron, Kingstan",M,Kapoglapopilie,Student,18 Sep 2003
+901,25084270,"Ron, Mckay",M,Kapoglapopilie,Student,09 Oct 2001
+902,160244508,"Sanyo, Jeremiah",M,Kapoglapopilie,Student,29 Jul 1993
+903,160201219,"Simon, Lanea",M,Kapoglapopilie,Not Specified,10 Nov 1981
+904,160446392,"Simon, Selo",M,Kapoglapopilie,Student,08 Jul 2003
+905,25084273,"Tai, Tairon",M,Kapoglapopilie,Student,29 Jan 2002
+906,160227576,"Taitus, Embe",M,Kapoglapopilie,Student,13 May 1987
+907,160203667,"Taitus, Jeromaya",M,Kapoglapopilie,Student,17 Aug 1983
+908,160209818,"Taitus, Jerry",M,Kapoglapopilie,Student,14 Sep 1988
+909,160210621,"Talaiye, Mali",M,Kapoglapopilie,Worker,16 Mar 1949
+910,160210328,"Talaiye, Tenge",M,Kapoglapopilie,Subsistence Farmer,16 Jul 1964
+911,160246243,"Tale, Benjiman",M,Kapoglapopilie,Subsistence Farmer,05 Sep 1987
+912,160138435,"Tale, Kumbiawe",M,Kapoglapopilie,Student,02 Jan 1999
+913,160215280,"Tale, Netan",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1989
+914,160215930,"Tale, Stanly",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1983
+915,160222662,"Tame, Yote",M,Kapoglapopilie,Subsistence Farmer,14 Apr 1964
+916,160215926,"Tape, Joseph",M,Kapoglapopilie,Driver,01 Jan 1968
+917,160213708,"Tape, Kama",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1977
+918,160215292,"Tape, Palus",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1982
+919,160215295,"Tape, Peter",M,Kapoglapopilie,Subsistence Farmer,01 Jan 1985
+920,160210190,"Tele, Lumundu",M,Kapoglapopilie,Subsistence Farmer,10 Sep 1941
+921,160212589,"Tele, Miemo",M,Kapoglapopilie,Subsistence Farmer,03 Nov 1957
+922,160204685,"Tele, Pera",M,Kapoglapopilie,Subsistence Farmer,01 Oct 1952
+923,25084274,"Tene, Hendry",M,Kapoglapopilie,Carpenter,02 Jul 1982
+924,160213576,"Tene, James",M,Kapoglapopilie,Student,05 Nov 1988
+925,160446421,"Tenge, Wincent",M,Kapoglapopilie,Student,05 Feb 2004
+926,160244347,"Thomas, Joel",M,Kapoglapopilie,Student,03 Feb 1992
+927,160244363,"Thomas, Nindil",M,Kapoglapopilie,Student,12 Jul 1994
+928,25084276,"Thomas, Quinton",M,Kapoglapopilie,Student,01 Jan 2001
+929,160446381,"Thomas, Sasa",M,Kapoglapopilie,Student,04 Feb 2004
+930,160246351,"Tiye, Ship",M,Kapoglapopilie,Student,14 Jun 1988
+931,160201208,"Toite, Bili",M,Kapoglapopilie,Student,29 Sep 1981
+932,160244360,"Toite, Collin",M,Kapoglapopilie,Store Keeper,01 Jan 1987
+933,160246573,"Toite, Kambile",M,Kapoglapopilie,Student,15 Apr 1993
+934,160213470,"Toite, Kambile",M,Kapoglapopilie,Subsistence Farmer,03 Nov 1970
+935,160204523,"Toite, Kunjipa",M,Kapoglapopilie,Subsistence Farmer,23 Oct 1955
+936,160215298,"Toite, Mone",M,Kapoglapopilie,Pastor,05 Oct 1969
+937,160212592,"Toite, Pandea",M,Kapoglapopilie,Subsistence Farmer,11 Sep 1943
+938,160224495,"Toite, Panjipo",M,Kapoglapopilie,Subsistence Farmer,09 May 1972
+939,160216141,"Toite, Wamoko",M,Kapoglapopilie,Subsistence Farmer,11 Sep 1954
+940,25084278,"Tolai, Francis",M,Kapoglapopilie,Student,02 Mar 2002
+941,25084279,"Tolai, Franky",M,Kapoglapopilie,Student,01 Jan 2000
+942,160198534,"Tomano, George",M,Kapoglapopilie,Student,04 Oct 1985
+943,160201216,"Tomano, Joel",M,Kapoglapopilie,Subsistence Farmer,23 Sep 1988
+944,160201245,"Tomano, Samon",M,Kapoglapopilie,Subsistence Farmer,13 Sep 1976
+945,160246111,"Tombo, Rex",M,Kapoglapopilie,Student,05 Jul 1986
+946,160446361,"Tonny, Addy",M,Kapoglapopilie,Student,05 Mar 2004
+947,160446447,"Tonny, Karoma",M,Kapoglapopilie,Student,03 May 2001
+948,160123750,"Tonny, Vito",M,Kapoglapopilie,Household Duties,20 Jan 1999
+949,160210191,"Tope, Luke",M,Kapoglapopilie,Student,11 Oct 1989
+950,160210337,"Tope, Michael",M,Kapoglapopilie,Subsistence Farmer,03 Jul 1970
+951,160198418,"Tope, Paine",M,Kapoglapopilie,Subsistence Farmer,14 May 1962
+952,160217582,"Toreya, Loke",M,Kapoglapopilie,Pastor,03 Nov 1970
+953,160217679,"Toreya, Peter",M,Kapoglapopilie,Subsistence Farmer,04 Oct 1974
+954,160121969,"Tuku, Titus",M,Kapoglapopilie,Driver,14 Jul 1996
+955,160219077,"Tumbura, Dopo",M,Kapoglapopilie,Subsistence Farmer,03 Apr 1964
+956,160215636,"Tumbura, Nokopa",M,Kapoglapopilie,Catechist,17 Sep 1957
+957,160446382,"Tungil, Alex",M,Kapoglapopilie,Carpenter,05 Jun 1976
+958,160215646,"Tungil, Joseph",M,Kapoglapopilie,Student,05 Jun 1990
+959,25084281,"Tungil, Manu",M,Kapoglapopilie,Self Employed,11 Apr 2004
+960,160224474,"Turi, Anda",M,Kapoglapopilie,Subsistence Farmer,05 Jun 1969
+961,160222665,"Turi, Ben",M,Kapoglapopilie,Student,11 Sep 1985
+962,160227117,"Turi, Tenis",M,Kapoglapopilie,Subsistence Farmer,08 Apr 1986
+963,160224493,"Turi, Wama",M,Kapoglapopilie,Subsistence Farmer,09 Oct 1978
+964,160246192,"Ume, Faman",M,Kapoglapopilie,Student,21 Feb 1992
+965,160246244,"Ume, Timothy",M,Kapoglapopilie,Student,13 Mar 1990
+966,160227573,"Wakane, Elizah",M,Kapoglapopilie,Student,10 Apr 1987
+967,160213462,"Wakane, Steven",M,Kapoglapopilie,Student,05 Jul 1989
+968,160246574,"Wako, Cetrick",M,Kapoglapopilie,Crewman,13 Nov 1987
+969,160246093,"Wali, Besta",M,Kapoglapopilie,Student,16 Apr 1993
+970,25084287,"Wama, Killon",M,Kapoglapopilie,,24 Sep 2003
+971,25084288,"Wama, Maillon",M,Kapoglapopilie,Student,16 May 2000
+972,25084289,"Wama, Norum",M,Kapoglapopilie,Student,09 Jun 2003
+973,160215918,"Wamoko, John",M,Kapoglapopilie,Student,11 Sep 1981
+974,160213358,"Wande, Yagono",M,Kapoglapopilie,Driver,11 Sep 1963
+975,160212469,"Wane, Clement",M,Kapoglapopilie,Worker,07 Apr 1963
+976,160213582,"Wane, Gepen",M,Kapoglapopilie,Subsistence Farmer,10 Dec 1978
+977,160218671,"Wane, Nokop",M,Kapoglapopilie,Worker,29 Oct 1964
+978,160209942,"Wane, Paul",M,Kapoglapopilie,Worker,18 Jul 1964
+979,160212762,"Wane, Tenis",M,Kapoglapopilie,Subsistence Farmer,11 Dec 1972
+980,160213581,"Wane, Tolai",M,Kapoglapopilie,Subsistence Farmer,05 Jun 1977
+981,25084291,"Warepa, Millah",M,Kapoglapopilie,Student,06 Sep 2003
+982,160198414,"Warepa, Peyandi",M,Kapoglapopilie,Subsistence Farmer,19 Oct 1939
+983,160246194,"Wini, Samuel",M,Kapoglapopilie,Not Specified,27 Mar 1993
+984,160246193,"Wini, Stankila",M,Kapoglapopilie,Not Specified,15 May 1991
+985,25084295,"Yaki, Edward",M,Kapoglapopilie,Student,07 Jun 2003
+986,160123749,"Yala, Denny",M,Kapoglapopilie,Student,02 Jan 1999
+987,25084296,"Yali, Bolo",M,Kapoglapopilie,Student,06 May 2000
+988,160246704,"Yangon, Steward",M,Kapoglapopilie,Student,10 Jun 1992
+989,160210340,"Yope, Windi",M,Kapoglapopilie,Subsistence Farmer,02 Nov 1980

@@ -1,0 +1,535 @@
+{
+  "provinceId": "east-new-britain",
+  "electorates": [
+    {
+      "electorateSlug": "rabaul",
+      "llgs": [
+        {
+          "id": "rabaul-rabaul-urban",
+          "name": "Rabaul Urban LLG",
+          "electorateSlug": "rabaul",
+          "wards": [
+            {
+              "id": "rabaul-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1735
+            },
+            {
+              "id": "rabaul-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2095
+            },
+            {
+              "id": "rabaul-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1477
+            },
+            {
+              "id": "rabaul-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2396
+            },
+            {
+              "id": "rabaul-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1897
+            },
+            {
+              "id": "rabaul-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2674
+            }
+          ]
+        },
+        {
+          "id": "rabaul-livuan-reimber",
+          "name": "Livuan-Reimber LLG",
+          "electorateSlug": "rabaul",
+          "wards": [
+            {
+              "id": "livuan-reimber-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3547
+            },
+            {
+              "id": "livuan-reimber-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2829
+            },
+            {
+              "id": "livuan-reimber-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3125
+            },
+            {
+              "id": "livuan-reimber-w04",
+              "name": "Ward 4",
+              "registeredVoters": 4277
+            }
+          ]
+        },
+        {
+          "id": "rabaul-raluana",
+          "name": "Raluana LLG",
+          "electorateSlug": "rabaul",
+          "wards": [
+            {
+              "id": "raluana-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1716
+            },
+            {
+              "id": "raluana-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3297
+            },
+            {
+              "id": "raluana-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3586
+            },
+            {
+              "id": "raluana-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1904
+            },
+            {
+              "id": "raluana-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3015
+            }
+          ]
+        },
+        {
+          "id": "rabaul-duke-of-york",
+          "name": "Duke of York LLG",
+          "electorateSlug": "rabaul",
+          "wards": [
+            {
+              "id": "duke-of-york-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1097
+            },
+            {
+              "id": "duke-of-york-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1746
+            },
+            {
+              "id": "duke-of-york-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1430
+            },
+            {
+              "id": "duke-of-york-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1884
+            },
+            {
+              "id": "duke-of-york-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2451
+            },
+            {
+              "id": "duke-of-york-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2425
+            },
+            {
+              "id": "duke-of-york-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1086
+            },
+            {
+              "id": "duke-of-york-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1831
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "kokopo",
+      "llgs": [
+        {
+          "id": "kokopo-kokopo-urban",
+          "name": "Kokopo Urban LLG",
+          "electorateSlug": "kokopo",
+          "wards": [
+            {
+              "id": "kokopo-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2897
+            },
+            {
+              "id": "kokopo-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3151
+            },
+            {
+              "id": "kokopo-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3228
+            },
+            {
+              "id": "kokopo-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3931
+            },
+            {
+              "id": "kokopo-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 4058
+            }
+          ]
+        },
+        {
+          "id": "kokopo-vunamami",
+          "name": "Vunamami LLG",
+          "electorateSlug": "kokopo",
+          "wards": [
+            {
+              "id": "vunamami-w01",
+              "name": "Ward 1",
+              "registeredVoters": 5649
+            },
+            {
+              "id": "vunamami-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4899
+            },
+            {
+              "id": "vunamami-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2857
+            }
+          ]
+        },
+        {
+          "id": "kokopo-toma-vunadidir",
+          "name": "Toma-Vunadidir LLG",
+          "electorateSlug": "kokopo",
+          "wards": [
+            {
+              "id": "toma-vunadidir-w01",
+              "name": "Ward 1",
+              "registeredVoters": 5035
+            },
+            {
+              "id": "toma-vunadidir-w02",
+              "name": "Ward 2",
+              "registeredVoters": 5475
+            },
+            {
+              "id": "toma-vunadidir-w03",
+              "name": "Ward 3",
+              "registeredVoters": 6972
+            }
+          ]
+        },
+        {
+          "id": "kokopo-sinivit",
+          "name": "Sinivit LLG",
+          "electorateSlug": "kokopo",
+          "wards": [
+            {
+              "id": "sinivit-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3581
+            },
+            {
+              "id": "sinivit-w02",
+              "name": "Ward 2",
+              "registeredVoters": 8166
+            },
+            {
+              "id": "sinivit-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3553
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "gazelle",
+      "llgs": [
+        {
+          "id": "gazelle-gazelle",
+          "name": "Gazelle LLG",
+          "electorateSlug": "gazelle",
+          "wards": [
+            {
+              "id": "gazelle-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1558
+            },
+            {
+              "id": "gazelle-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2236
+            },
+            {
+              "id": "gazelle-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3094
+            },
+            {
+              "id": "gazelle-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1676
+            },
+            {
+              "id": "gazelle-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3099
+            },
+            {
+              "id": "gazelle-w06",
+              "name": "Ward 6",
+              "registeredVoters": 3209
+            }
+          ]
+        },
+        {
+          "id": "gazelle-inland-baining",
+          "name": "Inland Baining LLG",
+          "electorateSlug": "gazelle",
+          "wards": [
+            {
+              "id": "inland-baining-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3045
+            },
+            {
+              "id": "inland-baining-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1910
+            },
+            {
+              "id": "inland-baining-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2327
+            },
+            {
+              "id": "inland-baining-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2319
+            },
+            {
+              "id": "inland-baining-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1912
+            },
+            {
+              "id": "inland-baining-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1551
+            },
+            {
+              "id": "inland-baining-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1448
+            },
+            {
+              "id": "inland-baining-w08",
+              "name": "Ward 8",
+              "registeredVoters": 3072
+            },
+            {
+              "id": "inland-baining-w09",
+              "name": "Ward 9",
+              "registeredVoters": 2034
+            }
+          ]
+        },
+        {
+          "id": "gazelle-lassul-baining",
+          "name": "Lassul-Baining LLG",
+          "electorateSlug": "gazelle",
+          "wards": [
+            {
+              "id": "lassul-baining-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3663
+            },
+            {
+              "id": "lassul-baining-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2626
+            },
+            {
+              "id": "lassul-baining-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2291
+            },
+            {
+              "id": "lassul-baining-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2315
+            },
+            {
+              "id": "lassul-baining-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3736
+            },
+            {
+              "id": "lassul-baining-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2837
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "pomio",
+      "llgs": [
+        {
+          "id": "pomio-pomio",
+          "name": "Pomio LLG",
+          "electorateSlug": "pomio",
+          "wards": [
+            {
+              "id": "pomio-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1050
+            },
+            {
+              "id": "pomio-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1259
+            },
+            {
+              "id": "pomio-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1249
+            },
+            {
+              "id": "pomio-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1207
+            },
+            {
+              "id": "pomio-w05",
+              "name": "Ward 5",
+              "registeredVoters": 990
+            },
+            {
+              "id": "pomio-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1083
+            },
+            {
+              "id": "pomio-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1482
+            },
+            {
+              "id": "pomio-w08",
+              "name": "Ward 8",
+              "registeredVoters": 825
+            },
+            {
+              "id": "pomio-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1415
+            }
+          ]
+        },
+        {
+          "id": "pomio-bali-witu",
+          "name": "Bali-Witu LLG",
+          "electorateSlug": "pomio",
+          "wards": [
+            {
+              "id": "bali-witu-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2673
+            },
+            {
+              "id": "bali-witu-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4145
+            },
+            {
+              "id": "bali-witu-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2523
+            }
+          ]
+        },
+        {
+          "id": "pomio-mamusi",
+          "name": "Mamusi LLG",
+          "electorateSlug": "pomio",
+          "wards": [
+            {
+              "id": "mamusi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3151
+            },
+            {
+              "id": "mamusi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2355
+            },
+            {
+              "id": "mamusi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4679
+            }
+          ]
+        },
+        {
+          "id": "pomio-melkoi",
+          "name": "Melkoi LLG",
+          "electorateSlug": "pomio",
+          "wards": [
+            {
+              "id": "melkoi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 843
+            },
+            {
+              "id": "melkoi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 980
+            },
+            {
+              "id": "melkoi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1553
+            },
+            {
+              "id": "melkoi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1115
+            },
+            {
+              "id": "melkoi-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1398
+            },
+            {
+              "id": "melkoi-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1545
+            },
+            {
+              "id": "melkoi-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1352
+            },
+            {
+              "id": "melkoi-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1164
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

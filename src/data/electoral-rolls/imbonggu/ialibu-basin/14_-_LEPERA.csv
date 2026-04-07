@@ -1,0 +1,728 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160444714,"Aiyep, Venny",F,Lepera,Subsistence Farmer,06 Oct 2000
+2,160123928,"Aiyep, Wendi",F,Lepera,Student,15 Oct 1997
+3,160148145,"Akele, Akiri",F,Lepera,Household Duties,01 Jan 1981
+4,160148283,"Akele, Andi",F,Lepera,Household Duties,01 Jan 1979
+5,160148207,"Akele, Bote",F,Lepera,Student,01 Jan 1984
+6,160123957,"Akele, Josephine",F,Lepera,Student,16 Feb 1997
+7,160148175,"Akele, Linet",F,Lepera,Household Duties,01 Jan 1989
+8,160148206,"Akele, Magret",F,Lepera,Student,01 Jan 1981
+9,160148281,"Akele, Mondi",F,Lepera,Household Duties,01 Jan 1979
+10,25122732,"Akele, Selinda",F,Lepera,Student,04 Apr 2003
+11,25122733,"Akele, Sisilia",F,Lepera,Student,23 Apr 2004
+12,160148286,"Akele, Takambo",F,Lepera,Household Duties,01 Jan 1984
+13,160151770,"Akele, Yandi",F,Lepera,Household Duties,01 Jan 1972
+14,160151332,"Alako, Roslyn",F,Lepera,Household Duties,01 Jan 1976
+15,160444732,"Alex, Annita",F,Lepera,Household Duties,21 Jul 1999
+16,160151942,"Allel, Rodney",F,Lepera,Subsistence Farmer,01 Jan 1989
+17,160148214,"Ame, Lokono",F,Lepera,Household Duties,01 Jan 1974
+18,160444756,"Amen, Mala",F,Lepera,Household Duties,22 Jan 2002
+19,160444733,"Amos, Grace",F,Lepera,Household Duties,20 Dec 2000
+20,160148273,"Amos, Kuskus",F,Lepera,Household Duties,01 Jan 1975
+21,160124089,"Amos, Malern",F,Lepera,Housegirl,25 Mar 1998
+22,160153877,"Amos, Melen",F,Lepera,Student,01 Jan 1987
+23,160148053,"Andoiye, Maria",F,Lepera,Subsistence Farmer,01 Jan 1976
+24,160151356,"Andrew, Anna",F,Lepera,Household Duties,01 Jan 1981
+25,160444743,"Andrew, Dorin",F,Lepera,Subsistence Farmer,06 Jan 1999
+26,25122734,"Andrew, Joyce",F,Lepera,Household Duties,11 Jun 1999
+27,160444708,"Anita, Rhonald",F,Lepera,Household Duties,12 Oct 1999
+28,160153890,"Anjo, Pepo",F,Lepera,Subsistence Farmer,01 Jan 1968
+29,25122735,"Apa, Mercy",F,Lepera,Student,10 Jun 2003
+30,160245825,"Apa, Monica",F,Lepera,Household Duties,01 Jan 1979
+31,160246415,"Ape, Etna",F,Lepera,Student,01 Jan 1989
+32,25122736,"Ape, Rehap",F,Lepera,Student,16 Aug 2003
+33,160444701,"Apol, Polyn",F,Lepera,Teacher,28 Nov 1998
+34,160148292,"Aris, Betty",F,Lepera,Household Duties,01 Jan 1982
+35,160148183,"Aris, Pukino",F,Lepera,Household Duties,01 Jan 1970
+36,160124093,"Aris, Ruth",F,Lepera,Household Duties,15 Dec 1995
+37,160151777,"Aris, Shoty",F,Lepera,Household Duties,01 Jan 1985
+38,160136689,"Aris, Toy",F,Lepera,Household Duties,30 Nov 1996
+39,160444736,"Arumbi, Munie",F,Lepera,Household Duties,24 Jan 2003
+40,25122737,"Ben, Vero",F,Lepera,Household Duties,04 Sep 1996
+41,160444755,"Benjamin, Airin",F,Lepera,Household Duties,11 Mar 2002
+42,25122738,"Bepi, Aniya",F,Lepera,Student,21 Apr 2004
+43,160148191,"Bepi, Cathy",F,Lepera,Household Duties,01 Jan 1979
+44,160245883,"Bepi, Mepis",F,Lepera,Student,01 Jan 1992
+45,160153280,"Bone, Lucy",F,Lepera,Subsistence Farmer,01 Jan 1978
+46,160151331,"Bone, Margrett",F,Lepera,Student,01 Jan 1990
+47,160246284,"Bone, Mrs wanpis",F,Lepera,Student,01 Jan 1988
+48,160246277,"Buka, Delina",F,Lepera,Household Duties,01 Jan 1986
+49,160444744,"Buka, Flora",F,Lepera,Student,14 Aug 2002
+50,160245878,"Buka, Ronda",F,Lepera,Household Duties,01 Jan 1978
+51,160151339,"Buka, Semal",F,Lepera,Household Duties,01 Jan 1978
+52,160148645,"Bulge, Juddy",F,Lepera,Household Duties,01 Jan 1979
+53,160148624,"Bulge, Julie",F,Lepera,Household Duties,01 Jan 1981
+54,160148212,"Bulge, Mandino",F,Lepera,Household Duties,01 Jan 1963
+55,160148195,"Bulgei, Wambri",F,Lepera,Household Duties,01 Jan 1983
+56,160148220,"Buru, Jully",F,Lepera,Housegirl,01 Jan 1989
+57,160245824,"Buru, Melen",F,Lepera,Housegirl,01 Jan 1982
+58,160245813,"David, Maria",F,Lepera,Household Duties,01 Jan 1968
+59,160444722,"David, Trivianna",F,Lepera,Student,03 Dec 2001
+60,160245867,"David, Vasti",F,Lepera,Teacher,01 Jan 1979
+61,160146587,"Docta, Kale",F,Lepera,Household Duties,01 Jan 1970
+62,160151343,"Docta, Meni",F,Lepera,Student,01 Jan 1989
+63,160444752,"Dokta, Mopune",F,Lepera,Student,12 Jan 2002
+64,160444716,"Dominik, Ruth",F,Lepera,Household Duties,01 Nov 1989
+65,25122743,"Dopo, Lucy",F,Lepera,Household Duties,16 May 1983
+66,25122744,"Dopo, Pelma",F,Lepera,Household Duties,01 Sep 1998
+67,160246045,"Dora, Giam",F,Lepera,Student,01 Jan 1986
+68,160120157,"Emele, Linet",F,Lepera,Housegirl,01 Jan 1981
+69,160146578,"Emos, Jeniffer",F,Lepera,Household Duties,01 Jan 1984
+70,25122745,"Ezikel, Donika",F,Lepera,Household Duties,14 Feb 1999
+71,25122746,"Febian, Joyce",F,Lepera,Housegirl,04 May 2001
+72,160148272,"Frank, Anna",F,Lepera,Household Duties,01 Jan 1974
+73,160148312,"Frank, Magi",F,Lepera,Household Duties,01 Jan 1978
+74,25122747,"Frank, Pety",F,Lepera,Student,02 Mar 1976
+75,160148299,"Garu, Janet",F,Lepera,Household Duties,01 Jan 1984
+76,160146586,"Garu, Malen",F,Lepera,Subsistence Farmer,01 Jan 2000
+77,160148298,"Garu, Puame",F,Lepera,Household Duties,01 Jan 1960
+78,160151926,"Garu, Reri",F,Lepera,Household Duties,01 Jan 1981
+79,160245888,"George, Georgina",F,Lepera,Housegirl,01 Jan 1984
+80,25122748,"George, Laiah",F,Lepera,Student,12 Dec 2003
+81,160136693,"Gillian, Seron",F,Lepera,Household Duties,12 Feb 1996
+82,160444776,"Gloria, Angela",F,Lepera,Student,26 Jun 1998
+83,160151834,"Goraie, Anna",F,Lepera,Household Duties,01 Jan 1975
+84,160444774,"Guli, Joimaca",F,Lepera,Student,01 Mar 2003
+85,160151830,"Iku, Evelyn",F,Lepera,Student,12 Jun 1990
+86,160123950,"Jacob, Joyce",F,Lepera,Household Duties,14 Apr 1996
+87,25122751,"Jacob, Leah",F,Lepera,Household Duties,05 Apr 1998
+88,160444748,"Jacob, Monolisa",F,Lepera,Student,07 Apr 2000
+89,160151832,"Jacob, Rose",F,Lepera,Household Duties,01 Jan 1983
+90,25122752,"James, Delma",F,Lepera,Household Duties,06 Jan 1998
+91,25122753,"James, Jona",F,Lepera,Student,21 Apr 2004
+92,160123955,"James, Melo",F,Lepera,Student,06 Jan 1997
+93,160123954,"James, Soti",F,Lepera,Household Duties,10 Jun 1994
+94,160148276,"James, Vero",F,Lepera,Household Duties,01 Jan 1980
+95,160148308,"Jeffery, Wagi",F,Lepera,Household Duties,01 Jan 1969
+96,160124104,"Jerry, Polyn",F,Lepera,Household Duties,16 Feb 1992
+97,160245870,"Jerry, Tano",F,Lepera,Household Duties,01 Jan 1980
+98,160444718,"Jery, Henima",F,Lepera,Household Duties,12 Dec 2000
+99,160444705,"Jessy mote, Doccas",F,Lepera,Nurse,29 Dec 2002
+100,160246416,"Job, Jenifer",F,Lepera,Household Duties,01 Jan 1979
+101,25122755,"John, Jemila",F,Lepera,Student,02 Jun 1999
+102,25122756,"John, Mary",F,Lepera,Student,03 Dec 1978
+103,25122758,"Johnson, Wari",F,Lepera,Household Duties,28 Apr 2004
+104,160136697,"Jonah, Tabitah",F,Lepera,Household Duties,10 Feb 1996
+105,160444731,"Joseph, Freda",F,Lepera,Household Duties,29 Nov 2001
+106,160444706,"Joseph, Mary",F,Lepera,Household Duties,17 Oct 1998
+107,160444703,"Joseph kay, Stella",F,Lepera,Household Duties,21 Jul 2002
+108,160444757,"Joshua, Jospin",F,Lepera,Household Duties,22 Feb 2000
+109,160151944,"Joy, Aris",F,Lepera,Student,01 Jan 1987
+110,160246046,"Kange, Jenifa",F,Lepera,Student,01 Jan 1987
+111,160245799,"Kange, Las",F,Lepera,Student,01 Jan 1981
+112,160245822,"Kange, Linet",F,Lepera,Student,01 Jan 1989
+113,160148635,"Kange, Yarambo",F,Lepera,Subsistence Farmer,01 Jan 1956
+114,160153258,"Kangi, Mombo",F,Lepera,Subsistence Farmer,01 Jan 1958
+115,160148649,"Kangi, Mone",F,Lepera,Household Duties,01 Jan 1958
+116,160146541,"Kanoe, Linet",F,Lepera,Student,01 Jan 1989
+117,160151938,"Kanol, Rilar",F,Lepera,Household Duties,01 Jan 1982
+118,160146579,"Kanol, Stepeny",F,Lepera,Student,01 Jan 1989
+119,160123943,"Kanombo, Babra",F,Lepera,Household Duties,14 Feb 1989
+120,160136690,"Karape, Lucy",F,Lepera,Household Duties,30 Dec 1996
+121,160444721,"Kelma, Diana",F,Lepera,Student,28 Mar 2000
+122,160148278,"Kelma, Grace",F,Lepera,Student,07 Nov 1985
+123,160151769,"Kelma, Lina",F,Lepera,Nurse,01 Jan 1974
+124,160246039,"Kelma, Polita",F,Lepera,Household Duties,01 Jan 1970
+125,160148143,"Kelma, Polyne",F,Lepera,Student,18 Jan 1988
+126,160123958,"Kelvin, Akele",F,Lepera,Student,25 Sep 1998
+127,160148407,"Kende, Kumbiye",F,Lepera,Subsistence Farmer,01 Jan 1966
+128,160148140,"Kepo, Josephine",F,Lepera,Household Duties,01 Jan 1981
+129,160151767,"Kepo, Judy",F,Lepera,Student,01 Jan 1989
+130,160148139,"Kepo, Linda",F,Lepera,Teacher,01 Jan 1978
+131,160148317,"Kepo, Ragina",F,Lepera,Household Duties,01 Jan 1976
+132,160146708,"Kera, Wency",F,Lepera,Household Duties,01 Jan 1989
+133,160123949,"Keven, Margret",F,Lepera,Subsistence Farmer,14 Dec 1970
+134,160444766,"Keven, Reap",F,Lepera,Student,19 Nov 2002
+135,160148189,"Kiap, Janet",F,Lepera,Household Duties,01 Jan 1979
+136,160148264,"Kimbo, Kale",F,Lepera,Household Duties,01 Jan 1967
+137,160444709,"Kingston, Julie",F,Lepera,Teacher,16 Sep 2001
+138,160148417,"Kiru, Marie",F,Lepera,Household Duties,01 Jan 1975
+139,160151940,"Kiru, Nency",F,Lepera,Household Duties,01 Jan 1982
+140,160151772,"Kisene, Warin",F,Lepera,Household Duties,01 Jan 1978
+141,160153865,"Kolandi, Anni",F,Lepera,Subsistence Farmer,01 Jan 1974
+142,25122761,"Kolandi, Rachael",F,Lepera,Student,04 Aug 2003
+143,160148390,"Kolosu, Koyame",F,Lepera,Subsistence Farmer,01 Jan 1959
+144,25085293,"Kombe, Helen",F,Lepera,Nurse,18 Sep 1999
+145,160123927,"Kombe, Kellen",F,Lepera,Household Duties,16 Jul 1996
+146,25085295,"Kombo, Henny",F,Lepera,Household Duties,18 Jun 1998
+147,160148385,"Komoiye, Bepy",F,Lepera,Subsistence Farmer,01 Jan 1963
+148,160153150,"Konjele, Dorothy",F,Lepera,Subsistence Farmer,01 Jan 1964
+149,160444758,"Konman, Mcdolyn",F,Lepera,Household Duties,11 Jan 2000
+150,160123952,"Konowa, Jenifer",F,Lepera,Household Duties,07 Nov 1994
+151,25085298,"Korowi, Agnes",F,Lepera,Household Duties,22 Apr 2004
+152,160148720,"Kuleme, Kanambo",F,Lepera,Subsistence Farmer,01 Jan 1986
+153,160151341,"Kuruwai, Siri",F,Lepera,Household Duties,01 Jan 1969
+154,160245820,"Kusa, Gracelyn",F,Lepera,Household Duties,01 Jan 1986
+155,160148048,"Kusa, Helly",F,Lepera,Housegirl,01 Jan 1989
+156,160148518,"Kusa, Nancy",F,Lepera,Housegirl,01 Jan 1988
+157,160148634,"Kusa, Tembo",F,Lepera,Household Duties,01 Jan 1956
+158,160146583,"Kusa, Tenni",F,Lepera,Subsistence Farmer,01 Jan 1982
+159,160146567,"Kuwambi, Mukindi",F,Lepera,Subsistence Farmer,01 Jan 2000
+160,160146697,"Lapan, Linnet",F,Lepera,Student,01 Jan 1987
+161,160151939,"Lapan, Rita",F,Lepera,Household Duties,01 Jan 1983
+162,160245816,"Lopa, Susan",F,Lepera,Student,01 Jan 1985
+163,160153885,"Lopeke, Jully",F,Lepera,Household Duties,01 Jan 1976
+164,160123926,"Luke, Rebecca",F,Lepera,Household Duties,29 Apr 1995
+165,160151868,"Lun, Monica",F,Lepera,Student,01 Jan 1990
+166,160148420,"Lun, Puiye",F,Lepera,Household Duties,01 Jan 1967
+167,160153172,"Maichel, Regina",F,Lepera,Household Duties,01 Jan 1974
+168,160245819,"Mali, Anna",F,Lepera,Household Duties,01 Jan 1984
+169,160148517,"Mali, Cathy",F,Lepera,Subsistence Farmer,01 Jan 1974
+170,160123931,"Mali, Jenny",F,Lepera,Household Duties,17 Jun 1992
+171,160151928,"Mali, Margret",F,Lepera,Household Duties,01 Jan 1984
+172,160444779,"Mali, Stepheny",F,Lepera,Student,20 Nov 2002
+173,160444720,"Mali, Yadasen",F,Lepera,Student,26 Jul 2001
+174,160148192,"Malo, Kini",F,Lepera,Household Duties,01 Jan 1990
+175,160148305,"Malo, Kuniyeme",F,Lepera,Household Duties,01 Jan 1961
+176,160148375,"Mambo, Epame",F,Lepera,Subsistence Farmer,01 Jan 1957
+177,160151765,"Mambo, Jeneth",F,Lepera,Housegirl,01 Jan 1977
+178,160124109,"Mambo, Kelvin",F,Lepera,Student,30 Jan 1998
+179,160146707,"Mambo, Las",F,Lepera,Household Duties,01 Jan 1983
+180,160151764,"Mambo, Liye",F,Lepera,Housegirl,01 Jan 1976
+181,160124110,"Mambo, Rose",F,Lepera,Household Duties,16 May 1989
+182,160124108,"Mambo, Sandy",F,Lepera,Household Duties,06 Nov 1992
+183,25085300,"Manu, Jennifer",F,Lepera,Household Duties,28 Apr 2004
+184,160444699,"Marie, Jeneth",F,Lepera,Household Duties,11 Oct 1991
+185,160148297,"Marowa, Wagi",F,Lepera,Household Duties,01 Jan 1984
+186,160148295,"Mathias, Baiu",F,Lepera,Household Duties,01 Jan 1979
+187,160151778,"Mathias, Lean",F,Lepera,Household Duties,01 Jan 1978
+188,160146542,"Mek, Lilcy",F,Lepera,Student,01 Jan 1988
+189,160153254,"Meke, Helen",F,Lepera,Subsistence Farmer,01 Jan 1976
+190,160123945,"Michael, Stesia",F,Lepera,Student,14 Jun 1997
+191,160148049,"Moke, Poleapo",F,Lepera,Subsistence Farmer,01 Jan 1955
+192,160444747,"Moke, Stepheny",F,Lepera,Student,22 Feb 2001
+193,160151775,"Mokindi, Munemokol",F,Lepera,Household Duties,01 Jan 1964
+194,160444707,"Mona, Faith",F,Lepera,Household Duties,15 May 2001
+195,160124090,"Monda, Lauri",F,Lepera,Student,29 Apr 1998
+196,160246275,"Monda, Silvia",F,Lepera,Student,01 Jan 1980
+197,160151873,"Monda, Susan",F,Lepera,Household Duties,01 Jan 1979
+198,160124103,"Mopis, Melin",F,Lepera,Student,21 Jan 1997
+199,160245804,"Moses, Kolandi",F,Lepera,Household Duties,01 Jan 1975
+200,160245885,"Moses, Namba",F,Lepera,Household Duties,01 Jan 1971
+201,25085304,"Mote, Giffty",F,Lepera,Student,09 Aug 2003
+202,160148515,"Mote, Jocika",F,Lepera,Student,01 Jan 1988
+203,160148046,"Mote, Melen",F,Lepera,Student,01 Jan 1990
+204,160148291,"Murumbe, Kutenu",F,Lepera,Household Duties,01 Jan 1974
+205,160124091,"Murumbu, Angela",F,Lepera,Student,30 Mar 1997
+206,160124092,"Murumbu, Joy",F,Lepera,Student,31 Aug 1998
+207,160153176,"Namba, Dorose",F,Lepera,Household Duties,01 Jan 1971
+208,160444700,"Nason, Leah",F,Lepera,Household Duties,10 Nov 2000
+209,160123960,"Nathasa, Pena",F,Lepera,Household Duties,17 Aug 1997
+210,160153884,"Nema, Toya",F,Lepera,Teacher,01 Jan 1976
+211,160148245,"Nema, Turulu",F,Lepera,Subsistence Farmer,01 Jan 1940
+212,160153168,"Nepe, Mali",F,Lepera,Subsistence Farmer,01 Jan 1964
+213,160148057,"Nise, Eno",F,Lepera,Household Duties,01 Jan 1948
+214,160148058,"Nise, Nema",F,Lepera,Household Duties,01 Jan 1974
+215,160124097,"Niye, Kundipa",F,Lepera,Household Duties,04 Mar 1999
+216,160444785,"Noge, Easther",F,Lepera,Student,05 Oct 2003
+217,160246040,"Nomi, Kathrina",F,Lepera,Household Duties,01 Jan 1986
+218,160444710,"Nomi, Regina",F,Lepera,Household Duties,24 Sep 2001
+219,160151677,"Nonge, Ruth",F,Lepera,Household Duties,01 Jan 1978
+220,160246273,"Nopundol, Estar",F,Lepera,Student,01 Jan 1990
+221,160151682,"Nopundul, Anna",F,Lepera,Subsistence Farmer,01 Jan 1977
+222,160444704,"Noringi, Cathy",F,Lepera,Household Duties,10 Jun 1999
+223,160246048,"Noringi, Yano ambo",F,Lepera,Housegirl,01 Jan 1985
+224,160246274,"Norman, Simbu ambai",F,Lepera,Household Duties,01 Jan 1989
+225,25087436,"Norman, Vero",F,Lepera,Household Duties,19 Aug 1993
+226,160151821,"Norum, Janeth",F,Lepera,Household Duties,01 Jan 1979
+227,25085310,"Paikol, Patrica",F,Lepera,Student,04 Oct 2003
+228,160444741,"Paka, Annita",F,Lepera,Household Duties,28 Nov 1991
+229,160146580,"Paka, Linna",F,Lepera,Subsistence Farmer,01 Jan 1983
+230,160146547,"Pakupi, Kuin",F,Lepera,Subsistence Farmer,01 Jan 2000
+231,160444740,"Pareka, Omega",F,Lepera,Household Duties,14 Aug 1992
+232,160148294,"Patere, Susan",F,Lepera,Household Duties,01 Jan 1972
+233,160123934,"Paul, Anna",F,Lepera,Household Duties,05 Jun 1992
+234,160123921,"Paul, Helen",F,Lepera,Household Duties,20 Oct 1990
+235,160246279,"Paul, Joyna",F,Lepera,Student,01 Jan 1984
+236,160245877,"Paul, Julian",F,Lepera,Student,01 Jan 1985
+237,160123935,"Paul, Merolyn",F,Lepera,Household Duties,08 Jan 1998
+238,160245876,"Paul, Norman",F,Lepera,Household Duties,01 Jan 1970
+239,160444781,"Paul, Saberta",F,Lepera,Student,03 Nov 2000
+240,160444745,"Paul, Semila",F,Lepera,Student,16 Aug 2002
+241,160148521,"Paul, Siambo",F,Lepera,Household Duties,01 Jan 1984
+242,160123920,"Paul, Stella",F,Lepera,Student,20 May 1997
+243,160245800,"Paul, Susie",F,Lepera,Household Duties,01 Jan 1971
+244,160146691,"Pem, Mone",F,Lepera,Household Duties,01 Jan 1964
+245,160124085,"Pena, Victoria",F,Lepera,Student,12 Jun 1997
+246,160124102,"Peter, Rachael",F,Lepera,Teacher,16 Feb 1997
+247,160245886,"Peter, Steveny",F,Lepera,Housegirl,01 Jan 1981
+248,160444734,"Peter, Venny",F,Lepera,Household Duties,22 Jan 2003
+249,160148185,"Peter karape, Epenui",F,Lepera,Household Duties,01 Jan 1979
+250,160151837,"Peya, Kerolin",F,Lepera,Household Duties,01 Jan 1969
+251,160246041,"Philip, Elizabert",F,Lepera,Student,01 Jan 1987
+252,160136567,"Philip, Korowi",F,Lepera,Student,16 Jul 1997
+253,160123953,"Philip, Margret",F,Lepera,Household Duties,14 Apr 1993
+254,160151774,"Philip, Mery",F,Lepera,Student,01 Jan 1987
+255,160148180,"Philip, Pukembo",F,Lepera,Student,01 Jan 1984
+256,160148199,"Philipo, Kopi",F,Lepera,Student,01 Jan 1985
+257,160151831,"Pile, Wara",F,Lepera,Household Duties,01 Jan 1963
+258,160444737,"Pindi, Grace",F,Lepera,Household Duties,09 Oct 2000
+259,160246278,"Pindi, Las",F,Lepera,Housegirl,01 Jan 1987
+260,160151768,"Pipi, Legwan",F,Lepera,Household Duties,01 Jan 1967
+261,160153156,"Pokea, Wengee",F,Lepera,Subsistence Farmer,01 Jan 1976
+262,160124105,"Poki, Batsiba",F,Lepera,Student,10 Apr 1998
+263,160146539,"Poki, Lyn",F,Lepera,Household Duties,01 Jan 1975
+264,160136694,"Poki, Melisa",F,Lepera,Student,17 Mar 1996
+265,160124106,"Poki, Molinah",F,Lepera,Student,09 Aug 1998
+266,25085317,"Ponega, Dalla",F,Lepera,Student,04 Jan 2001
+267,160148301,"Ponege, Yapi",F,Lepera,Household Duties,01 Jan 1976
+268,160245818,"Ponenge, Hemerlyn",F,Lepera,Student,01 Jan 1985
+269,160120161,"Ponenge, Mathew",F,Lepera,Housegirl,01 Jan 1989
+270,160153265,"Pontilimu, Margrett",F,Lepera,Household Duties,01 Jan 1963
+271,160124099,"Pora, Angela",F,Lepera,Household Duties,30 Sep 1995
+272,160124100,"Pora, Anita",F,Lepera,Household Duties,15 Jul 1997
+273,160148062,"Pora, Mala",F,Lepera,Household Duties,01 Jan 1945
+274,160146549,"Pora, Rebeca",F,Lepera,Subsistence Farmer,01 Jan 1986
+275,160136691,"Pora, Seminta",F,Lepera,Household Duties,20 Mar 1990
+276,160151358,"Poya, Helis",F,Lepera,Household Duties,01 Jan 1979
+277,160151354,"Poye, Pipa",F,Lepera,Household Duties,01 Jan 1966
+278,160153248,"Puge, Miriam",F,Lepera,Subsistence Farmer,01 Jan 1966
+279,160153160,"Pulgiye, Elen",F,Lepera,Student,01 Jan 1972
+280,160120162,"Pulgiye, Maina",F,Lepera,Student,01 Jan 1985
+281,160153163,"Pulgiye, Penny",F,Lepera,Baby Sitter,01 Jan 1986
+282,160151669,"Pulume, Langiambo",F,Lepera,Subsistence Farmer,01 Jan 1960
+283,160246050,"Pure, Heverlyn",F,Lepera,Household Duties,01 Jan 1987
+284,160246042,"Pure, Ronda",F,Lepera,Household Duties,01 Jan 1988
+285,160148275,"Raigol, Anny",F,Lepera,Student,01 Jan 1989
+286,160148274,"Raigol, Henny",F,Lepera,Household Duties,01 Jan 1979
+287,160148426,"Raigol, Keramy",F,Lepera,Household Duties,01 Jan 1963
+288,160148315,"Raigol, Kina",F,Lepera,Household Duties,01 Jan 1980
+289,160148314,"Raigol, Las",F,Lepera,Student,01 Jan 1987
+290,160146543,"Raigol, Maria",F,Lepera,Subsistence Farmer,01 Jan 1977
+291,160148383,"Raita, Irimandi",F,Lepera,Subsistence Farmer,01 Jan 1955
+292,160153291,"Rame, Ronda",F,Lepera,Subsistence Farmer,01 Jan 1967
+293,160151835,"Rami, Juli",F,Lepera,Household Duties,01 Jan 1975
+294,160146588,"Rami, Lenis",F,Lepera,Subsistence Farmer,01 Jan 1977
+295,160153867,"Rami, Nolta",F,Lepera,Subsistence Farmer,01 Jan 1958
+296,160153285,"Ramise, Maria",F,Lepera,Subsistence Farmer,01 Jan 1989
+297,160151461,"Rawano, Tendil",F,Lepera,Household Duties,01 Jan 1967
+298,160148388,"Renoa, Cathy",F,Lepera,Subsistence Farmer,01 Jan 1968
+299,25085320,"Richard, Regina",F,Lepera,Household Duties,03 Dec 1999
+300,160120164,"Robert, Metelyn",F,Lepera,Household Duties,01 Jan 1984
+301,160124098,"Roselyn, Pora",F,Lepera,Household Duties,20 May 1990
+302,160444725,"Samuel, Lucyanna",F,Lepera,Household Duties,20 Sep 2001
+303,160246411,"Sapisi, Jenny",F,Lepera,Student,01 Jan 1988
+304,160151345,"Sapsi, Yalano",F,Lepera,Household Duties,01 Jan 1971
+305,160136703,"Semal, Meklyna",F,Lepera,Student,29 Sep 1997
+306,160123940,"Semal, Melina",F,Lepera,Student,18 Feb 1997
+307,160123939,"Semal, Vero",F,Lepera,Household Duties,18 Sep 1994
+308,160246034,"Sende, Turulu",F,Lepera,Household Duties,01 Jan 1956
+309,160444735,"Senis, Polin",F,Lepera,Household Duties,03 Jul 2001
+310,160151348,"Sepisi, Kanombo",F,Lepera,Household Duties,01 Jan 1980
+311,160120166,"Sepsi, Jenny",F,Lepera,Household Duties,01 Jan 1968
+312,160123937,"Simon, Belinda",F,Lepera,Household Duties,22 Dec 1990
+313,160136701,"Simon, Betty",F,Lepera,Household Duties,14 Aug 1996
+314,160136702,"Simon, Josephine",F,Lepera,Student,08 Apr 1998
+315,25085322,"Simon, Lavina",F,Lepera,Household Duties,06 Mar 2000
+316,160123938,"Simon, Silvia",F,Lepera,Student,14 Mar 1997
+317,160444742,"Simpson, Mel",F,Lepera,Student,17 Dec 1998
+318,160153276,"Siri, Dolly",F,Lepera,Student,01 Jan 1989
+319,160123948,"Siri, Nancy",F,Lepera,Student,22 Jan 1997
+320,160151342,"Siri, Rosah",F,Lepera,Student,01 Jan 1988
+321,160153861,"Sito, Jocyln",F,Lepera,Subsistence Farmer,01 Jan 1971
+322,160123936,"Sito, Michael",F,Lepera,Student,19 Apr 1997
+323,160444754,"Sito, Pamila",F,Lepera,Student,14 Aug 2003
+324,160123944,"Stanley, Janet",F,Lepera,Household Duties,15 Apr 1994
+325,160148309,"Stephen, Ruithu",F,Lepera,Household Duties,01 Jan 1976
+326,160124087,"Steven, Cydia",F,Lepera,Student,14 May 1997
+327,160124088,"Steven, Melinda",F,Lepera,Housegirl,25 Dec 1998
+328,160124086,"Steven, Rose",F,Lepera,Subsistence Farmer,31 Oct 1997
+329,160148644,"Tali, Veronica",F,Lepera,Household Duties,01 Jan 1979
+330,160151941,"Tambo, Longi",F,Lepera,Household Duties,01 Jan 1987
+331,160153112,"Tanda, Mendeli",F,Lepera,Subsistence Farmer,01 Jan 1940
+332,160444730,"Tange, Easther",F,Lepera,Pastor,26 Aug 2000
+333,160245880,"Tangera, Anna",F,Lepera,Household Duties,01 Jan 1974
+334,160148270,"Tangera, Erica",F,Lepera,Student,01 Jan 1990
+335,160245881,"Tangera, Jenet",F,Lepera,Student,01 Jan 1989
+336,160148269,"Tangera, Sarah",F,Lepera,Household Duties,01 Jan 1977
+337,160153873,"Tawendo, Nancy",F,Lepera,Household Duties,01 Jan 1981
+338,25085328,"Temo, Batu",F,Lepera,Student,21 Apr 2004
+339,160153144,"Tende, Teresa",F,Lepera,Student,01 Jan 1989
+340,160148073,"Tendel, Jenifer",F,Lepera,Household Duties,01 Jan 1978
+341,160120167,"Tendel, Kristy",F,Lepera,Teacher,01 Jan 1981
+342,25085330,"Tendel, Nipambo",F,Lepera,Household Duties,04 Sep 1998
+343,160146683,"Tendil, Betty",F,Lepera,Student,01 Jan 1988
+344,160151329,"Tendil, Evelyn",F,Lepera,Student,01 Jan 1990
+345,160124101,"Tenis, Daiyen",F,Lepera,Household Duties,20 Nov 1990
+346,160146706,"Thimothy, Helen",F,Lepera,Household Duties,01 Jan 1988
+347,160444727,"Thomas, Mercy",F,Lepera,Pastor,03 Aug 2001
+348,160444788,"Timothy, Tapita",F,Lepera,Student,13 Jul 2002
+349,160151946,"Tiri, Regina",F,Lepera,Subsistence Farmer,01 Jan 1984
+350,160146687,"Tiye, Cathy",F,Lepera,Student,01 Jan 1990
+351,160148401,"Tiye, Mondi",F,Lepera,Subsistence Farmer,01 Jan 1971
+352,160148404,"Tiye, Tero",F,Lepera,Subsistence Farmer,01 Jan 1986
+353,160120168,"Tolombo, Alin",F,Lepera,Subsistence Farmer,01 Jan 1964
+354,25085332,"Tom, Lien",F,Lepera,Student,08 Aug 2003
+355,160151352,"Tombo, Juddy",F,Lepera,Household Duties,01 Jan 1979
+356,160148630,"Tonge, Keren",F,Lepera,Nurse,01 Jan 1961
+357,160444738,"Tonny, Regina",F,Lepera,Household Duties,03 Nov 2001
+358,160151937,"Tope, Jenet",F,Lepera,Household Duties,01 Jan 1984
+359,160151360,"Topel, Cathy",F,Lepera,Household Duties,01 Jan 1984
+360,160246268,"Tuku, Sara",F,Lepera,Household Duties,01 Jan 1980
+361,160148393,"Tula, Wipa",F,Lepera,Subsistence Farmer,01 Jan 1960
+362,160120171,"Turi, Jenny",F,Lepera,Household Duties,01 Jan 1983
+363,160120170,"Turi, Jopina",F,Lepera,Household Duties,01 Jan 1984
+364,160120172,"Turi, Jully",F,Lepera,Household Duties,01 Jan 1974
+365,160153125,"Turi, Mondi",F,Lepera,Subsistence Farmer,01 Jan 1985
+366,160120169,"Turi, Salome",F,Lepera,Household Duties,01 Jan 1982
+367,160146582,"Turi, Tawambo",F,Lepera,Subsistence Farmer,01 Jan 1974
+368,160153123,"Turiame, Jenny",F,Lepera,Subsistence Farmer,01 Jan 1980
+369,160151361,"Ulgu, Mande",F,Lepera,Student,01 Jan 1984
+370,160153869,"Vincent, Bepi",F,Lepera,Subsistence Farmer,01 Jan 1956
+371,160151934,"Vincent, Carollyn",F,Lepera,Student,01 Jan 1990
+372,160153871,"Vincent, Dolly",F,Lepera,Student,01 Jan 1988
+373,160153134,"Wadi, Manguru",F,Lepera,Subsistence Farmer,01 Jan 1963
+374,160148646,"Waia, Mopune",F,Lepera,Household Duties,01 Jan 1977
+375,160136698,"Wake, Monica",F,Lepera,Household Duties,14 Jan 1992
+376,160246270,"Wakoie, Jenifa",F,Lepera,Student,01 Jan 1989
+377,160246269,"Wakoie, Merolyn",F,Lepera,Housegirl,01 Jan 1987
+378,160148066,"Wakoie, Siea",F,Lepera,Housegirl,01 Jan 1974
+379,160120158,"Wakoiye, Duku",F,Lepera,Student,01 Jan 1989
+380,25085336,"Wane, Bathabar",F,Lepera,Student,04 Sep 2002
+381,160245817,"Wane, Rose",F,Lepera,Student,01 Jan 1984
+382,160444786,"Wane, Stepheny",F,Lepera,Student,09 Dec 2003
+383,160153272,"Wanep, Kuni",F,Lepera,Household Duties,01 Jan 1978
+384,160120174,"Wanis, Josphin",F,Lepera,Lawyer,01 Jan 1984
+385,160444697,"Wanpis, Sindia",F,Lepera,Student,22 Oct 2003
+386,160246413,"Wanpis, Stella",F,Lepera,Student,01 Jan 1990
+387,160123941,"Wanpis, Stella",F,Lepera,Student,16 Nov 1998
+388,160123942,"Wanpis, Stepeny",F,Lepera,Student,10 Nov 1998
+389,160146690,"Wanpis, Wendy",F,Lepera,Household Duties,01 Jan 1976
+390,160123923,"Wapele, Rachael",F,Lepera,Household Duties,21 Mar 1994
+391,160151670,"Wapele, Sera",F,Lepera,Subsistence Farmer,01 Jan 1983
+392,160148381,"Warea, Apunali",F,Lepera,Subsistence Farmer,01 Jan 1962
+393,160444728,"Wari, Malvy",F,Lepera,Household Duties,19 Aug 2001
+394,160444719,"Windi, Anita",F,Lepera,Household Duties,27 Sep 2001
+395,160120175,"Windi, Polina",F,Lepera,Household Duties,01 Jan 1980
+396,160245887,"Wipa, Mek",F,Lepera,Household Duties,01 Jan 1949
+397,160246047,"Yakopa, Las",F,Lepera,Housegirl,01 Jan 1989
+398,160153868,"Yakopa, Noile",F,Lepera,Subsistence Farmer,01 Jan 1956
+399,160146696,"Yakopa, Norigi",F,Lepera,Subsistence Farmer,01 Jan 2000
+400,160146581,"Yambo, Joslyn",F,Lepera,Subsistence Farmer,01 Jan 1986
+401,160148368,"Yamu, Line",F,Lepera,Subsistence Farmer,01 Jan 1981
+402,160153889,"Yandi, Jonny",F,Lepera,Subsistence Farmer,01 Jan 1977
+403,160153270,"Yando, Magret",F,Lepera,Household Duties,01 Jan 1979
+404,25085341,"Yano, Emmi",F,Lepera,Teacher,16 Jul 1980
+405,160153165,"Yano, Kerolyn",F,Lepera,Subsistence Farmer,01 Jan 1980
+406,25085347,"Yano, Roselyn",F,Lepera,Nurse,12 Jun 1982
+407,160245798,"Yapo, Selly",F,Lepera,Student,01 Jan 1986
+408,160148266,"Yelupe, Daun",F,Lepera,Household Duties,01 Jan 1980
+409,160444768,"Yesu, Dolly",F,Lepera,Household Duties,12 Mar 2003
+410,160148222,"Yesu, Kuni",F,Lepera,Household Duties,01 Jan 1966
+411,160148267,"Yulpi, Tomboma",F,Lepera,Subsistence Farmer,01 Jan 1949
+412,160444761,"Aiyepu, Kombe",M,Lepera,Self Employed,06 Aug 2001
+413,160245868,"Akele, Dopo",M,Lepera,Student,01 Jan 1987
+414,160148144,"Akele, Kisene",M,Lepera,Subsistence Farmer,01 Jan 1982
+415,160245814,"Akele, Konman",M,Lepera,Subsistence Farmer,01 Jan 1989
+416,160148374,"Akele, Korea",M,Lepera,Student,01 Jan 1970
+417,160148288,"Akele, Normy",M,Lepera,Student,01 Jan 1980
+418,160444778,"Alako, Hesron",M,Lepera,Student,27 Jun 2001
+419,160511153,"Ambuma, Sitoi",M,Lepera,Driver,18 Apr 1995
+420,160148215,"Ame, Koyapo",M,Lepera,Subsistence Farmer,01 Jan 1983
+421,160148626,"Ame, Waia",M,Lepera,Subsistence Farmer,01 Jan 1976
+422,160153286,"Ape, George",M,Lepera,Stenographer,01 Jan 1987
+423,160245806,"Ape, Kereme",M,Lepera,Student,01 Jan 1984
+424,160153249,"Ape, Kingston",M,Lepera,Student,01 Jan 1989
+425,160124094,"Aris, Deiman",M,Lepera,Subsistence Farmer,21 Mar 1992
+426,160153261,"Arumbi, Kolandi",M,Lepera,Subsistence Farmer,01 Jan 1972
+427,160148523,"Arumbi, Lepi",M,Lepera,Subsistence Farmer,01 Jan 1969
+428,160153262,"Arumbi, Wambiye",M,Lepera,Subsistence Farmer,01 Jan 1962
+429,160153863,"Arumbi, Windi",M,Lepera,Subsistence Farmer,01 Jan 1967
+430,160153864,"Arumbi, Yombi",M,Lepera,Subsistence Farmer,01 Jan 1989
+431,160245882,"Bepi, Andrew",M,Lepera,Student,01 Jan 1991
+432,25122739,"Bepi, Iso",M,Lepera,Student,19 Apr 2004
+433,160151931,"Bepi, Joshua",M,Lepera,Student,01 Jan 1990
+434,160120156,"Bone, Benjamin",M,Lepera,Student,01 Jan 1990
+435,160246280,"Bone, Wanpis",M,Lepera,Welder,01 Jan 1981
+436,160148213,"Bulge, Easou",M,Lepera,Student,01 Jan 1986
+437,160148623,"Bulge, Mek",M,Lepera,Mechanic,01 Jan 1978
+438,160148643,"Bulge, Tali",M,Lepera,Subsistence Farmer,01 Jan 1975
+439,160151930,"Bulgei, Paul temo",M,Lepera,Subsistence Farmer,01 Jan 1976
+440,160151673,"Bulgei, Timothy",M,Lepera,Student,01 Jan 1982
+441,160148625,"Bulgeie, Jacobe",M,Lepera,Student,01 Jan 1983
+442,160148650,"Buru, Apa",M,Lepera,Subsistence Farmer,01 Jan 1987
+443,160245823,"Buru, Joseph",M,Lepera,Student,01 Jan 1986
+444,25122740,"Depos, Ismond",M,Lepera,Student,03 Feb 2003
+445,160444777,"Depos, Malcom",M,Lepera,Student,23 Mar 2001
+446,160245879,"Dokta, Richard",M,Lepera,Student,01 Jan 1988
+447,160444715,"Dominic, Felix",M,Lepera,Student,26 Sep 2000
+448,25122741,"Dopo, Danny",M,Lepera,Carpenter,16 Jul 1982
+449,25122742,"Dopo, George",M,Lepera,Carpenter,11 Feb 1985
+450,160153263,"Emesa, Yakopa",M,Lepera,Subsistence Farmer,01 Jan 1954
+451,160246035,"Frank, Naiten",M,Lepera,Subsistence Farmer,01 Jan 1980
+452,160120173,"Freda, Yapo",M,Lepera,Driver,01 Jan 1979
+453,160148042,"Gabriel, Rombine",M,Lepera,Student,01 Jan 1988
+454,160148653,"Gabriel, Rothney",M,Lepera,Student,01 Jan 1986
+455,160148631,"Gabriel, Sothy",M,Lepera,Student,01 Jan 1990
+456,160151337,"Gini, Aiyelupe",M,Lepera,Subsistence Farmer,01 Jan 1959
+457,160153174,"Goraie, Rami",M,Lepera,Subsistence Farmer,01 Jan 1976
+458,25122750,"Goraiye, Kepson",M,Lepera,Student,28 Nov 2003
+459,160148372,"Hoie, Margret",M,Lepera,Subsistence Farmer,01 Jan 1974
+460,160148197,"Hulgu, Nonge",M,Lepera,Subsistence Farmer,01 Jan 1974
+461,160444717,"Ipiasi, Domnic",M,Lepera,Pastor,27 Sep 2003
+462,160146546,"Ipo, Lapan",M,Lepera,Worker,01 Jan 1962
+463,160153704,"Iya, Laime",M,Lepera,Subsistence Farmer,07 Jun 1984
+464,160123932,"Jack, Geson",M,Lepera,Student,14 Jul 1997
+465,160123961,"Jack, Jason",M,Lepera,Student,09 Apr 1998
+466,25122754,"Jerry, Howard",M,Lepera,Driver,02 Mar 1992
+467,25122757,"Johnson, Samuel",M,Lepera,Student,13 Apr 1976
+468,25122759,"Jonathan, Manad",M,Lepera,Student,12 Apr 1972
+469,160153277,"Kale, Tepamondol",M,Lepera,Subsistence Farmer,01 Jan 1961
+470,160151357,"Kamakal, Mark",M,Lepera,Subsistence Farmer,01 Jan 1987
+471,160151362,"Kandu, Stephen",M,Lepera,Subsistence Farmer,01 Jan 1980
+472,160148636,"Kange, Paul",M,Lepera,Subsistence Farmer,01 Jan 1983
+473,160151874,"Kange, Ponege",M,Lepera,Houseboy,01 Jan 1983
+474,160148520,"Kange, Simon",M,Lepera,Houseboy,01 Jan 1980
+475,160151820,"Kari, Norum",M,Lepera,Subsistence Farmer,01 Jan 1934
+476,160148637,"Kariwi, Mambo",M,Lepera,Subsistence Farmer,01 Jan 1953
+477,160511154,"Kaya, Timothy",M,Lepera,Driver,19 Apr 1995
+478,160153273,"Kelema, Simpson",M,Lepera,Student,01 Jan 1989
+479,160148277,"Kelma, David",M,Lepera,Student,14 Aug 1983
+480,160246037,"Kelma, Jesi",M,Lepera,Student,01 Jan 1980
+481,160153281,"Kepa, Rami",M,Lepera,Subsistence Farmer,01 Jan 1951
+482,160148141,"Kepo, Ben",M,Lepera,Student,01 Jan 1982
+483,160148318,"Kepo, James",M,Lepera,Subsistence Farmer,01 Jan 1979
+484,160123956,"Kepo, Kenedy",M,Lepera,Student,15 Jan 1997
+485,160246036,"Kepo, Keneth",M,Lepera,Student,01 Jan 1980
+486,160151872,"Kepo, Monda",M,Lepera,Worker,01 Jan 1977
+487,160136566,"Kepo, Pepul",M,Lepera,Subsistence Farmer,01 Apr 1975
+488,160151678,"Kera, Jeffrey",M,Lepera,Policeman,01 Jan 1961
+489,160153706,"Kereme, Ape",M,Lepera,Subsistence Farmer,01 Jan 1964
+490,160123962,"Keven, Mek",M,Lepera,Student,14 Aug 1998
+491,160444763,"Kevin, Joap",M,Lepera,Student,16 Nov 2003
+492,160148642,"Kilu, Mauswara",M,Lepera,Subsistence Farmer,01 Jan 1979
+493,160444751,"Kiru, Issac",M,Lepera,Subsistence Farmer,03 Sep 1992
+494,160444765,"Kiru, Joel",M,Lepera,Student,14 Dec 2002
+495,160444698,"Kiru, Manu",M,Lepera,Student,22 Nov 2002
+496,160148307,"Kisa, Mark",M,Lepera,Subsistence Farmer,01 Jan 1983
+497,160153257,"Koke, Tie",M,Lepera,Subsistence Farmer,01 Jan 1956
+498,25141894,"Kombe, Hany",M,Lepera,Driver,19 May 1986
+499,160444769,"Korea, Mek",M,Lepera,Student,11 Dec 2003
+500,160151870,"Koyapo, Amos",M,Lepera,Subsistence Farmer,01 Jan 1974
+501,160245875,"Koyapo, Jerry",M,Lepera,Driver,01 Jan 1971
+502,160148719,"Kuleme, Anda",M,Lepera,Subsistence Farmer,01 Jan 1984
+503,160148514,"Kuleme, Joseph",M,Lepera,Student,01 Jan 1990
+504,160148516,"Kuleme, Mali",M,Lepera,Subsistence Farmer,01 Jan 1970
+505,160148044,"Kuleme, Mote",M,Lepera,Pastor,01 Jan 1941
+506,160148043,"Kuleme, Pora",M,Lepera,Subsistence Farmer,01 Jan 1982
+507,160148633,"Kuleme, Wake",M,Lepera,Subsistence Farmer,01 Jan 1967
+508,160153866,"Kulimu, Omi",M,Lepera,Subsistence Farmer,01 Jan 1959
+509,160136700,"Kusa, Ezekiel",M,Lepera,Student,11 Feb 1998
+510,160245821,"Kusa, Gibson",M,Lepera,Student,01 Jan 1980
+511,160148519,"Kusa, Robert",M,Lepera,Driver,01 Jan 1983
+512,160153879,"Kusa, Ruben",M,Lepera,Student,01 Jan 1989
+513,160148380,"Lopeke, Kisa",M,Lepera,Security,01 Jan 1962
+514,160153886,"Lopeke, Mahary",M,Lepera,Worker,01 Jan 1964
+515,160246410,"Luke, Nolta",M,Lepera,Subsistence Farmer,01 Jan 1962
+516,160246281,"Lun, Bolita",M,Lepera,Houseboy,01 Jan 1989
+517,160148421,"Lun, Tambo",M,Lepera,Pastor,01 Jan 1980
+518,160148423,"Lun, Tame",M,Lepera,Student,01 Jan 1988
+519,160148422,"Lun, Tange",M,Lepera,Student,01 Jan 1986
+520,160148204,"Makoi, Gonol",M,Lepera,Subsistence Farmer,01 Jan 1980
+521,160444753,"Mali, Brandon",M,Lepera,Student,28 Apr 2004
+522,160444726,"Mali, Ruki",M,Lepera,Student,19 Aug 2003
+523,160148306,"Malo, Bepi",M,Lepera,Subsistence Farmer,01 Jan 1976
+524,160151929,"Malo, Patrick",M,Lepera,Subsistence Farmer,01 Jan 1984
+525,160148242,"Mambo, Pangi",M,Lepera,Forest Officer,01 Jan 1966
+526,160153296,"Mambo, Puiye",M,Lepera,Pastor,01 Jan 1962
+527,160151776,"Map, John",M,Lepera,Subsistence Farmer,01 Jan 1974
+528,160148424,"Mara, Jacob",M,Lepera,Student,01 Jan 1985
+529,160151780,"Marow, Gopa",M,Lepera,Subsistence Farmer,01 Jan 1964
+530,160151779,"Marowa, Manis",M,Lepera,Subsistence Farmer,01 Jan 1960
+531,160148187,"Marowa, Wane",M,Lepera,Subsistence Farmer,01 Jan 1981
+532,160148382,"Marthin, Max",M,Lepera,Houseboy,01 Jan 1978
+533,160444729,"Mathias, Jeffery",M,Lepera,Student,23 Jan 2003
+534,160444782,"Mek, Julies",M,Lepera,Student,15 Sep 1999
+535,160245805,"Mek, Pakena",M,Lepera,Student,01 Jan 1982
+536,160120160,"Mek, Tom",M,Lepera,Subsistence Farmer,01 Jan 1971
+537,160148396,"Meke, Job",M,Lepera,Subsistence Farmer,01 Jan 1988
+538,160148395,"Meke, Tonny",M,Lepera,Student,01 Jan 1986
+539,160123946,"Michael, Ferman",M,Lepera,Student,14 Feb 1998
+540,160151823,"Mognane, Tendil",M,Lepera,Subsistence Farmer,01 Jan 1959
+541,160151666,"Mogonane, Peyandi",M,Lepera,Subsistence Farmer,01 Jan 1959
+542,160124096,"Moke, Mica wanis",M,Lepera,Economist,16 Sep 1976
+543,160511155,"Mokom, Mathias",M,Lepera,Subsistence Farmer,10 Apr 1997
+544,25085301,"Monda, Fithler",M,Lepera,Student,06 Apr 2003
+545,160444746,"Mopis, Gillion",M,Lepera,Subsistence Farmer,30 Aug 1996
+546,160136692,"Mopis, Giok",M,Lepera,Student,24 Aug 1996
+547,160444713,"Mopis, Jerry",M,Lepera,Subsistence Farmer,25 Sep 2003
+548,160444696,"Mopis, Rodney",M,Lepera,Subsistence Farmer,10 Jan 2002
+549,160246043,"Mote, Jecy",M,Lepera,Student,01 Jan 1986
+550,160123930,"Mote, Noah",M,Lepera,Student,04 Aug 1998
+551,160123929,"Mote, Sammy",M,Lepera,Student,12 Aug 1997
+552,160148289,"Mukindi, Murumbu",M,Lepera,Subsistence Farmer,01 Jan 1971
+553,160148181,"Mukindi, Samuel",M,Lepera,Subsistence Farmer,01 Jan 1975
+554,160245797,"Murumbu, Febian",M,Lepera,Student,01 Jan 1984
+555,160123925,"Nema, Andrew",M,Lepera,Student,19 Mar 1997
+556,160444712,"Nema, Ilai",M,Lepera,Student,16 Mar 2001
+557,160148524,"Nema, Kale",M,Lepera,Subsistence Farmer,01 Jan 1956
+558,160148376,"Nema, Luke",M,Lepera,Subsistence Farmer,01 Jan 1983
+559,160148377,"Nema, Mathew",M,Lepera,Student,01 Jan 1987
+560,160444760,"Nema, Moses",M,Lepera,Subsistence Farmer,14 Nov 2002
+561,160151359,"Ninde, Kanege",M,Lepera,Subsistence Farmer,01 Jan 1970
+562,160148205,"Ninde, Poya",M,Lepera,Subsistence Farmer,01 Jan 1972
+563,160151833,"Nise, Diwi",M,Lepera,Subsistence Farmer,01 Jan 1988
+564,160153171,"Nise, Jacob",M,Lepera,Subsistence Farmer,01 Jan 1979
+565,160153169,"Nise, Maichel",M,Lepera,Not Specified,01 Jan 1965
+566,160153268,"Nive, Tawendo",M,Lepera,Subsistence Farmer,01 Jan 1977
+567,160148369,"Niye, Oiye",M,Lepera,Subsistence Farmer,01 Jan 1962
+568,160148627,"Niye, Pora",M,Lepera,Subsistence Farmer,01 Jan 1969
+569,160148648,"Niye, Tukundo",M,Lepera,Subsistence Farmer,01 Jan 1981
+570,160153271,"Niye, Wanep",M,Lepera,Subsistence Farmer,01 Jan 1975
+571,160153269,"Niye, Yando",M,Lepera,Subsistence Farmer,01 Jan 1976
+572,160444784,"Noge, Nobert",M,Lepera,Student,08 Mar 2003
+573,160153875,"Noloie, Tope",M,Lepera,Subsistence Farmer,01 Jan 1976
+574,160153874,"Noloye, Hoie",M,Lepera,Subsistence Farmer,01 Jan 1971
+575,160148373,"Noloye, Teni",M,Lepera,Subsistence Farmer,01 Jan 1973
+576,25085306,"Nonge, Bolo",M,Lepera,Student,10 Apr 2004
+577,160246272,"Nopundul, Chrostopher",M,Lepera,Student,01 Jan 1989
+578,160245871,"Nopundul, Senis",M,Lepera,Student,01 Jan 1988
+579,160148069,"Norum, Guli",M,Lepera,Subsistence Farmer,01 Jan 1978
+580,160148071,"Norum, James",M,Lepera,Subsistence Farmer,01 Jan 1986
+581,160151822,"Norum, Philiph",M,Lepera,Subsistence Farmer,01 Jan 1988
+582,25085312,"Paka, Nepo",M,Lepera,Student,20 Sep 2003
+583,160148629,"Pakupi, Philip",M,Lepera,Subsistence Farmer,01 Jan 1961
+584,160148221,"Pakupi, Yesu",M,Lepera,Subsistence Farmer,01 Jan 1961
+585,160148651,"Pakupi, Yuwanis",M,Lepera,Student,01 Jan 1988
+586,160246283,"Pangi, Gilberth",M,Lepera,Student,01 Jan 1986
+587,160148378,"Pasa, Bone",M,Lepera,Subsistence Farmer,01 Jan 1957
+588,160153279,"Pasa, Nema",M,Lepera,Subsistence Farmer,01 Jan 1955
+589,160151766,"Paul, Abel",M,Lepera,Student,01 Jan 1990
+590,160153298,"Paul, Peter",M,Lepera,Student,01 Jan 1989
+591,160444764,"Pea, Matol",M,Lepera,Student,13 Jan 2003
+592,160148387,"Peame, Iky",M,Lepera,Subsistence Farmer,01 Jan 1966
+593,160148384,"Peame, Yandi",M,Lepera,Subsistence Farmer,01 Jan 1960
+594,160151353,"Peke, Poye",M,Lepera,Subsistence Farmer,01 Jan 1962
+595,160151336,"Pem, Buka",M,Lepera,Subsistence Farmer,01 Jan 1984
+596,160151335,"Pem, Kanombo",M,Lepera,Subsistence Farmer,01 Jan 1980
+597,160146692,"Pem, Stanley",M,Lepera,Subsistence Farmer,01 Jan 1990
+598,160151334,"Pem, Wanpis",M,Lepera,Subsistence Farmer,01 Jan 1972
+599,160148260,"Pem, Wari",M,Lepera,Subsistence Farmer,01 Jan 1987
+600,160148202,"Pena, Andrew",M,Lepera,Subsistence Farmer,01 Jan 1976
+601,160444790,"Pena, Anton",M,Lepera,Student,12 May 2001
+602,160148203,"Pena, Philipa",M,Lepera,Subsistence Farmer,01 Jan 1982
+603,160444787,"Pepul, Steward",M,Lepera,Student,06 Nov 2003
+604,160246414,"Peter, Brandon",M,Lepera,Student,01 Jan 1992
+605,25085314,"Peter, James",M,Lepera,Student,03 Feb 2000
+606,25085315,"Peterson, Tando",M,Lepera,Student,03 Feb 1996
+607,160444750,"Peya, Roka",M,Lepera,Student,03 Apr 2004
+608,160153275,"Philip, Pareka",M,Lepera,Student,01 Jan 1989
+609,160146584,"Philipo, Senis",M,Lepera,Student,01 Jan 1989
+610,160148196,"Philipo, Wanpis",M,Lepera,Subsistence Farmer,01 Jan 1981
+611,160146689,"Pile, Alako",M,Lepera,Subsistence Farmer,01 Jan 1970
+612,160151333,"Pile, Norman",M,Lepera,Subsistence Farmer,01 Jan 1988
+613,160151665,"Pile, Oto",M,Lepera,Subsistence Farmer,01 Jan 1983
+614,160151664,"Pile, Wane",M,Lepera,Subsistence Farmer,01 Jan 1973
+615,160148641,"Pinje, Topel",M,Lepera,Subsistence Farmer,01 Jan 1980
+616,160148142,"Pipi, Kelma",M,Lepera,Clerk,01 Jan 1969
+617,160148316,"Pipi, Kepo",M,Lepera,Subsistence Farmer,01 Jan 1960
+618,160148178,"Pipi, Philip",M,Lepera,Subsistence Farmer,01 Jan 1970
+619,160151773,"Pipi, Pure",M,Lepera,Subsistence Farmer,01 Jan 1972
+620,160148419,"Piye, Lune",M,Lepera,Subsistence Farmer,01 Jan 1959
+621,160245807,"Poki, Aman",M,Lepera,Student,01 Jan 1986
+622,160444711,"Poki, Casper",M,Lepera,Student,18 Dec 1998
+623,160124107,"Poki, Jonathan",M,Lepera,Student,12 Oct 1997
+624,160136695,"Poki, Wesley",M,Lepera,Student,15 Mar 1998
+625,160124095,"Ponege, Sydney",M,Lepera,Student,17 May 1998
+626,160151458,"Pora, Peter",M,Lepera,Salesman,01 Jan 1972
+627,160151457,"Pora, Richard",M,Lepera,Warder,01 Jan 1977
+628,160148218,"Pora, Senis",M,Lepera,Student,01 Jan 1980
+629,160148201,"Poye, Mathew",M,Lepera,Student,01 Jan 1986
+630,160153162,"Pulgiye, Imele",M,Lepera,Student,01 Jan 1984
+631,160153164,"Pulgiye, Joel",M,Lepera,Student,01 Jan 1988
+632,160151679,"Pulgiye, Wanis",M,Lepera,Not Specified,01 Jan 1970
+633,160148182,"Pulume, Aris",M,Lepera,Subsistence Farmer,01 Jan 1965
+634,160148184,"Pulume, Mathias",M,Lepera,Subsistence Farmer,01 Jan 1971
+635,160146695,"Pulume, Moses",M,Lepera,Subsistence Farmer,01 Jan 2000
+636,160148293,"Pulume, Patere",M,Lepera,Subsistence Farmer,01 Jan 1968
+637,160148296,"Pulume, Peter karape",M,Lepera,Subsistence Farmer,01 Jan 1977
+638,160444792,"Pure, Senis",M,Lepera,Student,03 Feb 2002
+639,160148271,"Raigol, Frank",M,Lepera,Subsistence Farmer,01 Jan 1973
+640,160151871,"Raigol, Jackson",M,Lepera,Subsistence Farmer,01 Jan 1980
+641,160148427,"Raigol, Stephen",M,Lepera,Pastor,01 Jan 1961
+642,160151683,"Rami, Aiyepu",M,Lepera,Subsistence Farmer,01 Jan 1962
+643,160153888,"Rami, Lenge",M,Lepera,Subsistence Farmer,01 Jan 1971
+644,160148389,"Rami, Mopis",M,Lepera,Subsistence Farmer,01 Jan 1962
+645,160153284,"Ramise, George",M,Lepera,Student,01 Jan 1987
+646,160153294,"Randa, Mambo",M,Lepera,Subsistence Farmer,01 Jan 1940
+647,160120163,"Randa, Soti",M,Lepera,Subsistence Farmer,01 Jan 1936
+648,160153152,"Randa, Tende",M,Lepera,Subsistence Farmer,01 Jan 1942
+649,160151680,"Randa, Tolombo",M,Lepera,Subsistence Farmer,01 Jan 1945
+650,160151668,"Randa, Wapele",M,Lepera,Subsistence Farmer,01 Jan 1955
+651,160153267,"Rema, Vincent",M,Lepera,Warder,01 Jan 1952
+652,160151349,"Sapisi, Joseph",M,Lepera,Student,01 Jan 1990
+653,160148415,"Sapisi, Kiru",M,Lepera,Subsistence Farmer,01 Jan 1973
+654,160151344,"Sapisi, Mark",M,Lepera,Security,01 Jan 1968
+655,160151864,"Sapisi, Tangera",M,Lepera,Subsistence Farmer,01 Jan 1973
+656,160246412,"Sapisi, Vincent",M,Lepera,Warder,01 Jan 1964
+657,160151865,"Sapsi, Depos",M,Lepera,Subsistence Farmer,01 Jan 1971
+658,160148263,"Sapsi, Docta",M,Lepera,Subsistence Farmer,01 Jan 1961
+659,160151347,"Sapsi, Koai",M,Lepera,Subsistence Farmer,01 Jan 1979
+660,160246276,"Siri, Gary",M,Lepera,Student,01 Jan 1987
+661,160444772,"Sito, Jeriko",M,Lepera,Student,07 Jun 2003
+662,160153878,"Stanly, Aris",M,Lepera,Student,01 Jan 1988
+663,25087438,"Steven, Issac",M,Lepera,Student,23 Apr 2004
+664,25085325,"Suku, Philimon",M,Lepera,Student,28 Sep 2003
+665,160148302,"Sule, Kiap",M,Lepera,Subsistence Farmer,01 Jan 1976
+666,160148303,"Sule, Mali",M,Lepera,Subsistence Farmer,01 Jan 1981
+667,160151927,"Sule, Wamol",M,Lepera,Subsistence Farmer,01 Jan 1978
+668,160444749,"Tangera, Manu",M,Lepera,Subsistence Farmer,28 Oct 1993
+669,160444793,"Temo, Timon",M,Lepera,Student,14 Mar 2003
+670,160153145,"Tende, Kera",M,Lepera,Subsistence Farmer,01 Jan 1975
+671,160148247,"Tende, Poky",M,Lepera,Subsistence Farmer,01 Jan 1970
+672,160153167,"Tende, Tom",M,Lepera,Subsistence Farmer,01 Jan 1972
+673,160151328,"Tendil, Jacob",M,Lepera,Student,01 Jan 1987
+674,160151462,"Tendil, Keven",M,Lepera,Subsistence Farmer,01 Jan 1974
+675,160151825,"Tendil, Steven",M,Lepera,Subsistence Farmer,01 Jan 1984
+676,160123959,"Tenis, Pure",M,Lepera,Student,10 Apr 1997
+677,160153110,"Tiye, Benny",M,Lepera,Student,01 Jan 1986
+678,160148398,"Tiye, Peter",M,Lepera,Subsistence Farmer,01 Jan 1970
+679,160153115,"Tiye, Willy",M,Lepera,Subsistence Farmer,01 Jan 1988
+680,160148056,"Tolombo, Amos",M,Lepera,Subsistence Farmer,01 Jan 1974
+681,160148055,"Tolombo, Wangisil",M,Lepera,Subsistence Farmer,01 Jan 1971
+682,160123924,"Tom, Nasson",M,Lepera,Student,31 Jan 1997
+683,160148041,"Tonge, Pote",M,Lepera,Teacher,01 Jan 1961
+684,25085335,"Tope, Eskaia",M,Lepera,Student,03 Nov 2001
+685,160151827,"Toringi, Philimbo",M,Lepera,Subsistence Farmer,01 Jan 1976
+686,160151829,"Toringi, Willie",M,Lepera,Student,01 Jan 1990
+687,160153149,"Turi, Buka",M,Lepera,Subsistence Farmer,01 Jan 1966
+688,160153126,"Turi, John",M,Lepera,Subsistence Farmer,01 Jan 1970
+689,160148411,"Turi, Miriye",M,Lepera,Subsistence Farmer,01 Jan 1987
+690,160153128,"Turi, Sipik",M,Lepera,Subsistence Farmer,01 Jan 1978
+691,160153147,"Turi, Thomas",M,Lepera,Security,01 Jan 1968
+692,160148406,"Turi, Wake",M,Lepera,Subsistence Farmer,01 Jan 1965
+693,160153114,"Turi, Wari",M,Lepera,Security,01 Jan 1966
+694,160148370,"Vincent, Daniel",M,Lepera,Student,01 Jan 1986
+695,160153870,"Vincent, Simon",M,Lepera,Student,01 Jan 1983
+696,160246282,"Wakoie, Duku",M,Lepera,Houseboy,01 Jan 1989
+697,160153179,"Wakoie, Kondowa",M,Lepera,Houseboy,01 Jan 1987
+698,160153177,"Wakoie, Tope",M,Lepera,Subsistence Farmer,01 Jan 1982
+699,160153178,"Wakoie, Tuku",M,Lepera,Houseboy,01 Jan 1981
+700,160136704,"Wakoiye, John",M,Lepera,Student,19 Feb 1997
+701,160245873,"Wambea, Andrew",M,Lepera,Student,01 Jan 1990
+702,160123947,"Wambea, James",M,Lepera,Student,09 Mar 1999
+703,160151932,"Wambea, Peter",M,Lepera,Student,01 Jan 1990
+704,160146694,"Wambea, Simon",M,Lepera,Student,01 Jan 1990
+705,160151346,"Wambiri, Sapsi",M,Lepera,Student,01 Jan 1980
+706,160444789,"Wandi, Alex",M,Lepera,Student,06 Sep 2001
+707,160444759,"Wapele, Pies",M,Lepera,Subsistence Farmer,10 Sep 2003
+708,160153130,"Wendo, Yulupi",M,Lepera,Subsistence Farmer,01 Jan 1941
+709,160148188,"Yakopa, Garu",M,Lepera,Subsistence Farmer,01 Jan 1957
+710,160153264,"Yakopa, Kanoli",M,Lepera,Subsistence Farmer,01 Jan 1974
+711,160136699,"Yakopa, Kupu",M,Lepera,Subsistence Farmer,01 Jan 1998
+712,160245874,"Yakopa, Mano",M,Lepera,Subsistence Farmer,01 Jan 1951
+713,160120176,"Yakopa, Peter",M,Lepera,Subsistence Farmer,01 Jan 1979
+714,160148300,"Yakopa, Ponege",M,Lepera,Subsistence Farmer,01 Jan 1972
+715,160146544,"Yakopa, Pumbu",M,Lepera,Student,01 Jan 1989
+716,160148262,"Yakopa, Wambea",M,Lepera,Subsistence Farmer,01 Jan 1968
+717,160444724,"Yamu, Samuel",M,Lepera,Self Employed,29 May 2003
+718,25085339,"Yang, Terry",M,Lepera,Student,01 Mar 2000
+719,25085343,"Yano, Garry",M,Lepera,Teacher,28 Apr 2004
+720,25085345,"Yano, Peter",M,Lepera,Policeman,06 Sep 1994
+721,160246417,"Yes, Jery",M,Lepera,Houseboy,01 Jan 1980
+722,160148628,"Yesu, Pindi",M,Lepera,Subsistence Farmer,01 Jan 1987
+723,160153173,"Yumina, Goraie",M,Lepera,Subsistence Farmer,01 Jan 1961
+724,160151836,"Yumina, Peya",M,Lepera,Subsistence Farmer,01 Jan 1966
+725,160444762,"Yun, Charlie",M,Lepera,Student,19 Oct 2003
+726,160444780,"Yun, Elizah",M,Lepera,Student,26 Jul 2002
+727,160444775,"Yun, Thomas",M,Lepera,Pastor,29 Aug 2003

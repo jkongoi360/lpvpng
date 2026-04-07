@@ -1,0 +1,843 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160187533,"Akeya, Betty",F,Nagop 2,Household Duties,01 Jan 1976
+2,160187543,"Akeya, Everlyn",F,Nagop 2,Teacher,01 Jan 1974
+3,160187540,"Akeya, Julie",F,Nagop 2,Pastor,01 Jan 1969
+4,160185568,"Akeya, Meggie",F,Nagop 2,Teacher,01 Jan 1976
+5,160188188,"Akeya, Monica",F,Nagop 2,Student,01 Jan 1990
+6,160185655,"Akeya, Niomi",F,Nagop 2,Student,01 Jan 1988
+7,160209997,"Alfred, Magaret",F,Nagop 2,Household Duties,01 Jan 1976
+8,160209995,"Alfred, Palakome",F,Nagop 2,Household Duties,01 Jan 1975
+9,160238609,"Alopambo, Regina",F,Nagop 2,Student,01 Jan 1993
+10,160250117,"Amboi, Temabo",F,Nagop 2,Household Duties,01 Jan 1961
+11,160185387,"Andoiye, Altuwa",F,Nagop 2,Household Duties,01 Jan 1937
+12,160185416,"Andoiye, Anna",F,Nagop 2,Housegirl,01 Jan 1988
+13,160185913,"Andoiye, Epo",F,Nagop 2,Housegirl,01 Jan 1971
+14,160185907,"Andoiye, Jennie",F,Nagop 2,Household Duties,01 Jan 1965
+15,160182662,"Andoiye, Jessicah",F,Nagop 2,Student,01 Jan 1990
+16,160185933,"Andoiye, Maria",F,Nagop 2,Housegirl,01 Jan 1983
+17,160186058,"Andoiye, Mindili",F,Nagop 2,Housegirl,01 Jan 1973
+18,160187551,"Andoiye, Nelli",F,Nagop 2,Accountant,01 Jan 1963
+19,160185910,"Andoiye, Ruth",F,Nagop 2,Housegirl,01 Jan 1968
+20,160187535,"Andoiye, Tombiye",F,Nagop 2,Household Duties,01 Jan 1940
+21,160151548,"Andoiye, Venesa",F,Nagop 2,Student,01 Jan 1990
+22,160241600,"Anjo, Lita",F,Nagop 2,Household Duties,01 Jan 1974
+23,160191051,"Anjol, Ruth",F,Nagop 2,Housegirl,01 Jan 1987
+24,160187550,"Apua, Hellie",F,Nagop 2,Store Keeper,01 Jan 1975
+25,160187205,"Apua, Hellyn",F,Nagop 2,Household Duties,01 Jan 1981
+26,160185399,"Apua, Joina",F,Nagop 2,Student,01 Jan 1983
+27,160187361,"Apua, Meles",F,Nagop 2,Housegirl,01 Jan 1988
+28,25104857,"Apua, Merolyn",F,Nagop 2,Student,03 Jan 2000
+29,160187199,"Apua, Narenu",F,Nagop 2,Household Duties,01 Jan 1971
+30,160187203,"Apua, Rose",F,Nagop 2,Household Duties,01 Jan 1977
+31,160508867,"Aya, Aliah",F,Nagop 2,Unemployed,06 Jun 1999
+32,160188134,"Bein, Melen",F,Nagop 2,Household Duties,01 Jan 1972
+33,160508869,"Ben, Lanita",F,Nagop 2,Student,06 Jul 2003
+34,160137620,"Ben, Rosanna",F,Nagop 2,Household Duties,18 Sep 1987
+35,160447109,"Ben, Sharoney",F,Nagop 2,Student,28 Apr 2003
+36,160190268,"Benjamin, Becky",F,Nagop 2,Household Duties,01 Jan 1974
+37,160241899,"Bomai, Kupini",F,Nagop 2,Household Duties,01 Jan 1962
+38,160447151,"Bomaie, Olin",F,Nagop 2,Student,04 Jun 2001
+39,160508877,"Buku, Betty",F,Nagop 2,Farm worker,12 Jun 2001
+40,160185340,"Charlie, Seron",F,Nagop 2,Household Duties,01 Jan 1979
+41,160447178,"Clifora, Lavina",F,Nagop 2,Student,07 Mar 2004
+42,160191056,"Daiye, Anjo",F,Nagop 2,Household Duties,01 Jan 1969
+43,160191059,"Daiye, Jacky",F,Nagop 2,Housegirl,01 Jan 1984
+44,160191058,"Daiye, Tolai",F,Nagop 2,Housegirl,01 Jan 1976
+45,160128258,"Daniel, Lanis",F,Nagop 2,Household Duties,01 Jan 1989
+46,160249717,"Deli, Everlyn",F,Nagop 2,Household Duties,01 Jan 1982
+47,160249333,"Deli, Magalina",F,Nagop 2,Household Duties,01 Jan 1961
+48,160128471,"Deli, Susan",F,Nagop 2,Housegirl,10 Aug 1986
+49,160128472,"Deli, Susi",F,Nagop 2,Worker,12 Mar 1988
+50,160250474,"Dionai, Helen",F,Nagop 2,Household Duties,01 Jan 1981
+51,160250472,"Dionai, Joan",F,Nagop 2,Household Duties,01 Jan 1962
+52,160128194,"Donald, Dalcy",F,Nagop 2,Student,01 Apr 1999
+53,160508880,"Dorapa, Merolyn",F,Nagop 2,Self Employed,06 May 1999
+54,160128379,"Elep, Roselyn",F,Nagop 2,Subsistence Farmer,24 Jun 1997
+55,160185453,"Ena, Davina",F,Nagop 2,Student,01 Jan 1990
+56,160185450,"Ena, Elvina",F,Nagop 2,Student,01 Jan 1987
+57,160185451,"Ena, Lavina",F,Nagop 2,Student,01 Jan 1989
+58,160185449,"Ena, Mati",F,Nagop 2,Household Duties,01 Jan 1971
+59,160185405,"Ena, Mopune",F,Nagop 2,Teacher,01 Jan 1956
+60,160249791,"Enge, Rombame",F,Nagop 2,Household Duties,01 Jan 1971
+61,160237210,"Garu, Mondi",F,Nagop 2,Household Duties,01 Jan 1976
+62,160128193,"Garu, Stela",F,Nagop 2,Student,03 Feb 1999
+63,160237284,"Geven, Beteni",F,Nagop 2,Household Duties,01 Jan 1974
+64,160508882,"Gibson, Mara",F,Nagop 2,Student,02 Mar 2000
+65,160447181,"Gibson, Ruth",F,Nagop 2,Household Duties,05 Mar 1996
+66,160238680,"Iko, Everlyn",F,Nagop 2,Household Duties,01 Jan 1969
+67,160238679,"Iko, Natil",F,Nagop 2,Household Duties,01 Jan 1972
+68,160237629,"Iko, Sheron",F,Nagop 2,Student,01 Jan 1993
+69,160237628,"Iko, Tracy",F,Nagop 2,Student,01 Jan 1991
+70,160188141,"Indipine, Christina",F,Nagop 2,Housegirl,01 Jan 1982
+71,160188140,"Indipine, Miriam",F,Nagop 2,Household Duties,01 Jan 1976
+72,160188137,"Indipine, Yara",F,Nagop 2,Household Duties,01 Jan 1948
+73,160250460,"Irepo, Cathen",F,Nagop 2,Household Duties,01 Jan 1985
+74,160137629,"Irepo, Christina",F,Nagop 2,,25 Jun 2017
+75,160246365,"Irepo, Korea",F,Nagop 2,Student,01 Jan 1988
+76,160250601,"Irepo, Nepo",F,Nagop 2,Subsistence Farmer,01 Jan 1966
+77,160237414,"James, Jacklyn",F,Nagop 2,Student,01 Jan 1993
+78,160447104,"James, Lackelyn",F,Nagop 2,Student,06 Mar 2003
+79,160447096,"James, Meriam",F,Nagop 2,Student,01 Feb 2001
+80,160188130,"James, Rosa",F,Nagop 2,Household Duties,01 Jan 1971
+81,160447149,"James, Selena",F,Nagop 2,Student,01 Apr 2003
+82,160237180,"James, Teres",F,Nagop 2,Household Duties,01 Jan 1973
+83,160210372,"Jeffry, Helen",F,Nagop 2,Household Duties,01 Jan 1979
+84,160447094,"Jerry, Olive",F,Nagop 2,Student,02 Jan 2002
+85,160447095,"Jerry, Rosellyn",F,Nagop 2,Subsistence Farmer,01 Feb 1991
+86,160447161,"Jimmy, Serial",F,Nagop 2,Student,04 Feb 2004
+87,160250118,"John, Bepi",F,Nagop 2,Household Duties,01 Jan 1969
+88,160250119,"John, Margret",F,Nagop 2,Household Duties,01 Jan 1987
+89,160508884,"Johnson, Jotty",F,Nagop 2,Unemployed,15 Jun 1990
+90,160238672,"Jomote, Joy",F,Nagop 2,Household Duties,01 Jan 1977
+91,160128201,"Joshua, Jacky",F,Nagop 2,Household Duties,06 Dec 1992
+92,160128188,"Joshua, Josephin",F,Nagop 2,Student,08 Mar 1997
+93,160128473,"Kainge, Cicilia",F,Nagop 2,Doctor,15 Jun 1963
+94,160128474,"Kainge, Grace",F,Nagop 2,Worker,15 Jul 1965
+95,160128466,"Kainge, Jessy",F,Nagop 2,Housegirl,13 Oct 1988
+96,160128465,"Kainge, Melisha",F,Nagop 2,Worker,16 Jun 1994
+97,160237189,"Kainge, Tirimo",F,Nagop 2,Household Duties,01 Jan 1954
+98,160187365,"Kaiya, Muganu",F,Nagop 2,Household Duties,01 Jan 1940
+99,160185638,"Kaiyape, Diana",F,Nagop 2,Student,01 Jan 1986
+100,160185462,"Kaiyape, Joy",F,Nagop 2,Student,01 Jan 1988
+101,160185636,"Kaiyape, Kolai",F,Nagop 2,Housegirl,01 Jan 1974
+102,160185639,"Kaiyape, Uti",F,Nagop 2,Student,01 Jan 1988
+103,160508887,"Kaiype, Mita",F,Nagop 2,Subsistence Farmer,08 Nov 1996
+104,160128360,"Kalapari, Rosana",F,Nagop 2,Student,18 Dec 1997
+105,160250200,"Kalatoli, Clare",F,Nagop 2,Household Duties,01 Jan 1966
+106,160250208,"Kalatoli, Easter",F,Nagop 2,Household Duties,01 Jan 1983
+107,160187429,"Kale, Anita",F,Nagop 2,Household Duties,01 Jan 1970
+108,160187430,"Kale, Elis",F,Nagop 2,Church Worker,01 Jan 1973
+109,160187531,"Kale, Kanop",F,Nagop 2,Household Duties,01 Jan 1954
+110,160188184,"Kale, Keleli",F,Nagop 2,Household Duties,01 Jan 1947
+111,160190712,"Kale, Lavina",F,Nagop 2,Student,01 Jan 1989
+112,160188313,"Kale, Polina",F,Nagop 2,Church Worker,01 Jan 1980
+113,160184721,"Kale, Stella",F,Nagop 2,Student,01 Jan 1990
+114,160209986,"Kanombo, Polyn",F,Nagop 2,Household Duties,01 Jan 1980
+115,160508947,"Kari, Elly",F,Nagop 2,Unemployed,12 Jun 2001
+116,160128377,"Kelemambo, Wini",F,Nagop 2,Household Duties,13 Mar 1996
+117,160237295,"Kelly, Jane",F,Nagop 2,Student,01 Jan 1991
+118,160237297,"Kelly, Josephine",F,Nagop 2,Student,01 Jan 1993
+119,160246544,"Kelly, Maiyarox",F,Nagop 2,Household Duties,01 Jan 1979
+120,160235096,"Kelly, Mayambo",F,Nagop 2,Household Duties,01 Jan 1973
+121,160210349,"Kema, Kepono",F,Nagop 2,Household Duties,01 Jan 1943
+122,160190793,"Kema, Lepi",F,Nagop 2,Cook,01 Jan 1963
+123,160190805,"Kema, Magret",F,Nagop 2,Housegirl,01 Jan 1970
+124,160190796,"Kema, Susan",F,Nagop 2,Housegirl,01 Jan 1979
+125,160128381,"Kemapu, Lavina",F,Nagop 2,Typist,14 Apr 1996
+126,160190730,"Kepo, Kepambo",F,Nagop 2,Household Duties,01 Jan 1947
+127,160190636,"Kepo, Kerol",F,Nagop 2,Household Duties,01 Jan 1986
+128,160190647,"Kepo, Lenda",F,Nagop 2,Household Duties,01 Jan 1972
+129,160190650,"Kepo, Merolyn",F,Nagop 2,Student,01 Jan 1990
+130,160190637,"Kepo, Nevolyn",F,Nagop 2,Student,01 Jan 1990
+131,160128197,"Kera, Carolyn",F,Nagop 2,Student,07 Jul 1992
+132,160447170,"Keribalo, Nenge",F,Nagop 2,Household Duties,03 Feb 1969
+133,160185457,"Keru, Elice",F,Nagop 2,Household Duties,01 Jan 1963
+134,160185459,"Keru, Jessica",F,Nagop 2,Household Duties,01 Jan 1983
+135,160186063,"Keru, Kalenu",F,Nagop 2,Household Duties,01 Jan 1954
+136,160185924,"Keru, Nirunu",F,Nagop 2,Store Keeper,01 Jan 1973
+137,160185633,"Keru, Yangome",F,Nagop 2,Household Duties,01 Jan 1966
+138,160190269,"Kevin, Angelinu",F,Nagop 2,Household Duties,01 Jan 1946
+139,160190880,"Kewaiye, Cathy",F,Nagop 2,Household Duties,01 Jan 1966
+140,160190651,"Kewaiye, Esther",F,Nagop 2,Household Duties,01 Jan 1974
+141,160190877,"Kewaiye, Jenet",F,Nagop 2,Household Duties,01 Jan 1984
+142,160190726,"Kewaiye, Lien",F,Nagop 2,Household Duties,01 Jan 1981
+143,160190633,"Kewaiye, Nancy",F,Nagop 2,Household Duties,01 Jan 1971
+144,160190723,"Kewaiye, Tiwi",F,Nagop 2,Household Duties,01 Jan 1946
+145,160508948,"Kewei, Faith",F,Nagop 2,Student,23 Mar 2000
+146,160508949,"Kewei, Miriam",F,Nagop 2,Household Duties,17 Jun 1983
+147,160188172,"Kilinga, Atina",F,Nagop 2,Household Duties,01 Jan 1973
+148,160188173,"Kilinga, Elvina",F,Nagop 2,Student,01 Jan 1987
+149,160185650,"Kilinga, Joy",F,Nagop 2,Household Duties,01 Jan 1983
+150,160188170,"Kilinga, Ruth",F,Nagop 2,Household Duties,01 Jan 1963
+151,160188167,"Kilinga, Yomini",F,Nagop 2,Subsistence Farmer,01 Jan 1950
+152,160185664,"Kinde, Diana",F,Nagop 2,Teacher,01 Jan 1976
+153,160185411,"Kinde, Josephine",F,Nagop 2,Student,01 Jan 1987
+154,160185410,"Kinde, Tina",F,Nagop 2,Household Duties,01 Jan 1984
+155,160185575,"Kinde, Unet",F,Nagop 2,Household Duties,01 Jan 1960
+156,160185482,"Kinde, Yana",F,Nagop 2,Household Duties,01 Jan 1982
+157,160508950,"Kingsly, Mellyn",F,Nagop 2,Student,28 Jun 2001
+158,160246494,"Kipu, Janet",F,Nagop 2,Teacher,01 Jan 1979
+159,160508951,"Kipu, Janetha",F,Nagop 2,Student,06 Jun 2000
+160,160246496,"Kipu, Kurume",F,Nagop 2,Household Duties,01 Jan 1961
+161,160238544,"Kiri, Lesy",F,Nagop 2,Student,01 Jan 1992
+162,160238675,"Kiri, Lewa",F,Nagop 2,Household Duties,01 Jan 1971
+163,160508952,"Kome, Jalyn",F,Nagop 2,Self Employed,28 Jun 2000
+164,160209929,"Koroli, Betty",F,Nagop 2,Household Duties,01 Jan 1981
+165,160136665,"Kote, Julie",F,Nagop 2,Student,07 Mar 1998
+166,160246880,"Ku, Iko",F,Nagop 2,Household Duties,01 Jan 1974
+167,160246878,"Ku, Tino",F,Nagop 2,Household Duties,01 Jan 1973
+168,160246868,"Kuno, Jacklyn",F,Nagop 2,Student,01 Jan 1986
+169,160246452,"Kuno, Jerry",F,Nagop 2,Household Duties,01 Jan 1978
+170,160246887,"Kuno, Roselyn",F,Nagop 2,Household Duties,01 Jan 1980
+171,160508953,"Kuru, Kewambo",F,Nagop 2,Household Duties,05 Jul 1994
+172,160508954,"Kuru, Linneth",F,Nagop 2,Student,02 Feb 2001
+173,160447129,"Langi, Pamila",F,Nagop 2,Student,28 Apr 2003
+174,160250630,"Lopeke, Noino",F,Nagop 2,Household Duties,01 Jan 1979
+175,160191054,"Lucas, Nopiye",F,Nagop 2,Household Duties,01 Jan 1973
+176,160447158,"Luke, Evelyn",F,Nagop 2,Student,01 Feb 2002
+177,160447159,"Luke, Lineth",F,Nagop 2,Student,04 Aug 2001
+178,160188127,"Manda, Charity",F,Nagop 2,Student,01 Jan 1985
+179,160188125,"Manda, Esther",F,Nagop 2,Student,01 Jan 1981
+180,160190668,"Manda, Gideon",F,Nagop 2,Student,01 Jan 1976
+181,160188124,"Manda, Nowame",F,Nagop 2,Household Duties,01 Jan 1956
+182,160241870,"Mane, Kambame",F,Nagop 2,Household Duties,01 Jan 1962
+183,160243017,"Mare, Anna",F,Nagop 2,Household Duties,01 Jan 1961
+184,160241914,"Mare, Uriye",F,Nagop 2,Student,01 Jan 1991
+185,160128355,"Mare, Wari",F,Nagop 2,Household Duties,20 Nov 1976
+186,160128198,"Mark, Shera",F,Nagop 2,Household Duties,06 Sep 1989
+187,160209913,"Marowa, Jenifa",F,Nagop 2,Student,01 Jan 1988
+188,160209911,"Marowa, Uwini",F,Nagop 2,Household Duties,01 Jan 1962
+189,160190223,"Mek, Kola",F,Nagop 2,Nurse,01 Jan 1979
+190,160447137,"Michael, Olin",F,Nagop 2,Student,28 Feb 2000
+191,160250213,"Micheal, Elis",F,Nagop 2,Student,01 Jan 1983
+192,160249714,"Micheal, Evelyn",F,Nagop 2,Student,01 Jan 1980
+193,160250225,"Micheal, Margeret",F,Nagop 2,Household Duties,01 Jan 1977
+194,160238610,"Mini, Cathy",F,Nagop 2,Household Duties,01 Jan 1975
+195,160447100,"Mini, Julie",F,Nagop 2,Subsistence Farmer,06 Jul 2001
+196,160238546,"Mini, Kipeme",F,Nagop 2,Household Duties,01 Jan 1966
+197,160447101,"Mini, Rebca",F,Nagop 2,Housegirl,06 Jul 1992
+198,160210012,"Mona, Jammy",F,Nagop 2,Student,01 Jan 1990
+199,160210010,"Mona, Joina",F,Nagop 2,Housegirl,01 Jan 1973
+200,160209905,"Mona, Yara",F,Nagop 2,Household Duties,01 Jan 1969
+201,160185374,"Monda, Bevely",F,Nagop 2,Household Duties,01 Jan 1976
+202,160184748,"Monda, Kandiye",F,Nagop 2,Household Duties,01 Jan 1947
+203,160184753,"Monda, Kola",F,Nagop 2,Student,01 Jan 1979
+204,160185219,"Monda, Ronny",F,Nagop 2,Household Duties,01 Jan 1978
+205,160508957,"Mori, Priscilla",F,Nagop 2,Self Employed,28 Jul 2000
+206,160128369,"Mukiye, Elisha",F,Nagop 2,Student,03 Mar 1999
+207,160508958,"Nale, Magret",F,Nagop 2,Student,06 Mar 1999
+208,160185412,"Nale, Paitame",F,Nagop 2,Household Duties,01 Jan 1954
+209,160246374,"Nanjowa, Marina",F,Nagop 2,Household Duties,01 Jan 1973
+210,160508959,"Nanjowa, Mombo",F,Nagop 2,Student,03 Feb 2000
+211,160508960,"Napa, Bepi",F,Nagop 2,Subsistence Farmer,02 Jan 1974
+212,160185643,"Nare, Betty",F,Nagop 2,Housegirl,01 Jan 1984
+213,160185657,"Nare, Elizabeth",F,Nagop 2,Student,01 Jan 1989
+214,160185642,"Nare, Enny",F,Nagop 2,Household Duties,01 Jan 1982
+215,160185485,"Nare, Julie",F,Nagop 2,Housegirl,01 Jan 1984
+216,160185326,"Nare, Merolyn",F,Nagop 2,Student,01 Jan 1987
+217,160185464,"Nare, Nancy",F,Nagop 2,Housegirl,01 Jan 1978
+218,160210530,"Nawea, Magalina",F,Nagop 2,Household Duties,01 Jan 1954
+219,160209975,"Nawea, Resinda",F,Nagop 2,Student,01 Jan 1986
+220,160508962,"Nelson, Ruth",F,Nagop 2,Subsistence Farmer,03 Jun 1992
+221,160237271,"Ninde, Tendambo",F,Nagop 2,Household Duties,01 Jan 1966
+222,160237480,"Nindie, Jenny",F,Nagop 2,Student,01 Jan 1983
+223,160237475,"Nindie, Kymbiambo",F,Nagop 2,Household Duties,01 Jan 1971
+224,160250197,"Ninge, Lyn",F,Nagop 2,Household Duties,01 Jan 1975
+225,160249474,"Ninge, Monica",F,Nagop 2,Household Duties,01 Jan 1971
+226,160128199,"Norman, Sheron",F,Nagop 2,Teacher,07 May 1991
+227,160207916,"Onga, Dieme",F,Nagop 2,Household Duties,01 Jan 1979
+228,160210506,"Opa, Wandea",F,Nagop 2,Household Duties,01 Jan 1958
+229,160238772,"Opye, Alopambo",F,Nagop 2,Household Duties,01 Jan 1968
+230,160190664,"Pake, Frinda",F,Nagop 2,Student,01 Jan 1990
+231,160190665,"Pake, Jessica",F,Nagop 2,Student,01 Jan 1990
+232,160190641,"Pake, Kerolyn",F,Nagop 2,Housegirl,01 Jan 1974
+233,160190662,"Pake, Malvet",F,Nagop 2,Household Duties,01 Jan 1952
+234,160190427,"Pakena, Delailah",F,Nagop 2,Student,01 Jan 1984
+235,160188129,"Pakena, Lilian",F,Nagop 2,Teacher,01 Jan 1980
+236,160190659,"Pakena, Natil",F,Nagop 2,Teacher,01 Jan 1958
+237,160185579,"Pakep, Ipo",F,Nagop 2,Student,01 Jan 1989
+238,160185576,"Pakep, Jessica",F,Nagop 2,Housegirl,01 Jan 1979
+239,160185578,"Pakep, Mary",F,Nagop 2,Housegirl,01 Jan 1987
+240,160137628,"Palaru, Georgina",F,Nagop 2,Student,28 Mar 1999
+241,160246368,"Palaru, Kaite",F,Nagop 2,Worker,01 Jan 1961
+242,160250447,"Palaru, Kumbiye",F,Nagop 2,Subsistence Farmer,01 Jan 1963
+243,160128186,"Palaru, Molina",F,Nagop 2,Student,18 Apr 1999
+244,160191045,"Pale, Helen",F,Nagop 2,Household Duties,01 Jan 1967
+245,160190810,"Pale, Joyce",F,Nagop 2,Housegirl,01 Jan 1988
+246,160210510,"Pange, Marolyn",F,Nagop 2,Student,01 Jan 1989
+247,160210508,"Pange, Pala",F,Nagop 2,Household Duties,01 Jan 1964
+248,160249575,"Panjipo, Lewa",F,Nagop 2,Household Duties,01 Jan 1983
+249,160246639,"Paru, Alice",F,Nagop 2,Household Duties,01 Jan 1974
+250,160246890,"Paru, Koima",F,Nagop 2,Household Duties,01 Jan 1963
+251,160137634,"Paul, Catherine",F,Nagop 2,Teacher,01 Oct 1981
+252,160191064,"Pea, Pindame",F,Nagop 2,Household Duties,01 Jan 1966
+253,160185488,"Pelepai, Kawame",F,Nagop 2,Household Duties,01 Jan 1944
+254,160185916,"Pelepai, Timbame",F,Nagop 2,Household Duties,01 Jan 1948
+255,160508966,"Peso, Lime",F,Nagop 2,Unemployed,16 Mar 1990
+256,160190734,"Peter, Mary",F,Nagop 2,Household Duties,01 Jan 1966
+257,160508967,"Peter, Patrica",F,Nagop 2,Unemployed,15 Jun 2001
+258,160508968,"Petera, Wellma",F,Nagop 2,Self Employed,12 Jun 1999
+259,160181145,"Pileru, Patricia",F,Nagop 2,Clerk,01 Jan 1976
+260,160210526,"Pileru, Rachael",F,Nagop 2,Housegirl,01 Jan 1978
+261,160210387,"Pileru, Roina",F,Nagop 2,Student,01 Jan 1988
+262,160184773,"Pileru, Tombi",F,Nagop 2,Household Duties,01 Jan 1951
+263,160190714,"Pilimbo, Christina",F,Nagop 2,Student,01 Jan 1983
+264,160190715,"Pilimbo, Precilla",F,Nagop 2,Housegirl,01 Jan 1980
+265,160190737,"Pilimbo, Puiye",F,Nagop 2,Household Duties,01 Jan 1964
+266,160249605,"Pone, Anjola",F,Nagop 2,Pastor,01 Jan 1981
+267,160249787,"Pone, Veronica",F,Nagop 2,Household Duties,01 Jan 1951
+268,160237204,"Pora, Lucy",F,Nagop 2,Household Duties,01 Jan 1975
+269,160249798,"Pundu, Esther",F,Nagop 2,Student,01 Jan 1993
+270,160249737,"Pundu, Rose",F,Nagop 2,Household Duties,01 Jan 1973
+271,160185238,"Purre, Angela",F,Nagop 2,Student,01 Jan 1987
+272,160185338,"Purre, Anita",F,Nagop 2,Student,01 Jan 1989
+273,160185237,"Purre, Elvine",F,Nagop 2,Teacher,01 Jan 1983
+274,160185363,"Purre, Helyn",F,Nagop 2,Accountant,01 Jan 1969
+275,160185235,"Purre, Josephine",F,Nagop 2,Worker,01 Jan 1959
+276,160185317,"Purre, Karon",F,Nagop 2,Student,01 Jan 1985
+277,160184747,"Purre, Linet",F,Nagop 2,Household Duties,01 Jan 1986
+278,160185341,"Purre, Lombetindi",F,Nagop 2,Household Duties,01 Jan 1946
+279,160185239,"Purre, Mito",F,Nagop 2,Household Duties,01 Jan 1959
+280,160185342,"Purre, Pawa",F,Nagop 2,Household Duties,01 Jan 1972
+281,160185303,"Purre, Popo",F,Nagop 2,Household Duties,01 Jan 1971
+282,160185304,"Purre, Prescilla",F,Nagop 2,Student,01 Jan 1990
+283,160185241,"Purre, Susi",F,Nagop 2,Household Duties,01 Jan 1976
+284,160185366,"Purre, Tennis",F,Nagop 2,Housegirl,01 Jan 1975
+285,160185302,"Purre, Veronica",F,Nagop 2,Student,01 Jan 1989
+286,160246552,"Puru, Kilor",F,Nagop 2,Household Duties,01 Jan 1968
+287,160128380,"Puru, Rosemary",F,Nagop 2,Student,16 Mar 1998
+288,160246540,"Puru, Tembon",F,Nagop 2,Household Duties,01 Jan 1968
+289,160508971,"Puru, Wiala",F,Nagop 2,Subsistence Farmer,05 Jul 1997
+290,160508972,"Puruno, Anna",F,Nagop 2,Student,02 Mar 2000
+291,160190272,"Puruno, Anna",F,Nagop 2,Student,01 Jan 1985
+292,160190652,"Puruno, Cathy",F,Nagop 2,Household Duties,01 Jan 1965
+293,160190661,"Puruno, Edrina",F,Nagop 2,Student,01 Jan 1989
+294,160190631,"Puruno, Evelyn",F,Nagop 2,Clerk,01 Jan 1976
+295,160190724,"Puruno, Julie",F,Nagop 2,Household Duties,01 Jan 1965
+296,160190271,"Puruno, Mopune",F,Nagop 2,Household Duties,01 Jan 1961
+297,160190878,"Puruno, Nancy",F,Nagop 2,Household Duties,01 Jan 1957
+298,160190720,"Puruno, Pena",F,Nagop 2,Household Duties,01 Jan 1953
+299,160190632,"Puruno, Roslyn",F,Nagop 2,Student,01 Jan 1980
+300,160190744,"Puruno, Sandra",F,Nagop 2,Clerk,01 Jan 1974
+301,160508973,"Remcy, Gracelyn",F,Nagop 2,Unemployed,17 Aug 1990
+302,160447097,"Remson, Nali",F,Nagop 2,Housegirl,01 Jun 2000
+303,160447106,"Robert, Delena",F,Nagop 2,Student,03 Jul 2003
+304,160508974,"Robert, Tino",F,Nagop 2,Household Duties,03 May 1997
+305,160188135,"Samson, Maria",F,Nagop 2,Household Duties,01 Jan 1977
+306,160190813,"Simion, Cathy",F,Nagop 2,Household Duties,01 Jan 1968
+307,160447113,"Simon, Bansamba",F,Nagop 2,Student,04 Sep 2002
+308,160246497,"Simon, Betty",F,Nagop 2,Teacher,01 Jan 1977
+309,160128361,"Simon, Brenda",F,Nagop 2,Student,16 Mar 1999
+310,160508977,"Simon, Monica",F,Nagop 2,Student,03 Jan 2003
+311,160190738,"Simon, Sandie",F,Nagop 2,Nurse,01 Jan 1974
+312,160508978,"Steven, Repora",F,Nagop 2,Self Employed,05 Jun 1999
+313,160508979,"Steven, Salina",F,Nagop 2,Student,19 Feb 2000
+314,160247034,"Talopa, Lero",F,Nagop 2,Household Duties,01 Jan 1966
+315,160137617,"Talopa, Mary",F,Nagop 2,Household Duties,05 Feb 1973
+316,160508980,"Talopa, Sherol",F,Nagop 2,Teacher,09 Aug 1993
+317,160447144,"Tamson, Jaean",F,Nagop 2,Student,06 Apr 2002
+318,160508981,"Tamson, Joan",F,Nagop 2,Household Duties,01 Jan 1998
+319,160508982,"Tamson, Racheal",F,Nagop 2,Student,06 Jul 2000
+320,160185247,"Tanda, Lepende",F,Nagop 2,Household Duties,01 Jan 1950
+321,160185251,"Tanda, Lia",F,Nagop 2,Housegirl,01 Jan 1973
+322,160184739,"Tanda, Rachal",F,Nagop 2,Housegirl,01 Jan 1968
+323,160190717,"Tanda, Ralinda",F,Nagop 2,Student,01 Jan 1987
+324,160188142,"Tapoli, Alopambo",F,Nagop 2,Household Duties,01 Jan 1950
+325,160241596,"Tapoli, Hellen",F,Nagop 2,Student,01 Jan 1992
+326,160238840,"Tapoli, Kepume",F,Nagop 2,Household Duties,01 Jan 1966
+327,160190231,"Tapoli, Lepuli",F,Nagop 2,Household Duties,01 Jan 1970
+328,160190230,"Tapoli, Maria",F,Nagop 2,Household Duties,01 Jan 1968
+329,160187426,"Tapoli, Pilimbo",F,Nagop 2,Household Duties,01 Jan 1973
+330,160188143,"Tapoli, Waris",F,Nagop 2,Household Duties,01 Jan 1950
+331,160185316,"Tawa, Anita",F,Nagop 2,Nurse,01 Jan 1975
+332,160185295,"Tawa, Cecelia",F,Nagop 2,Household Duties,01 Jan 1973
+333,160185294,"Tawa, Emelyn",F,Nagop 2,Housegirl,01 Jan 1986
+334,160185297,"Tawa, Joyce",F,Nagop 2,Household Duties,01 Jan 1977
+335,160185359,"Tawa, Keina",F,Nagop 2,Household Duties,01 Jan 1971
+336,160185431,"Tawa, Kiniye",F,Nagop 2,Subsistence Farmer,01 Jan 1952
+337,160185309,"Tawa, Kondowa",F,Nagop 2,Household Duties,01 Jan 1970
+338,160185422,"Tawa, Mombo",F,Nagop 2,Household Duties,01 Jan 1956
+339,160185292,"Tawa, Roena",F,Nagop 2,Student,01 Jan 1988
+340,160185435,"Tawa, Sila",F,Nagop 2,Household Duties,01 Jan 1979
+341,160185233,"Tawa, Tombias",F,Nagop 2,Household Duties,01 Jan 1968
+342,160193159,"Temane, Debra",F,Nagop 2,Self Employed,01 Jan 1966
+343,160184795,"Temane, Kina",F,Nagop 2,Household Duties,01 Jan 1973
+344,160193235,"Temane, Kurowalo",F,Nagop 2,Household Duties,01 Jan 1958
+345,160184790,"Temane, Polo",F,Nagop 2,Household Duties,01 Jan 1955
+346,160184760,"Temane, Susan",F,Nagop 2,Housegirl,01 Jan 1988
+347,160508984,"Teru, Helen",F,Nagop 2,Household Duties,06 Jun 1998
+348,160250457,"Teru, Magalina",F,Nagop 2,Household Duties,01 Jan 1964
+349,160128190,"Terum, Clovi",F,Nagop 2,Student,07 Feb 1999
+350,160447132,"Terum, Floirisa",F,Nagop 2,Student,05 May 2003
+351,160238673,"Terum, Karome",F,Nagop 2,Household Duties,01 Jan 1962
+352,160238677,"Terum, Kondowambo",F,Nagop 2,Household Duties,01 Jan 1966
+353,160237626,"Terum, Lilly",F,Nagop 2,Student,01 Jan 1984
+354,160238670,"Terum, Merolyn",F,Nagop 2,Typist,01 Jan 1972
+355,160508985,"Thomas, Lyn",F,Nagop 2,Household Duties,06 Feb 1986
+356,160209764,"Timbi, Aniye",F,Nagop 2,Housegirl,01 Jan 1986
+357,160209930,"Timbi, Diyame",F,Nagop 2,Household Duties,01 Jan 1947
+358,160508986,"Tolis, Tolin",F,Nagop 2,Unemployed,17 Jun 1991
+359,160137632,"Tomano, Jacklyn",F,Nagop 2,Student,03 May 1998
+360,160241911,"Tomano, Jenny",F,Nagop 2,Student,01 Jan 1991
+361,160241594,"Tomano, Yarambo",F,Nagop 2,Household Duties,01 Jan 1967
+362,160508987,"Tomara, Lavinah",F,Nagop 2,Self Employed,13 Jun 2001
+363,160508988,"Tombele, Lanis",F,Nagop 2,Household Duties,17 Feb 1997
+364,160250199,"Tommy, Gerol",F,Nagop 2,Household Duties,01 Jan 1980
+365,160128478,"Tommy, Lilian",F,Nagop 2,Household Duties,24 Sep 1990
+366,160508989,"Tommy, Yarep",F,Nagop 2,Subsistence Farmer,06 May 1965
+367,160508990,"Tona, Sally",F,Nagop 2,Self Employed,05 Dec 1990
+368,160508991,"Tondo, Ambere",F,Nagop 2,Subsistence Farmer,20 May 1984
+369,160508992,"Tope, Lyn",F,Nagop 2,Subsistence Farmer,10 Jul 1983
+370,160508993,"Topele, Tawame",F,Nagop 2,Subsistence Farmer,06 Feb 1984
+371,160447125,"Toropo, Nomi",F,Nagop 2,Student,28 Feb 2004
+372,160238678,"Toropo, Pandea",F,Nagop 2,Household Duties,01 Jan 1951
+373,160508994,"Torr, Marron",F,Nagop 2,Student,28 Sep 2001
+374,160209759,"Ulapo, Raldi",F,Nagop 2,Household Duties,01 Jan 1957
+375,160210373,"Ulenge, Jenet",F,Nagop 2,Student,01 Jan 1990
+376,160210366,"Ulenge, Kendo",F,Nagop 2,Household Duties,01 Jan 1967
+377,160193166,"Unde, Dente",F,Nagop 2,Household Duties,01 Jan 1943
+378,160190817,"Unde, Mombo",F,Nagop 2,Household Duties,01 Jan 1964
+379,160250618,"Waiye, Jennifer",F,Nagop 2,Household Duties,01 Jan 1985
+380,160250620,"Waiye, Kleya",F,Nagop 2,Household Duties,01 Jan 1986
+381,160508995,"Waiye, Lisa",F,Nagop 2,Teacher,26 Mar 1997
+382,160250595,"Waiye, Liya",F,Nagop 2,Student,01 Jan 1989
+383,160250467,"Waiye, Nemaino",F,Nagop 2,Household Duties,01 Jan 1965
+384,160250462,"Waiye, Penny",F,Nagop 2,Household Duties,01 Jan 1980
+385,160447139,"Waiye, Regina",F,Nagop 2,Teacher,03 Feb 2001
+386,160250605,"Wamo, Julian",F,Nagop 2,Student,01 Jan 1985
+387,160250465,"Wamo, Mepili",F,Nagop 2,Household Duties,01 Jan 1982
+388,160447142,"Wamo, Rachael",F,Nagop 2,Student,03 Jan 2002
+389,160210378,"Wane, Edna",F,Nagop 2,Student,01 Jan 1988
+390,160209984,"Wane, Evelyn",F,Nagop 2,Housegirl,01 Jan 1985
+391,160210377,"Wane, Judy",F,Nagop 2,Household Duties,01 Jan 1973
+392,160210374,"Wane, Kay",F,Nagop 2,Household Duties,01 Jan 1964
+393,160247042,"Wanjowa, Kepambo",F,Nagop 2,Household Duties,01 Jan 1987
+394,160246894,"Wanjowa, Lilly",F,Nagop 2,Housegirl,01 Jan 1985
+395,160508996,"Wanjowa, Mati",F,Nagop 2,Household Duties,20 Feb 1996
+396,160247038,"Wanjowa, Rachael",F,Nagop 2,Teacher,01 Jan 1981
+397,160508997,"Wanpis, Dinna",F,Nagop 2,Household Duties,07 Feb 1984
+398,160447118,"Wanpis, Wendy",F,Nagop 2,Subsistence Farmer,10 Jan 2004
+399,160128370,"Wapis, Christina",F,Nagop 2,Student,09 Jul 1997
+400,160508998,"Warata, Emely",F,Nagop 2,Self Employed,12 Jul 2002
+401,160508999,"Wesly, Wini",F,Nagop 2,Unemployed,13 Jun 2000
+402,160509000,"William, Sharon",F,Nagop 2,Self Employed,21 Mar 1990
+403,160187537,"Wiyo, Pengene",F,Nagop 2,Household Duties,01 Jan 1964
+404,160185328,"Yakela, Glopa",F,Nagop 2,Household Duties,01 Jan 1955
+405,160185473,"Yakela, Mori",F,Nagop 2,Household Duties,01 Jan 1958
+406,160185476,"Yakela, Pimbi",F,Nagop 2,Household Duties,01 Jan 1972
+407,160447111,"Yamey, Sendi",F,Nagop 2,Student,03 Jun 2003
+408,160250611,"Yarep, Hedwick",F,Nagop 2,Household Duties,01 Jan 1964
+409,160250240,"Yawi, Bepi",F,Nagop 2,Household Duties,01 Jan 1965
+410,160250628,"Yawi, Clifford",F,Nagop 2,Household Duties,01 Jan 1980
+411,160190221,"Yawi, Feonah",F,Nagop 2,Housegirl,01 Jan 1985
+412,160509001,"Yawi, Grace",F,Nagop 2,Household Duties,22 Feb 1996
+413,160509002,"Yawi, Joy",F,Nagop 2,Student,07 Dec 2000
+414,160188132,"Yawi, Kani",F,Nagop 2,Household Duties,01 Jan 1938
+415,160190421,"Yawi, Mopune",F,Nagop 2,Household Duties,01 Jan 1958
+416,160190218,"Yawi, Selvah",F,Nagop 2,Housegirl,01 Jan 1979
+417,160190219,"Yawi, Sharon",F,Nagop 2,Housegirl,01 Jan 1982
+418,160188136,"Yawi, Shelly",F,Nagop 2,Student,01 Jan 1982
+419,160210504,"Yombi, Christina",F,Nagop 2,Housegirl,01 Jan 1988
+420,160210763,"Yombi, Maineme",F,Nagop 2,Housegirl,01 Jan 1985
+421,160210760,"Yombi, Takuno",F,Nagop 2,Household Duties,01 Jan 1945
+422,160210759,"Yombi, Tiriye",F,Nagop 2,Household Duties,01 Jan 1946
+423,160128373,"Yunumi, Rose",F,Nagop 2,Household Duties,20 Jul 1989
+424,160237473,"Yupu, Kulumbu",F,Nagop 2,Household Duties,01 Jan 1962
+425,160249659,"Akeya, Iki",M,Nagop 2,Driver,01 Jan 1981
+426,160187529,"Akeya, Kaiyoma",M,Nagop 2,Student,01 Jan 1974
+427,160249718,"Akeya, Mek",M,Nagop 2,Subsistence Farmer,01 Jan 1960
+428,160188189,"Akeya, Mini",M,Nagop 2,Teacher,01 Jan 1970
+429,160188183,"Akeya, Mone",M,Nagop 2,Pastor,01 Jan 1966
+430,160249334,"Akeya, Moses",M,Nagop 2,Driver,01 Jan 1978
+431,160187546,"Akeya, Taipu",M,Nagop 2,Baker,01 Jan 1978
+432,160185570,"Akeya, Tepi",M,Nagop 2,Student,01 Jan 1984
+433,160447164,"Amos, Jerom",M,Nagop 2,Student,03 Mar 2004
+434,160185349,"Andoiye, Datson",M,Nagop 2,Student,01 Jan 1986
+435,160185391,"Andoiye, Gregory",M,Nagop 2,Student,01 Jan 1988
+436,160185915,"Andoiye, Mare",M,Nagop 2,Teacher,01 Jan 1973
+437,160187358,"Andoiye, Mark",M,Nagop 2,Subsistence Farmer,01 Jan 1962
+438,160185353,"Andoiye, Pawa",M,Nagop 2,Student,01 Jan 1986
+439,160187196,"Andoiye, Richie",M,Nagop 2,Student,01 Jan 1985
+440,160185389,"Andoiye, Samuel",M,Nagop 2,Accountant,01 Jan 1960
+441,160186065,"Andoiye, Steven",M,Nagop 2,Accountant,01 Jan 1981
+442,160243019,"Anjo, Donald",M,Nagop 2,Driver,01 Jan 1974
+443,160190820,"Anjol, Pawa",M,Nagop 2,Security,01 Jan 1979
+444,160190658,"Apa, Pere",M,Nagop 2,Subsistence Farmer,01 Jan 1932
+445,160190718,"Apa, Puruno",M,Nagop 2,Subsistence Farmer,01 Jan 1900
+446,160190420,"Apa, Yawi",M,Nagop 2,Subsistence Farmer,01 Jan 1936
+447,160188146,"Ape, Mone",M,Nagop 2,Subsistence Farmer,01 Jan 1965
+448,160190237,"Ape, Tiro",M,Nagop 2,Subsistence Farmer,01 Jan 1981
+449,160190236,"Apea, Michael",M,Nagop 2,Subsistence Farmer,01 Jan 1973
+450,160185402,"Apua, Alphons",M,Nagop 2,Subsistence Farmer,01 Jan 1982
+451,160185395,"Apua, John",M,Nagop 2,Subsistence Farmer,01 Jan 1970
+452,160187354,"Apua, Kelepo",M,Nagop 2,Subsistence Farmer,01 Jan 1977
+453,160187204,"Apua, Koni",M,Nagop 2,Subsistence Farmer,01 Jan 1974
+454,160185403,"Apua, Moses",M,Nagop 2,Subsistence Farmer,01 Jan 1986
+455,160185397,"Apua, Timini",M,Nagop 2,Subsistence Farmer,01 Jan 1982
+456,160187202,"Apua, Toringi",M,Nagop 2,Subsistence Farmer,01 Jan 1981
+457,160185394,"Apua, Tukundo",M,Nagop 2,Subsistence Farmer,01 Jan 1975
+458,160185400,"Apua, Yarksy",M,Nagop 2,Subsistence Farmer,01 Jan 1973
+459,25104859,"Ari, Turah",M,Nagop 2,Self Employed,13 Oct 1990
+460,160447172,"Ben, John",M,Nagop 2,Subsistence Farmer,03 Mar 2002
+461,160241900,"Bomai, Aiye",M,Nagop 2,Student,01 Jan 1993
+462,160237172,"Bomai, John",M,Nagop 2,Student,01 Jan 1989
+463,160508875,"Boro, Jupa",M,Nagop 2,Unemployed,13 Mar 1990
+464,160137633,"Buka, Fred",M,Nagop 2,Pastor,05 Jul 1983
+465,160508878,"Charlie, Rex",M,Nagop 2,Student,03 Jun 1996
+466,160190224,"Charlie, Robert",M,Nagop 2,Subsistence Farmer,01 Jan 1988
+467,160193233,"Daiye, Karombe",M,Nagop 2,Teacher,01 Jan 1979
+468,160193137,"Daiye, Wan",M,Nagop 2,Subsistence Farmer,01 Jan 1990
+469,160447107,"Daniel, Malfi",M,Nagop 2,Student,01 Aug 2003
+470,160128470,"Deli, Daiye",M,Nagop 2,Security,02 Jul 1984
+471,160249340,"Deli, Micheal",M,Nagop 2,Salesman,01 Jan 1981
+472,160128462,"Deli, Stanford",M,Nagop 2,Student,09 Apr 1998
+473,160250473,"Dianai, Felix",M,Nagop 2,Subsistence Farmer,01 Jan 1979
+474,160186068,"Ena, Peter",M,Nagop 2,Subsistence Farmer,01 Jan 1959
+475,160185911,"Ena, Thomson",M,Nagop 2,Teacher,01 Jan 1984
+476,160185908,"Ena, Tombi",M,Nagop 2,Subsistence Farmer,01 Jan 1951
+477,160249279,"Enge, Gerry",M,Nagop 2,Driver,01 Jan 1971
+478,160237162,"Enge, Ninde",M,Nagop 2,Subsistence Farmer,01 Jan 1954
+479,160508881,"Enge, Tenis",M,Nagop 2,Student,13 Jun 1999
+480,160241886,"Garu, Gilbert",M,Nagop 2,Subsistence Farmer,01 Jan 1975
+481,160207917,"George, Telek",M,Nagop 2,Subsistence Farmer,01 Jan 1981
+482,160191049,"Ikirai, Lucas",M,Nagop 2,Worker,01 Jan 1967
+483,160238671,"Iko, Eric",M,Nagop 2,Student,01 Jan 1987
+484,160238676,"Iko, Joshua",M,Nagop 2,Worker,01 Jan 1981
+485,160128195,"Iko, Timon",M,Nagop 2,Student,02 Mar 1998
+486,160188138,"Indipine, Ninge",M,Nagop 2,Subsistence Farmer,01 Jan 1971
+487,160188139,"Indipine, Wake",M,Nagop 2,Subsistence Farmer,01 Jan 1974
+488,160250602,"Irepo, James",M,Nagop 2,Student,01 Jan 1980
+489,160508883,"Irepo, Joshua",M,Nagop 2,Health Officer,13 Mar 1998
+490,160250590,"Irepo, Kemapu",M,Nagop 2,Subsistence Farmer,01 Jan 1972
+491,160237181,"James, Cain",M,Nagop 2,Student,01 Jan 1990
+492,160447103,"James, Ken",M,Nagop 2,Student,06 Jun 2001
+493,160447162,"Jimmy, Pete",M,Nagop 2,Student,04 Aug 2003
+494,160447135,"John, Brain",M,Nagop 2,Student,28 Jun 1999
+495,160447134,"John, Brendy",M,Nagop 2,Student,06 Jun 1998
+496,160249773,"John, Iuen",M,Nagop 2,Student,01 Jan 1992
+497,160447114,"John, Kelem",M,Nagop 2,Teacher,04 Sep 1991
+498,160249282,"John, Nick",M,Nagop 2,Stockman,01 Jan 1984
+499,160128475,"Kainge, Bonie",M,Nagop 2,Manager,16 Apr 1962
+500,160137731,"Kainge, Jude",M,Nagop 2,Supervisor,15 Nov 1992
+501,160128464,"Kainge, Nimel",M,Nagop 2,Manager,09 Nov 1990
+502,160128467,"Kainge, Thomas",M,Nagop 2,Doctor,26 Aug 1967
+503,160185404,"Kaiya, Ena",M,Nagop 2,Subsistence Farmer,01 Jan 1936
+504,160185928,"Kaiyape, Lemos",M,Nagop 2,Subsistence Farmer,01 Jan 1981
+505,160185637,"Kaiyape, Warembo",M,Nagop 2,Subsistence Farmer,01 Jan 1974
+506,160128359,"Kalapari, Manu",M,Nagop 2,Student,22 Mar 1999
+507,160250207,"Kalatoli, Texas",M,Nagop 2,Worker,01 Jan 1980
+508,160250206,"Kalatoli, Thomas",M,Nagop 2,Subsistence Farmer,01 Jan 1963
+509,160190075,"Kale, Panjipo",M,Nagop 2,Subsistence Farmer,01 Jan 1967
+510,160190077,"Kale, Pulu",M,Nagop 2,Pastor,01 Jan 1970
+511,160187438,"Kale, Tenis",M,Nagop 2,Subsistence Farmer,01 Jan 1979
+512,160447165,"Kay, Chris",M,Nagop 2,Student,04 Feb 2003
+513,160447167,"Kelly, Jackson",M,Nagop 2,Student,02 Jan 2003
+514,160128463,"Kelly, Jackson",M,Nagop 2,Student,09 Aug 1995
+515,160447166,"Kelly, Saki",M,Nagop 2,Student,04 Aug 2003
+516,160237208,"Kelly, Stanely",M,Nagop 2,Student,01 Jan 1987
+517,160190795,"Kema, Jerry",M,Nagop 2,Manager,01 Jan 1976
+518,160190798,"Kema, Peter",M,Nagop 2,Manager,01 Jan 1964
+519,160190806,"Kema, Robert",M,Nagop 2,Student,01 Jan 1984
+520,160190648,"Kepo, Jeffery",M,Nagop 2,Subsistence Farmer,01 Jan 1978
+521,160190209,"Kepo, Jimmy",M,Nagop 2,Subsistence Farmer,01 Jan 1982
+522,160190635,"Kepo, Nathen",M,Nagop 2,Subsistence Farmer,01 Jan 1975
+523,160190274,"Kepo, Natheniel",M,Nagop 2,Subsistence Farmer,01 Jan 1970
+524,160447176,"Kepu, Michael",M,Nagop 2,Subsistence Farmer,28 Jun 1993
+525,160185376,"Kereme, Monda",M,Nagop 2,Security,01 Jan 1946
+526,160186064,"Keru, Kaiyape",M,Nagop 2,Subsistence Farmer,01 Jan 1959
+527,160185932,"Keru, Mark",M,Nagop 2,Subsistence Farmer,01 Jan 1970
+528,160186062,"Keru, Nare",M,Nagop 2,Peace Officer,01 Jan 1951
+529,160185927,"Keru, Timoty",M,Nagop 2,Subsistence Farmer,01 Jan 1962
+530,160185925,"Keru, Tuku",M,Nagop 2,Baker,01 Jan 1979
+531,160447157,"Keven, Charlie",M,Nagop 2,Student,05 Jun 2002
+532,160447156,"Keven, Malon",M,Nagop 2,Student,03 Sep 2002
+533,160190745,"Kewaiye, Clancy",M,Nagop 2,Pastor,01 Jan 1979
+534,160190423,"Kewaiye, Jimmy",M,Nagop 2,Subsistence Farmer,01 Jan 1981
+535,160190422,"Kewaiye, Max",M,Nagop 2,Subsistence Farmer,01 Jan 1973
+536,160190725,"Kewaiye, Philip",M,Nagop 2,Student,01 Jan 1984
+537,160128476,"Kewei, Charile",M,Nagop 2,Mechanic,25 Nov 1979
+538,160188159,"Kilinga, Akeya",M,Nagop 2,Subsistence Farmer,01 Jan 1946
+539,160185646,"Kilinga, Manuel",M,Nagop 2,Subsistence Farmer,01 Jan 1970
+540,160185572,"Kinde, Benerd",M,Nagop 2,Subsistence Farmer,01 Jan 1976
+541,160185573,"Kinde, Jonah",M,Nagop 2,Subsistence Farmer,01 Jan 1979
+542,160185479,"Kinde, Mathew",M,Nagop 2,Subsistence Farmer,01 Jan 1974
+543,160185484,"Kinde, Robert",M,Nagop 2,Subsistence Farmer,01 Jan 1990
+544,160447117,"Kiplu, Robert",M,Nagop 2,Subsistence Farmer,03 Mar 1999
+545,160247130,"Kipu, Limto",M,Nagop 2,Teacher,01 Jan 1977
+546,160241898,"Kipulu, Bomai",M,Nagop 2,Church Worker,01 Jan 1951
+547,160241758,"Kipulu, Pambo",M,Nagop 2,Subsistence Farmer,01 Jan 1958
+548,160137619,"Kipulu, Wanpis",M,Nagop 2,Subsistence Farmer,02 Mar 1979
+549,160128189,"Kiri, Junior",M,Nagop 2,Student,02 Mar 1999
+550,160137630,"Kiri, Manu",M,Nagop 2,Student,13 May 1996
+551,160128479,"Kitopa, Kuli",M,Nagop 2,Carpenter,20 Feb 1970
+552,160246371,"Koika, Wanjowa",M,Nagop 2,Subsistence Farmer,01 Jan 1970
+553,160185419,"Konge, Tawa",M,Nagop 2,Subsistence Farmer,01 Jan 1936
+554,160447124,"Kopu, Pani",M,Nagop 2,Pastor,06 Jan 1994
+555,160128196,"Koropa, Gibson",M,Nagop 2,Student,04 Jun 1995
+556,160137631,"Koropa, Pepena",M,Nagop 2,Student,06 Jun 1998
+557,160246865,"Ku, Paul",M,Nagop 2,Student,01 Jan 1986
+558,160247037,"Ku, Robert",M,Nagop 2,Subsistence Farmer,01 Jan 1971
+559,160246881,"Ku, Ruben",M,Nagop 2,Student,01 Jan 1985
+560,160249706,"Kuli, Tommy",M,Nagop 2,Salesman,01 Jan 1976
+561,160447093,"Kuno, Deto",M,Nagop 2,Subsistence Farmer,01 Mar 2000
+562,160247045,"Kuno, Detto",M,Nagop 2,Subsistence Farmer,01 Jan 1984
+563,160246451,"Kuno, Ena",M,Nagop 2,Subsistence Farmer,01 Jan 1962
+564,160246453,"Kuno, Jeffery",M,Nagop 2,Subsistence Farmer,01 Jan 1982
+565,160247046,"Kuno, Neithen",M,Nagop 2,Student,01 Jan 1988
+566,160246870,"Kuno, Simon",M,Nagop 2,Teacher,01 Jan 1974
+567,160447098,"Kup, Kemson",M,Nagop 2,Student,04 Jul 1998
+568,160447175,"Kuru, Nelson",M,Nagop 2,Student,02 Jun 2001
+569,160128376,"Kuru, Steven",M,Nagop 2,Subsistence Farmer,15 Jan 1979
+570,160447174,"Kuru, Yakip",M,Nagop 2,Student,02 Aug 2002
+571,160187428,"Lambi, Kale",M,Nagop 2,Subsistence Farmer,01 Jan 1948
+572,160210505,"Lambi, Opa",M,Nagop 2,Peace Officer,01 Jan 1951
+573,160210347,"Lambi, Pange",M,Nagop 2,Plumber,01 Jan 1961
+574,160190082,"Lambi, Tapoli",M,Nagop 2,Worker,01 Jan 1946
+575,160237184,"Langi, Philip",M,Nagop 2,Salesman,01 Jan 1964
+576,160447171,"Lodwig, Ninge",M,Nagop 2,Subsistence Farmer,07 Jul 1967
+577,160250629,"Lopere, Williem",M,Nagop 2,Subsistence Farmer,01 Jan 1976
+578,160128372,"Luke, Joe",M,Nagop 2,Store Keeper,18 Mar 1996
+579,160128371,"Luke, Joshua",M,Nagop 2,Student,02 Apr 1999
+580,160447160,"Luke, Mark",M,Nagop 2,Carpenter,28 Aug 2002
+581,160246382,"Luke, Tiwi",M,Nagop 2,Subsistence Farmer,01 Jan 1962
+582,160237625,"Magaile, Terum",M,Nagop 2,Magistrate,01 Jan 1957
+583,160187547,"Makinje, Andoiye",M,Nagop 2,Subsistence Farmer,01 Jan 1934
+584,160190656,"Manda, Emanuel",M,Nagop 2,Student,01 Jan 1990
+585,160237492,"Mane, Fabian",M,Nagop 2,Subsistence Farmer,01 Jan 1951
+586,160237331,"Mane, Geven",M,Nagop 2,Driver,01 Jan 1972
+587,160237280,"Mane, Steven",M,Nagop 2,Driver,01 Jan 1981
+588,160128356,"Mare, Paul",M,Nagop 2,Subsistence Farmer,06 Dec 1989
+589,160137615,"Mare, Paulson",M,Nagop 2,Student,25 Mar 1999
+590,160447133,"Mare, Rodney",M,Nagop 2,Student,05 Apr 2004
+591,160508955,"Mare, Simon",M,Nagop 2,Business man,06 Jul 1972
+592,160209914,"Marowa, Elvis",M,Nagop 2,Subsistence Farmer,01 Jan 1989
+593,160508956,"Marowa, Tenge",M,Nagop 2,Subsistence Farmer,21 Oct 1985
+594,160447102,"Meck, Jacob",M,Nagop 2,Student,06 Aug 2000
+595,160447128,"Mekain, Pere",M,Nagop 2,Driver,06 Jun 1998
+596,160447136,"Mende, Tonny",M,Nagop 2,Student,28 Feb 2000
+597,160447147,"Michael, Emelton",M,Nagop 2,Student,07 Mar 2004
+598,160447155,"Michael, Philip",M,Nagop 2,Student,03 Feb 2003
+599,160447146,"Michael, Stanford",M,Nagop 2,Student,06 Jul 2001
+600,160250198,"Micheal, Mara",M,Nagop 2,Student,01 Jan 1985
+601,160447122,"Minge, Gorch",M,Nagop 2,Soldier,02 Feb 1998
+602,160447123,"Mini, Fred",M,Nagop 2,Missionary,03 Jun 1983
+603,160128200,"Mini, Lewa",M,Nagop 2,Subsistence Farmer,07 Sep 1982
+604,160237621,"Mini, Micheal",M,Nagop 2,Salesman,01 Jan 1981
+605,160237622,"Mini, Paul",M,Nagop 2,Driver,01 Jan 1972
+606,160447130,"Mini, Payen",M,Nagop 2,Student,06 Mar 2004
+607,160238773,"Mini, Petrus",M,Nagop 2,Subsistence Farmer,01 Jan 1954
+608,160238598,"Mini, Robert",M,Nagop 2,Student,01 Jan 1985
+609,160185229,"Monda, Pareli",M,Nagop 2,Subsistence Farmer,01 Jan 1981
+610,160185225,"Monda, Tonny",M,Nagop 2,Subsistence Farmer,01 Jan 1976
+611,160184750,"Monda, Wanpis",M,Nagop 2,Security,01 Jan 1965
+612,160447154,"Mondo, Manu",M,Nagop 2,Student,03 Jan 2004
+613,160128368,"Mukiye, Peter",M,Nagop 2,Student,16 May 1979
+614,160237474,"Nakanol, Iko",M,Nagop 2,Subsistence Farmer,01 Jan 1944
+615,160185414,"Nale, Abraham",M,Nagop 2,Subsistence Farmer,01 Jan 1962
+616,160185581,"Nale, Borowa",M,Nagop 2,Subsistence Farmer,01 Jan 1944
+617,160185417,"Nale, Luke",M,Nagop 2,Subsistence Farmer,01 Jan 1980
+618,160185415,"Nale, Mathew",M,Nagop 2,Subsistence Farmer,01 Jan 1973
+619,160447108,"Namn, Frank",M,Nagop 2,Subsistence Farmer,04 Jun 2002
+620,160137616,"Nanu, Andop",M,Nagop 2,Mechanic,17 Nov 1990
+621,160128357,"Nanu, Yamex",M,Nagop 2,Teacher,25 Nov 1987
+622,160249611,"Napa, John",M,Nagop 2,Driver,01 Jan 1965
+623,160190646,"Napu, Kepo",M,Nagop 2,Subsistence Farmer,01 Jan 1944
+624,160508961,"Nare, James",M,Nagop 2,Carpenter,20 Jan 1995
+625,160185669,"Nare, Meapi",M,Nagop 2,Subsistence Farmer,01 Jan 1980
+626,160193162,"Nathan, Bredly",M,Nagop 2,Student,01 Jan 1981
+627,160191070,"Nathan, Iskiel",M,Nagop 2,Student,01 Jan 1990
+628,160209977,"Nawea, Jason",M,Nagop 2,Student,01 Jan 1988
+629,160209980,"Nawea, Nicky",M,Nagop 2,Student,01 Jan 1990
+630,160137730,"Nelson, Gideon",M,Nagop 2,Student,16 Apr 1995
+631,160128461,"Nelson, Nelson",M,Nagop 2,Student,11 Mar 1997
+632,160447150,"Nende, Jeffery",M,Nagop 2,Student,04 Jun 1999
+633,160128469,"Nimu, Deli",M,Nagop 2,Household Duties,16 Aug 1960
+634,160241894,"Ninde, Andrew",M,Nagop 2,Storeman,01 Jan 1974
+635,160237274,"Ninde, Jeoffrey",M,Nagop 2,Student,01 Jan 1989
+636,160237275,"Ninde, Tonny",M,Nagop 2,Student,01 Jan 1992
+637,160190739,"Nindiye, Kewaiye",M,Nagop 2,Subsistence Farmer,01 Jan 1944
+638,160249256,"Ninge, George",M,Nagop 2,Student,01 Jan 1993
+639,160249584,"Ninge, James",M,Nagop 2,Student,01 Jan 1990
+640,160249583,"Ninge, Micheal",M,Nagop 2,Baker,01 Jan 1985
+641,160128468,"Ninge, Nelson",M,Nagop 2,Villager,10 Apr 1971
+642,160128460,"Ninge, Nick",M,Nagop 2,Household Duties,05 Apr 1998
+643,160128459,"Ninge, Paul",M,Nagop 2,Driver,05 Jun 1996
+644,160250196,"Ninge, Thomas",M,Nagop 2,Subsistence Farmer,01 Jan 1973
+645,160210348,"Nokopa, Kema",M,Nagop 2,Subsistence Farmer,01 Jan 1940
+646,160209765,"Onga, Paul",M,Nagop 2,Subsistence Farmer,01 Jan 1976
+647,160210765,"Opa, Herot",M,Nagop 2,Subsistence Farmer,01 Jan 1985
+648,160210507,"Opa, Luke",M,Nagop 2,Salesman,01 Jan 1978
+649,160447163,"Opa, Noha",M,Nagop 2,Student,03 Apr 2003
+650,160237624,"Opiye, Kiri",M,Nagop 2,Worker,01 Jan 1969
+651,160447121,"Oxey, Elton",M,Nagop 2,Student,04 Jun 2003
+652,160190639,"Pake, Rana",M,Nagop 2,Teacher,01 Jan 1948
+653,160190663,"Pake, Recky",M,Nagop 2,Self Employed,01 Jan 1977
+654,160190418,"Pakena, Oliver",M,Nagop 2,Clerk,01 Jan 1976
+655,160185577,"Pakep, Benjiman",M,Nagop 2,Subsistence Farmer,01 Jan 1985
+656,160508963,"Palaru, Aiye",M,Nagop 2,Student,18 Feb 2000
+657,160128185,"Palaru, Koki",M,Nagop 2,Student,12 Mar 1999
+658,160250449,"Palaru, Willie",M,Nagop 2,Subsistence Farmer,01 Jan 1985
+659,160237292,"Pambo, Kelly",M,Nagop 2,Worker,01 Jan 1971
+660,160249199,"Panjipo, Nelson",M,Nagop 2,Driver,01 Jan 1973
+661,160137625,"Pareka, Samuel",M,Nagop 2,Student,15 Apr 1998
+662,160508964,"Paru, Altoiye",M,Nagop 2,Subsistence Farmer,16 Jul 1969
+663,160246653,"Paru, Kaima",M,Nagop 2,Subsistence Farmer,01 Jan 1960
+664,160246649,"Paru, Kuno",M,Nagop 2,Subsistence Farmer,01 Jan 1960
+665,160447092,"Paru, Manu",M,Nagop 2,Student,04 Jul 1999
+666,160128191,"Paul, Ryan",M,Nagop 2,Student,06 Mar 1999
+667,160246502,"Pawenda, Kay",M,Nagop 2,Subsistence Farmer,01 Jan 1971
+668,160246882,"Pawenda, Mondo",M,Nagop 2,Subsistence Farmer,01 Jan 1969
+669,160191067,"Pea, Francis",M,Nagop 2,Student,01 Jan 1989
+670,160185914,"Pelepai, Keru",M,Nagop 2,Subsistence Farmer,01 Jan 1944
+671,160185658,"Pelepai, Yakela",M,Nagop 2,Subsistence Farmer,01 Jan 1939
+672,160128367,"Pembo, Jackson",M,Nagop 2,Student,18 Sep 1998
+673,160447168,"Pembo, Kickson",M,Nagop 2,Student,02 Jan 2004
+674,160508965,"Pembo, Peter",M,Nagop 2,Student,07 Aug 1999
+675,160447169,"Pembo, Ronal",M,Nagop 2,Student,28 Feb 2003
+676,160128366,"Pembo, Ronald",M,Nagop 2,Student,15 Oct 1996
+677,160210357,"Pera, Ulenge",M,Nagop 2,Subsistence Farmer,01 Jan 1944
+678,160190419,"Pere, James",M,Nagop 2,Subsistence Farmer,01 Jan 1960
+679,160128192,"Pere, Macan",M,Nagop 2,Student,09 Jul 1997
+680,160190669,"Pere, Pakena",M,Nagop 2,Subsistence Farmer,01 Jan 1954
+681,160188131,"Pere, Taine",M,Nagop 2,Subsistence Farmer,01 Jan 1980
+682,160190266,"Pere, Wianah",M,Nagop 2,Subsistence Farmer,01 Jan 1988
+683,160190735,"Peter, Jeremiah",M,Nagop 2,Student,01 Jan 1989
+684,160447148,"Philip, Timon",M,Nagop 2,Student,06 Aug 2000
+685,160210513,"Pileru, Amos",M,Nagop 2,Subsistence Farmer,01 Jan 1984
+686,160210516,"Pileru, Buka",M,Nagop 2,Subsistence Farmer,01 Jan 1990
+687,160210520,"Pileru, John",M,Nagop 2,Subsistence Farmer,01 Jan 1981
+688,160210528,"Pileru, Mathew",M,Nagop 2,Subsistence Farmer,01 Jan 1978
+689,160190220,"Pinje, Indipine",M,Nagop 2,Subsistence Farmer,01 Jan 1946
+690,160190736,"Poki, Pilimbo",M,Nagop 2,Manager,01 Jan 1961
+691,160190716,"Poki, Simon",M,Nagop 2,Subsistence Farmer,01 Jan 1976
+692,160250104,"Pone, Jacky",M,Nagop 2,Pastor,01 Jan 1979
+693,160128365,"Pone, Pembo",M,Nagop 2,Mechanic,18 Oct 1978
+694,160237203,"Pora, Francis",M,Nagop 2,Salesman,01 Jan 1974
+695,160128202,"Pora, Kote",M,Nagop 2,Subsistence Farmer,27 Apr 1977
+696,160249240,"Pundu, Philip",M,Nagop 2,Carpenter,01 Jan 1965
+697,160185364,"Purre, Charlie",M,Nagop 2,Security,01 Jan 1978
+698,160185362,"Purre, Daniel",M,Nagop 2,Student,01 Jan 1975
+699,160185234,"Purre, Meck",M,Nagop 2    Health Extention Officer 01 Jan 1956,"276     160508969     Purre, Nathaniel           M        Nagop 2    Student",15 Feb 2001
+700,160185319,"Purre, Rex",M,Nagop 2,Student,01 Jan 1989
+701,160185320,"Purre, Robert",M,Nagop 2,Subsistence Farmer,01 Jan 1967
+702,160185240,"Purre, Rodney",M,Nagop 2,Teacher,01 Jan 1979
+703,160185301,"Purre, Ronny",M,Nagop 2,Student,01 Jan 1984
+704,160185337,"Purre, Sammy",M,Nagop 2,Security,01 Jan 1972
+705,160508970,"Purre, Tema",M,Nagop 2,Nurse,17 Jan 1991
+706,160185298,"Purre, Tumba",M,Nagop 2,Subsistence Farmer,01 Jan 1958
+707,160250633,"Puru, John",M,Nagop 2,Subsistence Farmer,01 Jan 1966
+708,160246377,"Puru, Karem",M,Nagop 2,Worker,01 Jan 1981
+709,160190881,"Puruno, Apa",M,Nagop 2,Student,01 Jan 1983
+710,160190742,"Puruno, Gibson",M,Nagop 2,Self Employed,01 Jan 1976
+711,160190660,"Puruno, Graham",M,Nagop 2,Student,01 Jan 1989
+712,160190722,"Puruno, Joseph",M,Nagop 2,Self Employed,01 Jan 1962
+713,160190727,"Puruno, Kambowa",M,Nagop 2,Subsistence Farmer,01 Jan 1958
+714,160190630,"Puruno, Kevin",M,Nagop 2,Accountant,01 Jan 1955
+715,160190645,"Puruno, Napa",M,Nagop 2,Student,01 Jan 1988
+716,160190654,"Puruno, Solomon",M,Nagop 2,Student,01 Jan 1986
+717,160190713,"Puruno, Torobena",M,Nagop 2,Self Employed,01 Jan 1948
+718,160209902,"Remo, Kane",M,Nagop 2,Subsistence Farmer,01 Jan 1983
+719,160210004,"Remo, Kanombo",M,Nagop 2,Subsistence Farmer,01 Jan 1979
+720,160210006,"Remo, Mali max",M,Nagop 2,Subsistence Farmer,01 Jan 1980
+721,160210362,"Remo, Wane",M,Nagop 2,Self Employed,01 Jan 1960
+722,160447105,"Robert, Dickson",M,Nagop 2,Student,04 Sep 2001
+723,160508975,"Rodney, Poda",M,Nagop 2,Self Employed,03 Feb 1995
+724,160447112,"Simin, Bento",M,Nagop 2,Student,02 Mar 2002
+725,160128362,"Simon, Bradley",M,Nagop 2,Student,03 Oct 1997
+726,160508976,"Simon, Brendon",M,Nagop 2,Student,28 Jan 2000
+727,160128375,"Steven, David",M,Nagop 2,Student,25 Mar 1998
+728,160447152,"Taket, Langia",M,Nagop 2,Student,04 Jan 2003
+729,160246498,"Talopa, Matias",M,Nagop 2,Subsistence Farmer,01 Jan 1962
+730,160128364,"Talopa, Moses",M,Nagop 2,Teacher,23 Aug 1989
+731,160128363,"Talopa, Roland",M,Nagop 2,Policeman,10 Oct 1992
+732,160184788,"Tanda, Rollan",M,Nagop 2,Student,01 Jan 1987
+733,160190072,"Tapoli, Brass",M,Nagop 2,Subsistence Farmer,01 Jan 1984
+734,160190083,"Tapoli, Joel",M,Nagop 2,Subsistence Farmer,01 Jan 1987
+735,160238603,"Tapoli, Keapo",M,Nagop 2,Baker,01 Jan 1977
+736,160241595,"Tapoli, Mark",M,Nagop 2,Subsistence Farmer,01 Jan 1981
+737,160447127,"Tapoli, Numan",M,Nagop 2,Student,13 Oct 1994
+738,160190229,"Tapoli, Ules",M,Nagop 2,Subsistence Farmer,01 Jan 1986
+739,160185429,"Tawa, Ake",M,Nagop 2,Subsistence Farmer,01 Jan 1963
+740,160185296,"Tawa, Charles",M,Nagop 2,Subsistence Farmer,01 Jan 1978
+741,160508983,"Tawa, Mathew",M,Nagop 2,Subsistence Farmer,06 Feb 1981
+742,160185360,"Tawa, Niwa",M,Nagop 2,Subsistence Farmer,01 Jan 1966
+743,160185308,"Tawa, Oke",M,Nagop 2,Security,01 Jan 1967
+744,160185314,"Tawa, Ron",M,Nagop 2,Subsistence Farmer,01 Jan 1984
+745,160185424,"Tawa, Samson",M,Nagop 2,Warder,01 Jan 1954
+746,160185315,"Tawa, Wayne",M,Nagop 2,Subsistence Farmer,01 Jan 1973
+747,160447177,"Tawi, Cliford",M,Nagop 2,Pastor,06 Mar 1988
+748,160184923,"Temane, Daiye",M,Nagop 2,Subsistence Farmer,01 Jan 1947
+749,160193156,"Temane, Nathan",M,Nagop 2,Self Employed,01 Jan 1959
+750,160191061,"Temane, Pea",M,Nagop 2,Not Specified,01 Jan 1945
+751,160184736,"Temane, Yako",M,Nagop 2,Subsistence Farmer,01 Jan 1980
+752,160184763,"Temane, Yamo",M,Nagop 2,Subsistence Farmer,01 Jan 1970
+753,160237166,"Tendeli, James",M,Nagop 2,Worker,01 Jan 1971
+754,160250203,"Tendeli, Micheal",M,Nagop 2,Storeman,01 Jan 1975
+755,160250609,"Teru, David",M,Nagop 2,Subsistence Farmer,01 Jan 1981
+756,160250596,"Teru, Palus",M,Nagop 2,Subsistence Farmer,01 Jan 1961
+757,160137626,"Teru, Simon",M,Nagop 2,Student,05 Jul 1998
+758,160137627,"Teru, Steven",M,Nagop 2,Mechanic,06 Apr 1996
+759,160447131,"Terum, Floid",M,Nagop 2,Student,28 Apr 2004
+760,160238674,"Terum, Jomote",M,Nagop 2,Worker,01 Jan 1973
+761,160237623,"Terum, Nornam",M,Nagop 2,Teacher,01 Jan 1976
+762,160447141,"Thomas, Manu",M,Nagop 2,Student,03 Feb 2000
+763,160447140,"Thomas, Noel",M,Nagop 2,Student,03 May 2003
+764,160184744,"Tikipe, Temane",M,Nagop 2,Subsistence Farmer,01 Jan 1938
+765,160193164,"Tikipiye, Unde",M,Nagop 2,Subsistence Farmer,01 Jan 1936
+766,160210013,"Timbi, Marowa",M,Nagop 2,Subsistence Farmer,01 Jan 1959
+767,160209990,"Timbi, Mona",M,Nagop 2,Subsistence Farmer,01 Jan 1951
+768,160209915,"Timbi, Ulapo",M,Nagop 2,Subsistence Farmer,01 Jan 1953
+769,160241910,"Tomano, George",M,Nagop 2,Student,01 Jan 1981
+770,160237182,"Tomano, Joel",M,Nagop 2,Student,01 Jan 1986
+771,160241908,"Tomano, Simon",M,Nagop 2,Salesman,01 Jan 1978
+772,160128358,"Tombele, Daniel",M,Nagop 2,Salesman,17 Aug 1995
+773,160128477,"Tommy, Jeremi",M,Nagop 2,Student,28 Mar 1999
+774,160447091,"Tommy, Jerol",M,Nagop 2,Student,04 Feb 2003
+775,160447116,"Tondo, Gabrel",M,Nagop 2,Subsistence Farmer,06 Mar 2000
+776,160447115,"Tondo, Samson",M,Nagop 2,Student,03 Feb 2001
+777,160447180,"Tope, Gibson",M,Nagop 2,Subsistence Farmer,03 Feb 2001
+778,160447182,"Tope, Rodney",M,Nagop 2,Subsistence Farmer,28 Jun 2003
+779,160128378,"Topele, Korowi",M,Nagop 2,Student,16 Mar 1998
+780,160447120,"Toplc, Samuel",M,Nagop 2,Fitter Machinist,02 Apr 1999
+781,160447153,"Tople, Samuel",M,Nagop 2,Subsistence Farmer,28 Apr 2003
+782,160447126,"Toropo, Tomson",M,Nagop 2,Student,06 Mar 1996
+783,160238543,"Tuku, Mare",M,Nagop 2,Subsistence Farmer,01 Jan 1939
+784,160238601,"Tuku, Tapoli",M,Nagop 2,Subsistence Farmer,01 Jan 1947
+785,160447179,"Turi, Nathan",M,Nagop 2,Student,02 Aug 2001
+786,160128374,"Turi, Samson",M,Nagop 2,Mechanic,01 Feb 1995
+787,160137624,"Turi, Simon",M,Nagop 2,Driver,18 Jan 1989
+788,160447099,"Tyson, Brenda",M,Nagop 2,Student,06 May 2001
+789,160209760,"Ulapo, Koroli",M,Nagop 2,Subsistence Farmer,01 Jan 1976
+790,160209763,"Ulapo, Peter",M,Nagop 2,Student,01 Jan 1990
+791,160209761,"Ulapo, Yuni",M,Nagop 2,Subsistence Farmer,01 Jan 1980
+792,160210368,"Ulenge, Alfred",M,Nagop 2,Subsistence Farmer,01 Jan 1971
+793,160210358,"Ulenge, Jeffry",M,Nagop 2,Subsistence Farmer,01 Jan 1977
+794,160191302,"Unde, Gini",M,Nagop 2,Subsistence Farmer,01 Jan 1979
+795,160190807,"Unde, Pale",M,Nagop 2,Subsistence Farmer,01 Jan 1966
+796,160190811,"Unde, Simion",M,Nagop 2,Subsistence Farmer,01 Jan 1974
+797,160250604,"Waiye, Alphonse",M,Nagop 2,Subsistence Farmer,01 Jan 1962
+798,160250469,"Waiye, Joe",M,Nagop 2,Electrician,01 Jan 1983
+799,160447138,"Waiye, Nenge",M,Nagop 2,Student,03 Mar 2004
+800,160250464,"Wamo, Alfred",M,Nagop 2,Subsistence Farmer,01 Jan 1968
+801,160447143,"Wamo, Andrew",M,Nagop 2,Student,01 Feb 2000
+802,160128187,"Wamo, Peter",M,Nagop 2,Student,12 Mar 1998
+803,160250115,"Wamo, Simon",M,Nagop 2,Carpenter,01 Jan 1981
+804,160247036,"Wande, Mara",M,Nagop 2,Subsistence Farmer,01 Jan 1961
+805,160246892,"Wanjowa, Jimmy",M,Nagop 2,Subsistence Farmer,01 Jan 1980
+806,160246448,"Wanjowa, Jrex",M,Nagop 2,Electrician,01 Jan 1982
+807,160246449,"Wanjowa, Pawa",M,Nagop 2,Subsistence Farmer,01 Jan 1983
+808,160137618,"Wanpis, Robert",M,Nagop 2,Student,03 Apr 1999
+809,160237630,"Wapea, Toropo",M,Nagop 2,Subsistence Farmer,01 Jan 1994
+810,160237627,"Wapea, Yupu",M,Nagop 2,Subsistence Farmer,01 Jan 1969
+811,160447119,"Wapis, Chistrna",M,Nagop 2,Student,02 Feb 1997
+812,160137621,"Wariye, Ben",M,Nagop 2,Teacher,11 Jul 1993
+813,160447173,"Wariye, Gilberth",M,Nagop 2,Student,03 Jun 2003
+814,160137622,"Wariye, Gili",M,Nagop 2,Student,18 May 1998
+815,160447145,"Wariye, Thomson",M,Nagop 2,Policeman,06 Aug 1997
+816,160185427,"Weyapu, Temane",M,Nagop 2,Subsistence Farmer,01 Jan 1944
+817,160187534,"Wiyo, Apua",M,Nagop 2,Security,01 Jan 1952
+818,160185663,"Yakela, Albert",M,Nagop 2,Student,01 Jan 2000
+819,160185662,"Yakela, Alen",M,Nagop 2,Subsistence Farmer,01 Jan 1979
+820,160185660,"Yakela, Kinde",M,Nagop 2,Security,01 Jan 1951
+821,160185558,"Yakela, Pakep",M,Nagop 2,Subsistence Farmer,01 Jan 1956
+822,160185474,"Yakela, Pikas",M,Nagop 2,Subsistence Farmer,01 Jan 1970
+823,160447110,"Yamey, Newman",M,Nagop 2,Student,04 Apr 2004
+824,160190666,"Yamoka, Manda",M,Nagop 2,Health Officer,01 Jan 1941
+825,160246389,"Yawi, Agnes",M,Nagop 2,Subsistence Farmer,01 Jan 1963
+826,160188133,"Yawi, Bein",M,Nagop 2,Subsistence Farmer,01 Jan 1967
+827,160190267,"Yawi, Benjamin",M,Nagop 2,Subsistence Farmer,01 Jan 1971
+828,160250099,"Yawi, Ebbram",M,Nagop 2,Student,01 Jan 1988
+829,160250248,"Yawi, Iso",M,Nagop 2,Electrician,01 Jan 1983
+830,160249601,"Yawi, Issac",M,Nagop 2,Student,01 Jan 1985
+831,160249609,"Yawi, Jacob",M,Nagop 2,Mechanic,01 Jan 1980
+832,160250239,"Yawi, Opa",M,Nagop 2,Worker,01 Jan 1963
+833,160190217,"Yawi, Samson",M,Nagop 2,Subsistence Farmer,01 Jan 1974
+834,160210757,"Yombi, Gomokondoil",M,Nagop 2,Subsistence Farmer,01 Jan 1944
+835,160210354,"Yombi, Peke",M,Nagop 2,Teacher,01 Jan 1978
+836,160210761,"Yombi, Perep",M,Nagop 2,Student,01 Jan 1990
+837,160210355,"Yombi, Tongi",M,Nagop 2,Subsistence Farmer,01 Jan 1980
+838,160240474,"Yoropa, Kevin",M,Nagop 2,Student,01 Jan 1993
+839,160240471,"Yoropa, Norman",M,Nagop 2,Student,01 Jan 1990
+840,160210390,"Yunugo, Nawea",M,Nagop 2,Teacher,01 Jan 1951
+841,160184767,"Yunugo, Pileru",M,Nagop 2,Subsistence Farmer,01 Jan 1948
+842,160137623,"Yunumi, Wilson",M,Nagop 2,Teacher,19 May 1988

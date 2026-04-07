@@ -1,0 +1,344 @@
+{
+  "provinceId": "west-new-britain",
+  "electorates": [
+    {
+      "electorateSlug": "talasea",
+      "llgs": [
+        {
+          "id": "talasea-talasea",
+          "name": "Talasea LLG",
+          "electorateSlug": "talasea",
+          "wards": [
+            {
+              "id": "talasea-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1334
+            },
+            {
+              "id": "talasea-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1829
+            },
+            {
+              "id": "talasea-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1571
+            },
+            {
+              "id": "talasea-w04",
+              "name": "Ward 4",
+              "registeredVoters": 843
+            },
+            {
+              "id": "talasea-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1126
+            },
+            {
+              "id": "talasea-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1484
+            },
+            {
+              "id": "talasea-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1809
+            },
+            {
+              "id": "talasea-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1777
+            },
+            {
+              "id": "talasea-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1408
+            },
+            {
+              "id": "talasea-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1026
+            }
+          ]
+        },
+        {
+          "id": "talasea-hoskins-urban",
+          "name": "Hoskins Urban LLG",
+          "electorateSlug": "talasea",
+          "wards": [
+            {
+              "id": "hoskins-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3942
+            },
+            {
+              "id": "hoskins-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4036
+            },
+            {
+              "id": "hoskins-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1846
+            },
+            {
+              "id": "hoskins-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 4030
+            },
+            {
+              "id": "hoskins-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2372
+            }
+          ]
+        },
+        {
+          "id": "talasea-bialla",
+          "name": "Bialla LLG",
+          "electorateSlug": "talasea",
+          "wards": [
+            {
+              "id": "bialla-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1790
+            },
+            {
+              "id": "bialla-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1899
+            },
+            {
+              "id": "bialla-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2527
+            },
+            {
+              "id": "bialla-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2999
+            },
+            {
+              "id": "bialla-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2026
+            },
+            {
+              "id": "bialla-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2487
+            }
+          ]
+        },
+        {
+          "id": "talasea-ewase",
+          "name": "Ewase LLG",
+          "electorateSlug": "talasea",
+          "wards": [
+            {
+              "id": "ewase-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1895
+            },
+            {
+              "id": "ewase-w02",
+              "name": "Ward 2",
+              "registeredVoters": 982
+            },
+            {
+              "id": "ewase-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1555
+            },
+            {
+              "id": "ewase-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1548
+            },
+            {
+              "id": "ewase-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1031
+            },
+            {
+              "id": "ewase-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1886
+            },
+            {
+              "id": "ewase-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1754
+            },
+            {
+              "id": "ewase-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1079
+            },
+            {
+              "id": "ewase-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1982
+            },
+            {
+              "id": "ewase-w10",
+              "name": "Ward 10",
+              "registeredVoters": 913
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "kandrian-gloucester",
+      "llgs": [
+        {
+          "id": "kandrian-gloucester-kandrian",
+          "name": "Kandrian LLG",
+          "electorateSlug": "kandrian-gloucester",
+          "wards": [
+            {
+              "id": "kandrian-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1854
+            },
+            {
+              "id": "kandrian-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1436
+            },
+            {
+              "id": "kandrian-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1937
+            },
+            {
+              "id": "kandrian-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1957
+            },
+            {
+              "id": "kandrian-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1390
+            },
+            {
+              "id": "kandrian-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1187
+            },
+            {
+              "id": "kandrian-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1322
+            },
+            {
+              "id": "kandrian-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1510
+            }
+          ]
+        },
+        {
+          "id": "kandrian-gloucester-gloucester",
+          "name": "Gloucester LLG",
+          "electorateSlug": "kandrian-gloucester",
+          "wards": [
+            {
+              "id": "gloucester-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1449
+            },
+            {
+              "id": "gloucester-w02",
+              "name": "Ward 2",
+              "registeredVoters": 946
+            },
+            {
+              "id": "gloucester-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1080
+            },
+            {
+              "id": "gloucester-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1256
+            },
+            {
+              "id": "gloucester-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1897
+            },
+            {
+              "id": "gloucester-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1077
+            },
+            {
+              "id": "gloucester-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2153
+            },
+            {
+              "id": "gloucester-w08",
+              "name": "Ward 8",
+              "registeredVoters": 914
+            },
+            {
+              "id": "gloucester-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1925
+            }
+          ]
+        },
+        {
+          "id": "kandrian-gloucester-gasmata",
+          "name": "Gasmata LLG",
+          "electorateSlug": "kandrian-gloucester",
+          "wards": [
+            {
+              "id": "gasmata-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2150
+            },
+            {
+              "id": "gasmata-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2433
+            },
+            {
+              "id": "gasmata-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2208
+            },
+            {
+              "id": "gasmata-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1110
+            },
+            {
+              "id": "gasmata-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1480
+            },
+            {
+              "id": "gasmata-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1450
+            },
+            {
+              "id": "gasmata-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2586
+            },
+            {
+              "id": "gasmata-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1317
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "provinceId": "gulf",
+  "electorates": [
+    {
+      "electorateSlug": "kerema",
+      "llgs": [
+        {
+          "id": "kerema-kerema-urban",
+          "name": "Kerema Urban LLG",
+          "electorateSlug": "kerema",
+          "wards": [
+            {
+              "id": "kerema-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2052
+            },
+            {
+              "id": "kerema-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2559
+            },
+            {
+              "id": "kerema-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2638
+            },
+            {
+              "id": "kerema-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2680
+            },
+            {
+              "id": "kerema-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2306
+            },
+            {
+              "id": "kerema-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1803
+            },
+            {
+              "id": "kerema-urban-w07",
+              "name": "Ward 7",
+              "registeredVoters": 876
+            }
+          ]
+        },
+        {
+          "id": "kerema-kotidanga",
+          "name": "Kotidanga LLG",
+          "electorateSlug": "kerema",
+          "wards": [
+            {
+              "id": "kotidanga-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3004
+            },
+            {
+              "id": "kotidanga-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2247
+            },
+            {
+              "id": "kotidanga-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2219
+            },
+            {
+              "id": "kotidanga-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1214
+            },
+            {
+              "id": "kotidanga-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3068
+            },
+            {
+              "id": "kotidanga-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1400
+            }
+          ]
+        },
+        {
+          "id": "kerema-ihu",
+          "name": "Ihu LLG",
+          "electorateSlug": "kerema",
+          "wards": [
+            {
+              "id": "ihu-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3826
+            },
+            {
+              "id": "ihu-w02",
+              "name": "Ward 2",
+              "registeredVoters": 5037
+            },
+            {
+              "id": "ihu-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4395
+            }
+          ]
+        },
+        {
+          "id": "kerema-east-kerema",
+          "name": "East Kerema LLG",
+          "electorateSlug": "kerema",
+          "wards": [
+            {
+              "id": "east-kerema-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3890
+            },
+            {
+              "id": "east-kerema-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2131
+            },
+            {
+              "id": "east-kerema-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4450
+            },
+            {
+              "id": "east-kerema-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2629
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "kikori",
+      "llgs": [
+        {
+          "id": "kikori-kikori",
+          "name": "Kikori LLG",
+          "electorateSlug": "kikori",
+          "wards": [
+            {
+              "id": "kikori-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1425
+            },
+            {
+              "id": "kikori-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2321
+            },
+            {
+              "id": "kikori-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2201
+            },
+            {
+              "id": "kikori-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1691
+            },
+            {
+              "id": "kikori-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1305
+            },
+            {
+              "id": "kikori-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1414
+            },
+            {
+              "id": "kikori-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1631
+            },
+            {
+              "id": "kikori-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1438
+            }
+          ]
+        },
+        {
+          "id": "kikori-baimuru",
+          "name": "Baimuru LLG",
+          "electorateSlug": "kikori",
+          "wards": [
+            {
+              "id": "baimuru-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1688
+            },
+            {
+              "id": "baimuru-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1888
+            },
+            {
+              "id": "baimuru-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1559
+            },
+            {
+              "id": "baimuru-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2055
+            },
+            {
+              "id": "baimuru-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1422
+            },
+            {
+              "id": "baimuru-w06",
+              "name": "Ward 6",
+              "registeredVoters": 976
+            },
+            {
+              "id": "baimuru-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1236
+            },
+            {
+              "id": "baimuru-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1846
+            },
+            {
+              "id": "baimuru-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1298
+            }
+          ]
+        },
+        {
+          "id": "kikori-kaintiba",
+          "name": "Kaintiba LLG",
+          "electorateSlug": "kikori",
+          "wards": [
+            {
+              "id": "kaintiba-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2256
+            },
+            {
+              "id": "kaintiba-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1097
+            },
+            {
+              "id": "kaintiba-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1746
+            },
+            {
+              "id": "kaintiba-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1506
+            },
+            {
+              "id": "kaintiba-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1231
+            },
+            {
+              "id": "kaintiba-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1195
+            },
+            {
+              "id": "kaintiba-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2322
+            },
+            {
+              "id": "kaintiba-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1615
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

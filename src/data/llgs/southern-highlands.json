@@ -1,0 +1,1081 @@
+{
+  "provinceId": "southern-highlands",
+  "electorates": [
+    {
+      "electorateSlug": "ialibu-pangia",
+      "llgs": [
+        {
+          "id": "ialibu-pangia-ialibu-urban",
+          "name": "Ialibu Urban LLG",
+          "electorateSlug": "ialibu-pangia",
+          "wards": [
+            {
+              "id": "ialibu-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1763
+            },
+            {
+              "id": "ialibu-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1322
+            },
+            {
+              "id": "ialibu-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2770
+            },
+            {
+              "id": "ialibu-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2060
+            },
+            {
+              "id": "ialibu-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1610
+            },
+            {
+              "id": "ialibu-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1743
+            },
+            {
+              "id": "ialibu-urban-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2291
+            },
+            {
+              "id": "ialibu-urban-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1891
+            },
+            {
+              "id": "ialibu-urban-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1937
+            }
+          ]
+        },
+        {
+          "id": "ialibu-pangia-pangia",
+          "name": "Pangia LLG",
+          "electorateSlug": "ialibu-pangia",
+          "wards": [
+            {
+              "id": "pangia-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4092
+            },
+            {
+              "id": "pangia-w02",
+              "name": "Ward 2",
+              "registeredVoters": 6920
+            },
+            {
+              "id": "pangia-w03",
+              "name": "Ward 3",
+              "registeredVoters": 5070
+            }
+          ]
+        },
+        {
+          "id": "ialibu-pangia-kewabi",
+          "name": "Kewabi LLG",
+          "electorateSlug": "ialibu-pangia",
+          "wards": [
+            {
+              "id": "kewabi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1622
+            },
+            {
+              "id": "kewabi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1474
+            },
+            {
+              "id": "kewabi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2231
+            },
+            {
+              "id": "kewabi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1510
+            },
+            {
+              "id": "kewabi-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1563
+            },
+            {
+              "id": "kewabi-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1552
+            },
+            {
+              "id": "kewabi-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1219
+            },
+            {
+              "id": "kewabi-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1195
+            },
+            {
+              "id": "kewabi-w09",
+              "name": "Ward 9",
+              "registeredVoters": 2523
+            }
+          ]
+        },
+        {
+          "id": "ialibu-pangia-erave-south",
+          "name": "Erave South LLG",
+          "electorateSlug": "ialibu-pangia",
+          "wards": [
+            {
+              "id": "erave-south-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4596
+            },
+            {
+              "id": "erave-south-w02",
+              "name": "Ward 2",
+              "registeredVoters": 5087
+            },
+            {
+              "id": "erave-south-w03",
+              "name": "Ward 3",
+              "registeredVoters": 7442
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "imbonggu",
+      "llgs": [
+        {
+          "id": "imbonggu-ialibu-basin",
+          "name": "IALIBU BASIN LLG",
+          "electorateSlug": "imbonggu",
+          "wards": [
+            {
+              "id": "imbonggu-ialibu-basin-1---kalipinie",
+              "name": "1 - KALIPINIE",
+              "registeredVoters": 886
+            },
+            {
+              "id": "imbonggu-ialibu-basin-2---kou",
+              "name": "2 - KOU",
+              "registeredVoters": 1505
+            },
+            {
+              "id": "imbonggu-ialibu-basin-3---kero-1",
+              "name": "3 - KERO 1",
+              "registeredVoters": 1025
+            },
+            {
+              "id": "imbonggu-ialibu-basin-4---kero-2",
+              "name": "4 - KERO 2",
+              "registeredVoters": 886
+            },
+            {
+              "id": "imbonggu-ialibu-basin-5---poneglama",
+              "name": "5 - PONEGLAMA",
+              "registeredVoters": 1057
+            },
+            {
+              "id": "imbonggu-ialibu-basin-6---kongibugl-1",
+              "name": "6 - KONGIBUGL 1",
+              "registeredVoters": 776
+            },
+            {
+              "id": "imbonggu-ialibu-basin-7---kongibugl-2",
+              "name": "7 - KONGIBUGL 2",
+              "registeredVoters": 978
+            },
+            {
+              "id": "imbonggu-ialibu-basin-8---bimbene-1",
+              "name": "8 - BIMBENE 1",
+              "registeredVoters": 763
+            },
+            {
+              "id": "imbonggu-ialibu-basin-9---bimbene-2",
+              "name": "9 - BIMBENE 2",
+              "registeredVoters": 727
+            },
+            {
+              "id": "imbonggu-ialibu-basin-10---kapoglpopilie",
+              "name": "10 - KAPOGLPOPILIE",
+              "registeredVoters": 989
+            },
+            {
+              "id": "imbonggu-ialibu-basin-11---yombi-1",
+              "name": "11 - YOMBI 1",
+              "registeredVoters": 1253
+            },
+            {
+              "id": "imbonggu-ialibu-basin-12---yawalangil",
+              "name": "12 - YAWALANGIL",
+              "registeredVoters": 512
+            },
+            {
+              "id": "imbonggu-ialibu-basin-13---kopri",
+              "name": "13 - KOPRI",
+              "registeredVoters": 996
+            },
+            {
+              "id": "imbonggu-ialibu-basin-14---lepera",
+              "name": "14 - LEPERA",
+              "registeredVoters": 727
+            },
+            {
+              "id": "imbonggu-ialibu-basin-15---pakulge",
+              "name": "15 - PAKULGE",
+              "registeredVoters": 914
+            },
+            {
+              "id": "imbonggu-ialibu-basin-16---yawalinda",
+              "name": "16 - YAWALINDA",
+              "registeredVoters": 422
+            },
+            {
+              "id": "imbonggu-ialibu-basin-17---yombi-2",
+              "name": "17 - YOMBI 2",
+              "registeredVoters": 964
+            },
+            {
+              "id": "imbonggu-ialibu-basin-18---pokorapul",
+              "name": "18 - POKORAPUL",
+              "registeredVoters": 678
+            },
+            {
+              "id": "imbonggu-ialibu-basin-19---maral",
+              "name": "19 - MARAL",
+              "registeredVoters": 933
+            },
+            {
+              "id": "imbonggu-ialibu-basin-20---kendal-1",
+              "name": "20 - KENDAL 1",
+              "registeredVoters": 702
+            },
+            {
+              "id": "imbonggu-ialibu-basin-21---kalano",
+              "name": "21 - KALANO",
+              "registeredVoters": 1192
+            },
+            {
+              "id": "imbonggu-ialibu-basin-22---yawalangil-2",
+              "name": "22 - YAWALANGIL 2",
+              "registeredVoters": 564
+            }
+          ]
+        },
+        {
+          "id": "imbonggu-imbonggu",
+          "name": "IMBONGGU LLG",
+          "electorateSlug": "imbonggu",
+          "wards": [
+            {
+              "id": "imbonggu-imbonggu-1---kisenapoi",
+              "name": "1 - KISENAPOI",
+              "registeredVoters": 2473
+            },
+            {
+              "id": "imbonggu-imbonggu-2---tukupangi",
+              "name": "2 - TUKUPANGI",
+              "registeredVoters": 684
+            },
+            {
+              "id": "imbonggu-imbonggu-3---moka-1",
+              "name": "3 - MOKA 1",
+              "registeredVoters": 770
+            },
+            {
+              "id": "imbonggu-imbonggu-4---orei",
+              "name": "4 - OREI",
+              "registeredVoters": 1109
+            },
+            {
+              "id": "imbonggu-imbonggu-5---kumunge",
+              "name": "5 - KUMUNGE",
+              "registeredVoters": 716
+            },
+            {
+              "id": "imbonggu-imbonggu-6---beechwood-1",
+              "name": "6 - BEECHWOOD 1",
+              "registeredVoters": 659
+            },
+            {
+              "id": "imbonggu-imbonggu-7---koropangi",
+              "name": "7 - KOROPANGI",
+              "registeredVoters": 505
+            },
+            {
+              "id": "imbonggu-imbonggu-8---beechwood-2",
+              "name": "8 - BEECHWOOD 2",
+              "registeredVoters": 454
+            },
+            {
+              "id": "imbonggu-imbonggu-9---kume-1",
+              "name": "9 - KUME 1",
+              "registeredVoters": 1012
+            },
+            {
+              "id": "imbonggu-imbonggu-10---kume-2",
+              "name": "10 - KUME 2",
+              "registeredVoters": 997
+            },
+            {
+              "id": "imbonggu-imbonggu-11---tona",
+              "name": "11 - TONA",
+              "registeredVoters": 1213
+            },
+            {
+              "id": "imbonggu-imbonggu-12---piambil-1",
+              "name": "12 - PIAMBIL 1",
+              "registeredVoters": 2255
+            },
+            {
+              "id": "imbonggu-imbonggu-13---piambil-2",
+              "name": "13 - PIAMBIL 2",
+              "registeredVoters": 2278
+            },
+            {
+              "id": "imbonggu-imbonggu-14---nagop-1",
+              "name": "14 - NAGOP 1",
+              "registeredVoters": 383
+            },
+            {
+              "id": "imbonggu-imbonggu-15---nagop-2",
+              "name": "15 - NAGOP 2",
+              "registeredVoters": 842
+            },
+            {
+              "id": "imbonggu-imbonggu-16---nagop-3",
+              "name": "16 - NAGOP 3",
+              "registeredVoters": 760
+            },
+            {
+              "id": "imbonggu-imbonggu-17---orei-2",
+              "name": "17 - OREI 2",
+              "registeredVoters": 734
+            },
+            {
+              "id": "imbonggu-imbonggu-18---puglupiri",
+              "name": "18 - PUGLUPIRI",
+              "registeredVoters": 346
+            },
+            {
+              "id": "imbonggu-imbonggu-19---moka-2",
+              "name": "19 - MOKA 2",
+              "registeredVoters": 700
+            },
+            {
+              "id": "imbonggu-imbonggu-20---beechwood-3",
+              "name": "20 - BEECHWOOD 3",
+              "registeredVoters": 285
+            },
+            {
+              "id": "imbonggu-imbonggu-21---kulinili",
+              "name": "21 - KULINILI",
+              "registeredVoters": 173
+            },
+            {
+              "id": "imbonggu-imbonggu-22---paunda-hydro",
+              "name": "22 - PAUNDA HYDRO",
+              "registeredVoters": 443
+            },
+            {
+              "id": "imbonggu-imbonggu-23---komokombu",
+              "name": "23 - KOMOKOMBU",
+              "registeredVoters": 429
+            },
+            {
+              "id": "imbonggu-imbonggu-24---perai-mongai",
+              "name": "24 - PERAI MONGAI",
+              "registeredVoters": 197
+            },
+            {
+              "id": "imbonggu-imbonggu-25---piambil-3",
+              "name": "25 - PIAMBIL 3",
+              "registeredVoters": 728
+            },
+            {
+              "id": "imbonggu-imbonggu-26---piambil-4",
+              "name": "26 - PIAMBIL 4",
+              "registeredVoters": 728
+            },
+            {
+              "id": "imbonggu-imbonggu-27---piambil-5",
+              "name": "27 - PIAMBIL 5",
+              "registeredVoters": 555
+            },
+            {
+              "id": "imbonggu-imbonggu-28---tamal-epp",
+              "name": "28 - TAMAL EPP",
+              "registeredVoters": 682
+            },
+            {
+              "id": "imbonggu-imbonggu-29---piambil-6",
+              "name": "29 - PIAMBIL 6",
+              "registeredVoters": 418
+            },
+            {
+              "id": "imbonggu-imbonggu-30---piambil-7",
+              "name": "30 - PIAMBIL 7",
+              "registeredVoters": 848
+            },
+            {
+              "id": "imbonggu-imbonggu-31---gulgi-wenda",
+              "name": "31 - GULGI WENDA",
+              "registeredVoters": 301
+            },
+            {
+              "id": "imbonggu-imbonggu-32---kisenapoi-3",
+              "name": "32 - KISENAPOI 3",
+              "registeredVoters": 334
+            },
+            {
+              "id": "imbonggu-imbonggu-33---lombopena",
+              "name": "33 - LOMBOPENA",
+              "registeredVoters": 382
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "mendi-central",
+      "llgs": [
+        {
+          "id": "mendi-central-lower-mendi",
+          "name": "LOWER MENDI LLG",
+          "electorateSlug": "mendi-central",
+          "wards": [
+            {
+              "id": "mendi-central-lower-mendi-1---endawa",
+              "name": "1 - ENDAWA",
+              "registeredVoters": 1133
+            },
+            {
+              "id": "mendi-central-lower-mendi-2---eskamp",
+              "name": "2 - ESKAMP",
+              "registeredVoters": 1283
+            },
+            {
+              "id": "mendi-central-lower-mendi-3---sumia-1",
+              "name": "3 - SUMIA 1",
+              "registeredVoters": 619
+            },
+            {
+              "id": "mendi-central-lower-mendi-4---sumia-2",
+              "name": "4 - SUMIA 2",
+              "registeredVoters": 1167
+            },
+            {
+              "id": "mendi-central-lower-mendi-5---yore-1",
+              "name": "5 - YORE 1",
+              "registeredVoters": 1321
+            },
+            {
+              "id": "mendi-central-lower-mendi-6---yore-2",
+              "name": "6 - YORE 2",
+              "registeredVoters": 1359
+            },
+            {
+              "id": "mendi-central-lower-mendi-7---tutam-lumbi",
+              "name": "7 - TUTAM (LUMBI)",
+              "registeredVoters": 2624
+            },
+            {
+              "id": "mendi-central-lower-mendi-8---yebi-1",
+              "name": "8 - YEBI 1",
+              "registeredVoters": 1844
+            },
+            {
+              "id": "mendi-central-lower-mendi-9---yebi-2",
+              "name": "9 - YEBI 2",
+              "registeredVoters": 1679
+            },
+            {
+              "id": "mendi-central-lower-mendi-10---aisaia-1-omai",
+              "name": "10 - AISAIA 1 (OMAI)",
+              "registeredVoters": 1404
+            },
+            {
+              "id": "mendi-central-lower-mendi-11---umbiala",
+              "name": "11 - UMBIALA",
+              "registeredVoters": 2164
+            },
+            {
+              "id": "mendi-central-lower-mendi-12---megi",
+              "name": "12 - MEGI",
+              "registeredVoters": 1076
+            },
+            {
+              "id": "mendi-central-lower-mendi-13---onne",
+              "name": "13 - ONNE",
+              "registeredVoters": 1339
+            },
+            {
+              "id": "mendi-central-lower-mendi-14---yaken",
+              "name": "14 - YAKEN",
+              "registeredVoters": 1085
+            },
+            {
+              "id": "mendi-central-lower-mendi-15---yebi-3",
+              "name": "15 - YEBI 3",
+              "registeredVoters": 1046
+            },
+            {
+              "id": "mendi-central-lower-mendi-16---aisaia-2",
+              "name": "16 - AISAIA 2",
+              "registeredVoters": 1644
+            },
+            {
+              "id": "mendi-central-lower-mendi-17---pororo",
+              "name": "17 - PORORO",
+              "registeredVoters": 1263
+            },
+            {
+              "id": "mendi-central-lower-mendi-18---mil",
+              "name": "18 - MIL",
+              "registeredVoters": 1970
+            },
+            {
+              "id": "mendi-central-lower-mendi-19---sumia-3",
+              "name": "19 - SUMIA 3",
+              "registeredVoters": 1035
+            },
+            {
+              "id": "mendi-central-lower-mendi-20---yaria",
+              "name": "20 - YARIA",
+              "registeredVoters": 2576
+            },
+            {
+              "id": "mendi-central-lower-mendi-21---kiburu",
+              "name": "21 - KIBURU",
+              "registeredVoters": 3602
+            },
+            {
+              "id": "mendi-central-lower-mendi-22---cis-bui-iebi",
+              "name": "22 - CIS BUI-IEBI",
+              "registeredVoters": 1152
+            },
+            {
+              "id": "mendi-central-lower-mendi-23---pinj",
+              "name": "23 - PINJ",
+              "registeredVoters": 2056
+            },
+            {
+              "id": "mendi-central-lower-mendi-24---kos-una",
+              "name": "24 - KOS-UNA",
+              "registeredVoters": 1200
+            },
+            {
+              "id": "mendi-central-lower-mendi-25---sumia-4",
+              "name": "25 - SUMIA 4",
+              "registeredVoters": 457
+            },
+            {
+              "id": "mendi-central-lower-mendi-26---ibia-iameriga",
+              "name": "26 - IBIA (Iameriga)",
+              "registeredVoters": 496
+            },
+            {
+              "id": "mendi-central-lower-mendi-27---usa",
+              "name": "27 - USA",
+              "registeredVoters": 764
+            },
+            {
+              "id": "mendi-central-lower-mendi-28---pawayamo",
+              "name": "28 - PAWAYAMO",
+              "registeredVoters": 774
+            },
+            {
+              "id": "mendi-central-lower-mendi-29---puti",
+              "name": "29 - PUTI",
+              "registeredVoters": 710
+            },
+            {
+              "id": "mendi-central-lower-mendi-30---yameriga",
+              "name": "30 - YAMERIGA",
+              "registeredVoters": 327
+            },
+            {
+              "id": "mendi-central-lower-mendi-31---mutulam",
+              "name": "31 - MUTULAM",
+              "registeredVoters": 1005
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "kagua-erave",
+      "llgs": [
+        {
+          "id": "kagua-erave-kagua",
+          "name": "Kagua LLG",
+          "electorateSlug": "kagua-erave",
+          "wards": [
+            {
+              "id": "kagua-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3166
+            },
+            {
+              "id": "kagua-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2483
+            },
+            {
+              "id": "kagua-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1764
+            },
+            {
+              "id": "kagua-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2617
+            },
+            {
+              "id": "kagua-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1949
+            },
+            {
+              "id": "kagua-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2004
+            }
+          ]
+        },
+        {
+          "id": "kagua-erave-erave",
+          "name": "Erave LLG",
+          "electorateSlug": "kagua-erave",
+          "wards": [
+            {
+              "id": "erave-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1808
+            },
+            {
+              "id": "erave-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2529
+            },
+            {
+              "id": "erave-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2226
+            },
+            {
+              "id": "erave-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1316
+            },
+            {
+              "id": "erave-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1347
+            },
+            {
+              "id": "erave-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1756
+            },
+            {
+              "id": "erave-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1419
+            },
+            {
+              "id": "erave-w08",
+              "name": "Ward 8",
+              "registeredVoters": 2591
+            }
+          ]
+        },
+        {
+          "id": "kagua-erave-kuare",
+          "name": "Kuare LLG",
+          "electorateSlug": "kagua-erave",
+          "wards": [
+            {
+              "id": "kuare-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2908
+            },
+            {
+              "id": "kuare-w02",
+              "name": "Ward 2",
+              "registeredVoters": 5525
+            },
+            {
+              "id": "kuare-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4726
+            }
+          ]
+        },
+        {
+          "id": "kagua-erave-sumi",
+          "name": "Sumi LLG",
+          "electorateSlug": "kagua-erave",
+          "wards": [
+            {
+              "id": "sumi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1329
+            },
+            {
+              "id": "sumi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1717
+            },
+            {
+              "id": "sumi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1785
+            },
+            {
+              "id": "sumi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2364
+            },
+            {
+              "id": "sumi-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1169
+            },
+            {
+              "id": "sumi-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1414
+            },
+            {
+              "id": "sumi-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1710
+            },
+            {
+              "id": "sumi-w08",
+              "name": "Ward 8",
+              "registeredVoters": 2462
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "nipa-kutubu",
+      "llgs": [
+        {
+          "id": "nipa-kutubu-nipa",
+          "name": "Nipa LLG",
+          "electorateSlug": "nipa-kutubu",
+          "wards": [
+            {
+              "id": "nipa-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1281
+            },
+            {
+              "id": "nipa-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2028
+            },
+            {
+              "id": "nipa-w03",
+              "name": "Ward 3",
+              "registeredVoters": 943
+            },
+            {
+              "id": "nipa-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1049
+            },
+            {
+              "id": "nipa-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1781
+            },
+            {
+              "id": "nipa-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1699
+            },
+            {
+              "id": "nipa-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1677
+            },
+            {
+              "id": "nipa-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1496
+            },
+            {
+              "id": "nipa-w09",
+              "name": "Ward 9",
+              "registeredVoters": 859
+            },
+            {
+              "id": "nipa-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1545
+            }
+          ]
+        },
+        {
+          "id": "nipa-kutubu-kutubu",
+          "name": "Kutubu LLG",
+          "electorateSlug": "nipa-kutubu",
+          "wards": [
+            {
+              "id": "kutubu-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2326
+            },
+            {
+              "id": "kutubu-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2054
+            },
+            {
+              "id": "kutubu-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1941
+            },
+            {
+              "id": "kutubu-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1637
+            },
+            {
+              "id": "kutubu-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1120
+            },
+            {
+              "id": "kutubu-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1636
+            },
+            {
+              "id": "kutubu-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1151
+            },
+            {
+              "id": "kutubu-w08",
+              "name": "Ward 8",
+              "registeredVoters": 3150
+            },
+            {
+              "id": "kutubu-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1387
+            }
+          ]
+        },
+        {
+          "id": "nipa-kutubu-poroma",
+          "name": "Poroma LLG",
+          "electorateSlug": "nipa-kutubu",
+          "wards": [
+            {
+              "id": "poroma-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2160
+            },
+            {
+              "id": "poroma-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2173
+            },
+            {
+              "id": "poroma-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3922
+            },
+            {
+              "id": "poroma-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2193
+            },
+            {
+              "id": "poroma-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3688
+            }
+          ]
+        },
+        {
+          "id": "nipa-kutubu-margarima-south",
+          "name": "Margarima South LLG",
+          "electorateSlug": "nipa-kutubu",
+          "wards": [
+            {
+              "id": "margarima-south-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1940
+            },
+            {
+              "id": "margarima-south-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1520
+            },
+            {
+              "id": "margarima-south-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1391
+            },
+            {
+              "id": "margarima-south-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2089
+            },
+            {
+              "id": "margarima-south-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1034
+            },
+            {
+              "id": "margarima-south-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1514
+            },
+            {
+              "id": "margarima-south-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2265
+            },
+            {
+              "id": "margarima-south-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1486
+            },
+            {
+              "id": "margarima-south-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1561
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "mendi",
+      "llgs": [
+        {
+          "id": "mendi-mendi-urban",
+          "name": "Mendi Urban LLG",
+          "electorateSlug": "mendi",
+          "wards": [
+            {
+              "id": "mendi-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2107
+            },
+            {
+              "id": "mendi-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2305
+            },
+            {
+              "id": "mendi-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2727
+            },
+            {
+              "id": "mendi-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2487
+            },
+            {
+              "id": "mendi-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2897
+            },
+            {
+              "id": "mendi-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1939
+            },
+            {
+              "id": "mendi-urban-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2822
+            }
+          ]
+        },
+        {
+          "id": "mendi-upper-mendi",
+          "name": "Upper Mendi LLG",
+          "electorateSlug": "mendi",
+          "wards": [
+            {
+              "id": "upper-mendi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 5770
+            },
+            {
+              "id": "upper-mendi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4942
+            },
+            {
+              "id": "upper-mendi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4454
+            },
+            {
+              "id": "upper-mendi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 4435
+            }
+          ]
+        },
+        {
+          "id": "mendi-lower-mendi",
+          "name": "Lower Mendi LLG",
+          "electorateSlug": "mendi",
+          "wards": [
+            {
+              "id": "lower-mendi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4494
+            },
+            {
+              "id": "lower-mendi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2791
+            },
+            {
+              "id": "lower-mendi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2613
+            },
+            {
+              "id": "lower-mendi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 4777
+            },
+            {
+              "id": "lower-mendi-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2459
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

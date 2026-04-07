@@ -1,0 +1,458 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160253347,"Aipa, Christina",F,Sumia 4,Household Duties,01 Jan 1981
+2,160253364,"Aipa, Doris",F,Sumia 4,Student,01 Jan 1987
+3,160253384,"Aipa, Karen",F,Sumia 4,Student,01 Jan 1988
+4,160253387,"Aipa, Koro",F,Sumia 4,Student,01 Jan 1980
+5,160253381,"Aipa, Meki",F,Sumia 4,Household Duties,01 Jan 1987
+6,160254460,"Ako, Lyne",F,Sumia 4,Household Duties,01 Jan 1993
+7,160254323,"Ako, Maria",F,Sumia 4,Household Duties,01 Jan 1989
+8,160254462,"Ako, Mope",F,Sumia 4,Supervisor,01 Jan 1989
+9,160254391,"Ako, Nongesup",F,Sumia 4,Household Duties,01 Jan 1990
+10,160254327,"Ako, Pricila",F,Sumia 4,Social Worker,01 Jan 1992
+11,160254392,"Ako, Wendy",F,Sumia 4,Household Duties,01 Jan 1990
+12,160253177,"Amepa, Anna",F,Sumia 4,Household Duties,01 Jan 1989
+13,160253178,"Amepa, Pere",F,Sumia 4,Student,01 Jan 1988
+14,160252193,"Amesi, Bulu",F,Sumia 4,Household Duties,01 Jan 1986
+15,160253108,"Apkas, Linah",F,Sumia 4,Household Duties,01 Jan 1987
+16,160254344,"Apkas, Mana",F,Sumia 4,Household Duties,01 Jan 1990
+17,160253243,"Apkas, Sulap",F,Sumia 4,Household Duties,01 Jan 1989
+18,160253247,"Apkas, Teme",F,Sumia 4,Household Duties,01 Jan 1990
+19,160254400,"Beli, Keren",F,Sumia 4,Household Duties,01 Jan 1986
+20,160254457,"Beli, Martha",F,Sumia 4,Household Duties,01 Jan 1971
+21,160254455,"Beli, Mary",F,Sumia 4,Household Duties,01 Jan 1974
+22,160254411,"Beli, Melani",F,Sumia 4,Social Worker,01 Jan 1992
+23,160254379,"Beli, Miriam",F,Sumia 4,Household Duties,01 Jan 1989
+24,160254410,"Beli, Okuta",F,Sumia 4,Household Duties,01 Jan 1990
+25,160254396,"Beli, Wali",F,Sumia 4,Teacher,01 Jan 1989
+26,160254399,"Beli, Yore",F,Sumia 4,Student,01 Jan 1987
+27,160229548,"Benny, Florance",F,Sumia 4,Teacher,01 Jan 1969
+28,160253273,"Charles, Elena",F,Sumia 4,Student,01 Jan 1989
+29,25080574,"Charles, Everlyn",F,Sumia 4,Unemployed,01 Jan 1989
+30,160253120,"Charles, Janet",F,Sumia 4,Household Duties,01 Jan 1986
+31,25080577,"Charles, Komipa",F,Sumia 4,Student,11 Apr 2000
+32,160196394,"Charles, Lilian",F,Sumia 4,Warder,18 Dec 1979
+33,160445261,"Charles, Lucy",F,Sumia 4,Household Duties,01 Oct 1989
+34,160445262,"Charles, Maria",F,Sumia 4,Household Duties,10 Oct 1996
+35,160242927,"Charles, Mary",F,Sumia 4,Household Duties,15 Jun 1980
+36,160253234,"Charles, Merolyn",F,Sumia 4,Social Worker,01 Jan 1985
+37,160445263,"Charles, Quency",F,Sumia 4,Student,22 May 2003
+38,160253121,"Charles, Rebecca",F,Sumia 4,Student,01 Jan 1985
+39,160194793,"David, Wendy",F,Sumia 4,Student,11 Aug 1967
+40,160229371,"David q, Rebecca",F,Sumia 4,Student,01 Jan 1973
+41,160241749,"Epoa, Easter",F,Sumia 4,Student,13 Aug 1990
+42,160231034,"Epoa, Erri",F,Sumia 4,Household Duties,01 Jan 1956
+43,160230981,"Epoa, Poram",F,Sumia 4,Teacher,01 Jan 1961
+44,160241746,"Epoa, Rosa",F,Sumia 4,Student,10 Dec 1989
+45,160241816,"Epoa, Selian",F,Sumia 4,Student,16 Mar 1987
+46,160230978,"Epoa, Sharlly",F,Sumia 4,Teacher,01 Jan 1964
+47,160445283,"Epowa, Natasha",F,Sumia 4,Teacher,03 Feb 2001
+48,160445284,"Epowa, Semila",F,Sumia 4,Student,09 Apr 2004
+49,160230632,"Hors d, Wari",F,Sumia 4,Student,01 Jan 1982
+50,160212342,"Howap, Bepi",F,Sumia 4,Household Duties,18 Jul 1954
+51,160212343,"Howap, Betty",F,Sumia 4,Household Duties,16 Apr 1973
+52,160212615,"Howap, Nogosi",F,Sumia 4,Household Duties,01 Jan 1961
+53,160254319,"Iropu, Epi",F,Sumia 4,Household Duties,01 Jan 1989
+54,160253166,"Iropu, Jessica",F,Sumia 4,Student,01 Jan 1992
+55,160254321,"Iropu, Solpa",F,Sumia 4,Household Duties,01 Jan 1992
+56,160227179,"Issac, Matha",F,Sumia 4,Household Duties,01 Jan 1971
+57,160137975,"Issach, Josphin",F,Sumia 4,Store Keeper,18 Jul 1994
+58,160121240,"Issach, Senny",F,Sumia 4,Household Duties,21 Apr 1992
+59,160445296,"Issic, Blesina",F,Sumia 4,Student,13 Mar 2004
+60,160253224,"Joel, Angela",F,Sumia 4,Student,01 Jan 1989
+61,160253218,"Joel, Bepi",F,Sumia 4,Student,01 Jan 1989
+62,160253405,"Joel, Grace",F,Sumia 4,Household Duties,01 Jan 1990
+63,160253077,"Joel, Margret",F,Sumia 4,Student,01 Jan 1990
+64,160253076,"Joel, Marian",F,Sumia 4,Household Duties,01 Jan 1985
+65,160253067,"Joel, Roslyn",F,Sumia 4,Household Duties,01 Jan 1990
+66,160227333,"Kellian, David",F,Sumia 4,Subsistence Farmer,01 Jan 1953
+67,160138072,"Kema, Nancy",F,Sumia 4,Teacher,01 Jan 1988
+68,25080666,"Kembwoya, Jessica",F,Sumia 4,Student,25 Apr 2001
+69,25080672,"Kengi, Monica",F,Sumia 4,Aid Post Orderly,28 Dec 2003
+70,25080677,"Kep, Daniela",F,Sumia 4,Announcer,18 Jan 2000
+71,25080681,"Kep, Danish",F,Sumia 4,Student,23 Jul 2001
+72,160242936,"Kep, Daula",F,Sumia 4,Student,18 Oct 1984
+73,160242929,"Kep, Dela",F,Sumia 4,Student,30 Dec 1991
+74,160242935,"Kep, Delina",F,Sumia 4,Student,21 Sep 1982
+75,160243093,"Kep, Dema",F,Sumia 4,Student,10 Nov 1986
+76,25080685,"Kep, Maria",F,Sumia 4,Administrator,27 May 1990
+77,160242933,"Kep, Martina",F,Sumia 4,Household Duties,14 Mar 1980
+78,160243085,"Kep, Stephenie",F,Sumia 4,Student,11 Dec 1988
+79,160253140,"Kera, Agatha",F,Sumia 4,Household Duties,01 Jan 1971
+80,160253134,"Kera, Cathy",F,Sumia 4,Household Duties,01 Jan 1979
+81,160253146,"Kera, Erema",F,Sumia 4,Household Duties,01 Jan 1989
+82,160253125,"Kera, Kopame",F,Sumia 4,Household Duties,01 Jan 1970
+83,160253149,"Kera, Merian",F,Sumia 4,Household Duties,01 Jan 1970
+84,160253131,"Kera, Meta",F,Sumia 4,Self Employed,01 Jan 1980
+85,160253133,"Kera, Nongosi",F,Sumia 4,Household Duties,01 Jan 1976
+86,160121178,"Komape, Peles",F,Sumia 4,Household Duties,22 Jan 1969
+87,160227485,"Komape, Susan",F,Sumia 4,Student,01 Jan 1985
+88,160253212,"Kuka, Judy",F,Sumia 4,Household Duties,01 Jan 1989
+89,160253215,"Kuka, Melisa",F,Sumia 4,Household Duties,01 Jan 1986
+90,160253216,"Kuka, Nona",F,Sumia 4,Household Duties,01 Jan 1989
+91,160251926,"Lapun, Jenifer",F,Sumia 4,Household Duties,01 Jan 1964
+92,160251924,"Lapun, Jenny",F,Sumia 4,Student,01 Jan 1987
+93,160253086,"Lapun, Joena",F,Sumia 4,Student,01 Jan 1983
+94,160251925,"Lapun, Puwere",F,Sumia 4,Social Worker,01 Jan 1974
+95,160253112,"Maka, Alice",F,Sumia 4,Household Duties,01 Jan 1986
+96,160253251,"Maka, Ando",F,Sumia 4,Student,01 Jan 1990
+97,160253081,"Maneul, Salien",F,Sumia 4,Household Duties,01 Jan 1971
+98,160242957,"Mapi, Marata",F,Sumia 4,Household Duties,11 Jul 1980
+99,160254346,"Melep, Kotpere",F,Sumia 4,Household Duties,01 Jan 1989
+100,160254347,"Melep, Maggie",F,Sumia 4,Teacher,01 Jan 1986
+101,160254466,"Melep, Maryanne",F,Sumia 4,Household Duties,01 Jan 1990
+102,160254343,"Melep, Muape",F,Sumia 4,Household Duties,01 Jan 1985
+103,160227141,"Meles, Mary",F,Sumia 4,Household Duties,01 Jan 1971
+104,160227149,"Memene, Aplin",F,Sumia 4,Community Health,01 Jan 1961
+105,25080772,"Memene, Hilgrad",F,Sumia 4,Teacher,01 May 1995
+106,160227287,"Memene, Marry",F,Sumia 4,Household Duties,01 Jan 1947
+107,160227289,"Memene, Molu",F,Sumia 4,Household Duties,01 Jan 1945
+108,160227173,"Memene, Nally",F,Sumia 4,Household Duties,01 Jan 1954
+109,160227001,"Memene d, Shina",F,Sumia 4,Household Duties,01 Jan 1975
+110,160253433,"Mendip, Beverlyn",F,Sumia 4,Household Duties,01 Jan 1980
+111,160253142,"Mendip, Julie",F,Sumia 4,Household Duties,01 Jan 1970
+112,160253198,"Mendipa, Joyce",F,Sumia 4,Student,01 Jan 1986
+113,160254353,"Mendipa, Kamnong",F,Sumia 4,Household Duties,01 Jan 1970
+114,160253203,"Mendipa, Nupun",F,Sumia 4,Household Duties,01 Jan 1970
+115,160254428,"Mendipa, Ole",F,Sumia 4,Student,01 Jan 1988
+116,160253159,"Mendipa, Rekian",F,Sumia 4,Household Duties,01 Jan 1989
+117,160253158,"Mendipa, Rutu",F,Sumia 4,Household Duties,01 Jan 1980
+118,160253126,"Mungu, Jacob",F,Sumia 4,Household Duties,01 Jan 1978
+119,160253306,"Mupungap, Beli",F,Sumia 4,Household Duties,01 Jan 1989
+120,160254384,"Mupungap, Dimitri",F,Sumia 4,Student,01 Jan 1986
+121,160253423,"Mupungap, Larimi",F,Sumia 4,Household Duties,01 Jan 1976
+122,160254469,"Mupungap, Onarop",F,Sumia 4,Household Duties,01 Jan 1986
+123,160121330,"Muri, Hunpi",F,Sumia 4,Household Duties,12 Oct 1976
+124,160121331,"Muri, Micklina",F,Sumia 4,Household Duties,23 Apr 1980
+125,160121333,"Muri, Yamnong",F,Sumia 4,Sister,07 May 1985
+126,160242965,"Olumb, Rachael",F,Sumia 4,Student,16 Jun 1994
+127,160137984,"Onde, Becky",F,Sumia 4,Household Duties,25 Jan 1985
+128,160253374,"Onde, Kopa",F,Sumia 4,Not Specified,01 Jan 1982
+129,160253208,"Onde, Marie",F,Sumia 4,Household Duties,01 Jan 1986
+130,160253392,"Onde, Merian",F,Sumia 4,Household Duties,01 Jan 1979
+131,160253379,"Onde, Rum",F,Sumia 4,Teacher,01 Jan 1978
+132,160253209,"Ondpi, Rimba",F,Sumia 4,Household Duties,01 Jan 1975
+133,160253276,"Ongurap, Cythia",F,Sumia 4,Student,01 Jan 1989
+134,160253124,"Ongurap, Helen",F,Sumia 4,Household Duties,01 Jan 1988
+135,160253295,"Ongurap, Kes",F,Sumia 4,Household Duties,01 Jan 1985
+136,160253289,"Ongurap, Romeli",F,Sumia 4,Household Duties,01 Jan 1968
+137,160253288,"Ongurap, Stephanie",F,Sumia 4,Household Duties,01 Jan 1987
+138,160253281,"Ongurap, Tanya",F,Sumia 4,Household Duties,01 Jan 1968
+139,160253310,"Pepa, Mupange",F,Sumia 4,Household Duties,01 Jan 1972
+140,160241836,"Peter, Ake",F,Sumia 4,Student,11 Aug 1980
+141,160241838,"Peter, Ako",F,Sumia 4,Student,28 Oct 1990
+142,160241839,"Peter, Betty",F,Sumia 4,Student,16 Jun 1993
+143,160241754,"Peter, Roselyn",F,Sumia 4,Student,16 Oct 1977
+144,160254434,"Pima, Elsie",F,Sumia 4,Household Duties,01 Jan 1990
+145,160254445,"Pima, Joycelyn",F,Sumia 4,Student,01 Jan 1990
+146,160254450,"Pima, Margret",F,Sumia 4,Social Worker,01 Jan 1989
+147,160254369,"Pima, Merian",F,Sumia 4,Household Duties,01 Jan 1993
+148,160254444,"Pima, Nathasah",F,Sumia 4,Student,01 Jan 1992
+149,160254370,"Pima, Rebecca",F,Sumia 4,Self Employed,01 Jan 1987
+150,160254442,"Pima, Sharon",F,Sumia 4,Household Duties,01 Jan 1985
+151,160254376,"Pima, Veronica",F,Sumia 4,Household Duties,01 Jan 1989
+152,160253434,"Pope, Elizabert",F,Sumia 4,Household Duties,01 Jan 1974
+153,160254422,"Pope, Janet",F,Sumia 4,Household Duties,01 Jan 1983
+154,160253439,"Pope, Kerena",F,Sumia 4,Household Duties,01 Jan 1987
+155,160253436,"Pope, Kisa",F,Sumia 4,Household Duties,01 Jan 1987
+156,160254351,"Pope, Kola",F,Sumia 4,Household Duties,01 Jan 1986
+157,160254360,"Pope, Kos",F,Sumia 4,Household Duties,01 Jan 1975
+158,160254365,"Pope, Kupa",F,Sumia 4,Household Duties,01 Jan 1989
+159,25080860,"Pope, Susan",F,Sumia 4,Subsistence Farmer,01 Jun 1990
+160,160253333,"Pope, Una",F,Sumia 4,Household Duties,01 Jan 1986
+161,160254467,"Pupungap, Enginarop",F,Sumia 4,Household Duties,01 Jan 1989
+162,160253071,"Purasi, Rosa",F,Sumia 4,Nurse,01 Jan 1982
+163,160194660,"Ran, Anna",F,Sumia 4,Public Servant,29 Nov 1977
+164,160195911,"Reki, Magret",F,Sumia 4,Household Duties,19 Sep 1966
+165,160137992,"Reki, Yomren",F,Sumia 4,Self Employed,25 Jul 1979
+166,160227132,"Renny, Secallya",F,Sumia 4,Household Duties,01 Jan 1980
+167,160445408,"Rex, Danila",F,Sumia 4,Typist,21 May 2001
+168,160445412,"Robert, Bokoly",F,Sumia 4,Subsistence Farmer,25 Sep 1983
+169,160253202,"Robert, Margret",F,Sumia 4,Student,01 Jan 1992
+170,160253062,"Robert, Marisah",F,Sumia 4,Household Duties,01 Jan 1989
+171,160253154,"Robert, Reginah",F,Sumia 4,Student,01 Jan 1968
+172,25080863,"Robert, Sheila",F,Sumia 4,Architect,19 Nov 1989
+173,160253200,"Robert, Sintah",F,Sumia 4,Household Duties,01 Jan 1969
+174,160253082,"Simon, Mopeme",F,Sumia 4,Household Duties,01 Jan 1967
+175,160253145,"Simon, Moreen",F,Sumia 4,Household Duties,01 Jan 1986
+176,160242977,"Simon, Ruth",F,Sumia 4,Student,17 Jul 1993
+177,160137987,"Simon, Ruthy",F,Sumia 4,Student,06 Sep 1998
+178,160138000,"Simon, Senao",F,Sumia 4,Store Keeper,25 Jun 1995
+179,160253087,"Simon, Susan",F,Sumia 4,Social Worker,01 Jan 1976
+180,160253163,"Simon, Vicky",F,Sumia 4,Household Duties,01 Jan 1989
+181,160253107,"Soka, Josephine",F,Sumia 4,Household Duties,01 Jan 1983
+182,160252194,"Soka, Nelie",F,Sumia 4,Student,01 Jan 1989
+183,160227301,"Solisi, Ako",F,Sumia 4,Student,01 Jan 1989
+184,160230394,"Solisi, Anna",F,Sumia 4,Household Duties,01 Jan 1967
+185,160230753,"Solisi, Anutu",F,Sumia 4,Household Duties,01 Jan 1965
+186,160227300,"Solisi, Dolly",F,Sumia 4,Student,01 Jan 1987
+187,160229599,"Solisi, Nosom",F,Sumia 4,Household Duties,01 Jan 1972
+188,160241753,"Steven, Cathy",F,Sumia 4,Household Duties,01 Jan 1974
+189,160243088,"Steven, Dorica",F,Sumia 4,Student,15 Aug 1992
+190,160253118,"Steven, Geannie",F,Sumia 4,Receptionist,01 Jan 1989
+191,160229733,"Steven, Jully",F,Sumia 4,Community Health,01 Jan 1973
+192,160241567,"Steven, Lina",F,Sumia 4,Student,30 Jan 1980
+193,160241843,"Steven, Maria",F,Sumia 4,Student,13 Mar 1979
+194,160230408,"Steven, Meyat",F,Sumia 4,Household Duties,01 Jan 1967
+195,160253271,"Steven, Phineas",F,Sumia 4,Household Duties,01 Jan 1985
+196,160253279,"Steven, Sarah",F,Sumia 4,Household Duties,01 Jan 1986
+197,160253403,"Timon, Mamosi",F,Sumia 4,Household Duties,01 Jan 1989
+198,160253400,"Timon, Sara",F,Sumia 4,Household Duties,01 Jan 1989
+199,160253399,"Timon, Wata",F,Sumia 4,Household Duties,01 Jan 1989
+200,160253395,"Waripa, Punure",F,Sumia 4,Household Duties,01 Jan 1989
+201,160253369,"Waripa, Ripere",F,Sumia 4,Household Duties,01 Jan 1987
+202,160253259,"Yanpeta, Anita",F,Sumia 4,Student,01 Jan 1989
+203,160253249,"Yanpeta, Fena",F,Sumia 4,Nurse,01 Jan 1979
+204,160253250,"Yanpeta, Veronica",F,Sumia 4,Household Duties,01 Jan 1989
+205,160253211,"Aipa, Benard",M,Sumia 4,Houseboy,01 Jan 1980
+206,160253380,"Aipa, Frank",M,Sumia 4,Subsistence Farmer,01 Jan 1982
+207,160253357,"Aipa, Kapande",M,Sumia 4,Subsistence Farmer,01 Jan 1980
+208,160253359,"Aipa, Samson",M,Sumia 4,Houseboy,01 Jan 1980
+209,160253383,"Aipa, Somolu",M,Sumia 4,Houseboy,01 Jan 1980
+210,160254461,"Ako, Bobby",M,Sumia 4,Self Employed,01 Jan 1990
+211,160254317,"Ako, David",M,Sumia 4,Self Employed,01 Jan 1992
+212,160254389,"Ako, Fud",M,Sumia 4,Electrician,01 Jan 1990
+213,160254326,"Ako, Kepi",M,Sumia 4,Driver,01 Jan 1989
+214,160254322,"Ako, Kepsy",M,Sumia 4,Subsistence Farmer,01 Jan 1990
+215,160254393,"Ako, Thomas",M,Sumia 4,Self Employed,01 Jan 1990
+216,160254394,"Ako, Tobby",M,Sumia 4,Student,01 Jan 1989
+217,160121276,"Alex, Glan",M,Sumia 4,Subsistence Farmer,03 Apr 1996
+218,160253176,"Amepa, Ben",M,Sumia 4,Self Employed,01 Jan 1978
+219,160253048,"Amepa, Brendan",M,Sumia 4,Student,01 Jan 1980
+220,160253167,"Amepa, Ole",M,Sumia 4,Household Duties,01 Jan 1970
+221,160253371,"Amepa, Paul",M,Sumia 4,Subsistence Farmer,01 Jan 1986
+222,160253055,"Amepa, Sepi",M,Sumia 4,Social Worker,01 Jan 1973
+223,160253256,"Amesi, Mike",M,Sumia 4,Student,01 Jan 1989
+224,160253253,"Amesi, Robert",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+225,160252192,"Amesi, Waku",M,Sumia 4,Subsistence Farmer,01 Jan 1975
+226,160253344,"Andrew, Elvis",M,Sumia 4,Student,01 Jan 1987
+227,160253128,"Andrew, Isaiah",M,Sumia 4,Subsistence Farmer,01 Jan 1968
+228,160253283,"Andrew, Jimmy",M,Sumia 4,Policeman,01 Jan 1972
+229,160253298,"Andrew, Julius",M,Sumia 4,Subsistence Farmer,01 Jan 1986
+230,160188044,"Andrew, Junior",M,Sumia 4,Houseboy,01 Jan 1990
+231,160253349,"Andrew, Ken",M,Sumia 4,Lecturer,01 Jan 1986
+232,160191116,"Andrew, Max",M,Sumia 4,Student,01 Jan 1990
+233,160188041,"Andrew, Pakeya",M,Sumia 4,Houseboy,01 Jan 1990
+234,160253304,"Andrew, Pora",M,Sumia 4,Student,01 Jan 1981
+235,160445254,"Andrew, Smith",M,Sumia 4,Nurse,05 Aug 2000
+236,160253299,"Andrew, Steven",M,Sumia 4,Driver,01 Jan 1976
+237,160121182,"Andrew, Stonny",M,Sumia 4,Driver,04 May 1996
+238,160230888,"Ango, Mapi",M,Sumia 4,Subsistence Farmer,01 Jan 1974
+239,160445258,"Anthon, Msckson",M,Sumia 4,Student,03 Mar 2004
+240,160254336,"Apkas, Ben",M,Sumia 4,Subsistence Farmer,01 Jan 1990
+241,160253106,"Apkas, Binowi",M,Sumia 4,Mechanic,01 Jan 1990
+242,160252199,"Apkas, John",M,Sumia 4,Subsistence Farmer,01 Jan 1975
+243,160252198,"Apkas, Marop",M,Sumia 4,Self Employed,01 Jan 1989
+244,160253242,"Apkas, Melep",M,Sumia 4,Student,01 Jan 1990
+245,160253111,"Apkas, Mirin",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+246,160253244,"Apkas, Onza",M,Sumia 4,Subsistence Farmer,01 Jan 1987
+247,160254340,"Apkas, Otmar",M,Sumia 4,Teacher,01 Jan 1989
+248,160252200,"Apkas, Sebastan",M,Sumia 4,Engineer,01 Jan 1989
+249,160254339,"Apkas, Weliya",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+250,160253258,"Asi, Budu",M,Sumia 4,Student,01 Jan 1987
+251,160252190,"Asi, Junior",M,Sumia 4,Security,01 Jan 1991
+252,25080556,"Bal, Jordan",M,Sumia 4,Student,15 Sep 2000
+253,25080559,"Bal, Kopsy",M,Sumia 4,Subsistence Farmer,09 Nov 1978
+254,25080568,"Bal, Simon",M,Sumia 4,Self Employed,11 Nov 1995
+255,160253180,"Bela, Endapiri",M,Sumia 4,Subsistence Farmer,01 Jan 1976
+256,160253185,"Bela, Firman",M,Sumia 4,Mechanic,01 Jan 1975
+257,160253186,"Bela, Frank",M,Sumia 4,Student,01 Jan 1986
+258,160253179,"Bela, Sunda",M,Sumia 4,Houseboy,01 Jan 1972
+259,160253053,"Bela, Vincent",M,Sumia 4,Student,01 Jan 1989
+260,160254402,"Beli, Andrew",M,Sumia 4,Security,01 Jan 1991
+261,160254380,"Beli, Aron",M,Sumia 4,Subsistence Farmer,01 Jan 1975
+262,160254473,"Beli, Denia",M,Sumia 4,Student,01 Jan 1980
+263,160254412,"Beli, Don",M,Sumia 4,Self Employed,01 Jan 1989
+264,160254478,"Beli, Fuko",M,Sumia 4,Self Employed,01 Jan 1982
+265,160254405,"Beli, Ismael",M,Sumia 4,Banker,01 Jan 1989
+266,160254409,"Beli, John",M,Sumia 4,Subsistence Farmer,01 Jan 1985
+267,160254404,"Beli, Julius",M,Sumia 4,Student,01 Jan 1989
+268,160254403,"Beli, Kamipa",M,Sumia 4,Student,01 Jan 1989
+269,160254359,"Beli, Mulart",M,Sumia 4,Subsistence Farmer,01 Jan 1976
+270,160254406,"Beli, Pertus",M,Sumia 4,Student,01 Jan 1990
+271,160254398,"Beli, Samson",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+272,160121186,"Beli, Simon",M,Sumia 4,Driver,12 Oct 1984
+273,160254408,"Beli, Steven",M,Sumia 4,Self Employed,01 Jan 1985
+274,160254401,"Beli, Tupip",M,Sumia 4,Student,01 Jan 1986
+275,160254479,"Beli, Wesis",M,Sumia 4,Subsistence Farmer,01 Jan 1970
+276,160254381,"Beli, Yako",M,Sumia 4,Self Employed,01 Jan 1979
+277,160251928,"Bepi, Junior",M,Sumia 4,Subsistence Farmer,01 Jan 1982
+278,160251922,"Bepi, Weun",M,Sumia 4,Student,01 Jan 1991
+279,160253193,"Brian, Rene",M,Sumia 4,Self Employed,01 Jan 1975
+280,160253057,"Buka, Andapiri",M,Sumia 4,Student,01 Jan 1989
+281,160253157,"Buka, James",M,Sumia 4,Subsistence Farmer,01 Jan 1982
+282,160253063,"Buka, Kaka",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+283,160253064,"Buka, Karape",M,Sumia 4,Student,01 Jan 1990
+284,160253074,"Buka, Kupune",M,Sumia 4,Subsistence Farmer,01 Jan 1990
+285,160253205,"Buka, Ongeasi",M,Sumia 4,Subsistence Farmer,01 Jan 1986
+286,160253060,"Buka, Peter",M,Sumia 4,Student,01 Jan 1989
+287,160194315,"Haremo, Sosi",M,Sumia 4,Driver,19 Apr 1964
+288,160229724,"Hones, Benny",M,Sumia 4,Teacher,01 Jan 1967
+289,160229588,"Hones, Joshua",M,Sumia 4,Student,01 Jan 1973
+290,160253404,"Joel, Apa",M,Sumia 4,Subsistence Farmer,01 Jan 1990
+291,160253220,"Joel, Senis",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+292,160253065,"Joel, Tekipa",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+293,160229373,"John, Tommy",M,Sumia 4,Student,01 Jan 1973
+294,160254362,"Kaka, Rueben",M,Sumia 4,Self Employed,01 Jan 1980
+295,160253214,"Karapus, Kepu",M,Sumia 4,Subsistence Farmer,01 Jan 1978
+296,160253366,"Karapus, Wesis",M,Sumia 4,Self Employed,01 Jan 1984
+297,160227130,"Komape, Benny",M,Sumia 4,Subsistence Farmer,01 Jan 1978
+298,160253337,"Kopo, Wanis",M,Sumia 4,Self Employed,01 Jan 1989
+299,160253389,"Kuka, Desmon",M,Sumia 4,Engineer,01 Jan 1975
+300,160253388,"Kuka, Stanley",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+301,160121288,"Kundiri, Benson",M,Sumia 4,Subsistence Farmer,12 Aug 1996
+302,160253345,"Lalyo, Jeffery",M,Sumia 4,Student,01 Jan 1986
+303,160251929,"Lapun, Manuel",M,Sumia 4,Student,01 Jan 1987
+304,160188575,"Lemiah, Andrew",M,Sumia 4,Public Servant,01 Jan 1967
+305,160121289,"Leva, Steven",M,Sumia 4,Driver,02 May 1997
+306,160253252,"Maka, Josiah",M,Sumia 4,Lawyer,01 Jan 1986
+307,160253113,"Maka, Kelop",M,Sumia 4,Security,01 Jan 1987
+308,25080733,"Mangalu, Benjamin",M,Sumia 4,Student,18 Apr 2004
+309,25080735,"Mangalu, Gapi",M,Sumia 4,Self Employed,12 Jan 1974
+310,25080739,"Mangalu, Jeveniah",M,Sumia 4,Student,15 Apr 2004
+311,160137999,"Mangalu, Jimmy",M,Sumia 4,Student,04 Mar 1995
+312,160137997,"Mangalu, Nelson",M,Sumia 4,Manager,24 Jun 1984
+313,25087103,"Mangalu, Steven",M,Sumia 4,Self Employed,11 Feb 1990
+314,160121203,"Mangalum, Martin",M,Sumia 4,Security,25 Sep 1978
+315,160196063,"Mesi, Bun",M,Sumia 4,Subsistence Farmer,10 May 1985
+316,160445368,"Michael, Daniel",M,Sumia 4,Teacher,10 Feb 2001
+317,160121324,"Michael, Issiah",M,Sumia 4,Driver,02 May 1994
+318,160121323,"Michael, Numan",M,Sumia 4,Subsistence Farmer,01 Oct 1993
+319,160227013,"Michael, Pumi",M,Sumia 4,Subsistence Farmer,01 Jan 1945
+320,160254388,"Mupungap, Andrew",M,Sumia 4,Self Employed,01 Jan 1986
+321,160253429,"Mupungap, Belden",M,Sumia 4,Student,01 Jan 1992
+322,160254463,"Mupungap, Enso",M,Sumia 4,Subsistence Farmer,01 Jan 1990
+323,160253414,"Mupungap, Esop",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+324,160253425,"Mupungap, Goeffrey",M,Sumia 4,Student,01 Jan 1989
+325,160253416,"Mupungap, John",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+326,160253424,"Mupungap, Julius",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+327,160254385,"Mupungap, Kemina",M,Sumia 4,Subsistence Farmer,01 Jan 1978
+328,160253417,"Mupungap, Kepanda",M,Sumia 4,Subsistence Farmer,01 Jan 1990
+329,160253415,"Mupungap, Mutup",M,Sumia 4,Subsistence Farmer,01 Jan 1986
+330,160254387,"Mupungap, Norman",M,Sumia 4,Subsistence Farmer,01 Jan 1987
+331,160254383,"Mupungap, Ondapa",M,Sumia 4,Subsistence Farmer,01 Jan 1986
+332,160254349,"Mupungap, Simili",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+333,160253418,"Mupungap, Sumia",M,Sumia 4,Self Employed,01 Jan 1989
+334,160253275,"Nania, Mackay",M,Sumia 4,Student,01 Jan 1992
+335,160253274,"Nania, Nepson",M,Sumia 4,Student,01 Jan 1991
+336,160253230,"Nania, Temas",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+337,160121344,"Nelson, Jerah",M,Sumia 4,Student,02 Apr 1993
+338,160121342,"Nelson, Juniel",M,Sumia 4,Student,22 Jan 1998
+339,160445384,"Nethan, Gideon",M,Sumia 4,Security,05 Mar 2001
+340,160253207,"Onde, Don",M,Sumia 4,Self Employed,01 Jan 1989
+341,160253378,"Onde, James",M,Sumia 4,Security,01 Jan 1980
+342,160253375,"Onde, Kembiri",M,Sumia 4,Subsistence Farmer,01 Jan 1980
+343,160253390,"Onde, Kepolo",M,Sumia 4,Houseboy,01 Jan 1988
+344,160253391,"Onde, Peter",M,Sumia 4,Labourer,01 Jan 1989
+345,160253397,"Onde, Sikap",M,Sumia 4,Security,01 Jan 1985
+346,160253393,"Onde, Stanley",M,Sumia 4,Student,01 Jan 1981
+347,160253368,"Onde, Teme",M,Sumia 4,Student,01 Jan 1985
+348,160253373,"Onde, Yapla",M,Sumia 4,Household Duties,01 Jan 1987
+349,160253351,"Ondpi, Nakisi",M,Sumia 4,Subsistence Farmer,01 Jan 1987
+350,160254423,"Ones, Kemuel",M,Sumia 4,Student,01 Jan 1984
+351,160253437,"Ones, Nobert",M,Sumia 4,Student,01 Jan 1986
+352,160253285,"Ongurap, Charlie",M,Sumia 4,Subsistence Farmer,01 Jan 1975
+353,160253297,"Ongurap, Cotu",M,Sumia 4,Foreman,01 Jan 1986
+354,160253290,"Ongurap, Jared",M,Sumia 4,Subsistence Farmer,01 Jan 1984
+355,160253291,"Ongurap, Livai",M,Sumia 4,Student,01 Jan 1987
+356,160253372,"Onja, Enge",M,Sumia 4,Labourer,01 Jan 1987
+357,160121212,"Peter, Finley",M,Sumia 4,Student,05 Mar 1995
+358,160242956,"Peter, Gideon",M,Sumia 4,Student,28 Nov 1990
+359,160229637,"Peter, Kopeap",M,Sumia 4,Subsistence Farmer,01 Jan 1979
+360,160121207,"Peter, Mathew",M,Sumia 4,Policeman,23 Nov 1977
+361,160445395,"Peter, Sella",M,Sumia 4,Student,07 Mar 2003
+362,160445396,"Peter, Valla",M,Sumia 4,Student,11 Jul 2001
+363,160241735,"Petrus, Daren",M,Sumia 4,Student,19 Aug 1990
+364,160242921,"Petrus, Pondpis",M,Sumia 4,Student,01 Jan 1994
+365,160254372,"Pima, Apkas",M,Sumia 4,Self Employed,01 Jan 1990
+366,160254371,"Pima, Ben",M,Sumia 4,Subsistence Farmer,01 Jan 1988
+367,160254448,"Pima, Blacky",M,Sumia 4,Subsistence Farmer,01 Jan 1990
+368,160253430,"Pima, Clifford",M,Sumia 4,Carpenter,01 Jan 1987
+369,160254433,"Pima, Denzel",M,Sumia 4,Student,01 Jan 1987
+370,160253316,"Pima, Endeap",M,Sumia 4,Subsistence Farmer,01 Jan 1986
+371,160254447,"Pima, Imbun",M,Sumia 4,Subsistence Farmer,01 Jan 1990
+372,160254446,"Pima, Iscar",M,Sumia 4,Houseboy,01 Jan 1989
+373,160253313,"Pima, Jonah",M,Sumia 4,Student,01 Jan 1986
+374,160254431,"Pima, Judas",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+375,160254449,"Pima, Junior",M,Sumia 4,Student,01 Jan 1989
+376,160253426,"Pima, Kandre",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+377,160253308,"Pima, Maropo",M,Sumia 4,Security,01 Jan 1989
+378,160253312,"Pima, Michael",M,Sumia 4,Driver,01 Jan 1975
+379,160254432,"Pima, Penly",M,Sumia 4,Teacher,01 Jan 1990
+380,160253412,"Pima, Setrick",M,Sumia 4,Student,01 Jan 1987
+381,160254440,"Pima, Terri",M,Sumia 4,Business man,01 Jan 1986
+382,160253326,"Pope, Andrew",M,Sumia 4,Carpenter,01 Jan 1986
+383,160253435,"Pope, Angeme",M,Sumia 4,Subsistence Farmer,01 Jan 1978
+384,160253432,"Pope, Dia",M,Sumia 4,Teacher,01 Jan 1986
+385,160253438,"Pope, Henry",M,Sumia 4,Mechanic,01 Jan 1984
+386,160254424,"Pope, James",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+387,160254354,"Pope, John",M,Sumia 4,Subsistence Farmer,01 Jan 1986
+388,160253318,"Pope, Junior",M,Sumia 4,Student,01 Jan 1989
+389,160254363,"Pope, Kambe",M,Sumia 4,Subsistence Farmer,01 Jan 1991
+390,160253321,"Pope, Kengi",M,Sumia 4,Subsistence Farmer,01 Jan 1986
+391,160254356,"Pope, Pakip",M,Sumia 4,Subsistence Farmer,01 Jan 1987
+392,160253442,"Pope, Paul",M,Sumia 4,Self Employed,01 Jan 1987
+393,160254361,"Pope, Pinj",M,Sumia 4,Subsistence Farmer,01 Jan 1986
+394,160253440,"Pope, Pumi",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+395,160254357,"Pope, Ron",M,Sumia 4,Subsistence Farmer,01 Jan 1986
+396,160229456,"Pope, Steven",M,Sumia 4,Subsistence Farmer,01 Jan 1973
+397,160253331,"Pope, Sumi",M,Sumia 4,Subsistence Farmer,01 Jan 1986
+398,160253069,"Purasi, David",M,Sumia 4,Student,01 Jan 1985
+399,160253072,"Purasi, Rugula",M,Sumia 4,Student,01 Jan 1991
+400,160253083,"Purasi, Terry",M,Sumia 4,Student,01 Jan 1988
+401,160121188,"Simon, Cameron",M,Sumia 4,Computer Operator,01 Nov 1990
+402,160251927,"Simon, Erick",M,Sumia 4,Social Worker,01 Jan 1986
+403,160253162,"Simon, Esop",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+404,160445418,"Simon, Livinston",M,Sumia 4,Student,11 Mar 2004
+405,160121206,"Simon, Migen",M,Sumia 4,Student,23 Apr 1998
+406,160253260,"Soka, Alson",M,Sumia 4,Student,01 Jan 1989
+407,160253265,"Soka, Billy",M,Sumia 4,Student,01 Jan 1993
+408,160253264,"Soka, Bob",M,Sumia 4,Self Employed,01 Jan 1985
+409,160253116,"Soka, Keti",M,Sumia 4,Student,01 Jan 1989
+410,160252195,"Soka, Rakinda",M,Sumia 4,Houseboy,01 Jan 1991
+411,160253122,"Steven, Aron",M,Sumia 4,Carpenter,01 Jan 1992
+412,160253280,"Steven, Daniel",M,Sumia 4,Subsistence Farmer,01 Jan 1968
+413,160253229,"Steven, Glenton",M,Sumia 4,Subsistence Farmer,01 Jan 1968
+414,160253228,"Steven, Hosea",M,Sumia 4,Accountant,01 Jan 1985
+415,160229648,"Steven, Kupu",M,Sumia 4,Teacher,01 Jan 1975
+416,160241833,"Steven, Peter",M,Sumia 4,Doctor,18 Oct 1976
+417,160241830,"Steven, Robert",M,Sumia 4,Teacher,29 Nov 1979
+418,160242932,"Steven, Senbo",M,Sumia 4,Student,01 Jan 1994
+419,160121338,"Timothy, Andy",M,Sumia 4,Driver,03 Aug 1989
+420,160227329,"Timothy, Luke",M,Sumia 4,Subsistence Farmer,01 Jan 1961
+421,160137976,"Timothy, Rex",M,Sumia 4,Carpenter,01 Feb 1988
+422,160227006,"Toea, Luke",M,Sumia 4,Subsistence Farmer,01 Jan 1964
+423,160254375,"Wanpis, Ali",M,Sumia 4,Student,01 Jan 1985
+424,160253323,"Wanpis, Ato",M,Sumia 4,Subsistence Farmer,01 Jan 1975
+425,160253334,"Wanpis, Bradley",M,Sumia 4,Student,01 Jan 1987
+426,160254471,"Wanpis, Clement",M,Sumia 4,Student,01 Jan 1988
+427,160254437,"Wanpis, Derol",M,Sumia 4,Student,01 Jan 1987
+428,160254477,"Wanpis, Diwi",M,Sumia 4,Subsistence Farmer,01 Jan 1970
+429,160253325,"Wanpis, Engiap",M,Sumia 4,Subsistence Farmer,01 Jan 1970
+430,160254454,"Wanpis, Morgan",M,Sumia 4,Subsistence Farmer,01 Jan 1970
+431,160254368,"Wanpis, Perkins",M,Sumia 4,Self Employed,01 Jan 1970
+432,160253319,"Wanpis, Peter",M,Sumia 4,Security,01 Jan 1975
+433,160254367,"Wanpis, Roderick",M,Sumia 4,Clerk,01 Jan 1979
+434,160254443,"Wanpis, Rueben",M,Sumia 4,Self Employed,01 Jan 1978
+435,160254439,"Wanpis, Sepipa",M,Sumia 4,Household Duties,01 Jan 1989
+436,160253356,"Warea, Dan",M,Sumia 4,Student,01 Jan 1982
+437,160243188,"Warea, Oron",M,Sumia 4,Subsistence Farmer,25 Aug 1962
+438,160253367,"Warea, Paita",M,Sumia 4,Subsistence Farmer,01 Jan 1975
+439,160253377,"Waripa, Issac",M,Sumia 4,Student,01 Jan 1982
+440,160253376,"Waripa, Mark",M,Sumia 4,Subsistence Farmer,01 Jan 1975
+441,160253109,"Wesis, James",M,Sumia 4,Sister,01 Jan 1986
+442,160252202,"Wesis, Lombi",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+443,160254334,"Wesis, Micah",M,Sumia 4,Subsistence Farmer,01 Jan 1987
+444,160254333,"Wesis, Murumbu",M,Sumia 4,Carpenter,01 Jan 1981
+445,160254331,"Wesis, Pakena",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+446,160254329,"Wesis, Paul",M,Sumia 4,Store Keeper,01 Jan 1989
+447,160254418,"Wesis, Raphael",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+448,160252201,"Wesis, Samuel",M,Sumia 4,Student,01 Jan 1990
+449,160445459,"Wesis, Steward",M,Sumia 4,Carpenter,08 Feb 2002
+450,160253110,"Wesis, Tona",M,Sumia 4,Subsistence Farmer,01 Jan 1991
+451,160242958,"Yele, Kep",M,Sumia 4,Subsistence Farmer,19 Jun 1973
+452,160196974,"Yolop, Horon",M,Sumia 4,Subsistence Farmer,16 Mar 1954
+453,160253305,"Yoni, Benjamin",M,Sumia 4,Subsistence Farmer,01 Jan 1969
+454,160253221,"Yoni, Epkum",M,Sumia 4,Subsistence Farmer,01 Jan 1989
+455,160253117,"Yoni, Junior",M,Sumia 4,Student,01 Jan 1992
+456,160253123,"Yoni, Terry",M,Sumia 4,Subsistence Farmer,01 Jan 1986
+457,160230881,"Yum, Gabrol",M,Sumia 4,Driver,01 Jan 1949

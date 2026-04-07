@@ -1,0 +1,2279 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160167703,"Abo, Punde",F,Piambil 2,Household Duties,01 Jan 1946
+2,160185271,"Agelema pora, Maipalu",F,Piambil 2,Household Duties,01 Jan 1969
+3,160188582,"Aiko, Molina",F,Piambil 2,Household Duties,01 Jan 1965
+4,160167691,"Ake, Aniye",F,Piambil 2,Household Duties,01 Jan 1982
+5,160191344,"Ake, Kelly",F,Piambil 2,Household Duties,01 Jan 1981
+6,160191111,"Ake, Lepokae",F,Piambil 2,Household Duties,01 Jan 1966
+7,160159071,"Ake, Lioni",F,Piambil 2,Subsistence Farmer,07 Oct 1981
+8,160167704,"Ake, Nemelambo",F,Piambil 2,Household Duties,01 Jan 1949
+9,160193193,"Ake, Rebecca",F,Piambil 2,Household Duties,01 Jan 1970
+10,160210709,"Akowaiye, Cicilia",F,Piambil 2,Student,01 Jan 1989
+11,160210716,"Akowaiye, Dincy",F,Piambil 2,Student,01 Jan 1988
+12,160210150,"Akowaiye, Jenneth",F,Piambil 2,Student,01 Jan 1984
+13,160210714,"Akowaiye, Lowame",F,Piambil 2,Household Duties,01 Jan 1957
+14,160210708,"Akowaiye, Tenna",F,Piambil 2,Student,01 Jan 1989
+15,160160649,"Aldu, Engambo",F,Piambil 2,Household Duties,06 May 1969
+16,160160652,"Aldu, Josephine",F,Piambil 2,Student,01 Jan 1984
+17,160175740,"Ale, Magret",F,Piambil 2,Household Duties,01 Jan 1968
+18,160209971,"Alekou, Ltepuli",F,Piambil 2,Household Duties,01 Jan 1954
+19,160119102,"Alex, Alice",F,Piambil 2,Subsistence Farmer,17 Mar 1989
+20,160196303,"Alex, Mary",F,Piambil 2,Household Duties,05 Nov 1974
+21,160119105,"Alex, Pebi",F,Piambil 2,Student,16 Jul 1998
+22,25123635,"Alex, Ria",F,Piambil 2,Subsistence Farmer,15 Sep 2001
+23,160119103,"Alex, Yugini",F,Piambil 2,Subsistence Farmer,03 May 1991
+24,160176144,"Algo, Bekiine",F,Piambil 2,Student,06 Jul 1980
+25,160176016,"Algo, Rachael",F,Piambil 2,Student,22 Sep 1980
+26,160176140,"Algo, Wanhak",F,Piambil 2,Household Duties,18 Nov 1975
+27,160189812,"Alko, Nate",F,Piambil 2,Household Duties,01 Jan 1964
+28,25123637,"Allex, Docus",F,Piambil 2,Student,01 Apr 2004
+29,160186011,"Alpis, Lewa",F,Piambil 2,Sales Women,09 Nov 1971
+30,160167693,"Altu, Tagiye",F,Piambil 2,Household Duties,01 Jan 1970
+31,160167694,"Altu, Tongo",F,Piambil 2,Household Duties,01 Jan 1965
+32,160191345,"Ambere, Bepi",F,Piambil 2,Household Duties,01 Jan 1971
+33,160191125,"Ambere, Lucy",F,Piambil 2,Student,15 Nov 1984
+34,160193262,"Ambere, Mellen",F,Piambil 2,Household Duties,19 Mar 1982
+35,160191126,"Ambere, Netheny",F,Piambil 2,Student,23 Apr 1987
+36,160193258,"Ambere, Tarapi",F,Piambil 2,Household Duties,01 Jan 2000
+37,25123639,"Amenda, Joe",F,Piambil 2,Subsistence Farmer,14 Jun 2002
+38,160167706,"Amos, Susan",F,Piambil 2,Household Duties,01 Jan 2000
+39,160196973,"Amos, Yara",F,Piambil 2,Household Duties,01 Jan 1959
+40,160165368,"Anareya, Joy",F,Piambil 2,Student,01 Jan 2000
+41,160165367,"Anareya, Yereya",F,Piambil 2,Student,01 Jan 2000
+42,160165362,"Andareya, Mopune",F,Piambil 2,Household Duties,01 Jan 2000
+43,25123649,"Anema, Susan",F,Piambil 2,Student,13 Apr 2003
+44,160158828,"Anjo, Siye",F,Piambil 2,Subsistence Farmer,11 Aug 1981
+45,160163122,"Anoiye, Arambo",F,Piambil 2,Student,01 Jan 2000
+46,160163110,"Anoiye, Erambo",F,Piambil 2,Student,01 Jan 2000
+47,160163116,"Anoiye, Matany",F,Piambil 2,Student,01 Jan 2000
+48,160163118,"Anumu, Tombele",F,Piambil 2,Household Duties,01 Jan 2000
+49,160119099,"Apa, Agness",F,Piambil 2,Sales Women,16 Sep 1985
+50,160169274,"Apa, Onimebo",F,Piambil 2,Subsistence Farmer,23 Aug 1945
+51,25152825,"Ape, Alisha",F,Piambil 2,Student,11 Mar 2000
+52,160188413,"Ape, Enaino",F,Piambil 2,Household Duties,01 Jan 1972
+53,160136364,"Ape, Kewambo",F,Piambil 2,Subsistence Farmer,19 Mar 1984
+54,160191119,"Ape, Mis",F,Piambil 2,Household Duties,01 Jan 1989
+55,160193088,"Ape, Pokea",F,Piambil 2,Household Duties,01 Jan 1980
+56,160188042,"Ape, Pola",F,Piambil 2,Student,01 Jan 2000
+57,160119214,"Ape, Polline",F,Piambil 2,Student,24 May 1990
+58,160440707,"Ape, Rachael",F,Piambil 2,Housegirl,30 Oct 1991
+59,160119146,"Ape, Silvia",F,Piambil 2,Student,18 Apr 1998
+60,160193090,"Ape, Waigo",F,Piambil 2,Household Duties,01 Jan 1983
+61,160440450,"Artis, Raylyn",F,Piambil 2,Student,04 Jan 2003
+62,160119185,"Artis, Rose",F,Piambil 2,Household Duties,11 Jun 1991
+63,160189646,"Arume, Noki",F,Piambil 2,Household Duties,01 Jan 1955
+64,160169028,"Atega, Joey",F,Piambil 2,Subsistence Farmer,14 Sep 1983
+65,160160387,"Atega, Rose",F,Piambil 2,Household Duties,22 Dec 1977
+66,160169026,"Atega, Yarambo",F,Piambil 2,Household Duties,11 Nov 1972
+67,160167449,"Atenga, Mopune",F,Piambil 2,Household Duties,01 Jan 1978
+68,160158917,"Baipe, Ais",F,Piambil 2,Household Duties,01 Jan 1969
+69,160215414,"Baipe, Christina",F,Piambil 2,Household Duties,01 Jan 2000
+70,160216014,"Baipe, Denny",F,Piambil 2,Student,01 Jan 1988
+71,160215418,"Baipe, Hange",F,Piambil 2,Student,01 Jan 1985
+72,160198746,"Baisu, Rosely",F,Piambil 2,Household Duties,01 Jan 1979
+73,160184968,"Balus, We",F,Piambil 2,Household Duties,03 May 1962
+74,160180368,"Bembo, Joy",F,Piambil 2,Student,01 Jan 1980
+75,160210130,"Bembo, Lucy",F,Piambil 2,Household Duties,01 Jan 1976
+76,160177902,"Bembo, Nanol",F,Piambil 2,Household Duties,01 Jan 1969
+77,160440628,"Ben, Hepdriel",F,Piambil 2,Student,08 Apr 2004
+78,160188514,"Benjaman, Jenifer",F,Piambil 2,Housegirl,01 Jan 1978
+79,160167702,"Benjamin, Agnes",F,Piambil 2,Household Duties,01 Jan 1986
+80,160158831,"Biket, Jennet",F,Piambil 2,Household Duties,01 Jan 1978
+81,160136200,"Billy, Auila",F,Piambil 2,Student,04 Dec 1994
+82,160165378,"Billy, Jally",F,Piambil 2,Student,01 Jan 1982
+83,160165375,"Billy, Normaru",F,Piambil 2,Household Duties,01 Jan 2000
+84,160119270,"Billy, Racheal",F,Piambil 2,Subsistence Farmer,16 Apr 1995
+85,160440408,"Bob, Cendra",F,Piambil 2,Student,16 Mar 2001
+86,160198542,"Bob, Joy",F,Piambil 2,Student,01 Jan 1980
+87,160440409,"Bob, Leony",F,Piambil 2,Student,17 Jun 2003
+88,160165637,"Bob, Pingumb",F,Piambil 2,Household Duties,01 Jan 1976
+89,160180776,"Boke, Kumime",F,Piambil 2,Household Duties,01 Jan 1942
+90,160190685,"Bop, Pingim",F,Piambil 2,Household Duties,01 Jan 1972
+91,160189744,"Bop, Prisila",F,Piambil 2,Student,01 Jan 1988
+92,25141936,"Brenda, Joel",F,Piambil 2,Subsistence Farmer,04 Jun 2003
+93,25123661,"Bruse, Shemila",F,Piambil 2,Student,28 Apr 2004
+94,160440293,"Bula, Judy",F,Piambil 2,Student,22 Jul 2001
+95,160165356,"Bulde, Marria",F,Piambil 2,Household Duties,01 Jan 2000
+96,160201856,"Buldul, Elpa",F,Piambil 2,Household Duties,01 Jan 1960
+97,160169055,"Bunungu, Telwal",F,Piambil 2,Household Duties,01 Jan 1967
+98,160169056,"Bunungu, Weli",F,Piambil 2,Student,01 Jan 1987
+99,160211363,"Cathy, Tuwa",F,Piambil 2,Housegirl,01 Jan 1985
+100,25123662,"Charity, Kipe",F,Piambil 2,Subsistence Farmer,20 Jun 1996
+101,160169084,"Daip, Kaip",F,Piambil 2,Sales Women,07 Dec 1985
+102,160171921,"Daipe, Joyce",F,Piambil 2,Household Duties,01 Jan 2000
+103,160139983,"Daiye, Catty",F,Piambil 2,Student,01 Jan 2000
+104,160169181,"Daiye, Jully",F,Piambil 2,Household Duties,01 Jan 1978
+105,160139982,"Daiye, Kangie",F,Piambil 2,Household Duties,01 Jan 2000
+106,160440495,"Daiye, Niomi",F,Piambil 2,Student,07 Aug 2001
+107,160153027,"Daiye, Rooney",F,Piambil 2,Household Duties,01 Jan 2000
+108,160139984,"Daiye, Stella",F,Piambil 2,Student,01 Jan 2000
+109,160215726,"Daiye, Yandi",F,Piambil 2,Household Duties,01 Jan 1958
+110,160136223,"Daniel, Grace",F,Piambil 2,Store Keeper,12 Nov 1984
+111,160210585,"Daniel, Melly",F,Piambil 2,Household Duties,01 Jan 1977
+112,160440694,"Daniel, Mona",F,Piambil 2,Household Duties,28 Jun 1993
+113,160187605,"Daraka, Anna",F,Piambil 2,Household Duties,01 Jan 1970
+114,160440369,"Dasip, Dorin",F,Piambil 2,Student,01 May 2003
+115,160440368,"Dasip, Semila",F,Piambil 2,Student,28 Apr 2001
+116,25152827,"Dau, Lenita",F,Piambil 2,Student,29 Jul 2003
+117,160440605,"David, Elepe",F,Piambil 2,Subsistence Farmer,28 Jan 2004
+118,160119123,"David, Emly",F,Piambil 2,Student,28 Apr 1998
+119,160119124,"David, Ria",F,Piambil 2,Student,11 Feb 1999
+120,160182712,"David, Rosa",F,Piambil 2,Household Duties,01 Jan 1969
+121,160440336,"David, Vinela",F,Piambil 2,Student,05 Apr 2002
+122,160177478,"Dawon, Marry",F,Piambil 2,Household Duties,01 Jan 1980
+123,160177479,"Dawon, Pepaleen",F,Piambil 2,Student,01 Jan 1981
+124,25123670,"Delema, Joe",F,Piambil 2,Teacher,13 Mar 2002
+125,160119332,"Dickson, Jenifer",F,Piambil 2,Typist,13 Feb 1996
+126,160440617,"Dickson, Olivia",F,Piambil 2,Student,28 Mar 2004
+127,160204143,"Diwa, Jennifer",F,Piambil 2,Household Duties,01 Jan 1980
+128,160165697,"Doemb, Daina",F,Piambil 2,Household Duties,01 Jan 1981
+129,160195754,"Doemb, Rosely",F,Piambil 2,Household Duties,01 Jan 1983
+130,160155881,"Doketa, Yuwine",F,Piambil 2,Household Duties,14 Dec 1965
+131,160196976,"Dot, Elem",F,Piambil 2,Household Duties,01 Jan 1951
+132,160213725,"Dowa, Bubeyag",F,Piambil 2,Household Duties,09 Feb 1972
+133,160197075,"Dowa, Rosely",F,Piambil 2,Store Keeper,01 Jan 1982
+134,160185255,"Du dosip, Betty",F,Piambil 2,Household Duties,01 Jan 1986
+135,160167453,"Dupi, Kiye",F,Piambil 2,Household Duties,01 Jan 1966
+136,25123672,"Eli, Albert",F,Piambil 2,Student,20 Jun 2001
+137,160198905,"Enge, Guli",F,Piambil 2,Household Duties,01 Jan 1966
+138,160201453,"Enge, Tomambo",F,Piambil 2,Household Duties,01 Jan 1976
+139,160155774,"Erike, Teng",F,Piambil 2,Household Duties,01 Jan 1900
+140,160198485,"Etena, Simbulu",F,Piambil 2,Household Duties,01 Jan 1969
+141,160216052,"Etena, Tubulu",F,Piambil 2,Household Duties,01 Jan 2000
+142,25123673,"Evonnah, Mar",F,Piambil 2,Subsistence Farmer,16 Jun 1980
+143,160440311,"Felex, Casia",F,Piambil 2,Student,27 Jul 2003
+144,160218206,"Frank, Lovina",F,Piambil 2,Student,01 Jan 1984
+145,160218203,"Frank, Stelina",F,Piambil 2,Student,01 Jan 1981
+146,160167536,"Ganji, Pepena",F,Piambil 2,Household Duties,04 Aug 1970
+147,160187628,"Garu, Betty",F,Piambil 2,Household Duties,01 Jan 2000
+148,160153043,"Garu, Carrol",F,Piambil 2,Student,01 Jan 1986
+149,160153040,"Garu, Grace",F,Piambil 2,Household Duties,01 Jan 2000
+150,160153036,"Garu, Kemu",F,Piambil 2,Household Duties,01 Jan 2000
+151,160193242,"Garu, Kumbiye",F,Piambil 2,Household Duties,01 Jan 1969
+152,160153042,"Garu, Lenita",F,Piambil 2,Student,01 Jan 2000
+153,160119095,"Garu, Lina",F,Piambil 2,Household Duties,16 Apr 1987
+154,160139972,"Garu, Rebecca",F,Piambil 2,Student,01 Jan 1982
+155,160153195,"Garu, Ronda",F,Piambil 2,Student,01 Jan 2000
+156,160193244,"Garu, Tenis",F,Piambil 2,Household Duties,01 Jan 1978
+157,160201458,"Garu, Yuwini",F,Piambil 2,Household Duties,01 Jan 1974
+158,160162725,"George, Hellen",F,Piambil 2,Household Duties,01 Jan 2000
+159,160182630,"Gepiri, Enna",F,Piambil 2,Sales Women,02 Jun 1981
+160,160440684,"Gibson, Charity",F,Piambil 2,Student,14 Feb 1997
+161,25123678,"Gift, Inga",F,Piambil 2,Student,27 Feb 1999
+162,160176021,"Gini, Kulumbu",F,Piambil 2,Household Duties,01 Jan 1954
+163,160162894,"Giwa, Mapele",F,Piambil 2,Household Duties,01 Jan 1946
+164,160213408,"Glen, Elis",F,Piambil 2,Household Duties,09 May 1970
+165,25123679,"Glenda, Timothy",F,Piambil 2,Student,24 Jun 2001
+166,160201899,"Gloraiye, Laki",F,Piambil 2,Typist,01 Jan 1978
+167,160177899,"Gloraiye, Miti",F,Piambil 2,Household Duties,01 Jan 1965
+168,160202107,"Goraie, Maria",F,Piambil 2,Household Duties,01 Jan 1950
+169,160198493,"Goraiye, Popenga",F,Piambil 2,Household Duties,01 Jan 1979
+170,160201234,"Goraye, Dorothy",F,Piambil 2,Household Duties,01 Jan 1988
+171,160203644,"Goraye, Marea",F,Piambil 2,Household Duties,01 Jan 1938
+172,160203649,"Goraye, Polin",F,Piambil 2,Household Duties,01 Jan 1980
+173,160204508,"Goraye, Ruth",F,Piambil 2,Household Duties,01 Jan 1986
+174,160440320,"Gram, Jelita",F,Piambil 2,Student,16 May 2001
+175,160187637,"Gris, Terris",F,Piambil 2,Household Duties,01 Jan 1980
+176,25123680,"Gula, Etna",F,Piambil 2,Student,12 Jun 2000
+177,25123681,"Gula, Racheal",F,Piambil 2,Household Duties,28 Apr 1990
+178,25123683,"Gulas, Jecinta",F,Piambil 2,Student,04 Sep 2000
+179,160119297,"Gule, Jully",F,Piambil 2,Teacher,13 Jun 1983
+180,160440489,"Gule, Merolyn",F,Piambil 2,Student,26 Aug 2002
+181,160119298,"Gule, Staplyn",F,Piambil 2,Student,25 Nov 1986
+182,160194607,"Guru, Peamd",F,Piambil 2,Household Duties,01 Jan 2000
+183,25123684,"Harry, Doris",F,Piambil 2,Student,19 Jun 1998
+184,25123685,"Harry, Polin",F,Piambil 2,Student,29 May 1998
+185,25123686,"Harry, Serah",F,Piambil 2,Student,18 Mar 2003
+186,160194426,"Harur, Kina",F,Piambil 2,Household Duties,01 Jan 1978
+187,160190545,"Harur, Toea",F,Piambil 2,Household Duties,01 Jan 1984
+188,160169183,"Hawks, Mote",F,Piambil 2,Household Duties,01 Jan 1966
+189,160175731,"Hawks, Velma",F,Piambil 2,Student,03 Nov 1980
+190,160176138,"Hepi, Babelian",F,Piambil 2,Household Duties,20 Nov 1972
+191,160189800,"Holand, Margeret",F,Piambil 2,Household Duties,01 Jan 1972
+192,160162910,"Hule, Tenis",F,Piambil 2,Housegirl,01 Jan 1986
+193,160167537,"Hule, Wile",F,Piambil 2,Subsistence Farmer,01 Jan 1960
+194,160155973,"Ian, Agnes",F,Piambil 2,Household Duties,01 Jan 1978
+195,160136202,"Iko, Sendra",F,Piambil 2,Subsistence Farmer,15 Feb 1994
+196,160196783,"Iko, Suna",F,Piambil 2,Household Duties,01 Jan 1950
+197,160196938,"Iko, Tendegla",F,Piambil 2,Household Duties,01 Jan 1900
+198,160153574,"Ikom, Docas",F,Piambil 2,Student,01 Jan 1984
+199,160136322,"Ina, Goria",F,Piambil 2,Household Duties,15 Sep 1986
+200,160201340,"Ipo, Ulu",F,Piambil 2,Household Duties,01 Jan 2000
+201,160119116,"Irex, Lyn",F,Piambil 2,Student,06 Mar 1998
+202,160440762,"Isaia, Joice",F,Piambil 2,Household Duties,15 Feb 2003
+203,25123689,"Iuke, Janet",F,Piambil 2,Student,18 Apr 2004
+204,25123693,"Jackob, Merolyn",F,Piambil 2,Household Duties,17 Nov 1990
+205,25123694,"Jackson, Joselyu",F,Piambil 2,Household Duties,10 Jun 1998
+206,160178020,"Jackson, Joylyn",F,Piambil 2,Household Duties,01 Jan 1982
+207,25123695,"Jackson, Nonda",F,Piambil 2,Student,12 Apr 1999
+208,25123696,"Jackson, Ruth",F,Piambil 2,Subsistence Farmer,16 Apr 1999
+209,160440651,"Jacob, Angilyn",F,Piambil 2,Student,01 Nov 2003
+210,160182959,"Jacob, Jenny",F,Piambil 2,Household Duties,19 Apr 1979
+211,25123698,"Jacob, Lilian",F,Piambil 2,Student,26 Apr 2000
+212,25123699,"Jacob, Noiye",F,Piambil 2,Student,13 Apr 2001
+213,160182572,"Jacob, Regina",F,Piambil 2,Household Duties,01 Jan 1974
+214,160119337,"James, Carol",F,Piambil 2,Household Duties,19 Nov 1996
+215,25123701,"James, Carolyn",F,Piambil 2,Student,17 Jan 2004
+216,160119125,"James, Cathy",F,Piambil 2,Teacher,11 Oct 1987
+217,160196879,"James, Jacklyn",F,Piambil 2,Student,01 Jan 2000
+218,160136203,"James, Jamsicca",F,Piambil 2,Student,23 Jul 1998
+219,25123707,"James, Lyneth",F,Piambil 2,Student,15 Mar 2000
+220,160136221,"Jane, Chesia",F,Piambil 2,Student,12 Oct 1996
+221,160155767,"Janet, Thomas",F,Piambil 2,Household Duties,26 Apr 1982
+222,25123710,"Jaycelyn, Joe",F,Piambil 2,Student,11 Dec 2000
+223,160218926,"Jayson, Mala",F,Piambil 2,Household Duties,01 Jan 1982
+224,25123711,"Jayson, Ronda",F,Piambil 2,Household Duties,29 Jun 2003
+225,160119087,"Jeff, Joena",F,Piambil 2,Student,12 Feb 1999
+226,160119085,"Jeff, Masea",F,Piambil 2,Student,12 Jan 1996
+227,25123712,"Jeff, Sendra",F,Piambil 2,Student,01 Jun 1998
+228,160440766,"Jeffery, Judy",F,Piambil 2,Household Duties,01 Feb 2003
+229,160440571,"Jeffery, Stella",F,Piambil 2,Student,28 Apr 2004
+230,25123714,"Jeniffer, Joe",F,Piambil 2,Cleaner,12 Apr 2001
+231,160155887,"Jeniffer, Noma",F,Piambil 2,Household Duties,02 May 1984
+232,160160176,"Jenny, Mark",F,Piambil 2,Typist,13 Jan 1979
+233,160199132,"Jenny, Mek",F,Piambil 2,Household Duties,01 Jan 1981
+234,25123716,"Jeremaih, Lijjy",F,Piambil 2,Student,14 Jul 1999
+235,160119248,"Jerry, Geraldine",F,Piambil 2,Subsistence Farmer,15 Apr 1985
+236,25123718,"Jerry, Judith",F,Piambil 2,Student,28 Sep 2001
+237,160440604,"Jerry, Melin",F,Piambil 2,Student,08 Apr 2004
+238,25123719,"Jerry, Tamale",F,Piambil 2,Student,28 Sep 2002
+239,160440658,"Jetro, Elis",F,Piambil 2,Student,25 Feb 2001
+240,160190870,"Jimi, Pukiri",F,Piambil 2,Household Duties,01 Jan 1972
+241,160440781,"Jimren, Jacklyn",F,Piambil 2,Household Duties,15 Mar 2003
+242,160193127,"Jimy, Atenga",F,Piambil 2,Household Duties,01 Jan 1979
+243,160193706,"Jimy, Sthepheny",F,Piambil 2,Student,29 Feb 1984
+244,25123723,"Joe, Magret",F,Piambil 2,Student,08 Oct 2000
+245,25123725,"Joeana, Onolu",F,Piambil 2,Student,12 Apr 2004
+246,160182991,"John, Lala",F,Piambil 2,Household Duties,01 Jan 1980
+247,160158847,"John, Repica",F,Piambil 2,Student,10 May 1972
+248,160193117,"John, Resol",F,Piambil 2,Household Duties,01 Jan 1967
+249,25123735,"John, Shina",F,Piambil 2,Student,15 Jul 1991
+250,160171794,"John, Sina",F,Piambil 2,Household Duties,01 Jan 2000
+251,25123736,"John, Sinda",F,Piambil 2,Student,20 May 1999
+252,160440322,"John, Taimerly",F,Piambil 2,Student,10 Jan 2001
+253,160439944,"John, Tuta",F,Piambil 2,Student,10 Nov 2000
+254,160183002,"John, Wanita",F,Piambil 2,Household Duties,18 Mar 1969
+255,160440273,"Johnsan, Esther",F,Piambil 2,Student,10 Nov 2001
+256,160169413,"Joselyn, Simbil",F,Piambil 2,Household Duties,12 Oct 1977
+257,160136358,"Joseph, Cathy",F,Piambil 2,Household Duties,21 Jul 1979
+258,160119167,"Joseph, Hellen",F,Piambil 2,Nurse,12 Jan 1984
+259,160119168,"Joseph, Kombu",F,Piambil 2,Student,11 Feb 1998
+260,160136214,"Joseph, Lina",F,Piambil 2,Baby Sitter,26 Apr 1998
+261,160185901,"Joseph, Merolyn",F,Piambil 2,Student,01 Jan 2000
+262,160185899,"Joseph, Wandea",F,Piambil 2,Household Duties,01 Jan 2000
+263,25123744,"Joshua, Britoni",F,Piambil 2,Student,11 Apr 2004
+264,25123745,"Joshua, Esther",F,Piambil 2,Teacher,11 Jun 1995
+265,25123746,"Josuah, Joendra",F,Piambil 2,Student,21 Nov 2000
+266,25123747,"Jucas, Sovia",F,Piambil 2,Typist,11 Mar 1998
+267,25123748,"Julie, Nene",F,Piambil 2,Student,06 Apr 1996
+268,160187045,"Kaiku, Mopune",F,Piambil 2,Household Duties,01 Jan 1968
+269,160216247,"Kaila, Kulumbu",F,Piambil 2,Household Duties,10 Jan 1931
+270,160159044,"Kaila, Tauwele",F,Piambil 2,Household Duties,01 Jan 1970
+271,160201337,"Kaile, Karo",F,Piambil 2,Household Duties,01 Jan 2000
+272,160201344,"Kaile, Las",F,Piambil 2,Student,01 Jan 2000
+273,160188703,"Kaile, Makizele",F,Piambil 2,Household Duties,05 Mar 1961
+274,160201343,"Kaile, Mata",F,Piambil 2,Household Duties,01 Jan 2000
+275,160167682,"Kailye, Machlina",F,Piambil 2,Household Duties,01 Jan 1982
+276,160119367,"Kake, Hellen",F,Piambil 2,Household Duties,23 Oct 1984
+277,160190006,"Kakotol, Kinia",F,Piambil 2,Household Duties,01 Jan 1940
+278,160198347,"Kakotoli toiye, Bepi",F,Piambil 2,Household Duties,01 Jan 1981
+279,160171771,"Kaku, Kumbie",F,Piambil 2,Household Duties,01 Jan 1970
+280,160177884,"Kaliye, Janet",F,Piambil 2,Student,01 Jan 1959
+281,160167688,"Kaliye, Lambu",F,Piambil 2,Household Duties,01 Jan 1990
+282,160440267,"Kalop, Shirlyn",F,Piambil 2,Student,01 Nov 2001
+283,160194416,"Kaltya, Pukimbi",F,Piambil 2,Household Duties,01 Jan 1974
+284,160196307,"Kambika, Jack",F,Piambil 2,Subsistence Farmer,01 Jan 2000
+285,160190544,"Kanambo, Yarambo",F,Piambil 2,Household Duties,01 Jan 1969
+286,160119161,"Kanj, Matani",F,Piambil 2,Baby Sitter,13 Jan 1997
+287,160169238,"Kanol, Kate",F,Piambil 2,Household Duties,06 Nov 1945
+288,160190678,"Kanombo, Trende",F,Piambil 2,Household Duties,01 Jan 1982
+289,160194255,"Kanombo, Yongo",F,Piambil 2,Student,01 Jan 1976
+290,160171787,"Kansol, Lina",F,Piambil 2,Household Duties,01 Jan 2000
+291,160196658,"Kapa, Soti",F,Piambil 2,Student,01 Jan 1983
+292,160440716,"Kapale, Enjola",F,Piambil 2,Household Duties,28 May 2001
+293,25123753,"Kapola, Joyce",F,Piambil 2,Student,16 Apr 1997
+294,160155989,"Kapolo, Ainjo",F,Piambil 2,Household Duties,01 Jan 2000
+295,160155884,"Kapolo, Hella",F,Piambil 2,Household Duties,01 Jan 1984
+296,160175816,"Kapolo, Kusa",F,Piambil 2,Household Duties,01 Jan 1959
+297,160155888,"Kapolo, Lucy",F,Piambil 2,Student,01 Jan 1987
+298,160182558,"Kapolo, Olioca",F,Piambil 2,Household Duties,01 Jan 1979
+299,160171762,"Kapolo, Somere",F,Piambil 2,Housegirl,01 Jan 1979
+300,160183053,"Kapolo, Yaile",F,Piambil 2,Household Duties,01 Jan 1959
+301,160185258,"Kapu kingi, Pereyame",F,Piambil 2,Household Duties,01 Jan 1973
+302,160136340,"Kara, Elly",F,Piambil 2,Household Duties,16 May 1986
+303,160175737,"Kara, Yong",F,Piambil 2,Household Duties,01 Jan 1960
+304,160173201,"Karapoi, Jente",F,Piambil 2,Student,03 Sep 1980
+305,160185886,"Karapoi, Kopel",F,Piambil 2,Household Duties,02 Aug 1968
+306,160440687,"Karapoi, Lavina",F,Piambil 2,Student,28 Mar 1998
+307,160218920,"Karapus, Roseline",F,Piambil 2,Household Duties,01 Jan 1962
+308,160201861,"Kari, Leli",F,Piambil 2,Household Duties,01 Jan 1982
+309,160201862,"Kari, Obang",F,Piambil 2,Household Duties,01 Jan 1960
+310,160196513,"Kari, Polin",F,Piambil 2,Household Duties,01 Jan 1979
+311,160185136,"Kari, Tangando",F,Piambil 2,Household Duties,01 Jan 1950
+312,160204531,"Kari, Waigo",F,Piambil 2,Household Duties,01 Jan 1984
+313,160204703,"Kari, Wengi",F,Piambil 2,Student,01 Jan 1988
+314,160160312,"Kari tapu, Inomuru",F,Piambil 2,Household Duties,01 Jan 1974
+315,160440681,"Kawa, Rose",F,Piambil 2,Student,12 Feb 2001
+316,160212507,"Keap, Pokeyemen",F,Piambil 2,Household Duties,06 Mar 1963
+317,160193188,"Kedikiye, Noo",F,Piambil 2,Household Duties,01 Jan 1946
+318,160218214,"Keleli, Wako",F,Piambil 2,Household Duties,01 Jan 1972
+319,160440298,"Kelep, Nancy",F,Piambil 2,Student,14 Feb 2003
+320,160193284,"Kelka, Sendra",F,Piambil 2,Household Duties,01 Jan 1985
+321,160159046,"Kelkai, Kina",F,Piambil 2,Typist,01 Jan 1969
+322,160440297,"Ken, Jenny",F,Piambil 2,Student,11 Feb 2004
+323,160440296,"Ken, Lenny",F,Piambil 2,Student,11 Oct 2001
+324,160187750,"Keni, Popenge",F,Piambil 2,Household Duties,01 Jan 1982
+325,160201468,"Kepa, Kaka",F,Piambil 2,Household Duties,01 Jan 1975
+326,25123761,"Kepa, Kepadi",F,Piambil 2,Student,13 Apr 1997
+327,160191368,"Kepa, Lina",F,Piambil 2,Household Duties,01 Jan 1977
+328,160440402,"Kepa, Maya",F,Piambil 2,Student,16 Sep 2003
+329,160201471,"Kepa, Nareno",F,Piambil 2,Household Duties,01 Jan 1932
+330,160189821,"Kepikiye, Warea",F,Piambil 2,Household Duties,01 Jan 2000
+331,160440679,"Kera, Melonie",F,Piambil 2,Student,08 Jan 1999
+332,160190904,"Kerowa, Cathy",F,Piambil 2,Student,01 Jan 1986
+333,160197089,"Kerowa, Wat",F,Piambil 2,Subsistence Farmer,01 Jan 1966
+334,160173814,"Kewa, Bepi",F,Piambil 2,Student,01 Jan 1985
+335,160119319,"Kewa, Betty",F,Piambil 2,Household Duties,01 Jun 1986
+336,160185962,"Kewa, Christina",F,Piambil 2,Household Duties,01 Jan 1980
+337,160440059,"Kewa, Famila",F,Piambil 2,Student,14 Sep 2003
+338,160440432,"Kewa, Grace",F,Piambil 2,Typist,18 May 2000
+339,160156069,"Kewa, Hellen",F,Piambil 2,Housegirl,01 Jan 1974
+340,160119320,"Kewa, Jenny",F,Piambil 2,Student,11 Oct 1996
+341,160440062,"Kewa, Johnson",F,Piambil 2,Carpenter,15 Apr 2002
+342,160185062,"Kewa, Joycee",F,Piambil 2,Student,01 Jan 1989
+343,160180308,"Kewa, Kalopera",F,Piambil 2,Household Duties,01 Jan 1986
+344,160197094,"Kewa, Kolge",F,Piambil 2,Household Duties,01 Jan 1957
+345,160119273,"Kewa, Malin",F,Piambil 2,Student,30 Jul 1995
+346,160440054,"Kewa, Marine",F,Piambil 2,Student,15 Aug 2003
+347,160440060,"Kewa, Normin",F,Piambil 2,Student,15 Jun 2003
+348,160155801,"Kewa, Pilimbo",F,Piambil 2,Household Duties,01 Jan 1959
+349,160440063,"Kewa, Soluina",F,Piambil 2,Teacher,14 Aug 2001
+350,160187040,"Kewa, Uwanis",F,Piambil 2,Household Duties,01 Jan 1961
+351,160440057,"Kewa, Weleni",F,Piambil 2,Student,15 Nov 2002
+352,160440055,"Kewa, Welin",F,Piambil 2,Student,20 Apr 2003
+353,160182978,"Kewapia, Kutus",F,Piambil 2,Household Duties,01 Jan 1957
+354,160184901,"Keya, Vero",F,Piambil 2,Teacher,01 Jan 1982
+355,160219001,"Kiaka, Jenery",F,Piambil 2,Household Duties,01 Jan 1987
+356,160187754,"Kili, Moe",F,Piambil 2,Household Duties,01 Jan 1987
+357,160189973,"Kilroy, Gena",F,Piambil 2,Student,23 Jan 1984
+358,160119239,"Kio, Mary",F,Piambil 2,Student,02 Jan 1995
+359,160213370,"Kipungi, Kolandi",F,Piambil 2,Household Duties,01 May 1900
+360,160209951,"Kipungi, Magrate",F,Piambil 2,Household Duties,01 Mar 1900
+361,160217616,"Kisip, Anna",F,Piambil 2,Store Keeper,01 Jan 1972
+362,160217982,"Kisip, Kenda",F,Piambil 2,Household Duties,01 Jan 1950
+363,160186964,"Kisip, Kopol",F,Piambil 2,Household Duties,01 Jan 1960
+364,160180777,"Kiwabo, Roselyn",F,Piambil 2,Household Duties,01 Jan 1982
+365,160196132,"Kiyopa alfred, Betty",F,Piambil 2,Household Duties,01 Jan 1986
+366,160189953,"Koi, Joice",F,Piambil 2,Household Duties,01 Jan 1973
+367,160119238,"Koi, Lilien",F,Piambil 2,Teacher,04 Sep 1993
+368,160193176,"Koi, Pelame",F,Piambil 2,Household Duties,01 Jan 1969
+369,160190177,"Koipa, Jenet",F,Piambil 2,Household Duties,16 Sep 1988
+370,160189819,"Kokipo, Kowa",F,Piambil 2,Household Duties,01 Jan 1952
+371,160190005,"Kokipo, Yawame",F,Piambil 2,Household Duties,01 Jan 1960
+372,160167285,"Kola, Ambuoli",F,Piambil 2,Household Duties,01 Jan 2000
+373,160163104,"Kola, Leah",F,Piambil 2,Student,01 Jan 1983
+374,160186056,"Kolakulu, Tangondo",F,Piambil 2,Household Duties,17 Dec 1969
+375,160188526,"Kolapi, Lombu",F,Piambil 2,Household Duties,01 Jan 1954
+376,160188633,"Kolowa, Miriye",F,Piambil 2,Household Duties,01 Jan 1962
+377,160440682,"Kolowa, Regina",F,Piambil 2,Student,01 Oct 2001
+378,160203656,"Kombalino, Mclian",F,Piambil 2,Student,01 Jan 1985
+379,160188196,"Kombani, Pure",F,Piambil 2,Household Duties,01 Jan 1970
+380,160190328,"Kombani, Yanambo",F,Piambil 2,Household Duties,01 Jan 1975
+381,160440748,"Kombe, Kemu",F,Piambil 2,Household Duties,20 Dec 2000
+382,160188574,"Kombea, Repa",F,Piambil 2,Household Duties,01 Jan 1971
+383,160213407,"Kombola, Estha",F,Piambil 2,Household Duties,01 Jan 1972
+384,160196283,"Kome, Dalin",F,Piambil 2,Household Duties,01 Jan 1971
+385,160189811,"Kome, Jenny",F,Piambil 2,Household Duties,01 Jan 2000
+386,160212397,"Komen, Tina",F,Piambil 2,Household Duties,01 Jan 1972
+387,160213572,"Komon, Jully",F,Piambil 2,Housegirl,01 Jan 1984
+388,160210164,"Komon, Kisil",F,Piambil 2,Household Duties,01 Jan 1973
+389,160198438,"Komon, Net",F,Piambil 2,Household Duties,14 Dec 1981
+390,160201211,"Konde, Mune",F,Piambil 2,Household Duties,01 Jan 1953
+391,160201214,"Konde, Susan",F,Piambil 2,Household Duties,01 Jan 1980
+392,160183212,"Kondi, Ewa",F,Piambil 2,Household Duties,01 Jan 1980
+393,160193093,"Kondi, Keleli",F,Piambil 2,Household Duties,01 Jan 1980
+394,160213376,"Kondi, Leni",F,Piambil 2,Household Duties,12 Mar 1968
+395,160188247,"Kondi, Lina",F,Piambil 2,Household Duties,01 Jan 1972
+396,160213373,"Kondis, Anna",F,Piambil 2,Household Duties,01 Jan 1974
+397,160212513,"Kongil, Monpune",F,Piambil 2,Household Duties,16 Dec 1968
+398,160211374,"Kongil, Rosily",F,Piambil 2,Household Duties,05 Feb 1987
+399,160218830,"Konjili, Lucy",F,Piambil 2,Student,01 Jan 1984
+400,160220688,"Konjili, Mata",F,Piambil 2,Household Duties,01 Jan 1966
+401,160186974,"Konjili, Sali",F,Piambil 2,Student,01 Jan 1983
+402,160217771,"Konjili, Veronica",F,Piambil 2,Student,01 Jan 1988
+403,160173727,"Koparoi, Dali",F,Piambil 2,Household Duties,01 Jan 1965
+404,160175860,"Koparoi, Sera",F,Piambil 2,Household Duties,01 Jan 1981
+405,160222409,"Kopi, Maria",F,Piambil 2,Household Duties,01 Jan 1961
+406,160158855,"Kopino, Kapis",F,Piambil 2,Household Duties,01 Jan 2000
+407,25123766,"Koraiye, Neka",F,Piambil 2,Student,14 Feb 1999
+408,160187677,"Koroba, Letepoli",F,Piambil 2,Household Duties,01 Jan 1961
+409,160160168,"Koroka, Antena",F,Piambil 2,Household Duties,01 Jan 1970
+410,160185286,"Koromba, Rumbame",F,Piambil 2,Household Duties,01 Jan 1956
+411,160167293,"Koromba, Rumbame",F,Piambil 2,Household Duties,01 Jan 1965
+412,160167294,"Koyapo, Kuni",F,Piambil 2,Household Duties,01 Jan 1988
+413,160210134,"Koyapo, Maria",F,Piambil 2,Household Duties,01 Jan 1966
+414,160196781,"Koyapo, Peraiambo",F,Piambil 2,Subsistence Farmer,12 Jul 1952
+415,160213619,"Ku, Lewa",F,Piambil 2,Household Duties,01 Jan 1977
+416,160155994,"Kuiye, Noma",F,Piambil 2,Household Duties,01 Jan 1962
+417,160212441,"Kukuru, Diana",F,Piambil 2,Student,01 Jan 1990
+418,160440384,"Kumbne, Joice",F,Piambil 2,Household Duties,11 Feb 2001
+419,160160410,"Kundip, Lore",F,Piambil 2,Household Duties,01 Jan 1970
+420,160165814,"Kundip, Poiye",F,Piambil 2,Household Duties,01 Jan 1950
+421,160219009,"Kunjili, Aipe",F,Piambil 2,Household Duties,01 Jan 1952
+422,160186052,"Kunjili, Pepia",F,Piambil 2,Household Duties,01 Jan 2000
+423,160220675,"Kunjip, Kaka",F,Piambil 2,Housegirl,01 Jan 1984
+424,160136335,"Kunjip, Milisa",F,Piambil 2,Household Duties,01 Feb 1981
+425,160193823,"Kuno, Mamji",F,Piambil 2,Household Duties,01 Jan 1935
+426,160182892,"Kupila, Dorothy",F,Piambil 2,Student,01 Jan 1984
+427,160182896,"Kupila, Hellen",F,Piambil 2,Student,01 Jan 1988
+428,160218118,"Kupsi, Sigaru",F,Piambil 2,Household Duties,01 Jan 1938
+429,160220443,"Kurume, Juli",F,Piambil 2,Household Duties,01 Jan 1980
+430,160155829,"Laima, Juli",F,Piambil 2,Household Duties,01 Jan 2000
+431,160440760,"Laime, Lus",F,Piambil 2,Household Duties,25 Mar 1988
+432,160119340,"Lamaiye, Sandy",F,Piambil 2,Subsistence Farmer,13 Jul 1987
+433,160171802,"Lapi, Opa",F,Piambil 2,Household Duties,11 May 1973
+434,160195963,"Lapua anjo, Ipame",F,Piambil 2,Household Duties,01 Jan 1973
+435,160165755,"Late, Jackquelin",F,Piambil 2,Student,03 Apr 1980
+436,160165635,"Late, Jenny",F,Piambil 2,Student,09 Aug 1985
+437,160160448,"Lavina, Peter",F,Piambil 2,Student,08 Apr 1986
+438,160162696,"Ldiye, Noli",F,Piambil 2,Household Duties,03 Nov 1974
+439,160185044,"Lembo, Lano",F,Piambil 2,Household Duties,01 Jan 1962
+440,160184883,"Lembo, Pileme",F,Piambil 2,Household Duties,01 Jan 1982
+441,160185050,"Lembo, Rana",F,Piambil 2,Student,01 Jan 1986
+442,25123771,"Lepi, Kilisha",F,Piambil 2,Student,20 Mar 2000
+443,25123772,"Lepi, Rose",F,Piambil 2,Student,29 Jan 1999
+444,160440527,"Lewis, Kila",F,Piambil 2,Subsistence Farmer,14 Mar 2003
+445,160440525,"Lewis, Tomenta",F,Piambil 2,Subsistence Farmer,17 Sep 2003
+446,160440251,"Lgoraiye, Kepa",F,Piambil 2,Household Duties,24 Jun 2003
+447,160163135,"Lili, Kupini",F,Piambil 2,Household Duties,01 Jan 2000
+448,160219070,"Lole, Anie",F,Piambil 2,Household Duties,01 Jan 1968
+449,160218944,"Lole, Dau",F,Piambil 2,Household Duties,01 Jan 1967
+450,160219056,"Lole, Lepoka",F,Piambil 2,Household Duties,01 Jan 1978
+451,160201321,"Lole, Nancy",F,Piambil 2,Household Duties,01 Jan 1980
+452,160119173,"Lucas, Josephine",F,Piambil 2,Typist,23 Jul 1997
+453,160212518,"Lucas, Kokulu",F,Piambil 2,Housegirl,08 May 1980
+454,25123776,"Lucas, Pamila",F,Piambil 2,Student,28 Jul 1998
+455,160440533,"Lucas, Sharon",F,Piambil 2,Household Duties,17 Mar 2002
+456,160175739,"Lucy, Tangele",F,Piambil 2,Household Duties,06 Apr 1961
+457,160440733,"Lyneth, Mondopa",F,Piambil 2,Household Duties,14 Jul 1993
+458,25123779,"Macheal, Susan",F,Piambil 2,Student,14 Mar 1999
+459,160156099,"Magaret, Andrew",F,Piambil 2,Household Duties,01 Jan 1967
+460,160216042,"Mai, Kumu",F,Piambil 2,Household Duties,01 Jan 1968
+461,160176005,"Maikol, Betty",F,Piambil 2,Household Duties,10 Nov 1968
+462,160176007,"Maikol, Rosiline",F,Piambil 2,Household Duties,12 Mar 1969
+463,160184880,"Makange, Elly",F,Piambil 2,Student,01 Jan 1984
+464,160182794,"Makange, Helen",F,Piambil 2,Household Duties,01 Jan 1979
+465,160184908,"Makange, Keleli",F,Piambil 2,Household Duties,01 Jan 1971
+466,160184541,"Makange, Leya",F,Piambil 2,Housegirl,01 Jan 1978
+467,160184730,"Makange, Mala",F,Piambil 2,Student,01 Jan 1986
+468,160182792,"Makange, Waki",F,Piambil 2,Household Duties,01 Jan 1962
+469,160175932,"Makuiye, Ande",F,Piambil 2,Housegirl,01 Jan 1984
+470,160171917,"Makuiye, Kino",F,Piambil 2,Household Duties,01 Jan 1958
+471,160188613,"Makuiye, Kumbi",F,Piambil 2,Housegirl,01 Jan 1980
+472,160219188,"Mambu, Jullie",F,Piambil 2,Student,01 Jan 1990
+473,160220474,"Mambu, Monopul",F,Piambil 2,Household Duties,01 Jan 1988
+474,160221016,"Mambu, Susan",F,Piambil 2,Student,01 Jan 1990
+475,160194797,"Manaki, Kunupusil",F,Piambil 2,Housegirl,13 Nov 1973
+476,160196124,"Manatu, Bakeri",F,Piambil 2,Household Duties,11 Feb 1943
+477,25123784,"Manawe, Pauline",F,Piambil 2,Household Duties,17 Aug 2000
+478,160119386,"Manda, Monica",F,Piambil 2,Student,10 Aug 1986
+479,25123785,"Manda, Moreen",F,Piambil 2,Student,14 Mar 1998
+480,160180896,"Mandi, Kote",F,Piambil 2,Household Duties,01 Jan 1963
+481,160180934,"Mandi, Pas",F,Piambil 2,Student,01 Jan 1989
+482,160163112,"Mandim, Taiye",F,Piambil 2,Household Duties,01 Jan 2000
+483,160440673,"Mange, Kuldi",F,Piambil 2,Student,17 Jul 2002
+484,160207759,"Mapi, Nancy",F,Piambil 2,Household Duties,01 Jan 1970
+485,160207899,"Mapi, Nancy",F,Piambil 2,Household Duties,01 Jan 1985
+486,160207894,"Mapi, Pilge",F,Piambil 2,Household Duties,01 Jan 1969
+487,160207783,"Mapi, Racheal",F,Piambil 2,Housegirl,01 Jan 1985
+488,160207758,"Mapi, Ramame",F,Piambil 2,Household Duties,01 Jan 1963
+489,160207913,"Mapi, Ruthy",F,Piambil 2,Housegirl,01 Jan 1977
+490,25123786,"Marelyu, Jop",F,Piambil 2,Teacher,12 Jan 1980
+491,160190884,"Maria, Cathy",F,Piambil 2,Student,06 Jan 1990
+492,160197210,"Maria, Lucy",F,Piambil 2,Student,17 Oct 1982
+493,160197214,"Maria, Mora",F,Piambil 2,Sales Women,14 Feb 1945
+494,160193397,"Maria toipo, Maria",F,Piambil 2,Household Duties,01 Jan 1965
+495,25123787,"Mark, Aniye",F,Piambil 2,Student,10 Oct 2000
+496,160160302,"Mark, Bety",F,Piambil 2,Household Duties,01 Jan 1980
+497,160165353,"Mark, Leen",F,Piambil 2,Household Duties,01 Jan 2000
+498,160160337,"Mark, Melinda",F,Piambil 2,Housegirl,21 Apr 1989
+499,160165354,"Mark, Mellen",F,Piambil 2,Student,01 Jan 1988
+500,160119139,"Mark, Regina",F,Piambil 2,Sales Women,22 Jan 1995
+501,160165352,"Mark, Rose",F,Piambil 2,Household Duties,01 Jan 2000
+502,160155849,"Mark, Sceen",F,Piambil 2,Housegirl,26 Dec 1985
+503,160119140,"Mark, Susan",F,Piambil 2,Household Duties,17 Feb 1984
+504,160136327,"Markson, Anita",F,Piambil 2,Household Duties,19 Sep 1982
+505,160440774,"Markson, Dorothy",F,Piambil 2,Household Duties,02 Mar 2001
+506,160201907,"Markus, Kana",F,Piambil 2,Student,01 Jan 1978
+507,160189767,"Marowa, Jacklyn",F,Piambil 2,Student,01 Jan 1986
+508,160188521,"Marowa, Omboli",F,Piambil 2,Household Duties,01 Jan 1971
+509,160119350,"Martiin, Hellen",F,Piambil 2,Household Duties,24 Sep 1988
+510,160119351,"Martin, Famila",F,Piambil 2,Student,26 Aug 1997
+511,160136360,"Martin, Jenny",F,Piambil 2,Household Duties,05 Jun 1993
+512,160440452,"Martin, Semila",F,Piambil 2,Student,13 Nov 2001
+513,25123789,"Mata, Anna",F,Piambil 2,Student,26 Apr 1998
+514,160185125,"Mata, Konopu",F,Piambil 2,Housegirl,01 Jan 1979
+515,160440652,"Mather, Hellony",F,Piambil 2,Student,18 Nov 2002
+516,25123791,"Mathew, Gloria",F,Piambil 2,Student,07 Dec 2000
+517,160169027,"Mathew, Hellis",F,Piambil 2,Household Duties,01 Jan 1983
+518,25123792,"Mathew, Lora",F,Piambil 2,Student,17 Jan 2001
+519,25123796,"Mathew, Warin",F,Piambil 2,Nurse,06 Jul 1992
+520,25123797,"Mathias, Mathilda",F,Piambil 2,Household Duties,23 Dec 2001
+521,160501162,"Mawa, Ronda",F,Piambil 2,Household Duties,18 Aug 2001
+522,160193708,"Max, Faith",F,Piambil 2,Household Duties,01 Jan 1941
+523,160193704,"Max, Punduku",F,Piambil 2,Household Duties,01 Jan 1939
+524,160440277,"Max, Talisa",F,Piambil 2,Student,02 Dec 2002
+525,25123799,"Meck, Marcy",F,Piambil 2,Student,13 Apr 2000
+526,160160298,"Mek, Winza",F,Piambil 2,Household Duties,01 Jan 1981
+527,160182474,"Mellody, Namba",F,Piambil 2,Student,01 Jan 1981
+528,160191354,"Membi, Carolyn",F,Piambil 2,Housegirl,01 Jan 1956
+529,160207072,"Membi, Kuni",F,Piambil 2,Household Duties,01 Jan 1975
+530,160440747,"Mendeke, Lona",F,Piambil 2,Household Duties,28 Mar 2003
+531,160440703,"Mendeli, Lilly",F,Piambil 2,Household Duties,14 Nov 2003
+532,160209729,"Mendo, Mane",F,Piambil 2,Household Duties,01 Jan 1973
+533,160185188,"Mepa, Jovina",F,Piambil 2,Student,01 Jan 1988
+534,160185018,"Mepa, Pilembo",F,Piambil 2,Household Duties,01 Jan 1971
+535,160185185,"Mepa, Pore",F,Piambil 2,Household Duties,01 Jan 1941
+536,160184833,"Mepa, Wendy",F,Piambil 2,Student,01 Jan 1979
+537,160218842,"Meroline, Denis",F,Piambil 2,Household Duties,01 Jan 2000
+538,160196294,"Merona, Hop",F,Piambil 2,Student,01 Jan 2000
+539,160169278,"Meta, Mary",F,Piambil 2,Household Duties,05 Aug 1979
+540,25123806,"Micheal, Cyntia",F,Piambil 2,Student,29 Nov 2000
+541,160195945,"Mik mik, Kiniye",F,Piambil 2,Housegirl,01 Jan 1961
+542,160196059,"Mik mik, Koniye",F,Piambil 2,Household Duties,01 Jan 1982
+543,160189806,"Mindil, Mary",F,Piambil 2,Household Duties,01 Jan 1974
+544,160188536,"Mindili, Beflyn",F,Piambil 2,Household Duties,01 Jan 1982
+545,160213622,"Mini, Maria",F,Piambil 2,Household Duties,01 Jan 1972
+546,160188194,"Misi, Wendi",F,Piambil 2,Household Duties,01 Jan 1984
+547,160190165,"Misi, Yarapo",F,Piambil 2,Household Duties,01 Jan 1970
+548,160198962,"Mogen, Elisaberth",F,Piambil 2,Household Duties,01 Jan 1969
+549,160440465,"Molu, Anita",F,Piambil 2,Student,14 Apr 2003
+550,160440482,"Molu, Ruth",F,Piambil 2,Typist,28 Jul 2001
+551,160177507,"Mondu, Yawini",F,Piambil 2,Household Duties,01 Jan 1962
+552,160176130,"Mone, Jennifer",F,Piambil 2,Student,01 Jan 1970
+553,160191087,"Mone, Mongi",F,Piambil 2,Household Duties,01 Jan 1960
+554,160189990,"Mone, Rosa",F,Piambil 2,Household Duties,01 Jan 1972
+555,160190181,"Mone, Tongi",F,Piambil 2,Household Duties,01 Jan 1978
+556,160182477,"Mongo, Kot",F,Piambil 2,Household Duties,01 Sep 1978
+557,160182762,"Mopune, Yawa",F,Piambil 2,Household Duties,12 Oct 1969
+558,160119249,"Morgan, Anna",F,Piambil 2,Student,08 Apr 1998
+559,25083022,"Moses, Hellen",F,Piambil 2,Household Duties,11 Jun 2001
+560,160136210,"Moses, Sharon",F,Piambil 2,Household Duties,19 Mar 1986
+561,160203836,"Mote, Namu",F,Piambil 2,Household Duties,01 Jan 1978
+562,160196262,"Muburu turi, Ruth",F,Piambil 2,Household Duties,01 Jan 2000
+563,160440745,"Mundu, Toma",F,Piambil 2,Household Duties,13 Mar 1987
+564,160119246,"Muni, Relyn",F,Piambil 2,Student,29 Apr 1992
+565,25083028,"Murik, Fiona",F,Piambil 2,Housegirl,05 Jan 1999
+566,25083035,"Muruk, Susie",F,Piambil 2,Housegirl,17 May 1999
+567,160440685,"Nalson, Rolen",F,Piambil 2,Student,11 Jan 1999
+568,160188630,"Namb, Jacklin",F,Piambil 2,Student,04 Jul 1989
+569,160194606,"Nancy, Wak",F,Piambil 2,Student,01 Jan 1984
+570,160190779,"Nangu, Penga",F,Piambil 2,Household Duties,01 Jan 1970
+571,160188525,"Nangu, Puke",F,Piambil 2,Household Duties,01 Jan 1973
+572,160173746,"Nasil, Kussa",F,Piambil 2,Household Duties,01 Jan 1964
+573,160175891,"Nasil, Magani",F,Piambil 2,Household Duties,01 Jan 1961
+574,160167612,"Nasil, Namb",F,Piambil 2,Household Duties,19 Jul 1970
+575,160173789,"Nasil, Wala",F,Piambil 2,Household Duties,01 Jan 1965
+576,160180406,"Nasol, Makil",F,Piambil 2,Household Duties,01 Jan 1962
+577,160136324,"Natil, Betty",F,Piambil 2,Teacher,09 Jul 1980
+578,160218956,"Natil, Elepena",F,Piambil 2,Household Duties,01 Jan 1959
+579,160219066,"Natil, Jenny",F,Piambil 2,Housegirl,01 Jan 1982
+580,160218359,"Natil, Kini",F,Piambil 2,Housegirl,01 Jan 1983
+581,160218129,"Natil, Kuta",F,Piambil 2,Household Duties,01 Jan 1958
+582,160216651,"Natil, Lili",F,Piambil 2,Housegirl,01 Jan 1985
+583,160119279,"Nelson, Shasa",F,Piambil 2,Student,21 Mar 1996
+584,160197093,"Nema, Una",F,Piambil 2,Household Duties,01 Jan 1968
+585,160206921,"Nibe, Sulde",F,Piambil 2,Household Duties,01 Jan 1940
+586,160165643,"Nicksen, End",F,Piambil 2,Household Duties,01 Jan 1976
+587,160191269,"Nickson, Juli",F,Piambil 2,Household Duties,01 Jan 1982
+588,160218154,"Ninde, Rose",F,Piambil 2,Household Duties,01 Jan 1964
+589,160440559,"Ninde, Rosinda",F,Piambil 2,Student,17 Mar 2002
+590,160201320,"Nindii, Pipa",F,Piambil 2,Household Duties,01 Jan 1969
+591,160193559,"Nindili, Rachael",F,Piambil 2,Student,01 Jan 1986
+592,160193701,"Nindili, Wape",F,Piambil 2,Household Duties,01 Jan 1969
+593,160199834,"Nindiye, Kalombo",F,Piambil 2,Household Duties,01 Jan 1965
+594,160199814,"Ninge, Mone",F,Piambil 2,Household Duties,01 Jan 1961
+595,160440412,"Nipil, Jepeth",F,Piambil 2,Household Duties,14 May 2003
+596,160440410,"Nipil, Jerothy",F,Piambil 2,Household Duties,22 Mar 2000
+597,160440411,"Nipil, Josica",F,Piambil 2,Household Duties,18 Jan 2001
+598,160195742,"Nipu, Lopeke",F,Piambil 2,Household Duties,01 Jan 2000
+599,160193120,"Niye, Kakaime",F,Piambil 2,Household Duties,01 Jan 1942
+600,25083059,"Noile, Stevenie",F,Piambil 2,Student,11 Apr 2003
+601,160439959,"Noke, Leto",F,Piambil 2,Student,14 Mar 2003
+602,160160347,"Noke, Misis",F,Piambil 2,Household Duties,01 Jan 1980
+603,25083068,"Noke, Sera",F,Piambil 2,Student,16 Aug 1999
+604,160162707,"Noli, Linda",F,Piambil 2,Student,30 Jul 1986
+605,160162653,"Noli, Linet",F,Piambil 2,Student,11 Apr 1984
+606,25083070,"Nonge, Enjola",F,Piambil 2,Student,09 Aug 2000
+607,160156067,"Nopie, Doketa",F,Piambil 2,Household Duties,01 Jan 1962
+608,160207813,"Nopuli, Lynnet",F,Piambil 2,Student,01 Jan 1990
+609,160207070,"Nopuli, Oni",F,Piambil 2,Household Duties,01 Jan 1967
+610,160119258,"Norbert, Nancy",F,Piambil 2,Household Duties,08 Feb 1984
+611,160181022,"Oka, Killa",F,Piambil 2,Student,01 Jan 1986
+612,160185780,"Oka, Rosa",F,Piambil 2,Household Duties,01 Jan 1960
+613,160216200,"Oke, Betty",F,Piambil 2,Household Duties,01 Jan 1969
+614,25083080,"Oki, Roslyn",F,Piambil 2,Student,14 Apr 2000
+615,25083083,"Ol, Wakap",F,Piambil 2,Household Duties,27 Jun 1998
+616,160216201,"Oli, Naino",F,Piambil 2,Household Duties,01 Jan 1940
+617,160183043,"Omba, Kangu",F,Piambil 2,Household Duties,01 Jan 2000
+618,160440001,"Omba, Malin",F,Piambil 2,Student,14 Dec 2003
+619,160440004,"Omba, Memero",F,Piambil 2,Student,01 Jan 2003
+620,160175977,"Omba, Tope",F,Piambil 2,Housegirl,01 Jan 2000
+621,160182912,"Omba, Wesly",F,Piambil 2,Student,01 Jan 2000
+622,160185135,"Ombo, Napene",F,Piambil 2,Household Duties,01 Jan 1979
+623,160185092,"Onga, Macklyn",F,Piambil 2,Student,01 Jan 1986
+624,160440590,"Onne, Cathy",F,Piambil 2,Student,28 Apr 2004
+625,160169062,"Opa, Eli",F,Piambil 2,Student,22 Dec 1985
+626,160183042,"Opa, Kote",F,Piambil 2,Household Duties,01 Jan 1965
+627,160171638,"Opa, Meri",F,Piambil 2,Student,16 Dec 1989
+628,160202086,"Opa, Pald",F,Piambil 2,Household Duties,14 Jun 1944
+629,160198302,"Opa, Rase",F,Piambil 2,Household Duties,01 Jan 1963
+630,160167540,"Opa, Sisipalo",F,Piambil 2,Church Worker,07 Dec 1951
+631,160165270,"Opa, Yopolamb",F,Piambil 2,Household Duties,06 Nov 1951
+632,160212446,"Ope, Clara",F,Piambil 2,Housegirl,19 Apr 1979
+633,160210187,"Opi, Gloria",F,Piambil 2,Teacher,01 Jan 1971
+634,160167630,"Opi, Kepakamboi",F,Piambil 2,Household Duties,01 Jan 1950
+635,160210177,"Opi, Regina",F,Piambil 2,Household Duties,01 Jan 1973
+636,160209944,"Opi, Sylvia",F,Piambil 2,Student,01 Jan 1985
+637,160440370,"Paias, Dorin",F,Piambil 2,Household Duties,24 Feb 2003
+638,160155858,"Paias, Lucy",F,Piambil 2,Student,02 Apr 1980
+639,160119160,"Paiye, Gloria",F,Piambil 2,Typist,12 Dec 1997
+640,160119090,"Pakoro, Lineth",F,Piambil 2,Student,19 Sep 1998
+641,160119089,"Pakoro, Lyn",F,Piambil 2,Typist,12 Jul 1997
+642,160440400,"Pale, Joice",F,Piambil 2,Household Duties,08 Nov 2001
+643,160191347,"Pandea, Aiye",F,Piambil 2,Subsistence Farmer,01 Jan 1956
+644,160194628,"Paraka, Kina",F,Piambil 2,Student,19 Nov 1986
+645,160187669,"Paraka, Maria",F,Piambil 2,Household Duties,01 Jan 1975
+646,160180399,"Paraka, Nare",F,Piambil 2,Household Duties,01 Jan 1969
+647,160197105,"Paraka, Raime",F,Piambil 2,Sales Women,04 Nov 1940
+648,160197201,"Paraka, Toea",F,Piambil 2,Student,01 Dec 1990
+649,160197199,"Paraka, Wana",F,Piambil 2,Student,16 Feb 1988
+650,160183008,"Paraka, Win",F,Piambil 2,Household Duties,01 Jan 1982
+651,160195809,"Parasil, Las",F,Piambil 2,Household Duties,04 Apr 1976
+652,160160324,"Parasil, Moie",F,Piambil 2,Household Duties,01 Jan 2000
+653,160195808,"Parasil, Topyie",F,Piambil 2,Household Duties,01 Jan 1900
+654,160440431,"Pareka, Anita",F,Piambil 2,Student,17 Feb 2002
+655,160136344,"Pareka, Maria",F,Piambil 2,Household Duties,21 Aug 1990
+656,160210540,"Pareka, Oni",F,Piambil 2,Household Duties,29 Apr 1962
+657,160440672,"Pareka, Stevelyn",F,Piambil 2,Student,12 Apr 2001
+658,160165776,"Paru, Carolyn",F,Piambil 2,Student,01 Jan 1985
+659,160155980,"Paru, Ipino",F,Piambil 2,Household Duties,08 Apr 1969
+660,160155990,"Paru, Margaret",F,Piambil 2,Student,17 Jun 1984
+661,160153657,"Paru, Monicca",F,Piambil 2,Student,16 Nov 1981
+662,160165773,"Paru, Tumbulu",F,Piambil 2,Household Duties,01 Aug 1974
+663,160185073,"Patero, Mone",F,Piambil 2,Household Duties,01 Jan 1964
+664,25083094,"Paul, Carol",F,Piambil 2,Student,18 Oct 2001
+665,25083096,"Paul, Gina",F,Piambil 2,Subsistence Farmer,06 Dec 2002
+666,25083098,"Paul, Jessicka",F,Piambil 2,Student,12 Dec 2001
+667,25083103,"Paul, Merolyn",F,Piambil 2,Student,02 Mar 2001
+668,25083109,"Paul, Stephanie",F,Piambil 2,Student,06 Dec 1994
+669,160440688,"Paulus, Roina",F,Piambil 2,Student,12 Oct 1999
+670,160156077,"Pawa, Jekelyn",F,Piambil 2,Household Duties,30 Dec 1972
+671,160194683,"Pea warea, Kanoru",F,Piambil 2,Household Duties,01 Jan 1966
+672,160194789,"Peandi, Kola",F,Piambil 2,Clerk,01 Jan 1981
+673,160194675,"Peandi, Kolandi",F,Piambil 2,Magistrate,01 Jan 1967
+674,160196111,"Peandi, Neam",F,Piambil 2,Household Duties,11 Sep 1982
+675,160194810,"Peandi, Ruth",F,Piambil 2,Household Duties,01 Jan 1976
+676,160119373,"Pembo, Roselyn",F,Piambil 2,Subsistence Farmer,06 Apr 1992
+677,160160307,"Pena, Pipuru",F,Piambil 2,Household Duties,01 Jan 1930
+678,160215566,"Pena, Puwana",F,Piambil 2,Household Duties,11 Sep 1940
+679,160169173,"Pepeson, Lewa",F,Piambil 2,Pastor,23 Mar 1970
+680,160171800,"Pepeson, Sapina",F,Piambil 2,Student,19 Aug 1970
+681,160218551,"Pere, Yala",F,Piambil 2,Household Duties,01 Jan 1968
+682,160187883,"Pereli, Tope",F,Piambil 2,Household Duties,01 Jan 1976
+683,160196215,"Pereya, Nonman",F,Piambil 2,Subsistence Farmer,30 Nov 1952
+684,160197050,"Pereya, Penny",F,Piambil 2,Student,19 Dec 1984
+685,160196222,"Pereya, Ruth",F,Piambil 2,Student,29 Nov 1982
+686,160195990,"Pesil, Nema",F,Piambil 2,Household Duties,01 Jan 1977
+687,160167299,"Peter, Judy",F,Piambil 2,Student,01 Jan 1983
+688,25083121,"Peter, Susan",F,Piambil 2,Household Duties,15 Mar 1998
+689,160440080,"Peterson, Kini",F,Piambil 2,Teacher,19 Feb 2001
+690,160186983,"Petrus, Dorothy",F,Piambil 2,Student,11 Oct 1986
+691,160156080,"Peyadi, Bepo",F,Piambil 2,Household Duties,20 Nov 1968
+692,160136187,"Philimbo, Serah",F,Piambil 2,Teacher,17 Apr 1986
+693,160196514,"Philip, Estah",F,Piambil 2,Household Duties,01 Jan 1982
+694,160155902,"Philip, Jannet",F,Piambil 2,Household Duties,01 Jan 1980
+695,160187303,"Philip, Melen",F,Piambil 2,Household Duties,01 Jan 1972
+696,160173212,"Philipo, Mary",F,Piambil 2,Household Duties,03 Apr 1970
+697,160136334,"Philipo, Vicky",F,Piambil 2,Household Duties,27 May 1984
+698,25083130,"Pila, Stepheny",F,Piambil 2,Student,24 May 1999
+699,160184971,"Pilimb, Mopuna",F,Piambil 2,Household Duties,16 Nov 1957
+700,160440372,"Pis, Jullian",F,Piambil 2,Student,14 Jun 2003
+701,160194798,"Pis, Sua",F,Piambil 2,Household Duties,01 Jan 1900
+702,160440371,"Pis, Talita",F,Piambil 2,Nurse,28 Jun 2000
+703,160182757,"Pokeya, Jenny",F,Piambil 2,Student,01 Jan 1989
+704,160175982,"Pokeya, Kuta",F,Piambil 2,Household Duties,01 Jan 2000
+705,160183051,"Pokeya, Yay",F,Piambil 2,Not Specified,01 Jan 1978
+706,160220681,"Pokpia, Japet",F,Piambil 2,Household Duties,01 Jan 1978
+707,160218929,"Polley, Hellis",F,Piambil 2,Household Duties,01 Jan 1983
+708,160201185,"Pom, Betty",F,Piambil 2,Household Duties,01 Jan 1977
+709,160440686,"Ponje, Carolyn",F,Piambil 2,Student,11 Jan 1999
+710,160185959,"Ponje, Pollen",F,Piambil 2,Household Duties,01 Jan 1980
+711,160119368,"Pora, Setata",F,Piambil 2,Student,16 Mar 1998
+712,160190614,"Pora, Stela",F,Piambil 2,Student,01 Jan 1985
+713,160196123,"Porul, Moss",F,Piambil 2,Household Duties,01 Jan 1978
+714,160212422,"Pote, Bepiline",F,Piambil 2,Student,14 May 1981
+715,25083140,"Pote, Carolyn",F,Piambil 2,Household Duties,24 Mar 2001
+716,160119092,"Pote, Ester",F,Piambil 2,Typist,16 Sep 1998
+717,160136222,"Pote, Hellen",F,Piambil 2,Student,13 Feb 1999
+718,160186981,"Pote, Lina",F,Piambil 2,Student,11 Aug 1978
+719,160187058,"Pote, Lindia",F,Piambil 2,Student,01 Dec 1979
+720,160173316,"Puke, Ange",F,Piambil 2,Household Duties,01 Jan 2000
+721,160198754,"Puke, Dally",F,Piambil 2,Student,01 Jan 2000
+722,25083144,"Puke, Elizabeth",F,Piambil 2,Student,13 Apr 2002
+723,160160684,"Puke, Serah",F,Piambil 2,Household Duties,01 Jan 1969
+724,160173729,"Puke, Soty",F,Piambil 2,Household Duties,01 Jan 1979
+725,25083146,"Puluma, Etna",F,Piambil 2,Subsistence Farmer,28 Nov 2000
+726,160203650,"Pulume, Rebecca",F,Piambil 2,Student,01 Jan 1981
+727,160165268,"Pulusil, Eka",F,Piambil 2,Student,07 Nov 1980
+728,160169234,"Pulusil, Mary",F,Piambil 2,Student,01 Nov 1978
+729,160171810,"Pulusil, Yara",F,Piambil 2,Household Duties,18 Jun 1970
+730,160440308,"Pumbo, Daisy",F,Piambil 2,Student,21 Sep 2002
+731,160218225,"Pundia, Enak",F,Piambil 2,Household Duties,01 Jan 1960
+732,160189795,"Pundia, Marta",F,Piambil 2,Household Duties,01 Jan 1963
+733,160196131,"Pundutopatil, Mekowa",F,Piambil 2,Household Duties,01 Jan 2000
+734,160188043,"Puni, Oli",F,Piambil 2,Household Duties,01 Jan 1932
+735,25083150,"Puno, Andiye",F,Piambil 2,Household Duties,10 Apr 1999
+736,160440787,"Puno, Rachael",F,Piambil 2,Housegirl,18 Mar 2003
+737,25083152,"Puno, Silvia",F,Piambil 2,Student,01 Jul 1999
+738,160187053,"Puri, End",F,Piambil 2,Household Duties,01 Jan 1974
+739,160171780,"Puri, Lindia",F,Piambil 2,Student,01 Jan 1986
+740,160185902,"Purul, Wiepo",F,Piambil 2,Household Duties,01 Jan 1943
+741,160185270,"Rabua nandie, Gae",F,Piambil 2,Household Duties,01 Jan 2000
+742,25083154,"Rachel, Peter",F,Piambil 2,Household Duties,13 Jun 1990
+743,160195974,"Raguna kera, Norin",F,Piambil 2,Household Duties,01 Jan 1974
+744,160440288,"Ramcy, Joshpin",F,Piambil 2,Student,17 Oct 2002
+745,160196466,"Rapinoi, Mali",F,Piambil 2,Household Duties,01 Jan 1968
+746,160175735,"Raume, Darlly",F,Piambil 2,Household Duties,01 Jan 1980
+747,160176031,"Raume, Hellen",F,Piambil 2,Student,01 Jan 1979
+748,160169192,"Raume, Kina",F,Piambil 2,Household Duties,01 Jan 1979
+749,160176146,"Raume, Kola",F,Piambil 2,Household Duties,01 Jan 1954
+750,160169172,"Raume, Misi",F,Piambil 2,Household Duties,01 Jan 1955
+751,160169184,"Raume, Ruth",F,Piambil 2,Household Duties,01 Jan 1979
+752,160182984,"Reacheal, Namba",F,Piambil 2,Household Duties,01 Jan 1980
+753,160211296,"Reacheal, Stanley",F,Piambil 2,Housegirl,11 Sep 1980
+754,25083159,"Rebecca, Amos",F,Piambil 2,Student,12 Oct 1989
+755,25083161,"Rebecca, Soti",F,Piambil 2,Teacher,13 Jun 1983
+756,25083162,"Recheal, Mopune",F,Piambil 2,Household Duties,18 Jun 2003
+757,25083164,"Regina, Hurum",F,Piambil 2,Student,08 Apr 1996
+758,25083167,"Regina, Joe",F,Piambil 2,Cleaner,12 Apr 1978
+759,25083170,"Reolina, Thomas",F,Piambil 2,Household Duties,13 Apr 2001
+760,25083173,"Rex, Enjola",F,Piambil 2,Student,29 Jul 2002
+761,160119114,"Rex, Jacklyn",F,Piambil 2,Household Duties,15 Feb 1992
+762,160207784,"Rex, Judy",F,Piambil 2,Subsistence Farmer,01 Jan 2000
+763,160213371,"Rias, Helen",F,Piambil 2,Household Duties,01 Jan 2000
+764,160207898,"Ricky, Lyn",F,Piambil 2,Household Duties,01 Jan 1982
+765,160194738,"Rindiwi, Kuldi",F,Piambil 2,Household Duties,01 Jan 2000
+766,160173205,"Robert, Anita",F,Piambil 2,Student,13 Feb 1985
+767,160440789,"Robert, Anna",F,Piambil 2,Household Duties,18 Feb 2004
+768,25083187,"Robert, Catrina",F,Piambil 2,Household Duties,16 Jun 1996
+769,160175946,"Robert, Ester",F,Piambil 2,Not Specified,01 Jan 1983
+770,160119347,"Robert, Joice",F,Piambil 2,Student,10 Oct 1998
+771,160153584,"Robert, Keti",F,Piambil 2,Household Duties,01 Jan 1979
+772,160182622,"Robert, Nokopambo",F,Piambil 2,Household Duties,01 Jan 1974
+773,25083194,"Robert, Rachael",F,Piambil 2,Student,28 Apr 2004
+774,160440535,"Robert, Rosinda",F,Piambil 2,Subsistence Farmer,28 Sep 2002
+775,160119206,"Robert, Susi",F,Piambil 2,Subsistence Farmer,03 Jun 1994
+776,160440441,"Robert, Typalyn",F,Piambil 2,Student,19 Feb 2002
+777,25083203,"Robin, Betty",F,Piambil 2,Household Duties,14 Apr 2001
+778,25083211,"Robin, Jacklyn",F,Piambil 2,Nurse,03 May 1991
+779,25083213,"Robin, Kathrine",F,Piambil 2,Nurse,25 Jul 1988
+780,160440309,"Rocky, Serolyn",F,Piambil 2,Student,02 Feb 2002
+781,25083218,"Rodney, Aliyha",F,Piambil 2,Student,17 Mar 2000
+782,25083222,"Rodney, Fredah",F,Piambil 2,Student,16 Apr 2000
+783,160440226,"Rodney, Niomi",F,Piambil 2,Typist,13 Apr 2003
+784,160440677,"Romba, Kylin",F,Piambil 2,Student,19 Feb 2001
+785,25083228,"Rondah, Donald",F,Piambil 2,Housegirl,13 Jun 2000
+786,25083231,"Rondah, Joel",F,Piambil 2,Housegirl,13 Apr 2000
+787,160159062,"Roy, Magaret",F,Piambil 2,Household Duties,01 Jan 1966
+788,160119094,"Ruben, Semila",F,Piambil 2,Student,17 Apr 1998
+789,160119093,"Ruben, Tonia",F,Piambil 2,Store Keeper,11 Mar 1996
+790,25083234,"Ruth, Nindis",F,Piambil 2,Housegirl,12 Feb 2003
+791,25083236,"Ruth, Rundi",F,Piambil 2,Household Duties,11 Nov 1992
+792,160119226,"Sam, Frinda",F,Piambil 2,Subsistence Farmer,31 Jul 1996
+793,160165833,"Samo, Takoama",F,Piambil 2,Household Duties,01 Jan 1981
+794,160165819,"Samson, Dao",F,Piambil 2,Household Duties,01 Jan 1964
+795,160167553,"Samson, Josidah",F,Piambil 2,Housegirl,30 Nov 1980
+796,160165357,"Samuel, Leen",F,Piambil 2,Student,01 Jan 1989
+797,160163103,"Samuel, Lilly",F,Piambil 2,Student,01 Jan 1987
+798,160167283,"Samuel, Yarra",F,Piambil 2,Household Duties,01 Jan 2000
+799,25083241,"Scolie, Sie",F,Piambil 2,Teacher,12 Feb 1990
+800,160440750,"Sekireli, Pumbe",F,Piambil 2,Household Duties,15 Mar 2002
+801,25083245,"Semie, Dorothy",F,Piambil 2,Subsistence Farmer,11 Jan 2001
+802,25083248,"Semie, Gipsie",F,Piambil 2,Student,15 Oct 2000
+803,25087290,"Serah, James",F,Piambil 2,Housegirl,16 Jun 1997
+804,160440739,"Serah, Numpinda",F,Piambil 2,Student,17 Mar 2001
+805,160440726,"Shelly, Tanda",F,Piambil 2,Household Duties,28 Mar 1987
+806,25083261,"Shirley, Kaltia",F,Piambil 2,Household Duties,24 Jun 2002
+807,160160711,"Sigi, Kiti",F,Piambil 2,Household Duties,01 Jan 1966
+808,160167544,"Silgu, Kise",F,Piambil 2,Household Duties,01 Jan 1951
+809,160218572,"Silto, Kegena",F,Piambil 2,Household Duties,01 Jan 2000
+810,160182763,"Silto, Makelen",F,Piambil 2,Household Duties,09 Feb 1978
+811,160182755,"Silto, Penapel",F,Piambil 2,Household Duties,15 Mar 1963
+812,160182758,"Silto, Rosa",F,Piambil 2,Household Duties,20 Oct 1970
+813,160218149,"Simbil, Mandi",F,Piambil 2,Household Duties,01 Jan 1932
+814,160216657,"Simbil, Yun",F,Piambil 2,Household Duties,01 Jan 1949
+815,160158945,"Simboi, Regina",F,Piambil 2,Household Duties,01 Jan 1968
+816,160171795,"Simiji, Liah",F,Piambil 2,Student,01 Jan 1978
+817,160165253,"Simiji, Mone",F,Piambil 2,Household Duties,01 Jan 1959
+818,160160692,"Siminji, Kiti",F,Piambil 2,Household Duties,01 Jan 1973
+819,160440650,"Simon, Jennifer",F,Piambil 2,Student,21 Oct 2002
+820,25083264,"Simon, Joyce",F,Piambil 2,Student,16 Apr 2001
+821,160194805,"Simon, Las",F,Piambil 2,Household Duties,01 Jan 1981
+822,160182412,"Simon, Lewa",F,Piambil 2,Household Duties,01 Jan 1976
+823,160190251,"Simon, Numan",F,Piambil 2,Household Duties,01 Jan 1980
+824,25083276,"Simon, Sanda",F,Piambil 2,Student,14 Feb 2000
+825,160188579,"Simon, Yalap",F,Piambil 2,Household Duties,01 Jan 1969
+826,25083277,"Sina, Simon",F,Piambil 2,Teacher,21 Apr 1978
+827,160165693,"Soemb, Oisu",F,Piambil 2,Household Duties,01 Jan 1933
+828,160180400,"Soimbo, Oisu",F,Piambil 2,Household Duties,01 Jan 1964
+829,160177865,"Soimbu, Kepa",F,Piambil 2,Household Duties,01 Jan 1986
+830,160440287,"Solomon, Lavai",F,Piambil 2,Student,10 Feb 2004
+831,160210173,"Songbeang, Kopta",F,Piambil 2,Household Duties,01 Jan 1981
+832,160210180,"Songbeang, Ropem",F,Piambil 2,Household Duties,01 Jan 1900
+833,160158916,"Stephen, Helen",F,Piambil 2,Student,18 Nov 1982
+834,160167555,"Stephen, Wambiye",F,Piambil 2,Household Duties,01 Jan 1967
+835,160190604,"Steven, Anna",F,Piambil 2,Household Duties,01 Jan 1977
+836,160440264,"Steven, Ronila",F,Piambil 2,Student,21 Feb 2003
+837,160176017,"Suba, Cathy",F,Piambil 2,Household Duties,01 Jan 1978
+838,160196207,"Suku, Alirapu",F,Piambil 2,Subsistence Farmer,10 Nov 1985
+839,160195928,"Suku, Kupini",F,Piambil 2,Subsistence Farmer,10 Mar 1935
+840,160155893,"Suku, Noren",F,Piambil 2,Household Duties,01 Jan 1980
+841,160175875,"Sukundo, Mary",F,Piambil 2,Household Duties,06 Mar 1980
+842,160155765,"Taime, Mango",F,Piambil 2,Household Duties,01 Jan 2000
+843,160155768,"Taime, Sera",F,Piambil 2,Household Duties,01 Jan 2000
+844,160169079,"Talangu, Yawa",F,Piambil 2,Sales Women,16 Apr 1982
+845,160440272,"Talon, Sharon",F,Piambil 2,Student,05 Oct 2003
+846,160176027,"Talopa, Jeni",F,Piambil 2,Household Duties,01 Jan 1951
+847,160171913,"Talopa, Karaku",F,Piambil 2,Household Duties,01 Jan 1980
+848,160176036,"Talopa, Rosau",F,Piambil 2,Household Duties,01 Jan 1941
+849,160188566,"Talopa, Wan",F,Piambil 2,Household Duties,01 Jan 1969
+850,160171759,"Talopsa, Kildi",F,Piambil 2,Household Duties,01 Jan 1941
+851,160182723,"Talpa, Angola",F,Piambil 2,Household Duties,01 Jan 1989
+852,160221168,"Tana, Pamela",F,Piambil 2,Student,01 Jan 1988
+853,160188199,"Tana, Racheal",F,Piambil 2,Household Duties,01 Jan 1968
+854,160211307,"Tana, Waine",F,Piambil 2,Household Duties,16 Dec 1969
+855,160440395,"Tange, Lina",F,Piambil 2,Household Duties,14 May 1999
+856,160440342,"Tange, Natasa",F,Piambil 2,Household Duties,17 Feb 2003
+857,160187508,"Tano, Betty",F,Piambil 2,Household Duties,01 Jan 1979
+858,160218941,"Tano, Livina",F,Piambil 2,Student,01 Jan 1989
+859,160158937,"Tano, Rambame",F,Piambil 2,Household Duties,01 Jan 1969
+860,160188035,"Tano, Takopo",F,Piambil 2,Household Duties,01 Jan 1969
+861,160218161,"Tapoiye, Betty",F,Piambil 2,Housegirl,01 Jan 1959
+862,160216243,"Tapoiye, Ruthy",F,Piambil 2,Teacher,01 Jan 1986
+863,160180747,"Tapora, Josebeth",F,Piambil 2,Household Duties,01 Jan 2000
+864,160153568,"Taputail, Misas",F,Piambil 2,Household Duties,01 Jan 1900
+865,160196475,"Taputali, Kaka",F,Piambil 2,Household Duties,01 Jan 1962
+866,160440653,"Teamson, Rolina",F,Piambil 2,Student,24 Sep 2001
+867,160119364,"Teerum, Jeneth",F,Piambil 2,Subsistence Farmer,25 Nov 1987
+868,160210145,"Teke, Judy",F,Piambil 2,Household Duties,01 Jan 1986
+869,160185118,"Teke, Wabine",F,Piambil 2,Household Duties,01 Jan 1972
+870,160160785,"Telu, Pelembo",F,Piambil 2,Household Duties,01 Jan 2000
+871,160169265,"Tembon, Bepe",F,Piambil 2,Household Duties,01 Jan 1968
+872,160196490,"Temboroi, Meta",F,Piambil 2,Household Duties,01 Jan 1900
+873,160155873,"Tendepo, Juli",F,Piambil 2,Not Specified,01 Jan 1980
+874,160194804,"Tendi, Embe",F,Piambil 2,Student,01 Jan 2000
+875,160194673,"Tendi, Toya",F,Piambil 2,Household Duties,01 Jan 2000
+876,25083305,"Tene, Rose",F,Piambil 2,Subsistence Farmer,16 Sep 1999
+877,160189749,"Tenes, Roselyn",F,Piambil 2,Household Duties,01 Jan 1986
+878,25083311,"Tenis, Morin",F,Piambil 2,Household Duties,26 Apr 1997
+879,160182957,"Tepatoli, Agnes",F,Piambil 2,Housegirl,01 Jan 1979
+880,160175980,"Tepatoli, Mary",F,Piambil 2,Housegirl,01 Jan 1971
+881,160183003,"Tepatoli, Moropiye",F,Piambil 2,Household Duties,01 Jan 1959
+882,160440783,"Tero, Lyn",F,Piambil 2,Household Duties,15 Feb 2003
+883,25083314,"Thomas, Anna",F,Piambil 2,Household Duties,21 Nov 1998
+884,160171908,"Thomas, Cecelia",F,Piambil 2,Household Duties,01 Jan 1970
+885,160196057,"Thomas, Emolin",F,Piambil 2,Student,01 Jan 2000
+886,160209746,"Thomas, Josephine",F,Piambil 2,Student,01 Jan 1987
+887,160184907,"Thomas, Josphin",F,Piambil 2,Household Duties,01 Jan 1982
+888,160187064,"Thomas, Liliyen",F,Piambil 2,Not Specified,02 Jun 1973
+889,160196220,"Tili, Rita",F,Piambil 2,Household Duties,04 Nov 1977
+890,160180529,"Timothy, Joycelline",F,Piambil 2,Student,01 Jan 1982
+891,160180530,"Timothy, Mondi",F,Piambil 2,Housegirl,01 Jan 1984
+892,160119141,"Timothy, Monica",F,Piambil 2,Subsistence Farmer,23 Dec 1985
+893,160185093,"Timothy, Rosely",F,Piambil 2,Household Duties,01 Jan 1979
+894,160440365,"Timson, Monica",F,Piambil 2,Nurse,09 Aug 2002
+895,160187861,"Tipi, Nency",F,Piambil 2,Household Duties,01 Jan 2000
+896,160185208,"Tiye, Poyo",F,Piambil 2,Household Duties,01 Jan 1940
+897,160187871,"Tiyopai, Miti",F,Piambil 2,Household Duties,01 Jan 1953
+898,160187872,"Tiyopai, Rica",F,Piambil 2,Student,01 Jan 1988
+899,160190127,"Toipo, Miti",F,Piambil 2,Household Duties,01 Jan 1977
+900,160220526,"Tokopa, Berem",F,Piambil 2,Household Duties,01 Jan 1968
+901,160210142,"Tokopa, Dikeno",F,Piambil 2,Household Duties,01 Jan 1961
+902,160220468,"Tokopa, Laki",F,Piambil 2,Household Duties,01 Jan 2000
+903,160209732,"Tokopa, Maria",F,Piambil 2,Household Duties,01 Jan 1972
+904,160187665,"Tokopa, Naldi",F,Piambil 2,Household Duties,01 Jan 1975
+905,25087294,"Tokopa, Olivia",F,Piambil 2,Student,23 Mar 2000
+906,160209734,"Tokopa, Teke",F,Piambil 2,Teacher,01 Jan 1966
+907,160440709,"Tomano, Maiya",F,Piambil 2,Student,22 Mar 2004
+908,160188260,"Tomano, Makdalyn",F,Piambil 2,Student,01 Jan 2000
+909,160188256,"Tomano, Melisa",F,Piambil 2,Student,01 Jan 2000
+910,160188255,"Tomano, Mone",F,Piambil 2,Household Duties,01 Jan 2000
+911,25083336,"Tomo, Adasa",F,Piambil 2,Household Duties,12 Jan 1999
+912,25083341,"Tomo, Charity",F,Piambil 2,Subsistence Farmer,27 Aug 1998
+913,25083348,"Tomo, Humbin",F,Piambil 2,Household Duties,13 Sep 1998
+914,160187086,"Tona, Mipeli",F,Piambil 2,Household Duties,01 Jan 1980
+915,160196999,"Tondolal, Kingoi",F,Piambil 2,Household Duties,01 Jan 2000
+916,25083352,"Tondy, Ruth",F,Piambil 2,Store Keeper,16 Mar 2000
+917,160190619,"Tongela, Heni",F,Piambil 2,Nurse,01 Jan 1976
+918,25083369,"Tonny, Wari",F,Piambil 2,Student,11 Apr 2004
+919,160119110,"Topa, Julian",F,Piambil 2,Subsistence Farmer,21 Dec 1994
+920,160136191,"Topa, Merolyn",F,Piambil 2,Subsistence Farmer,06 Jun 1994
+921,160180890,"Topa, Wamoli",F,Piambil 2,Household Duties,01 Jan 1956
+922,160190615,"Toringi, Betty",F,Piambil 2,Household Duties,01 Jan 2000
+923,160119191,"Toringi, Kuku",F,Piambil 2,Student,02 Sep 1996
+924,160440376,"Toringi, Merolyn",F,Piambil 2,Household Duties,18 Sep 2001
+925,160220693,"Toringi, Nindeme",F,Piambil 2,Household Duties,01 Jan 1969
+926,160190607,"Toringi, Tema",F,Piambil 2,Household Duties,01 Jan 2000
+927,160136172,"Toringi, Vero",F,Piambil 2,Household Duties,13 Aug 1989
+928,25083374,"Toropo, Ajice",F,Piambil 2,Household Duties,27 Oct 1997
+929,160153048,"Toropo, Puke",F,Piambil 2,Household Duties,01 Jan 2000
+930,160155894,"Toropo, Veronica",F,Piambil 2,Housegirl,01 Jan 1975
+931,160198345,"Toya, Linna",F,Piambil 2,Subsistence Farmer,11 Oct 1969
+932,160176271,"Tres, Aniye",F,Piambil 2,Household Duties,01 Mar 1962
+933,160222299,"Tumba, Sina",F,Piambil 2,Household Duties,01 Jan 1980
+934,160209727,"Tumbo, Opame",F,Piambil 2,Household Duties,01 Jan 1970
+935,160201212,"Tumbura, Kapaly",F,Piambil 2,Household Duties,01 Jan 1969
+936,160217774,"Tumoli, Pareka",F,Piambil 2,Household Duties,01 Jan 2000
+937,160188288,"Ulu, Kaa",F,Piambil 2,Household Duties,01 Jan 1977
+938,160175744,"Una, Bepi",F,Piambil 2,Household Duties,01 Jan 1979
+939,160155867,"Undy james, Pipa",F,Piambil 2,Household Duties,01 Jan 1974
+940,160180753,"Upu, Kewei",F,Piambil 2,Household Duties,01 Jan 1979
+941,160196133,"Urape, Ruth",F,Piambil 2,Household Duties,01 Jan 1978
+942,160195971,"Uruepe, Waodi",F,Piambil 2,Household Duties,01 Jan 1900
+943,160182916,"Urupaiye, Laki",F,Piambil 2,Not Specified,27 Apr 1980
+944,160167621,"Veronica, Kupana",F,Piambil 2,Student,01 Jan 1985
+945,160216196,"Wakaile, Kewambo",F,Piambil 2,Household Duties,01 Jan 1968
+946,160185003,"Wake, Ambile",F,Piambil 2,Household Duties,01 Jan 1961
+947,160184903,"Wakena, Jully",F,Piambil 2,Student,11 Dec 1981
+948,160195966,"Wakeno, Kakenalel",F,Piambil 2,Household Duties,03 Apr 1948
+949,160195712,"Wakeno, Ronda",F,Piambil 2,Household Duties,06 Mar 1979
+950,160195708,"Wakeno, Steveni",F,Piambil 2,Household Duties,28 Apr 1982
+951,160119261,"Wan, Gibsen",F,Piambil 2,Subsistence Farmer,03 Jul 1986
+952,160158834,"Wan, Thomas",F,Piambil 2,Household Duties,12 Mar 1964
+953,160194147,"Wandui, Sera",F,Piambil 2,Housegirl,01 Jan 1931
+954,25083414,"Wane, Clair",F,Piambil 2,Student,09 Jun 2002
+955,160136170,"Wane, Graclin",F,Piambil 2,Student,16 Feb 1986
+956,160119285,"Wane, Jocy",F,Piambil 2,Student,11 May 1988
+957,160190345,"Wane, Joice",F,Piambil 2,Household Duties,01 Jan 1975
+958,160220470,"Wane, Kalap",F,Piambil 2,Household Duties,01 Jan 1979
+959,160136320,"Wane, Roselyn",F,Piambil 2,Student,24 Jun 1997
+960,160165243,"Wangi, Jully",F,Piambil 2,Student,02 Sep 1970
+961,160173226,"Wangi, Panze",F,Piambil 2,Student,08 Oct 1975
+962,160189957,"Wania, Mepali",F,Piambil 2,Household Duties,01 Jan 1965
+963,160194435,"Wanis, Betty",F,Piambil 2,Student,04 Oct 1990
+964,160440045,"Wanis, Deloma",F,Piambil 2,Student,10 Nov 2003
+965,160440043,"Wanis, Emilin",F,Piambil 2,Student,10 Nov 2003
+966,160185111,"Wanis, Epa",F,Piambil 2,Sales Women,03 Apr 1971
+967,160440216,"Wanis, Healin",F,Piambil 2,Student,14 Aug 2003
+968,160176249,"Wanis, Jacklin",F,Piambil 2,Student,06 Apr 1989
+969,160188398,"Wanis, Kusa",F,Piambil 2,Household Duties,01 Jan 1964
+970,160440038,"Wanis, Lily",F,Piambil 2,Student,10 Feb 2000
+971,160119216,"Wanis, Lily",F,Piambil 2,Student,01 Nov 1996
+972,160196876,"Wanis, Pilemb",F,Piambil 2,Household Duties,01 Jan 2000
+973,160175722,"Wanis, Pogalam",F,Piambil 2,Household Duties,01 Jan 1965
+974,160187763,"Wanis, Roggy",F,Piambil 2,Household Duties,01 Jan 1967
+975,160171744,"Wanis, Sieambo",F,Piambil 2,Household Duties,06 Mar 1979
+976,160189725,"Wanis, Soti",F,Piambil 2,Student,01 Jan 2000
+977,160190004,"Wanis, Tiro",F,Piambil 2,Household Duties,01 Jan 1966
+978,160187049,"Wanis, Yarapo",F,Piambil 2,Household Duties,01 Jan 2000
+979,25083436,"Wanpis, Kelen",F,Piambil 2,Household Duties,12 Mar 2001
+980,25083439,"Wanpis, Lucy",F,Piambil 2,Student,13 Apr 2000
+981,25083445,"Wendi, Wesely",F,Piambil 2,Pastor,14 Feb 1993
+982,160440498,"Wesley, Bomakop",F,Piambil 2,Student,27 Sep 2001
+983,160440500,"Wesley, Indira",F,Piambil 2,Student,21 Mar 2003
+984,25083447,"Wesley, Jessica",F,Piambil 2,Housegirl,16 Jul 1999
+985,25083449,"Wesley, Ruth",F,Piambil 2,Housegirl,14 Oct 1998
+986,160218211,"Wesley, Vero",F,Piambil 2,Warder,01 Jan 1981
+987,160213640,"Win, Joy",F,Piambil 2,Household Duties,01 Jan 1970
+988,160171812,"Win, Lina",F,Piambil 2,Household Duties,01 Jan 1980
+989,160119077,"Winis, Charity",F,Piambil 2,Baby Sitter,11 Feb 1999
+990,160185109,"Winis, Juddy",F,Piambil 2,Household Duties,01 Jan 1976
+991,160119076,"Winis, Sovie",F,Piambil 2,Typist,24 Mar 1997
+992,160218827,"Yala, Mape",F,Piambil 2,Household Duties,01 Jan 1971
+993,160187521,"Yala, Mondo",F,Piambil 2,Household Duties,01 Jan 1950
+994,160440710,"Yala, Rhonda",F,Piambil 2,Housegirl,11 Jan 2004
+995,160440382,"Yala, Senita",F,Piambil 2,Student,24 Nov 2002
+996,160158823,"Yalla, Elizabeth",F,Piambil 2,Household Duties,01 Jan 2000
+997,160155953,"Yalla, July",F,Piambil 2,Household Duties,01 Jan 2000
+998,160155812,"Yalla, Rose",F,Piambil 2,Student,01 Jan 2000
+999,160153193,"Yama, Janet",F,Piambil 2,Student,01 Jan 1983
+1000,160153035,"Yama, Merlyn",F,Piambil 2,Student,01 Jan 1986
+1001,160163137,"Yama, Tame",F,Piambil 2,Household Duties,01 Jan 2000
+1002,160169264,"Yama, Urukamb",F,Piambil 2,Household Duties,01 Oct 1900
+1003,160155726,"Yama, Yarra",F,Piambil 2,Household Duties,01 Jan 2000
+1004,160119100,"Yamba, Anna",F,Piambil 2,Teacher,13 May 1983
+1005,160180766,"Yamba, Cathy",F,Piambil 2,Household Duties,01 Jan 2000
+1006,160136190,"Yamba, Mokoli",F,Piambil 2,Subsistence Farmer,17 Jun 1970
+1007,25087308,"Yanapin, Ruthy",F,Piambil 2,Household Duties,03 Oct 1998
+1008,25083457,"Yangpin, Gracelyn",F,Piambil 2,Subsistence Farmer,20 Oct 2002
+1009,25083462,"Yangpin, Melrose",F,Piambil 2,Household Duties,12 Oct 2000
+1010,25083467,"Yangpin, Myra",F,Piambil 2,Teacher,25 Mar 1986
+1011,160440397,"Yapa, Dorin",F,Piambil 2,Teacher,23 Dec 2000
+1012,160153645,"Yapa, Kuldu",F,Piambil 2,Household Duties,01 Jan 1937
+1013,25083471,"Yapa, Sylvia",F,Piambil 2,Student,20 Oct 2000
+1014,160175939,"Yapo, Bekeline",F,Piambil 2,Not Specified,08 Oct 1965
+1015,160139987,"Yapo, Jally",F,Piambil 2,Student,01 Jan 2000
+1016,160139969,"Yapo, Rice",F,Piambil 2,Household Duties,01 Jan 2000
+1017,160139986,"Yapo, Rossly",F,Piambil 2,Household Duties,01 Jan 2000
+1018,25083475,"Yapox, Nancy",F,Piambil 2,Student,22 Dec 2001
+1019,25083478,"Yapus, Anite",F,Piambil 2,Household Duties,03 Dec 1997
+1020,25083484,"Yapus, Julie",F,Piambil 2,Household Duties,02 Dec 1996
+1021,25083486,"Yapus, Priscilla",F,Piambil 2,Student,29 Jan 2002
+1022,25083488,"Yapus, Regina",F,Piambil 2,Household Duties,07 Mar 2002
+1023,160209736,"Yaya, Penny",F,Piambil 2,Household Duties,01 Jan 1977
+1024,160162662,"Yok, Rose",F,Piambil 2,Household Duties,01 Jan 1977
+1025,25083496,"Yongpin, Berry",F,Piambil 2,Household Duties,28 Oct 2001
+1026,160167763,"Yope, Jacinta",F,Piambil 2,Student,01 Jan 2000
+1027,160175721,"Yope, Moiye",F,Piambil 2,Household Duties,01 Jan 2000
+1028,160212582,"Yopolo, Wapuneme",F,Piambil 2,Household Duties,01 Jan 1951
+1029,160191270,"Yosep, Ais",F,Piambil 2,Household Duties,01 Jan 2000
+1030,160176025,"Yosep, Naple",F,Piambil 2,Household Duties,04 Jan 1969
+1031,160189723,"Yosep, Polin",F,Piambil 2,Student,06 Apr 1990
+1032,160211369,"Yuan, Bepi",F,Piambil 2,Household Duties,21 Feb 1974
+1033,160212517,"Yuan, Kala",F,Piambil 2,Housegirl,07 Aug 1990
+1034,160197116,"Yuan, Rosly",F,Piambil 2,Household Duties,01 Jan 1967
+1035,160209854,"Yuka, Rosly",F,Piambil 2,Household Duties,01 Jan 1980
+1036,160216668,"Yukar, Nate",F,Piambil 2,Household Duties,01 Jan 1979
+1037,160188629,"Yukar, Rebecca",F,Piambil 2,Student,01 Jan 1978
+1038,160119357,"Yupa, Lucy",F,Piambil 2,Student,03 Jun 1987
+1039,160191106,"Yupa, Magaret",F,Piambil 2,Household Duties,01 Jan 1976
+1040,160191289,"Yupa, Pipuru",F,Piambil 2,Household Duties,01 Jan 1943
+1041,160119356,"Yupa, Seron",F,Piambil 2,Sales Women,12 Apr 1986
+1042,160156081,"Yura, Jenny",F,Piambil 2,Housegirl,01 Jan 1979
+1043,160155992,"Yura, Rosemary",F,Piambil 2,Housegirl,01 Jan 1979
+1044,160153662,"Yura, Yanna",F,Piambil 2,Household Duties,01 Jan 1969
+1045,25083503,"Ywane, Etna",F,Piambil 2,Typist,25 Feb 2001
+1046,160184859,"Zau, Merillyn",F,Piambil 2,Household Duties,01 Jan 1951
+1047,25123634,"Abraham, Joel",M,Piambil 2,Subsistence Farmer,13 Jun 1992
+1048,160185178,"Adia, Pora",M,Piambil 2,Subsistence Farmer,01 Jan 1968
+1049,160163128,"Ainjo, Jackob",M,Piambil 2,Student,01 Jan 2000
+1050,160163115,"Ainjo, Jackson",M,Piambil 2,Student,01 Jan 2000
+1051,160165369,"Ainjo, Pilip",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1052,160167286,"Ake, Tano",M,Piambil 2,Subsistence Farmer,01 Jan 1970
+1053,160167287,"Akiyemu, Pulemu",M,Piambil 2,Subsistence Farmer,01 Jan 1968
+1054,160215727,"Akop, Jesi",M,Piambil 2,Student,01 Jan 1989
+1055,160210138,"Akowaiye, Bembo",M,Piambil 2,Policeman,01 Jan 1934
+1056,160155838,"Aldu, Jim",M,Piambil 2,Student,20 Mar 1982
+1057,160155834,"Aldu, Tepu",M,Piambil 2,Student,04 Mar 1980
+1058,160209972,"Alekou, Kopi",M,Piambil 2,Student,01 Jan 1986
+1059,160180765,"Alenga, Konjili",M,Piambil 2,Subsistence Farmer,01 Jan 1951
+1060,160176028,"Alenga, Wanis",M,Piambil 2,Pastor,01 Jan 2000
+1061,160119104,"Alex, Jayson",M,Piambil 2,Subsistence Farmer,25 Apr 1996
+1062,160176149,"Algo, Duggle",M,Piambil 2,Student,14 Sep 1988
+1063,160167692,"Algo, Wanepo",M,Piambil 2,Subsistence Farmer,01 Jan 1959
+1064,160119372,"Alko, Goerge",M,Piambil 2,Subsistence Farmer,20 May 1990
+1065,160119371,"Alko, Puri",M,Piambil 2,Driver,16 Mar 1980
+1066,25123638,"Allex, Waniye",M,Piambil 2,Student,12 Jun 2000
+1067,160187633,"Alson, Dape",M,Piambil 2,Subsistence Farmer,10 Dec 1975
+1068,160167705,"Altu, Pareka",M,Piambil 2,Subsistence Farmer,01 Jan 1974
+1069,160193259,"Ambere, Gole",M,Piambil 2,Student,25 Sep 1980
+1070,160193110,"Ambere, Nelson",M,Piambil 2,Student,01 Jun 1984
+1071,160193087,"Ambere, Nickson",M,Piambil 2,Student,05 Apr 1981
+1072,25123640,"Amos, James",M,Piambil 2,Student,28 Apr 2004
+1073,160165365,"Anareya, Pengrip",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1074,160163127,"Andareya, Bembo",M,Piambil 2,Driver,01 Jan 2000
+1075,160165366,"Andareya, Poldo",M,Piambil 2,Aid Post Orderly,01 Jan 2000
+1076,160167855,"Ande, Bob",M,Piambil 2,Subsistence Farmer,01 Jan 1982
+1077,160167290,"Andeyo, Makuiye",M,Piambil 2,Subsistence Farmer,01 Jan 1968
+1078,160196317,"Andi, Korowa",M,Piambil 2,Subsistence Farmer,01 Apr 1960
+1079,160199114,"Andi, Sua",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1080,160440248,"Andia, Mathew",M,Piambil 2,Driver,17 Mar 2001
+1081,160163107,"Andoma, Nagu",M,Piambil 2,Student,01 Jan 2000
+1082,160440275,"Andop, Subestin",M,Piambil 2,Student,18 Oct 2001
+1083,25123647,"Andrew, Michae",M,Piambil 2,Student,16 Feb 2000
+1084,160155816,"Anjo, Wanpis",M,Piambil 2,Subsistence Farmer,21 Oct 1976
+1085,160216227,"Annda, Yukar",M,Piambil 2,Magistrate,01 Jan 1942
+1086,160163121,"Anoiye, Billy",M,Piambil 2,Student,01 Jan 2000
+1087,160163131,"Anoiye, Gilly",M,Piambil 2,Student,01 Jan 2000
+1088,160163123,"Anoiye, Jackson",M,Piambil 2,Student,01 Jan 2000
+1089,160163124,"Anoiye, Kiyapa",M,Piambil 2,Student,01 Jan 2000
+1090,160167698,"Antere, Mandi",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+1091,160169276,"Apa, Meta",M,Piambil 2,Driver,13 Feb 1973
+1092,160440318,"Ape, Ben",M,Piambil 2,Student,18 Feb 2001
+1093,25123653,"Ape, Cain",M,Piambil 2,Student,14 Feb 2000
+1094,160440069,"Ape, Maidon",M,Piambil 2,Student,15 May 2003
+1095,160191121,"Ape, Moses",M,Piambil 2,Subsistence Farmer,01 Jan 1943
+1096,160210579,"Ape, Olei",M,Piambil 2,Subsistence Farmer,01 Jan 1946
+1097,160193260,"Ape, Talagipul",M,Piambil 2,Subsistence Farmer,01 Jan 1985
+1098,160210141,"Ape, Tokopa",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+1099,160119147,"Ape, Tom",M,Piambil 2,Sales Women,11 Apr 1999
+1100,160440067,"Ape, Waringi",M,Piambil 2,Student,14 Mar 2003
+1101,160188382,"Arumbi, Kaima",M,Piambil 2,Subsistence Farmer,01 Jan 1940
+1102,160180860,"Arumbi, Kakoli",M,Piambil 2,Subsistence Farmer,01 Jan 1986
+1103,160187880,"Arume, Aiye",M,Piambil 2,Subsistence Farmer,01 Jan 1986
+1104,160177480,"Arume, Angela",M,Piambil 2,Subsistence Farmer,01 Jan 1982
+1105,160167291,"Arume, Kololi",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1106,160167699,"Arume, Kundip",M,Piambil 2,Subsistence Farmer,01 Jan 1966
+1107,160177648,"Arume, Talo",M,Piambil 2,Subsistence Farmer,01 Jan 1960
+1108,160167700,"Arume, Tilto",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+1109,160190552,"Arume, Tilto",M,Piambil 2,Subsistence Farmer,01 Jan 1982
+1110,160201909,"Arume, Tilto",M,Piambil 2,Subsistence Farmer,01 Jan 1965
+1111,160167292,"Arume, Tiye",M,Piambil 2,Subsistence Farmer,01 Jan 1984
+1112,160440641,"Aruru, Coinly",M,Piambil 2,Student,13 Jul 2001
+1113,25123654,"Aruru, Don",M,Piambil 2,Student,16 May 2000
+1114,160183057,"Balus, Komon",M,Piambil 2,Subsistence Farmer,28 Apr 1970
+1115,160167450,"Balus, Korowi",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+1116,160440728,"Balus, Simbona",M,Piambil 2,Carpenter,17 Jan 1997
+1117,160175989,"Balus, Wini",M,Piambil 2,Subsistence Farmer,20 Jan 1978
+1118,160165381,"Bani, Peter",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1119,160180371,"Bembo, Imbi",M,Piambil 2,Houseboy,01 Jan 1989
+1120,160177905,"Bembo, Oki",M,Piambil 2,Houseboy,01 Jan 1980
+1121,160178001,"Bembo, Samson",M,Piambil 2,Subsistence Farmer,01 Jan 1983
+1122,160119267,"Benbo, Nathanial",M,Piambil 2,Student,30 Jan 1996
+1123,160136339,"Benjamin, Kapola",M,Piambil 2,Subsistence Farmer,14 Nov 1987
+1124,160211378,"Benjamin, Lucas",M,Piambil 2,Student,18 Nov 1990
+1125,160136341,"Benjamin, Puke",M,Piambil 2,Student,28 Jun 1991
+1126,25123656,"Benneth, Joe",M,Piambil 2,Subsistence Farmer,14 Feb 2000
+1127,160155880,"Bepa, Simings",M,Piambil 2,Doctor,01 Jan 1982
+1128,25123658,"Billy, Alphonse",M,Piambil 2,Student,15 Mar 1992
+1129,160167274,"Billy, Gideon",M,Piambil 2,Student,01 Jan 1984
+1130,160167295,"Billy, Gilbert",M,Piambil 2,Student,01 Jan 1986
+1131,160167276,"Billy, Glick",M,Piambil 2,Student,01 Jan 1990
+1132,160167297,"Billy, Godfree",M,Piambil 2,Student,01 Jan 1988
+1133,160165376,"Billy, Gorden",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1134,160440300,"Billy, Nathan",M,Piambil 2,Student,16 Jul 2001
+1135,160119271,"Billy, Ricky",M,Piambil 2,Student,21 Sep 1997
+1136,160165377,"Billy, Simon",M,Piambil 2,Student,01 Jan 1980
+1137,160160444,"Bob, Juniors",M,Piambil 2,Subsistence Farmer,09 Feb 1971
+1138,160175954,"Boke, Laswan",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1139,160183229,"Boke, Yosep",M,Piambil 2,Subsistence Farmer,01 Mar 1954
+1140,25123660,"Bruse, Bob",M,Piambil 2,Student,28 Jun 2000
+1141,160169261,"Bunungo, Beneth",M,Piambil 2,Student,01 Jan 1986
+1142,25123663,"Charles, Joe",M,Piambil 2,Teacher,13 Jun 1999
+1143,25123664,"Clemnet, Clitus",M,Piambil 2,Student,26 Jun 2001
+1144,160169178,"Daiye, Gula",M,Piambil 2,Not Specified,01 Jan 2000
+1145,160219191,"Daiye, Lucas",M,Piambil 2,Student,01 Jan 1988
+1146,160219033,"Daiye, Max",M,Piambil 2,Cook,01 Jan 1986
+1147,160136207,"Daiye, Philip",M,Piambil 2,Accountant,27 May 1997
+1148,160440278,"Dalon, Flexon",M,Piambil 2,Student,21 Oct 2001
+1149,160440253,"Daniel, Benny",M,Piambil 2,Student,24 Jan 2003
+1150,160210306,"Daniel, Dan",M,Piambil 2,Student,01 Jan 1980
+1151,25123665,"Daniel, Oneil",M,Piambil 2,Student,10 Mar 2000
+1152,25123666,"Daniel, Precey",M,Piambil 2,Student,14 Feb 2000
+1153,160440695,"Daniel, Titus",M,Piambil 2,Student,28 Apr 2004
+1154,160440674,"Dano, Plues",M,Piambil 2,Carpenter,12 Feb 1987
+1155,160119334,"Dape, Lomex",M,Piambil 2,Student,28 Jan 1998
+1156,160119333,"Dape, Tom",M,Piambil 2,Mechanic,12 Jan 1996
+1157,160213826,"Dapen, Moses",M,Piambil 2,Subsistence Farmer,01 Jan 1979
+1158,160440428,"Dareka, Terence",M,Piambil 2,Subsistence Farmer,13 Mar 2003
+1159,160440367,"Dasip, Livai",M,Piambil 2,Student,24 Mar 1999
+1160,25123667,"Dau, Camron",M,Piambil 2,Student,29 May 1999
+1161,25123669,"Dau, Mesick",M,Piambil 2,Student,29 May 1998
+1162,160440693,"David, Karl",M,Piambil 2,Student,12 Jun 2001
+1163,160177664,"Dawon, Moses lopeke",M,Piambil 2,Subsistence Farmer,01 Jan 1979
+1164,160186002,"Dembis, John",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+1165,160182883,"Dembis, Koi",M,Piambil 2,Driver,01 Jan 1970
+1166,160167632,"Dena, Mom",M,Piambil 2,Subsistence Farmer,10 Aug 1958
+1167,25123671,"Dickson, Junior",M,Piambil 2,Student,16 Mar 2003
+1168,160162722,"Diowai, George",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1169,160119205,"Diwi, Jeremaih",M,Piambil 2,Sales Women,18 Apr 1984
+1170,160119202,"Diwi, Max",M,Piambil 2,Self Employed,03 Feb 1985
+1171,160182979,"Diwi, Max",M,Piambil 2,Student,01 Jan 1987
+1172,160165260,"Dokta, Luke",M,Piambil 2,Subsistence Farmer,01 Jan 1974
+1173,160165255,"Dokta, Robert",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1174,160209952,"Dongbiang, Kole",M,Piambil 2,Subsistence Farmer,01 Jan 1981
+1175,160169272,"Dop, Hepi",M,Piambil 2,Not Specified,01 Jan 1979
+1176,160169417,"Dop, Mark",M,Piambil 2,Student,01 Jan 1984
+1177,160190540,"Dop, Nuka",M,Piambil 2,Subsistence Farmer,01 Jan 1978
+1178,160169279,"Dop, Peso",M,Piambil 2,Student,01 Jan 1978
+1179,160194417,"Dop, Wanpis",M,Piambil 2,Student,01 Jan 1986
+1180,160196165,"Dopo, Daniel",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1181,160196168,"Dopo, Yaki",M,Piambil 2,Student,01 Jan 2000
+1182,160185127,"Dora, Simon",M,Piambil 2,Subsistence Farmer,24 Dec 1983
+1183,160202454,"Dowa, Pom",M,Piambil 2,Driver,01 Jan 1971
+1184,160187678,"Dume, Ope",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1185,160187043,"Dupi, Tenge",M,Piambil 2,Student,01 Jan 1983
+1186,160155956,"Duringi, Hepone",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1187,160209743,"Eka, Nakanoli",M,Piambil 2,Subsistence Farmer,01 Jan 1954
+1188,160198751,"Ekep, Koki",M,Piambil 2,Student,01 Jan 1988
+1189,160155845,"Ekepele, Dapen",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+1190,160213822,"Ekepele, Loraiye",M,Piambil 2,Subsistence Farmer,17 Sep 1950
+1191,160440438,"Eman, Bolo",M,Piambil 2,Student,17 Feb 2001
+1192,160177494,"Emba, Kamenda",M,Piambil 2,Subsistence Farmer,01 Jan 1966
+1193,160177485,"Emba, Nanu",M,Piambil 2,Student,01 Jan 1983
+1194,160119213,"Emba, Paul",M,Piambil 2,Subsistence Farmer,19 Jul 1987
+1195,160119212,"Emba, Petrus",M,Piambil 2,Subsistence Farmer,12 Mar 1986
+1196,160218940,"Ena, Kapola",M,Piambil 2,Student,01 Jan 1984
+1197,160218938,"Ena, Manda",M,Piambil 2,Student,01 Jan 1981
+1198,160218935,"Ena, Mek",M,Piambil 2,Subsistence Farmer,01 Jan 1988
+1199,160194813,"Enaroi, Kuno",M,Piambil 2,Subsistence Farmer,01 Jan 1978
+1200,160180863,"Enga, Patero",M,Piambil 2,Subsistence Farmer,01 Jan 1961
+1201,160169061,"Enga, Tende",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+1202,160196293,"Enga, Yara",M,Piambil 2,Subsistence Farmer,01 Jan 1973
+1203,160201643,"Enge, Mambo",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+1204,160220472,"Enge, Mambu",M,Piambil 2,Subsistence Farmer,01 Jan 1986
+1205,160198475,"Enge, Nale",M,Piambil 2,Subsistence Farmer,01 Jan 1970
+1206,160201452,"Enge, Namba",M,Piambil 2,Subsistence Farmer,01 Jan 1972
+1207,160221004,"Enge, Wane",M,Piambil 2,Subsistence Farmer,01 Jan 1986
+1208,160155955,"Erike, Elisa",M,Piambil 2,Subsistence Farmer,01 Jan 1965
+1209,160197150,"Erike, James",M,Piambil 2,Student,01 Jan 1969
+1210,160197004,"Erike, Samuel",M,Piambil 2,Student,01 Jan 1963
+1211,160175988,"Etena, Morope",M,Piambil 2,Subsistence Farmer,01 Jan 1953
+1212,160216055,"Etena, Wane",M,Piambil 2,Subsistence Farmer,01 Jan 1984
+1213,160440654,"Etu, Verolyn",M,Piambil 2,Student,21 Jul 2003
+1214,25123674,"Felix, Simon",M,Piambil 2,Subsistence Farmer,29 Mar 1992
+1215,160440723,"Firman, Yale",M,Piambil 2,Subsistence Farmer,28 Jan 1989
+1216,25123675,"Francis, Brandy",M,Piambil 2,Student,14 Mar 1996
+1217,25123676,"Francis, Jeffery",M,Piambil 2,Student,14 Feb 1998
+1218,160440262,"Francis, Stanfordp",M,Piambil 2,Student,25 Feb 2001
+1219,160197140,"Galgai, Kondowa",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1220,160119231,"Garu, James",M,Piambil 2,Student,12 Dec 1996
+1221,160153041,"Garu, Johnson",M,Piambil 2,Panel Beater,01 Jan 2000
+1222,160182626,"Gelba, Koipa",M,Piambil 2,Subsistence Farmer,29 Jun 1962
+1223,160440752,"Geno, Inme",M,Piambil 2,Farm worker,15 Mar 2002
+1224,160198488,"Gini, Kulumbu",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+1225,160136352,"Gini, Lucas",M,Piambil 2,Subsistence Farmer,17 Apr 1997
+1226,160216671,"Gini, Piska",M,Piambil 2,Driver,04 May 1969
+1227,160176254,"Gini, Raume",M,Piambil 2,Subsistence Farmer,01 Jan 1949
+1228,160216672,"Gini, Siriku",M,Piambil 2,Subsistence Farmer,14 Dec 1931
+1229,160175741,"Gini, Wini",M,Piambil 2,Subsistence Farmer,01 Jan 1962
+1230,160173375,"Giwa, Muruk",M,Piambil 2,Student,01 Jan 1982
+1231,160167611,"Giwa, Wanis",M,Piambil 2,Subsistence Farmer,01 Jan 1972
+1232,160173357,"Giwa, Yapo",M,Piambil 2,Store Keeper,01 Jan 1975
+1233,160201898,"Gloraiye, Daiye",M,Piambil 2,Subsistence Farmer,01 Jan 1977
+1234,160182540,"Gloraiye, Jeremaiah",M,Piambil 2,Student,01 Jan 2000
+1235,160177876,"Gloraiye, Maine",M,Piambil 2,Subsistence Farmer,01 Jan 1985
+1236,160177652,"Gloraiye, Malto",M,Piambil 2,Cleaner,01 Jan 1976
+1237,160177653,"Gloraiye, Noge",M,Piambil 2,Security,01 Jan 1982
+1238,160194678,"Goipe, Tim",M,Piambil 2,Subsistence Farmer,01 Jan 1937
+1239,160188707,"Goraiye, Yapa",M,Piambil 2,Subsistence Farmer,02 Nov 1966
+1240,160191267,"Gris, Joe",M,Piambil 2,Subsistence Farmer,01 Jan 1968
+1241,160119163,"Gula, Mike",M,Piambil 2,Mechanic,28 Feb 1998
+1242,25123682,"Gula, Simon",M,Piambil 2,Student,11 Jan 2001
+1243,160440487,"Gule, Daison",M,Piambil 2,Student,04 Apr 2003
+1244,160119299,"Gule, Jessy",M,Piambil 2,Student,03 Jun 1987
+1245,160158925,"Gupe, Akens",M,Piambil 2,Subsistence Farmer,01 Jan 1970
+1246,160162904,"Gupe, Tai",M,Piambil 2,Mechanic,01 Jan 1980
+1247,160162858,"Gupe, Win",M,Piambil 2,Subsistence Farmer,01 Jan 1977
+1248,160193354,"Harur, Michael",M,Piambil 2,Subsistence Farmer,01 Jan 1980
+1249,160194424,"Harur, Yapo",M,Piambil 2,Driver,01 Jan 1975
+1250,160169187,"Hawks, Ryanne",M,Piambil 2,Student,12 Nov 1982
+1251,160176030,"Hawks, Tano",M,Piambil 2,Subsistence Farmer,04 Mar 1965
+1252,160439996,"Honda, Fembi",M,Piambil 2,Student,14 Aug 2003
+1253,160440050,"Honda, Jessy",M,Piambil 2,Student,28 Apr 2003
+1254,160440048,"Honda, Kumi",M,Piambil 2,Student,07 Aug 2000
+1255,160218160,"Hotly, John",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1256,160165733,"Hule, Maki",M,Piambil 2,Subsistence Farmer,01 Jan 1978
+1257,160165730,"Hule, Mark",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+1258,160160293,"Hule, Tande",M,Piambil 2,Student,01 Jan 1988
+1259,160198495,"Iambaky, Kiagal",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+1260,160197209,"Iki, Kereme",M,Piambil 2,Student,01 Jan 1979
+1261,160197215,"Iki, Kopele",M,Piambil 2,Student,01 Jan 1981
+1262,25123687,"Iki, Rainbow",M,Piambil 2,Student,04 Dec 2000
+1263,160194623,"Iki, Tendel",M,Piambil 2,Subsistence Farmer,01 Jan 1979
+1264,160119272,"Iko, Josua",M,Piambil 2,Student,01 May 1997
+1265,160196251,"Iko, Kopen",M,Piambil 2,Pastor,01 Jan 1943
+1266,160197224,"Imbu, Kepa",M,Piambil 2,Subsistence Farmer,01 Jan 1972
+1267,160197202,"Imimb, Johna",M,Piambil 2,Student,01 Jan 1989
+1268,160201339,"Ipo, Kerowa",M,Piambil 2,Subsistence Farmer,01 Jan 1967
+1269,160197111,"Ipo, Kerowa johnson",M,Piambil 2,Subsistence Farmer,01 Jan 1980
+1270,160220455,"Ipo, Urupaiye",M,Piambil 2,Subsistence Farmer,01 Jan 1968
+1271,160196305,"Irere, Pombo",M,Piambil 2,Subsistence Farmer,01 Jan 1978
+1272,160119117,"Irex, John",M,Piambil 2,Student,02 Nov 1998
+1273,160119115,"Irex, Mano",M,Piambil 2,Student,26 Sep 1995
+1274,160440580,"Isipa, Wondis",M,Piambil 2,Student,28 Feb 2004
+1275,25123688,"Ismael, Jack",M,Piambil 2,Student,28 Apr 2004
+1276,25123692,"Jackob, Daniel",M,Piambil 2,Student,27 Jul 2000
+1277,160182564,"Jacob, Isacch",M,Piambil 2,Driver,01 Jan 1980
+1278,25123697,"Jacob, Issac",M,Piambil 2,Student,12 Mar 1999
+1279,160169257,"Jacob, Jason",M,Piambil 2,Student,01 Jan 1987
+1280,160175978,"Jacob, Job",M,Piambil 2,Subsistence Farmer,05 Sep 1972
+1281,160169282,"Jacob, Joe",M,Piambil 2,Subsistence Farmer,01 Jan 1980
+1282,160182567,"Jacob, Peter",M,Piambil 2,Student,01 Jan 1982
+1283,160182903,"Jacob, Setrak",M,Piambil 2,Subsistence Farmer,01 Apr 1990
+1284,160182724,"Jacob, Tome",M,Piambil 2,Subsistence Farmer,01 Jan 1955
+1285,25123702,"James, Joe",M,Piambil 2,Subsistence Farmer,03 Dec 1992
+1286,25123703,"James, Joe",M,Piambil 2,Pastor,10 Apr 1996
+1287,160440406,"James, Jonathan",M,Piambil 2,Subsistence Farmer,14 Sep 2001
+1288,25152829,"James, Josuah",M,Piambil 2,Teacher,24 Jul 2003
+1289,25123706,"James, Lalurene",M,Piambil 2,Student,14 Mar 2000
+1290,160119083,"Jane, Ezikiel",M,Piambil 2,Student,24 Mar 1997
+1291,160119084,"Jane, Gesom",M,Piambil 2,Student,21 Aug 1998
+1292,160119082,"Jane, Josuah",M,Piambil 2,Student,17 Nov 1996
+1293,160119086,"Jeff, Oniel",M,Piambil 2,Student,23 Jan 1998
+1294,160188383,"Jefferey, Sou",M,Piambil 2,Student,12 Nov 1988
+1295,160440259,"Jeffery, Domnic",M,Piambil 2,Student,10 Jan 2003
+1296,25123713,"Jeffery, James",M,Piambil 2,Houseboy,10 Jan 2000
+1297,160440669,"Jemije, Wanie",M,Piambil 2,Subsistence Farmer,17 Sep 2003
+1298,25123715,"Jennat, Neomb",M,Piambil 2,Subsistence Farmer,13 Feb 1997
+1299,25123717,"Jeremiha, Ivan",M,Piambil 2,Student,03 Oct 1999
+1300,25123720,"Jess, Smos",M,Piambil 2,Cleaner,13 Mar 1999
+1301,160187301,"Jesse, Jeffery",M,Piambil 2,Student,10 Mar 1987
+1302,160188705,"Jesse, Jonah",M,Piambil 2,Student,17 Jun 1985
+1303,160176159,"Jessy, Enge",M,Piambil 2,Salesman,14 Jul 1970
+1304,160440657,"Jetro, Jeff",M,Piambil 2,Student,10 Jun 2001
+1305,160193699,"Jimy, Lexon",M,Piambil 2,Student,01 Feb 1988
+1306,160193698,"Jimy, Livai",M,Piambil 2,Student,14 Jan 1986
+1307,160155891,"Job, Kewambo",M,Piambil 2,Subsistence Farmer,20 Dec 1969
+1308,160119186,"Job, Lame",M,Piambil 2,Subsistence Farmer,13 Sep 1987
+1309,25123722,"Joe, Jendy",M,Piambil 2,Student,19 Oct 2003
+1310,25123724,"Joe, Myles",M,Piambil 2,Student,13 Jun 1998
+1311,25123728,"Joel, James",M,Piambil 2,Teacher,10 Jan 1983
+1312,25123729,"Joel, Joe",M,Piambil 2,Driver,12 Apr 2001
+1313,25123730,"Joel, Ore",M,Piambil 2,Customs Officer,13 Feb 1989
+1314,160439937,"John, Jaspah",M,Piambil 2,Student,13 Mar 2002
+1315,160119381,"John, Stven",M,Piambil 2,Student,19 Sep 1993
+1316,160197115,"Johnson, Pes",M,Piambil 2,Student,01 Jan 1989
+1317,160119176,"Joina, Bradley",M,Piambil 2,Student,14 Sep 1996
+1318,25123740,"Jonah, Joel",M,Piambil 2,Student,28 Jan 2004
+1319,25123741,"Jones, Frank",M,Piambil 2,Student,18 May 1999
+1320,25123742,"Jones, Lepi",M,Piambil 2,Student,18 Jun 2000
+1321,25123743,"Jones, Maya",M,Piambil 2,Student,18 Jun 1997
+1322,160136218,"Joseph, Jason",M,Piambil 2,Student,12 Mar 1995
+1323,160201459,"Joseph, Pena",M,Piambil 2,Subsistence Farmer,06 Jan 1969
+1324,160136213,"Joseph, Tom",M,Piambil 2,Student,28 Jan 1997
+1325,160440640,"Kadu, Ramon",M,Piambil 2,Student,17 Jul 2001
+1326,160139970,"Kaepa, Purul",M,Piambil 2,Subsistence Farmer,01 Jan 1973
+1327,160195756,"Kagal, Silso",M,Piambil 2,Subsistence Farmer,20 Apr 1947
+1328,160159063,"Kaglopa, Iko",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1329,160167277,"Kaienoli, Kiniwi",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1330,160175732,"Kaila, Mapia",M,Piambil 2,Subsistence Farmer,22 Jun 1934
+1331,160176156,"Kaila, Nokia",M,Piambil 2,Subsistence Farmer,06 Sep 1950
+1332,160171769,"Kaila, Yama",M,Piambil 2,Subsistence Farmer,06 Feb 1934
+1333,160198500,"Kaila, Yoseph",M,Piambil 2,Councillor,11 May 1961
+1334,160182652,"Kaile, Ani",M,Piambil 2,Subsistence Farmer,03 Jun 1971
+1335,160178045,"Kaile, Kiyapa",M,Piambil 2,Driver,01 Jan 1980
+1336,160188711,"Kaile, Peter",M,Piambil 2,Student,30 Dec 1975
+1337,160196306,"Kaile, Wapu",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1338,160196332,"Kaile, Yunungo",M,Piambil 2,Subsistence Farmer,01 Jan 1964
+1339,160167683,"Kailye, Kanol",M,Piambil 2,Driver,01 Jan 1975
+1340,160173342,"Kailye, Kuiye",M,Piambil 2,Subsistence Farmer,01 Jan 1972
+1341,160186072,"Kaima, Joel",M,Piambil 2,Student,01 Jan 2000
+1342,160153563,"Kaime, Betop",M,Piambil 2,Subsistence Farmer,01 Jan 1963
+1343,160198755,"Kakotol, Ekep",M,Piambil 2,Subsistence Farmer,01 Jan 1957
+1344,160202111,"Kakotol, Poneng",M,Piambil 2,Subsistence Farmer,01 Jan 1953
+1345,160190012,"Kakotol, Poning",M,Piambil 2,Subsistence Farmer,01 Jan 1959
+1346,160189724,"Kakotol, Tom",M,Piambil 2,Subsistence Farmer,01 Jan 1964
+1347,160198908,"Kakotol, Tom",M,Piambil 2,Subsistence Farmer,01 Jan 1952
+1348,160171775,"Kaku, Fiveround",M,Piambil 2,Student,01 Jan 1980
+1349,160440692,"Kalano, Stanford",M,Piambil 2,Student,14 Apr 2001
+1350,160440362,"Kalatoli, Max",M,Piambil 2,Mechanic,24 Nov 2001
+1351,160207907,"Kale, Mapi",M,Piambil 2,Subsistence Farmer,01 Jan 1949
+1352,160220517,"Kale, Peter",M,Piambil 2,Subsistence Farmer,01 Jan 1986
+1353,160198960,"Kale, Thomas",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1354,160206907,"Kale, Yakoma",M,Piambil 2,Subsistence Farmer,01 Jan 1961
+1355,160178050,"Kaliye, Lupe",M,Piambil 2,Student,01 Jan 1985
+1356,160155988,"Kalpa, Giwa",M,Piambil 2,Subsistence Farmer,01 Jan 1949
+1357,160156078,"Kalpa, Pena",M,Piambil 2,Subsistence Farmer,01 Jan 1960
+1358,160216219,"Kaltiye, Pandiye",M,Piambil 2,Subsistence Farmer,01 Jan 1959
+1359,160196944,"Kamano, Benny",M,Piambil 2,Student,01 Jan 1985
+1360,160196212,"Kamano, Dawon",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1361,160198346,"Kamano, Donald",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1362,160196245,"Kamano, Gita",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1363,160196216,"Kamano, Mata",M,Piambil 2,Pastor,01 Jan 2000
+1364,160440330,"Kamano, Nicon",M,Piambil 2,Student,11 Jul 2002
+1365,160196780,"Kamano, Nipi",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1366,160160161,"Kambile, Lawa",M,Piambil 2,Subsistence Farmer,01 Jan 1970
+1367,160165751,"Kana, Mikep",M,Piambil 2,Subsistence Farmer,01 Jan 1960
+1368,160193179,"Kanambo, Nema",M,Piambil 2,Driver,01 Jan 2000
+1369,160193424,"Kanda, Allex",M,Piambil 2,Subsistence Farmer,01 Jan 1982
+1370,160201630,"Kange, Kepa",M,Piambil 2,Subsistence Farmer,01 Jan 1964
+1371,160119311,"Kange, Philipo",M,Piambil 2,Subsistence Farmer,16 Aug 1981
+1372,160160402,"Kangipu, Kisip",M,Piambil 2,Subsistence Farmer,01 Jan 1955
+1373,160167620,"Kanol, Opa",M,Piambil 2,Subsistence Farmer,19 Jun 1963
+1374,160155718,"Kape, Eliza",M,Piambil 2,Subsistence Farmer,01 Jan 1979
+1375,160201859,"Kapo, Elpa",M,Piambil 2,Subsistence Farmer,01 Jan 1962
+1376,25123754,"Kapola, Rowen",M,Piambil 2,Student,28 Apr 2000
+1377,160187523,"Kapolo, Dupai",M,Piambil 2,Subsistence Farmer,01 Jan 1963
+1378,160183049,"Kapolo, Etena",M,Piambil 2,Subsistence Farmer,01 Jan 1955
+1379,160182764,"Kapolo, Guli",M,Piambil 2,Subsistence Farmer,01 Jan 1971
+1380,160175815,"Kapolo, Maulu",M,Piambil 2,Subsistence Farmer,01 Jan 1953
+1381,160158843,"Kapolo, Nopie",M,Piambil 2,Magistrate,18 Dec 1960
+1382,160155993,"Kapolo, Peyadi",M,Piambil 2,Subsistence Farmer,18 Dec 1966
+1383,160155872,"Kapolo, Ronney",M,Piambil 2,Student,01 Jan 1988
+1384,160173197,"Karapoi, Gembrol",M,Piambil 2,Student,05 Jan 1976
+1385,160173192,"Karapoi, Sent",M,Piambil 2,Student,06 Mar 1972
+1386,160218229,"Karapus, Kopel",M,Piambil 2,Subsistence Farmer,01 Jan 1977
+1387,160440075,"Karepo, Kalo",M,Piambil 2,Carpenter,02 Jul 2003
+1388,25123755,"Kari, Emmanuel",M,Piambil 2,Student,14 Mar 2003
+1389,160187401,"Kari, Nore",M,Piambil 2,Subsistence Farmer,01 Jan 1961
+1390,160185134,"Kari, Oka",M,Piambil 2,Subsistence Farmer,01 Jan 1954
+1391,25123756,"Kari, Roger",M,Piambil 2,Student,12 Apr 2000
+1392,160139974,"Kariapa, Kevin",M,Piambil 2,Driver,01 Jan 2000
+1393,160440633,"Karibe, Pendex",M,Piambil 2,Student,20 Apr 2004
+1394,160196527,"Karimbi, Mako",M,Piambil 2,Subsistence Farmer,01 Jan 1975
+1395,160440386,"Karoma, Jan",M,Piambil 2,Electrician,28 Apr 2004
+1396,160190599,"Karoma, Tongi",M,Piambil 2,Subsistence Farmer,01 Jan 1958
+1397,160201638,"Katopa, Simbil",M,Piambil 2,Subsistence Farmer,01 Jan 1931
+1398,160201639,"Katopa, Tepra",M,Piambil 2,Subsistence Farmer,01 Jan 1960
+1399,160190330,"Katopa, Yosep",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1400,160193305,"Kavea, John",M,Piambil 2,Security,01 Jan 1980
+1401,160213375,"Kawa, Pulupa",M,Piambil 2,Subsistence Farmer,01 Jan 1963
+1402,160196413,"Kela, Bia",M,Piambil 2,Student,30 Dec 1984
+1403,160220444,"Keleli, Pora",M,Piambil 2,Subsistence Farmer,01 Jan 1962
+1404,160440292,"Kelely, Richy",M,Piambil 2,Student,13 Jul 2002
+1405,160201872,"Kelkai, Andrew",M,Piambil 2,Subsistence Farmer,01 Jan 1968
+1406,160158840,"Kelkai, Tendepo",M,Piambil 2,Subsistence Farmer,01 Jan 1973
+1407,160119197,"Kelly, Bill",M,Piambil 2,Subsistence Farmer,16 Jul 1989
+1408,160440324,"Kelly, Jetro",M,Piambil 2,Student,01 Nov 2001
+1409,160440071,"Kelly, Kaka",M,Piambil 2,Student,29 Jan 2003
+1410,160440390,"Kelly, Mackency",M,Piambil 2,Student,14 Mar 2001
+1411,160196044,"Kelowa, Siyopai",M,Piambil 2,Subsistence Farmer,01 Jan 1959
+1412,160440305,"Kelson, Nelson",M,Piambil 2,Student,02 Nov 2003
+1413,160119120,"Kemapu, Jeromaih",M,Piambil 2,Student,01 Jan 1994
+1414,160155798,"Kendo, Takera",M,Piambil 2,Subsistence Farmer,02 Jan 1973
+1415,160193393,"Kenet, Ware",M,Piambil 2,Student,20 Apr 1981
+1416,160187660,"Keneya, Namba",M,Piambil 2,Subsistence Farmer,01 Jan 1986
+1417,160153661,"Kengepu, Yura",M,Piambil 2,Pastor,01 Jan 1958
+1418,25123760,"Kenneth, Joe",M,Piambil 2,Teacher,13 Apr 1992
+1419,160440611,"Keno, Bone",M,Piambil 2,Student,08 Apr 2004
+1420,160201331,"Kepa, Devi",M,Piambil 2,Subsistence Farmer,01 Jan 1975
+1421,160440988,"Kepa, Josua",M,Piambil 2,Mechanic,17 Sep 2001
+1422,25123762,"Kepa, Richard",M,Piambil 2,Student,14 Feb 1999
+1423,160190002,"Kepikiye, Wanis",M,Piambil 2,Subsistence Farmer,01 Jan 1964
+1424,160119263,"Keps, Wilfred",M,Piambil 2,Subsistence Farmer,29 Jan 1995
+1425,160207073,"Kerandi, Mambo",M,Piambil 2,Subsistence Farmer,01 Jan 1964
+1426,160440575,"Kerbo, Daniel",M,Piambil 2,Student,28 Jan 2004
+1427,160155960,"Kereme, William",M,Piambil 2,Teacher,01 Jan 2000
+1428,160153641,"Kereme, Yalla",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1429,160190327,"Kerowa, Pareka",M,Piambil 2,Student,01 Jan 1986
+1430,160190090,"Kerowa, Rifel",M,Piambil 2,Student,01 Jan 1988
+1431,160190346,"Kerowa, Wangi",M,Piambil 2,Subsistence Farmer,01 Jan 1986
+1432,160136333,"Kevin, Eric",M,Piambil 2,Student,11 Jun 1987
+1433,160153196,"Kevin, Kelly",M,Piambil 2,Student,01 Jan 1983
+1434,160440052,"Kewa, Jonathan",M,Piambil 2,Carpenter,15 Feb 2003
+1435,160180359,"Kewei, Matoli",M,Piambil 2,Security,01 Jan 1972
+1436,160180356,"Kewei, Timothy",M,Piambil 2,Pastor,01 Jan 1976
+1437,160217626,"Kiaka, Abaram",M,Piambil 2,Driver,01 Jan 1971
+1438,160216639,"Kiaka, Akop",M,Piambil 2,Driver,01 Jan 1965
+1439,160218549,"Kiaka, Sua",M,Piambil 2,Subsistence Farmer,01 Jan 1984
+1440,160218560,"Kiaka, Suwa",M,Piambil 2,Subsistence Farmer,01 Jan 1979
+1441,160219005,"Kiaka, Tano",M,Piambil 2,Subsistence Farmer,01 Jan 1967
+1442,160217777,"Kilgugu, Olaie",M,Piambil 2,Subsistence Farmer,01 Jan 1935
+1443,160218145,"Kilgugu, Yupa",M,Piambil 2,Subsistence Farmer,01 Jan 1939
+1444,160162961,"Kili, Gloraiye",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1445,160216189,"Kilkulu, Baipe",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1446,160199106,"Kimbu, Koipa",M,Piambil 2,Subsistence Farmer,07 Jun 1943
+1447,160182982,"Kimini, Luke",M,Piambil 2,Subsistence Farmer,01 Jan 1974
+1448,160220478,"Kimini, Mark",M,Piambil 2,Subsistence Farmer,01 Jan 1982
+1449,160182986,"Kimini, Takildi",M,Piambil 2,Subsistence Farmer,01 Jan 1981
+1450,160209943,"Kipungi, Kanbo",M,Piambil 2,Subsistence Farmer,01 Jan 1979
+1451,160182851,"Kiriwi, Balus",M,Piambil 2,Subsistence Farmer,20 Aug 1960
+1452,160175806,"Kiriwi, Silto",M,Piambil 2,Subsistence Farmer,19 Dec 1961
+1453,160167857,"Kisepa, Wane",M,Piambil 2,Subsistence Farmer,01 Jan 1968
+1454,160217977,"Kisip, Gope",M,Piambil 2,Driver,01 Jan 1975
+1455,160215412,"Kisip, Ken",M,Piambil 2,Student,01 Jan 1989
+1456,160440758,"Kisipa, Abram",M,Piambil 2,Subsistence Farmer,10 Apr 1980
+1457,160440379,"Kiyapa, Jonathan",M,Piambil 2,Subsistence Farmer,22 Mar 2002
+1458,160440380,"Kiyapa, Mathias",M,Piambil 2,Subsistence Farmer,08 Nov 2003
+1459,160173369,"Kletus, Wangi",M,Piambil 2,Subsistence Farmer,12 Mar 1967
+1460,160193180,"Koera, Ake",M,Piambil 2,Subsistence Farmer,01 Jan 1965
+1461,160190333,"Koi, Doa",M,Piambil 2,Subsistence Farmer,01 Jan 1963
+1462,160212679,"Koi, Dowa",M,Piambil 2,Subsistence Farmer,10 Jul 1969
+1463,160197081,"Koi, Kella",M,Piambil 2,Subsistence Farmer,01 Jan 1985
+1464,160193173,"Koi, Kombani",M,Piambil 2,Subsistence Farmer,01 Jan 1971
+1465,160119240,"Koi, Tupi",M,Piambil 2,Student,01 Oct 1998
+1466,160189817,"Kokera, Wet",M,Piambil 2,Subsistence Farmer,01 Jan 1962
+1467,160199108,"Kokia, Pokpia",M,Piambil 2,Subsistence Farmer,11 Jun 1945
+1468,160189823,"Kokipo, Pakiye",M,Piambil 2,Subsistence Farmer,01 Jan 1970
+1469,160153050,"Kola, Daiye",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1470,160165358,"Kola, Mark",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1471,160163105,"Kola, Pawa",M,Piambil 2,Student,01 Jan 1986
+1472,160167284,"Kola, Stanley",M,Piambil 2,Teacher,01 Jan 2000
+1473,160186989,"Kolakulu, Jan",M,Piambil 2,Student,07 Dec 1986
+1474,160188006,"Kolapi, Moses",M,Piambil 2,Subsistence Farmer,01 Jan 1966
+1475,160188004,"Kolapi, Yunungo",M,Piambil 2,Student,01 Jan 1988
+1476,160198352,"Kolemu, Kamano",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1477,160217764,"Kololi, Konjili",M,Piambil 2,Subsistence Farmer,01 Jan 1951
+1478,160195720,"Kololi, Pulu",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1479,160190897,"Kolombe, Ambak",M,Piambil 2,Subsistence Farmer,07 Aug 1959
+1480,160188619,"Kolopu, Guli",M,Piambil 2,Subsistence Farmer,01 Jan 1959
+1481,160188622,"Kolopu, Pos",M,Piambil 2,Subsistence Farmer,01 Jan 1960
+1482,160213819,"Kolowa, John",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+1483,160191091,"Kolowa, Kolakulu",M,Piambil 2,Subsistence Farmer,09 Apr 1961
+1484,160206931,"Kolowa, Komon",M,Piambil 2,Student,01 Jan 1984
+1485,160216040,"Kolowa, Loriaye",M,Piambil 2,Subsistence Farmer,01 Jan 1965
+1486,160188628,"Kolowa, Maine",M,Piambil 2,Subsistence Farmer,01 Jan 1965
+1487,160206933,"Kolowa, Michael",M,Piambil 2,Student,01 Jan 1980
+1488,160186057,"Kolowa, Paul",M,Piambil 2,Subsistence Farmer,02 Jan 1989
+1489,160185880,"Kolowa, Thomas",M,Piambil 2,Subsistence Farmer,06 Sep 1977
+1490,160175878,"Koma, Koropa",M,Piambil 2,Subsistence Farmer,01 Jan 1959
+1491,160165695,"Komanda, Hule",M,Piambil 2,Subsistence Farmer,01 Jan 1956
+1492,160212505,"Kombeke, Keap",M,Piambil 2,Subsistence Farmer,12 Aug 1960
+1493,160211362,"Kombeke, Kongil",M,Piambil 2,Subsistence Farmer,22 Sep 1969
+1494,160211299,"Kombeke, Pote",M,Piambil 2,Subsistence Farmer,18 Dec 1965
+1495,160212683,"Kombeke, Wane",M,Piambil 2,Subsistence Farmer,23 Aug 1960
+1496,160188578,"Kombora, Nema",M,Piambil 2,Subsistence Farmer,01 Jan 1960
+1497,160440373,"Komon, Nathan",M,Piambil 2,Student,17 Sep 2001
+1498,160210311,"Komon, Ram",M,Piambil 2,Subsistence Farmer,01 Jan 1983
+1499,160210316,"Komon, Sel",M,Piambil 2,Subsistence Farmer,01 Jan 1982
+1500,160196655,"Konde, Joseph",M,Piambil 2,Student,01 Jan 1984
+1501,160198538,"Konde, Petros",M,Piambil 2,Carpenter,01 Jan 1980
+1502,160203642,"Konde, Ropingi",M,Piambil 2,Driver,01 Jan 1980
+1503,160220677,"Kondi, Apol",M,Piambil 2,Student,01 Jan 1988
+1504,160153558,"Kondis, Nelson",M,Piambil 2,Student,11 Feb 1985
+1505,160155877,"Kondowa, Daiye",M,Piambil 2,Mechanic,01 Jan 2000
+1506,160187635,"Kondowa, Den",M,Piambil 2,Student,01 Jan 1988
+1507,160440494,"Kondowa, Ipiya",M,Piambil 2,Mechanic,03 Mar 2001
+1508,160185103,"Kondowa, John",M,Piambil 2,Student,01 Jan 1982
+1509,160176259,"Kondowa, Mongai",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1510,160219036,"Kondowa, Pareka",M,Piambil 2,Subsistence Farmer,01 Jan 1973
+1511,160182995,"Kondowa, Peter",M,Piambil 2,Teacher,01 Jan 2000
+1512,160176264,"Kondowa, Wane",M,Piambil 2,Not Specified,01 Jan 2000
+1513,160187630,"Kondowa, Yupi",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1514,160187516,"Konganoi, Nangume",M,Piambil 2,Subsistence Farmer,01 Jan 1958
+1515,160188411,"Kongil, Markson",M,Piambil 2,Student,01 Jan 1980
+1516,160212515,"Kongil, Micheal",M,Piambil 2,Student,20 Oct 1983
+1517,160167455,"Konjil, Brus",M,Piambil 2,Subsistence Farmer,01 Jan 1986
+1518,160440702,"Konjil, James",M,Piambil 2,Student,14 Feb 2004
+1519,160167861,"Konjil, Markson",M,Piambil 2,Subsistence Farmer,01 Jan 1986
+1520,160167862,"Konjil, Stanley",M,Piambil 2,Subsistence Farmer,01 Jan 1989
+1521,160188254,"Konjil, Stanly",M,Piambil 2,Student,01 Jan 1981
+1522,160182983,"Konjili, Mongo",M,Piambil 2,Subsistence Farmer,03 Sep 1976
+1523,160180768,"Konjili, Peter",M,Piambil 2,Subsistence Farmer,01 Jan 1982
+1524,160195943,"Konjo, Wendo",M,Piambil 2,Subsistence Farmer,13 Oct 1965
+1525,160178042,"Konjul, Bruce",M,Piambil 2,Student,01 Jan 1989
+1526,160188422,"Konsil, Brus",M,Piambil 2,Student,01 Jan 1981
+1527,160173373,"Kopari, Yupu",M,Piambil 2,Subsistence Farmer,01 Jan 1960
+1528,160119217,"Kops, Paul",M,Piambil 2,Student,31 Jul 1992
+1529,160167456,"Koroba, Kolopu",M,Piambil 2,Subsistence Farmer,01 Jan 1975
+1530,160187674,"Koroba, Mondo",M,Piambil 2,Subsistence Farmer,01 Jan 1961
+1531,160188192,"Koromba, Yombi",M,Piambil 2,Subsistence Farmer,01 Jan 1961
+1532,160167860,"Koropa, Iki",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+1533,160213722,"Koropa, Indipine",M,Piambil 2,Subsistence Farmer,23 Dec 1958
+1534,160190876,"Koropa, Kolopu",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+1535,160175885,"Koropa, Maldi",M,Piambil 2,Driver,01 Jan 1965
+1536,160173798,"Koropa, Mindil",M,Piambil 2,Technician,01 Jan 1972
+1537,160175705,"Koropa, Togopa",M,Piambil 2,Unemployed,01 Jan 1974
+1538,160119237,"Koropa, Tumili",M,Piambil 2,Subsistence Farmer,06 Feb 1997
+1539,160173784,"Koropa, Yawa",M,Piambil 2,Subsistence Farmer,01 Jan 1949
+1540,160217999,"Koropa, Yawa",M,Piambil 2,Subsistence Farmer,01 Jan 1954
+1541,160440668,"Korowi, Andrew",M,Piambil 2,Farm worker,07 Jun 2001
+1542,160440230,"Korowi, Hon",M,Piambil 2,Student,22 Feb 2001
+1543,160440228,"Korowi, Joel",M,Piambil 2,Student,14 Mar 2001
+1544,160440667,"Korowi, Nambi",M,Piambil 2,Subsistence Farmer,02 Feb 2002
+1545,160440232,"Korowi, Sadrick",M,Piambil 2,Student,03 Mar 2001
+1546,160167858,"Koya, Pipi",M,Piambil 2,Subsistence Farmer,01 Jan 1985
+1547,160193126,"Koyaiye, Jimy",M,Piambil 2,Subsistence Farmer,01 Jan 1970
+1548,160184888,"Koyaiye, Wakena",M,Piambil 2,Subsistence Farmer,14 Oct 1962
+1549,160196302,"Koyapo, Aiey",M,Piambil 2,Teacher,16 Dec 1972
+1550,160196241,"Koyapo, Angule",M,Piambil 2,Subsistence Farmer,16 Nov 1950
+1551,160440626,"Koyapo, Stanly",M,Piambil 2,Student,20 Apr 2004
+1552,160196943,"Koyapo, Wanpis",M,Piambil 2,Teacher,04 Mar 1977
+1553,160440649,"Kozopa, Apple",M,Piambil 2,Student,09 Oct 2001
+1554,160173756,"Kuipa, Lole",M,Piambil 2,Subsistence Farmer,01 Jan 1960
+1555,160169058,"Kuipa, Onga",M,Piambil 2,Doctor,01 Jul 1900
+1556,160173792,"Kuipa, Puke",M,Piambil 2,Subsistence Farmer,01 Jan 1975
+1557,160155773,"Kuku, William",M,Piambil 2,Subsistence Farmer,21 Apr 1990
+1558,160213380,"Kukuru, David",M,Piambil 2,Student,01 Jan 1989
+1559,160206917,"Kula, Pis",M,Piambil 2,Subsistence Farmer,01 Jan 1965
+1560,160440358,"Kuleko, Peter",M,Piambil 2,Nurse,10 Nov 1999
+1561,160136198,"Kuli, Benson",M,Piambil 2,Student,16 Feb 1993
+1562,160163113,"Kumbeme, Meck",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1563,160160417,"Kundip, Wake",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+1564,160171925,"Kunetoli, Pote",M,Piambil 2,Subsistence Farmer,01 Jan 1965
+1565,160220520,"Kuni, Pokpia",M,Piambil 2,Subsistence Farmer,01 Jan 1957
+1566,160219199,"Kunjil, Luke",M,Piambil 2,Student,01 Jan 1979
+1567,160218836,"Kunjili, Luta",M,Piambil 2,Student,01 Jan 1980
+1568,160202110,"Kunjili, Toy",M,Piambil 2,Student,06 Mar 1990
+1569,160187659,"Kunjip, Simon",M,Piambil 2,Student,01 Jan 1981
+1570,160119315,"Kunjip, Simon",M,Piambil 2,Subsistence Farmer,22 Sep 1986
+1571,160185013,"Kuno, Moro",M,Piambil 2,Pastor,01 Jan 1985
+1572,160182889,"Kupila, Andrew",M,Piambil 2,Student,01 Jan 1980
+1573,160169259,"Kupo, Cosmas",M,Piambil 2,Subsistence Farmer,18 Oct 1964
+1574,160185053,"Kupo, Rapindi",M,Piambil 2,Subsistence Farmer,01 Jan 1981
+1575,160218116,"Kupsi, Kerua",M,Piambil 2,Subsistence Farmer,01 Jan 1957
+1576,160218921,"Kupsi, Thomas",M,Piambil 2,Subsistence Farmer,01 Jan 1967
+1577,160196129,"Kuru, Kiniwi",M,Piambil 2,Subsistence Farmer,01 Apr 1900
+1578,160193249,"Kuru, Tanguwe",M,Piambil 2,Subsistence Farmer,01 Jan 1944
+1579,160221012,"Kuruma, Muruk",M,Piambil 2,Student,01 Jan 1987
+1580,160221007,"Kurume, Keneth",M,Piambil 2,Student,01 Jan 1982
+1581,160119269,"Langi, Fred",M,Piambil 2,Student,19 Feb 1995
+1582,160136199,"Langi, Kewei",M,Piambil 2,Student,27 Mar 1998
+1583,160160183,"Lawa, Jackson",M,Piambil 2,Student,01 Jan 1986
+1584,160160179,"Lawa, Joseph",M,Piambil 2,Student,01 Jan 1984
+1585,160155851,"Lawa, Lukson",M,Piambil 2,Student,16 Feb 1986
+1586,25123770,"Lepi, Frenk",M,Piambil 2,Student,18 May 2001
+1587,160167619,"Lewa, Edem",M,Piambil 2,Subsistence Farmer,01 Jan 1980
+1588,160193355,"Lewa, Garu",M,Piambil 2,Subsistence Farmer,04 Nov 1976
+1589,160194256,"Lewa, Pank",M,Piambil 2,Subsistence Farmer,06 Nov 1960
+1590,160119296,"Lewis, Kera",M,Piambil 2,Student,18 Sep 1986
+1591,25123773,"Lewis, Sam",M,Piambil 2,Student,20 Aug 2003
+1592,160440516,"Lewis, Steven",M,Piambil 2,Mechanic,20 Feb 2002
+1593,160440598,"Lgoraiye, Dane",M,Piambil 2,Subsistence Farmer,20 Apr 2004
+1594,160440252,"Lgoraiye, Philip",M,Piambil 2,Subsistence Farmer,29 May 2001
+1595,160440690,"Liaie, Kama",M,Piambil 2,Subsistence Farmer,13 Oct 1979
+1596,160165355,"Lindi, Yangs",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1597,160162891,"Liwa, James",M,Piambil 2,Soldier,25 Jun 1968
+1598,160163047,"Liwa, Mal",M,Piambil 2,Student,26 Apr 1985
+1599,160158929,"Liwa, Moses",M,Piambil 2,Student,01 Jun 1987
+1600,160119290,"Liwa, Nickson",M,Piambil 2,Student,30 Nov 1993
+1601,160187954,"Liwa, Simon",M,Piambil 2,Subsistence Farmer,01 Jan 1980
+1602,160182716,"Loiye, Aka",M,Piambil 2,Subsistence Farmer,01 Jan 1978
+1603,160165811,"Loiye, Kundip",M,Piambil 2,Subsistence Farmer,01 Jan 1952
+1604,160197137,"Loiye, Toropo",M,Piambil 2,Subsistence Farmer,01 Jan 1955
+1605,160218945,"Lole, Mati",M,Piambil 2,Student,01 Jan 1989
+1606,160218946,"Lole, Moses",M,Piambil 2,Student,01 Jan 1988
+1607,160188684,"Lopeke, Boi",M,Piambil 2,Subsistence Farmer,01 Jan 1981
+1608,160165361,"Lopeke, Mark",M,Piambil 2,Student,01 Jan 2000
+1609,160165363,"Lopeke, Moka",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1610,160165820,"Lore, Ismael",M,Piambil 2,Student,01 Jan 1979
+1611,160196316,"Lorence, Ulga",M,Piambil 2,Subsistence Farmer,01 Jan 1980
+1612,160155871,"Lucas, Noma",M,Piambil 2,Student,19 Jan 1986
+1613,25123777,"Lucas, Samuel",M,Piambil 2,Student,16 May 2003
+1614,160211361,"Lucas, Tipo",M,Piambil 2,Subsistence Farmer,08 Apr 1970
+1615,160171803,"Lupa, Lama",M,Piambil 2,Subsistence Farmer,01 Jan 1980
+1616,160171798,"Lupa, Tai",M,Piambil 2,Student,01 Jan 1980
+1617,160209741,"Luru, Kale",M,Piambil 2,Subsistence Farmer,01 Jan 1900
+1618,160212402,"Macheal, Glen",M,Piambil 2,Subsistence Farmer,06 Oct 1969
+1619,160187636,"Maiki, Punny",M,Piambil 2,Driver,08 Oct 1964
+1620,160191114,"Maina, Duma",M,Piambil 2,Student,06 Apr 1989
+1621,160184536,"Makange, Atiya",M,Piambil 2,Student,01 Jan 1978
+1622,160182797,"Makange, Mark",M,Piambil 2,Student,01 Jan 1978
+1623,160210590,"Makange, Pindi",M,Piambil 2,Driver,01 Jan 1975
+1624,160190695,"Makangi, Moses",M,Piambil 2,Student,11 Jul 1989
+1625,160171766,"Makiuye, Korowi",M,Piambil 2,Peace Officer,01 Jan 1956
+1626,160216028,"Makoroli, Tapoli",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1627,160169193,"Makuiye, Jeremaiah",M,Piambil 2,Student,01 Jan 1979
+1628,160197146,"Makuye, Doketa",M,Piambil 2,Subsistence Farmer,18 Dec 1963
+1629,160177886,"Makuye, Dokta",M,Piambil 2,Subsistence Farmer,01 Jan 1982
+1630,160182989,"Makuye, Thomas",M,Piambil 2,Pastor,29 Nov 1968
+1631,160440731,"Malt, Koropa",M,Piambil 2,Household Duties,16 Oct 1996
+1632,160209730,"Malto, Naweya",M,Piambil 2,Subsistence Farmer,01 Jan 1948
+1633,160210136,"Mambo, John",M,Piambil 2,Subsistence Farmer,01 Jan 1988
+1634,25123782,"Mambu, Ismael",M,Piambil 2,Student,12 Jul 2000
+1635,160440635,"Mambu, Noken",M,Piambil 2,Student,16 Apr 2002
+1636,160440420,"Mambu, Ringston",M,Piambil 2,Subsistence Farmer,17 Aug 2002
+1637,160119181,"Mambu, Robert",M,Piambil 2,Student,21 Jul 1996
+1638,160119183,"Mambu, Robin",M,Piambil 2,Student,26 May 1998
+1639,25123783,"Mambu, Rowen",M,Piambil 2,Student,13 Apr 1998
+1640,160119182,"Mambu, Ruben",M,Piambil 2,Student,16 Jan 1997
+1641,160194801,"Manaki, Gabriel",M,Piambil 2,Subsistence Farmer,01 Jan 1900
+1642,160195992,"Manaki, Nep",M,Piambil 2,Subsistence Farmer,01 Jan 1966
+1643,160194800,"Manaki, Penta",M,Piambil 2,Subsistence Farmer,01 Jan 1900
+1644,160194669,"Manaki, Sanage",M,Piambil 2,Subsistence Farmer,01 Jan 1964
+1645,160136338,"Manda, Brandon",M,Piambil 2,Student,18 Sep 1989
+1646,160440622,"Manda, Lorelin",M,Piambil 2,Student,28 Apr 2000
+1647,160177897,"Manda, Pilembo",M,Piambil 2,Subsistence Farmer,01 Jan 1972
+1648,160119109,"Mano, Chris",M,Piambil 2,Subsistence Farmer,15 Jun 1988
+1649,160119157,"Mano, Gibson",M,Piambil 2,Student,12 Nov 1997
+1650,160169240,"Mano, Gibson",M,Piambil 2,Student,01 Jan 1987
+1651,160210179,"Mano, Namba",M,Piambil 2,Subsistence Farmer,01 Jan 1973
+1652,160206903,"Mapi, Jeffery",M,Piambil 2,Student,01 Jan 1987
+1653,160207802,"Mapi, Kelly",M,Piambil 2,Student,01 Jan 1984
+1654,160207900,"Mapi, Martain",M,Piambil 2,Student,01 Jan 1988
+1655,160173351,"Mapia, Sent",M,Piambil 2,Student,21 Apr 1979
+1656,160189792,"Mapia, Tai",M,Piambil 2,Student,09 Nov 1990
+1657,160215400,"Mara, Tomano",M,Piambil 2,Not Specified,01 Jan 1963
+1658,160167610,"Mara, Tombele",M,Piambil 2,Not Specified,01 Jan 2000
+1659,160165359,"Mark, Mathew",M,Piambil 2,Student,01 Jan 1985
+1660,25123788,"Mark, Nickson",M,Piambil 2,Student,01 Sep 2001
+1661,160198433,"Mark, Robert",M,Piambil 2,Subsistence Farmer,01 Jan 1984
+1662,160136362,"Mark, Samson",M,Piambil 2,Student,23 Feb 1998
+1663,160184866,"Marowa, Ape",M,Piambil 2,Student,01 Jan 1988
+1664,160188532,"Marowa, Kari",M,Piambil 2,Student,01 Jan 1988
+1665,160189766,"Marowa, Keneth",M,Piambil 2,Student,01 Jan 1986
+1666,160184872,"Marowa, Mindili",M,Piambil 2,Subsistence Farmer,01 Jan 1982
+1667,160185014,"Marowa, Palakome",M,Piambil 2,Subsistence Farmer,01 Jan 1974
+1668,160185016,"Marowa, Yapi",M,Piambil 2,Student,01 Jan 1988
+1669,160440471,"Martin, Keneth",M,Piambil 2,Student,07 Nov 2001
+1670,160440547,"Mas, Samantha",M,Piambil 2,Typist,11 Apr 2002
+1671,25123793,"Mathew, Manu",M,Piambil 2,Student,07 Jun 2002
+1672,25123794,"Mathew, Molo",M,Piambil 2,Teacher,01 Feb 1999
+1673,160440257,"Mathew, Romo",M,Piambil 2,Student,12 Mar 2003
+1674,25123795,"Mathew, Wari",M,Piambil 2,Subsistence Farmer,06 Jul 1988
+1675,160440507,"Max, Koma",M,Piambil 2,Student,29 Sep 2002
+1676,160440506,"Max, Maxwel",M,Piambil 2,Student,27 Aug 2002
+1677,160440518,"Max, Nickson",M,Piambil 2,Mechanic,14 Feb 2003
+1678,160187632,"Maxson, Kolapi",M,Piambil 2,Subsistence Farmer,05 Oct 1985
+1679,25123798,"May, Nipiye",M,Piambil 2,Student,21 Jan 1998
+1680,160165266,"Mek, Meckygy",M,Piambil 2,Student,09 Jun 1984
+1681,160155862,"Mek, Moses",M,Piambil 2,Subsistence Farmer,01 Jan 1977
+1682,160119388,"Mek, Pepson",M,Piambil 2,Carpenter,06 Sep 1988
+1683,160209945,"Mek, Peter",M,Piambil 2,Subsistence Farmer,01 Jan 1987
+1684,160440337,"Mek, Peterson",M,Piambil 2,Student,07 Feb 2003
+1685,160160186,"Mek, Philip",M,Piambil 2,Soldier,01 Jan 1970
+1686,160196134,"Mekowa, Albert",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1687,160196287,"Mekowa, Francis",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1688,160196137,"Mekowa, Patrick",M,Piambil 2,Student,01 Jan 2000
+1689,160440714,"Mekowq, Roni",M,Piambil 2,Subsistence Farmer,18 Jan 2004
+1690,160440573,"Mem, Rolen",M,Piambil 2,Student,28 Mar 2004
+1691,160171783,"Mendep, Micheal",M,Piambil 2,Teacher,01 Jan 2000
+1692,160160657,"Mendep, Simon",M,Piambil 2,Student,01 Jan 1989
+1693,160190539,"Mereia, Paraka",M,Piambil 2,Subsistence Farmer,10 Nov 1947
+1694,160169256,"Meta, Roye",M,Piambil 2,Mechanic,08 Dec 1982
+1695,160440479,"Michael, Chris",M,Piambil 2,Subsistence Farmer,07 Nov 2001
+1696,160440595,"Michael, Kondiki",M,Piambil 2,Student,20 Apr 2004
+1697,25123805,"Michael, Peter",M,Piambil 2,Student,14 Jun 2000
+1698,160119144,"Micheal, Timothy",M,Piambil 2,Student,09 Feb 1999
+1699,160177874,"Miru, Topa",M,Piambil 2,Subsistence Farmer,01 Jan 1982
+1700,160177503,"Miru, Topa",M,Piambil 2,Subsistence Farmer,01 Jan 1966
+1701,160210168,"Miwa, Benjes",M,Piambil 2,Student,01 Jan 1989
+1702,160185080,"Moka, Mekenje",M,Piambil 2,Student,01 Jan 1982
+1703,160440462,"Molu, Robin",M,Piambil 2,Student,13 Mar 2003
+1704,160194615,"Monda, Yako",M,Piambil 2,Subsistence Farmer,10 Jan 1931
+1705,160173799,"Mone, Jonaten",M,Piambil 2,Student,06 Feb 1990
+1706,160189987,"Mone, Steven",M,Piambil 2,Subsistence Farmer,01 Jan 1978
+1707,160182908,"Morope, Wane",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+1708,160184967,"Mosepi, Raramu",M,Piambil 2,Subsistence Farmer,04 Nov 1960
+1709,160119179,"Moses, Johnny",M,Piambil 2,Subsistence Farmer,16 Mar 1987
+1710,160440249,"Moses, Panda",M,Piambil 2,Subsistence Farmer,03 Dec 2003
+1711,160119180,"Moses, Paul",M,Piambil 2,Student,16 Aug 1996
+1712,160119376,"Moyowa, Joef",M,Piambil 2,Teacher,12 Sep 1980
+1713,160187186,"Mulu, Pelak",M,Piambil 2,Student,01 Jan 1980
+1714,160173820,"Mulu, Uwe",M,Piambil 2,Subsistence Farmer,01 Jan 1962
+1715,160196948,"Muluye, Peke",M,Piambil 2,Subsistence Farmer,11 Nov 1978
+1716,160196258,"Muluye, Wako",M,Piambil 2,Subsistence Farmer,01 Jan 1973
+1717,160177914,"Mune, Wanpis",M,Piambil 2,Subsistence Farmer,01 Jan 1972
+1718,160173677,"Mune, Wanpis",M,Piambil 2,Subsistence Farmer,01 Jan 1964
+1719,160119247,"Muni, Samuel",M,Piambil 2,Student,30 Jan 2000
+1720,160440218,"Muriye, Mark",M,Piambil 2,Subsistence Farmer,20 Mar 2001
+1721,25083032,"Muruk, Jerry",M,Piambil 2,Student,20 Jun 2000
+1722,160119330,"Nakanoil, Fred",M,Piambil 2,Subsistence Farmer,13 Sep 1996
+1723,160209749,"Nakanoli, Deniel",M,Piambil 2,Subsistence Farmer,01 Jan 1974
+1724,160207794,"Nakanoli, Pena",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+1725,160210131,"Nakanoli, Tenis",M,Piambil 2,Subsistence Farmer,01 Jan 1979
+1726,160198900,"Nake, Tano",M,Piambil 2,Subsistence Farmer,01 Jan 1961
+1727,160180394,"Nalega, Amos",M,Piambil 2,Student,04 Dec 1986
+1728,160180365,"Nalega, Lucks",M,Piambil 2,Subsistence Farmer,04 Jul 1990
+1729,160194811,"Nalume, Wandui",M,Piambil 2,Subsistence Farmer,01 Jan 1978
+1730,160207790,"Namba, James",M,Piambil 2,Student,01 Jan 1980
+1731,160119164,"Nande, Manley",M,Piambil 2,Mechanic,13 Feb 1996
+1732,160180305,"Nandiye, Nonge",M,Piambil 2,Subsistence Farmer,01 Jan 1970
+1733,160176260,"Napa, Mata",M,Piambil 2,Subsistence Farmer,01 Jan 1962
+1734,160136197,"Napa, Thomas",M,Piambil 2,Student,01 Jun 1998
+1735,160180404,"Nasol, Karia",M,Piambil 2,Subsistence Farmer,01 Jan 1950
+1736,160197095,"Nasol, Toyobo",M,Piambil 2,Subsistence Farmer,01 Jan 1979
+1737,160218140,"Natil, Ninde",M,Piambil 2,Subsistence Farmer,01 Jan 1962
+1738,160217625,"Natil, Puno",M,Piambil 2,Student,01 Jan 1980
+1739,160119291,"Natil, Tati",M,Piambil 2,Student,06 May 1998
+1740,160165627,"Natumbu, Fred",M,Piambil 2,Subsistence Farmer,16 Aug 1978
+1741,160184852,"Naweya, Imbi",M,Piambil 2,Subsistence Farmer,01 Jan 1983
+1742,160198742,"Naweya, John",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+1743,160209855,"Naweya, Laki",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+1744,160202102,"Naweya, Takune",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+1745,160119374,"Naweya, Wapu",M,Piambil 2,Teacher,17 Apr 1980
+1746,160202105,"Naweya, Yamba",M,Piambil 2,Subsistence Farmer,01 Jan 1975
+1747,160171788,"Naweye, Siminji",M,Piambil 2,Subsistence Farmer,01 Jan 1950
+1748,160136325,"Neda, Bos",M,Piambil 2,Student,05 Sep 1986
+1749,160201928,"Nekeya, Apa",M,Piambil 2,Subsistence Farmer,01 Jan 1960
+1750,160198907,"Nekeya, Mata",M,Piambil 2,Subsistence Farmer,01 Jan 1959
+1751,160187409,"Nekiye, Andrew",M,Piambil 2,Pastor,01 Jan 1973
+1752,160213748,"Nekiye, Mata",M,Piambil 2,Subsistence Farmer,01 Jan 1950
+1753,160185133,"Nekiye, Ombo",M,Piambil 2,Subsistence Farmer,01 Jan 1973
+1754,160119280,"Nelson, Nelsha",M,Piambil 2,Student,13 Nov 1998
+1755,160440301,"Nepol, Jeromi",M,Piambil 2,Student,05 Jul 2003
+1756,160201341,"Niki, Lopa",M,Piambil 2,Subsistence Farmer,01 Jan 1971
+1757,160159085,"Nil, Tilto",M,Piambil 2,Mechanic,06 Apr 1970
+1758,160222247,"Nimbo, Yamu",M,Piambil 2,Subsistence Farmer,01 Jan 1956
+1759,160440514,"Ninde, Laime",M,Piambil 2,Student,20 Mar 2000
+1760,160440561,"Ninde, Macronie",M,Piambil 2,Student,17 Mar 2003
+1761,160193723,"Nindili, Pora",M,Piambil 2,Subsistence Farmer,01 Jan 1980
+1762,160173738,"Nindiye, Sikipi",M,Piambil 2,Subsistence Farmer,01 Jan 1971
+1763,160440377,"Ninge, Thomas",M,Piambil 2,Subsistence Farmer,05 Apr 2002
+1764,160191366,"Niye, Kepa",M,Piambil 2,Subsistence Farmer,01 Jan 1970
+1765,160191358,"Niye, Limbiye",M,Piambil 2,Mechanic,01 Jan 1958
+1766,160189773,"Niye, Marowa",M,Piambil 2,Subsistence Farmer,01 Jan 1958
+1767,160136346,"Noil, Sirus",M,Piambil 2,Student,11 Dec 1998
+1768,160439957,"Noke, Windi",M,Piambil 2,Student,25 Mar 2003
+1769,160190865,"Nokopa, Tenis",M,Piambil 2,Subsistence Farmer,11 Jun 1975
+1770,160175973,"Nolepo, Gini",M,Piambil 2,Subsistence Farmer,01 Jan 1942
+1771,160162644,"Noli, James",M,Piambil 2,Driver,01 Jan 1970
+1772,160176011,"Nolpo, Kaile",M,Piambil 2,Subsistence Farmer,05 Mar 1960
+1773,160187509,"Noma, Yumbe",M,Piambil 2,Worker,09 Apr 1961
+1774,160219057,"Nomuduli, Natil",M,Piambil 2,Subsistence Farmer,01 Jan 1954
+1775,160155983,"Nopie, Saimon",M,Piambil 2,Subsistence Farmer,13 Sep 1975
+1776,160156074,"Nopiye, Pawa",M,Piambil 2,Pastor,20 Aug 1970
+1777,160440698,"Nopo, Samson",M,Piambil 2,Subsistence Farmer,28 Jul 1988
+1778,160207071,"Nopuli, Billy",M,Piambil 2,Student,17 Sep 1989
+1779,160206898,"Nopuli, Ferman",M,Piambil 2,Subsistence Farmer,17 Jul 1979
+1780,160206896,"Nopuli, Jacob",M,Piambil 2,Student,07 Jul 1988
+1781,160189777,"Nopuli, Kamugeamboi",M,Piambil 2,Subsistence Farmer,01 Jan 1900
+1782,160189776,"Nopuli, Noah",M,Piambil 2,Student,01 Jan 1989
+1783,160206894,"Nopuli, Nomen",M,Piambil 2,Subsistence Farmer,01 Jan 1984
+1784,160207059,"Nopuri, Robert",M,Piambil 2,Subsistence Farmer,01 Jan 1983
+1785,160185143,"Noyuwi, Sukudo",M,Piambil 2,Subsistence Farmer,01 Jan 1973
+1786,160197097,"Olaye, Korowi",M,Piambil 2,Subsistence Farmer,01 Jan 1968
+1787,160175972,"Omba, Soti",M,Piambil 2,Student,01 Jan 1987
+1788,160440660,"One, Langai",M,Piambil 2,Subsistence Farmer,18 Mar 2001
+1789,160440659,"One, Tonny",M,Piambil 2,Subsistence Farmer,14 Apr 2003
+1790,160180870,"Onga, John",M,Piambil 2,Teacher,01 Jan 1985
+1791,160199819,"Onga, Kuida",M,Piambil 2,Community Health,01 Jan 1936
+1792,160160791,"Opa, Aldu",M,Piambil 2,Subsistence Farmer,11 Apr 1964
+1793,160171757,"Opa, Ane",M,Piambil 2,Driver,01 Feb 1960
+1794,160153578,"Opa, Boi",M,Piambil 2,Subsistence Farmer,01 Jan 1931
+1795,160169067,"Opa, Kaip",M,Piambil 2,Subsistence Farmer,22 Jun 1971
+1796,160171637,"Opa, Lewa",M,Piambil 2,Doctor,22 Jan 1975
+1797,160198299,"Opa, Nokop",M,Piambil 2,Subsistence Farmer,01 Jan 1981
+1798,160171641,"Opa, Simon",M,Piambil 2,Subsistence Farmer,09 Mar 1963
+1799,160167375,"Opa, Stiven",M,Piambil 2,Subsistence Farmer,17 Jan 1984
+1800,160165265,"Opa, Yawa",M,Piambil 2,Subsistence Farmer,19 Apr 1972
+1801,160210547,"Ope, Cathy",M,Piambil 2,Subsistence Farmer,12 Jan 1985
+1802,160185290,"Ope, Mendep",M,Piambil 2,Subsistence Farmer,01 Jan 1965
+1803,160212429,"Ope, Nema",M,Piambil 2,Magistrate,03 Jan 1960
+1804,160171742,"Opi, Algo",M,Piambil 2,Subsistence Farmer,23 Sep 1960
+1805,160167634,"Opi, Jerry",M,Piambil 2,Teacher,01 Jan 1976
+1806,160209780,"Opi, Jim",M,Piambil 2,Teacher,01 Jan 1961
+1807,160213367,"Opi, John",M,Piambil 2,Student,01 Jan 1983
+1808,160207979,"Opi, Korowa",M,Piambil 2,Subsistence Farmer,01 Jan 1952
+1809,160184978,"Opi, Nore",M,Piambil 2,Councillor,03 Jun 1960
+1810,160169405,"Opi, Pepeson",M,Piambil 2,Pastor,12 Jul 1960
+1811,160155782,"Paias, Jeffery",M,Piambil 2,Student,03 Dec 1990
+1812,160119159,"Paiye, Nickson",M,Piambil 2,Student,17 Apr 1997
+1813,160119088,"Pakoro, Tombo were",M,Piambil 2,Student,11 Jul 1996
+1814,160440401,"Pale, Junior",M,Piambil 2,Subsistence Farmer,28 Feb 2003
+1815,25083091,"Pandia, Ronald",M,Piambil 2,Student,26 Jan 1999
+1816,25083093,"Pandie, Pendia",M,Piambil 2,Student,11 Apr 2004
+1817,160216185,"Pandiye, Moses",M,Piambil 2,Student,01 Jan 1968
+1818,160210175,"Pangea, Daniel",M,Piambil 2,Driver,01 Jan 1966
+1819,160213276,"Pangea, Pepena",M,Piambil 2,Farm worker,01 Jan 1946
+1820,160213626,"Pangea, Were",M,Piambil 2,Farm worker,01 Jan 1953
+1821,160160346,"Pangi, Makangi",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1822,160155833,"Pangi, Toria",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1823,160213253,"Pangu, Tuwa",M,Piambil 2,Subsistence Farmer,01 Jan 1963
+1824,160196211,"Papora, John",M,Piambil 2,Subsistence Farmer,01 Jan 1974
+1825,160196240,"Papora, Las",M,Piambil 2,Student,01 Jan 1989
+1826,160197048,"Papora, Mendepo",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1827,160196969,"Papora, Pea",M,Piambil 2,Student,01 Jan 1986
+1828,160198353,"Papora, Toiye",M,Piambil 2,Subsistence Farmer,01 Jan 1970
+1829,160196217,"Papora, Wanpis",M,Piambil 2,Subsistence Farmer,01 Jan 1975
+1830,160156096,"Parasil, Simon",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1831,160440077,"Pare, Pulu",M,Piambil 2,Student,19 Feb 2003
+1832,160119322,"Pareka, Alex",M,Piambil 2,Pastor,27 Sep 1981
+1833,160136345,"Pareka, Ben",M,Piambil 2,Student,12 Jun 1996
+1834,160439975,"Pareka, Fibi",M,Piambil 2,Student,23 May 2003
+1835,160439971,"Pareka, Gesom",M,Piambil 2,Student,15 Jun 2000
+1836,160218835,"Pareka, Kerowa",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1837,160165155,"Paru, Inoch",M,Piambil 2,Subsistence Farmer,04 Nov 1990
+1838,160155981,"Paru, Tony",M,Piambil 2,Student,04 Aug 1980
+1839,160185084,"Patero, Junior",M,Piambil 2,Student,01 Jan 1987
+1840,160184963,"Patrick, Benjamin",M,Piambil 2,Student,01 Jan 2000
+1841,25083101,"Paul, Lesly",M,Piambil 2,Subsistence Farmer,16 Mar 1988
+1842,25083105,"Paul, Michael",M,Piambil 2,Subsistence Farmer,03 Mar 1986
+1843,25083108,"Paul, Nessa",M,Piambil 2,Student,07 Jun 2000
+1844,25083112,"Paula, Nicky",M,Piambil 2,Driver,19 Jul 2000
+1845,160160650,"Paulus, Kuleko",M,Piambil 2,Subsistence Farmer,01 Jan 1956
+1846,160195721,"Peamo, Jim",M,Piambil 2,Subsistence Farmer,01 Jan 1963
+1847,160184869,"Pedene, Makange",M,Piambil 2,Pastor,01 Jan 1946
+1848,160175807,"Pena, Suku",M,Piambil 2,Crewman,01 Jan 1979
+1849,160139971,"Pepe, Garu",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1850,160190853,"Pepe, Tongela",M,Piambil 2,Subsistence Farmer,01 Jan 1944
+1851,160213270,"Pepena, Yombi",M,Piambil 2,Subsistence Farmer,01 Jan 1984
+1852,160171636,"Pepeson, Goege",M,Piambil 2,Student,19 Jun 1973
+1853,160210345,"Philip, Goraige",M,Piambil 2,Subsistence Farmer,01 Jan 1982
+1854,160440331,"Philip, Jeri",M,Piambil 2,Student,03 Aug 2002
+1855,160212674,"Philip, Noka",M,Piambil 2,Subsistence Farmer,16 Sep 1975
+1856,160196544,"Philip, Roger",M,Piambil 2,Student,01 Jan 1984
+1857,160194790,"Philip, Waka",M,Piambil 2,Subsistence Farmer,01 Jan 1973
+1858,160213410,"Philip, Wenjipa",M,Piambil 2,Subsistence Farmer,17 Jun 1962
+1859,160213271,"Philip, Yuawan",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+1860,160212347,"Philipo, Aret",M,Piambil 2,Driver,08 Apr 1979
+1861,160162723,"Pil, Gep",M,Piambil 2,Subsistence Farmer,11 Dec 1960
+1862,25083128,"Pila, Mawe",M,Piambil 2,Student,25 Apr 1998
+1863,25083131,"Pila, Steven",M,Piambil 2,Student,24 May 1999
+1864,160210140,"Piliwi, Mendo",M,Piambil 2,Subsistence Farmer,01 Jan 1961
+1865,160185182,"Pindipiye, Mepa",M,Piambil 2,Subsistence Farmer,01 Jan 1936
+1866,160188572,"Pinje, Toipo",M,Piambil 2,Subsistence Farmer,01 Jan 1939
+1867,160155951,"Pis, Aldong",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1868,160165740,"Pis, Emos",M,Piambil 2,Subsistence Farmer,01 Jan 1953
+1869,160156086,"Pis, Et",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1870,160194643,"Pis, Peter",M,Piambil 2,Subsistence Farmer,01 Jan 1956
+1871,160165732,"Pis, Topa",M,Piambil 2,Subsistence Farmer,01 Jan 1900
+1872,160153655,"Pis, Win",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1873,160188264,"Piska, Niki",M,Piambil 2,Student,09 Jul 1990
+1874,160213241,"Piuye, Tema",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+1875,160440565,"Plus, Esther",M,Piambil 2,Housegirl,29 Mar 2003
+1876,160213418,"Pokame, Sanage",M,Piambil 2,Subsistence Farmer,04 Aug 1968
+1877,160182907,"Pokeya, Kelly",M,Piambil 2,Student,01 Jan 1988
+1878,160182898,"Pokeya, Rodney",M,Piambil 2,Subsistence Farmer,01 Jan 1988
+1879,160119150,"Pokeya, Ronald",M,Piambil 2,Subsistence Farmer,13 Jul 1998
+1880,160190847,"Pokora, Arume",M,Piambil 2,Subsistence Farmer,01 Jan 1942
+1881,160190625,"Pokora, Kakeiye",M,Piambil 2,Subsistence Farmer,01 Jan 1961
+1882,160190781,"Pokora, Kolapi",M,Piambil 2,Subsistence Farmer,01 Jan 1946
+1883,160184844,"Pokora, Lembo",M,Piambil 2,Subsistence Farmer,01 Jan 1956
+1884,160190617,"Pokora, Lopeke",M,Piambil 2,Subsistence Farmer,01 Jan 1951
+1885,160189754,"Pokora, Nangu",M,Piambil 2,Subsistence Farmer,01 Jan 1959
+1886,160158969,"Politi, Lonoma",M,Piambil 2,Subsistence Farmer,01 Jan 1962
+1887,160160690,"Politi, Wama",M,Piambil 2,Subsistence Farmer,01 Jan 1972
+1888,25083134,"Poly, Alfred",M,Piambil 2,Student,16 Apr 2000
+1889,160190687,"Pora, Andrew",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1890,160119211,"Pora, Bensport",M,Piambil 2,Subsistence Farmer,23 Sep 1984
+1891,160169268,"Pora, Buka",M,Piambil 2,Subsistence Farmer,25 Dec 1977
+1892,160182947,"Pora, Jeremaiah",M,Piambil 2,Student,01 Jan 1987
+1893,160190597,"Pora, Nepol",M,Piambil 2,Student,20 Jun 1982
+1894,160188580,"Pora, Pati",M,Piambil 2,Student,07 Aug 1990
+1895,160210315,"Pora, Paul",M,Piambil 2,Subsistence Farmer,01 Jan 1970
+1896,160188048,"Pora, Philip",M,Piambil 2,Subsistence Farmer,04 Jun 1978
+1897,160190606,"Pora, Toringi",M,Piambil 2,Security,01 Jan 2000
+1898,160190613,"Pora, Winny",M,Piambil 2,Student,01 Jan 1985
+1899,160182628,"Puiye, Paul",M,Piambil 2,Teacher,01 Jan 2000
+1900,160198756,"Puke, Nelson",M,Piambil 2,Student,01 Jan 2000
+1901,160155839,"Puke, Nokendo",M,Piambil 2,Student,19 Apr 1984
+1902,160159050,"Puke, Stephen",M,Piambil 2,Student,29 Jun 1987
+1903,160201923,"Puke, Steven",M,Piambil 2,Student,01 Jan 2000
+1904,25083148,"Puluma, Romeo",M,Piambil 2,Student,14 Mar 1998
+1905,160165263,"Pulusil, Iso",M,Piambil 2,Student,14 Feb 1970
+1906,160162740,"Pulusil, Kipungi",M,Piambil 2,Subsistence Farmer,01 Jan 1900
+1907,160167626,"Pulusil, Wete",M,Piambil 2,Subsistence Farmer,12 Jun 1945
+1908,160209738,"Pundu, Thomas",M,Piambil 2,Policeman,01 Jan 1963
+1909,160440531,"Puno, David",M,Piambil 2,Subsistence Farmer,28 Jun 2001
+1910,160119294,"Puno, Kapo",M,Piambil 2,Subsistence Farmer,09 Jun 1983
+1911,160119295,"Puno, Kelly",M,Piambil 2,Student,13 Aug 1987
+1912,160440509,"Puno, Stenford",M,Piambil 2,Student,13 Mar 2003
+1913,160440511,"Puno, Steward",M,Piambil 2,Student,23 Apr 2003
+1914,160440427,"Puru, Justin",M,Piambil 2,Subsistence Farmer,14 Jun 2003
+1915,160440426,"Puru, Willson",M,Piambil 2,Subsistence Farmer,17 Mar 2001
+1916,160193247,"Purul, Ake",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+1917,160185905,"Purul, Ake",M,Piambil 2,Subsistence Farmer,01 Jan 1963
+1918,160188409,"Purul, Oke",M,Piambil 2,Subsistence Farmer,01 Jan 1968
+1919,160155817,"Purul, Paul",M,Piambil 2,Subsistence Farmer,01 Jan 1973
+1920,160188410,"Purul, Pundia",M,Piambil 2,Subsistence Farmer,01 Jan 1958
+1921,160212667,"Purul, Sua",M,Piambil 2,Councillor,12 Oct 1952
+1922,160193241,"Purul, Tamalu",M,Piambil 2,Subsistence Farmer,01 Jan 1900
+1923,160155822,"Purul, Temal",M,Piambil 2,Worker,12 Apr 1962
+1924,160196381,"Puye, Korowi",M,Piambil 2,Subsistence Farmer,11 Jan 1970
+1925,160197037,"Puye, Pereya",M,Piambil 2,Subsistence Farmer,26 Nov 1950
+1926,160440295,"Rami, Gilly",M,Piambil 2,Student,12 Feb 2003
+1927,160440696,"Rande, Kopea",M,Piambil 2,Student,11 Dec 1990
+1928,160184854,"Rapindi, Lewa",M,Piambil 2,Subsistence Farmer,01 Jan 1975
+1929,160184899,"Rapindi, Mark",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+1930,160185058,"Rapindi, Philip",M,Piambil 2,Subsistence Farmer,01 Jan 1963
+1931,160182914,"Rase, Nomja",M,Piambil 2,Subsistence Farmer,02 Jun 1934
+1932,160176265,"Raume, Abraham",M,Piambil 2,Subsistence Farmer,01 Jan 1980
+1933,160176154,"Raume, Isaac",M,Piambil 2,Subsistence Farmer,01 Jan 1982
+1934,160176148,"Raume, James",M,Piambil 2,Subsistence Farmer,01 Jan 1978
+1935,160176274,"Raume, Joshua",M,Piambil 2,Student,01 Jan 1983
+1936,160440567,"Relly, Britney",M,Piambil 2,Student,28 Feb 2004
+1937,160185257,"Rema, Kingi",M,Piambil 2,Subsistence Farmer,01 Jan 1940
+1938,160185265,"Rema, Mendeli",M,Piambil 2,Subsistence Farmer,01 Jan 1970
+1939,160440735,"Rendy, Puluma",M,Piambil 2,Student,14 Nov 1986
+1940,160206904,"Rex, Kuku",M,Piambil 2,Subsistence Farmer,01 Jan 1972
+1941,25083176,"Rex, Mark",M,Piambil 2,Welder,10 Oct 1980
+1942,25083184,"Roanld, James",M,Piambil 2,Driver,12 Apr 1993
+1943,160119207,"Robert, Adwin",M,Piambil 2,Self Employed,10 Apr 1997
+1944,160119346,"Robert, Gibson",M,Piambil 2,Store Keeper,27 Jun 1996
+1945,160190241,"Robert, James",M,Piambil 2,Subsistence Farmer,01 Jan 1975
+1946,160440512,"Robert, Kingston",M,Piambil 2,Student,20 Feb 2001
+1947,25083191,"Robert, Maxie",M,Piambil 2,Student,30 Mar 2000
+1948,25083197,"Robert, Rex",M,Piambil 2,Subsistence Farmer,20 Apr 1964
+1949,25083200,"Robert, Wellie",M,Piambil 2,Teacher,13 Feb 1978
+1950,160119196,"Robert, Wesly",M,Piambil 2,Student,09 Aug 1996
+1951,25083205,"Robin, Christopher",M,Piambil 2,Student,01 Jan 2000
+1952,25083208,"Robin, Graham",M,Piambil 2,Student,03 Jan 2001
+1953,160440521,"Robin, Lewis",M,Piambil 2,Subsistence Farmer,14 Mar 2002
+1954,25083216,"Robin, Olivar",M,Piambil 2,Teacher,16 Jun 2001
+1955,160440274,"Roica, Toma",M,Piambil 2,Student,10 Nov 2001
+1956,25083225,"Ronald, Daniel",M,Piambil 2,Teacher,12 Apr 2000
+1957,160136224,"Ruben, Dingel",M,Piambil 2,Student,19 Jan 1997
+1958,25083240,"Saki, Donald",M,Piambil 2,Student,04 Aug 2001
+1959,160119227,"Sam, Pup",M,Piambil 2,Student,02 May 1998
+1960,160119243,"Sambi, Naiten",M,Piambil 2,Subsistence Farmer,22 Feb 1991
+1961,160119245,"Sambi, Rap",M,Piambil 2,Student,26 Jan 1996
+1962,160167550,"Samson, Cain",M,Piambil 2,Subsistence Farmer,09 Mar 1982
+1963,160440078,"Samson, Lesley",M,Piambil 2,Student,13 Mar 2003
+1964,160167548,"Samson, Livai",M,Piambil 2,Student,04 Oct 1990
+1965,25083251,"Semie, Glenton",M,Piambil 2,Teacher,24 Jun 2000
+1966,25083254,"Semie, Kupa",M,Piambil 2,Subsistence Farmer,28 Jul 2001
+1967,25083257,"Semie, Solomon",M,Piambil 2,Self Employed,28 Dec 1998
+1968,160171776,"Sent, Kuleme",M,Piambil 2,Subsistence Farmer,01 Jan 1972
+1969,160169176,"Setrak, Gula",M,Piambil 2,Student,01 Jan 1990
+1970,160440346,"Sevi, Pombera",M,Piambil 2,Student,16 Mar 2003
+1971,160440344,"Sevi, Whity",M,Piambil 2,Student,10 Nov 1999
+1972,160160408,"Silgu, Pundu",M,Piambil 2,Unemployed,01 Jan 1978
+1973,160160411,"Silgu, Yombi",M,Piambil 2,Subsistence Farmer,01 Jan 1971
+1974,160160415,"Silgu, Yuka",M,Piambil 2,Pastor,01 Jan 1967
+1975,160218577,"Silto, Nasubu",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1976,160216643,"Silto, Peter",M,Piambil 2,Salesman,01 Jan 1986
+1977,160218575,"Silto, Sent",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+1978,160216640,"Silto, Yala",M,Piambil 2,Student,01 Jan 2000
+1979,160218356,"Simbil, Kewa",M,Piambil 2,Worker,01 Jan 1954
+1980,160218137,"Simbil, Lama",M,Piambil 2,Subsistence Farmer,01 Jan 1960
+1981,160218141,"Simbil, Puluma",M,Piambil 2,Pastor,01 Jan 1969
+1982,160218155,"Simbil, Teke",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+1983,160171633,"Simbu, Kora",M,Piambil 2,Driver,01 Jan 1967
+1984,160440670,"Simije, John",M,Piambil 2,Subsistence Farmer,18 Feb 2001
+1985,160171782,"Simiji, Ben",M,Piambil 2,Subsistence Farmer,01 Jan 1970
+1986,160155830,"Simiji, Robert",M,Piambil 2,Student,01 Jan 1982
+1987,160165257,"Simiji, Stanley",M,Piambil 2,Subsistence Farmer,01 Jan 1974
+1988,25083267,"Simon, Kevin",M,Piambil 2,Student,15 Apr 2000
+1989,25083270,"Simon, Melvin",M,Piambil 2,Student,16 Mar 2001
+1990,160169254,"Simon, Miri",M,Piambil 2,Student,08 Feb 1989
+1991,25083273,"Simon, Pisa",M,Piambil 2,Subsistence Farmer,12 Apr 1979
+1992,160169269,"Simon, Simbil",M,Piambil 2,Subsistence Farmer,02 Aug 1975
+1993,25083281,"Solo, Meko",M,Piambil 2,Student,16 Apr 2000
+1994,160440241,"Sonde, Kelly",M,Piambil 2,Student,14 May 2001
+1995,160210312,"Songbeag, Kewa",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+1996,160213575,"Songbeang, Martin",M,Piambil 2,Subsistence Farmer,09 Apr 1956
+1997,25083289,"Stanly, Mathew",M,Piambil 2,Subsistence Farmer,23 Apr 2001
+1998,25083291,"Steven, Joe",M,Piambil 2,Teacher,04 Jun 1983
+1999,160212673,"Sua, Wanpis",M,Piambil 2,Subsistence Farmer,01 Jan 1979
+2000,160176268,"Suba, Basu",M,Piambil 2,Subsistence Farmer,01 Jan 1973
+2001,160196170,"Suku, Miwa",M,Piambil 2,Subsistence Farmer,24 Sep 1979
+2002,160195908,"Suku, Paul",M,Piambil 2,Subsistence Farmer,25 Jan 1981
+2003,160196277,"Suku, Wane",M,Piambil 2,Subsistence Farmer,18 Oct 1968
+2004,160196136,"Suku, Yakili",M,Piambil 2,Subsistence Farmer,21 Dec 1970
+2005,160187495,"Sulda, Diwa",M,Piambil 2,Subsistence Farmer,01 Jan 1972
+2006,160182765,"Suwake, Paraka",M,Piambil 2,Subsistence Farmer,01 Jan 1980
+2007,160184847,"Taiye, Inoch",M,Piambil 2,Student,01 Jan 1987
+2008,160185054,"Taiye, Kana",M,Piambil 2,Mechanic,01 Jan 1970
+2009,160185011,"Taiye, Kepu",M,Piambil 2,Student,01 Jan 1985
+2010,160184900,"Taiye, Keya",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+2011,160184861,"Taiye, Kondowa",M,Piambil 2,Subsistence Farmer,01 Jan 1985
+2012,160193838,"Taiye, Lama",M,Piambil 2,Subsistence Farmer,01 Jan 1974
+2013,160175827,"Taiye, Philip",M,Piambil 2,Mechanic,01 Jan 1970
+2014,160183009,"Takune, Naweya",M,Piambil 2,Subsistence Farmer,18 Dec 1968
+2015,160440302,"Takune, Waru",M,Piambil 2,Student,16 Nov 2001
+2016,160440592,"Tali, Tangopa",M,Piambil 2,Student,28 Mar 2004
+2017,160176039,"Talopa, Ale",M,Piambil 2,Subsistence Farmer,01 Jan 1950
+2018,160171756,"Talopa, Gupe",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+2019,160175715,"Talopa, James",M,Piambil 2,Student,01 Jan 1978
+2020,160175933,"Talopa, Koroka",M,Piambil 2,Subsistence Farmer,01 Jan 1983
+2021,160176131,"Talopa, Lewa",M,Piambil 2,Subsistence Farmer,01 Jan 1986
+2022,160212604,"Talopa, Mek",M,Piambil 2,Subsistence Farmer,14 Dec 1960
+2023,160176010,"Talopa, Nain",M,Piambil 2,Subsistence Farmer,01 Jan 1963
+2024,160175716,"Talopa, Robert",M,Piambil 2,Student,01 Jan 1967
+2025,160187518,"Talopa, Ten",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+2026,160187522,"Talopa, Wakeno",M,Piambil 2,Subsistence Farmer,01 Jan 1972
+2027,160175984,"Talopa, Wanis",M,Piambil 2,Subsistence Farmer,20 Nov 1974
+2028,160182921,"Talopa, Wanis",M,Piambil 2,Subsistence Farmer,06 Nov 1969
+2029,160176006,"Talopa, Was",M,Piambil 2,Subsistence Farmer,01 Jan 1975
+2030,160218932,"Tana, Luke",M,Piambil 2,Student,01 Jan 1988
+2031,160440341,"Tange, Pombera",M,Piambil 2,Student,02 Sep 2001
+2032,160169186,"Tangil, Mek",M,Piambil 2,Subsistence Farmer,01 Jan 1950
+2033,160193116,"Tanguwe, Thomas",M,Piambil 2,Student,01 Jan 1988
+2034,160119309,"Tano, Amos",M,Piambil 2,Student,26 Mar 1996
+2035,160162706,"Tano, Inanben",M,Piambil 2,Student,01 Jan 1982
+2036,160185115,"Tano, Jackson",M,Piambil 2,Student,01 Jan 1980
+2037,160215407,"Tano, Nade",M,Piambil 2,Driver,01 Jan 1985
+2038,160162703,"Tano, Nadekes",M,Piambil 2,Subsistence Farmer,01 Jan 1978
+2039,160216058,"Tapoiye, Seirus",M,Piambil 2,Student,01 Jan 1989
+2040,160153567,"Taputail, Laspora",M,Piambil 2,Subsistence Farmer,01 Jan 1979
+2041,160153570,"Taputail, Morrow",M,Piambil 2,Nurse,01 Jan 1967
+2042,160198443,"Taputail, Talika",M,Piambil 2,Subsistence Farmer,05 Jun 1974
+2043,160220452,"Taulo, Tendepo",M,Piambil 2,Subsistence Farmer,01 Jan 1962
+2044,160194649,"Teka, Peandi",M,Piambil 2,Magistrate,01 Jan 1979
+2045,160196172,"Teka, Yumbe",M,Piambil 2,Clerk,01 Nov 1900
+2046,160198494,"Temane, Gepori",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+2047,160185121,"Temba, Pot",M,Piambil 2,Pastor,01 Jan 1956
+2048,160219032,"Temba, Pot",M,Piambil 2,Subsistence Farmer,01 Jan 1950
+2049,160187305,"Tendi, Wane",M,Piambil 2,Subsistence Farmer,09 Feb 1956
+2050,160155800,"Tep, Paru",M,Piambil 2,Salesman,19 Sep 1980
+2051,160186070,"Tepe, Joseph",M,Piambil 2,Driver,10 Feb 1964
+2052,160440754,"Tepne, Marowa",M,Piambil 2,Subsistence Farmer,15 Apr 2003
+2053,160175935,"Tepu, Jeffery",M,Piambil 2,Student,06 Sep 1970
+2054,160187667,"Tepu, Puka",M,Piambil 2,Student,04 Nov 1990
+2055,160176088,"Tepu, Samuel",M,Piambil 2,Student,09 Dec 1972
+2056,160119365,"Terum, Pastolyn",M,Piambil 2,Secretary,30 Jul 1989
+2057,160193391,"Thebstine, Terminator",M,Piambil 2,Driver,01 Jan 1986
+2058,160155720,"Thomas, Daniel",M,Piambil 2,Subsistence Farmer,27 Jun 1980
+2059,25083318,"Thomas, Dopo",M,Piambil 2,Driver,13 Jun 2001
+2060,160209742,"Thomas, Grenger",M,Piambil 2,Student,01 Jan 1989
+2061,160184848,"Thomas, Jerry",M,Piambil 2,Subsistence Farmer,01 Jan 1982
+2062,160165821,"Tilto, William",M,Piambil 2,Subsistence Farmer,08 Jan 1960
+2063,160119170,"Timothy, Carl",M,Piambil 2,Student,14 Sep 1998
+2064,160119169,"Timothy, Rodger",M,Piambil 2,Typist,27 Jul 1996
+2065,25083321,"Timson, Dopo",M,Piambil 2,Subsistence Farmer,15 Mar 2001
+2066,25083325,"Timson, Eric",M,Piambil 2,Student,14 Apr 2000
+2067,160440364,"Timson, Sipa",M,Piambil 2,Subsistence Farmer,28 Jun 2000
+2068,160193128,"Tingo, Nindili",M,Piambil 2,Pastor,01 Jan 1958
+2069,160185207,"Tingo, Taiye",M,Piambil 2,Subsistence Farmer,01 Jan 1936
+2070,160184874,"Tipi, Samson",M,Piambil 2,Student,13 Jul 1983
+2071,160119264,"Tiri, Jimmy",M,Piambil 2,Student,07 Nov 1996
+2072,160202089,"Tiri, Timothy",M,Piambil 2,Subsistence Farmer,01 Jan 1965
+2073,160119265,"Tiri, Timson",M,Piambil 2,Student,03 Feb 1994
+2074,160193288,"Toipo, Jacob",M,Piambil 2,Mechanic,28 Mar 1967
+2075,160193394,"Toipo, Joe",M,Piambil 2,Subsistence Farmer,01 Jan 1988
+2076,160187752,"Toipo, Wikai",M,Piambil 2,Driver,01 Jan 1967
+2077,160156075,"Toite, Kapolo",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+2078,160176134,"Toite, Mano",M,Piambil 2,Pastor,01 Jan 2000
+2079,160209856,"Tokopa, Doti",M,Piambil 2,Student,01 Jan 1986
+2080,25083329,"Tokopa, Gilbert",M,Piambil 2,Student,23 Jan 2001
+2081,160220686,"Tokopa, John",M,Piambil 2,Subsistence Farmer,01 Jan 1972
+2082,160219206,"Tokopa, Paul",M,Piambil 2,Subsistence Farmer,01 Jan 1962
+2083,160220529,"Tokopa, Wapis",M,Piambil 2,Subsistence Farmer,01 Jan 1984
+2084,160209723,"Tokopa, Yaya",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+2085,160169412,"Tolginga, Mata",M,Piambil 2,Subsistence Farmer,02 Dec 1934
+2086,160169270,"Tolginga, Namb",M,Piambil 2,Subsistence Farmer,11 Jan 1962
+2087,160165298,"Tolsinga, Yala",M,Piambil 2,Subsistence Farmer,01 Nov 1900
+2088,160185898,"Tomano, Joseph",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+2089,160119153,"Tomano, Josuah",M,Piambil 2,Student,17 Jul 1997
+2090,160213715,"Tomano, Kanj",M,Piambil 2,Student,01 Jan 1986
+2091,160215402,"Tomano, Paiye",M,Piambil 2,Subsistence Farmer,01 Jan 1977
+2092,160213986,"Tomano, Pumbo",M,Piambil 2,Student,01 Jan 1983
+2093,160188416,"Tomano, Undi",M,Piambil 2,Subsistence Farmer,01 Jan 1957
+2094,25083338,"Tomo, Billy",M,Piambil 2,Driver,15 Oct 1998
+2095,25083344,"Tomo, Hongum",M,Piambil 2,Driver,02 Dec 1996
+2096,160160438,"Tonge, Seni",M,Piambil 2,Driver,25 Apr 1975
+2097,160190629,"Tongele, Mathew",M,Piambil 2,Accountant,01 Oct 1979
+2098,160189758,"Tongi, Benjaman",M,Piambil 2,Subsistence Farmer,01 Jan 1982
+2099,160188516,"Tongi, Ferman",M,Piambil 2,Student,01 Jan 1988
+2100,160190900,"Tongi, John",M,Piambil 2,Subsistence Farmer,01 Jan 1974
+2101,160190871,"Tongi, Justin",M,Piambil 2,Store Keeper,01 Jan 1973
+2102,160189771,"Tongi, Keleman",M,Piambil 2,Student,01 Jan 1988
+2103,160190689,"Tongi, Paul",M,Piambil 2,Subsistence Farmer,01 Jan 1980
+2104,160190693,"Tongi, Peter",M,Piambil 2,Subsistence Farmer,01 Jan 1978
+2105,160190560,"Tongi, Simon",M,Piambil 2,Subsistence Farmer,01 Jan 1968
+2106,25083360,"Tonny, Keneth",M,Piambil 2,Subsistence Farmer,13 Dec 2000
+2107,160440701,"Tonny, Sammy",M,Piambil 2,Student,01 Nov 1992
+2108,160180763,"Tonny, Yamba",M,Piambil 2,Teacher,01 Jan 1978
+2109,160119101,"Tony, Yenton",M,Piambil 2,Student,06 Mar 1998
+2110,160180928,"Topa, Luther",M,Piambil 2,Engineer,01 Jan 1968
+2111,160119111,"Topa, Manson",M,Piambil 2,Student,21 Nov 1997
+2112,160165735,"Topa, Parasil",M,Piambil 2,Subsistence Farmer,01 Jan 1900
+2113,160180745,"Topa, Phillip",M,Piambil 2,Subsistence Farmer,01 Jan 1987
+2114,160139985,"Topitoli, Matoli",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+2115,160183209,"Toroiye, Omba",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+2116,160139981,"Toropo, Elaizah",M,Piambil 2,Student,01 Jan 1987
+2117,160196234,"Tose, Taputail",M,Piambil 2,Subsistence Farmer,01 Jan 1900
+2118,160196968,"Tose, Wakeno",M,Piambil 2,Pastor,01 Jan 1900
+2119,25083388,"Tumba, Nick",M,Piambil 2,Student,02 Nov 1999
+2120,160213263,"Tuwa, James",M,Piambil 2,Subsistence Farmer,01 Jan 1979
+2121,25083394,"Tuwa, Nathaniel",M,Piambil 2,Student,14 Mar 2000
+2122,160213267,"Tuwa, Simon",M,Piambil 2,Student,01 Jan 1983
+2123,160182950,"Ukisi, Niningi",M,Piambil 2,Salesman,08 Jul 1971
+2124,160175723,"Umbeth, Nema",M,Piambil 2,Subsistence Farmer,12 Jan 1962
+2125,160204345,"Una, Jona",M,Piambil 2,Subsistence Farmer,01 Jan 1980
+2126,160210581,"Unde, Koyapo",M,Piambil 2,Warder,01 Jan 1954
+2127,160188418,"Undi, Tendike",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+2128,160196775,"Uruepe, Andrew",M,Piambil 2,Pastor,01 Jan 1964
+2129,160195803,"Uruepe, Tiwete",M,Piambil 2,Subsistence Farmer,18 Nov 1967
+2130,160176287,"Urupaiye, John",M,Piambil 2,Student,28 Dec 1989
+2131,160176133,"Urupaiye, Paul",M,Piambil 2,Student,12 Jun 1985
+2132,160220523,"Urupaiye, Tokopa",M,Piambil 2,Subsistence Farmer,01 Jan 1968
+2133,160175812,"Urupaiye, Wanpis",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+2134,160173208,"Urupe, Moses",M,Piambil 2,Student,01 Jan 1984
+2135,160167373,"Urupe, Rigen",M,Piambil 2,Student,01 Jan 1984
+2136,160204347,"Uwa, Sana",M,Piambil 2,Subsistence Farmer,01 Jan 1983
+2137,160440549,"Uwe, Jobby",M,Piambil 2,Student,16 Sep 2003
+2138,160440415,"Uwe, Jobby",M,Piambil 2,Student,16 Nov 2000
+2139,160204343,"Uwe, Kawa",M,Piambil 2,Subsistence Farmer,01 Jan 1942
+2140,160171912,"Uwe, Manus",M,Piambil 2,Subsistence Farmer,01 Jan 1979
+2141,160119314,"Uwe, Only",M,Piambil 2,Student,09 Jun 1998
+2142,160176123,"Vincent, Gula",M,Piambil 2,Subsistence Farmer,20 Nov 1970
+2143,160198901,"Waima, Kounge",M,Piambil 2,Subsistence Farmer,01 Jan 1986
+2144,160175857,"Waima, Pokora",M,Piambil 2,Subsistence Farmer,01 Jan 1980
+2145,160180749,"Waka, Jeoffery",M,Piambil 2,Mechanic,01 Jan 1966
+2146,160180932,"Waka, Mandi",M,Piambil 2,Subsistence Farmer,01 Jan 1972
+2147,160216035,"Wakaile, Anda",M,Piambil 2,Student,01 Jan 1968
+2148,160215734,"Wakaile, Aruru",M,Piambil 2,Student,01 Jan 1969
+2149,160119358,"Wakaile, Kepa",M,Piambil 2,Not Specified,17 Mar 1981
+2150,160216025,"Wakaile, Tende",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+2151,160216029,"Wakaile, Yawa",M,Piambil 2,Subsistence Farmer,01 Jan 1968
+2152,160440630,"Wake, Nelsan",M,Piambil 2,Student,20 Apr 2004
+2153,160201450,"Wake, Poya",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+2154,160184988,"Wakena, Norman",M,Piambil 2,Student,01 Jan 1982
+2155,160195968,"Wakeno, John",M,Piambil 2,Worker,12 Aug 1933
+2156,160195713,"Wakeno, Kewa",M,Piambil 2,Subsistence Farmer,14 May 1971
+2157,160184995,"Walene, Zau aldu",M,Piambil 2,Business man,01 Jan 1974
+2158,160119354,"Wama, Iki",M,Piambil 2,Student,06 Nov 1998
+2159,160119353,"Wama, Jarry",M,Piambil 2,Student,09 Jan 1996
+2160,160440414,"Wama, Rubben",M,Piambil 2,Student,18 Jun 2003
+2161,160440413,"Wama, Zebedee",M,Piambil 2,Student,14 Mar 2001
+2162,160440600,"Wama, Zebedee",M,Piambil 2,Student,12 Nov 2000
+2163,160178014,"Wambu, Jackson",M,Piambil 2,Subsistence Farmer,01 Jan 1985
+2164,160440551,"Wana, Ruben",M,Piambil 2,Student,28 Jul 2003
+2165,160440484,"Wane, Aita",M,Piambil 2,Student,28 Aug 2001
+2166,160440553,"Wane, Fein",M,Piambil 2,Student,28 Apr 2003
+2167,25083417,"Wane, Flias",M,Piambil 2,Subsistence Farmer,11 Apr 2000
+2168,160119284,"Wane, Jack",M,Piambil 2,Sales Women,03 Nov 1986
+2169,160119369,"Wane, Jackson",M,Piambil 2,Subsistence Farmer,18 Jun 1985
+2170,160119187,"Wane, Martin",M,Piambil 2,Subsistence Farmer,10 Oct 1986
+2171,160119282,"Wane, Mongai",M,Piambil 2,Driver,02 Jun 1980
+2172,160119370,"Wane, Nickson",M,Piambil 2,Driver,02 Mar 1980
+2173,160219196,"Wane, Nickson",M,Piambil 2,Student,01 Jan 1980
+2174,25083426,"Wane, Robin",M,Piambil 2,Student,19 Mar 2000
+2175,160440315,"Wane, Roman",M,Piambil 2,Student,13 Jan 2001
+2176,25083429,"Wane, Ruben",M,Piambil 2,Student,20 Mar 2004
+2177,25083432,"Wane, Wesley",M,Piambil 2,Student,17 Apr 2004
+2178,160184886,"Wanene, Wake",M,Piambil 2,Subsistence Farmer,01 Jan 1964
+2179,160189815,"Waneng, Mex",M,Piambil 2,Student,06 Mar 1990
+2180,160119306,"Wanis, Augustine",M,Piambil 2,Student,02 Jul 1984
+2181,160440041,"Wanis, Elizah",M,Piambil 2,Student,14 Oct 2003
+2182,160175727,"Wanis, Gebriel",M,Piambil 2,Student,01 Jan 1989
+2183,160182635,"Wanis, Gebriel",M,Piambil 2,Student,09 Jun 1982
+2184,160440268,"Wanis, Jonathen",M,Piambil 2,Student,14 Jul 2002
+2185,160119215,"Wanis, Moses",M,Piambil 2,Student,17 May 1998
+2186,160155866,"Wanis, Pawa",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+2187,160190011,"Wanis, Rox",M,Piambil 2,Student,01 Jan 2000
+2188,160155996,"Waniya, Mati",M,Piambil 2,Student,01 Jan 1981
+2189,160119342,"Wanpis, Gilbert",M,Piambil 2,Carpenter,22 Apr 1997
+2190,160136354,"Wanpis, Junior",M,Piambil 2,Student,13 Feb 1999
+2191,160440354,"Wanpis, Manu",M,Piambil 2,Student,13 Sep 2003
+2192,160217610,"Wanpis, Maria",M,Piambil 2,Subsistence Farmer,01 Jan 1968
+2193,25083440,"Wanpis, Nathan",M,Piambil 2,Student,15 Mar 2000
+2194,160119341,"Wanpis, Samuel",M,Piambil 2,Subsistence Farmer,02 Dec 1996
+2195,160211295,"Wareya, Aruru",M,Piambil 2,Student,01 Jan 1986
+2196,160191107,"Waringi, Kedikiye",M,Piambil 2,Magistrate,01 Jan 1941
+2197,160440497,"Wesley, Benjiman",M,Piambil 2,Student,28 Apr 2004
+2198,160440504,"Wesley, Gerah",M,Piambil 2,Carpenter,21 Mar 2003
+2199,160440523,"Wesley, Karl",M,Piambil 2,Subsistence Farmer,13 Mar 2003
+2200,160165824,"William, Amenge",M,Piambil 2,Subsistence Farmer,14 Jul 1990
+2201,160153581,"William, Freeman",M,Piambil 2,Student,01 Jan 1983
+2202,160165822,"William, Holipa",M,Piambil 2,Student,09 Aug 1985
+2203,160160786,"William, Kuleme",M,Piambil 2,Subsistence Farmer,01 Jan 1978
+2204,160221164,"William, Kunjip",M,Piambil 2,Pastor,01 Jan 1975
+2205,160153586,"William, Mathew",M,Piambil 2,Student,01 Jan 1985
+2206,160155777,"William, Solomon",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+2207,25083451,"Willie, Joe",M,Piambil 2,Student,13 Mar 1993
+2208,160136219,"Winis, Nelson",M,Piambil 2,Student,23 Sep 1998
+2209,160204149,"Wisi, Mote",M,Piambil 2,Subsistence Farmer,01 Jan 1975
+2210,160201979,"Wisi, Plus",M,Piambil 2,Driver,01 Jan 1980
+2211,160204145,"Wisi, Wipeesta",M,Piambil 2,Driver,01 Jan 1975
+2212,160198472,"Yako, Karapoi",M,Piambil 2,Subsistence Farmer,01 Jan 1967
+2213,160195986,"Yakop, Jackop",M,Piambil 2,Subsistence Farmer,01 Jan 1937
+2214,160167543,"Yakubu, Opa",M,Piambil 2,Subsistence Farmer,01 Dec 1900
+2215,160163139,"Yakumbu, Yama",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+2216,160119326,"Yala, Joe",M,Piambil 2,Cashier,02 May 1986
+2217,160440383,"Yala, Mark",M,Piambil 2,Student,03 Feb 2003
+2218,160219012,"Yala, Mondo",M,Piambil 2,Subsistence Farmer,01 Jan 1962
+2219,160188584,"Yala, Peter",M,Piambil 2,Subsistence Farmer,01 Jan 1960
+2220,160186055,"Yala, Pora",M,Piambil 2,Subsistence Farmer,01 Jan 1960
+2221,160218557,"Yala, Puri",M,Piambil 2,Subsistence Farmer,01 Jan 1962
+2222,160440713,"Yala, Rambo",M,Piambil 2,Student,11 Feb 2004
+2223,160440381,"Yala, Wesly",M,Piambil 2,Nurse,11 Oct 2001
+2224,160182869,"Yala, Yupe",M,Piambil 2,Subsistence Farmer,01 Jan 1960
+2225,160155975,"Yalla, Fembi",M,Piambil 2,Student,01 Jan 2000
+2226,160153654,"Yalla, Telo",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+2227,160196047,"Yalo, Dopo",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+2228,160195936,"Yalo, Kololi",M,Piambil 2,Subsistence Farmer,01 Jan 1966
+2229,160196121,"Yalo, Mekowa",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+2230,160194799,"Yalo, Tendi",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+2231,160153194,"Yama, Issac",M,Piambil 2,Student,01 Jan 1989
+2232,160169281,"Yama, Pes",M,Piambil 2,Subsistence Farmer,19 Jun 1974
+2233,160153034,"Yama, Solomon",M,Piambil 2,Student,01 Jan 2000
+2234,160187604,"Yamba, Pote",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+2235,160175883,"Yamu, Mark",M,Piambil 2,Subsistence Farmer,06 Mar 1979
+2236,160173741,"Yamu, Mathew",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+2237,160187055,"Yamu, Steanley",M,Piambil 2,Subsistence Farmer,20 Jun 1979
+2238,160222296,"Yamu, Tumba",M,Piambil 2,Subsistence Farmer,01 Jan 1982
+2239,160222407,"Yamu, Wini",M,Piambil 2,Subsistence Farmer,01 Jan 1986
+2240,25083455,"Yangpin, Augustine",M,Piambil 2,Carpenter,28 Apr 2004
+2241,25083459,"Yangpin, Klin",M,Piambil 2,Driver,12 Oct 1999
+2242,25083465,"Yangpin, Mesak",M,Piambil 2,Driver,16 Jul 2000
+2243,160440398,"Yapa, Moke",M,Piambil 2,Subsistence Farmer,04 Jun 2001
+2244,25083468,"Yapa, Nicky",M,Piambil 2,Subsistence Farmer,16 Apr 2000
+2245,160440399,"Yapa, Paiye",M,Piambil 2,Subsistence Farmer,29 May 2003
+2246,160153039,"Yapo, Rorbert",M,Piambil 2,Student,01 Jan 2000
+2247,25083473,"Yapoe, Tobias",M,Piambil 2,Student,27 Feb 2000
+2248,25083480,"Yapus, Jacob",M,Piambil 2,Student,29 Jun 2003
+2249,25083482,"Yapus, Joel",M,Piambil 2,Subsistence Farmer,06 Apr 2000
+2250,25083490,"Yapus, Topias",M,Piambil 2,Subsistence Farmer,14 Mar 2001
+2251,25083492,"Yaugpin, Isa",M,Piambil 2,Subsistence Farmer,03 Apr 1987
+2252,160216250,"Yawa, Keven",M,Piambil 2,Mechanic,01 Jan 1983
+2253,160185269,"Yaya, Nandie",M,Piambil 2,Subsistence Farmer,01 Jan 1969
+2254,160173317,"Yelupa, Mel",M,Piambil 2,Student,02 Sep 1990
+2255,160171746,"Yelupa, Sent",M,Piambil 2,Subsistence Farmer,06 Jan 1989
+2256,160176147,"Yelupa, Want",M,Piambil 2,Student,04 Sep 1989
+2257,160162658,"Yok, Markus",M,Piambil 2,Mechanic,01 Jan 1975
+2258,160158948,"Yok, Steven",M,Piambil 2,Crewman,01 Jan 1981
+2259,160175738,"Yope, Lewis",M,Piambil 2,Not Specified,01 Jan 2000
+2260,160175718,"Yope, Mongai",M,Piambil 2,Not Specified,01 Jan 2000
+2261,160173352,"Yope, Wesley",M,Piambil 2,Warder,01 Jan 2000
+2262,160440675,"Yopo, Tumunda",M,Piambil 2,Subsistence Farmer,05 Apr 2003
+2263,160212445,"Yopolo, Luke",M,Piambil 2,Student,01 Jan 1990
+2264,160169404,"Yosep, Andrew",M,Piambil 2,Student,06 Jul 1989
+2265,160191115,"Yosep, Asik",M,Piambil 2,Student,01 Jan 2000
+2266,160188040,"Yosep, Steanley",M,Piambil 2,Student,07 Apr 1987
+2267,160190009,"Yosep, Tepu",M,Piambil 2,Student,01 Oct 1990
+2268,160197114,"Yuan, Patric",M,Piambil 2,Pastor,01 Jan 1965
+2269,160212666,"Yuan, Pilimon",M,Piambil 2,Subsistence Farmer,25 Jul 1940
+2270,160196053,"Yumbe, Emchris",M,Piambil 2,Subsistence Farmer,01 Jan 1900
+2271,160195757,"Yumbe, Samson",M,Piambil 2,Subsistence Farmer,01 Jan 1976
+2272,160190883,"Yupa, Jason",M,Piambil 2,Student,01 Jan 1979
+2273,160218959,"Yupu, Ekep",M,Piambil 2,Subsistence Farmer,01 Jan 1984
+2274,160160783,"Yupu, Ekep",M,Piambil 2,Subsistence Farmer,01 Jan 1962
+2275,160173228,"Yupu, Toriki",M,Piambil 2,Subsistence Farmer,01 Jan 1970
+2276,160184884,"Yuware, Joel",M,Piambil 2,Subsistence Farmer,01 Jan 1954
+2277,160185034,"Yuware, Runo",M,Piambil 2,Subsistence Farmer,01 Jan 2000
+2278,160440419,"Yuwe, Only",M,Piambil 2,Subsistence Farmer,24 Feb 2003

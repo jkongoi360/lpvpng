@@ -1,0 +1,915 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,25083927,"Aipuka, Becky",F,Pakulge,Student,07 Jan 2004
+2,160438443,"Aipuka, Dyan",F,Pakulge,Student,16 Feb 2000
+3,160146843,"Aiye, Alu",F,Pakulge,Student,01 Jan 1985
+4,160146841,"Aiye, Makirae",F,Pakulge,Subsistence Farmer,01 Jan 1955
+5,160139916,"Aiye, Sera",F,Pakulge,Subsistence Farmer,01 Jan 1989
+6,160220648,"Akilo, Cathy",F,Pakulge,Subsistence Farmer,01 Jan 1964
+7,25083928,"Alex, Alice",F,Pakulge,Policewomen,01 Sep 2003
+8,25083929,"Alex, Freda",F,Pakulge,Student,23 Dec 1995
+9,25083930,"Alex, Imellda",F,Pakulge,Student,22 Dec 1990
+10,25083931,"Alex, Roselyn",F,Pakulge,Student,27 Jun 2000
+11,160213756,"Alisi, Elambo",F,Pakulge,Subsistence Farmer,01 Jan 1951
+12,160213757,"Alisi, Lepo",F,Pakulge,Subsistence Farmer,01 Jan 1969
+13,160234962,"Alo, Begiba",F,Pakulge,Student,01 Jan 1994
+14,160234959,"Alo, Meien",F,Pakulge,Household Duties,01 Jan 1980
+15,160235037,"Andrew, A",F,Pakulge,Teacher,01 Jan 1979
+16,160139912,"Angula, Cathy",F,Pakulge,Student,01 Jan 1988
+17,160224094,"Angula, Roina",F,Pakulge,Student,01 Jan 1980
+18,160235496,"Anjo, Anna",F,Pakulge,Student,01 Jan 1993
+19,160224249,"Anjo, Waine",F,Pakulge,Subsistence Farmer,01 Jan 1957
+20,160215811,"Anton, Name",F,Pakulge,Subsistence Farmer,01 Jan 1946
+21,160138265,"Apa, Joycelyn",F,Pakulge,Household Duties,10 Jun 1996
+22,160224093,"Ape, Kuni",F,Pakulge,Subsistence Farmer,01 Jan 1961
+23,160138245,"Apuke, Ipai",F,Pakulge,Household Duties,10 Aug 1984
+24,160226784,"Aruru, Goroka",F,Pakulge,Subsistence Farmer,01 Jan 1948
+25,160235075,"Asye, Kesna",F,Pakulge,Student,01 Jan 1991
+26,160234965,"Bobby, Anita",F,Pakulge,Household Duties,01 Jan 1978
+27,25083932,"Colman, Doris",F,Pakulge,Household Duties,06 Mar 1993
+28,25083935,"Colman, Nicka",F,Pakulge,Teacher,06 Dec 1990
+29,160138250,"Daisy, Serah",F,Pakulge,Household Duties,22 Dec 1990
+30,160227795,"Daniel, Rose",F,Pakulge,Household Duties,01 Jan 1981
+31,160438463,"David, Bengiba",F,Pakulge,Student,22 Apr 2001
+32,160235072,"David, Christina",F,Pakulge,Household Duties,01 Jan 1986
+33,25083937,"David, Elis",F,Pakulge,Teacher,26 Sep 1991
+34,25083938,"David, Henet",F,Pakulge,Teacher,25 Aug 1994
+35,160438397,"David, Melisa",F,Pakulge,Student,14 Oct 2001
+36,25083939,"David, Monica",F,Pakulge,Household Duties,22 Nov 1980
+37,160232634,"David meck, Noreen",F,Pakulge,Household Duties,01 Jan 2000
+38,160438475,"Dickson, Sopena",F,Pakulge,Household Duties,13 Jul 2002
+39,160224078,"Elex, Nancy",F,Pakulge,Subsistence Farmer,01 Jan 1972
+40,160131389,"Endrew, Joy",F,Pakulge,Not Specified,01 Jun 1990
+41,160243831,"Foxy, Kandipem",F,Pakulge,Subsistence Farmer,01 Jan 1946
+42,160243872,"Foxy, Mary",F,Pakulge,Subsistence Farmer,01 Jan 1966
+43,160224092,"Garu, Serah",F,Pakulge,Subsistence Farmer,01 Jan 1979
+44,160139921,"George, Everlyn",F,Pakulge,Student,01 Jan 1986
+45,160438479,"George, Mishael",F,Pakulge,Household Duties,11 Mar 2000
+46,160220652,"George, Nasil",F,Pakulge,Subsistence Farmer,01 Jan 1966
+47,160232911,"Gibbs, Betty",F,Pakulge,Household Duties,01 Jan 1983
+48,160131387,"Iasiac, Dillala",F,Pakulge,Student,01 Oct 1998
+49,160220698,"Ipupiri, Jenny",F,Pakulge,Student,01 Jan 1989
+50,160220540,"Ipupiri, Loime",F,Pakulge,Subsistence Farmer,01 Jan 1966
+51,160235550,"Ipupiri, Moiya",F,Pakulge,Student,01 Jan 1987
+52,160220699,"Ipupiri, Oiye",F,Pakulge,Subsistence Farmer,01 Jan 1985
+53,160220666,"Ipupiri, Sebeth",F,Pakulge,Subsistence Farmer,01 Jan 1987
+54,160438396,"Ipupiri, Winlee",F,Pakulge,Student,14 Oct 2003
+55,160220541,"Ipupiri, Yokeino",F,Pakulge,Subsistence Farmer,01 Jan 1955
+56,25087343,"Iti, Stephanie",F,Pakulge,Subsistence Farmer,01 Feb 1998
+57,160234963,"Jabeth, Anna",F,Pakulge,Household Duties,01 Jan 1983
+58,160438469,"Jack, Anita",F,Pakulge,Student,02 Feb 2000
+59,25083944,"Jack, Mcdella",F,Pakulge,Student,09 Feb 2004
+60,160224250,"Jack, Susan",F,Pakulge,Subsistence Farmer,01 Jan 1983
+61,160130310,"Jacob, Delcy",F,Pakulge,Household Duties,01 Feb 1997
+62,25083945,"Jacob, Neky",F,Pakulge,Student,19 Jun 1998
+63,160226883,"James, Ambu",F,Pakulge,Subsistence Farmer,01 Jan 1949
+64,160130312,"James, Anna",F,Pakulge,Household Duties,01 Mar 1994
+65,25083947,"James, Dorin",F,Pakulge,Student,28 Jun 2000
+66,25087344,"James, Grace",F,Pakulge,Student,27 Aug 2002
+67,160220631,"James, Henny",F,Pakulge,Student,01 Jan 1987
+68,160229323,"James, Jully",F,Pakulge,Household Duties,01 Jan 1969
+69,160226898,"James, Lina",F,Pakulge,Subsistence Farmer,01 Jan 1989
+70,160130304,"James, Ruthy",F,Pakulge,Household Duties,01 Jan 1900
+71,160438486,"Jason, Janifer",F,Pakulge,Household Duties,14 Oct 1999
+72,160226616,"Jeff, Anna",F,Pakulge,Subsistence Farmer,01 Jan 1983
+73,160234956,"Jeff, July",F,Pakulge,Nurse,01 Jan 1980
+74,160438392,"Jeff, Ruthy",F,Pakulge,Student,10 Dec 2003
+75,160232685,"Jeffery, Ale",F,Pakulge,Household Duties,01 Jan 1968
+76,160243839,"Jeffrey, Sandy",F,Pakulge,Student,01 Jan 1983
+77,160130323,"Jession, Jeniffa",F,Pakulge,Household Duties,01 Sep 1995
+78,25083950,"Jessy, Jamila",F,Pakulge,Student,15 Apr 2004
+79,160222250,"Jessy, Julie",F,Pakulge,Subsistence Farmer,01 Jan 1983
+80,160438488,"Jim, Benjila",F,Pakulge,Household Duties,03 Nov 2003
+81,160138256,"Jim, Bongela",F,Pakulge,Household Duties,17 Apr 1999
+82,160232785,"Jim, Junel",F,Pakulge,Household Duties,01 Jan 2000
+83,160232782,"Jim, Kulu",F,Pakulge,Household Duties,01 Jan 1981
+84,160438427,"Joan, John",F,Pakulge,Subsistence Farmer,10 Jan 1998
+85,25087606,"Joe, Maggi",F,Pakulge,Subsistence Farmer,29 Jul 1985
+86,25083952,"Joe, Spencarlyn",F,Pakulge,Student,12 Jul 2000
+87,25083954,"Joe, Susan",F,Pakulge,Household Duties,23 Mar 1982
+88,160130305,"Joel, Lina",F,Pakulge,Not Specified,01 Jan 1996
+89,160223771,"John, Bune",F,Pakulge,Subsistence Farmer,01 Jan 1952
+90,160139910,"John, Kerambo",F,Pakulge,Subsistence Farmer,01 Jan 2000
+91,25083958,"John, Venesha",F,Pakulge,Student,26 Apr 1999
+92,160138257,"John, Wally",F,Pakulge,Not Specified,16 Jan 1992
+93,160438464,"Jona, Recheal",F,Pakulge,Household Duties,05 Dec 2000
+94,160130327,"Joseph, Melisa",F,Pakulge,Not Specified,22 Mar 1999
+95,160226728,"Joseph, Rosa",F,Pakulge,Student,01 Jan 1987
+96,160226968,"Joseph, Tangele",F,Pakulge,Subsistence Farmer,01 Jan 1964
+97,160235302,"Joshua, Hellen",F,Pakulge,Household Duties,01 Jan 1990
+98,160130313,"Junior, Mageret",F,Pakulge,Household Duties,01 May 1992
+99,160138263,"Kadiapali, Meri",F,Pakulge,Household Duties,16 Jul 1988
+100,160223770,"Kaima, Lini",F,Pakulge,Subsistence Farmer,01 Jan 1978
+101,160223769,"Kaima, Misi",F,Pakulge,Subsistence Farmer,01 Jan 1956
+102,160223763,"Kaima, Rossy",F,Pakulge,Subsistence Farmer,01 Jan 1973
+103,160221393,"Kaku, Kambiye",F,Pakulge,Subsistence Farmer,01 Jan 1982
+104,160139920,"Kalipira, Makipe",F,Pakulge,Subsistence Farmer,01 Jan 1936
+105,160243834,"Kambiye, Sarah",F,Pakulge,Household Duties,01 Jan 1985
+106,160130301,"Kandu, Cathy",F,Pakulge,Not Specified,06 Aug 1995
+107,160138426,"Kandu, Pugiri",F,Pakulge,Household Duties,01 Aug 1968
+108,160223766,"Kanol, Cathy",F,Pakulge,Subsistence Farmer,01 Jan 1987
+109,160223764,"Kanol, Kendapu",F,Pakulge,Subsistence Farmer,01 Jan 1950
+110,160223765,"Kanol, Melen",F,Pakulge,Subsistence Farmer,01 Jan 1985
+111,25083959,"Kegeno, Erima",F,Pakulge,Student,01 Mar 1990
+112,160226880,"Kegeno, Makaiye",F,Pakulge,Subsistence Farmer,01 Jan 1967
+113,160226888,"Kegeno, Malen",F,Pakulge,Student,01 Jan 1988
+114,160234183,"Keia, Cathy",F,Pakulge,Household Duties,01 Jan 1980
+115,160438454,"Keli, Rgina",F,Pakulge,Household Duties,08 Jan 1999
+116,160138255,"Ken, Jacklyne",F,Pakulge,Household Duties,01 Jan 1994
+117,160220668,"Kenga, Lucy",F,Pakulge,Student,01 Jan 1989
+118,160220543,"Kenga, Misi",F,Pakulge,Subsistence Farmer,01 Jan 1957
+119,160235534,"Kenga, Ottoly",F,Pakulge,Student,01 Jan 1993
+120,160220700,"Kenga, Rosina",F,Pakulge,Student,01 Jan 1985
+121,160438446,"Keponge, Henita",F,Pakulge,Student,10 May 2001
+122,160130302,"Keponge, Henny",F,Pakulge,Sales Women,16 Apr 1997
+123,160224954,"Keponge, Mako",F,Pakulge,Subsistence Farmer,01 Jan 1969
+124,160226640,"Keponge, Nomi",F,Pakulge,Student,01 Jan 1985
+125,160226614,"Kepsy, Regina",F,Pakulge,Subsistence Farmer,01 Jan 1981
+126,160235077,"Kera, Anna",F,Pakulge,Student,01 Jan 1991
+127,160235193,"Kera, Anna",F,Pakulge,Household Duties,01 Jan 1981
+128,160235063,"Kera, Math",F,Pakulge,Subsistence Farmer,01 Jan 1970
+129,160235491,"Kera, Pima",F,Pakulge,Subsistence Farmer,01 Jan 1966
+130,160221389,"Kera, Sulei",F,Pakulge,Subsistence Farmer,01 Jan 1956
+131,160235078,"Kera, Susan",F,Pakulge,Student,01 Jan 1993
+132,160224971,"Kiap, Linet",F,Pakulge,Subsistence Farmer,01 Jan 1979
+133,160226735,"Kili, Yawini",F,Pakulge,Subsistence Farmer,01 Jan 1970
+134,160138425,"Killi, Rake",F,Pakulge,Not Specified,01 Jun 1998
+135,160438485,"Kistu, Malin",F,Pakulge,Student,28 Sep 2003
+136,160227080,"Kola, Rambuame",F,Pakulge,Subsistence Farmer,01 Jan 1943
+137,160220659,"Kololi, Lucy",F,Pakulge,Subsistence Farmer,01 Jan 1971
+138,160243873,"Kombeke, Besta",F,Pakulge,Household Duties,01 Jan 2000
+139,160227084,"Komon, Jenny",F,Pakulge,Subsistence Farmer,01 Jan 1977
+140,160438466,"Komon, Juddy",F,Pakulge,Household Duties,14 Feb 2000
+141,160438461,"Komon, Volinta",F,Pakulge,Student,18 Feb 2003
+142,160224095,"Kondi, Freeda",F,Pakulge,Subsistence Farmer,01 Jan 1986
+143,160216164,"Konombo, Margret",F,Pakulge,Subsistence Farmer,01 Jan 1967
+144,160226889,"Konopu, Mali",F,Pakulge,Subsistence Farmer,01 Jan 1944
+145,160221129,"Koromba, Vero",F,Pakulge,Subsistence Farmer,01 Jan 1976
+146,160234931,"Kot, Jessica",F,Pakulge,Student,01 Jan 1989
+147,160224261,"Kot, Josephine",F,Pakulge,Student,01 Jan 1988
+148,160224259,"Kot, Pimburuamb",F,Pakulge,Subsistence Farmer,01 Jan 1960
+149,160218642,"Kuli, Ambo",F,Pakulge,Subsistence Farmer,01 Jan 1956
+150,160227817,"Kurume, Koya",F,Pakulge,Household Duties,01 Jan 1979
+151,160235490,"Kurume, Roslyn",F,Pakulge,Subsistence Farmer,01 Jan 1989
+152,160224255,"Langi, Katu",F,Pakulge,Subsistence Farmer,01 Jan 1981
+153,160153617,"Langi, Queen",F,Pakulge,Subsistence Farmer,01 Jan 1986
+154,160243840,"Langi, Surulu",F,Pakulge,Household Duties,01 Jan 1961
+155,160221383,"Lawa, Damul",F,Pakulge,Subsistence Farmer,01 Jan 1900
+156,160221397,"Lawa, Nanuka",F,Pakulge,Subsistence Farmer,01 Jan 1962
+157,160235076,"Leme, Joina",F,Pakulge,Household Duties,01 Jan 1982
+158,160213548,"Lerry, Agnes",F,Pakulge,Subsistence Farmer,01 Jan 1945
+159,160213766,"Lerry, Bera",F,Pakulge,Subsistence Farmer,01 Jan 1970
+160,160217743,"Lewe david, Noma",F,Pakulge,Subsistence Farmer,01 Jan 1964
+161,160234932,"Libage, Kipem",F,Pakulge,Household Duties,01 Jan 1973
+162,160131380,"Limbiye, Makal",F,Pakulge,Household Duties,06 Mar 1973
+163,160131381,"Limbiye, Regina",F,Pakulge,Student,01 Jun 1998
+164,25083967,"Limbiye, Sylvia",F,Pakulge,Subsistence Farmer,10 Oct 1999
+165,160218638,"Limson, Rachel",F,Pakulge,Subsistence Farmer,01 Jan 1968
+166,160222258,"Lis, Kurumaine",F,Pakulge,Subsistence Farmer,01 Jan 1946
+167,160222259,"Lis, Malina",F,Pakulge,Student,01 Jan 1986
+168,160220807,"Lis, Seron",F,Pakulge,Subsistence Farmer,01 Jan 1972
+169,25083969,"Lish, Stenicha",F,Pakulge,Student,12 Mar 1999
+170,160221365,"Lombil, Mona",F,Pakulge,Student,01 Jan 1987
+171,160223759,"Lombil, Yawini",F,Pakulge,Subsistence Farmer,01 Jan 1954
+172,160217588,"Lucas, Meri",F,Pakulge,Subsistence Farmer,01 Jan 1974
+173,160130330,"Lucas, Regina",F,Pakulge,Household Duties,12 Oct 1990
+174,160138260,"Lucas, Sunterilla",F,Pakulge,Student,01 Feb 1998
+175,25083972,"Luke, Venerish",F,Pakulge,Student,02 Nov 2000
+176,160218347,"Mako, Everlyn",F,Pakulge,Subsistence Farmer,01 Jan 1973
+177,160220646,"Makoroli, Kelo",F,Pakulge,Subsistence Farmer,01 Jan 1952
+178,160221111,"Makoroli, Nolin",F,Pakulge,Subsistence Farmer,01 Jan 1988
+179,160221404,"Makoroli, Rose",F,Pakulge,Household Duties,01 Jan 1978
+180,160222275,"Mambo, Nane",F,Pakulge,Subsistence Farmer,01 Jan 1947
+181,160138246,"Mambo, Silvia",F,Pakulge,Household Duties,17 Jan 1991
+182,160130293,"Mambo, Suga",F,Pakulge,Dental Therapist,06 Mar 1986
+183,160220632,"Manjipe, Ellis",F,Pakulge,Subsistence Farmer,01 Jan 1987
+184,160234967,"Marie, Marry",F,Pakulge,Household Duties,01 Jan 1985
+185,160438410,"Marii, Jobby",F,Pakulge,Warder,18 Mar 2000
+186,160226894,"Mark, Agnes",F,Pakulge,Nurse,01 Jan 1960
+187,160130295,"Mark, Cathy",F,Pakulge,Household Duties,01 Feb 1988
+188,160234999,"Mark, Sharon",F,Pakulge,Student,01 Jan 1993
+189,160224254,"Max, Wendy",F,Pakulge,Subsistence Farmer,01 Jan 1968
+190,160235197,"Meck, Wendy",F,Pakulge,Subsistence Farmer,01 Jan 1983
+191,160221384,"Mek, Inegi",F,Pakulge,Subsistence Farmer,01 Jan 1936
+192,160220655,"Meku, Angela",F,Pakulge,Student,01 Jan 1986
+193,160438380,"Meku, Joice",F,Pakulge,Student,21 Oct 2003
+194,160222253,"Meku, Julie",F,Pakulge,Subsistence Farmer,01 Jan 1987
+195,160222226,"Meku, Wari",F,Pakulge,Subsistence Farmer,01 Jan 1980
+196,160218632,"Mele, Kumah",F,Pakulge,Subsistence Farmer,01 Jan 1970
+197,160218634,"Mele, Nancy",F,Pakulge,Subsistence Farmer,01 Jan 1987
+198,160225135,"Mex, Beplin",F,Pakulge,Subsistence Farmer,01 Jan 1971
+199,160232260,"Michael, Linda",F,Pakulge,Household Duties,01 Jan 1980
+200,160226885,"Michael, Martha",F,Pakulge,Subsistence Farmer,01 Jan 1980
+201,160235487,"Michael, Rebecca",F,Pakulge,Student,01 Jan 1993
+202,25083979,"Michael, Ryliah",F,Pakulge,Student,23 Apr 2004
+203,160221361,"Michael, Sape",F,Pakulge,Subsistence Farmer,01 Jan 1960
+204,160438415,"Michael, Stella",F,Pakulge,Student,12 Aug 2003
+205,160222255,"Miki, Tame",F,Pakulge,Subsistence Farmer,01 Jan 1950
+206,25083982,"Mini, Elly",F,Pakulge,Subsistence Farmer,23 Jun 1971
+207,160221112,"Mini, Kelen",F,Pakulge,Subsistence Farmer,01 Jan 1986
+208,160221123,"Mini, Roselyn",F,Pakulge,Teacher,01 Jan 1978
+209,160221133,"Mini, Wimi",F,Pakulge,Subsistence Farmer,01 Jan 1952
+210,160229432,"Miriye, Lin",F,Pakulge,Household Duties,01 Jan 1968
+211,160218346,"Mobeya, Rombala",F,Pakulge,Subsistence Farmer,01 Jan 1970
+212,160213762,"Moiyasi, Leme",F,Pakulge,Subsistence Farmer,01 Jan 1954
+213,160226740,"Mori, Anna",F,Pakulge,Subsistence Farmer,01 Jan 1988
+214,160226738,"Mori, Kumbiye",F,Pakulge,Subsistence Farmer,01 Jan 1961
+215,160220653,"Mori, Miriam",F,Pakulge,Subsistence Farmer,01 Jan 1984
+216,160226618,"Moses, Cathy",F,Pakulge,Subsistence Farmer,01 Jan 1974
+217,25083984,"Moses, Ruth",F,Pakulge,Student,01 Feb 2004
+218,160130333,"Muruk, Seron",F,Pakulge,Household Duties,25 Nov 1986
+219,160222276,"Nale, Putala",F,Pakulge,Subsistence Farmer,01 Jan 1935
+220,160222278,"Nale, Taki",F,Pakulge,Subsistence Farmer,01 Jan 1970
+221,160221416,"Nana, Janet",F,Pakulge,Subsistence Farmer,01 Jan 1970
+222,160221385,"Nande, Elisabeth",F,Pakulge,Subsistence Farmer,01 Jan 1981
+223,160227800,"Nandi, Miriam",F,Pakulge,Household Duties,01 Jan 1982
+224,160234968,"Nandia, Donica",F,Pakulge,Subsistence Farmer,01 Jan 1966
+225,160438394,"Nandie, Carrol",F,Pakulge,Household Duties,21 Oct 2003
+226,160139919,"Nandoma, Noino",F,Pakulge,Subsistence Farmer,01 Jan 1934
+227,160234955,"Nathan, Brenda",F,Pakulge,Household Duties,01 Jan 1987
+228,160131391,"Nelson, Jogina",F,Pakulge,Household Duties,01 Jun 1996
+229,160227088,"Nema, Wakena",F,Pakulge,Subsistence Farmer,01 Jan 1956
+230,160438465,"Nevol, Miriam",F,Pakulge,Household Duties,12 Jan 2001
+231,160220695,"Ninde, Mume",F,Pakulge,Subsistence Farmer,01 Jan 1967
+232,160243835,"Nindie, N",F,Pakulge,Student,01 Jan 1994
+233,160229284,"Nindie, Sera",F,Pakulge,Household Duties,01 Jan 1969
+234,25083986,"Nipii, Stenima",F,Pakulge,Student,20 Jan 2004
+235,160221418,"Nipil, Janet",F,Pakulge,Student,01 Jan 1986
+236,160131383,"Nipil, Pukiri",F,Pakulge,Household Duties,10 Dec 1970
+237,160226634,"Nipili, Pora",F,Pakulge,Subsistence Farmer,01 Jan 1959
+238,160226896,"Nipili, Sala",F,Pakulge,Subsistence Farmer,01 Jan 1963
+239,160221386,"Nisa, Bepi",F,Pakulge,Subsistence Farmer,01 Jan 1962
+240,160222266,"Niye, Nuwen",F,Pakulge,Subsistence Farmer,01 Jan 1965
+241,160438385,"Niye, Yawi",F,Pakulge,Household Duties,10 Nov 2000
+242,160222260,"Noel, Emolyn",F,Pakulge,Subsistence Farmer,01 Jan 1989
+243,160235057,"Noel, Marolyn",F,Pakulge,Student,01 Jan 1993
+244,160153615,"Noel, Taku",F,Pakulge,Subsistence Farmer,01 Jan 1968
+245,160221382,"Nogosi, Kiluwa",F,Pakulge,Subsistence Farmer,01 Jan 1900
+246,160222274,"Noime, Ranu",F,Pakulge,Subsistence Farmer,01 Jan 1947
+247,160438401,"Nopu, Anita",F,Pakulge,Student,15 Oct 2003
+248,160220669,"Nopu, Bali",F,Pakulge,Subsistence Farmer,01 Jan 1949
+249,160235557,"Nopu, Maria",F,Pakulge,Household Duties,01 Jan 1950
+250,160232889,"Norman, Catty",F,Pakulge,Teacher,01 Jan 1983
+251,160438418,"Norman, Evelyn",F,Pakulge,Household Duties,13 Oct 1996
+252,160438481,"Norman, Roselyn",F,Pakulge,Household Duties,11 Jun 2001
+253,160226724,"Norman, Ruth",F,Pakulge,Subsistence Farmer,01 Jan 1970
+254,25083993,"Norman, Taniap",F,Pakulge,Student,06 Nov 2003
+255,160235535,"Norman, Tina",F,Pakulge,Household Duties,01 Jan 1980
+256,160222228,"Obele, Kusa",F,Pakulge,Subsistence Farmer,01 Jan 1956
+257,160221110,"Obele, Love",F,Pakulge,Student,01 Jan 1987
+258,160223866,"Obele, Petty",F,Pakulge,Subsistence Farmer,01 Jan 1984
+259,160221126,"Oiye, Margret",F,Pakulge,Subsistence Farmer,01 Jan 1963
+260,160146845,"Oropili, Kina",F,Pakulge,Subsistence Farmer,01 Jan 1971
+261,160213549,"Panga, Yandasa",F,Pakulge,Subsistence Farmer,01 Jan 1931
+262,160221399,"Pangasa, Christina",F,Pakulge,Subsistence Farmer,01 Jan 1971
+263,160139913,"Pango, Katu",F,Pakulge,Subsistence Farmer,01 Jan 1972
+264,160243881,"Pani, Wendy",F,Pakulge,Household Duties,01 Jan 1989
+265,160220634,"Patrick, Elly",F,Pakulge,Subsistence Farmer,01 Jan 1966
+266,160224253,"Patrick, Melinda",F,Pakulge,Student,01 Jan 1988
+267,160232580,"Paul, Dorcas",F,Pakulge,Household Duties,01 Jan 1976
+268,160235553,"Paul, Dorin",F,Pakulge,Student,01 Jan 1994
+269,160139906,"Paul, Meli",F,Pakulge,Nurse,01 Jan 1977
+270,160130321,"Paul, Merika",F,Pakulge,Student,08 Feb 1998
+271,160139914,"Pea, Kiriambo",F,Pakulge,Subsistence Farmer,01 Jan 1900
+272,160438452,"Pera, Polyn",F,Pakulge,Household Duties,06 Jan 2000
+273,160438487,"Perman, Julian",F,Pakulge,Household Duties,10 Sep 2000
+274,160235554,"Peter, Bevelyn",F,Pakulge,Student,01 Jan 1993
+275,25083997,"Peter, Gabriella",F,Pakulge,Student,09 Nov 2000
+276,160438398,"Peter, Josickai",F,Pakulge,Household Duties,22 Nov 2002
+277,160131378,"Peter, Miriam",F,Pakulge,Household Duties,05 Aug 1992
+278,160438406,"Peter, Regina",F,Pakulge,Student,09 Sep 2000
+279,25084003,"Peter, Silver",F,Pakulge,Student,17 Jun 2003
+280,160130329,"Peter, Susan",F,Pakulge,Student,22 Sep 1990
+281,160220641,"Peter, Yunugu",F,Pakulge,Subsistence Farmer,01 Jan 1974
+282,25084004,"Petrick, Shelinaa",F,Pakulge,Student,01 Nov 1998
+283,160146844,"Philipen, Jenifer",F,Pakulge,Subsistence Farmer,01 Jan 1974
+284,160224965,"Piele, Petty",F,Pakulge,Student,01 Jan 1988
+285,160224077,"Piele, Romonu",F,Pakulge,Subsistence Farmer,01 Jan 1970
+286,160438476,"Pilimbo, Jessy",F,Pakulge,Household Duties,09 Jan 2000
+287,160218649,"Pilimbo, Pokeame",F,Pakulge,Subsistence Farmer,01 Jan 1972
+288,160229309,"Poki, Mokoi",F,Pakulge,Household Duties,01 Jan 1976
+289,25087352,"Poki, Rehab",F,Pakulge,Household Duties,10 Jun 1999
+290,160220697,"Ponege, Moke",F,Pakulge,Subsistence Farmer,01 Jan 1952
+291,160220633,"Pora, Annita",F,Pakulge,Student,01 Jan 1987
+292,160438490,"Pora, Fredah",F,Pakulge,Household Duties,21 Nov 2002
+293,160222264,"Pora, Rose",F,Pakulge,Subsistence Farmer,01 Jan 1956
+294,160138259,"Pos, Pollin",F,Pakulge,Household Duties,16 Jun 1997
+295,160220630,"Pos, Sipeme",F,Pakulge,Subsistence Farmer,01 Jan 1954
+296,160227087,"Puge, Apurele",F,Pakulge,Subsistence Farmer,01 Jan 1941
+297,160243877,"Puge, Stephanie",F,Pakulge,Student,01 Jan 2000
+298,160232910,"Pugi, Wendy",F,Pakulge,Household Duties,01 Jan 2000
+299,160232772,"Puiye, Belly",F,Pakulge,Household Duties,01 Jan 1986
+300,160232896,"Puiye, Betty",F,Pakulge,Household Duties,01 Jan 2000
+301,160243843,"Puiye, Jenny",F,Pakulge,Student,01 Jan 1993
+302,160227975,"Puiye, Jullie",F,Pakulge,Household Duties,01 Jan 1979
+303,160224955,"Puiye, Liye",F,Pakulge,Subsistence Farmer,01 Jan 1954
+304,160139934,"Puiye, Melen",F,Pakulge,Student,01 Jan 1987
+305,160226611,"Puiye, Rose",F,Pakulge,Subsistence Farmer,01 Jan 1963
+306,25084010,"Puiye, Rubbie",F,Pakulge,Student,10 Mar 2003
+307,160232780,"Puiye, Singo",F,Pakulge,Household Duties,01 Jan 1969
+308,160243844,"Ramise, Dolly",F,Pakulge,Student,01 Jan 1986
+309,160232687,"Ramise, Koyame",F,Pakulge,Household Duties,01 Jan 1964
+310,160243837,"Ramise, Melen",F,Pakulge,Student,01 Jan 1984
+311,160232845,"Ramise, Taiye",F,Pakulge,Household Duties,01 Jan 1982
+312,160243876,"Ramise, Wapoiye",F,Pakulge,Subsistence Farmer,01 Jan 1984
+313,160221117,"Raymond, Pas",F,Pakulge,Household Duties,01 Jan 1978
+314,160226787,"Rex, Mopune",F,Pakulge,Subsistence Farmer,01 Jan 1974
+315,160138253,"Rex, Nathasa",F,Pakulge,Student,01 Jun 1998
+316,160221400,"Rex, Tomo",F,Pakulge,Subsistence Farmer,01 Jan 1972
+317,160224981,"Rili, Taki",F,Pakulge,Subsistence Farmer,01 Jan 1974
+318,160224084,"Rili, Telemba",F,Pakulge,Subsistence Farmer,01 Jan 1988
+319,160224980,"Rili, Yawame",F,Pakulge,Subsistence Farmer,01 Jan 1946
+320,160226613,"Robert, Clara",F,Pakulge,Subsistence Farmer,01 Jan 1966
+321,160220671,"Ronny, Carolyn",F,Pakulge,Subsistence Farmer,01 Jan 1983
+322,160438402,"Ronny, Esther",F,Pakulge,Student,10 Oct 2001
+323,160438403,"Ronny, Estina",F,Pakulge,Student,09 Apr 2003
+324,160234798,"Ronny, Jeniffer",F,Pakulge,Student,01 Jan 1992
+325,160220530,"Ronny, Jenny",F,Pakulge,Subsistence Farmer,01 Jan 1973
+326,160234976,"Ronny, Lenda",F,Pakulge,Household Duties,01 Jan 1960
+327,160235548,"Ronny, Monica",F,Pakulge,Student,01 Jan 1994
+328,160139922,"Rumu, Linet",F,Pakulge,Student,01 Jan 1987
+329,160220536,"Rumu, Polename",F,Pakulge,Subsistence Farmer,01 Jan 1946
+330,160243883,"Sam, Sabata",F,Pakulge,Household Duties,01 Jan 1979
+331,25084013,"Samely, Anna",F,Pakulge,Subsistence Farmer,02 Dec 1997
+332,160222262,"Samson, Lenda",F,Pakulge,Subsistence Farmer,01 Jan 1979
+333,160221125,"Samuel, Lucy",F,Pakulge,Subsistence Farmer,01 Jan 1973
+334,160438470,"Seni, Semila",F,Pakulge,Student,02 Mar 2002
+335,160223760,"Senni, Jenny",F,Pakulge,Subsistence Farmer,01 Jan 1971
+336,160438445,"Simon, Helly",F,Pakulge,Household Duties,11 Jan 2000
+337,160139940,"Simon, Linda",F,Pakulge,Household Duties,01 Jan 1983
+338,160234951,"Sindalu, Dolly",F,Pakulge,Student,01 Jan 1989
+339,160232669,"Sindalu, Roslyn",F,Pakulge,Household Duties,01 Jan 1979
+340,160232668,"Sinduli, Nipil",F,Pakulge,Household Duties,01 Jan 1961
+341,25084015,"Sipira, Lisa",F,Pakulge,Student,10 May 1999
+342,160243180,"Sipora, Anna",F,Pakulge,Student,01 Jan 1996
+343,160232636,"Sipora, Muna",F,Pakulge,Student,01 Jan 1976
+344,160243874,"Sipora, Nongosi",F,Pakulge,Subsistence Farmer,01 Jan 1970
+345,160438386,"Smith, Meleney",F,Pakulge,Student,02 Oct 2003
+346,160234182,"Sole, Michael",F,Pakulge,Household Duties,01 Jan 1983
+347,160438451,"Sono, Delma",F,Pakulge,Household Duties,08 Jun 2000
+348,160223863,"Steven, Betty",F,Pakulge,Student,01 Jan 1989
+349,160223868,"Steven, Elency",F,Pakulge,Student,01 Jan 1984
+350,160223670,"Steven, Ero",F,Pakulge,Subsistence Farmer,01 Jan 1979
+351,160234440,"Steven, Pie",F,Pakulge,Student,01 Jan 1992
+352,160234952,"Steven, Sotty",F,Pakulge,Student,01 Jan 1995
+353,160223861,"Steven, Tiyembo",F,Pakulge,Subsistence Farmer,01 Jan 1962
+354,160226731,"Suku, Helen",F,Pakulge,Subsistence Farmer,01 Jan 1980
+355,160226723,"Suku, Mone",F,Pakulge,Subsistence Farmer,01 Jan 1962
+356,160243870,"Suku, Munia",F,Pakulge,Household Duties,22 Oct 1990
+357,160243871,"Suku, Shirley",F,Pakulge,Household Duties,01 Jan 1987
+358,160226721,"Suku, Tangaiye",F,Pakulge,Subsistence Farmer,01 Jan 1978
+359,160138262,"Suku, Tangomba",F,Pakulge,Housegirl,29 Jun 1989
+360,160221139,"Tapoiye, Bethy",F,Pakulge,Subsistence Farmer,01 Jan 1968
+361,160221141,"Tapoiye, Cyrus",F,Pakulge,Student,01 Jan 1988
+362,160243868,"Tendeku, Angela",F,Pakulge,Student,01 Jan 2000
+363,160227083,"Tendeku, Elisa",F,Pakulge,Student,01 Jan 1988
+364,160227085,"Tendeku, Opele",F,Pakulge,Household Duties,01 Jan 1962
+365,160243878,"Tendeku, Stenisha",F,Pakulge,Student,01 Jan 1996
+366,160223865,"Teringi, Kagadi",F,Pakulge,Subsistence Farmer,01 Jan 1956
+367,160222252,"Teringi, Leah",F,Pakulge,Subsistence Farmer,01 Jan 1983
+368,160223666,"Teringi, Pollyn",F,Pakulge,Subsistence Farmer,01 Jan 1971
+369,160226620,"Thomas, July",F,Pakulge,Subsistence Farmer,01 Jan 1974
+370,25084026,"Thomas, Natasha",F,Pakulge,Student,11 Apr 2004
+371,160130311,"Timothy, Joice",F,Pakulge,Household Duties,01 Feb 1996
+372,160235537,"Toia, Jenny",F,Pakulge,Household Duties,01 Jan 1965
+373,160243832,"Toiya, Sela",F,Pakulge,Subsistence Farmer,01 Jan 1963
+374,160227090,"Tokopi, Elly",F,Pakulge,Subsistence Farmer,01 Jan 1979
+375,160226725,"Tokopi, Lina",F,Pakulge,Student,01 Jan 1987
+376,160226966,"Tokopi, Meplyn",F,Pakulge,Student,01 Jan 1981
+377,160243179,"Tokopi, Mischelle",F,Pakulge,Student,16 Feb 1992
+378,160226726,"Tokopi, Misi",F,Pakulge,Subsistence Farmer,01 Jan 1963
+379,160227089,"Tokopi, Roselyn",F,Pakulge,Subsistence Farmer,01 Jan 1977
+380,160229434,"Tom, Esta",F,Pakulge,Household Duties,01 Jan 1981
+381,160438473,"Tom, Jenneth",F,Pakulge,Household Duties,05 May 2000
+382,160235489,"Tom, Leah",F,Pakulge,Household Duties,01 Jan 1983
+383,160130332,"Tom, Lorinda",F,Pakulge,Household Duties,16 Oct 1980
+384,160235003,"Tom, Mendi",F,Pakulge,Household Duties,01 Jan 1984
+385,160234957,"Tom, Siasi",F,Pakulge,Household Duties,01 Jan 2000
+386,160130331,"Tom, Sisila",F,Pakulge,Student,16 Jun 1998
+387,160223858,"Tom, Tuwi",F,Pakulge,Subsistence Farmer,01 Jan 1970
+388,160218345,"Tomba, Kupini",F,Pakulge,Subsistence Farmer,01 Jan 1974
+389,160243829,"Toni, Mary",F,Pakulge,Household Duties,01 Jan 2000
+390,160232672,"Toni, Sina",F,Pakulge,Household Duties,01 Jan 2000
+391,160243830,"Toni, Wendy",F,Pakulge,Household Duties,01 Jan 1983
+392,160139923,"Tonny, Josephine",F,Pakulge,Subsistence Farmer,01 Jan 1981
+393,160438491,"Tonny, Niachalau",F,Pakulge,Household Duties,18 Jul 2003
+394,25084031,"Tonny, Tonish",F,Pakulge,Student,22 Jan 2004
+395,160139933,"Toya, Besba",F,Pakulge,Household Duties,01 Jan 1980
+396,160222263,"Undi, Ambuwape",F,Pakulge,Subsistence Farmer,01 Jan 1964
+397,160222267,"Undi, Rachael",F,Pakulge,Subsistence Farmer,01 Jan 1985
+398,160221380,"Undi, Wambiri",F,Pakulge,Subsistence Farmer,01 Jan 1982
+399,160226615,"Une, Apurel",F,Pakulge,Subsistence Farmer,01 Jan 1950
+400,160232581,"Une, Koreame",F,Pakulge,Household Duties,01 Jan 1967
+401,160226733,"Une, Rachael",F,Pakulge,Student,01 Jan 1988
+402,160234296,"Une, Susan",F,Pakulge,Household Duties,01 Jan 1986
+403,160438478,"Vincent, Magalinda",F,Pakulge,Household Duties,13 Oct 2002
+404,160234998,"Wambi, Belinda",F,Pakulge,Student,01 Jan 1992
+405,160221402,"Wambi, Leah",F,Pakulge,Teacher,01 Jan 1981
+406,160221137,"Wambi, Martha",F,Pakulge,Student,01 Jan 1983
+407,160221135,"Wambi, Noiye",F,Pakulge,Subsistence Farmer,01 Jan 1962
+408,160221406,"Wambi, Steveny",F,Pakulge,Student,01 Jan 1990
+409,160438447,"Wambo, Helly",F,Pakulge,Student,08 Jan 2000
+410,160131382,"Wambri, Lucy",F,Pakulge,Not Specified,08 Oct 1992
+411,25084033,"Wandi, Regina",F,Pakulge,Student,06 Feb 2000
+412,160223768,"Wandi, Teres",F,Pakulge,Subsistence Farmer,01 Jan 1966
+413,25087354,"Wane, Hagu",F,Pakulge,Student,28 Jan 2004
+414,160232670,"Wane, Joyce",F,Pakulge,Household Duties,01 Jan 1980
+415,160222272,"Wane, Julie",F,Pakulge,Subsistence Farmer,01 Jan 1980
+416,160438381,"Wane, Lona",F,Pakulge,Student,22 Oct 2001
+417,160234800,"Wane, Margret",F,Pakulge,Household Duties,01 Jan 1986
+418,160438395,"Wane, Regina",F,Pakulge,Household Duties,21 Apr 2000
+419,160229228,"Wanpis, Elly",F,Pakulge,Household Duties,01 Jan 1979
+420,160438382,"Wanpis, Melen",F,Pakulge,Household Duties,24 Oct 2001
+421,160226602,"Warea, Sama",F,Pakulge,Subsistence Farmer,01 Jan 1941
+422,160220660,"Wari, Mendi nogo",F,Pakulge,Subsistence Farmer,01 Jan 1972
+423,160218640,"Waru, Sarah",F,Pakulge,Subsistence Farmer,01 Jan 1963
+424,160146837,"Welta, Ipolai",F,Pakulge,Subsistence Farmer,01 Jan 1930
+425,160232572,"Were, Carol",F,Pakulge,Household Duties,01 Jan 1981
+426,160221366,"Were, Ruty",F,Pakulge,Subsistence Farmer,01 Jan 1964
+427,160235194,"Wesley, Sarah",F,Pakulge,Subsistence Farmer,01 Jan 1981
+428,160235050,"Wesley, Sipaka ambo",F,Pakulge,Household Duties,01 Jan 2000
+429,160221378,"Willie, Magret",F,Pakulge,Subsistence Farmer,01 Jan 1960
+430,160153616,"Wine, Yarepo",F,Pakulge,Subsistence Farmer,01 Jan 1945
+431,25084037,"Wiru, Stechia",F,Pakulge,Student,15 Dec 2001
+432,160221118,"Yambi, Rambu",F,Pakulge,Subsistence Farmer,01 Jan 1900
+433,160438409,"Yambi, Ruth",F,Pakulge,Household Duties,23 Feb 2001
+434,160224101,"Yana, Jenny",F,Pakulge,Subsistence Farmer,01 Jan 1976
+435,160232899,"Yandi, Christina",F,Pakulge,Household Duties,01 Jan 1980
+436,160232582,"Yandi, Epa",F,Pakulge,Household Duties,01 Jan 1978
+437,160220710,"Yandi, Ere",F,Pakulge,Subsistence Farmer,01 Jan 1953
+438,25084042,"Yandi, Robina",F,Pakulge,Unemployed,16 Apr 2004
+439,25084044,"Yando, Beky",F,Pakulge,Student,25 Jan 2002
+440,160234954,"Yando, Dorothy",F,Pakulge,Student,01 Jan 1994
+441,160222251,"Yando, Muniyeme",F,Pakulge,Household Duties,01 Jan 1963
+442,160223664,"Yando, Rebeca",F,Pakulge,Student,01 Jan 1989
+443,160224970,"Yoko, Andami",F,Pakulge,Subsistence Farmer,01 Jan 1967
+444,160220805,"Yondoiye, Sala",F,Pakulge,Subsistence Farmer,01 Jan 1966
+445,160235070,"Yuludi, Henny",F,Pakulge,Subsistence Farmer,01 Jan 1990
+446,25084048,"Yulup, Luan",F,Pakulge,Student,15 Mar 2004
+447,160146840,"Yulupi, Nomi",F,Pakulge,Subsistence Farmer,01 Jan 1978
+448,160223854,"Yulupi, Raitame",F,Pakulge,Subsistence Farmer,01 Jan 1950
+449,25084050,"Yulupi, Sendra",F,Pakulge,Student,11 Aug 2003
+450,160223855,"Yulupi, Wambiri",F,Pakulge,Student,01 Jan 1980
+451,160438442,"Aipuka, Abhram",M,Pakulge,Student,13 Sep 2003
+452,160146842,"Aiye, Leme",M,Pakulge,Store Keeper,01 Jan 1982
+453,160130322,"Aiye, Limu",M,Pakulge,Student,01 Jan 1998
+454,160235054,"Alo, Asen",M,Pakulge,Student,01 Jan 1980
+455,160235052,"Alo, Ben",M,Pakulge,Student,01 Jan 1990
+456,160234961,"Alo, Julias",M,Pakulge,Student,01 Jan 1983
+457,160235053,"Alo, Mike",M,Pakulge,Student,01 Jan 1989
+458,160224090,"Angula, Timothy",M,Pakulge,Subsistence Farmer,01 Jan 2000
+459,160224102,"Anjo, Eron",M,Pakulge,Student,01 Jan 1988
+460,160224256,"Anjo, Jack",M,Pakulge,Subsistence Farmer,01 Jan 1974
+461,160131377,"Anjo, Lastone",M,Pakulge,Not Specified,06 Mar 1999
+462,160235482,"Anjo, Norman",M,Pakulge,Student,01 Jan 1990
+463,160224251,"Anjo, Peter",M,Pakulge,Subsistence Farmer,01 Jan 1983
+464,160215812,"Anton, Charles",M,Pakulge,Student,01 Jan 1983
+465,160213714,"Anton, Paul",M,Pakulge,Forest Officer,01 Jan 1975
+466,160224089,"Ape, Garu",M,Pakulge,Subsistence Farmer,01 Jan 1971
+467,160224096,"Ape, Mangipe",M,Pakulge,Subsistence Farmer,01 Jan 1957
+468,160232666,"Arupu, Une",M,Pakulge,Subsistence Farmer,01 Jan 1959
+469,160232802,"Arusu, Sindalu",M,Pakulge,Subsistence Farmer,01 Jan 2000
+470,160218639,"Asa, Waru",M,Pakulge,Subsistence Farmer,01 Jan 1965
+471,160438384,"Bobby, Mickson",M,Pakulge,Student,09 Oct 2001
+472,160138249,"Busu, Kandu",M,Pakulge,Subsistence Farmer,01 Feb 1968
+473,25083933,"Colman, Ismale",M,Pakulge,Student,17 Dec 2001
+474,25083934,"Colman, Joe",M,Pakulge,Carpenter,11 Sep 1998
+475,25083936,"Colman, Petrus",M,Pakulge,Driver,27 Jul 1987
+476,160243884,"Cris, Gaba",M,Pakulge,Student,01 Jan 1980
+477,25083940,"David, Obert",M,Pakulge,Student,20 Dec 1996
+478,160217744,"David, Rodney",M,Pakulge,Student,01 Jan 1989
+479,160218802,"David, Stanley",M,Pakulge,Student,01 Jan 1987
+480,160438457,"Ele, Dickson",M,Pakulge,Student,20 Jun 2001
+481,160438456,"Ele, Peman",M,Pakulge,Student,20 Jan 2000
+482,160438453,"Ele, Raymon",M,Pakulge,Student,09 Apr 2001
+483,160131524,"Gaba, David",M,Pakulge,Student,03 Nov 1989
+484,160243882,"Gaba, Sam",M,Pakulge,Driver,01 Jan 1979
+485,160131525,"Gaba, Samson",M,Pakulge,Student,15 Jan 1991
+486,160218810,"George, Gibbson",M,Pakulge,Student,01 Jan 1984
+487,160235065,"George, Ismael",M,Pakulge,Driver,01 Jan 1989
+488,160235066,"George, Jason",M,Pakulge,Student,01 Jan 1990
+489,160220534,"George, Jerry",M,Pakulge,Student,01 Jan 1987
+490,160235079,"George, Kaima",M,Pakulge,Student,01 Jan 1988
+491,160221409,"Giluwe, Sipora",M,Pakulge,Not Specified,01 Jan 1968
+492,160226962,"Ipo, Tokopi",M,Pakulge,Councillor,10 May 1965
+493,160438399,"Ipupiri, Enock",M,Pakulge,Student,14 Jan 2002
+494,160438404,"Ipupiri, Poke",M,Pakulge,Student,13 Dec 2002
+495,160234444,"Ipupiri, Wambiri",M,Pakulge,Student,01 Jan 1990
+496,160130320,"Ipupiri, Willie",M,Pakulge,Student,06 Mar 1998
+497,25083941,"Issac, Cathura",M,Pakulge,Student,23 Apr 2004
+498,25083942,"Issac, Samson",M,Pakulge,Student,23 Jun 2002
+499,160235071,"Jack, Matty",M,Pakulge,Subsistence Farmer,01 Jan 1969
+500,25083946,"Jamee, Bonnie",M,Pakulge,Household Duties,30 Jun 1980
+501,160138251,"James, Illai",M,Pakulge,Student,14 Jan 1998
+502,160235469,"James, Kasendi",M,Pakulge,Student,01 Jan 2000
+503,160226899,"James, Michael",M,Pakulge,Subsistence Farmer,01 Jan 1972
+504,160235048,"James, Pilmbu",M,Pakulge,Subsistence Farmer,01 Jan 1986
+505,25083949,"James, Simon",M,Pakulge,Carpenter,06 Dec 1980
+506,160438393,"Jeff, Walter",M,Pakulge,Student,22 Oct 2003
+507,160221395,"Jeffery, German",M,Pakulge,Student,01 Jan 1989
+508,160243879,"Jeffrey, Nimrod",M,Pakulge,Student,01 Jan 1980
+509,160232888,"Jeffrey, Norman",M,Pakulge,Driver,01 Jan 1979
+510,160243880,"Jeffrey, Ricky",M,Pakulge,Student,01 Jan 1994
+511,160229446,"Jeffrey, Sabet",M,Pakulge,Student,01 Jan 1988
+512,160235055,"Jeffrey, Samson",M,Pakulge,Student,01 Jan 1990
+513,160235056,"Jeffrey, Simon",M,Pakulge,Student,01 Jan 1993
+514,160438421,"Jessy, Josaiah",M,Pakulge,Student,17 Aug 2002
+515,160131390,"Jim, Bozuel",M,Pakulge,Student,01 Jan 1998
+516,25083953,"Joe, Spenza",M,Pakulge,Student,24 Mar 2000
+517,25083955,"Joe, Tommy",M,Pakulge,Subsistence Farmer,24 May 1996
+518,25083956,"Joe, Wanpis",M,Pakulge,Driver,27 Jun 1980
+519,25083957,"Joel, Robert",M,Pakulge,Student,01 Feb 2004
+520,160223762,"John, Dickson",M,Pakulge,Student,01 Jan 1987
+521,160223761,"John, Nicholas",M,Pakulge,Subsistence Farmer,01 Jan 1983
+522,160438474,"John, Tiri",M,Pakulge,Student,15 Jun 2002
+523,160130326,"Joseph, Ekin",M,Pakulge,Student,09 Sep 1998
+524,160243842,"Joseph, Temo",M,Pakulge,Student,01 Jan 1990
+525,160438417,"Josph, Elaija",M,Pakulge,Subsistence Farmer,17 Oct 1997
+526,160220538,"Kaima, George",M,Pakulge,Driver,01 Jan 1956
+527,160220644,"Kaima, Yandi",M,Pakulge,Subsistence Farmer,01 Jan 1980
+528,160146838,"Kalgawe, Lopa",M,Pakulge,Subsistence Farmer,01 Jan 1900
+529,160220649,"Kalipira, Pos",M,Pakulge,Business man,01 Jan 1951
+530,160438411,"Kamako, Nelson",M,Pakulge,Driver,19 Sep 1992
+531,160223767,"Kamako, Wandi",M,Pakulge,Subsistence Farmer,01 Jan 1932
+532,160224978,"Kambo, Rili",M,Pakulge,Subsistence Farmer,01 Jan 1940
+533,160139909,"Kanekane, Pokale",M,Pakulge,Subsistence Farmer,01 Jan 1946
+534,160153620,"Kanobo, Kelly",M,Pakulge,Student,01 Jan 1978
+535,160223852,"Kanol, Kumugenol",M,Pakulge,Subsistence Farmer,01 Jan 1948
+536,160153619,"Kanol, Pango",M,Pakulge,Subsistence Farmer,01 Jan 1971
+537,160226783,"Kapale, Aruru",M,Pakulge,Subsistence Farmer,01 Jan 1953
+538,160139915,"Kapale, Martin",M,Pakulge,Subsistence Farmer,01 Jan 1958
+539,160227801,"Kawasu, Poka",M,Pakulge,Subsistence Farmer,01 Jan 1962
+540,160131386,"Kegeno, Lari",M,Pakulge,Student,06 Mar 1999
+541,160438448,"Keli, Samuel",M,Pakulge,Subsistence Farmer,21 Aug 2001
+542,160220667,"Kenga, Marie",M,Pakulge,Subsistence Farmer,01 Jan 1982
+543,160234442,"Kenga, Norman",M,Pakulge,Subsistence Farmer,01 Jan 1978
+544,160438412,"Kengeno, Manu",M,Pakulge,Subsistence Farmer,02 Oct 1999
+545,160220703,"Kepa, Langi",M,Pakulge,Subsistence Farmer,01 Jan 1936
+546,160438458,"Keponge, Brian",M,Pakulge,Student,19 Feb 2000
+547,160224974,"Keponge, Daisy",M,Pakulge,Student,01 Jan 1989
+548,160235004,"Kera, China",M,Pakulge,Student,01 Jan 1991
+549,160438477,"Kera, Judas",M,Pakulge,Subsistence Farmer,11 Jul 2003
+550,160235064,"Kera, Junia",M,Pakulge,Student,01 Jan 1989
+551,160235479,"Kera, Kondowa",M,Pakulge,Student,01 Jan 1993
+552,160130325,"Kera, Kongo",M,Pakulge,Student,01 Jun 1998
+553,160131379,"Kera, Limbiye",M,Pakulge,Not Specified,03 Jun 1962
+554,160235475,"Kera, Mindil",M,Pakulge,Student,01 Jan 1987
+555,160221408,"Kera, Vincent",M,Pakulge,Student,01 Jan 1984
+556,160235478,"Kera, Win",M,Pakulge,Student,01 Jan 1992
+557,160223860,"Kewei, Steven",M,Pakulge,Subsistence Farmer,01 Jan 1959
+558,160232838,"Keyai, Ramise",M,Pakulge,Subsistence Farmer,01 Jan 1953
+559,25083960,"Killi, Cain",M,Pakulge,Student,02 Mar 2004
+560,160221396,"Kilu, Jim",M,Pakulge,Driver,01 Jan 1968
+561,160243833,"Kilu, Kombeke",M,Pakulge,Mechanic,01 Jan 1984
+562,160221394,"Kilu, Pani",M,Pakulge,Subsistence Farmer,01 Jan 1988
+563,160226727,"Kiluwe, Joseph",M,Pakulge,Subsistence Farmer,01 Jan 1950
+564,160226722,"Kiluwe, Mambo",M,Pakulge,Subsistence Farmer,01 Jan 1946
+565,160217589,"Kolema, David",M,Pakulge,Driver,01 Jan 1960
+566,160218805,"Kolema, Limson",M,Pakulge,Subsistence Farmer,01 Jan 1970
+567,160218800,"Kolema, Mele",M,Pakulge,Baker,01 Jan 1960
+568,160221116,"Kololi, Wari",M,Pakulge,Subsistence Farmer,01 Jan 1973
+569,160153622,"Kolopu, Langi",M,Pakulge,Subsistence Farmer,01 Jan 1942
+570,160438467,"Komon, Semion",M,Pakulge,Student,10 Oct 2001
+571,160139908,"Konjo, Kombeke",M,Pakulge,Subsistence Farmer,01 Jan 1986
+572,160226891,"Konopu, Nadie",M,Pakulge,Student,01 Jan 1986
+573,160438388,"Konopu, Paul",M,Pakulge,Student,20 Apr 2004
+574,160226890,"Konopu, Senis",M,Pakulge,Subsistence Farmer,01 Jan 1983
+575,160226887,"Konopu, Tom",M,Pakulge,Subsistence Farmer,01 Jan 1979
+576,160221128,"Koromba, John",M,Pakulge,Subsistence Farmer,01 Jan 1968
+577,160221114,"Koromba, Yondoiye",M,Pakulge,Subsistence Farmer,01 Jan 1965
+578,160221392,"Kosopo, Toya",M,Pakulge,Subsistence Farmer,01 Jan 1979
+579,160221417,"Kot, Joseph",M,Pakulge,Student,01 Jan 1987
+580,160438422,"Kot, Kevin",M,Pakulge,Student,22 Jul 2002
+581,160224260,"Kot, Wambiri",M,Pakulge,Subsistence Farmer,01 Jan 1983
+582,160218646,"Koyapo, Walawe",M,Pakulge,Student,01 Jan 1987
+583,160226638,"Kuleme, Puiye",M,Pakulge,Driver,01 Jan 1959
+584,160226969,"Kuleme, Suku",M,Pakulge,Security,01 Jan 1950
+585,160511164,"Kulume, Tokopi",M,Pakulge,Subsistence Farmer,20 Apr 1996
+586,160226895,"Kumbe, Nipili",M,Pakulge,Subsistence Farmer,01 Jan 1950
+587,160224969,"Kune, Yoko",M,Pakulge,Subsistence Farmer,01 Jan 1961
+588,160153621,"Kupu, Noel",M,Pakulge,Subsistence Farmer,01 Jan 1966
+589,160235495,"Kurene, Lombil",M,Pakulge,Not Specified,01 Jan 2000
+590,160229327,"Kurume, Daniel",M,Pakulge,Subsistence Farmer,01 Jan 1979
+591,160227789,"Kurume, Simon",M,Pakulge,Subsistence Farmer,01 Jan 1981
+592,160229453,"Kurume, Tom",M,Pakulge,Subsistence Farmer,01 Jan 2000
+593,160229429,"Kurume, Wesly",M,Pakulge,Subsistence Farmer,01 Jan 1986
+594,160438416,"Kuruwe, Lazarus",M,Pakulge,Student,13 Oct 2002
+595,160224087,"Langi, Apa",M,Pakulge,Subsistence Farmer,01 Jan 1988
+596,160220656,"Langi, Joseph",M,Pakulge,Subsistence Farmer,01 Jan 1968
+597,160224088,"Langi, Kondi",M,Pakulge,Store Keeper,01 Jan 1983
+598,160229202,"Langi, Nindie",M,Pakulge,Subsistence Farmer,01 Jan 1964
+599,160243841,"Langi, Pilambo",M,Pakulge,Subsistence Farmer,01 Jan 1980
+600,160224086,"Langi, Selek",M,Pakulge,Subsistence Farmer,01 Jan 1972
+601,160243836,"Lano, Foxy",M,Pakulge,Subsistence Farmer,01 Jan 1962
+602,160130324,"Lapua, Junior",M,Pakulge,Student,01 Feb 1998
+603,160226624,"Lapua, Kepsy",M,Pakulge,Subsistence Farmer,01 Jan 1970
+604,160139907,"Lapua, Kera",M,Pakulge,Subsistence Farmer,01 Jan 1952
+605,160226627,"Lapua, Kiap",M,Pakulge,Subsistence Farmer,01 Jan 1972
+606,160226623,"Lapua, Kiru",M,Pakulge,Subsistence Farmer,01 Jan 1974
+607,160226639,"Lapua, Robert",M,Pakulge,Subsistence Farmer,01 Jan 1964
+608,160130296,"Lawa, Joel",M,Pakulge,Sales Women,01 Feb 1994
+609,160138248,"Lawa, Mark",M,Pakulge,Sales Women,01 Jun 1980
+610,160221398,"Lawa, Pangasa",M,Pakulge,Subsistence Farmer,01 Jan 1966
+611,160511167,"Lawa, Pangsa",M,Pakulge,Teacher,09 Apr 1992
+612,160232579,"Lawa, Puiye",M,Pakulge,Subsistence Farmer,01 Jan 1957
+613,160221387,"Lawa, Rex",M,Pakulge,Crewman,01 Jan 1970
+614,25083962,"Leke, Kumti",M,Pakulge,Subsistence Farmer,08 Jun 1961
+615,160438441,"Lerry, Amon",M,Pakulge,Student,12 Jul 2003
+616,160438440,"Lerry, Norman",M,Pakulge,Student,19 Nov 2000
+617,160438430,"Lerry, Philip",M,Pakulge,Student,17 Aug 1998
+618,25083964,"Levi, Newman",M,Pakulge,Student,23 Apr 2003
+619,160226882,"Lewe, Andrew",M,Pakulge,Subsistence Farmer,01 Jan 1976
+620,160226881,"Lewe, Moses",M,Pakulge,Subsistence Farmer,01 Jan 1970
+621,160232274,"Lewef, Jeffrefy",M,Pakulge,Subsistence Farmer,01 Jan 1964
+622,160235488,"Lin, Munia",M,Pakulge,Subsistence Farmer,01 Jan 1986
+623,160235001,"Lin, Nande",M,Pakulge,Subsistence Farmer,01 Jan 1984
+624,160235002,"Lin, Waka",M,Pakulge,Subsistence Farmer,01 Jan 1990
+625,160130294,"Linisa, Siepira",M,Pakulge,Subsistence Farmer,01 Jan 1962
+626,160224146,"Linseli, Mambo",M,Pakulge,Subsistence Farmer,01 Jan 1944
+627,160222271,"Linseli, Willie",M,Pakulge,Subsistence Farmer,01 Jan 1949
+628,160223668,"Lis, Noah",M,Pakulge,Subsistence Farmer,01 Jan 1984
+629,160223669,"Lis, Steven",M,Pakulge,Subsistence Farmer,01 Jan 1974
+630,160224968,"Lole, Elex",M,Pakulge,Subsistence Farmer,01 Jan 1970
+631,160130336,"Lombai, Depol",M,Pakulge,Subsistence Farmer,20 Mar 1974
+632,160221362,"Lombil, Andiki",M,Pakulge,Subsistence Farmer,01 Jan 1984
+633,160226729,"Lombil, John",M,Pakulge,Subsistence Farmer,01 Jan 1982
+634,160221363,"Lombil, Pumbu",M,Pakulge,Student,01 Jan 1985
+635,160221414,"Lombil, Wesly",M,Pakulge,Subsistence Farmer,01 Jan 1981
+636,160438414,"Luke, Millar",M,Pakulge,Student,16 Apr 2003
+637,25083974,"Luther, Aisah",M,Pakulge,Student,24 Jan 2000
+638,160221403,"Makoroli, Luke",M,Pakulge,Worker,01 Jan 1972
+639,160220638,"Makoroli, Mathew",M,Pakulge,Subsistence Farmer,01 Jan 1977
+640,160221388,"Makoroli, Nisa",M,Pakulge,Subsistence Farmer,01 Jan 1954
+641,160130292,"Mambo, Apuke",M,Pakulge,Councillor,06 Oct 1980
+642,160226893,"Mambo, Mark",M,Pakulge,Teacher,01 Jan 1963
+643,160235483,"Mandikera, Tipiyo",M,Pakulge,Driver,01 Jan 1960
+644,160438432,"Mane, Manuel",M,Pakulge,Student,12 Oct 2000
+645,160224097,"Mangipe, Kilip",M,Pakulge,Subsistence Farmer,01 Jan 1980
+646,160224098,"Mangipe, Wanpis",M,Pakulge,Subsistence Farmer,01 Jan 1985
+647,160438428,"Manny, Andowa",M,Pakulge,Subsistence Farmer,06 Apr 2000
+648,160217741,"Mara, Lucas",M,Pakulge,Subsistence Farmer,01 Jan 1972
+649,160221412,"Mara, Peter",M,Pakulge,Subsistence Farmer,01 Jan 1960
+650,160226632,"Mark, Gray",M,Pakulge,Student,01 Jan 1988
+651,160218804,"Mark, Thomas",M,Pakulge,Student,01 Jan 1987
+652,25083977,"Mathew, Mcnuthy",M,Pakulge,Student,07 Apr 2004
+653,160215657,"Mealo, Issacc",M,Pakulge,Subsistence Farmer,01 Jan 1972
+654,160216165,"Mealo, Moses",M,Pakulge,Pastor,01 Jan 1971
+655,160213765,"Mealo, Oropili",M,Pakulge,Subsistence Farmer,01 Jan 1972
+656,160215792,"Mealo, Philipen",M,Pakulge,Subsistence Farmer,01 Jan 1961
+657,160232892,"Mek, David",M,Pakulge,Subsistence Farmer,01 Jan 1978
+658,160221121,"Mek, Oiye",M,Pakulge,Subsistence Farmer,01 Jan 1958
+659,160438387,"Meku, Ridget",M,Pakulge,Student,20 Oct 2002
+660,160222265,"Meku, Yapo",M,Pakulge,Subsistence Farmer,01 Jan 1982
+661,160438389,"Meky, Marako",M,Pakulge,Student,14 Oct 2002
+662,160130309,"Mex, Bozuel",M,Pakulge,Student,10 Jan 1998
+663,160130308,"Mex, Manu",M,Pakulge,Student,19 Jan 1999
+664,160221411,"Michael, John",M,Pakulge,Subsistence Farmer,01 Jan 1988
+665,160234443,"Michael, Peter",M,Pakulge,Student,01 Jan 1990
+666,160222257,"Miki, Gibson",M,Pakulge,Student,01 Jan 1986
+667,160222256,"Miki, Guli",M,Pakulge,Subsistence Farmer,01 Jan 1983
+668,160226734,"Miki, Jeff",M,Pakulge,Security,01 Jan 1972
+669,160235178,"Miki, Ku",M,Pakulge,Student,01 Jan 1989
+670,160235179,"Miki, Smith",M,Pakulge,Subsistence Farmer,01 Jan 1993
+671,160222269,"Miki, Wane",M,Pakulge,Subsistence Farmer,01 Jan 1980
+672,160131388,"Mini, Albert",M,Pakulge,Not Specified,01 Jul 1987
+673,160438425,"Mini, Enstain",M,Pakulge,Student,10 Jan 2004
+674,160221401,"Mini, Isaac",M,Pakulge,Teacher,01 Jan 1972
+675,160220639,"Mini, Joe",M,Pakulge,Subsistence Farmer,01 Jan 1977
+676,160232770,"Mini, Michael",M,Pakulge,Driver,01 Jan 1956
+677,160235303,"Mini, Tomas",M,Pakulge,Driver,01 Jan 1980
+678,160139938,"Miriye, Munia",M,Pakulge,Subsistence Farmer,01 Jan 1984
+679,160139939,"Miriye, Nandi",M,Pakulge,Subsistence Farmer,01 Jan 1986
+680,160438462,"Misi, Rodney",M,Pakulge,Student,14 Nov 2002
+681,160213774,"Moiyasi, Wane",M,Pakulge,Student,01 Jan 1984
+682,160222273,"Monda, Noime",M,Pakulge,Subsistence Farmer,01 Jan 1944
+683,160234935,"Mori, Etty",M,Pakulge,Student,01 Jan 1990
+684,160226630,"Mori, Jonathan",M,Pakulge,Subsistence Farmer,01 Jan 1985
+685,160221379,"Nale, Tonny",M,Pakulge,Subsistence Farmer,01 Jan 1980
+686,160222277,"Nale, Wane",M,Pakulge,Subsistence Farmer,01 Jan 1975
+687,160234970,"Nandia, Toia",M,Pakulge,Subsistence Farmer,01 Jan 2000
+688,160235059,"Nandie, Bobby",M,Pakulge,Subsistence Farmer,01 Jan 1966
+689,160224973,"Nandoma, Keponge",M,Pakulge,Subsistence Farmer,01 Jan 1968
+690,160224953,"Nandoma, Mex",M,Pakulge,Subsistence Farmer,01 Jan 1968
+691,160224079,"Nandoma, Saki",M,Pakulge,Subsistence Farmer,01 Jan 1971
+692,160221130,"Natil, Tapoiye",M,Pakulge,Teacher,01 Jan 1963
+693,160223667,"Niningi, Lis",M,Pakulge,Subsistence Farmer,01 Jan 1941
+694,160222225,"Niningi, Pora",M,Pakulge,Subsistence Farmer,01 Jan 1951
+695,160438423,"Nipil, Beneth",M,Pakulge,Subsistence Farmer,13 Oct 1998
+696,160235000,"Nipil, Enga",M,Pakulge,Student,01 Jan 1990
+697,160131385,"Nipil, Ruben",M,Pakulge,Student,02 Apr 1999
+698,160226637,"Nipili, Jonah",M,Pakulge,Student,01 Jan 1989
+699,160226636,"Nipili, Roselyn",M,Pakulge,Subsistence Farmer,01 Jan 1987
+700,160226897,"Nipili, Solomon",M,Pakulge,Student,01 Jan 1987
+701,160226621,"Niwi, Mori",M,Pakulge,Subsistence Farmer,01 Jan 1953
+702,160222283,"Niwi, Undi",M,Pakulge,Subsistence Farmer,01 Jan 1957
+703,160131384,"Niwi, Wapu",M,Pakulge,Not Specified,10 Jun 1966
+704,160438391,"Niye, Daniel",M,Pakulge,Student,12 Sep 2002
+705,160438390,"Niye, Manuel",M,Pakulge,Student,04 Sep 2003
+706,160222254,"Niye, Wanpis",M,Pakulge,Student,01 Jan 1987
+707,160138264,"Noel, Illai",M,Pakulge,Student,12 Mar 1999
+708,160438383,"Noel, Sam",M,Pakulge,Student,25 Oct 2001
+709,160235058,"Noel, Samuel",M,Pakulge,Student,01 Jan 1991
+710,160221381,"Noime, Michael",M,Pakulge,Student,01 Jan 1982
+711,160222279,"Noime, Nande",M,Pakulge,Subsistence Farmer,01 Jan 1979
+712,160438434,"Nome, Rombo",M,Pakulge,Subsistence Farmer,12 Dec 1996
+713,160235555,"Nonde, Noel",M,Pakulge,Student,01 Jan 1989
+714,160235080,"Nopa, Jack",M,Pakulge,Subsistence Farmer,01 Jan 1967
+715,160130318,"Nopu, Asaiah",M,Pakulge,Student,06 Aug 1998
+716,160235558,"Nopu, Dia",M,Pakulge,Student,01 Jan 1990
+717,160220544,"Nopu, Gibs",M,Pakulge,Driver,01 Jan 1973
+718,160234441,"Nopu, Mambo",M,Pakulge,Student,01 Jan 1993
+719,160138254,"Nopu, Richard",M,Pakulge,Sales Women,01 Jan 1998
+720,25083988,"Norman, Brandy",M,Pakulge,Student,08 Mar 2000
+721,160438480,"Norman, Brian",M,Pakulge,Student,15 Jun 2003
+722,160438482,"Norman, Jeromy",M,Pakulge,Student,01 Oct 2002
+723,160243875,"Norman, Joseph",M,Pakulge,Student,01 Jan 1990
+724,25083990,"Norman, Nick",M,Pakulge,Student,13 Mar 2001
+725,160222229,"Obele, Benjamin",M,Pakulge,Subsistence Farmer,01 Jan 1980
+726,160223867,"Obele, Jessy",M,Pakulge,Subsistence Farmer,01 Jan 1982
+727,160222230,"Obele, Nathan",M,Pakulge,Student,01 Jan 1986
+728,160210239,"Obele, Noel",M,Pakulge,Student,01 Jan 1990
+729,160221131,"Oiye, Neihman",M,Pakulge,Student,01 Jan 1989
+730,160511169,"Ombel, Jessy",M,Pakulge,Driver,12 Apr 1989
+731,160213773,"Opa, Anton",M,Pakulge,Pastor,01 Jan 1941
+732,160218181,"Pambon, Koyapo",M,Pakulge,Subsistence Farmer,01 Jan 1952
+733,160218180,"Pambon, Yando",M,Pakulge,Subsistence Farmer,01 Jan 1966
+734,160213767,"Panga, Junior",M,Pakulge,Subsistence Farmer,01 Jan 1979
+735,160213763,"Panga, Lerry",M,Pakulge,Subsistence Farmer,01 Jan 1948
+736,160213761,"Panga, Moiyasi",M,Pakulge,Subsistence Farmer,01 Jan 1951
+737,160438468,"Pango, Jackwell",M,Pakulge,Student,18 Apr 2002
+738,25083995,"Patrick, Abi",M,Pakulge,Student,12 Apr 2004
+739,160235069,"Patrick, Elijah",M,Pakulge,Student,01 Jan 1992
+740,160438460,"Patrick, Junior",M,Pakulge,Student,17 Jan 2004
+741,160438472,"Patrick, Justin",M,Pakulge,Student,02 Oct 2003
+742,160220702,"Patrick, Nelson",M,Pakulge,Student,01 Jan 1987
+743,160234930,"Patrick, Norman",M,Pakulge,Student,01 Jan 1990
+744,160224258,"Patrick, Rose",M,Pakulge,Subsistence Farmer,01 Jan 1966
+745,160224252,"Patrick, Sie",M,Pakulge,Subsistence Farmer,01 Jan 1971
+746,160438413,"Patrick, Yali",M,Pakulge,Subsistence Farmer,17 Mar 1999
+747,160222227,"Pawebo, Obele",M,Pakulge,Clerk,01 Jan 1953
+748,160223663,"Pawebo, Yando",M,Pakulge,Pastor,01 Jan 1960
+749,160223757,"Pea, Kot",M,Pakulge,Clerk,01 Jan 1956
+750,160224257,"Pea, Patrick",M,Pakulge,Nurse,01 Jan 1964
+751,160438449,"Pera, Jonathan",M,Pakulge,Student,10 Aug 2003
+752,160130316,"Peter, Breby",M,Pakulge,Student,01 Aug 1998
+753,25083999,"Peter, Helai",M,Pakulge,Student,12 Apr 2004
+754,25084001,"Peter, Peterson",M,Pakulge,Student,01 Dec 1995
+755,160220635,"Pokeya, Akilo",M,Pakulge,Subsistence Farmer,01 Jan 1968
+756,160220809,"Pokeya, Patrick",M,Pakulge,Subsistence Farmer,01 Jan 1964
+757,160243828,"Poki, Moro",M,Pakulge,Student,01 Jan 1990
+758,160243827,"Poki, Pumbo",M,Pakulge,Student,01 Jan 1992
+759,25084008,"Pora, Samely",M,Pakulge,Welfare Worker,15 Oct 1993
+760,160438431,"Porare, Ismael",M,Pakulge,Student,12 Oct 1998
+761,160130298,"Porere, Joseph",M,Pakulge,Not Specified,01 Mar 1987
+762,160220706,"Pos, Elias",M,Pakulge,Student,01 Jan 1977
+763,160220707,"Pos, Emos",M,Pakulge,Student,01 Jan 1984
+764,160220643,"Pos, Willie",M,Pakulge,Student,01 Jan 1987
+765,160232259,"Puge, Jeffrey",M,Pakulge,Subsistence Farmer,01 Jan 1956
+766,160232852,"Puge, Ken",M,Pakulge,Student,01 Jan 1982
+767,160139935,"Puge, Man",M,Pakulge,Subsistence Farmer,01 Jan 1980
+768,160243867,"Puge, Morgaen",M,Pakulge,Student,01 Jan 1987
+769,160227086,"Puge, Norman",M,Pakulge,Subsistence Farmer,01 Jan 1976
+770,160227082,"Puge, Tendeku",M,Pakulge,Carpenter,01 Jan 1954
+771,160139936,"Puge, Yamba",M,Pakulge,Subsistence Farmer,01 Jan 1980
+772,160225133,"Puiye, David",M,Pakulge,Student,01 Jan 1988
+773,160438484,"Puiye, Kukila",M,Pakulge,Household Duties,15 Oct 2002
+774,160224987,"Puiye, Nandoma",M,Pakulge,Subsistence Farmer,01 Jan 1950
+775,160232779,"Puiye, Pera",M,Pakulge,Subsistence Farmer,01 Jan 1984
+776,160224972,"Puiye, Pex",M,Pakulge,Subsistence Farmer,01 Jan 1976
+777,160224952,"Puiye, Porain",M,Pakulge,Subsistence Farmer,01 Jan 1978
+778,160243869,"Puiye, Rubben",M,Pakulge,Student,01 Jan 1985
+779,160224957,"Puiye, Simon",M,Pakulge,Student,01 Jan 1986
+780,160438459,"Puiye, Willie",M,Pakulge,Student,19 May 2001
+781,160438489,"Puiye, Yaki",M,Pakulge,Student,05 Oct 2001
+782,160216163,"Rambua, Japhet",M,Pakulge,Subsistence Farmer,01 Jan 1970
+783,160227081,"Rambuame, Komon",M,Pakulge,Mechanic,01 Jan 1976
+784,160232846,"Ramise, Gorge",M,Pakulge,Student,01 Jan 1983
+785,160131526,"Ramise, Jerry",M,Pakulge,Student,28 Feb 1999
+786,160139924,"Ramua, Lewe",M,Pakulge,Subsistence Farmer,01 Jan 1900
+787,160438405,"Raymond, Shane",M,Pakulge,Student,10 Oct 2003
+788,160221410,"Rende, Michael",M,Pakulge,Subsistence Farmer,01 Jan 1954
+789,160220640,"Rende, Nana",M,Pakulge,Subsistence Farmer,01 Jan 1969
+790,160218803,"Rende, Ninde",M,Pakulge,Subsistence Farmer,01 Jan 1964
+791,160220696,"Rende, Ponege",M,Pakulge,Subsistence Farmer,01 Jan 1965
+792,160232898,"Rendi, Sole",M,Pakulge,Subsistence Farmer,01 Jan 1954
+793,160438444,"Rex, Malkom",M,Pakulge,Student,09 May 2003
+794,160138252,"Rili, Buka",M,Pakulge,Student,12 Mar 1998
+795,160224083,"Rili, Peter",M,Pakulge,Subsistence Farmer,01 Jan 1987
+796,160224082,"Rili, Rali",M,Pakulge,Subsistence Farmer,01 Jan 1978
+797,160224085,"Rili, Rex",M,Pakulge,Subsistence Farmer,01 Jan 1970
+798,160224984,"Rili, Wiru",M,Pakulge,Subsistence Farmer,01 Jan 1980
+799,160226791,"Roka, Warea",M,Pakulge,Subsistence Farmer,01 Jan 1937
+800,160130319,"Ronny, Ben",M,Pakulge,Student,10 Feb 1999
+801,25084011,"Ronny, Christina",M,Pakulge,Student,01 Feb 2004
+802,160130315,"Ronny, Ezekiel",M,Pakulge,Student,19 May 1998
+803,160130314,"Ronny, Jerol",M,Pakulge,Student,01 Apr 1998
+804,160438407,"Ronny, Justin",M,Pakulge,Subsistence Farmer,02 Feb 2002
+805,160438408,"Ronny, Mesian",M,Pakulge,Student,14 Jul 2003
+806,160218812,"Rumu, David",M,Pakulge,Student,01 Jan 1986
+807,160130335,"Rumu, Robin",M,Pakulge,Student,27 Oct 1998
+808,160220537,"Rumu, Senny",M,Pakulge,Driver,01 Jan 1974
+809,160235552,"Sakias, David",M,Pakulge,Student,01 Jan 1989
+810,160130317,"Samuel, Andy",M,Pakulge,Student,01 Jan 1998
+811,160222280,"Sawiya, Mek",M,Pakulge,Subsistence Farmer,01 Jan 1930
+812,160438471,"Seni, Simron",M,Pakulge,Student,12 Feb 2004
+813,160218635,"Sieme, Lomba",M,Pakulge,Subsistence Farmer,01 Jan 1970
+814,160235051,"Sindaiu, Peter",M,Pakulge,Student,01 Jan 1987
+815,160232836,"Sindalu, Nocky",M,Pakulge,Student,01 Jan 1981
+816,160138247,"Sipira, Yano",M,Pakulge,Subsistence Farmer,01 Feb 1978
+817,160438429,"Sipora, Alu",M,Pakulge,Subsistence Farmer,19 Jun 2002
+818,160130328,"Sipora, Monda",M,Pakulge,Not Specified,07 Apr 1998
+819,160438437,"Sipora, Nanduka",M,Pakulge,Subsistence Farmer,09 Mar 1997
+820,160232635,"Sipora, Pora",M,Pakulge,Student,01 Jan 1985
+821,160438436,"Sipora, Sande",M,Pakulge,Subsistence Farmer,25 Mar 1999
+822,160232583,"Sole, China",M,Pakulge,Subsistence Farmer,01 Jan 1981
+823,160234295,"Sole, Dayman",M,Pakulge,Subsistence Farmer,01 Jan 1980
+824,160217742,"Sole, Mako",M,Pakulge,Subsistence Farmer,01 Jan 1970
+825,160234294,"Sole, Paul",M,Pakulge,Subsistence Farmer,01 Jan 1984
+826,160234181,"Sole, Richard",M,Pakulge,Subsistence Farmer,01 Jan 1986
+827,160223862,"Steven, Joel",M,Pakulge,Student,01 Jan 1985
+828,25084017,"Steven, Satndy",M,Pakulge,Student,07 Mar 2000
+829,160438420,"Steven, Sebastine",M,Pakulge,Student,19 Aug 2000
+830,25084019,"Steven, Shain",M,Pakulge,Student,28 Jan 2004
+831,160438419,"Steven, Stecian",M,Pakulge,Student,16 Aug 2002
+832,160138261,"Suku, Frank",M,Pakulge,Student,17 Jun 1998
+833,25084022,"Suku, Robert",M,Pakulge,Student,01 Apr 2004
+834,160226970,"Suku, Tony",M,Pakulge,Student,01 Jan 1976
+835,160224262,"Sula, Lombil",M,Pakulge,Subsistence Farmer,01 Jan 1946
+836,160229214,"Takune, James",M,Pakulge,Subsistence Farmer,01 Jan 1963
+837,160139937,"Takune, Kurumu",M,Pakulge,Subsistence Farmer,01 Jan 1954
+838,160221119,"Tale, Raymond",M,Pakulge,Teacher,01 Jan 1971
+839,160235486,"Tapoiya, Jgran",M,Pakulge,Student,01 Jan 1993
+840,25084024,"Tendeku, Damien",M,Pakulge,Student,15 Jan 2004
+841,160229423,"Tendeku, Jayson",M,Pakulge,Student,01 Jan 1988
+842,160438483,"Tendeku, Nangustine",M,Pakulge,Student,10 Dec 1999
+843,160243838,"Tendeku, Natha",M,Pakulge,Student,01 Jan 1994
+844,160438433,"Teringi, Benny",M,Pakulge,Subsistence Farmer,31 Dec 1999
+845,160223665,"Teringi, Keaven",M,Pakulge,Subsistence Farmer,01 Jan 1985
+846,160223864,"Teringi, Pelep",M,Pakulge,Subsistence Farmer,01 Jan 1981
+847,160438424,"Thomas, Jarack",M,Pakulge,Student,13 Sep 1999
+848,160226967,"Tokopi, Biggley",M,Pakulge,Student,01 Jan 1987
+849,160130334,"Tom, Ben",M,Pakulge,Teacher,09 Nov 1968
+850,160511170,"Tom, Benson",M,Pakulge,Driver,28 Apr 2004
+851,160235067,"Tom, John",M,Pakulge,Subsistence Farmer,01 Jan 1955
+852,160235068,"Tom, Kera",M,Pakulge,Subsistence Farmer,01 Jan 1961
+853,160438438,"Tonge, Iceman",M,Pakulge,Subsistence Farmer,12 Nov 1998
+854,160130300,"Tonge, Jacob",M,Pakulge,Subsistence Farmer,01 Mar 1992
+855,160130299,"Tonge, Joel",M,Pakulge,Sales Women,01 Mar 1996
+856,25084029,"Tonge, Lucas",M,Pakulge,Student,18 Jan 2004
+857,160438439,"Tonge, Samuel",M,Pakulge,Student,10 Oct 2002
+858,160223857,"Torea, Tom",M,Pakulge,Worker,01 Jan 1964
+859,160223853,"Torea, Yulupi",M,Pakulge,Subsistence Farmer,01 Jan 1941
+860,160226732,"Tula, Kegeno",M,Pakulge,Subsistence Farmer,01 Jan 1961
+861,160226730,"Tula, Kili",M,Pakulge,Subsistence Farmer,01 Jan 1961
+862,160220664,"Undi, Ipupiri",M,Pakulge,Subsistence Farmer,01 Jan 1964
+863,160222268,"Undi, Jabeth",M,Pakulge,Subsistence Farmer,01 Jan 1987
+864,160220542,"Undi, Kenga",M,Pakulge,Subsistence Farmer,01 Jan 1951
+865,160232890,"Une, Benny",M,Pakulge,Subsistence Farmer,01 Jan 1981
+866,160232891,"Une, Martin",M,Pakulge,Subsistence Farmer,01 Jan 1984
+867,160232897,"Une, Michael",M,Pakulge,Subsistence Farmer,01 Jan 1980
+868,160218183,"Uta, Pilimbo",M,Pakulge,Subsistence Farmer,01 Jan 1968
+869,160218196,"Uta, Tomba",M,Pakulge,Subsistence Farmer,01 Jan 1970
+870,160234927,"Wakena, Firman",M,Pakulge,Student,01 Jan 1987
+871,160234928,"Wakena, Kism",M,Pakulge,Student,01 Jan 1989
+872,160218641,"Wakia, Kuli",M,Pakulge,Subsistence Farmer,01 Jan 1952
+873,160218342,"Walu, Mobeya",M,Pakulge,Subsistence Farmer,01 Jan 1966
+874,160235485,"Wambi, David",M,Pakulge,Student,01 Jan 1994
+875,160221124,"Wambi, John",M,Pakulge,Subsistence Farmer,01 Jan 1956
+876,160438455,"Wambi, Keli",M,Pakulge,Pastor,16 May 1999
+877,160438450,"Wambo, Elai",M,Pakulge,Student,05 Jan 2001
+878,160229281,"Wandi, Alo",M,Pakulge,Teacher,01 Jan 1964
+879,160234969,"Wandi, Anda",M,Pakulge,Student,01 Jan 1989
+880,160223758,"Wandi, Fabian",M,Pakulge,Subsistence Farmer,01 Jan 1988
+881,160234960,"Wandi, Nayman",M,Pakulge,Subsistence Farmer,01 Jan 1986
+882,160229448,"Wandi, Wanpis",M,Pakulge,Subsistence Farmer,01 Jan 1964
+883,160438435,"Wane, Able",M,Pakulge,Student,10 Dec 2001
+884,160235556,"Warea, Nopu",M,Pakulge,Subsistence Farmer,01 Jan 1954
+885,160511171,"Warea, Ronney",M,Pakulge,Teacher,13 Apr 1995
+886,160220670,"Warea, Ronny",M,Pakulge,Subsistence Farmer,01 Jan 1962
+887,160224099,"Welta, Max",M,Pakulge,Subsistence Farmer,01 Jan 1964
+888,160224100,"Welta, Yana",M,Pakulge,Security,01 Jan 1946
+889,160232887,"Were, Paul",M,Pakulge,Driver,01 Jan 1970
+890,160222281,"Wine, James",M,Pakulge,Subsistence Farmer,01 Jan 1982
+891,160222282,"Wine, Samson",M,Pakulge,Subsistence Farmer,01 Jan 1972
+892,160222270,"Wine, Wanpis",M,Pakulge,Driver,01 Jan 1967
+893,160153618,"Yali, Pea",M,Pakulge,Subsistence Farmer,01 Jan 1900
+894,160438400,"Yambi, David",M,Pakulge,Store Keeper,14 Oct 2001
+895,160234159,"Yambi, Keia",M,Pakulge,Store Keeper,01 Jan 1979
+896,160221120,"Yambi, Samuel",M,Pakulge,Subsistence Farmer,01 Jan 1968
+897,25084039,"Yandi, Ezekiel",M,Pakulge,Subsistence Farmer,19 Mar 2004
+898,160234953,"Yando, Enock",M,Pakulge,Student,01 Jan 1989
+899,160218645,"Yando, Robert",M,Pakulge,Student,01 Jan 1986
+900,160218801,"Yapa, Benny",M,Pakulge,Student,01 Jan 1977
+901,160213550,"Yari, Alisi",M,Pakulge,Subsistence Farmer,01 Jan 1949
+902,25084046,"Yaro, Joklyn",M,Pakulge,Student,11 Aug 2000
+903,160224977,"Yoko, Andrew",M,Pakulge,Student,01 Jan 1986
+904,160130307,"Yoko, Pulo",M,Pakulge,Student,08 Jan 1998
+905,160224976,"Yoko, Robin",M,Pakulge,Student,01 Jan 1983
+906,160130306,"Yoko, Sono",M,Pakulge,Student,01 Jan 1998
+907,160438426,"Yondoiye, Jerry",M,Pakulge,Student,19 Nov 2002
+908,160221132,"Yondoiye, Joel",M,Pakulge,Student,01 Jan 1989
+909,160220806,"Yondoiye, Joshua",M,Pakulge,Student,01 Jan 1984
+910,160235049,"Yondoiye, Nini",M,Pakulge,Student,01 Jan 1993
+911,160138258,"Yulupi, Anda",M,Pakulge,Student,01 Jan 1998
+912,160223859,"Yulupi, Daniel",M,Pakulge,Student,01 Jan 1988
+913,160223856,"Yulupi, Jonah",M,Pakulge,Subsistence Farmer,01 Jan 1987
+914,160232773,"Yulupi, Lucas",M,Pakulge,Subsistence Farmer,01 Jan 1979

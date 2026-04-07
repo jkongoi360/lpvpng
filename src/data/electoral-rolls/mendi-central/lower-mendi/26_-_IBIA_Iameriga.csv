@@ -1,0 +1,497 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160498059,"Aiya, Ageb",F,IAMETIGA,Student,01 Jan 2004
+2,160498061,"Aiya, Mantha",F,IAMETIGA,Household Duties,15 Jan 2004
+3,160498068,"Alo, Amlin",F,IAMETIGA,Student,27 Apr 2004
+4,160498070,"Alo, Liana",F,IAMETIGA,Student,26 Apr 2004
+5,160498080,"Alo, Martina",F,IAMETIGA,Household Duties,15 May 1964
+6,160427151,"Alombo, Cathy",F,IBIA,Household Duties,01 Jan 1979
+7,160427576,"Alopa, Cathy",F,IBIA,Household Duties,01 Jan 1972
+8,160504598,"Alu, Ambay",F,TAGENDAL WARIPUTI Subsistence Farmer,,28 Apr 2004
+9,160498092,"Alu, Jero",F,IAMETIGA,Household Duties,17 Sep 1990
+10,160498094,"Alu, Lina",F,IAMETIGA,Household Duties,16 May 1988
+11,160427189,"Alu, Magret",F,IBIA,Household Duties,09 May 1983
+12,160498100,"Alu, Monica",F,IAMETIGA,Household Duties,21 Aug 1995
+13,160498114,"Alu, Rose",F,IAMETIGA,Household Duties,25 Jan 1998
+14,160498116,"Alu, Wendy",F,IAMETIGA,Household Duties,16 Jun 1998
+15,160427229,"Alumbi, Jusena",F,IBIA,Housegirl,01 Jan 1980
+16,160426364,"Amose, Gloria",F,IBIA,Student,01 Jan 1990
+17,160427347,"Andalua, Danu",F,IBIA,Household Duties,16 Sep 1969
+18,160427649,"Andrew, Linnet",F,IBIA,Household Duties,01 Jan 1988
+19,160427706,"Angaka, Rondopeame",F,IBIA,Household Duties,01 Jan 1966
+20,160427480,"Asaro, Pore",F,IBIA,Subsistence Farmer,09 Feb 1960
+21,160294050,"Ata, Lyndia",F,IBIA,Sales Women,14 Apr 1994
+22,160427543,"Ate, Ruth",F,IBIA,Housegirl,05 Apr 1980
+23,160498137,"Ate, Sandy",F,IAMETIGA,Student,16 Nov 1994
+24,160498139,"Ate, Thresa",F,IAMETIGA,Household Duties,25 Nov 1985
+25,160427590,"Awala, Yatanu",F,IBIA,Household Duties,01 Jan 1987
+26,160498154,"Bapu, Lin",F,IAMETIGA,Household Duties,16 Oct 1985
+27,160504608,"Bapu, Nemila",F,TAGENDAL WARIPUTI Student,,28 Apr 2004
+28,160498162,"Bapu, Noreen",F,IAMETIGA,Household Duties,25 Oct 1986
+29,160504620,"Benjamin, Benisa",F,TAGENDAL WARIPUTI Student,,17 Apr 2004
+30,160504628,"Benjamin, Rebbeca",F,TAGENDAL WARIPUTI Student,,15 Jun 1985
+31,160498172,"Bin, Salvina",F,IAMETIGA,Student,10 Oct 1982
+32,160498173,"Bin, Salyn",F,IAMETIGA,Student,12 Apr 2004
+33,160427212,"Buka, Rasol",F,IBIA,Household Duties,02 Oct 1989
+34,160294047,"Buru, Josida",F,IBIA,Sales Women,11 Mar 1992
+35,160427467,"Challie, Paula",F,IBIA,Household Duties,01 Jan 1971
+36,160427692,"Daniel, Epalyn",F,IBIA,Student,19 Oct 1985
+37,160427537,"Daniel, Rombie",F,IBIA,Household Duties,01 Jan 1968
+38,160432091,"Daniel, Sindra",F,IBIA,Sales Women,27 Sep 1990
+39,160427318,"Dannis, Leonie",F,IBIA,Housegirl,01 Jan 1986
+40,160428337,"David, Beky",F,IBIA,Household Duties,06 Feb 1976
+41,160498182,"David, Cathy",F,IAMETIGA,Household Duties,15 Jun 1987
+42,160428338,"David, Delmah",F,IBIA,Household Duties,03 Oct 1979
+43,160427492,"David, Dona",F,IBIA,Housegirl,10 Jun 1979
+44,160498183,"David, Evelyn",F,IAMETIGA,Household Duties,25 Oct 1987
+45,160428339,"David, Jenny",F,IBIA,Household Duties,05 Oct 1976
+46,160428340,"David, Lorra",F,IBIA,Housegirl,01 Jan 1970
+47,160427534,"David, Lyn",F,IBIA,Household Duties,01 Jan 1967
+48,160427174,"David, Nely",F,IBIA,Student,02 Oct 1976
+49,160428753,"David, Pipia",F,IBIA,Household Duties,02 Oct 1976
+50,160431358,"David, Regina",F,IBIA,Student,12 May 1993
+51,160427655,"Dick, Dallen",F,IBIA,Household Duties,01 Jan 1973
+52,160428359,"Die, Marlynda",F,IBIA,Household Duties,01 Jun 1987
+53,160284973,"Elpis, Grace",F,IBIA,Household Duties,01 Jan 1971
+54,160293744,"Ero, Marian",F,IBIA,Sales Women,10 Oct 1996
+55,160427574,"Etepa, Wendy",F,IBIA,Student,01 Jan 1990
+56,160293798,"Ewa, Eki",F,IBIA,Housegirl,23 Nov 1995
+57,160427539,"Ewa, Mone",F,IBIA,Subsistence Farmer,08 Jul 1982
+58,160504643,"Francis, Francilda",F,TAGENDAL WARIPUTI Student,,30 Jun 2003
+59,160504648,"Francis, Francilla",F,TAGENDAL WARIPUTI Student,,28 Jun 2002
+60,160504650,"Ganula, Pricila",F,TAGENDAL WARIPUTI Subsistence Farmer,,19 Nov 1989
+61,160427683,"Haka, Larme",F,IBIA,Household Duties,01 Jan 1969
+62,160427201,"Hekaita, Nisimi",F,IBIA,Household Duties,01 Jan 1979
+63,160428343,"Hemos, Margret",F,IBIA,Household Duties,10 Feb 1990
+64,160428341,"Hemos, Namme",F,IBIA,Household Duties,04 Oct 1976
+65,160427498,"Hennry, Katty",F,IBIA,Household Duties,01 Jan 1967
+66,160426454,"Homan, Rita",F,IBIA,Student,01 Jan 1990
+67,160427481,"Ipikai, Alice",F,IBIA,Subsistence Farmer,05 Dec 1990
+68,160504654,"Ipikai, Cathy",F,TAGENDAL WARIPUTI Student,,04 Mar 2003
+69,160427496,"Iwasi, Nonem",F,IBIA,Household Duties,04 Mar 1979
+70,160504671,"Jetro, Helen",F,TAGENDAL WARIPUTI Student,,07 Dec 1989
+71,160504675,"Jetro, Joicelyn",F,TAGENDAL WARIPUTI Student,,20 Oct 1994
+72,160504592,"Joaci, Sandy",F,IBIA,Subsistence Farmer,28 Aug 1980
+73,160504687,"John, Cathrin",F,TAGENDAL WARIPUTI Subsistence Farmer,,17 Nov 2000
+74,160504693,"John, Jerin",F,TAGENDAL WARIPUTI Student,,28 Apr 2004
+75,160294051,"Jonny, Sally",F,IBIA,Sales Women,03 Jun 1991
+76,160428272,"Kaiva, Adiame",F,IBIA,Household Duties,01 Jan 1974
+77,160427658,"Kaiva, Walanu",F,IBIA,Household Duties,01 Jan 1971
+78,160504699,"Kale, Cathy",F,TAGENDAL WARIPUTI Self Employed,,14 Feb 1992
+79,160427595,"Kale, Donna",F,IBIA,Subsistence Farmer,04 May 1979
+80,160427597,"Kale, Martina",F,IBIA,Student,02 Mar 1989
+81,160498189,"Kale, Paitame",F,IAMETIGA,Household Duties,28 Jun 1974
+82,160427136,"Kalimba, Josepin",F,IBIA,Household Duties,01 Jan 1972
+83,160427757,"Kambalu, Jeroly",F,IBIA,Household Duties,10 Feb 1980
+84,160427314,"Kande, Kelva",F,IBIA,Housegirl,04 May 1982
+85,160504705,"Kande, Seron",F,TAGENDAL WARIPUTI Subsistence Farmer,,28 Mar 1981
+86,160293720,"Karoa, Vinjina",F,IBIA,Student,11 Mar 1988
+87,160504707,"Kela, Amby",F,TAGENDAL WARIPUTI Unemployed,,17 Mar 1989
+88,160427657,"Kela, Hepelyn",F,IBIA,Student,02 Jun 1990
+89,160293703,"Ken, Maria",F,IBIA,Household Duties,21 Jul 1991
+90,160504710,"Ken, Rebbeca",F,TAGENDAL WARIPUTI Unemployed,,02 Feb 1989
+91,160427321,"Kenda, Nadame",F,IBIA,Household Duties,03 May 1961
+92,160427746,"Kenda, Nono",F,IBIA,Household Duties,01 Jan 1965
+93,160427362,"Kepen, Anna",F,IBIA,Household Duties,01 Jan 1984
+94,160427653,"Kera, Same",F,IBIA,Household Duties,01 Jan 1959
+95,160427578,"Kerale, Mary",F,IBIA,Household Duties,01 Jan 1969
+96,160426462,"Kete, Yambare",F,IBIA,Household Duties,01 Jan 1962
+97,160427128,"Kialape, Konega",F,IBIA,Household Duties,01 Jan 1964
+98,160427491,"Kiki, Ole",F,IBIA,Household Duties,05 Jun 1986
+99,160294060,"Kona, Malanu",F,IBIA,Subsistence Farmer,16 Apr 1988
+100,160426366,"Kotapu, Mary",F,IBIA,Household Duties,01 Jan 1969
+101,160427726,"Kuta, Ake",F,IBIA,Household Duties,01 Jan 1979
+102,160427346,"Laina, Dolly",F,IBIA,Student,01 Jan 1990
+103,160293705,"Lakea, Julie",F,IBIA,Not Specified,01 Apr 1993
+104,160427198,"Leo, Malagai",F,IBIA,Student,01 Jan 1988
+105,160427741,"Leo, Marambe",F,IBIA,Household Duties,01 Jan 1968
+106,160427188,"Lincon, Rachael",F,IBIA,Household Duties,01 Jan 1968
+107,160504714,"Lopa, Jemonia",F,TAGENDAL WARIPUTI Student,,20 Jul 2003
+108,160504724,"Luke, Delma",F,TAGENDAL WARIPUTI Student,,24 May 2003
+109,160504728,"Luke, Piana",F,TAGENDAL WARIPUTI Subsistence Farmer,,28 May 1980
+110,160432085,"Lukson, Melda",F,IBIA,Student,19 Dec 1994
+111,160498211,"Mambiki, Carol",F,IBIA,Household Duties,13 Oct 1987
+112,160498212,"Mambiki, Carolin",F,IBIA,Household Duties,26 Jan 1989
+113,160498216,"Mambiki, Leni",F,IBIA,Student,28 Dec 1994
+114,160498218,"Mambiki, Moreen",F,IBIA,Household Duties,10 Oct 1994
+115,160293874,"Mani, Kasup",F,IBIA,Household Duties,15 Sep 1989
+116,160504733,"Mapi, Delilah",F,TAGENDAL WARIPUTI Subsistence Farmer,,06 Oct 1997
+117,160504737,"Marie, Docas",F,TAGENDAL WARIPUTI Subsistence Farmer,,13 Nov 1986
+118,160498221,"Mark, Diana",F,IBIA,Student,01 Oct 2003
+119,160498222,"Mark, Merolyn",F,IBIA,Student,01 Jan 1984
+120,160504740,"Martin, John",F,TAGENDAL WARIPUTI Student,,10 Feb 1999
+121,160428315,"Marupa, Omenu",F,IBIA,Household Duties,19 May 1968
+122,160504746,"Mathew, Jamima",F,TAGENDAL WARIPUTI Student,,13 Apr 1999
+123,160293803,"Mathew, Jentra",F,IBIA,Household Duties,24 Dec 1973
+124,160504750,"Mathew, Tana",F,TAGENDAL WARIPUTI Teacher,,25 Sep 1991
+125,160293740,"Maya, Monica",F,IBIA,Household Duties,30 Mar 1984
+126,160504752,"Mel, Lessy",F,TAGENDAL WARIPUTI Student,,13 May 1999
+127,160293868,"Mendo, Tan",F,IBIA,Sales Women,16 Mar 1996
+128,160294059,"Misak, Elly",F,IBIA,Household Duties,05 Sep 1989
+129,160427238,"Momani, Mandi",F,IBIA,Household Duties,01 Jan 1967
+130,160294058,"Moses, Judy",F,IBIA,Teacher,20 Jan 1990
+131,160504767,"Moses, Sila",F,TAGENDAL WARIPUTI Unemployed,,11 Jan 1985
+132,160427550,"Mudiya, Yapusi",F,IBIA,Household Duties,01 Jan 1968
+133,160293656,"Muli, Eko",F,IBIA,Household Duties,06 Aug 1974
+134,160293658,"Muli, Joesphine",F,IBIA,Household Duties,11 Jan 1984
+135,160293873,"Nalop, Victoria",F,IBIA,Teacher,10 May 1986
+136,160431359,"Nemaia, Ronda",F,IBIA,Household Duties,09 Aug 1992
+137,160504784,"Nulupi, Jenipa",F,TAGENDAL WARIPUTI Subsistence Farmer,,13 Feb 2001
+138,160294057,"Obert, Maria",F,IBIA,Household Duties,13 Feb 1994
+139,160428273,"Ondealu, Marria",F,IBIA,Household Duties,04 Oct 1979
+140,160428323,"Paina, Udipa",F,IBIA,Household Duties,01 Jan 1980
+141,160427732,"Paipala, Walame",F,IBIA,Household Duties,01 Jan 1970
+142,160427608,"Paiputia, Kilipiame",F,IBIA,Household Duties,04 Mar 1968
+143,160427292,"Paiputia, Nandonu",F,IBIA,Household Duties,01 Jan 1964
+144,160428353,"Pakuta, Malanu",F,IBIA,Subsistence Farmer,06 Oct 1961
+145,160427719,"Pakuwi, Kadipi wane",F,IBIA,Household Duties,01 Jan 1970
+146,160427157,"Paluroa, Rumbame",F,IBIA,Household Duties,01 Jan 1958
+147,160431360,"Pare, Akita",F,IBIA,Sales Women,05 Mar 1990
+148,160427307,"Paul, Janeth wasaona",F,IBIA,Household Duties,01 Jan 1971
+149,160426461,"Paul, Monvi",F,IBIA,Student,01 Jan 1989
+150,160294052,"Pedian, Joke",F,IBIA,Student,30 Jan 1992
+151,160427194,"Perea, Buku",F,IBIA,Household Duties,01 Jan 1974
+152,160427696,"Perekeapa, Epe",F,IBIA,Subsistence Farmer,01 Jan 1967
+153,160427368,"Pete, Hepenogo",F,IBIA,Household Duties,04 Feb 1969
+154,160427367,"Pete, Merry",F,IBIA,Household Duties,06 Jul 1979
+155,160504800,"Peter, Alison",F,TAGENDAL WARIPUTI Student,,10 Jun 2003
+156,160498236,"Peter, Merolyn",F,IBIA,Household Duties,01 Jan 1987
+157,160504814,"Petro, Alisah",F,TAGENDAL WARIPUTI Subsistence Farmer,,14 Feb 1984
+158,160293739,"Philip, Easy",F,IBIA,Sales Women,20 Dec 1995
+159,160427661,"Piralaye, Burami",F,IBIA,Household Duties,01 Jan 1970
+160,160427405,"Pona, Gimalo",F,IBIA,Household Duties,30 May 1976
+161,160293714,"Posu, Magaret",F,IBIA,Household Duties,16 Feb 1989
+162,160293713,"Posu, Salina",F,IBIA,Household Duties,20 Apr 1985
+163,160427553,"Puki, Giame",F,IBIA,Household Duties,01 Jan 1968
+164,160427296,"Putiasi, Orepame",F,IBIA,Household Duties,01 Jan 1973
+165,160293728,"Raipa, Judy",F,IBIA,Student,30 Jun 1990
+166,160427281,"Raki, Raitame",F,IBIA,Student,01 Jan 1982
+167,160427240,"Raki, Sale",F,IBIA,Housegirl,01 Jan 1978
+168,160427241,"Rala, Tame",F,IBIA,Household Duties,01 Jan 1979
+169,160427674,"Ramane, Lopame",F,IBIA,Household Duties,01 Jan 1978
+170,160428294,"Rami, Yala",F,IBIA,Household Duties,01 Jan 1981
+171,160428310,"Randa, Angola",F,IBIA,Household Duties,01 Jan 1971
+172,160428309,"Randa, Cathy",F,IBIA,Student,01 Jan 1986
+173,160427203,"Randao, Thirisa",F,IBIA,Household Duties,01 Jan 1976
+174,160428363,"Rande, Norin",F,IBIA,Student,01 Jan 1983
+175,160428296,"Rapuny, Kelen",F,IBIA,Student,01 Jan 1980
+176,160504836,"Reketapa, Bitty",F,TAGENDAL WARIPUTI Unemployed,,20 Nov 1989
+177,160504840,"Reketapa, Lilian",F,TAGENDAL WARIPUTI Subsistence Farmer,,03 Jun 2000
+178,160427377,"Remdea, Dolly",F,IBIA,Subsistence Farmer,01 Jan 1988
+179,160428361,"Retambu, Ipisa",F,IBIA,Household Duties,01 Jan 1968
+180,160427652,"Rike, Jundy",F,IBIA,Household Duties,01 Jan 1975
+181,160427577,"Rike, Liliy",F,IBIA,Household Duties,01 Jan 1986
+182,160427599,"Rimba, Makirame",F,IBIA,Household Duties,04 Jul 1971
+183,160428325,"Ripu, Maria",F,IBIA,Household Duties,01 Jan 1958
+184,160431879,"Robin, Rachael",F,IBIA,Not Specified,03 Apr 1992
+185,160498244,"Rokuta, Nikila",F,IBIA,Household Duties,25 Oct 1990
+186,160293732,"Rombet, Morin",F,IBIA,Household Duties,26 Jun 1997
+187,160504845,"Rotu, Julien",F,TAGENDAL WARIPUTI Teacher,,16 Mar 1996
+188,160293799,"Ruma, Daien",F,IBIA,Household Duties,29 Aug 1982
+189,160427211,"Rundu, Sande",F,IBIA,Student,02 Oct 1979
+190,160427244,"Rundu, Surinogo",F,IBIA,Housegirl,01 Jan 1957
+191,160293697,"Samson, Josephine",F,IBIA,Sales Women,24 Jun 1988
+192,160504851,"Samuel, Angella",F,TAGENDAL WARIPUTI Student,,21 May 2002
+193,160427570,"Sekepa, Rimali",F,IBIA,Subsistence Farmer,04 Mar 1966
+194,160293708,"Semery, Open",F,IBIA,Household Duties,16 Dec 1986
+195,160427245,"Simon, Jentra",F,IBIA,Household Duties,01 Jan 1974
+196,160294049,"Simon, Miriam",F,IBIA,Household Duties,03 Feb 1984
+197,160504863,"Simon, Rical",F,TAGENDAL WARIPUTI Subsistence Farmer,,02 Jun 1989
+198,160504866,"Simon, Stella",F,TAGENDAL WARIPUTI Subsistence Farmer,,02 May 1999
+199,160427561,"Siyo, Judy",F,IBIA,Household Duties,11 Jul 1976
+200,160427564,"Sokola, Kapenda",F,IBIA,Household Duties,01 Mar 1962
+201,160427354,"Surubape, Sainame",F,IBIA,Housegirl,01 Jan 1987
+202,160504871,"Tamas, Betisiba",F,TAGENDAL WARIPUTI Student,,28 Apr 2004
+203,160293793,"Tomsan, Serah",F,IBIA,Sales Women,30 Nov 1997
+204,160504873,"Tomson, Besiba",F,TAGENDAL WARIPUTI Student,,28 Apr 2004
+205,160293869,"Tomson, Dorika",F,IBIA,Sales Women,13 Jun 1997
+206,160293786,"Tunu, Maria",F,IBIA,Housegirl,20 Jul 1990
+207,160427681,"Tunu, Rugulame",F,IBIA,Student,01 Jan 1987
+208,160432080,"Umbi, Miriam",F,IBIA,Household Duties,06 Mar 1996
+209,160504876,"Umbi, Simon",F,TAGENDAL WARIPUTI Subsistence Farmer,,10 Aug 1989
+210,160427499,"Wagesi, Sande",F,IBIA,Household Duties,08 Aug 1978
+211,160427355,"Walo, July",F,IBIA,Household Duties,01 Jan 1978
+212,160427465,"Wambua, Anna",F,IBIA,Household Duties,01 Jan 1974
+213,160504880,"Wando, Porome",F,TAGENDAL WARIPUTI Subsistence Farmer,,03 Jan 1987
+214,160427567,"Wane, Jonah",F,IBIA,Student,04 May 1990
+215,160293870,"Wapa, Doreen",F,IBIA,Sales Women,15 Feb 1997
+216,160293797,"Wapa, Jenipa",F,IBIA,Housegirl,05 Feb 1994
+217,160427460,"Wapu, Doroty",F,IBIA,Student,02 Jun 1990
+218,160427686,"Wapu, Raitame",F,IBIA,Student,20 Aug 1982
+219,160427684,"Wapu, Raluame",F,IBIA,Household Duties,01 Jan 1962
+220,160427162,"Wapu, Wari",F,IBIA,Student,01 Jan 1980
+221,160504887,"Warepa, Stephanie",F,TAGENDAL WARIPUTI Student,,10 Sep 1999
+222,160293820,"Wariape, Dorika",F,IBIA,Household Duties,02 Oct 1986
+223,160427141,"Wirua, Bepi",F,IBIA,Household Duties,01 Jan 1970
+224,160293789,"Yakipu, Jaylyn",F,IBIA,Housegirl,17 Feb 1996
+225,160293790,"Yakipu, Nana",F,IBIA,Housegirl,13 Apr 1998
+226,160293637,"Yakipu, Sisalia",F,IBIA,Housegirl,16 Feb 1997
+227,160504595,"Yako, Lavina",F,IBIA,Student,03 Nov 2003
+228,160427548,"Yama, Kutunu",F,IBIA,Housegirl,01 Jan 1960
+229,160504896,"Yamo, Cathy",F,TAGENDAL WARIPUTI Student,,10 Feb 2002
+230,160504898,"Yamo, Susan",F,TAGENDAL WARIPUTI Subsistence Farmer,,25 Aug 1975
+231,160427690,"Yana, Rikainu",F,IBIA,Household Duties,01 Jan 1969
+232,160427335,"Yandi, Rebika",F,IBIA,Household Duties,01 Jan 1980
+233,160504900,"Yano, Jeflita",F,TAGENDAL WARIPUTI Student,,22 Jun 2003
+234,160427455,"Yawia, Anita",F,IBIA,Household Duties,07 Jul 1966
+235,160428356,"Yawia, Heko",F,IBIA,Subsistence Farmer,02 Oct 1979
+236,160427130,"Yawia, Mali",F,IBIA,Household Duties,01 Jan 1968
+237,160504901,"Yawia, Martina",F,TAGENDAL WARIPUTI Subsistence Farmer,,18 Jul 1974
+238,160427133,"Yawia, Sisola",F,IBIA,Household Duties,01 Jan 1963
+239,160427269,"Yayapara, Sarra",F,IBIA,Household Duties,01 Jan 1959
+240,160427320,"Yogosi, Name",F,IBIA,Household Duties,03 May 1978
+241,160427736,"Yombota, Kalendame",F,IBIA,Household Duties,01 Jan 1981
+242,160428274,"Yopea, Mone",F,IBIA,Subsistence Farmer,02 Oct 1960
+243,160498050,"Aita, Anthosy",M,IAMETIGA,Student,01 Jan 2002
+244,160498054,"Aita, Desmond",M,IAMETIGA,Student,12 Apr 2004
+245,160432078,"Aita, Noah",M,IBIA,Not Specified,03 Jun 1984
+246,160293701,"Aita, Rocky",M,IBIA,Not Specified,12 Apr 1989
+247,160498064,"Albert, Ovde",M,IAMETIGA,Subsistence Farmer,16 Jun 1984
+248,160428748,"Alo, Sosek",M,IBIA,Subsistence Farmer,01 Jan 1989
+249,160498102,"Alu, Nataniel",M,IAMETIGA,Subsistence Farmer,15 Feb 1993
+250,160498104,"Alu, Nelson",M,IAMETIGA,Pastor,12 Jan 1991
+251,160427328,"Alu, Pala",M,IBIA,Subsistence Farmer,01 Jan 1977
+252,160427330,"Alu, Papara",M,IBIA,Student,01 Jan 1979
+253,160498108,"Alu, Petson",M,IAMETIGA,Student,25 Feb 1990
+254,160428303,"Alua, Kragi",M,IBIA,Subsistence Farmer,02 Oct 1976
+255,160426358,"Alumba, Frank",M,IBIA,Pastor,09 May 1969
+256,160427472,"Alupa, Ambula",M,IBIA,Subsistence Farmer,01 Jan 1984
+257,160427471,"Alupa, Duny",M,IBIA,Subsistence Farmer,01 Jan 1978
+258,160427475,"Alupa, Rambua",M,IBIA,Subsistence Farmer,01 Jan 1971
+259,160427737,"Alupa, Wanpis",M,IBIA,Subsistence Farmer,01 Jan 1984
+260,160427463,"Andalua, Wando",M,IBIA,Subsistence Farmer,01 Jan 1970
+261,160498118,"Andape, Ezikel",M,IAMETIGA,Subsistence Farmer,18 Nov 1991
+262,160498120,"Andape, Makai",M,IAMETIGA,Student,17 Sep 1994
+263,160498122,"Andape, Solomon",M,IAMETIGA,Student,06 Jul 1993
+264,160427289,"Andawe, Ima",M,IBIA,Subsistence Farmer,01 Jan 1957
+265,160427287,"Andawe, Rundu",M,IBIA,Subsistence Farmer,01 Jan 1956
+266,160498124,"Andrew, Kane",M,IAMETIGA,Public Servant,16 Oct 1990
+267,160293810,"Angurapoa, Kuta",M,IBIA,Sales Women,17 Nov 1993
+268,160427343,"Apea, Paul",M,IBIA,Subsistence Farmer,01 Jan 1987
+269,160427747,"Apea, Petros",M,IBIA,Subsistence Farmer,01 Jan 1988
+270,160498131,"Ate, Francis",M,IAMETIGA,Student,16 Apr 2004
+271,160427536,"Ate, Jack",M,IBIA,Subsistence Farmer,03 Apr 1978
+272,160498133,"Ate, Jacor",M,IAMETIGA,Student,20 Apr 2004
+273,160427540,"Ate, Kala",M,IBIA,Subsistence Farmer,02 May 1979
+274,160427197,"Ate, Naison",M,IBIA,Subsistence Farmer,04 May 1972
+275,160498141,"Ats, Jetty",M,IAMETIGA,Student,16 Apr 2003
+276,160498147,"Awape, Lesly",M,IAMETIGA,Student,15 Apr 2004
+277,160427675,"Awape, Mama",M,IBIA,Subsistence Farmer,01 Jan 1967
+278,160427152,"Awape, Nulupi",M,IBIA,Subsistence Farmer,01 Jan 1969
+279,160498153,"Awape, Yano",M,IAMETIGA,Student,25 Oct 1993
+280,160427247,"Awaro, Jenny",M,IBIA,Subsistence Farmer,01 Jan 1986
+281,160427246,"Awaro, Lora",M,IBIA,Student,01 Jan 1983
+282,160427560,"Awaro, Yako",M,IBIA,Teacher,29 Nov 1976
+283,160504603,"Bapu, Henry",M,TAGENDAL WARIPUTI Self Employed,,15 Jun 1991
+284,160504614,"Bapu, Yapi",M,TAGENDAL WARIPUTI Student,,27 Sep 2003
+285,160504625,"Benjamin, Kim",M,TAGENDAL WARIPUTI Student,,13 Jul 2003
+286,160427454,"Buru, Kuta",M,IBIA,Subsistence Farmer,06 Feb 1980
+287,160427602,"Buru, Senny",M,IBIA,Subsistence Farmer,04 Jun 1979
+288,160427603,"Buru, Soti",M,IBIA,Subsistence Farmer,10 Aug 1990
+289,160294048,"Buru, Wesley",M,IBIA,Sales Women,17 Apr 1993
+290,160427677,"Coastal, Noma",M,IBIA,Subsistence Farmer,02 Oct 1979
+291,160428752,"David, Pisipi",M,IBIA,Subsistence Farmer,02 Oct 1976
+292,160504632,"Dickson, Kipu",M,TAGENDAL WARIPUTI Subsistence Farmer,,11 Feb 1998
+293,160427459,"Didi, Roy",M,IBIA,Student,01 Jan 1990
+294,160504637,"Eea, Misak",M,TAGENDAL WARIPUTI Student,,16 Apr 2004
+295,160504638,"Eke, Ambros",M,TAGENDAL WARIPUTI Subsistence Farmer,,16 Mar 1983
+296,160293743,"Ero, Oko",M,IBIA,Sales Women,17 Jul 1994
+297,160427255,"Ewa, Gaema",M,IBIA,Student,01 Jan 1986
+298,160427711,"Ewa, Garula",M,IBIA,Subsistence Farmer,01 Jan 1975
+299,160427712,"Ewa, Pima",M,IBIA,Student,01 Jan 1983
+300,160293717,"Farman, Jeffery",M,IBIA,Sales Women,14 Nov 1984
+301,160432094,"Farman, Luther",M,IBIA,Not Specified,12 Jun 1989
+302,160427224,"Hako, Basapia",M,IBIA,Subsistence Farmer,01 Jan 1962
+303,160428793,"Hlua, Amos",M,IBIA,Subsistence Farmer,02 Oct 1969
+304,160427169,"Holopena, Jim",M,IBIA,Subsistence Farmer,06 Oct 1990
+305,160426357,"Homan, Rosa",M,IBIA,Student,01 Jan 1989
+306,160293741,"Husa, Jacob",M,IBIA,Sales Women,15 Jun 1992
+307,160504666,"Jacob, Jayson",M,TAGENDAL WARIPUTI Student,,28 Apr 2004
+308,160504683,"John, Andrew",M,TAGENDAL WARIPUTI Subsistence Farmer,,28 Apr 2004
+309,160504695,"John, Yano",M,TAGENDAL WARIPUTI Teacher,,20 Nov 1982
+310,160427563,"Kale, Domnic",M,IBIA,Subsistence Farmer,02 Feb 1983
+311,160428352,"Kale, Jacob",M,IBIA,Subsistence Farmer,03 Oct 1990
+312,160498193,"Kale, Smith",M,IAMETIGA,Student,22 Jul 1991
+313,160498195,"Kale, Waithy",M,IAMETIGA,Student,01 Jan 2004
+314,160498196,"Kale, Wan",M,IAMETIGA,Household Duties,02 Feb 1990
+315,160427223,"Kamina, Karoa",M,IBIA,Subsistence Farmer,06 Feb 1978
+316,160427180,"Kande, Mark",M,IBIA,Subsistence Farmer,05 Jun 1972
+317,160427349,"Kane, Simon",M,IBIA,Subsistence Farmer,01 Jan 1985
+318,160427544,"Kane, Wambi",M,IBIA,Subsistence Farmer,01 Jan 1976
+319,160428755,"Kapi, Arisi",M,IBIA,Plantation Worker,01 Jan 1958
+320,160427137,"Karoa, Nadisu",M,IBIA,Subsistence Farmer,01 Jan 1968
+321,160427227,"Karoa, Nalesen",M,IBIA,Subsistence Farmer,12 Oct 1969
+322,160293718,"Karoa, Vinsent",M,IBIA,Student,20 Dec 1992
+323,160427672,"Karoa, Yondo",M,IBIA,Subsistence Farmer,01 Jan 1966
+324,160428351,"Kela, Alo",M,IBIA,Subsistence Farmer,06 Sep 1956
+325,160428269,"Kela, Sensy",M,IBIA,Subsistence Farmer,02 Oct 1988
+326,160427352,"Kenda, Surubape",M,IBIA,Subsistence Farmer,01 Jan 1960
+327,160427156,"Keno, Suaya",M,IBIA,Subsistence Farmer,01 Jan 1976
+328,160428298,"Kiki, Rombo",M,IBIA,Subsistence Farmer,01 Jan 1978
+329,160428305,"Kilipia, Randa",M,IBIA,Subsistence Farmer,01 Jan 1952
+330,160428371,"Kilipia, Samson",M,IBIA,Subsistence Farmer,01 Jan 1990
+331,160428381,"Komba, Pu",M,IBIA,Subsistence Farmer,01 Jan 1976
+332,160428349,"Konomae, Gabreal",M,IBIA,Subsistence Farmer,01 Jan 1966
+333,160427214,"Kope, John",M,IBIA,Subsistence Farmer,12 Oct 1970
+334,160427607,"Kuma, Philip",M,IBIA,Subsistence Farmer,08 Mar 1959
+335,160431361,"Kuta, Remo",M,IBIA,Sales Women,16 Apr 1990
+336,160427310,"Kuta, Yope",M,IBIA,Subsistence Farmer,04 Mar 1984
+337,160293715,"Lakea, Ken",M,IBIA,Student,16 Feb 1995
+338,160427605,"Lakea, Raka",M,IBIA,Subsistence Farmer,02 Aug 1990
+339,160427573,"Lama, Peter",M,IBIA,Student,01 Jan 1986
+340,160498197,"Llopa, Jorda",M,IAMETIGA,Student,06 Jun 1992
+341,160498209,"Lopa, Liven",M,IBIA,Student,16 Apr 2003
+342,160504718,"Lopa, Misek",M,TAGENDAL WARIPUTI Unemployed,,12 Jan 1996
+343,160498200,"Lopa, Ombert",M,IAMETIGA,Student,06 Jun 1991
+344,160498201,"Lopa, Rigy",M,IAMETIGA,Subsistence Farmer,02 Feb 1996
+345,160498202,"Lopa, Stiven",M,IAMETIGA,Subsistence Farmer,01 Jan 1994
+346,160427586,"Mai, Seka",M,IBIA,Subsistence Farmer,01 Jan 1973
+347,160427147,"Maip, Luke",M,IBIA,Subsistence Farmer,01 Jan 1979
+348,160498210,"Malaki, Ruben",M,IBIA,Student,28 Apr 2004
+349,160427673,"Maliabu, Sala",M,IBIA,Pastor,01 Jan 1953
+350,160431873,"Mama, Isack",M,IBIA,Sales Women,24 Sep 1998
+351,160427376,"Mande, Junior",M,IBIA,Student,01 Jan 1989
+352,160293823,"Mariape, Jeremy",M,IBIA,Sales Women,12 Mar 1988
+353,160428336,"Marie, Norman",M,IBIA,Subsistence Farmer,05 Jun 1989
+354,160428379,"Maripaasi, Paina",M,IBIA,Subsistence Farmer,01 Jan 1960
+355,160428293,"Maripasi, Ambaly",M,IBIA,Subsistence Farmer,01 Jan 1959
+356,160427408,"Masa, Kenneth",M,IBIA,Subsistence Farmer,02 Jun 1980
+357,160428271,"Masy, Amua",M,IBIA,Subsistence Farmer,02 Oct 1957
+358,160431357,"Mendi, Francis",M,IBIA,Sales Women,02 May 1986
+359,160427138,"Mindi, Rana",M,IBIA,Subsistence Farmer,01 Jan 1986
+360,160427334,"Mirupa, Besa",M,IBIA,Subsistence Farmer,01 Jan 1969
+361,160504757,"Misek, Brendon",M,TAGENDAL WARIPUTI Student,,11 Sep 2003
+362,160427279,"Momani, Perekeapa",M,IBIA,Subsistence Farmer,01 Jan 1960
+363,160427752,"Mosa, Kevion",M,IBIA,Subsistence Farmer,06 Oct 1979
+364,160504762,"Moses, Joakim",M,TAGENDAL WARIPUTI Teacher,,25 Jan 1994
+365,160498224,"Moses, John",M,IBIA,Subsistence Farmer,30 Dec 1984
+366,160498225,"Moses, Kandep",M,IBIA,Student,10 Nov 2003
+367,160427276,"Mugu, Ande",M,IBIA,Subsistence Farmer,01 Jan 1967
+368,160427233,"Mugu, Daneil",M,IBIA,Subsistence Farmer,01 Jan 1946
+369,160427689,"Mugu, Didi",M,IBIA,Subsistence Farmer,01 Jan 1962
+370,160427717,"Mugu, Fatric",M,IBIA,Student,01 Jan 1987
+371,160498231,"Mugu, Tonny",M,IBIA,Student,25 Oct 2003
+372,160427222,"Mugu, Wapu",M,IBIA,Subsistence Farmer,01 Jan 1960
+373,160427382,"Naki, Ayamu",M,IBIA,Subsistence Farmer,05 Jun 1978
+374,160426362,"Naki, Dunstan",M,IBIA,Student,01 Jan 1986
+375,160426361,"Naki, Markson",M,IBIA,Worker,01 Jan 1979
+376,160426363,"Naki, Sonny",M,IBIA,Student,01 Jan 1989
+377,160426458,"Naki, Soti",M,IBIA,Student,01 Jan 1990
+378,160427383,"Naki, Yayamu",M,IBIA,Subsistence Farmer,06 Jun 1980
+379,160427259,"Nami, John",M,IBIA,Subsistence Farmer,01 Jan 1986
+380,160498203,"Nanape, Kane",M,IAMETIGA,Student,17 Apr 2004
+381,160427375,"Nande, Hata",M,IBIA,Student,01 Jan 1980
+382,160431880,"Napais, Aisaia",M,IBIA,Sales Women,03 Apr 1979
+383,160504773,"Nick, Pokea",M,TAGENDAL WARIPUTI Subsistence Farmer,,12 Aug 1971
+384,160504779,"Nickson, Nick",M,TAGENDAL WARIPUTI Student,,10 Jan 2004
+385,160498204,"Onde, Epeasi",M,IAMETIGA,Subsistence Farmer,26 Feb 1943
+386,160498205,"Onde, Ilai",M,IAMETIGA,Student,15 Oct 2000
+387,160427497,"Onnea, Kopeap",M,IBIA,Subsistence Farmer,10 Jun 1979
+388,160428334,"Opalo, Koyo",M,IBIA,Subsistence Farmer,01 Jan 1969
+389,160427731,"Opalu, Maria",M,IBIA,Subsistence Farmer,01 Jan 1969
+390,160427344,"Paguta, Laina",M,IBIA,Subsistence Farmer,01 Jan 1964
+391,160427200,"Paitapa, Beleke",M,IBIA,Subsistence Farmer,01 Jan 1971
+392,160427199,"Paitapa, Kuna",M,IBIA,Subsistence Farmer,26 Oct 1967
+393,160504787,"Pake, Siwi",M,TAGENDAL WARIPUTI Student,,02 Dec 1996
+394,160504789,"Pape, Robin",M,TAGENDAL WARIPUTI Student,,19 May 2003
+395,160504792,"Paul, Amos",M,TAGENDAL WARIPUTI Subsistence Farmer,,03 Jul 1971
+396,160504795,"Paul, Philemone",M,TAGENDAL WARIPUTI Student,,01 Feb 1999
+397,160431884,"Paul, Rombo",M,IBIA,Sales Women,23 Jan 1982
+398,160504803,"Peter, Erick",M,TAGENDAL WARIPUTI Student,,11 Feb 2000
+399,160504806,"Peter, Kingston",M,TAGENDAL WARIPUTI Student,,13 May 2003
+400,160504810,"Peter, Robert",M,TAGENDAL WARIPUTI Student,,10 Aug 2003
+401,160504817,"Philip, Andrew",M,TAGENDAL WARIPUTI Unemployed,,13 Sep 1992
+402,160293745,"Philip, Felix",M,IBIA,Sales Women,08 Feb 1993
+403,160427385,"Piks, Irap",M,IBIA,Subsistence Farmer,06 Apr 1982
+404,160504821,"Pinpin, Firman",M,TAGENDAL WARIPUTI Subsistence Farmer,,24 Jul 1980
+405,160427687,"Pokea, Irex",M,IBIA,Houseboy,12 Jun 1989
+406,160427176,"Pora, John",M,IBIA,Subsistence Farmer,02 Oct 1979
+407,160427179,"Pora, Kela",M,IBIA,Subsistence Farmer,06 Apr 1979
+408,160427493,"Pora, Pape",M,IBIA,Subsistence Farmer,10 Feb 1969
+409,160428347,"Puaye, Paul",M,IBIA,Subsistence Farmer,01 Jan 1964
+410,160428330,"Puka, Kiki",M,IBIA,Subsistence Farmer,01 Jan 1968
+411,160427210,"Puriri, Napirapea",M,IBIA,Subsistence Farmer,01 Jan 1960
+412,160427679,"Pusy, Bith",M,IBIA,Subsistence Farmer,12 Oct 1979
+413,160504826,"Raguna, Micah",M,TAGENDAL WARIPUTI Subsistence Farmer,,25 Jan 1981
+414,160427271,"Raki, Mesy",M,IBIA,Houseboy,01 Jan 1980
+415,160293735,"Raki, Nason",M,IBIA,Sales Women,15 Sep 1994
+416,160293737,"Raki, Rodney",M,IBIA,Sales Women,25 Dec 1989
+417,160427230,"Rala, Kuma",M,IBIA,Subsistence Farmer,12 Oct 1976
+418,160427697,"Rala, Nesa",M,IBIA,Subsistence Farmer,01 Jan 1957
+419,160427265,"Rama, Kokenea",M,IBIA,Subsistence Farmer,06 Dec 1980
+420,160427663,"Rambua, Yapison",M,IBIA,Student,01 Jan 1983
+421,160428378,"Rami, Pala",M,IBIA,Subsistence Farmer,01 Jan 1983
+422,160428307,"Randa, Francis",M,IBIA,Subsistence Farmer,01 Jan 1974
+423,160428374,"Randa, Yapi",M,IBIA,Subsistence Farmer,01 Jan 1985
+424,160426995,"Randala, Stephen",M,IBIA,Carpenter,05 Dec 1961
+425,160428280,"Rapune, Alex",M,IBIA,Subsistence Farmer,01 Jan 1962
+426,160428276,"Rapune, Thomas",M,IBIA,Not Specified,01 Jan 1958
+427,160428382,"Rapuny, Kopea",M,IBIA,Student,01 Jan 1984
+428,160428327,"Rapuny, Paka",M,IBIA,Subsistence Farmer,01 Jan 1973
+429,160428326,"Rapuny, Pumbu",M,IBIA,Subsistence Farmer,01 Jan 1971
+430,160427339,"Reketapa, Momoni",M,IBIA,Subsistence Farmer,01 Jan 1978
+431,160427338,"Reketapa, Sakarias",M,IBIA,Subsistence Farmer,01 Jan 1969
+432,160427322,"Rendea, Emo",M,IBIA,Student,08 Apr 1987
+433,160427193,"Rendea, Nana",M,IBIA,Student,12 Dec 1986
+434,160427191,"Rendea, Nara",M,IBIA,Subsistence Farmer,02 Dec 1983
+435,160427709,"Rero, Kuma",M,IBIA,Subsistence Farmer,01 Jan 1972
+436,160427250,"Rero, Laina",M,IBIA,Subsistence Farmer,01 Jan 1969
+437,160427291,"Rero, Mendo",M,IBIA,Subsistence Farmer,01 Jan 1961
+438,160293729,"Robert, James",M,IBIA,Security,14 Aug 1992
+439,160293723,"Robert, Robin",M,IBIA,Sales Women,19 Dec 1995
+440,160504841,"Roma, Andrew",M,TAGENDAL WARIPUTI Student,,21 Aug 2002
+441,160432092,"Rombet, Jacky",M,IBIA,Student,19 Sep 1989
+442,160293746,"Romert, Ropo",M,IBIA,Sales Women,08 Feb 1995
+443,160498206,"Ruben, Ipson",M,IAMETIGA,Student,03 Mar 2000
+444,160504848,"Samson, Robin",M,TAGENDAL WARIPUTI Student,,16 Feb 2001
+445,160504857,"Samuel, Luduck",M,TAGENDAL WARIPUTI Student,,10 Feb 2001
+446,160427656,"Save, Kela",M,IBIA,Subsistence Farmer,06 Feb 1954
+447,160426714,"Sera, Aibert",M,IBIA,Student,07 Apr 1987
+448,160426372,"Sera, Nadi",M,IBIA,Subsistence Farmer,09 Sep 1984
+449,160426354,"Sera, Ponde",M,IBIA,Subsistence Farmer,19 Feb 1989
+450,160293639,"Simon, Manuel",M,IBIA,Sales Women,16 Mar 1995
+451,160504860,"Simon, Remcy",M,TAGENDAL WARIPUTI Subsistence Farmer,,28 Sep 1979
+452,160504865,"Simon, Robert",M,TAGENDAL WARIPUTI Teacher,,23 Jan 1991
+453,160427351,"Stanley, Peter",M,IBIA,Student,01 Jan 1986
+454,160504869,"Stanley, Solomon",M,TAGENDAL WARIPUTI Student,,05 May 2003
+455,160427140,"Sumapu, Sarma",M,IBIA,Subsistence Farmer,01 Jan 1961
+456,160293792,"Tomsan, Joseph",M,IBIA,Sales Women,19 Jul 1996
+457,160427161,"Tunu, Kuta",M,IBIA,Student,01 Jan 1980
+458,160427158,"Tunu, Paul",M,IBIA,Student,01 Jan 1985
+459,160428328,"Utasi, Sua",M,IBIA,Subsistence Farmer,01 Jan 1968
+460,160428308,"Waiea, Yakipu",M,IBIA,Plantation Worker,01 Jan 1958
+461,160427366,"Wakea, John",M,IBIA,Subsistence Farmer,03 Apr 1970
+462,160427313,"Walaepe, Hennry yapi",M,IBIA,Plantation Worker,01 Jan 1971
+463,160427468,"Wambi, Jacob",M,IBIA,Student,01 Jan 1989
+464,160427378,"Wamea, Apae",M,IBIA,Subsistence Farmer,01 Jan 1964
+465,160427132,"Wamea, Apaye",M,IBIA,Subsistence Farmer,01 Jan 1968
+466,160504879,"Wando, Albert",M,TAGENDAL WARIPUTI Student,,19 Apr 2004
+467,160427283,"Wando, Polo",M,IBIA,Subsistence Farmer,01 Jan 1967
+468,160427699,"Wando, Rala",M,IBIA,Subsistence Farmer,01 Jan 1986
+469,160504883,"Wane, Joshua",M,TAGENDAL WARIPUTI Subsistence Farmer,,13 Jun 1989
+470,160293707,"Wane, Soty",M,IBIA,Not Specified,02 Jun 1995
+471,160293710,"Wane, Wari",M,IBIA,Student,18 Jun 1997
+472,160427274,"Wanpo, Pokea",M,IBIA,Houseboy,01 Jan 1900
+473,160504886,"Wapa, Lari",M,TAGENDAL WARIPUTI Unemployed,,08 Jun 1994
+474,160428358,"Wariape, Opa",M,IBIA,Subsistence Farmer,10 Feb 1990
+475,160293824,"Wariape, Warea",M,IBIA,Sales Women,15 May 1991
+476,160427252,"Waro, Ambula",M,IBIA,Subsistence Farmer,01 Jan 1964
+477,160293806,"Willie, Roman",M,IBIA,Sales Women,16 Mar 1997
+478,160427532,"Wirua, Rendea",M,IBIA,Subsistence Farmer,09 Jul 1968
+479,160504891,"Yagosi, Petrus",M,TAGENDAL WARIPUTI Subsistence Farmer,,25 Jan 2001
+480,160504893,"Yakipu, Tapu",M,TAGENDAL WARIPUTI Student,,28 Apr 2004
+481,160431878,"Yako, Awape",M,IBIA,Sales Women,08 Jan 1997
+482,160504894,"Yako, Bredan",M,TAGENDAL WARIPUTI Student,,27 Mar 2004
+483,160293805,"Yako, Mose",M,IBIA,Sales Women,16 Oct 1996
+484,160427458,"Yala, Misek",M,IBIA,Subsistence Farmer,02 Mar 1990
+485,160427159,"Yambu, Dainiel",M,IBIA,Houseboy,02 Oct 1980
+486,160293640,"Yano, Jokim",M,IBIA,Sales Women,04 Mar 1996
+487,160427760,"Yap, Horun",M,IBIA,Subsistence Farmer,06 Oct 1975
+488,160293721,"Yapi, Paul",M,IBIA,Sales Women,12 Jan 1986
+489,160293742,"Yapi, Yombeta",M,IBIA,Sales Women,03 Apr 1987
+490,160427369,"Yeri, Albert",M,IBIA,Subsistence Farmer,06 Mar 1987
+491,160427317,"Yogosi, Mande",M,IBIA,Student,08 Apr 1982
+492,160427691,"Yokope, Monea",M,IBIA,Houseboy,06 Dec 1980
+493,160427582,"Yombota, Mose",M,IBIA,Student,01 Jan 1990
+494,160427581,"Yombota, Paul",M,IBIA,Subsistence Farmer,01 Jan 1978
+495,160427665,"Yope, Palua",M,IBIA,Subsistence Farmer,01 Jan 1962
+496,160427268,"Yosy, Kumba",M,IBIA,Subsistence Farmer,01 Dec 1970

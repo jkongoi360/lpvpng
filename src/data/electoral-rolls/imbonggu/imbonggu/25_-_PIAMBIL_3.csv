@@ -1,0 +1,729 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160147043,"Aiyame, Engambone",F,ILTI,Household Duties,01 Jan 1972
+2,160171606,"Aiyame, Kalea",F,ILTI,Household Duties,01 Jan 1965
+3,160173167,"Aiyame, Kurume",F,ILTI,Household Duties,01 Jan 1966
+4,160165580,"Aiye, Jennie",F,ILTI,Student,01 Jan 2000
+5,160167331,"Aiye, Kuku",F,ILTI,Household Duties,01 Jan 2000
+6,160151989,"Alex, Alice",F,ILTI,Household Duties,01 Jan 1967
+7,160133281,"Alex, Dalla",F,ILTI,Student,16 Jun 1996
+8,160444036,"Alex, Dalla",F,ILTI,Student,13 May 2002
+9,160151991,"Alex, Emmelda",F,ILTI,Student,01 Jan 1987
+10,160132977,"Alex, Jelina",F,ILTI,Sales Women,26 Jul 1998
+11,160165281,"Alex, Tivinni",F,ILTI,Student,01 Jan 1985
+12,160444497,"Amos, Freda",F,ILTI,Household Duties,05 Oct 1997
+13,160133077,"Amos, Linda",F,ILTI,Student,30 Dec 1994
+14,160153095,"Amos, Mellon wanne",F,ILTI,Pastor,01 Jan 1974
+15,160165078,"Andrew, Annita",F,ILTI,Student,01 Jan 2000
+16,160165134,"Andrew, Anumu",F,ILTI,Household Duties,01 Jan 2000
+17,160165213,"Andrew, Charithy",F,ILTI,Student,01 Jan 2000
+18,160165164,"Andrew, Oiye",F,ILTI,Student,01 Jan 2000
+19,160443905,"Anjo, Linet",F,ILTI,Student,14 Sep 2002
+20,160443909,"Anjo, Miriam",F,ILTI,Student,18 Dec 2000
+21,160443907,"Anjo, Semila",F,ILTI,Student,18 Oct 2003
+22,160132918,"Anju, Veronica",F,ILTI,Sales Women,04 Aug 1995
+23,160147051,"Aruru, Jenifa",F,ILTI,Household Duties,01 Jan 1983
+24,160152087,"Bepi, Emly",F,ILTI,Student,01 Jan 1978
+25,160151491,"Bepi, Esta",F,ILTI,Student,01 Jan 1988
+26,160203819,"Bepi, Pena",F,ILTI,Household Duties,01 Jan 1979
+27,160171572,"Betty, Benna",F,ILTI,Household Duties,01 Jan 1982
+28,160171605,"Bohoti, Lembo",F,ILTI,Store Keeper,01 Jan 1974
+29,160173184,"Bohoti, Mopune",F,ILTI,Household Duties,01 Jan 1966
+30,160171607,"Bohoti, Rahabith",F,ILTI,Student,01 Jan 1988
+31,160168956,"Boke, Melinda",F,ILTI,Household Duties,01 Jan 1976
+32,160171237,"Bolli, Ulu",F,ILTI,Household Duties,01 Jan 1959
+33,160443592,"Bonney, Georgina",F,ILTI,Student,28 Apr 2004
+34,160165705,"Bonoli, Marolin",F,ILTI,Student,01 Jan 2000
+35,160171418,"Bope, Makoi",F,ILTI,Household Duties,01 Jan 1965
+36,160171450,"Bos, Bepi",F,ILTI,Household Duties,01 Jan 1969
+37,160165616,"Boti, Rote",F,ILTI,Household Duties,01 Jan 2000
+38,160171702,"Boti, Toiyombo",F,ILTI,Self Employed,01 Jan 1980
+39,160173077,"Buka, Magaret",F,ILTI,Student,01 Jan 1981
+40,160168012,"Buka, Pinza",F,ILTI,Student,01 Jan 1988
+41,160133149,"Bulde, Cerolyn",F,ILTI,Student,20 Jun 1995
+42,160444484,"Bune, Shemila",F,ILTI,Household Duties,17 Aug 1998
+43,160443792,"Chris, Elina",F,ILTI,Student,02 Jan 2004
+44,160444016,"Daive, Toy",F,ILTI,Student,16 Jun 2001
+45,160165518,"Ekare, Yuna",F,ILTI,Household Duties,01 Jan 1965
+46,160443980,"Ekep, Lilly",F,ILTI,Student,05 Jul 2003
+47,160152155,"Emba, Takambo",F,ILTI,Household Duties,01 Jan 1987
+48,160147884,"Endia, Alison",F,ILTI,Student,01 Jan 2000
+49,160147885,"Endia, Bee-clad",F,ILTI,Student,01 Jan 2000
+50,160165764,"Erick, Tana",F,ILTI,Student,01 Jan 2000
+51,160443904,"Everlyn, Jacob",F,ILTI,Household Duties,11 Jun 2003
+52,160132790,"Fabian, Cheroty",F,ILTI,Sales Women,03 Feb 1991
+53,160132792,"Fabian, Fidilema",F,ILTI,Sales Women,11 Dec 1996
+54,160443717,"Fembi, Fedlima",F,ILTI,Student,22 Aug 2003
+55,160132791,"Fiabian, Cherelyn",F,ILTI,Sales Women,11 Dec 1993
+56,160151992,"Gilbert, Mary",F,ILTI,Household Duties,01 Jan 1972
+57,160444492,"Gilbert, Sandy",F,ILTI,Household Duties,13 Aug 2001
+58,160443886,"Gilbert, Selly",F,ILTI,Student,16 Aug 2003
+59,160206392,"Gilbet, Kerolin",F,ILTI,Household Duties,01 Jan 1979
+60,160146978,"James, Nancy",F,ILTI,Household Duties,01 Jan 1987
+61,160155937,"James, Noile",F,ILTI,Household Duties,01 Jan 1955
+62,160203760,"James, Orokoi",F,ILTI,Subsistence Farmer,01 Jan 1978
+63,160444487,"Jeffery, Anita",F,ILTI,Household Duties,14 Aug 2001
+64,160167964,"John, Anna",F,ILTI,Household Duties,01 Jan 1983
+65,160133001,"John, Cathy",F,ILTI,Household Duties,14 Mar 1994
+66,160444444,"John, Elin",F,ILTI,Household Duties,20 Sep 1995
+67,160167910,"John, Grace mapir",F,ILTI,Student,01 Jan 1990
+68,160136119,"John, Jeon",F,ILTI,Sales Women,12 Apr 1999
+69,160443889,"John, Joan",F,ILTI,Student,14 May 2002
+70,160444457,"John, Jolina",F,ILTI,Household Duties,04 Aug 1994
+71,160443891,"John, Joy",F,ILTI,Student,17 Aug 2003
+72,160168051,"John, Pene",F,ILTI,Subsistence Farmer,01 Jan 1976
+73,160156015,"John, Rosa",F,ILTI,Household Duties,01 Jan 1946
+74,160171583,"John, Rosana",F,ILTI,Household Duties,01 Jan 1988
+75,160443818,"John, Rose",F,ILTI,Household Duties,19 Aug 2002
+76,160443895,"Johnson, Esla",F,ILTI,Student,12 Oct 2001
+77,160151738,"Kaku, Kumbie",F,ILTI,Household Duties,01 Jan 1974
+78,160136074,"Kamuge, Britney",F,ILTI,Student,17 Jan 1999
+79,160204000,"Kamunge, Mumere",F,ILTI,Household Duties,01 Jan 1950
+80,160171415,"Kandie, Lepa",F,ILTI,Household Duties,01 Jan 1982
+81,160165523,"Kane, Faith",F,ILTI,Household Duties,01 Jan 2000
+82,160169120,"Kane, Mele",F,ILTI,Household Duties,01 Jan 1980
+83,160133006,"Karapoi, Josephine",F,ILTI,Household Duties,17 Mar 1994
+84,160171282,"Keleme, Lucy",F,ILTI,Household Duties,01 Jan 1972
+85,160173019,"Kelepali, Holambo",F,ILTI,Household Duties,01 Jan 1981
+86,160173052,"Kelepali, Pawa",F,ILTI,Household Duties,01 Jan 1982
+87,160173055,"Kelepali, Piti",F,ILTI,Housegirl,01 Jan 1986
+88,160171453,"Kelepali, Weiyambo",F,ILTI,Household Duties,01 Jan 1990
+89,160133180,"Kelly, Anne",F,ILTI,Household Duties,16 Sep 1987
+90,160203791,"Kelly, Anny",F,ILTI,Household Duties,01 Jan 1979
+91,160444452,"Kelly, Grace",F,ILTI,Household Duties,09 Oct 1996
+92,160163514,"Kelly, Kepa",F,ILTI,Student,01 Jan 2000
+93,160163370,"Kelly, Ketty",F,ILTI,Student,01 Jan 2000
+94,160163508,"Kelly, Ponege",F,ILTI,Household Duties,01 Jan 2000
+95,160133132,"Kelly, Shelly",F,ILTI,Student,20 Jun 1997
+96,160206246,"Kembo, Mitana",F,ILTI,Household Duties,01 Jan 1975
+97,160165581,"Kemboldo, Rose",F,ILTI,Household Duties,01 Jan 1980
+98,160167332,"Kemboldo, Yauge",F,ILTI,Student,01 Jan 1987
+99,160168961,"Kilipe, Rose",F,ILTI,Household Duties,01 Jan 1978
+100,160151659,"Kilts, Saina",F,ILTI,Household Duties,01 Jan 1963
+101,160171238,"Kiluwa, Veronica",F,ILTI,Household Duties,01 Jan 1975
+102,160164931,"Kimbe, Agnes",F,ILTI,Household Duties,01 Jan 2000
+103,160501183,"Kimbe, Maria",F,ILTI,Student,20 May 2003
+104,160165239,"Kimbe, Selyen",F,ILTI,Student,01 Jan 2000
+105,160165181,"Kimbe, Semila",F,ILTI,Student,01 Jan 2000
+106,160206250,"Kimne, Wana",F,ILTI,Student,01 Jan 1960
+107,160171479,"Kimu, Kewambo",F,ILTI,Household Duties,01 Jan 1960
+108,160443569,"Kiniwi, Bervelyn",F,ILTI,Subsistence Farmer,20 Apr 2004
+109,160206477,"Kiniwi, Wandea",F,ILTI,Household Duties,01 Jan 1959
+110,160206382,"Kinjap, Yali",F,ILTI,Household Duties,01 Jan 1962
+111,160444298,"Kit, Joyclyn",F,ILTI,Student,28 Feb 2001
+112,160169308,"Kiwa, Kaiku",F,ILTI,Household Duties,01 Jan 1972
+113,160168942,"Kiwa, Kakena",F,ILTI,Household Duties,01 Jan 1971
+114,160136097,"Kiyapa, Tunde",F,ILTI,Subsistence Farmer,20 Apr 1988
+115,160203997,"Koeka, Rapdi",F,ILTI,Household Duties,01 Jan 1970
+116,160151970,"Koi, Kegena",F,ILTI,Household Duties,01 Jan 1961
+117,160152085,"Koi, Peyana",F,ILTI,Household Duties,01 Jan 1964
+118,160163477,"Koika, Miss",F,ILTI,Household Duties,01 Jan 1971
+119,160171524,"Koim, Kuli",F,ILTI,Nurse,01 Jan 1974
+120,160163480,"Koim, Rape",F,ILTI,Household Duties,01 Jan 1975
+121,160171586,"Kol, Alice",F,ILTI,Student,01 Jan 1989
+122,160171548,"Kol, Janny",F,ILTI,Student,01 Jan 1985
+123,160171552,"Kol, Linda",F,ILTI,Household Duties,01 Jan 1979
+124,160206384,"Koldop, Clara",F,ILTI,Household Duties,01 Jan 1969
+125,160163347,"Koldop, Kena",F,ILTI,Household Duties,01 Jan 1977
+126,160165125,"Koldop, Rosa",F,ILTI,Household Duties,01 Jan 1978
+127,160172067,"Kolopa, Luther",F,ILTI,Household Duties,01 Jan 1983
+128,160167990,"Kolopu, Glenda",F,ILTI,Household Duties,01 Jan 1979
+129,160444322,"Kolowa, Sandy",F,ILTI,Student,24 May 2002
+130,160171531,"Kolwama, Dorothy",F,ILTI,Household Duties,01 Jan 1979
+131,160206254,"Koma, Aklai",F,ILTI,Student,01 Jan 1968
+132,160173076,"Koma, Wila",F,ILTI,Household Duties,01 Jan 1963
+133,160132898,"Komon, Esther",F,ILTI,Student,16 Mar 1999
+134,160132896,"Komon, Lenita",F,ILTI,Student,14 Jun 1998
+135,160136264,"Komon, Lina",F,ILTI,Not Specified,03 Jan 1984
+136,160169379,"Konde, Miriam",F,ILTI,Student,01 Jan 1987
+137,160169373,"Konde, Mune",F,ILTI,Household Duties,01 Jan 1963
+138,160147937,"Kopu, Kopele",F,ILTI,Household Duties,01 Jan 1957
+139,160204409,"Koraipe, Kanoino",F,ILTI,Household Duties,01 Jan 1960
+140,160444266,"Korape, Beauthy",F,ILTI,Student,28 Nov 2002
+141,160168989,"Korea, Melisha",F,ILTI,Student,01 Jan 1982
+142,160168981,"Korea, Rebeca",F,ILTI,Household Duties,01 Jan 1981
+143,160155946,"Kowa, Kamele",F,ILTI,Household Duties,01 Jan 2000
+144,160444407,"Kowa, Samela",F,ILTI,Student,03 May 2002
+145,160168733,"Kuimb, Lusi",F,ILTI,Household Duties,01 Jan 1964
+146,160168739,"Kuimb, Mary",F,ILTI,Household Duties,01 Jan 1970
+147,160148009,"Kuku, Mukebe",F,ILTI,Household Duties,01 Jan 1967
+148,160172082,"Kuldain, Mets",F,ILTI,Household Duties,01 Jan 1972
+149,160206278,"Kumbulu, Tarapi",F,ILTI,Household Duties,01 Jan 1970
+150,160204406,"Kuna, Elis",F,ILTI,Household Duties,01 Jan 1983
+151,160444451,"Kundi, Lewa",F,ILTI,Household Duties,08 Mar 1999
+152,160171671,"Kungil, Anna",F,ILTI,Household Duties,01 Jan 1980
+153,160168937,"Kuni, Glendis",F,ILTI,Household Duties,01 Jan 1970
+154,160168938,"Kuni, Lucy",F,ILTI,Household Duties,01 Jan 1974
+155,160169310,"Kuni, Wanpis",F,ILTI,Household Duties,01 Jan 1982
+156,160171534,"Kup, Wand",F,ILTI,Typist,01 Jan 1979
+157,160171369,"Kupal, Kelai",F,ILTI,Household Duties,01 Jan 1965
+158,160171371,"Kupal, Olilop",F,ILTI,Household Duties,01 Jan 1968
+159,160156179,"Kupini, Yuwini",F,ILTI,Household Duties,01 Jan 1971
+160,160172986,"Kupo, Josephine",F,ILTI,Student,01 Jan 1982
+161,160165234,"Kupo, Kilembo",F,ILTI,Household Duties,01 Jan 1985
+162,160147926,"Kupo, Nindipo",F,ILTI,Household Duties,01 Jan 1975
+163,160146980,"Kupunab, Kuli",F,ILTI,Household Duties,01 Jan 1974
+164,160172078,"Kurume, Lina",F,ILTI,Household Duties,01 Jan 1970
+165,160165135,"Mark, Maria",F,ILTI,Household Duties,01 Jan 1981
+166,160136116,"Mark, Melen",F,ILTI,Sales Women,20 Nov 1997
+167,160444141,"Mark, Melisa",F,ILTI,Student,05 Jan 2002
+168,160444005,"Mark, Melodi",F,ILTI,Student,23 Feb 2002
+169,160443892,"Mark, Melondy",F,ILTI,Student,15 Nov 2001
+170,160151597,"Mark, Monica",F,ILTI,Household Duties,01 Jan 1969
+171,160132922,"Mark, Rose",F,ILTI,Sales Women,13 Sep 1977
+172,160444460,"Mark, Silvia",F,ILTI,Household Duties,13 Nov 1998
+173,160132812,"Mark, Tency",F,ILTI,Household Duties,29 Aug 1991
+174,160203788,"Martin, Dao",F,ILTI,Household Duties,01 Jan 1970
+175,160165223,"Mas, Sent",F,ILTI,Household Duties,01 Jan 1972
+176,160165318,"Mondo, Carlyne",F,ILTI,Student,01 Jan 1985
+177,160136254,"Mondo, Emmy",F,ILTI,Student,03 Jun 1997
+178,160165315,"Mondo, Enny",F,ILTI,Student,01 Jan 1981
+179,160165077,"Mondo, Kapino",F,ILTI,Student,01 Jan 1988
+180,160133275,"Mondo, Lioney",F,ILTI,Student,02 May 1995
+181,160444168,"Mondo, Liony",F,ILTI,Student,09 Feb 2001
+182,160157338,"Mondo, Lucy",F,ILTI,Student,01 Jan 1988
+183,160165287,"Mondo, Lucy",F,ILTI,Household Duties,01 Jan 1979
+184,160204015,"Mondo, Magrin",F,ILTI,Household Duties,01 Jan 1964
+185,160165074,"Mondo, Merlyn",F,ILTI,Student,01 Jan 1983
+186,160165526,"Mondo, Nali",F,ILTI,Household Duties,01 Jan 1978
+187,160157466,"Mondo, Rebecca",F,ILTI,Household Duties,01 Jan 1967
+188,160146970,"Namba, Ania",F,ILTI,Household Duties,01 Jan 1973
+189,160163485,"Namba, Belinda",F,ILTI,Student,01 Jan 1988
+190,160443929,"Namba, Belinda",F,ILTI,Student,14 Jun 2001
+191,160169213,"Namba, Betty",F,ILTI,Household Duties,01 Jan 2000
+192,160165124,"Namba, Jepet",F,ILTI,Student,01 Jan 1984
+193,160164945,"Namba, Joy",F,ILTI,Household Duties,01 Jan 2000
+194,160172079,"Namba, Lewa",F,ILTI,Household Duties,01 Jan 2000
+195,160136114,"Namba, Matina",F,ILTI,Sales Women,08 Apr 1995
+196,160165158,"Namba, Mopune",F,ILTI,Household Duties,01 Jan 1972
+197,160163342,"Namba, Nepie",F,ILTI,Household Duties,01 Jan 2000
+198,160443601,"Namba, Sharon",F,ILTI,Student,28 Jan 2004
+199,160204548,"Namba, Surubu",F,ILTI,Household Duties,01 Jan 1975
+200,160171527,"Namba, Walep",F,ILTI,Household Duties,01 Jan 1979
+201,160171682,"Namba, Wape",F,ILTI,Household Duties,01 Jan 1948
+202,160146975,"Ninipe, Mark",F,ILTI,Subsistence Farmer,01 Jan 1965
+203,160146974,"Ninipe, Susan",F,ILTI,Household Duties,01 Jan 1973
+204,160148108,"Ninipe, Wane",F,ILTI,Subsistence Farmer,01 Jan 1978
+205,160167919,"Ninze, Betty",F,ILTI,Household Duties,01 Jan 1973
+206,25123187,"Pila, Cathy",F,ILTI,Accountant,28 Apr 1983
+207,160165321,"Pileli, Mune",F,ILTI,Household Duties,01 Jan 2000
+208,160165218,"Pileli, Pilawa",F,ILTI,Household Duties,01 Jan 2000
+209,160168118,"Pilge, Bonongo",F,ILTI,Household Duties,01 Jan 1973
+210,160171700,"Pili, Tende",F,ILTI,Security,01 Jan 1946
+211,160146946,"Raikie, Rami",F,ILTI,Household Duties,01 Jan 1962
+212,160168871,"Rakie, July",F,ILTI,Household Duties,01 Jan 1983
+213,160168870,"Rakie, Mala",F,ILTI,Household Duties,01 Jan 1977
+214,160206292,"Rami, Edwik",F,ILTI,Household Duties,01 Jan 1974
+215,160206479,"Rami, Eplin",F,ILTI,Household Duties,01 Jan 1983
+216,160444332,"Rami, Joy",F,ILTI,Student,27 Mar 2001
+217,160443687,"Ranje, Belinda",F,ILTI,Student,03 Aug 2002
+218,160204240,"Ranje, Lewa",F,ILTI,Household Duties,01 Jan 1978
+219,160147924,"Rex, Cathy",F,ILTI,Household Duties,01 Jan 1986
+220,160444500,"Ricky, Shally",F,ILTI,Household Duties,12 May 2000
+221,160165132,"Rilaipi, Tiri",F,ILTI,Household Duties,01 Jan 1979
+222,160444448,"Robert, Joan",F,ILTI,Typist,06 Jan 1995
+223,160167330,"Robert, Magaret",F,ILTI,Household Duties,01 Jan 1970
+224,160132931,"Robert, Rebecca",F,ILTI,Household Duties,20 Dec 1998
+225,160171467,"Rosa, Ninge",F,ILTI,Household Duties,01 Jan 1982
+226,160153099,"Rosa, Ponge",F,ILTI,Worker,01 Jan 1961
+227,160156045,"Rot, Rosly",F,ILTI,Housegirl,01 Jan 2000
+228,160165417,"Ruabil, Flora",F,ILTI,Student,01 Jan 1984
+229,160168133,"Ruabil, Maria",F,ILTI,Household Duties,01 Jan 1974
+230,160165845,"Sai, Missi",F,ILTI,Student,01 Jan 1987
+231,160443903,"Sam, Salian",F,ILTI,Student,04 Aug 2002
+232,160443875,"Sam, Selina",F,ILTI,Student,14 Oct 2003
+233,160443902,"Sam, Semila",F,ILTI,Student,14 Oct 2002
+234,160132936,"Same, Rose",F,ILTI,Sales Women,26 Nov 1998
+235,160168927,"Samson, Jean",F,ILTI,Household Duties,01 Jan 1970
+236,160132891,"Samuel, Bepi",F,ILTI,Household Duties,21 Feb 1986
+237,160132893,"Samuel, Lilly",F,ILTI,Student,14 Mar 1995
+238,160132894,"Samuel, Lina",F,ILTI,Student,03 Feb 1999
+239,160444114,"Samuel, Rebicca",F,ILTI,Student,17 May 2003
+240,160153735,"Samuel, Tope",F,ILTI,Household Duties,01 Jan 1971
+241,160444200,"Talen, Semila",F,ILTI,Student,18 Mar 2004
+242,160133053,"Tambalupa, Merolyn",F,ILTI,Household Duties,13 Oct 1989
+243,160203995,"Tangele, Kundi",F,ILTI,Household Duties,01 Jan 1954
+244,160147957,"Tangele, Ritah",F,ILTI,Household Duties,01 Jan 1970
+245,160171458,"Tano, Freida",F,ILTI,Household Duties,01 Jan 2000
+246,160167914,"Tano, Kendo",F,ILTI,Household Duties,01 Jan 1983
+247,160164940,"Tano, Litha",F,ILTI,Household Duties,01 Jan 1979
+248,160147044,"Tano, Mote",F,ILTI,Household Duties,01 Jan 1970
+249,160169393,"Tano, Paula",F,ILTI,Household Duties,01 Jan 1973
+250,160444405,"Tano, Pilawa",F,ILTI,Household Duties,05 Sep 2000
+251,160165122,"Tano, Sosily",F,ILTI,Student,01 Jan 1982
+252,160444475,"Tapoiye, Wali",F,ILTI,Teacher,18 Jun 1994
+253,160202224,"Tapu, Kija",F,ILTI,Household Duties,01 Jan 1960
+254,160173026,"Tapure, Mata",F,ILTI,Household Duties,01 Jan 1968
+255,160203767,"Tapya, Moni",F,ILTI,Household Duties,01 Jan 1969
+256,160168613,"Taroiye, Clancy",F,ILTI,Student,01 Jan 2000
+257,160167927,"Tau, Rebeca",F,ILTI,Household Duties,01 Jan 2000
+258,160444463,"Tawa, Liony",F,ILTI,Household Duties,02 Mar 1998
+259,160169051,"Tekadoi, Merolin",F,ILTI,Student,01 Jan 1988
+260,160444459,"Telo, Cathy",F,ILTI,Household Duties,02 Jul 1998
+261,160156408,"Temambo, Taru",F,ILTI,Household Duties,01 Jan 1936
+262,160173008,"Tembon, Bepi",F,ILTI,Household Duties,01 Jan 1979
+263,160171608,"Tembon, Mase",F,ILTI,Household Duties,01 Jan 1948
+264,160171433,"Tembon, Tongo",F,ILTI,Household Duties,01 Jan 1984
+265,160167333,"Temo, Ipin",F,ILTI,Household Duties,01 Jan 1944
+266,160165583,"Temo, Parin debra",F,ILTI,Household Duties,01 Jan 1972
+267,160167326,"Temta, Ambili",F,ILTI,Household Duties,01 Jan 2000
+268,160133034,"Tene, Julie",F,ILTI,Student,16 Oct 1998
+269,160168993,"Tene, Wangi",F,ILTI,Subsistence Farmer,01 Jan 1976
+270,160153719,"Tepasi, Saina",F,ILTI,Household Duties,01 Jan 1971
+271,160133042,"Tepatoli, Julie",F,ILTI,Household Duties,13 May 1995
+272,160167996,"Tepnis, Wepem",F,ILTI,Household Duties,01 Jan 1980
+273,160443655,"Tepora, Kally",F,ILTI,Student,07 Sep 2003
+274,160153788,"Tepra, Maria",F,ILTI,Student,01 Jan 1974
+275,160153789,"Tepra, Miss",F,ILTI,Student,01 Jan 1977
+276,160146968,"Tepu, Agiri",F,ILTI,Household Duties,01 Jan 1980
+277,160148106,"Tepu, Nondem",F,ILTI,Household Duties,01 Jan 1969
+278,160146987,"Tepul, Toropo",F,ILTI,Household Duties,01 Jan 1947
+279,160203941,"Terema, Wendy",F,ILTI,Household Duties,01 Jan 1969
+280,160168743,"Terry, Linda",F,ILTI,Household Duties,01 Jan 1984
+281,160163360,"Teru, Kemboli",F,ILTI,Subsistence Farmer,01 Jan 1934
+282,160203776,"Timbil, Kiniye",F,ILTI,Household Duties,01 Jan 1956
+283,160151646,"Timbil, Miss",F,ILTI,Household Duties,01 Jan 1970
+284,160204486,"Timbil, Rechael",F,ILTI,Household Duties,01 Jan 1984
+285,160152100,"Timinte, Jerry",F,ILTI,Household Duties,01 Jan 2000
+286,160163507,"Tiri, Nancy",F,ILTI,Student,01 Jan 1987
+287,160151651,"Tisip, Marukul",F,ILTI,Student,01 Jan 1986
+288,160151721,"Tisip, Neka",F,ILTI,Student,01 Jan 1990
+289,160151723,"Tisip, Puka",F,ILTI,Household Duties,01 Jan 1982
+290,160133115,"Titus, Brenda",F,ILTI,Student,17 Aug 1999
+291,160133131,"Titus, Sovina",F,ILTI,Student,06 Feb 1996
+292,160133112,"Titus, Teniambo",F,ILTI,Household Duties,17 Apr 1990
+293,160169204,"Tiwi, Betty",F,ILTI,Household Duties,01 Jan 1976
+294,160168009,"Tiwi, Nemelambo",F,ILTI,Household Duties,01 Jan 1936
+295,160443616,"Tomaiye, Sapina",F,ILTI,Subsistence Farmer,16 Aug 2001
+296,160443615,"Tomaiye, Topina",F,ILTI,Student,20 Sep 2003
+297,160146985,"Tomambo, Maine",F,ILTI,Household Duties,01 Jan 1959
+298,160168893,"Tomano, Mari",F,ILTI,Household Duties,01 Jan 1974
+299,160165422,"Tombeyapl, Josphihe",F,ILTI,Household Duties,01 Jan 1969
+300,160444045,"Tombo, Sherol",F,ILTI,Student,08 Jun 2003
+301,160204679,"Tombu, Oiembo",F,ILTI,Household Duties,01 Jan 1953
+302,160204545,"Tomoiye, Jenet",F,ILTI,Household Duties,01 Jan 1982
+303,160203771,"Tomoiye, Mareye",F,ILTI,Household Duties,01 Jan 1978
+304,160444470,"Tomothy, Soti",F,ILTI,Household Duties,10 Oct 1998
+305,160153721,"Toringi, Andoiye laphina",F,ILTI,Household Duties,01 Jan 1976
+306,160132990,"Toringi, Anny",F,ILTI,Household Duties,08 Sep 1992
+307,160168578,"Toringi, Jackey",F,ILTI,Student,01 Jan 1987
+308,160165405,"Toringi, Kepu",F,ILTI,Household Duties,01 Jan 2000
+309,160136143,"Toringi, Lewa",F,ILTI,Sales Women,05 Apr 1999
+310,160132966,"Torinngi, Lucky",F,ILTI,Sales Women,05 Apr 1999
+311,160165188,"Toro, Jackelyn",F,ILTI,Household Duties,01 Jan 1979
+312,160169001,"Torobe, Nancy",F,ILTI,Household Duties,01 Jan 1980
+313,160163400,"Toroiye, Jullie",F,ILTI,Subsistence Farmer,01 Jan 1976
+314,160165118,"Toroiye, Lus",F,ILTI,Subsistence Farmer,01 Jan 1978
+315,160165182,"Toroiye, Molupi",F,ILTI,Household Duties,01 Jan 1940
+316,160156480,"Toroli, Kiniye",F,ILTI,Household Duties,01 Jan 2000
+317,160168572,"Torombe, Tina",F,ILTI,Student,01 Jan 1989
+318,160204006,"Tosidil, Jaipe",F,ILTI,Household Duties,01 Jan 1975
+319,160151730,"Tosop, Kena",F,ILTI,Household Duties,01 Jan 1974
+320,160203808,"Toumba, Jennpa",F,ILTI,Typist,01 Jan 1981
+321,160203906,"Towa, Mol",F,ILTI,Household Duties,01 Jan 1966
+322,160203823,"Towa, Nodel",F,ILTI,Student,01 Jan 1985
+323,160203908,"Towa, Walg",F,ILTI,Typist,01 Jan 1982
+324,160171581,"Toya, Makoi",F,ILTI,Household Duties,01 Jan 1982
+325,160151464,"Tumba, Note",F,ILTI,Household Duties,01 Jan 2000
+326,160206289,"Tumba, Rose",F,ILTI,Household Duties,01 Jan 1966
+327,160165217,"Tumbo, Kani",F,ILTI,Subsistence Farmer,01 Jan 1970
+328,160165086,"Tumbo, Pileli",F,ILTI,Household Duties,01 Jan 1963
+329,160165088,"Tumbo, Pilge",F,ILTI,Household Duties,01 Jan 1968
+330,160165090,"Tumbo, Sharon",F,ILTI,Subsistence Farmer,01 Jan 1984
+331,160133038,"Tumbu, Senis",F,ILTI,Not Specified,29 Apr 1994
+332,160133039,"Tumbu, Serah",F,ILTI,Student,14 Feb 1998
+333,160165288,"Tunda, Kerowa",F,ILTI,Household Duties,01 Jan 1952
+334,160165159,"Tunda, Opa",F,ILTI,Subsistence Farmer,01 Jan 1985
+335,160206631,"Tupai, Teni",F,ILTI,Household Duties,01 Jan 1964
+336,160204250,"Turi, Wandea",F,ILTI,Household Duties,01 Jan 1958
+337,160163482,"Turukano, Apiri",F,ILTI,Household Duties,01 Jan 1967
+338,160163348,"Turulano, Tawambo",F,ILTI,Household Duties,01 Jan 1966
+339,160163346,"Turulano, Wainembo",F,ILTI,Household Duties,01 Jan 1965
+340,160151483,"Wane, Christina",F,ILTI,Student,01 Jan 1978
+341,160152106,"Wane, Ganji",F,ILTI,Household Duties,01 Jan 1976
+342,160148125,"Wane, Kenda",F,ILTI,Household Duties,01 Jan 1977
+343,160152081,"Wane, Kinja",F,ILTI,Teacher,01 Jan 2000
+344,160152109,"Wane, Lessie",F,ILTI,Student,01 Jan 1985
+345,160136081,"Wane, Margret",F,ILTI,Housegirl,11 Feb 1984
+346,160151487,"Wane, Milinda",F,ILTI,Student,01 Jan 2000
+347,160151489,"Wane, Misail",F,ILTI,Student,01 Jan 2000
+348,160157464,"Wane, Mopune",F,ILTI,Household Duties,01 Jan 1969
+349,160151663,"Wane, Senndy",F,ILTI,Student,01 Jan 2000
+350,160443738,"Wane, Soti",F,ILTI,Subsistence Farmer,03 Apr 2002
+351,160151969,"Wane, Telma",F,ILTI,Pilot,01 Jan 2000
+352,160152084,"Wane, Welma",F,ILTI,Self Employed,01 Jan 2000
+353,160172999,"Yala, Kelen",F,ILTI,Household Duties,01 Jan 1973
+354,160168029,"Yala, Kuji",F,ILTI,Household Duties,01 Jan 1972
+355,160171611,"Yala, Kuty",F,ILTI,Household Duties,01 Jan 1980
+356,160171615,"Yala, Miriam",F,ILTI,Household Duties,01 Jan 1982
+357,160204401,"Yala, Weyapi",F,ILTI,Household Duties,01 Jan 1969
+358,160151614,"Yama, Mingapui",F,ILTI,Household Duties,01 Jan 1981
+359,160151715,"Yama, Tuna",F,ILTI,Student,01 Jan 1986
+360,160444435,"Yawa, Beip",F,ILTI,Nurse,21 Nov 1997
+361,160163194,"Yawa, Esther",F,ILTI,Student,01 Jan 2000
+362,160132789,"Yawa, Jennifer",F,ILTI,Household Duties,26 Nov 1996
+363,160443843,"Yawa, Maria",F,ILTI,Student,16 May 2003
+364,160163354,"Yawa, Nena",F,ILTI,Household Duties,01 Jan 2000
+365,160163197,"Yawa, Solomi",F,ILTI,Student,01 Jan 2000
+366,160132912,"Yawa, Solomi",F,ILTI,Sales Women,16 Oct 1998
+367,160443915,"Yawa, Solomi",F,ILTI,Student,14 Oct 2001
+368,160163492,"Yawa, Susan",F,ILTI,Household Duties,01 Jan 2000
+369,160165037,"Aiya, Alex",M,ILTI,Pastor,01 Jan 1964
+370,160165771,"Aiya, Francis",M,ILTI,Doctor,01 Jan 1960
+371,160151497,"Akipa, Kiapa",M,ILTI,Subsistence Farmer,01 Jan 1957
+372,160151495,"Akipa, Lak",M,ILTI,Subsistence Farmer,01 Jan 1974
+373,160151576,"Akipa, Lak",M,ILTI,Subsistence Farmer,01 Jan 1956
+374,160151493,"Akipa, Lok",M,ILTI,Subsistence Farmer,01 Jan 1969
+375,160151578,"Akipa lo, Laki",M,ILTI,Subsistence Farmer,01 Jan 1966
+376,160132976,"Alex, Justin",M,ILTI,Dental Therapist,28 Feb 1989
+377,160133282,"Alex, Raiya",M,ILTI,Student,05 Mar 1998
+378,160444033,"Alex, Raiya",M,ILTI,Student,04 Jun 2003
+379,160444030,"Amos, Cliff",M,ILTI,Student,19 Feb 2001
+380,160133279,"Amos, Cliff",M,ILTI,Student,03 Feb 1998
+381,160136065,"Amos, Cliford",M,ILTI,Student,02 May 1997
+382,160444028,"Amos, Nekiye",M,ILTI,Student,10 Apr 2003
+383,160443849,"Amos, Stanly",M,ILTI,Student,10 Dec 2001
+384,160165611,"Andoiye, Wane",M,ILTI,Subsistence Farmer,01 Jan 2000
+385,160165085,"Andrew, Gibson",M,ILTI,Subsistence Farmer,01 Jan 2000
+386,160443801,"Andrew, Mcquen",M,ILTI,Student,11 Jul 2003
+387,160501184,"Andrew, Pilisten",M,ILTI,Student,18 Sep 2003
+388,160133135,"Andrew, Staphord",M,ILTI,Student,14 Apr 1999
+389,160167366,"Aruru, Kondowa",M,ILTI,Subsistence Farmer,01 Jan 2000
+390,160148004,"Aruru, Kot",M,ILTI,Pastor,01 Jan 1973
+391,160148082,"Aruru, Membalus",M,ILTI,Subsistence Farmer,01 Jan 1983
+392,160443747,"Benny, Slek",M,ILTI,Student,27 Mar 2003
+393,160444187,"Bep, Jerimai",M,ILTI,Student,21 Aug 2003
+394,160151490,"Bepi, Joshua",M,ILTI,Subsistence Farmer,01 Jan 1989
+395,160165797,"Bobo, Junior",M,ILTI,Subsistence Farmer,01 Jan 1979
+396,160169116,"Bolipa, Buka",M,ILTI,Subsistence Farmer,01 Jan 1955
+397,160206476,"Bos, Jim",M,ILTI,Student,01 Jan 1981
+398,160133134,"Brain, Wilston",M,ILTI,Student,15 Apr 1999
+399,160169207,"Buka, Jonah",M,ILTI,Student,01 Jan 1987
+400,160165480,"Bulda, James",M,ILTI,Student,01 Jan 2000
+401,160165607,"Bulike, Irepo",M,ILTI,Subsistence Farmer,01 Jan 2000
+402,160148096,"Bunugu, Mathew",M,ILTI,Subsistence Farmer,01 Jan 1977
+403,160443689,"Chris, Gendix",M,ILTI,Student,04 Dec 2001
+404,160173175,"Daimen, Nesly",M,ILTI,Student,01 Jan 1988
+405,160444014,"Daive, Rapi",M,ILTI,Student,15 Feb 2003
+406,160172972,"Dame, Andrew",M,ILTI,Student,01 Jan 1982
+407,160443869,"Dape, Malcom",M,ILTI,Student,18 Oct 2003
+408,160443982,"Ekep, Vncent",M,ILTI,Student,03 Oct 2001
+409,160444087,"Elpis, Simon",M,ILTI,Student,01 Jul 2002
+410,160146990,"Ena, Aruru",M,ILTI,Subsistence Farmer,01 Jan 2000
+411,160133126,"Firman, Francis",M,ILTI,Student,09 Mar 1996
+412,160147907,"Fraide, Kuta",M,ILTI,Driver,01 Jan 2000
+413,160165767,"Gaby, Lawa",M,ILTI,Security,01 Jan 2000
+414,160173037,"Gari, Markam",M,ILTI,Student,01 Jan 1986
+415,160173033,"Gari, Stege",M,ILTI,Student,01 Jan 1982
+416,160132924,"Garu, Johnson",M,ILTI,Dental Therapist,21 Aug 1996
+417,160133084,"George, Stanphil",M,ILTI,Sales Women,18 May 1998
+418,160444507,"George, Stanpil",M,ILTI,Carpenter,28 Apr 2004
+419,160165770,"Gini, Yawa",M,ILTI,Subsistence Farmer,01 Jan 2000
+420,160443609,"Gorden, Boss",M,ILTI,Subsistence Farmer,16 May 2002
+421,160443845,"Gordon, Junior",M,ILTI,Student,12 Aug 2003
+422,160132982,"James, Junior",M,ILTI,Sales Women,07 Jan 1991
+423,160135966,"James, Lapa",M,ILTI,Sales Women,05 Apr 1999
+424,160132995,"James, Nathian",M,ILTI,Subsistence Farmer,11 Mar 1987
+425,160148086,"James, Philip",M,ILTI,Subsistence Farmer,01 Jan 1973
+426,160173021,"James, Punga",M,ILTI,Carpenter,01 Jan 2000
+427,160153793,"James, Rothny",M,ILTI,Student,01 Jan 1980
+428,160136149,"James, Rotiny",M,ILTI,Dental Therapist,26 Jun 1996
+429,160153790,"James, Simon",M,ILTI,Health Officer,01 Jan 1951
+430,160165231,"Jeff, Justine",M,ILTI,Student,01 Jan 1988
+431,160165177,"Jeff, Lorence",M,ILTI,Teacher,01 Jan 1980
+432,160443885,"Jeffery, Jayford",M,ILTI,Student,14 Oct 2003
+433,160443856,"Jeffery, Jessy",M,ILTI,Student,17 Aug 2003
+434,160443780,"Jeof, Clency",M,ILTI,Student,28 Mar 2003
+435,160148101,"Jerry, Sumba",M,ILTI,Subsistence Farmer,01 Jan 1968
+436,160165516,"Jim, Jetro",M,ILTI,Student,01 Jan 2000
+437,160443890,"John, Joas",M,ILTI,Student,12 Sep 2001
+438,160443864,"John, Jona",M,ILTI,Student,15 Apr 2000
+439,160151622,"John, Junior",M,ILTI,Student,01 Jan 2000
+440,160443896,"Johnson, Junior",M,ILTI,Student,16 Sep 2003
+441,160171549,"Kalepo, Pandea",M,ILTI,Magistrate,01 Jan 1951
+442,160147998,"Kalsie, Pipa",M,ILTI,Subsistence Farmer,01 Jan 1969
+443,160133150,"Kamuge, Brendon",M,ILTI,Student,06 Jul 1998
+444,160133152,"Kamuge, Bruce",M,ILTI,Teacher,02 Feb 1974
+445,160133013,"Kamuge, Jeff",M,ILTI,Student,16 Mar 1996
+446,160133014,"Kamuge, Jerol",M,ILTI,Student,19 Nov 1998
+447,160133012,"Kamuge, Jetro",M,ILTI,Student,18 Jun 1992
+448,160133179,"Kamuge, Kelly",M,ILTI,Teacher,14 May 1983
+449,160203792,"Kamunge, Tano",M,ILTI,Student,01 Jan 1981
+450,160203940,"Kamunge, Yapa",M,ILTI,Student,01 Jan 1984
+451,160168147,"Kana, William",M,ILTI,Student,01 Jan 1979
+452,160163510,"Kelly, Bill",M,ILTI,Student,01 Jan 2000
+453,160133181,"Kelly, Mackaben",M,ILTI,Student,06 Feb 1995
+454,160163511,"Kelly, Nowel",M,ILTI,Student,01 Jan 2000
+455,160443832,"Kelly, Ruben",M,ILTI,Student,14 Jun 2002
+456,25123095,"Kembo, Vincent",M,ILTI,Teacher,28 Apr 1992
+457,160204003,"Kiluwa, Osborn",M,ILTI,Student,01 Jan 1986
+458,160171670,"Kimb, Jacob",M,ILTI,Subsistence Farmer,01 Jan 1964
+459,160444474,"Kimba, David",M,ILTI,Teacher,14 Jul 1999
+460,160203793,"Kimba, Lowrance",M,ILTI,Security,01 Jan 1958
+461,160171691,"Kimu, Terum",M,ILTI,Subsistence Farmer,01 Jan 1970
+462,160204001,"Kindo, Aiye",M,ILTI,Subsistence Farmer,01 Jan 1954
+463,160206478,"Kiniwi, Soti",M,ILTI,Subsistence Farmer,01 Jan 1989
+464,160443923,"Kipu, George",M,ILTI,Student,11 Aug 2002
+465,160207415,"Kiriwi, Ambo",M,ILTI,Subsistence Farmer,01 Jan 1965
+466,160444294,"Kit, Joseph",M,ILTI,Student,15 Mar 2001
+467,160136117,"Kola, Mark",M,ILTI,Sales Women,20 Apr 1974
+468,160172995,"Kolopu, Gari",M,ILTI,Subsistence Farmer,01 Jan 1942
+469,160173072,"Koma, Beni",M,ILTI,Student,01 Jan 1986
+470,160171463,"Koma, Paul",M,ILTI,Teacher,01 Jan 1972
+471,160207265,"Kombora, Mathew",M,ILTI,Student,01 Jan 1983
+472,160206386,"Kombora, Solomon",M,ILTI,Teacher,01 Jan 1979
+473,160133086,"Kombra, Keelson",M,ILTI,Sales Women,02 Feb 1999
+474,160163479,"Komoli, Kopunge",M,ILTI,Subsistence Farmer,01 Jan 1975
+475,160163345,"Komoli, Peter",M,ILTI,Subsistence Farmer,01 Jan 1978
+476,160136103,"Komon, Able",M,ILTI,Student,17 Aug 1990
+477,160136104,"Komon, Joka",M,ILTI,Student,27 Aug 1994
+478,160132897,"Komon, Manu",M,ILTI,Student,16 Apr 1998
+479,160169376,"Konde, Able",M,ILTI,Student,01 Jan 1988
+480,160169386,"Konde, Moses",M,ILTI,Driver,01 Jan 1969
+481,160169383,"Konde, Thomas",M,ILTI,Subsistence Farmer,01 Jan 1975
+482,160165121,"Konopu, Timo",M,ILTI,Subsistence Farmer,01 Jan 1985
+483,160171630,"Kopia, Tisip",M,ILTI,Subsistence Farmer,01 Jan 1972
+484,160148001,"Kopiwa, Aruru",M,ILTI,Subsistence Farmer,01 Jan 1978
+485,160155944,"Kowa, Elcom",M,ILTI,Subsistence Farmer,01 Jan 1940
+486,160155947,"Kowa, John",M,ILTI,Subsistence Farmer,01 Jan 1979
+487,160156174,"Kowa, Kelix",M,ILTI,Subsistence Farmer,01 Jan 1978
+488,160168741,"Kuimb, David suma",M,ILTI,Subsistence Farmer,01 Jan 1970
+489,160167916,"Kuimb, John",M,ILTI,Teacher,01 Jan 1978
+490,160168736,"Kuimb, Kupu",M,ILTI,Student,01 Jan 1986
+491,160165702,"Kuinz, Joshua paul",M,ILTI,Subsistence Farmer,01 Jan 1985
+492,160168032,"Kukupa, Peter",M,ILTI,Subsistence Farmer,01 Jan 1980
+493,160204241,"Kuleko, Ape",M,ILTI,Student,01 Jan 1990
+494,160206279,"Kumbule, Brown",M,ILTI,Subsistence Farmer,01 Jan 1973
+495,160172077,"Kumbule, Koya",M,ILTI,Subsistence Farmer,01 Jan 1900
+496,160206281,"Kumbule, Micheal",M,ILTI,Subsistence Farmer,01 Jan 1975
+497,160206282,"Kumbule, Owanol",M,ILTI,Subsistence Farmer,01 Jan 1979
+498,160133183,"Kume, Kar",M,ILTI,Subsistence Farmer,29 Jul 1986
+499,160169166,"Kumep, Nickson",M,ILTI,Teacher,01 Jan 1974
+500,160443935,"Kumi, Levai",M,ILTI,Student,14 Aug 2002
+501,160171688,"Kumu, Job",M,ILTI,Subsistence Farmer,01 Jan 1965
+502,160168867,"Kundi, John",M,ILTI,Subsistence Farmer,01 Jan 1978
+503,160168027,"Kundi, Kanda",M,ILTI,Pastor,01 Jan 1971
+504,160168568,"Kundi, Torombe",M,ILTI,Subsistence Farmer,01 Jan 1932
+505,160147869,"Kuni, Pena",M,ILTI,Student,01 Jan 2000
+506,160171673,"Kup, Angbu",M,ILTI,Subsistence Farmer,01 Jan 1962
+507,160171724,"Kup, Namba",M,ILTI,Subsistence Farmer,01 Jan 1976
+508,160171727,"Kup, Ouldi",M,ILTI,Subsistence Farmer,01 Jan 1979
+509,160171573,"Kup, Pai",M,ILTI,Subsistence Farmer,01 Jan 1981
+510,160171576,"Kup, Pareka",M,ILTI,Pastor,01 Jan 1983
+511,160171506,"Kup, Pep",M,ILTI,Mechanic,01 Jan 1985
+512,160171510,"Kup, Towa",M,ILTI,Subsistence Farmer,01 Jan 1986
+513,160171367,"Kup, Wak",M,ILTI,Student,01 Jan 1987
+514,160171537,"Kupal, Tepra",M,ILTI,Pastor,01 Jan 1970
+515,160172987,"Kupo, Able",M,ILTI,Student,01 Jan 1984
+516,160147038,"Kupo, Angi",M,ILTI,Subsistence Farmer,01 Jan 1964
+517,160165175,"Kupo, Jeff",M,ILTI,Cook,01 Jan 1960
+518,160165235,"Kupo, Mali",M,ILTI,Teacher,01 Jan 1965
+519,160443855,"Kupo, Mara",M,ILTI,Student,17 Jul 2002
+520,160165240,"Kupo, Philip",M,ILTI,Subsistence Farmer,01 Jan 1945
+521,160173084,"Kupo, Regina",M,ILTI,Student,01 Jan 1980
+522,160147952,"Kupu, John",M,ILTI,Pastor,01 Jan 1974
+523,160171373,"Kurup, Pus",M,ILTI,Subsistence Farmer,01 Jan 1981
+524,160206374,"Lgoraiye, Philip",M,ILTI,Student,01 Jan 1979
+525,160165222,"Limbiye, Jeffery",M,ILTI,Subsistence Farmer,01 Jan 1979
+526,160136068,"Lucas, Pilimbo",M,ILTI,Student,08 Jun 1995
+527,160155905,"Lui, Nichola",M,ILTI,Subsistence Farmer,01 Jan 1975
+528,160153512,"Lui, Petrus",M,ILTI,Health Officer,01 Jan 1941
+529,160155915,"Lui, Samuel",M,ILTI,Subsistence Farmer,01 Jan 1981
+530,160167360,"Mainege, Kepo",M,ILTI,Business man,01 Jan 1967
+531,160167201,"Mainege, Kupeli",M,ILTI,Subsistence Farmer,01 Jan 1963
+532,160165689,"Mainege, Max",M,ILTI,Business man,01 Jan 1967
+533,160168121,"Mainege, Nombea",M,ILTI,Subsistence Farmer,01 Jan 1972
+534,160168565,"Mainege, Pilge",M,ILTI,Subsistence Farmer,01 Jan 1970
+535,160168988,"Mainege, Pilimbo",M,ILTI,Driver,01 Jan 1962
+536,160136073,"Mark, Jerom",M,ILTI,Student,08 Jun 1996
+537,160444144,"Mark, Jerommy",M,ILTI,Student,13 Sep 2001
+538,160444003,"Mark, Josia",M,ILTI,Student,05 Nov 2003
+539,160146953,"Mark, Mane",M,ILTI,Subsistence Farmer,01 Jan 1982
+540,160203777,"Mark, Steward",M,ILTI,Technician,01 Jan 1970
+541,160171824,"Martin, Bun",M,ILTI,Teacher,01 Jan 2000
+542,160444340,"Martin, Erick",M,ILTI,Student,09 Jun 2003
+543,160133154,"Martin, Samson",M,ILTI,Student,23 Apr 1997
+544,160173079,"Martin, Tako",M,ILTI,Subsistence Farmer,01 Jan 1981
+545,160443859,"Mathias, Martin",M,ILTI,Student,14 Jul 2003
+546,160152164,"Matoli, Jackis",M,ILTI,Subsistence Farmer,01 Jan 2000
+547,160443870,"Mawa, Kupo",M,ILTI,Student,18 Jul 2001
+548,160203770,"Mondo, Filsten",M,ILTI,Teacher,01 Jan 1960
+549,160165133,"Mondo, Stanley",M,ILTI,Subsistence Farmer,01 Jan 1966
+550,160443857,"Namba, Beres",M,ILTI,Student,18 Feb 2003
+551,25123148,"Namba, Berisford",M,ILTI,Student,14 Aug 2003
+552,160443881,"Namba, George",M,ILTI,Student,03 Aug 2001
+553,160443933,"Namba, Japet",M,ILTI,Student,18 Oct 2002
+554,160443882,"Namba, Joshua",M,ILTI,Student,14 Aug 2003
+555,160163344,"Namba, Junnior",M,ILTI,Student,01 Jan 2000
+556,160173042,"Namba, Kera",M,ILTI,Subsistence Farmer,01 Jan 1951
+557,160169216,"Namba, Ninson",M,ILTI,Subsistence Farmer,01 Jan 2000
+558,160204549,"Namba, Nomen",M,ILTI,Student,01 Jan 1980
+559,160171481,"Namba, Wanpis",M,ILTI,Subsistence Farmer,01 Jan 1976
+560,160444076,"Namba, Wilson",M,ILTI,Student,04 Jul 2003
+561,160156426,"Nambo, Kapale",M,ILTI,Subsistence Farmer,01 Jan 1938
+562,160152089,"Ninjipa, Joe",M,ILTI,Teacher,01 Jan 2000
+563,160146929,"Ninjipa, Kumbie",M,ILTI,Subsistence Farmer,01 Jan 2000
+564,160163200,"Ninjipa, Nema",M,ILTI,Subsistence Farmer,01 Jan 2000
+565,160151754,"Ninjipa, Piele",M,ILTI,Pastor,01 Jan 2000
+566,160151966,"Ninjipa, Wane",M,ILTI,Teacher,01 Jan 2000
+567,160168586,"Ninze, John",M,ILTI,Subsistence Farmer,01 Jan 1980
+568,160167923,"Ninze, Simon",M,ILTI,Subsistence Farmer,01 Jan 1984
+569,160443899,"Piele, Ezikiel",M,ILTI,Student,14 Oct 2003
+570,160165525,"Piele, Ismael",M,ILTI,Student,01 Jan 2000
+571,160165192,"Piele, Issikel",M,ILTI,Student,01 Jan 2000
+572,160443900,"Pieple, Ismiel",M,ILTI,Subsistence Farmer,20 Sep 2001
+573,160165194,"Pileli, Andrew",M,ILTI,Welder,01 Jan 2000
+574,160168735,"Pileli, Jasmon",M,ILTI,Student,01 Jan 1987
+575,160165179,"Pileli, Kimbe",M,ILTI,Pastor,01 Jan 2000
+576,160165221,"Pileli, Luke",M,ILTI,Subsistence Farmer,01 Jan 2000
+577,160165227,"Pileli, Simon",M,ILTI,Student,01 Jan 2000
+578,160165126,"Pileli, Yawa",M,ILTI,Subsistence Farmer,01 Jan 2000
+579,160168889,"Pilembo, John",M,ILTI,Subsistence Farmer,01 Jan 2000
+580,160168891,"Pilembo, Peter",M,ILTI,Subsistence Farmer,01 Jan 1968
+581,160168966,"Raikol, Pena",M,ILTI,Worker,01 Jan 1962
+582,160151635,"Rakie, Benny",M,ILTI,Subsistence Farmer,01 Jan 1978
+583,160148074,"Rakie, Fred",M,ILTI,Student,01 Jan 1980
+584,160148236,"Rakie, James",M,ILTI,Accountant,01 Jan 1964
+585,160173083,"Rama, Fred",M,ILTI,Subsistence Farmer,01 Jan 1968
+586,160444292,"Rambo, Polis",M,ILTI,Student,24 Sep 2003
+587,160444334,"Rami, Jeff",M,ILTI,Student,14 Aug 2003
+588,160206265,"Rami, Kange",M,ILTI,Subsistence Farmer,01 Jan 1960
+589,160206268,"Rami, Wane",M,ILTI,Subsistence Farmer,01 Jan 1981
+590,160168960,"Ramo, Tenis",M,ILTI,Subsistence Farmer,01 Jan 1980
+591,160171555,"Rani, Topele",M,ILTI,Student,01 Jan 2000
+592,160171487,"Rawa, Role",M,ILTI,Subsistence Farmer,01 Jan 2000
+593,160443584,"Reeka, David",M,ILTI,Subsistence Farmer,20 Apr 2004
+594,160444082,"Rex, Pora",M,ILTI,Student,19 May 2003
+595,160173036,"Robert, Ninde",M,ILTI,Subsistence Farmer,01 Jan 1970
+596,160444007,"Sam, Penge",M,ILTI,Student,28 Apr 2003
+597,160443901,"Sam, Simion",M,ILTI,Student,10 Dec 2003
+598,160156054,"Samuel, Eddy",M,ILTI,Subsistence Farmer,01 Jan 1986
+599,160444115,"Samuel, Issack",M,ILTI,Student,15 Jun 2001
+600,160132892,"Samuel, Klemen",M,ILTI,Salesman,14 Mar 1992
+601,160136262,"Samuel, Sam",M,ILTI,Student,04 Mar 1998
+602,160444478,"Tagune, Vincent",M,ILTI,Teacher,20 May 1995
+603,160203762,"Taia, Kaip",M,ILTI,Subsistence Farmer,01 Jan 1978
+604,160135971,"Taiye, Robin",M,ILTI,Sales Women,01 Apr 1999
+605,160132816,"Taiye, Roger",M,ILTI,Sales Women,18 May 1995
+606,160132817,"Taiye, Roy",M,ILTI,Sales Women,10 May 1997
+607,160443723,"Takera, George",M,ILTI,Student,07 Oct 2002
+608,160203763,"Takra, Simon",M,ILTI,Subsistence Farmer,01 Jan 1966
+609,160444203,"Talen, Benson",M,ILTI,Student,25 Jun 2002
+610,160153520,"Tali, Poke",M,ILTI,Student,01 Jan 1983
+611,160133066,"Talu, Brandon",M,ILTI,Student,17 Mar 1999
+612,160132911,"Talu, Wesley",M,ILTI,Student,27 Mar 1994
+613,160163402,"Tano, Akus",M,ILTI,Subsistence Farmer,01 Jan 1974
+614,160168978,"Tano, Apa",M,ILTI,Subsistence Farmer,01 Jan 1982
+615,160173029,"Tano, Fredick",M,ILTI,Student,13 Dec 1985
+616,160165119,"Tano, Guli",M,ILTI,Driver,01 Jan 1970
+617,160163341,"Tano, Las",M,ILTI,Student,01 Jan 1980
+618,160163343,"Tano, Siwai",M,ILTI,Subsistence Farmer,01 Jan 1981
+619,160173075,"Tano, Stetrick",M,ILTI,Student,14 Apr 1987
+620,160171721,"Tapa, Ilizah",M,ILTI,Subsistence Farmer,01 Jan 1970
+621,160202120,"Tapia, Adi",M,ILTI,Teacher,01 Jan 1961
+622,160202122,"Tapia, Towa",M,ILTI,Subsistence Farmer,01 Jan 1965
+623,160172994,"Tapiye, Tamale",M,ILTI,Pastor,01 Jan 1967
+624,160443702,"Tapoiye, Samuel",M,ILTI,Student,21 Apr 2002
+625,160203947,"Tapu, Gibson",M,ILTI,Student,01 Jan 1980
+626,160203822,"Tapu, Pinte",M,ILTI,Subsistence Farmer,01 Jan 1956
+627,160173070,"Tapure, Inok",M,ILTI,Student,01 Jan 1987
+628,160171459,"Tapure, Mandi",M,ILTI,Subsistence Farmer,01 Jan 1963
+629,160173073,"Tapure, Max",M,ILTI,Student,01 Jan 1985
+630,160203768,"Tapya, Tosop",M,ILTI,Carpenter,01 Jan 1973
+631,160168744,"Tara, Tapoli",M,ILTI,Subsistence Farmer,01 Jan 1978
+632,160203902,"Tarapi, Talopi",M,ILTI,Subsistence Farmer,01 Jan 1944
+633,160168004,"Tekadoi, Able",M,ILTI,Student,01 Jan 1987
+634,160172997,"Tembon, Puni",M,ILTI,Driver,01 Jan 1967
+635,160173186,"Tembon, Timothy",M,ILTI,Subsistence Farmer,01 Jan 1972
+636,160203820,"Temu, Rambo",M,ILTI,Student,01 Jan 1984
+637,160203942,"Tendike, Demson",M,ILTI,Student,01 Jan 1982
+638,160133033,"Tene, Wakapo",M,ILTI,Driver,16 Sep 1983
+639,160443878,"Tenge, Levai",M,ILTI,Student,17 Jul 2003
+640,160167968,"Teol, Daniel",M,ILTI,Subsistence Farmer,01 Jan 1983
+641,160202044,"Tepoko, Orokoi",M,ILTI,Subsistence Farmer,01 Jan 1972
+642,160163364,"Tepra, Nuti",M,ILTI,Subsistence Farmer,01 Jan 1980
+643,160171547,"Tepu, Joesph",M,ILTI,Subsistence Farmer,01 Jan 1972
+644,160171553,"Tepu, Timothy",M,ILTI,Subsistence Farmer,01 Jan 1974
+645,160167192,"Terry, Oti",M,ILTI,Subsistence Farmer,01 Jan 1990
+646,160163361,"Teru, Francis",M,ILTI,Mechanic,01 Jan 1963
+647,160163366,"Teru, Indindi",M,ILTI,Subsistence Farmer,01 Jan 1972
+648,160163389,"Teru, Pelgaie",M,ILTI,Subsistence Farmer,01 Jan 1966
+649,160132795,"Thomas, Bredon",M,ILTI,Sales Women,21 Aug 1990
+650,160132793,"Thomas, Jeremy",M,ILTI,Sales Women,21 Oct 1997
+651,160132797,"Thomas, Keven",M,ILTI,Sales Women,21 Oct 1996
+652,160136261,"Thomas, Nicklas",M,ILTI,Student,15 Dec 1998
+653,160165576,"Tikindi, Pepo",M,ILTI,Subsistence Farmer,01 Jan 2000
+654,160204400,"Timbil, Luke",M,ILTI,Subsistence Farmer,01 Jan 1986
+655,160168566,"Timinje, Andrew",M,ILTI,Security,01 Jan 2000
+656,160153792,"Timinti, John",M,ILTI,Subsistence Farmer,01 Jan 1971
+657,160153791,"Timinti, Luke",M,ILTI,Student,01 Jan 1970
+658,160163367,"Timinti, Yama",M,ILTI,Subsistence Farmer,01 Jan 1980
+659,160132993,"Timon, Kickson",M,ILTI,Student,24 Sep 1991
+660,160167323,"Tinol, Lun",M,ILTI,Subsistence Farmer,01 Jan 1974
+661,160167925,"Tinol, Oki",M,ILTI,Subsistence Farmer,01 Jan 1967
+662,160165714,"Tipai, Opis",M,ILTI,Subsistence Farmer,01 Jan 1972
+663,160443754,"Tipi, Kupile",M,ILTI,Student,20 Aug 2002
+664,160168122,"Tipoka, Tomoiye",M,ILTI,Subsistence Farmer,01 Jan 2000
+665,160153794,"Tiri, Timothy",M,ILTI,Pastor,01 Jan 1963
+666,160151988,"Tiripi, Alex",M,ILTI,Warder,01 Jan 1966
+667,160163192,"Tiriye, Mambo",M,ILTI,Subsistence Farmer,01 Jan 1940
+668,160156459,"Tiro, Onga",M,ILTI,Subsistence Farmer,01 Jan 1938
+669,160151978,"Tisip, Jeap",M,ILTI,Subsistence Farmer,01 Jan 1984
+670,160163368,"Titip, Bausu",M,ILTI,Subsistence Farmer,01 Jan 1983
+671,160153796,"Titip, Namba",M,ILTI,Subsistence Farmer,01 Jan 1985
+672,160153606,"Titip, Pep",M,ILTI,Subsistence Farmer,01 Jan 1987
+673,160133114,"Titus, Fredy",M,ILTI,Student,14 Apr 1999
+674,160133113,"Titus, Gilbert",M,ILTI,Student,17 May 1995
+675,160133111,"Titus, Tupai",M,ILTI,Electrician,17 Aug 1992
+676,160168011,"Tiwi, Tepra",M,ILTI,Welder,01 Jan 1975
+677,160443621,"Tombo, Johna",M,ILTI,Student,14 Sep 2001
+678,160443619,"Tombo, Stanford",M,ILTI,Student,17 Aug 2003
+679,160203773,"Tomoiye, Oke",M,ILTI,Student,01 Jan 1983
+680,160136142,"Toringi, Fidilex",M,ILTI,Sales Women,06 Jan 1994
+681,160171626,"Toringi, Rodney",M,ILTI,Student,01 Jan 1978
+682,160443649,"Torobe, Hasmon",M,ILTI,Student,15 May 2002
+683,160443647,"Torobe, Jim",M,ILTI,Student,26 Feb 2003
+684,160165185,"Toroiye, Andy",M,ILTI,Subsistence Farmer,01 Jan 1980
+685,160163396,"Toroiye, Simon",M,ILTI,Subsistence Farmer,01 Jan 1977
+686,160156417,"Toroli, John",M,ILTI,Subsistence Farmer,01 Jan 1963
+687,160156481,"Toroli, Supi",M,ILTI,Subsistence Farmer,01 Jan 1962
+688,160156478,"Toroli, Thomas",M,ILTI,Subsistence Farmer,01 Jan 1934
+689,160165412,"Torombena, Timson",M,ILTI,Teacher,01 Jan 1980
+690,160165320,"Tose, Kepa",M,ILTI,Subsistence Farmer,01 Jan 1969
+691,160165089,"Tose, Pilimbo",M,ILTI,Pastor,01 Jan 1960
+692,160147980,"Tosey, Pildi",M,ILTI,Subsistence Farmer,01 Jan 1972
+693,160151564,"Tosop, Pom",M,ILTI,Subsistence Farmer,01 Jan 1978
+694,160203943,"Towa, Ken",M,ILTI,Subsistence Farmer,01 Jan 1962
+695,160443866,"Tumba, Peke",M,ILTI,Student,16 Oct 2001
+696,160146952,"Tumba, Rainy",M,ILTI,Student,01 Jan 1986
+697,160132916,"Tumba, Rendy",M,ILTI,Sales Women,20 Jun 1997
+698,160443917,"Tumba, Ryan",M,ILTI,Student,12 Oct 2002
+699,160204253,"Turi, Apen",M,ILTI,Student,01 Jan 1986
+700,160169121,"Turi, Simion",M,ILTI,Student,01 Jan 1987
+701,160133083,"Turi, Tepson",M,ILTI,Sales Women,15 Mar 1998
+702,160163350,"Turulame, Daipe",M,ILTI,Subsistence Farmer,01 Jan 1955
+703,160163198,"Turulano, Joe",M,ILTI,Student,01 Jan 1980
+704,160163478,"Turulano, Pambono",M,ILTI,Subsistence Farmer,01 Jan 1950
+705,160152052,"Wake, Kawalo",M,ILTI,Subsistence Farmer,01 Jan 1939
+706,160165513,"Wake, Nembo",M,ILTI,Subsistence Farmer,01 Jan 1984
+707,160157387,"Wane, Fada",M,ILTI,Clerk,01 Jan 1967
+708,160151485,"Wane, Issac",M,ILTI,Student,01 Jan 1990
+709,160136080,"Wane, James",M,ILTI,Pastor,17 Apr 1982
+710,160165623,"Wane, Kengepu",M,ILTI,Subsistence Farmer,01 Jan 1973
+711,160444079,"Wane, Solo",M,ILTI,Student,13 Jul 2002
+712,160132991,"Wane, Timon",M,ILTI,Magistrate,18 May 1986
+713,160151972,"Wane, Wayne",M,ILTI,Student,01 Jan 2000
+714,160172996,"Yala, David",M,ILTI,Subsistence Farmer,01 Jan 1970
+715,160173035,"Yala, Neki",M,ILTI,Subsistence Farmer,01 Jan 1984
+716,160443713,"Yala, Tonny",M,ILTI,Student,15 Mar 2004
+717,160443681,"Yap, Yapson",M,ILTI,Student,12 Oct 2003
+718,160132927,"Yapo, Raimon",M,ILTI,Sales Women,19 Oct 1998
+719,160151951,"Yapo, Reimon",M,ILTI,Student,01 Jan 2000
+720,160151954,"Yapo, Richard",M,ILTI,Student,01 Jan 2000
+721,160132926,"Yapo, Richard",M,ILTI,Sales Women,17 Jun 1995
+722,160443797,"Yawa, Jayson",M,ILTI,Student,10 Oct 2000
+723,160443913,"Yawa, Jayson",M,ILTI,Student,01 Feb 1995
+724,160163191,"Yawa, Jeffry",M,ILTI,Subsistence Farmer,01 Jan 2000
+725,160163193,"Yawa, Joel",M,ILTI,Subsistence Farmer,01 Jan 2000
+726,160133116,"Yawa, Pedro",M,ILTI,Teacher,18 Jul 1978
+727,160168123,"Yawaie, Kepolo",M,ILTI,Subsistence Farmer,01 Jan 1960
+728,160443571,"Yombi, Wake",M,ILTI,Student,20 Apr 2004

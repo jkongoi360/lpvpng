@@ -1,0 +1,566 @@
+{
+  "provinceId": "ncd",
+  "electorates": [
+    {
+      "electorateSlug": "moresby-south",
+      "llgs": [
+        {
+          "id": "moresby-south-boroko",
+          "name": "Boroko LLG",
+          "electorateSlug": "moresby-south",
+          "wards": [
+            {
+              "id": "boroko-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2245
+            },
+            {
+              "id": "boroko-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2611
+            },
+            {
+              "id": "boroko-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3628
+            },
+            {
+              "id": "boroko-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3189
+            },
+            {
+              "id": "boroko-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2723
+            },
+            {
+              "id": "boroko-w06",
+              "name": "Ward 6",
+              "registeredVoters": 3205
+            },
+            {
+              "id": "boroko-w07",
+              "name": "Ward 7",
+              "registeredVoters": 3696
+            }
+          ]
+        },
+        {
+          "id": "moresby-south-konedobu-ela-beach",
+          "name": "Konedobu-Ela Beach LLG",
+          "electorateSlug": "moresby-south",
+          "wards": [
+            {
+              "id": "konedobu-ela-beach-w01",
+              "name": "Ward 1",
+              "registeredVoters": 6760
+            },
+            {
+              "id": "konedobu-ela-beach-w02",
+              "name": "Ward 2",
+              "registeredVoters": 6206
+            },
+            {
+              "id": "konedobu-ela-beach-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3574
+            },
+            {
+              "id": "konedobu-ela-beach-w04",
+              "name": "Ward 4",
+              "registeredVoters": 4548
+            }
+          ]
+        },
+        {
+          "id": "moresby-south-badili",
+          "name": "Badili LLG",
+          "electorateSlug": "moresby-south",
+          "wards": [
+            {
+              "id": "badili-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1365
+            },
+            {
+              "id": "badili-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1378
+            },
+            {
+              "id": "badili-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2536
+            },
+            {
+              "id": "badili-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2008
+            },
+            {
+              "id": "badili-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2434
+            },
+            {
+              "id": "badili-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2049
+            },
+            {
+              "id": "badili-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2317
+            },
+            {
+              "id": "badili-w08",
+              "name": "Ward 8",
+              "registeredVoters": 970
+            },
+            {
+              "id": "badili-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1873
+            }
+          ]
+        },
+        {
+          "id": "moresby-south-sabama",
+          "name": "Sabama LLG",
+          "electorateSlug": "moresby-south",
+          "wards": [
+            {
+              "id": "sabama-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4159
+            },
+            {
+              "id": "sabama-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4178
+            },
+            {
+              "id": "sabama-w03",
+              "name": "Ward 3",
+              "registeredVoters": 5044
+            },
+            {
+              "id": "sabama-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3761
+            },
+            {
+              "id": "sabama-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2483
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "moresby-north-west",
+      "llgs": [
+        {
+          "id": "moresby-north-west-morata",
+          "name": "Morata LLG",
+          "electorateSlug": "moresby-north-west",
+          "wards": [
+            {
+              "id": "morata-w01",
+              "name": "Ward 1",
+              "registeredVoters": 5356
+            },
+            {
+              "id": "morata-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4396
+            },
+            {
+              "id": "morata-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2215
+            },
+            {
+              "id": "morata-w04",
+              "name": "Ward 4",
+              "registeredVoters": 5128
+            }
+          ]
+        },
+        {
+          "id": "moresby-north-west-gerehu",
+          "name": "Gerehu LLG",
+          "electorateSlug": "moresby-north-west",
+          "wards": [
+            {
+              "id": "gerehu-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2080
+            },
+            {
+              "id": "gerehu-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1623
+            },
+            {
+              "id": "gerehu-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1937
+            },
+            {
+              "id": "gerehu-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1368
+            },
+            {
+              "id": "gerehu-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2234
+            },
+            {
+              "id": "gerehu-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1113
+            },
+            {
+              "id": "gerehu-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2020
+            },
+            {
+              "id": "gerehu-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1451
+            },
+            {
+              "id": "gerehu-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1878
+            }
+          ]
+        },
+        {
+          "id": "moresby-north-west-waigani",
+          "name": "Waigani LLG",
+          "electorateSlug": "moresby-north-west",
+          "wards": [
+            {
+              "id": "waigani-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3235
+            },
+            {
+              "id": "waigani-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2307
+            },
+            {
+              "id": "waigani-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2977
+            },
+            {
+              "id": "waigani-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2786
+            },
+            {
+              "id": "waigani-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1611
+            },
+            {
+              "id": "waigani-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2207
+            }
+          ]
+        },
+        {
+          "id": "moresby-north-west-tokarara",
+          "name": "Tokarara LLG",
+          "electorateSlug": "moresby-north-west",
+          "wards": [
+            {
+              "id": "tokarara-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2791
+            },
+            {
+              "id": "tokarara-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2577
+            },
+            {
+              "id": "tokarara-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2611
+            },
+            {
+              "id": "tokarara-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2034
+            },
+            {
+              "id": "tokarara-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2291
+            },
+            {
+              "id": "tokarara-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1732
+            },
+            {
+              "id": "tokarara-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2012
+            },
+            {
+              "id": "tokarara-w08",
+              "name": "Ward 8",
+              "registeredVoters": 2284
+            },
+            {
+              "id": "tokarara-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1166
+            }
+          ]
+        },
+        {
+          "id": "moresby-north-west-hohola",
+          "name": "Hohola LLG",
+          "electorateSlug": "moresby-north-west",
+          "wards": [
+            {
+              "id": "hohola-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2571
+            },
+            {
+              "id": "hohola-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3292
+            },
+            {
+              "id": "hohola-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3664
+            },
+            {
+              "id": "hohola-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2261
+            },
+            {
+              "id": "hohola-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3400
+            },
+            {
+              "id": "hohola-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1852
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "moresby-north-east",
+      "llgs": [
+        {
+          "id": "moresby-north-east-gordons",
+          "name": "Gordons LLG",
+          "electorateSlug": "moresby-north-east",
+          "wards": [
+            {
+              "id": "gordons-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2169
+            },
+            {
+              "id": "gordons-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2010
+            },
+            {
+              "id": "gordons-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1240
+            },
+            {
+              "id": "gordons-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2334
+            },
+            {
+              "id": "gordons-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1943
+            },
+            {
+              "id": "gordons-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1890
+            },
+            {
+              "id": "gordons-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2294
+            },
+            {
+              "id": "gordons-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1213
+            },
+            {
+              "id": "gordons-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1142
+            },
+            {
+              "id": "gordons-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1952
+            }
+          ]
+        },
+        {
+          "id": "moresby-north-east-erima",
+          "name": "Erima LLG",
+          "electorateSlug": "moresby-north-east",
+          "wards": [
+            {
+              "id": "erima-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3944
+            },
+            {
+              "id": "erima-w02",
+              "name": "Ward 2",
+              "registeredVoters": 5265
+            },
+            {
+              "id": "erima-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2079
+            },
+            {
+              "id": "erima-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2799
+            },
+            {
+              "id": "erima-w05",
+              "name": "Ward 5",
+              "registeredVoters": 5378
+            }
+          ]
+        },
+        {
+          "id": "moresby-north-east-saraga",
+          "name": "Saraga LLG",
+          "electorateSlug": "moresby-north-east",
+          "wards": [
+            {
+              "id": "saraga-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2110
+            },
+            {
+              "id": "saraga-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1618
+            },
+            {
+              "id": "saraga-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2434
+            },
+            {
+              "id": "saraga-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1471
+            },
+            {
+              "id": "saraga-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1784
+            },
+            {
+              "id": "saraga-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2291
+            },
+            {
+              "id": "saraga-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1466
+            },
+            {
+              "id": "saraga-w08",
+              "name": "Ward 8",
+              "registeredVoters": 2381
+            },
+            {
+              "id": "saraga-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1718
+            },
+            {
+              "id": "saraga-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1659
+            }
+          ]
+        },
+        {
+          "id": "moresby-north-east-six-mile",
+          "name": "Six Mile LLG",
+          "electorateSlug": "moresby-north-east",
+          "wards": [
+            {
+              "id": "six-mile-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3363
+            },
+            {
+              "id": "six-mile-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2343
+            },
+            {
+              "id": "six-mile-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2700
+            },
+            {
+              "id": "six-mile-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2167
+            },
+            {
+              "id": "six-mile-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3196
+            },
+            {
+              "id": "six-mile-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2680
+            },
+            {
+              "id": "six-mile-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1576
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

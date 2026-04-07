@@ -1,0 +1,178 @@
+{
+  "provinceId": "manus",
+  "electorates": [
+    {
+      "electorateSlug": "manus",
+      "llgs": [
+        {
+          "id": "manus-lorengau-urban",
+          "name": "Lorengau Urban LLG",
+          "electorateSlug": "manus",
+          "wards": [
+            {
+              "id": "lorengau-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1094
+            },
+            {
+              "id": "lorengau-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 724
+            },
+            {
+              "id": "lorengau-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1315
+            },
+            {
+              "id": "lorengau-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1142
+            },
+            {
+              "id": "lorengau-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1330
+            },
+            {
+              "id": "lorengau-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 745
+            },
+            {
+              "id": "lorengau-urban-w07",
+              "name": "Ward 7",
+              "registeredVoters": 752
+            },
+            {
+              "id": "lorengau-urban-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1711
+            },
+            {
+              "id": "lorengau-urban-w09",
+              "name": "Ward 9",
+              "registeredVoters": 878
+            },
+            {
+              "id": "lorengau-urban-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1322
+            }
+          ]
+        },
+        {
+          "id": "manus-north-coast-manus",
+          "name": "North Coast Manus LLG",
+          "electorateSlug": "manus",
+          "wards": [
+            {
+              "id": "north-coast-manus-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4197
+            },
+            {
+              "id": "north-coast-manus-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4107
+            },
+            {
+              "id": "north-coast-manus-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2087
+            }
+          ]
+        },
+        {
+          "id": "manus-south-coast-manus",
+          "name": "South Coast Manus LLG",
+          "electorateSlug": "manus",
+          "wards": [
+            {
+              "id": "south-coast-manus-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1757
+            },
+            {
+              "id": "south-coast-manus-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1360
+            },
+            {
+              "id": "south-coast-manus-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2129
+            },
+            {
+              "id": "south-coast-manus-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1518
+            },
+            {
+              "id": "south-coast-manus-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1550
+            },
+            {
+              "id": "south-coast-manus-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1823
+            },
+            {
+              "id": "south-coast-manus-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2142
+            }
+          ]
+        },
+        {
+          "id": "manus-islands",
+          "name": "Islands LLG",
+          "electorateSlug": "manus",
+          "wards": [
+            {
+              "id": "islands-w01",
+              "name": "Ward 1",
+              "registeredVoters": 803
+            },
+            {
+              "id": "islands-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1053
+            },
+            {
+              "id": "islands-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1005
+            },
+            {
+              "id": "islands-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1804
+            },
+            {
+              "id": "islands-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1276
+            },
+            {
+              "id": "islands-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1201
+            },
+            {
+              "id": "islands-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2372
+            },
+            {
+              "id": "islands-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1186
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

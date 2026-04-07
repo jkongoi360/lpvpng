@@ -1,0 +1,775 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160397480,"Aga, Alise",F,PAWAYAMO,Subsistence Farmer,01 Jan 1976
+2,160397782,"Aga, Annes",F,PAWAYAMO,Subsistence Farmer,01 Jan 1978
+3,160381464,"Aga, Doccas",F,PAWAYAMO,Subsistence Farmer,01 Jan 1993
+4,160380515,"Aga, Doli",F,PAWAYAMO,Subsistence Farmer,01 Jan 1988
+5,160380514,"Aga, Esther",F,PAWAYAMO,Subsistence Farmer,01 Jan 1990
+6,160380508,"Aga, Eyame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1949
+7,160398408,"Aga, Freida",F,PAWAYAMO,Subsistence Farmer,01 Jan 1984
+8,160498940,"Aga, Goen",F,PAWAYAMO,Student,05 Mar 2004
+9,160395670,"Aga, Helen",F,PAWAYAMO,Subsistence Farmer,01 Jan 1961
+10,160381461,"Aga, Josina",F,PAWAYAMO,Subsistence Farmer,01 Jan 1983
+11,160380516,"Aga, Keron",F,PAWAYAMO,Subsistence Farmer,01 Jan 1989
+12,160395527,"Aga, Kurame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1953
+13,160380540,"Aga, Napu",F,PAWAYAMO,Subsistence Farmer,01 Jan 1962
+14,160396967,"Aga, Norin",F,PAWAYAMO,Subsistence Farmer,01 Jan 1958
+15,160380512,"Aga, Rombo",F,PAWAYAMO,Subsistence Farmer,01 Jan 1985
+16,160396969,"Aga, Roslin",F,PAWAYAMO,Subsistence Farmer,01 Jan 1980
+17,160396970,"Aga, Soti",F,PAWAYAMO,Subsistence Farmer,01 Jan 1984
+18,160380089,"Aipu, Elis",F,PAWAYAMO,Subsistence Farmer,01 Jan 1993
+19,160380085,"Aipu, Kuname",F,PAWAYAMO,Subsistence Farmer,01 Jan 1983
+20,160397808,"Aipu, Monica",F,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+21,160398426,"Aipu, Robame",F,PAWAYAMO,Student,01 Jan 1988
+22,160397786,"Aipu, Ruth",F,PAWAYAMO,Subsistence Farmer,01 Jan 1982
+23,160380633,"Aipu, Yunis",F,PAWAYAMO,Subsistence Farmer,01 Jan 1991
+24,160398417,"Alia, Eli",F,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+25,160382121,"Alia, Grace",F,PAWAYAMO,Household Duties,01 Jan 1989
+26,160382120,"Alia, Josphin",F,PAWAYAMO,Household Duties,01 Jan 1972
+27,160381710,"Alia, Lape",F,PAWAYAMO,Subsistence Farmer,01 Jan 1944
+28,160397715,"Alia, Lyn",F,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+29,160382122,"Alia, Malida",F,PAWAYAMO,Household Duties,01 Jan 1986
+30,160381688,"Alia, Mariam",F,PAWAYAMO,Household Duties,01 Jan 1990
+31,160381704,"Alia, Martha",F,PAWAYAMO,Student,01 Jan 1991
+32,160397713,"Alia, Piano",F,PAWAYAMO,Subsistence Farmer,01 Jan 1988
+33,160381711,"Alia, Simbu",F,PAWAYAMO,Household Duties,01 Jan 1968
+34,160397716,"Alia, Yapi",F,PAWAYAMO,Subsistence Farmer,01 Jan 1969
+35,160381926,"Alia, Yapusi",F,PAWAYAMO,Household Duties,01 Jan 1956
+36,160293876,"Alo, Miriam",F,PAWAYAMO,Household Duties,11 Apr 1986
+37,160431352,"Alu, Neteh",F,PAWAYAMO,Sales Women,22 Mar 1992
+38,160396972,"Andrew, Erape",F,PAWAYAMO,Subsistence Farmer,01 Jan 1970
+39,160396973,"Andrew, Rachel",F,PAWAYAMO,Student,01 Jan 1988
+40,160286402,"Andrew, Yanogo",F,PAWAYAMO,Hairdresser,01 Jun 1975
+41,160382114,"Anita, Kimbu",F,PAWAYAMO,Household Duties,01 Jan 1989
+42,160498954,"Anthon, Jowena",F,PAWAYAMO,Student,06 Apr 2004
+43,160396885,"Apasi, Mekeda",F,PAWAYAMO,Subsistence Farmer,01 Jan 1980
+44,160396882,"Apasi, Nane",F,PAWAYAMO,Subsistence Farmer,01 Jan 1946
+45,160396704,"Apasi, Ruth",F,PAWAYAMO,Subsistence Farmer,01 Jan 1969
+46,160498963,"Apokas, Lesi",F,PAWAYAMO,Student,20 Apr 2004
+47,160398406,"Asi, Lano",F,PAWAYAMO,Subsistence Farmer,01 Jan 1986
+48,160399120,"Asi, Margret",F,PAWAYAMO,Subsistence Farmer,01 Jan 1978
+49,160396909,"Asi, Nancy",F,PAWAYAMO,Subsistence Farmer,01 Jan 1968
+50,160433029,"Asi, Nancy",F,PAWAYAMO,Hairdresser,05 May 1978
+51,160498969,"Asi, Naomi",F,PAWAYAMO,Student,20 Apr 2004
+52,160399117,"Asi, Ruri",F,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+53,160397211,"Asi, Upiri",F,PAWAYAMO,Subsistence Farmer,01 Jan 1951
+54,160398353,"Asuma, Roselyn",F,PAWAYAMO,Subsistence Farmer,01 Jan 1972
+55,160398429,"Bale, Raku",F,PAWAYAMO,Subsistence Farmer,01 Jan 1970
+56,160381933,"Bana, Janet",F,PAWAYAMO,Household Duties,01 Jan 1981
+57,160404122,"Bana, Jerrin",F,PAWAYAMO,Subsistence Farmer,01 Jan 1958
+58,160398231,"Basupia, Alo",F,PAWAYAMO,Subsistence Farmer,01 Jan 1986
+59,160286537,"Basupia, Mero",F,PAWAYAMO,Hairdresser,01 Feb 1985
+60,160398519,"Basupia, Ragiame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1958
+61,160501148,"Besa, Lapina",F,PAWAYAMO,Student,04 Apr 1998
+62,160293875,"Bin, Marlyn",F,PAWAYAMO,Student,15 Mar 1995
+63,160293882,"Bin, Sarlyn",F,PAWAYAMO,Sales Women,18 May 1998
+64,160396966,"Buka, Jennifer",F,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+65,160397806,"Buna, Pandota",F,PAWAYAMO,Subsistence Farmer,01 Jan 1944
+66,160286373,"David, Malinda",F,PAWAYAMO,Hairdresser,01 Mar 1990
+67,160286279,"Dickson, Komborame",F,PAWAYAMO,Hairdresser,23 Apr 1997
+68,160286380,"Donica, Richard",F,PAWAYAMO,Hairdresser,05 Jan 1979
+69,160382949,"Eli, Usayaka",F,PAWAYAMO,Household Duties,01 Jan 1976
+70,160507075,"Elis, Makirae",F,PAWAYAMO,Subsistence Farmer,05 Aug 1995
+71,160286372,"Enock, Brenda",F,PAWAYAMO,Hairdresser,12 Jun 1993
+72,160498978,"Eric, Esther",F,PAWAYAMO,Household Duties,24 Sep 1988
+73,160433033,"Erick, Cathy",F,PAWAYAMO,Hairdresser,02 May 1992
+74,160382109,"Essara, Mendo",F,PAWAYAMO,Teacher,01 Jan 1988
+75,160498980,"Esther, Brendon",F,PAWAYAMO,Household Duties,23 Feb 1990
+76,160433044,"Exodus, Sindia",F,PAWAYAMO,Sales Women,27 Apr 1998
+77,160294040,"Francis, Grace",F,PAWAYAMO,Sales Women,10 Mar 1995
+78,160381491,"Giame, Pakena",F,PAWAYAMO,Teacher,01 Jan 1973
+79,160381937,"Helen, Kombea",F,PAWAYAMO,Household Duties,01 Jan 1983
+80,160395676,"Ina, Epekone",F,PAWAYAMO,Subsistence Farmer,01 Jan 1961
+81,160395551,"Ina, Judy",F,PAWAYAMO,Subsistence Farmer,01 Jan 1985
+82,160395680,"Ina, Kale",F,PAWAYAMO,Subsistence Farmer,01 Jan 1968
+83,160402994,"Ina, Lopame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+84,160395552,"Ina, Malanika",F,PAWAYAMO,Subsistence Farmer,01 Jan 1987
+85,160498986,"Ina, Melintha",F,PAWAYAMO,Student,09 Apr 2004
+86,160498989,"Ina, Mero",F,PAWAYAMO,Household Duties,15 Apr 2004
+87,160395550,"Ina, Rachael",F,PAWAYAMO,Subsistence Farmer,01 Jan 1983
+88,160395690,"Ina, Rodina",F,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+89,160395554,"Ina, Ruth",F,PAWAYAMO,Subsistence Farmer,01 Jan 1989
+90,160498994,"Ina, Salan",F,PAWAYAMO,Student,08 Apr 2004
+91,160498997,"Ina, Senelin",F,PAWAYAMO,Student,28 Jan 1989
+92,160396968,"Innok, Noami",F,PAWAYAMO,Subsistence Farmer,01 Jan 1961
+93,160397481,"Innok, Ruth",F,PAWAYAMO,Student,01 Jan 1988
+94,160286379,"Ipisa, Meri",F,PAWAYAMO,Hairdresser,16 Mar 1992
+95,160380484,"Italisi, Cathy",F,PAWAYAMO,Household Duties,01 Jan 1987
+96,160403343,"Italisi, Rosa",F,PAWAYAMO,Subsistence Farmer,01 Jan 1960
+97,160378243,"Italisi, Sorosi",F,PAWAYAMO,Household Duties,01 Jan 1961
+98,160379606,"Janet, Sakias",F,PAWAYAMO,Household Duties,01 Jan 1960
+99,160507099,"Jekery, Ruma",F,PAWAYAMO,Student,05 Jul 2001
+100,160286403,"Jim, Anjima",F,PAWAYAMO,Sales Women,05 Feb 1989
+101,160294045,"Jim, Cathy",F,PAWAYAMO,Student,14 Mar 1992
+102,160286382,"John, Epena",F,PAWAYAMO,Hairdresser,12 Jan 1983
+103,160433040,"John, Jenifa",F,PAWAYAMO,Hairdresser,11 May 1980
+104,160286374,"Jonatan, Judith",F,PAWAYAMO,Sales Women,20 Sep 1990
+105,160286371,"Joseph, Jona",F,PAWAYAMO,Sales Women,16 Jul 1992
+106,160286395,"Joseph, Susan",F,PAWAYAMO,Sales Women,02 Nov 1995
+107,160381696,"Joyce, Mendo",F,PAWAYAMO,Student,01 Jan 1992
+108,160385103,"Jusinta, Ralu",F,PAWAYAMO,Student,01 Jan 1992
+109,160397199,"Kaima, Susana",F,PAWAYAMO,Subsistence Farmer,01 Jan 1981
+110,160396805,"Kaima, Yapusi",F,PAWAYAMO,Subsistence Farmer,01 Jan 1948
+111,160396870,"Kalai, Betty",F,PAWAYAMO,Subsistence Farmer,01 Jan 1984
+112,160402753,"Kambe, Eli",F,PAWAYAMO,Subsistence Farmer,01 Jan 1985
+113,160403469,"Kambe, Mapuna",F,PAWAYAMO,Subsistence Farmer,01 Jan 1960
+114,160501150,"Kaya, Laki",F,PAWAYAMO,Student,16 Jun 1997
+115,160433030,"Ken, Doli",F,PAWAYAMO,Sales Women,05 Sep 1993
+116,160395548,"Ken, Eli",F,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+117,160395547,"Ken, Elizabeth",F,PAWAYAMO,Student,01 Jan 1985
+118,160395673,"Ken, Mamege",F,PAWAYAMO,Subsistence Farmer,01 Jan 1967
+119,160286720,"Ken, Paulin",F,PAWAYAMO,Student,01 Feb 1996
+120,160286394,"Kennedy, Docus",F,PAWAYAMO,Hairdresser,04 Oct 1993
+121,160397815,"Kenoa, Martina",F,PAWAYAMO,Subsistence Farmer,01 Jan 1969
+122,160397814,"Kenoa, Wagapale",F,PAWAYAMO,Subsistence Farmer,01 Jan 1952
+123,160507110,"Kepele, Serah",F,PAWAYAMO,Subsistence Farmer,20 May 1988
+124,160395532,"Kimbu, Alopu",F,PAWAYAMO,Subsistence Farmer,01 Jan 1958
+125,160499026,"Kimbu, Emas",F,PAWAYAMO,Student,16 Mar 2003
+126,160395474,"Kimbu, Emelida",F,PAWAYAMO,Subsistence Farmer,01 Jan 1973
+127,160499029,"Kimbu, Hessy",F,PAWAYAMO,Household Duties,04 Mar 1994
+128,160383619,"Kimbu, Janet",F,PAWAYAMO,Household Duties,01 Jan 1978
+129,160499032,"Kimbu, Juli",F,PAWAYAMO,Household Duties,18 Apr 2004
+130,160395476,"Kimbu, Mati",F,PAWAYAMO,Subsistence Farmer,01 Jan 1980
+131,160381708,"Kimbu, Ruth",F,PAWAYAMO,Household Duties,01 Jan 1985
+132,160395466,"Kombea, Elisa",F,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+133,160507112,"Koni, Aga",F,PAWAYAMO,Student,06 Jul 2002
+134,160507115,"Kotapu, Batie",F,PAWAYAMO,Household Duties,21 Jul 2003
+135,160398343,"Kotapu, Noami",F,PAWAYAMO,Student,01 Jan 1989
+136,160398528,"Kotapu, Rore",F,PAWAYAMO,Subsistence Farmer,01 Jan 1973
+137,160499038,"Kotapu, Vero",F,PAWAYAMO,Student,04 Feb 2003
+138,160401868,"Lame, Joyce",F,PAWAYAMO,Subsistence Farmer,01 Jan 1976
+139,160402822,"Lame, Kuni",F,PAWAYAMO,Student,01 Jan 1985
+140,160403012,"Lame, Maklin",F,PAWAYAMO,Student,01 Jan 1987
+141,160403008,"Lame, Martha",F,PAWAYAMO,Student,01 Jan 1988
+142,160403010,"Lame, Matilda",F,PAWAYAMO,Subsistence Farmer,01 Jan 1970
+143,160401867,"Lame, Porare",F,PAWAYAMO,Subsistence Farmer,01 Jan 1941
+144,160403011,"Lame, Sharon",F,PAWAYAMO,Student,01 Jan 1983
+145,160402824,"Lame, Wala",F,PAWAYAMO,Subsistence Farmer,01 Jan 1980
+146,160381488,"Lilly, Kombea",F,PAWAYAMO,Nurse,01 Jan 1986
+147,160380490,"Lina, Moma",F,PAWAYAMO,Household Duties,01 Jan 1969
+148,160294039,"Lipal, Lucy",F,PAWAYAMO,Household Duties,25 Jun 1987
+149,160507120,"Loko, Dolly",F,PAWAYAMO,Subsistence Farmer,01 Feb 2000
+150,160294035,"Lonely, Molina",F,PAWAYAMO,Student,13 Oct 1998
+151,160507122,"Lota, Watuma",F,PAWAYAMO,Subsistence Farmer,20 Jun 1995
+152,160400207,"Lubu, Yasa",F,PAWAYAMO,Subsistence Farmer,01 Jan 1957
+153,160379995,"Lucy, Manderepa",F,PAWAYAMO,Student,01 Jan 1991
+154,160385079,"Lucy, Sakias",F,PAWAYAMO,Subsistence Farmer,01 Jan 1988
+155,160286386,"Mack, Angola",F,PAWAYAMO,Hairdresser,16 Jul 1996
+156,160507129,"Makoala, Kombea",F,PAWAYAMO,Student,05 Jun 1997
+157,160433038,"Malakai, Natesia",F,PAWAYAMO,Hairdresser,02 Oct 1991
+158,160433046,"Malakai, Sendi",F,PAWAYAMO,Hairdresser,14 Mar 1989
+159,160292111,"Malame, Lyn",F,PAWAYAMO,Housegirl,19 Feb 1986
+160,160507131,"Malamea, Epa",F,PAWAYAMO,Subsistence Farmer,06 Jun 1998
+161,160507133,"Malamea, Kake",F,PAWAYAMO,Household Duties,26 Jan 2000
+162,160381936,"Malanica, Muruks",F,PAWAYAMO,Student,01 Jan 1986
+163,160396238,"Manderepa, Balipe",F,PAWAYAMO,Subsistence Farmer,01 Jan 1961
+164,160379610,"Manderepa, Josephin",F,PAWAYAMO,Household Duties,01 Jan 1989
+165,160379661,"Manderepa, Rabuame",F,PAWAYAMO,Household Duties,01 Jan 1988
+166,160396694,"Manderepa, Roselyn",F,PAWAYAMO,Student,01 Jan 1987
+167,160396239,"Manderepa, Susana",F,PAWAYAMO,Student,01 Jan 1972
+168,160395686,"Mandesi, Joshina",F,PAWAYAMO,Subsistence Farmer,01 Jan 1988
+169,160499050,"Mark, Resi",F,PAWAYAMO,Household Duties,24 Feb 1989
+170,160507136,"Martin, Betty",F,PAWAYAMO,Household Duties,02 Feb 1999
+171,160507137,"Martin, Monica",F,PAWAYAMO,Subsistence Farmer,19 Dec 1998
+172,160379607,"Mary, Moma",F,PAWAYAMO,Household Duties,01 Jan 1966
+173,160431355,"Mathew, Nilkila",F,PAWAYAMO,Household Duties,25 Jun 1987
+174,160390541,"Matilin, Supa",F,PAWAYAMO,Household Duties,01 Jan 1989
+175,160431351,"Mea, Hellen",F,PAWAYAMO,Housegirl,21 Jul 1985
+176,160499053,"Mendo, Lorien",F,PAWAYAMO,Student,03 Apr 2004
+177,160404079,"Mendo, Rombo",F,PAWAYAMO,Subsistence Farmer,01 Jan 1961
+178,160404402,"Mendo, Yondopame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1987
+179,160404118,"Mokae, Jenet",F,PAWAYAMO,Subsistence Farmer,01 Jan 1984
+180,160404117,"Mokae, Julie",F,PAWAYAMO,Subsistence Farmer,01 Jan 1979
+181,160403955,"Mokae, Matadanu",F,PAWAYAMO,Subsistence Farmer,01 Jan 1954
+182,160379084,"Mokae, Nogosi",F,PAWAYAMO,Household Duties,01 Jan 1958
+183,160379656,"Mokae, Polin",F,PAWAYAMO,Household Duties,01 Jan 1985
+184,160396246,"Moma, Helen",F,PAWAYAMO,Subsistence Farmer,01 Jan 1976
+185,160396700,"Moma, Yokeame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1957
+186,160385096,"Momo, Ina",F,PAWAYAMO,Household Duties,01 Jan 1957
+187,160381684,"Morin, Kimbu",F,PAWAYAMO,Teacher,01 Jan 1988
+188,160397799,"Mote, Linet",F,PAWAYAMO,Subsistence Farmer,01 Jan 1961
+189,160398361,"Mura, Ali",F,PAWAYAMO,Subsistence Farmer,01 Jan 1986
+190,160398431,"Mura, Giame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1989
+191,160399115,"Mura, Julie",F,PAWAYAMO,Subsistence Farmer,01 Jan 1975
+192,160398362,"Mura, Nandame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1989
+193,160499056,"Mura, Pono",F,PAWAYAMO,Student,22 Apr 2004
+194,160398363,"Mura, Yondopame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1970
+195,160403947,"Muruks, Dokas",F,PAWAYAMO,Subsistence Farmer,01 Jan 1970
+196,160403946,"Muruks, Elizabeth",F,PAWAYAMO,Subsistence Farmer,01 Jan 1968
+197,160499059,"Nadesu, Enmeri",F,PAWAYAMO,Household Duties,04 Jun 1989
+198,160507161,"Nana, Epenogo",F,PAWAYAMO,Subsistence Farmer,01 Nov 1989
+199,160381489,"Naname, Kombea",F,PAWAYAMO,Household Duties,01 Jan 1959
+200,160433045,"Nephien, Mourin",F,PAWAYAMO,Teacher,09 May 1985
+201,160286385,"Normis, Prisila",F,PAWAYAMO,Hairdresser,24 Aug 1990
+202,160286377,"Obert, Mana",F,PAWAYAMO,Hairdresser,01 Feb 1995
+203,160294041,"Opa, Frinda",F,PAWAYAMO,Sales Women,12 Feb 1991
+204,160499062,"Osak, Lapi",F,PAWAYAMO,Student,12 Mar 2004
+205,160286399,"Oseke, Rambami",F,PAWAYAMO,Hairdresser,21 Aug 1978
+206,160286383,"Ota, John",F,PAWAYAMO,Painter,23 Feb 1967
+207,160499073,"Ota, Lapida",F,PAWAYAMO,Household Duties,02 Jun 1997
+208,160499076,"Ota, Name",F,PAWAYAMO,Student,28 Apr 2004
+209,160402818,"Pakena, Nembo",F,PAWAYAMO,Subsistence Farmer,01 Jan 1951
+210,160381483,"Pamela, Muruks",F,PAWAYAMO,Household Duties,01 Jan 1987
+211,160398351,"Pamuali, Rugulame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1977
+212,160292109,"Pandaria, Kiru",F,PAWAYAMO,Household Duties,01 Mar 1961
+213,160293880,"Papson, Regina",F,PAWAYAMO,Household Duties,02 Jun 1987
+214,160499079,"Paul, Jelly",F,PAWAYAMO,Student,09 Mar 2004
+215,160499082,"Paul, Jeniffer",F,PAWAYAMO,Student,19 Apr 2004
+216,160400911,"Peawi, Adiame",F,PAWAYAMO,Student,01 Jan 1979
+217,160499088,"Peawi, Hellen",F,PAWAYAMO,Nurse,05 Jun 1991
+218,160499091,"Peawi, Helly",F,PAWAYAMO,Household Duties,05 Mar 1999
+219,160400202,"Peawi, Jenny",F,PAWAYAMO,Subsistence Farmer,01 Jan 1980
+220,160400908,"Peawi, Kuit",F,PAWAYAMO,Household Duties,01 Jan 1976
+221,160400196,"Peawi, Kupunu",F,PAWAYAMO,Subsistence Farmer,01 Jan 1946
+222,160499100,"Peawi, Merytolia",F,PAWAYAMO,Student,12 Sep 1997
+223,160400205,"Peawi, Rebeca",F,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+224,160396250,"Peter, Belida",F,PAWAYAMO,Subsistence Farmer,01 Jan 1983
+225,160377704,"Peter, Jenny",F,PAWAYAMO,Housegirl,01 Jan 1980
+226,160378239,"Peter, Kareame",F,PAWAYAMO,Household Duties,01 Jan 1985
+227,160378233,"Peter, Keron",F,PAWAYAMO,Housegirl,01 Jan 1988
+228,160396249,"Peter, Lea",F,PAWAYAMO,Subsistence Farmer,01 Jan 1961
+229,160396258,"Peter, Lusmeri",F,PAWAYAMO,Student,01 Jan 1989
+230,160379961,"Peter, Margret",F,PAWAYAMO,Household Duties,01 Jan 1986
+231,160286387,"Peter, Mecki",F,PAWAYAMO,Hairdresser,18 Aug 1997
+232,160286369,"Peter, Mekunda",F,PAWAYAMO,Sales Women,24 Apr 1998
+233,160286370,"Peter, Noto",F,PAWAYAMO,Sales Women,15 Apr 1996
+234,160286398,"Pono, Gloria",F,PAWAYAMO,Hairdresser,01 Dec 1986
+235,160294043,"Pugu, Jennipa",F,PAWAYAMO,Sales Women,28 Oct 1984
+236,160381703,"Rachael, Ruma",F,PAWAYAMO,Student,01 Jan 1992
+237,160390540,"Raino, Supa",F,PAWAYAMO,Household Duties,01 Jan 1962
+238,160398359,"Raku, Malida",F,PAWAYAMO,Subsistence Farmer,01 Jan 1981
+239,160402987,"Ralu, Momogo",F,PAWAYAMO,Subsistence Farmer,01 Jan 1957
+240,160402997,"Ralu, Saina",F,PAWAYAMO,Subsistence Farmer,01 Jan 1977
+241,160293879,"Rambialo, Moni",F,PAWAYAMO,Household Duties,17 Apr 1968
+242,160398511,"Rara, Beki",F,PAWAYAMO,Subsistence Farmer,01 Jan 1968
+243,160397790,"Rara, Esther",F,PAWAYAMO,Subsistence Farmer,01 Jan 1972
+244,160398514,"Rara, Loame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1983
+245,160387248,"Rebecca, Ralu",F,PAWAYAMO,Student,01 Jan 1990
+246,160396918,"Rema, Carolin",F,PAWAYAMO,Subsistence Farmer,01 Jan 1977
+247,160396880,"Rema, Josicca",F,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+248,160397279,"Rema, Mitcheal",F,PAWAYAMO,Subsistence Farmer,01 Jan 1980
+249,160396917,"Rema, Uri",F,PAWAYAMO,Subsistence Farmer,01 Jan 1950
+250,160397195,"Riabe, Betty",F,PAWAYAMO,Subsistence Farmer,01 Jan 1975
+251,160396735,"Riabe, Kiminu",F,PAWAYAMO,Subsistence Farmer,01 Jan 1946
+252,160286272,"Richard, Angola",F,PAWAYAMO,Hairdresser,30 Mar 1984
+253,160286273,"Richard, Elis",F,PAWAYAMO,Hairdresser,02 Oct 1975
+254,160292115,"Ripa, Rebecca",F,PAWAYAMO,Housegirl,24 Jun 1980
+255,160499110,"Robert, Alina",F,PAWAYAMO,Student,07 Apr 2004
+256,160433048,"Ruben, Eli",F,PAWAYAMO,Hairdresser,01 Aug 1984
+257,160286718,"Ruben, Marry",F,PAWAYAMO,Hairdresser,06 Aug 1994
+258,160404396,"Ruma, Kalayame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1966
+259,160404397,"Ruma, Pollin",F,PAWAYAMO,Subsistence Farmer,01 Jan 1969
+260,160396975,"Ruri, Keron",F,PAWAYAMO,Subsistence Farmer,01 Jan 1981
+261,160396976,"Ruri, Rosa",F,PAWAYAMO,Subsistence Farmer,01 Jan 1980
+262,160499125,"Sak, Jerida",F,PAWAYAMO,Student,02 Apr 2004
+263,160395698,"Sakalu, Pollin",F,PAWAYAMO,Subsistence Farmer,01 Jan 1982
+264,160397801,"Sakias, Aluame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1951
+265,160397800,"Sakias, Lina",F,PAWAYAMO,Subsistence Farmer,01 Jan 1976
+266,160433034,"Samu, Lin",F,PAWAYAMO,Hairdresser,08 Mar 1989
+267,160499131,"Sape, Linet",F,PAWAYAMO,Household Duties,16 Mar 1981
+268,160499134,"Sark, Sementa",F,PAWAYAMO,Student,02 Mar 2004
+269,160433031,"Shark, Josephin",F,PAWAYAMO,Hairdresser,07 Mar 1979
+270,160396874,"Sii, Doris",F,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+271,160396873,"Sii, Maponame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1949
+272,160499139,"Simon, Freda",F,PAWAYAMO,Household Duties,09 May 1994
+273,160433039,"Soti, Resel",F,PAWAYAMO,Hairdresser,03 Jul 1992
+274,160395691,"Supa, Rumbi",F,PAWAYAMO,Subsistence Farmer,01 Jan 1958
+275,160286378,"Taias, Gilda",F,PAWAYAMO,Hairdresser,10 Jul 1997
+276,160400895,"Tom, Elizabeth",F,PAWAYAMO,Subsistence Farmer,01 Jan 1972
+277,160401886,"Tom, Emelin",F,PAWAYAMO,Student,01 Jan 1974
+278,160400898,"Tom, Helen",F,PAWAYAMO,Subsistence Farmer,01 Jan 1978
+279,160397175,"Usayaka, Nogosi",F,PAWAYAMO,Subsistence Farmer,01 Jan 1959
+280,160397485,"Usayaka, Nokonu",F,PAWAYAMO,Subsistence Farmer,01 Jan 1956
+281,160499147,"Wabuasi, Lusi",F,PAWAYAMO,Nurse,15 Apr 1993
+282,160286270,"Walape, Sosoly",F,PAWAYAMO,Sales Women,28 Dec 1997
+283,160400894,"Walepe, Sande",F,PAWAYAMO,Subsistence Farmer,01 Jan 1985
+284,160401880,"Walepe, Yalonu",F,PAWAYAMO,Subsistence Farmer,01 Jan 1963
+285,160404963,"Wambuasi, Dobeta",F,PAWAYAMO,Teacher,01 Jan 1971
+286,160404964,"Wambuasi, Dorothy",F,PAWAYAMO,Student,01 Jan 1983
+287,160403018,"Wambuasi, Malida",F,PAWAYAMO,Subsistence Farmer,01 Jan 1975
+288,160403001,"Wambuasi, Sisi",F,PAWAYAMO,Subsistence Farmer,01 Jan 1950
+289,160499153,"Wanpis, Julian",F,PAWAYAMO,Household Duties,05 Jun 1997
+290,160499155,"Wanpis, Leoni",F,PAWAYAMO,Nurse,05 Mar 1996
+291,160400213,"Wanpis, Loame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1964
+292,160400221,"Wanpis, Mendo",F,PAWAYAMO,Subsistence Farmer,01 Jan 1964
+293,160499157,"Wanpis, Merry",F,PAWAYAMO,Student,15 Mar 2004
+294,160286390,"Wanpis, Nancy",F,PAWAYAMO,Sales Women,24 Apr 1998
+295,160400892,"Wanpis, Wendi",F,PAWAYAMO,Subsistence Farmer,01 Jan 1981
+296,160397789,"Wapiali, Onape",F,PAWAYAMO,Subsistence Farmer,01 Jan 1958
+297,160499168,"Wapo, Harmon",F,PAWAYAMO,Student,19 Apr 2004
+298,160499172,"Wapo, Kessy",F,PAWAYAMO,Student,25 Apr 2004
+299,160397483,"Wapo, Margret",F,PAWAYAMO,Subsistence Farmer,01 Jan 1976
+300,160286391,"Wari, Rachael",F,PAWAYAMO,Hairdresser,03 May 1989
+301,160387253,"Warisa, Ralu",F,PAWAYAMO,Household Duties,01 Jan 1987
+302,160372958,"Watuma, Betty",F,PAWAYAMO,Household Duties,01 Jan 1993
+303,160396897,"Watuma, Jennifer",F,PAWAYAMO,Subsistence Farmer,01 Jan 1982
+304,160396899,"Watuma, Jesetina",F,PAWAYAMO,Student,01 Jan 1986
+305,160397202,"Watuma, Julie",F,PAWAYAMO,Subsistence Farmer,01 Jan 1966
+306,160373352,"Watuma, Kera",F,PAWAYAMO,Student,01 Jan 1990
+307,160373353,"Watuma, Lina",F,PAWAYAMO,Subsistence Farmer,01 Jan 1985
+308,160372960,"Watuma, Linet",F,PAWAYAMO,Student,01 Jan 1990
+309,160377187,"Watuma, Martina",F,PAWAYAMO,Household Duties,01 Jan 1980
+310,160396736,"Watuma, Ranunu",F,PAWAYAMO,Subsistence Farmer,01 Jan 1958
+311,160372956,"Watuma, Ruth",F,PAWAYAMO,Student,01 Jan 1993
+312,160372961,"Watuma, Susan",F,PAWAYAMO,Household Duties,01 Jan 1979
+313,160431349,"William, Jenny",F,PAWAYAMO,Student,04 Jun 1990
+314,160431347,"William, Lilian",F,PAWAYAMO,Housegirl,14 Jul 1968
+315,160396684,"Yake, Helen",F,PAWAYAMO,Subsistence Farmer,01 Jan 1957
+316,160401872,"Yakipu, Akila",F,PAWAYAMO,Student,01 Jan 1988
+317,160401870,"Yakipu, Barbara",F,PAWAYAMO,Subsistence Farmer,01 Jan 1976
+318,160402833,"Yakipu, Cathy",F,PAWAYAMO,Subsistence Farmer,01 Jan 1973
+319,160401865,"Yakipu, Lena",F,PAWAYAMO,Subsistence Farmer,01 Jan 1977
+320,160380533,"Yakipu, Lesi",F,PAWAYAMO,Student,01 Jan 1993
+321,160401864,"Yakipu, Margret",F,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+322,160380421,"Yakipu, Mela",F,PAWAYAMO,Student,01 Jan 1990
+323,160402806,"Yakipu, Nogo",F,PAWAYAMO,Subsistence Farmer,01 Jan 1956
+324,160401856,"Yakipu, Ondame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1950
+325,160402835,"Yakipu, Regina",F,PAWAYAMO,Subsistence Farmer,01 Jan 1978
+326,160402808,"Yakipu, Roselyn",F,PAWAYAMO,Student,01 Jan 1976
+327,160372967,"Yakipu, Upiame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+328,160398433,"Yanda, Gloria",F,PAWAYAMO,Student,01 Jan 1988
+329,160399098,"Yanda, Ikimandi",F,PAWAYAMO,Subsistence Farmer,01 Jan 1959
+330,160399100,"Yanda, Lina",F,PAWAYAMO,Subsistence Farmer,01 Jan 1980
+331,160396732,"Yandapu, Maki",F,PAWAYAMO,Subsistence Farmer,01 Jan 1972
+332,160397189,"Yandapu, Puniame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1968
+333,160396910,"Yandi, Epape",F,PAWAYAMO,Subsistence Farmer,01 Jan 1951
+334,160396914,"Yandi, Yapusi",F,PAWAYAMO,Subsistence Farmer,01 Jan 1955
+335,160397705,"Yapa, Betty",F,PAWAYAMO,Subsistence Farmer,01 Jan 1977
+336,160499182,"Yapa, Ema",F,PAWAYAMO,Student,10 Apr 2004
+337,160377193,"Yapa, Eyame",F,PAWAYAMO,Household Duties,01 Jan 1950
+338,160377212,"Yapa, Lilly",F,PAWAYAMO,Household Duties,01 Jan 1988
+339,160397784,"Yapa, Marian",F,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+340,160499187,"Yari, Merolyn",F,PAWAYAMO,Household Duties,15 Apr 1997
+341,160398234,"Yari, Rege",F,PAWAYAMO,Subsistence Farmer,01 Jan 1943
+342,160398526,"Yari, Roselyn",F,PAWAYAMO,Subsistence Farmer,01 Jan 1976
+343,160499189,"Yari, Wando",F,PAWAYAMO,Household Duties,09 Feb 1967
+344,160398344,"Yata, Kareame",F,PAWAYAMO,Subsistence Farmer,01 Jan 1978
+345,160398529,"Yata, Maki",F,PAWAYAMO,Subsistence Farmer,01 Jan 1977
+346,160398530,"Yata, Onapanogo",F,PAWAYAMO,Subsistence Farmer,01 Jan 1939
+347,160396803,"Yata, Regina",F,PAWAYAMO,Subsistence Farmer,01 Jan 1976
+348,160396907,"Yata, Veronica",F,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+349,160397206,"Yata, Walaname",F,PAWAYAMO,Subsistence Farmer,01 Jan 1956
+350,160396695,"Yauwa, Sumbili",F,PAWAYAMO,Subsistence Farmer,01 Jan 1956
+351,160398862,"Yawa, Ruth",F,PAWAYAMO,Subsistence Farmer,01 Jan 1964
+352,160381467,"Aga, Barnabas",M,PAWAYAMO,Subsistence Farmer,01 Jan 1958
+353,160380538,"Aga, Kama",M,PAWAYAMO,Subsistence Farmer,01 Jan 1964
+354,160498942,"Aga, Mark",M,PAWAYAMO,Subsistence Farmer,15 Mar 1992
+355,160380511,"Aga, Paina",M,PAWAYAMO,Subsistence Farmer,01 Jan 1979
+356,160498944,"Aga, Sam",M,PAWAYAMO,Subsistence Farmer,04 Sep 1998
+357,160397660,"Aga, Soltan",M,PAWAYAMO,Subsistence Farmer,01 Jan 1982
+358,160380509,"Aga, Sumuel",M,PAWAYAMO,Subsistence Farmer,01 Jan 1991
+359,160397781,"Aga, William",M,PAWAYAMO,Subsistence Farmer,01 Jan 1976
+360,160396243,"Agawali, Manderepa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1955
+361,160395687,"Agawali, Sakalu",M,PAWAYAMO,Subsistence Farmer,01 Jan 1958
+362,160507065,"Aimos, Watuma",M,PAWAYAMO,Subsistence Farmer,05 Jun 1968
+363,160397787,"Aipu, Brian",M,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+364,160398427,"Aipu, Eki",M,PAWAYAMO,Subsistence Farmer,01 Jan 1985
+365,160398423,"Aipu, Ipisa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1985
+366,160498946,"Aipu, Jeth",M,PAWAYAMO,Student,02 Jun 1994
+367,160380636,"Aipu, Jethro",M,PAWAYAMO,Student,01 Jan 1993
+368,160380104,"Aipu, Kasainari",M,PAWAYAMO,Subsistence Farmer,01 Jan 1987
+369,160398424,"Aipu, Kinsely",M,PAWAYAMO,Student,01 Jan 1984
+370,160380418,"Aipu, Pula",M,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+371,160380082,"Aipu, Robert",M,PAWAYAMO,Subsistence Farmer,01 Jan 1979
+372,160397807,"Aipu, Saimon",M,PAWAYAMO,Subsistence Farmer,01 Jan 1969
+373,160397811,"Aipu, Warea",M,PAWAYAMO,Subsistence Farmer,01 Jan 1986
+374,160387234,"Alex, Supa",M,PAWAYAMO,Teacher,01 Jan 1982
+375,160381706,"Alia, Aimos",M,PAWAYAMO,Student,01 Jan 1989
+376,160398420,"Alia, Ainalu",M,PAWAYAMO,Subsistence Farmer,01 Jan 1962
+377,160397803,"Alia, Anderson",M,PAWAYAMO,Subsistence Farmer,01 Jan 1978
+378,160381907,"Alia, Andsape",M,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+379,160381712,"Alia, Andy",M,PAWAYAMO,Subsistence Farmer,01 Jan 1989
+380,160381713,"Alia, Daniel",M,PAWAYAMO,Subsistence Farmer,01 Jan 1993
+381,160381707,"Alia, Jackson",M,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+382,160398419,"Alia, Korowin",M,PAWAYAMO,Subsistence Farmer,01 Jan 1973
+383,160383621,"Alia, Nick",M,PAWAYAMO,Subsistence Farmer,01 Jan 1970
+384,160498947,"Alia, Noman",M,PAWAYAMO,Student,06 Apr 2004
+385,160498949,"Alia, Pawayamo",M,PAWAYAMO,Student,06 Apr 2004
+386,160498952,"Alia, Pipi",M,PAWAYAMO,Subsistence Farmer,01 Apr 2004
+387,160381699,"Alia, Ruli",M,PAWAYAMO,Subsistence Farmer,01 Jan 1960
+388,160381698,"Alia, Samson",M,PAWAYAMO,Subsistence Farmer,01 Jan 1962
+389,160381928,"Alia, Solomon",M,PAWAYAMO,Subsistence Farmer,01 Jan 1991
+390,160381719,"Alia, Tom",M,PAWAYAMO,Subsistence Farmer,01 Jan 1987
+391,160397802,"Alia, Wapa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1956
+392,160433036,"Andrew, Apea",M,PAWAYAMO,Sales Women,21 Jun 1976
+393,160396974,"Andrew, Christopher",M,PAWAYAMO,Subsistence Farmer,01 Jan 1958
+394,160433028,"Andrew, Elvis",M,PAWAYAMO,Sales Women,10 May 1997
+395,160286396,"Andrew, Nata",M,PAWAYAMO,Sales Women,30 Jul 1989
+396,160286531,"Andrew, Sol",M,PAWAYAMO,Sales Women,16 Apr 1993
+397,160498956,"Anthon, Kenny",M,PAWAYAMO,Student,10 Apr 2004
+398,160498958,"Anthon, Melkei",M,PAWAYAMO,Student,16 Apr 2004
+399,160498960,"Apasi, Aten",M,PAWAYAMO,Student,20 Apr 2004
+400,160396925,"Apasi, Gibson",M,PAWAYAMO,Subsistence Farmer,01 Jan 1978
+401,160286532,"Apasi, Japhet",M,PAWAYAMO,Sales Women,07 Aug 1991
+402,160286533,"Apasi, Livai",M,PAWAYAMO,Sales Women,03 Feb 1996
+403,160396883,"Apasi, Micheal",M,PAWAYAMO,Subsistence Farmer,01 Jan 1978
+404,160396254,"Apasi, Pita",M,PAWAYAMO,Subsistence Farmer,01 Jan 1968
+405,160396886,"Apasi, Yala",M,PAWAYAMO,Subsistence Farmer,01 Jan 1982
+406,160396234,"Apea, Supa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1947
+407,160395695,"Apea, Tulapue",M,PAWAYAMO,Subsistence Farmer,01 Jan 1957
+408,160507066,"Arnold, Japhet",M,PAWAYAMO,Student,09 Aug 1998
+409,160399118,"Asi, Andia",M,PAWAYAMO,Subsistence Farmer,01 Jan 1980
+410,160433077,"Asi, Isack",M,PAWAYAMO,Student,04 Nov 1992
+411,160433078,"Asi, Joel",M,PAWAYAMO,Factory Worker,12 Dec 1973
+412,160396807,"Asi, Joel",M,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+413,160286535,"Asi, John",M,PAWAYAMO,Sales Women,07 Apr 1970
+414,160286534,"Asi, Kepele",M,PAWAYAMO,Sales Women,03 May 1992
+415,160433079,"Asi, Manuel",M,PAWAYAMO,Subsistence Farmer,10 Jul 1976
+416,160498966,"Asi, Mosa",M,PAWAYAMO,Student,14 Apr 2004
+417,160498971,"Asuma, Palsen",M,PAWAYAMO,Student,26 Feb 2004
+418,160398348,"Asuma, Rex",M,PAWAYAMO,Pastor,01 Jan 1968
+419,160292116,"Asupa, Jonathan",M,PAWAYAMO,Student,18 Sep 1982
+420,160431793,"Asupa, Valentine",M,PAWAYAMO,Student,25 Oct 1990
+421,160381709,"Bana, Bonny",M,PAWAYAMO,Household Duties,01 Jan 1979
+422,160404121,"Bana, Samuel",M,PAWAYAMO,Subsistence Farmer,01 Jan 1949
+423,160397817,"Basupia, Eta",M,PAWAYAMO,Subsistence Farmer,01 Jan 1942
+424,160398520,"Basupia, Ipisa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1983
+425,160397819,"Basupia, Nandea",M,PAWAYAMO,Subsistence Farmer,01 Jan 1977
+426,160498974,"Beki, Stanley",M,PAWAYAMO,Student,09 Apr 2004
+427,160397191,"Ben, Watuma",M,PAWAYAMO,Subsistence Farmer,01 Jan 1964
+428,160507068,"Betamu, Muruks",M,PAWAYAMO,Student,10 Jun 1997
+429,160294038,"Bin, Sama",M,PAWAYAMO,Sales Women,02 Jan 1998
+430,160387230,"Bonny, Supa",M,PAWAYAMO,Salesman,01 Jan 1968
+431,160396924,"Buka, Benard",M,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+432,160396872,"Busu, Rema",M,PAWAYAMO,Subsistence Farmer,01 Jan 1946
+433,160381485,"Christina, Muruks",M,PAWAYAMO,Student,01 Jan 1993
+434,160507069,"Dairus, Yakipu",M,PAWAYAMO,Student,07 Jun 2000
+435,160507071,"Darren, Watuma",M,PAWAYAMO,Student,09 Apr 2004
+436,160386624,"Desmond, Ina",M,PAWAYAMO,Subsistence Farmer,01 Jan 1984
+437,160507073,"Edwin, Watuma",M,PAWAYAMO,Student,27 Jun 2003
+438,160402803,"Egama, Ken",M,PAWAYAMO,Subsistence Farmer,01 Jan 1964
+439,160286277,"Eki, Enjoel",M,PAWAYAMO,Sales Women,18 Mar 1991
+440,160380487,"Elton, Sakias",M,PAWAYAMO,Student,01 Jan 1993
+441,160380602,"Eric, Manderepa",M,PAWAYAMO,Student,01 Jan 1990
+442,160507077,"Esama, Jeffenies",M,PAWAYAMO,Student,02 Mar 1999
+443,160433043,"Exodus, Brendon",M,PAWAYAMO,Sales Women,06 May 1992
+444,160498983,"Exodus, Malakai",M,PAWAYAMO,Student,11 Apr 2004
+445,160286393,"Exodus, Noky",M,PAWAYAMO,Sales Women,05 Jun 1995
+446,160507080,"Eya, Kandipu",M,PAWAYAMO,Subsistence Farmer,26 Dec 1992
+447,160507090,"Eya, Maxon",M,PAWAYAMO,Subsistence Farmer,13 Feb 2000
+448,160507091,"Eya, Naki",M,PAWAYAMO,Subsistence Farmer,21 Jul 1987
+449,160507093,"Eya, Osa",M,PAWAYAMO,Subsistence Farmer,03 Aug 1999
+450,160382116,"Gaima, Kimbu",M,PAWAYAMO,Student,01 Jan 1985
+451,160507095,"Gideon, Yakipu",M,PAWAYAMO,Student,06 Aug 1998
+452,160507096,"Hame, Watuma",M,PAWAYAMO,Student,02 Jun 2001
+453,160507098,"Ila, Yakiupu",M,PAWAYAMO,Student,04 Jun 2003
+454,160385089,"Immanuel, Sakias",M,PAWAYAMO,Subsistence Farmer,01 Jan 1989
+455,160395549,"Ina, Nelson",M,PAWAYAMO,Subsistence Farmer,01 Jan 1980
+456,160403016,"Ina, Sama",M,PAWAYAMO,Subsistence Farmer,01 Jan 1961
+457,160395556,"Ina, Taias",M,PAWAYAMO,Evangelist,01 Jan 1967
+458,160395688,"Ina, Timothy",M,PAWAYAMO,Subsistence Farmer,01 Jan 1969
+459,160395674,"Ina, Yaling",M,PAWAYAMO,Clerk,01 Jan 1950
+460,160396892,"Innok, William",M,PAWAYAMO,Student,01 Jan 1985
+461,160433080,"Inock, Nason",M,PAWAYAMO,Student,15 Sep 1994
+462,160286538,"Inok, Ham",M,PAWAYAMO,Sales Women,02 Apr 1995
+463,160379602,"Italisi, Dominic",M,PAWAYAMO,Houseboy,01 Jan 1991
+464,160379603,"Italisi, Kombea",M,PAWAYAMO,Subsistence Farmer,01 Jan 1957
+465,160403336,"Italisi, Rati",M,PAWAYAMO,Subsistence Farmer,01 Jan 1962
+466,160403345,"Italisi, Rodney",M,PAWAYAMO,Student,01 Jan 1983
+467,160286271,"Jack, Eric",M,PAWAYAMO,Sales Women,26 Jul 1992
+468,160498999,"Jacob, Henry",M,PAWAYAMO,Student,28 Apr 2004
+469,160499002,"Japhet, Aron",M,PAWAYAMO,Student,07 Apr 2004
+470,160386628,"Jeffry, Supa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1983
+471,160507101,"Jerry, Jacob",M,PAWAYAMO,Student,03 Jun 1999
+472,160294046,"Jim, Smith",M,PAWAYAMO,Sales Women,02 Jul 1994
+473,160385102,"Joel, Ralu",M,PAWAYAMO,Subsistence Farmer,01 Jan 1988
+474,160286381,"John, Manuel",M,PAWAYAMO,Sales Women,19 Mar 1990
+475,160507102,"Jordie, Watuma",M,PAWAYAMO,Student,04 Jul 2003
+476,160381695,"Joshua, Mendo",M,PAWAYAMO,Salesman,01 Jan 1990
+477,160381944,"Julesan, Ruma",M,PAWAYAMO,Student,01 Jan 1993
+478,160386629,"Junior, Supa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1989
+479,160286274,"Justin, Ririma",M,PAWAYAMO,Sales Women,04 Jun 1997
+480,160397201,"Kaima, Monthy",M,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+481,160396896,"Kaima, Richard",M,PAWAYAMO,Subsistence Farmer,01 Jan 1980
+482,160396906,"Kaima, Robin",M,PAWAYAMO,Subsistence Farmer,01 Jan 1989
+483,160397209,"Kaima, Ruben",M,PAWAYAMO,Subsistence Farmer,01 Jan 1986
+484,160397208,"Kaima, Tom",M,PAWAYAMO,Student,01 Jan 1984
+485,160396262,"Kaima, Willison",M,PAWAYAMO,Subsistence Farmer,01 Jan 1958
+486,160397270,"Kalai, Nandoma",M,PAWAYAMO,Subsistence Farmer,01 Jan 1975
+487,160396869,"Kalai, Piru",M,PAWAYAMO,Subsistence Farmer,01 Jan 1979
+488,160286540,"Kalai, Robesa",M,PAWAYAMO,Sales Women,09 Jun 1991
+489,160431795,"Kambe, Ben",M,PAWAYAMO,Subsistence Farmer,16 Nov 1990
+490,160403951,"Kambe, Benjamen",M,PAWAYAMO,Subsistence Farmer,01 Jan 1982
+491,160291919,"Kambe, Kenneth",M,PAWAYAMO,Student,19 May 1988
+492,160286267,"Kambe, Lopa",M,PAWAYAMO,Sales Women,02 Jun 1990
+493,160291920,"Kambe, Luke",M,PAWAYAMO,Student,15 Oct 1994
+494,160402751,"Kambe, Ria",M,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+495,160286278,"Kambita, Dickson",M,PAWAYAMO,Sales Women,16 Sep 1979
+496,160286375,"Kambita, Oseke",M,PAWAYAMO,Sales Women,05 Jan 1973
+497,160387368,"Kaya, Supa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1958
+498,160286719,"Ken, Apolos",M,PAWAYAMO,Not Specified,17 Aug 1990
+499,160395544,"Ken, Mealo",M,PAWAYAMO,Subsistence Farmer,01 Jan 1967
+500,160499008,"Ken, Mika",M,PAWAYAMO,Student,09 Mar 2004
+501,160499010,"Kenda, Kaliga",M,PAWAYAMO,Subsistence Farmer,18 Feb 1993
+502,160499013,"Kenda, Kinspot",M,PAWAYAMO,Student,07 Jan 2004
+503,160499016,"Kenda, Ruben",M,PAWAYAMO,Student,14 Mar 1999
+504,160286721,"Kenoa, Lennet",M,PAWAYAMO,Subsistence Farmer,14 Aug 1989
+505,160398517,"Kenoa, Lus",M,PAWAYAMO,Subsistence Farmer,01 Jan 1965
+506,160433041,"Kenoa, Markus",M,PAWAYAMO,Sales Women,19 Aug 1978
+507,160499020,"Kenoa, Samuel",M,PAWAYAMO,Student,10 Apr 2004
+508,160286268,"Kenoa, Shark",M,PAWAYAMO,Sales Women,12 Sep 1976
+509,160402826,"Kerasi, Ralu",M,PAWAYAMO,Subsistence Farmer,01 Jan 1941
+510,160499023,"Kiap, Pis misak",M,PAWAYAMO,Pastor,19 Mar 1977
+511,160286376,"Kimbita, Ero",M,PAWAYAMO,Sales Women,09 Oct 1972
+512,160395484,"Kimbu, Brian",M,PAWAYAMO,Student,01 Jan 1986
+513,160395535,"Kimbu, David",M,PAWAYAMO,Subsistence Farmer,01 Jan 1979
+514,160395534,"Kimbu, Jetro",M,PAWAYAMO,Student,01 Jan 1971
+515,160395481,"Kimbu, Martin",M,PAWAYAMO,Student,01 Jan 1985
+516,160395479,"Kimbu, Mathew",M,PAWAYAMO,Subsistence Farmer,01 Jan 1980
+517,160395477,"Kimbu, Stanley",M,PAWAYAMO,Subsistence Farmer,01 Jan 1979
+518,160387239,"Kone, Pakena",M,PAWAYAMO,Subsistence Farmer,01 Jan 1960
+519,160507114,"Kopa, Olopa",M,PAWAYAMO,Student,01 Jun 2003
+520,160400907,"Kopa, Peawi",M,PAWAYAMO,Subsistence Farmer,01 Jan 1943
+521,160433032,"Kotapu, Bera",M,PAWAYAMO,Sales Women,10 Feb 1996
+522,160286723,"Kotapu, Nele",M,PAWAYAMO,Subsistence Farmer,03 Nov 1994
+523,160499035,"Kotapu, Stanley",M,PAWAYAMO,Student,28 Apr 2004
+524,160507117,"Kotapu, Wabo",M,PAWAYAMO,Student,26 Jun 2003
+525,160395465,"Kunia, Kombea",M,PAWAYAMO,Subsistence Farmer,01 Jan 1963
+526,160292112,"Kuta, Abraham",M,PAWAYAMO,Student,16 Mar 1987
+527,160292110,"Kuta, Ruben",M,PAWAYAMO,Student,17 Aug 1980
+528,160292114,"Kuta, Simon",M,PAWAYAMO,Subsistence Farmer,15 Oct 1979
+529,160292113,"Kuta, Timson",M,PAWAYAMO,Student,04 Mar 1990
+530,160402804,"Lame, Andrew",M,PAWAYAMO,Subsistence Farmer,01 Jan 1963
+531,160402810,"Lame, Benjamen",M,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+532,160499041,"Lame, Lasi",M,PAWAYAMO,Student,28 Apr 2004
+533,160499044,"Lame, Malson",M,PAWAYAMO,Student,04 Feb 1998
+534,160377687,"Lame, Malu",M,PAWAYAMO,Subsistence Farmer,01 Jan 1966
+535,160401866,"Lame, Peter",M,PAWAYAMO,Subsistence Farmer,01 Jan 1956
+536,160377690,"Lame, Timothy",M,PAWAYAMO,Subsistence Farmer,01 Jan 1986
+537,160286722,"Lennet, Vero",M,PAWAYAMO,Hairdresser,23 Mar 1975
+538,160381686,"Lipai, Ruma",M,PAWAYAMO,Student,01 Jan 1990
+539,160507119,"Liu, Yapa",M,PAWAYAMO,Student,07 Jun 2002
+540,160385084,"Loame, Ina",M,PAWAYAMO,Subsistence Farmer,01 Jan 1982
+541,160400913,"Loko, Lumbu",M,PAWAYAMO,Subsistence Farmer,01 Jan 1951
+542,160401878,"Loko, Walepe",M,PAWAYAMO,Subsistence Farmer,01 Jan 1949
+543,160499048,"Lucas, Kerot",M,PAWAYAMO,Subsistence Farmer,03 Apr 2004
+544,160431353,"Luke, Preson",M,PAWAYAMO,Not Specified,20 Apr 1984
+545,160386613,"Luke, Supa",M,PAWAYAMO,Doctor,01 Jan 1959
+546,160400206,"Lumbu, Gabriel",M,PAWAYAMO,Student,01 Jan 1988
+547,160286269,"Lus, Rebecca",M,PAWAYAMO,Sales Women,15 Mar 1990
+548,160431354,"Lusi, David",M,PAWAYAMO,Sales Women,04 Sep 1983
+549,160286276,"Mack, Rodney",M,PAWAYAMO,Sales Women,19 Jul 1995
+550,160286388,"Makira, Alo",M,PAWAYAMO,Sales Women,19 Aug 1995
+551,160402827,"Makirae, Asa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1987
+552,160400915,"Makirae, Yano",M,PAWAYAMO,Subsistence Farmer,01 Jan 1985
+553,160507132,"Malamea, Fredy",M,PAWAYAMO,Subsistence Farmer,01 May 2000
+554,160507134,"Malamea, Lopa",M,PAWAYAMO,Subsistence Farmer,19 Jul 1995
+555,160507135,"Malamea, Pisa",M,PAWAYAMO,Subsistence Farmer,20 Jul 1999
+556,160397192,"Mama, Andrew",M,PAWAYAMO,Subsistence Farmer,01 Jan 1960
+557,160380603,"Manderepa, Benedict",M,PAWAYAMO,Subsistence Farmer,01 Jan 1985
+558,160396240,"Manderepa, Paul",M,PAWAYAMO,Student,01 Jan 1983
+559,160396244,"Manderepa, Simbu",M,PAWAYAMO,Student,01 Jan 1978
+560,160380436,"Mandesi, Asa",M,PAWAYAMO,Student,01 Jan 1986
+561,160378226,"Mandesi, Moya",M,PAWAYAMO,Student,01 Jan 1993
+562,160379089,"Mandsi, Paul",M,PAWAYAMO,Subsistence Farmer,01 Jan 1960
+563,160397711,"Mane, Sakias",M,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+564,160379659,"Mark, Moma",M,PAWAYAMO,Subsistence Farmer,01 Jan 1989
+565,160293877,"Mark, Tennis",M,PAWAYAMO,Sales Women,14 Feb 1996
+566,160431356,"Mathew, Wilington",M,PAWAYAMO,Sales Women,20 Apr 1995
+567,160294044,"Mathew, Wilma",M,PAWAYAMO,Sales Women,12 Jun 1997
+568,160381481,"Mayasi, Kombea",M,PAWAYAMO,Subsistence Farmer,01 Jan 1970
+569,160404081,"Mendo, Agalo",M,PAWAYAMO,Student,01 Jan 1982
+570,160286539,"Mendo, Charly",M,PAWAYAMO,Sales Women,03 Mar 1997
+571,160404401,"Mendo, Malakai",M,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+572,160286275,"Mendo, Mulen",M,PAWAYAMO,Sales Women,18 Mar 1988
+573,160293878,"Mirupasi, Mark",M,PAWAYAMO,Sales Women,20 Apr 1982
+574,160507139,"Moka, Junior",M,PAWAYAMO,Student,07 Dec 2000
+575,160403333,"Mokae, Anton",M,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+576,160402758,"Mokae, Edick",M,PAWAYAMO,Subsistence Farmer,01 Jan 1970
+577,160402759,"Mokae, Manase",M,PAWAYAMO,Subsistence Farmer,01 Jan 1979
+578,160507141,"Moke, Aku",M,PAWAYAMO,Subsistence Farmer,15 Feb 2000
+579,160507153,"Moke, Dolly",M,PAWAYAMO,Subsistence Farmer,16 Jan 1978
+580,160507155,"Moke, James",M,PAWAYAMO,Subsistence Farmer,04 Mar 1985
+581,160507158,"Moke, Martin",M,PAWAYAMO,Subsistence Farmer,01 Jul 1959
+582,160396256,"Moma, Nandesu",M,PAWAYAMO,Student,01 Jan 1987
+583,160396701,"Moma, Paul",M,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+584,160396255,"Moma, Upia",M,PAWAYAMO,Subsistence Farmer,01 Jan 1978
+585,160507160,"Mope, Ila",M,PAWAYAMO,Student,15 Mar 2002
+586,160398432,"Mura, Bepi",M,PAWAYAMO,Subsistence Farmer,01 Jan 1984
+587,160398360,"Mura, Kama",M,PAWAYAMO,Subsistence Farmer,01 Jan 1963
+588,160404674,"Muruks, Amakua",M,PAWAYAMO,Subsistence Farmer,01 Jan 1977
+589,160403956,"Muruks, Lodea",M,PAWAYAMO,Subsistence Farmer,01 Jan 1969
+590,160404083,"Muruks, Robert",M,PAWAYAMO,Subsistence Farmer,01 Jan 1967
+591,160294042,"Nande, Ruben",M,PAWAYAMO,Sales Women,23 Apr 1988
+592,160379658,"Napope, Sakias",M,PAWAYAMO,Security,01 Jan 1980
+593,160382119,"Nathan, Muruks",M,PAWAYAMO,Student,01 Jan 1992
+594,160380609,"Nosope, Manderepa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1955
+595,160385088,"Obert, Sakias",M,PAWAYAMO,Subsistence Farmer,01 Jan 1987
+596,160398516,"Olanea, Kenoa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1944
+597,160395541,"Olanea, Pasuma",M,PAWAYAMO,Subsistence Farmer,01 Jan 1948
+598,160387238,"Ore, Pakena",M,PAWAYAMO,Subsistence Farmer,01 Jan 1970
+599,160499065,"Osake, Jatrak",M,PAWAYAMO,Student,02 Apr 2004
+600,160286400,"Oseke, Obert",M,PAWAYAMO,Sales Women,04 Jul 1986
+601,160286401,"Oske, Mark",M,PAWAYAMO,Sales Women,07 Jul 1989
+602,160499068,"Ota, Aron",M,PAWAYAMO,Student,01 Apr 2004
+603,160499071,"Ota, Jona",M,PAWAYAMO,Student,03 Mar 2004
+604,160381490,"Pagape, Kombea",M,PAWAYAMO,Subsistence Farmer,01 Jan 1972
+605,160382106,"Paiyala, Ruma",M,PAWAYAMO,Teacher,01 Jan 1964
+606,160403015,"Pakena, Rono",M,PAWAYAMO,Subsistence Farmer,01 Jan 1979
+607,160402825,"Pakena, Rorepa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1987
+608,160382108,"Pale, Muruks",M,PAWAYAMO,Teacher,01 Jan 1984
+609,160400211,"Pali, Wanpis",M,PAWAYAMO,Councillor,01 Jan 1958
+610,160398350,"Pamuali, Steven",M,PAWAYAMO,Subsistence Farmer,01 Jan 1969
+611,160293881,"Patrus, Patson",M,PAWAYAMO,Sales Women,21 Apr 1992
+612,160381480,"Paul, Kombea",M,PAWAYAMO,Student,01 Jan 1991
+613,160396893,"Pawa, Tili",M,PAWAYAMO,Subsistence Farmer,01 Jan 1969
+614,160400194,"Peawi, Alex",M,PAWAYAMO,Doctor,01 Jan 1974
+615,160400195,"Peawi, Eric",M,PAWAYAMO,Student,01 Jan 1980
+616,160499085,"Peawi, Gedapy",M,PAWAYAMO,Student,13 Apr 2004
+617,160286392,"Peawi, Jepy",M,PAWAYAMO,Sales Women,13 Sep 1994
+618,160499094,"Peawi, John",M,PAWAYAMO,Subsistence Farmer,29 Jan 1987
+619,160499097,"Peawi, Kiua",M,PAWAYAMO,Student,12 Apr 2004
+620,160400203,"Peawi, Marion",M,PAWAYAMO,Teacher,01 Jan 1968
+621,160286367,"Peawi, Rika",M,PAWAYAMO,Sales Women,11 Jul 1991
+622,160400910,"Peawi, Rodney",M,PAWAYAMO,Student,01 Jan 1978
+623,160381938,"Pekari, Kombea",M,PAWAYAMO,Student,01 Jan 1993
+624,160378242,"Peter, Dindi",M,PAWAYAMO,Subsistence Farmer,01 Jan 1959
+625,160378228,"Peter, Eya",M,PAWAYAMO,Subsistence Farmer,01 Jan 1950
+626,160286397,"Peter, Gabriel",M,PAWAYAMO,Sales Women,02 Nov 1993
+627,160499103,"Peter, Lourance",M,PAWAYAMO,Student,03 Sep 1997
+628,160377689,"Peter, Malamea",M,PAWAYAMO,Subsistence Farmer,01 Jan 1952
+629,160378231,"Peter, Martin",M,PAWAYAMO,Houseboy,01 Jan 1986
+630,160379580,"Peter, Mathew",M,PAWAYAMO,Student,01 Jan 1993
+631,160379581,"Peter, Nana",M,PAWAYAMO,Subsistence Farmer,01 Jan 1964
+632,160377702,"Peter, Paul",M,PAWAYAMO,Student,01 Jan 1991
+633,160396251,"Peter, Raipu",M,PAWAYAMO,Student,01 Jan 1988
+634,160377701,"Peter, Samson",M,PAWAYAMO,Student,01 Jan 1989
+635,160378107,"Peter, Turumbe",M,PAWAYAMO,Subsistence Farmer,01 Jan 1960
+636,160402829,"Pipia, Yakipu",M,PAWAYAMO,Subsistence Farmer,01 Jan 1945
+637,160396689,"Pua, Yake",M,PAWAYAMO,Driver,01 Jan 1954
+638,160398357,"Raku, Mama",M,PAWAYAMO,Subsistence Farmer,01 Jan 1967
+639,160398358,"Raku, Max",M,PAWAYAMO,Subsistence Farmer,01 Jan 1979
+640,160398405,"Ralu, Kerasi",M,PAWAYAMO,Subsistence Farmer,01 Jan 1945
+641,160402988,"Ralu, Megere",M,PAWAYAMO,Librarian,01 Jan 1974
+642,160398421,"Rani, Aipu",M,PAWAYAMO,Subsistence Farmer,01 Jan 1943
+643,160499106,"Rara, Beki",M,PAWAYAMO,Subsistence Farmer,26 Feb 1977
+644,160398513,"Rara, Pono",M,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+645,160431794,"Redita, Kambe",M,PAWAYAMO,Subsistence Farmer,16 Jul 1960
+646,160431796,"Redita, Lostin",M,PAWAYAMO,Student,27 Mar 1980
+647,160396875,"Rema, Jacob",M,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+648,160396920,"Rema, Reape",M,PAWAYAMO,Subsistence Farmer,01 Jan 1978
+649,160398414,"Remosi, Mote",M,PAWAYAMO,Subsistence Farmer,01 Jan 1957
+650,160286536,"Rex, Asaia",M,PAWAYAMO,Sales Women,19 Sep 1997
+651,160286717,"Rex, Benja",M,PAWAYAMO,Student,09 May 1994
+652,160397193,"Riabe, Upa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1963
+653,160395684,"Ripala, Mandesi",M,PAWAYAMO,Subsistence Farmer,01 Jan 1959
+654,160385801,"Riripu, Supa",M,PAWAYAMO,Farm worker,01 Jan 1963
+655,160385087,"Ronald, Ralu",M,PAWAYAMO,Pastor,01 Jan 1989
+656,160499113,"Ruma, Jordan",M,PAWAYAMO,Student,28 Apr 2004
+657,160381565,"Ruma, Muruks",M,PAWAYAMO,Subsistence Farmer,01 Jan 1968
+658,160403348,"Ruma, Tonny",M,PAWAYAMO,Subsistence Farmer,01 Jan 1965
+659,160397484,"Ruri, Andita",M,PAWAYAMO,Subsistence Farmer,01 Jan 1979
+660,160396894,"Ruri, Japhet",M,PAWAYAMO,Pastor,01 Jan 1976
+661,160499116,"Ruri, Kennedy",M,PAWAYAMO,Student,24 Jun 1992
+662,160499119,"Ruri, Moses",M,PAWAYAMO,Councillor,28 Mar 1973
+663,160499122,"Ruri, Sine",M,PAWAYAMO,Student,07 Apr 2004
+664,160380561,"Sailas, Manderepa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1980
+665,160499128,"Sak, Solomon",M,PAWAYAMO,Student,26 Apr 2004
+666,160379654,"Sakalu, Apkas",M,PAWAYAMO,Farm worker,01 Jan 1986
+667,160396241,"Sakalu, Julias",M,PAWAYAMO,Student,01 Jan 1980
+668,160380439,"Sakalu, Yano",M,PAWAYAMO,Farm worker,01 Jan 1984
+669,160396895,"Sape, Kapi",M,PAWAYAMO,Subsistence Farmer,01 Jan 1988
+670,160397197,"Sape, Pima",M,PAWAYAMO,Subsistence Farmer,01 Jan 1984
+671,160397277,"Sii, Asa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1986
+672,160397273,"Sii, Charles",M,PAWAYAMO,Subsistence Farmer,01 Jan 1968
+673,160397276,"Sii, David",M,PAWAYAMO,Subsistence Farmer,01 Jan 1980
+674,160402985,"Sii, Mark",M,PAWAYAMO,Student,01 Jan 1978
+675,160286368,"Sii, Nisa",M,PAWAYAMO,Sales Women,12 May 1992
+676,160499137,"Sii, Richard",M,PAWAYAMO,Student,04 Feb 2004
+677,160396878,"Sii, Samson",M,PAWAYAMO,Subsistence Farmer,01 Jan 1987
+678,160286389,"Steven, Simon",M,PAWAYAMO,Sales Women,25 Jan 1994
+679,160396236,"Supa, Desmon",M,PAWAYAMO,Subsistence Farmer,01 Jan 1982
+680,160499142,"Timothy, Salten",M,PAWAYAMO,Student,04 Apr 2004
+681,160387235,"Timothy, Supa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1979
+682,160400922,"Tom, Andy",M,PAWAYAMO,Subsistence Farmer,01 Jan 1974
+683,160400903,"Tom, Exodus",M,PAWAYAMO,Subsistence Farmer,01 Jan 1967
+684,160400896,"Tom, Raymond",M,PAWAYAMO,Subsistence Farmer,01 Jan 1977
+685,160381701,"Tommy, Kimbu",M,PAWAYAMO,Subsistence Farmer,01 Jan 1987
+686,160404400,"Uma'a, Mendo",M,PAWAYAMO,Subsistence Farmer,01 Jan 1956
+687,160404082,"Uma'a, Muruks",M,PAWAYAMO,Subsistence Farmer,01 Jan 1958
+688,160499144,"Upa, Gidion",M,PAWAYAMO,Student,28 Apr 2004
+689,160499146,"Upa, Tatus",M,PAWAYAMO,Subsistence Farmer,21 Mar 1999
+690,160396977,"Usayaka, Epeta",M,PAWAYAMO,Subsistence Farmer,01 Jan 1975
+691,160385080,"Wakia, Sakias",M,PAWAYAMO,Subsistence Farmer,01 Jan 1978
+692,160433042,"Walape, Assack",M,PAWAYAMO,Sales Women,23 Aug 1996
+693,160401884,"Walepe, Manda",M,PAWAYAMO,Subsistence Farmer,01 Jan 1986
+694,160401881,"Walepe, Pula",M,PAWAYAMO,Subsistence Farmer,01 Jan 1970
+695,160396253,"Wambuasi, Manu",M,PAWAYAMO,Subsistence Farmer,01 Jan 1987
+696,160403003,"Wambuasi, Noma",M,PAWAYAMO,Student,01 Jan 1977
+697,160402995,"Wambuasi, Peter",M,PAWAYAMO,Driver,01 Jan 1969
+698,160402998,"Wambuasi, Raymond",M,PAWAYAMO,Student,01 Jan 1974
+699,160400225,"Wanpis, Eric",M,PAWAYAMO,Subsistence Farmer,01 Jan 1979
+700,160499149,"Wanpis, Illa",M,PAWAYAMO,Teacher,23 Sep 1993
+701,160400887,"Wanpis, Jerick",M,PAWAYAMO,Student,01 Jan 1982
+702,160499152,"Wanpis, Jordan",M,PAWAYAMO,Student,10 Apr 2004
+703,160499159,"Wanpis, Morgen",M,PAWAYAMO,Student,15 Apr 2004
+704,160400220,"Wanpis, Tom",M,PAWAYAMO,Subsistence Farmer,01 Jan 1977
+705,160400886,"Wanpis, Wari",M,PAWAYAMO,Subsistence Farmer,01 Jan 1983
+706,160499161,"Wapa, Jethro",M,PAWAYAMO,Student,10 Apr 2004
+707,160433047,"Wapa, Soti",M,PAWAYAMO,Sales Women,08 Jul 1990
+708,160433037,"Wapali, Andrew",M,PAWAYAMO,Sales Women,25 Sep 1976
+709,160433035,"Wapis, Palus",M,PAWAYAMO,Sales Women,02 Mar 1979
+710,160396971,"Wapo, Andrew",M,PAWAYAMO,Pastor,01 Jan 1941
+711,160499164,"Wapo, David",M,PAWAYAMO,Subsistence Farmer,12 Sep 1996
+712,160499166,"Wapo, Doris",M,PAWAYAMO,Student,10 Jun 1999
+713,160499170,"Wapo, Jacob",M,PAWAYAMO,Student,25 Apr 2004
+714,160397482,"Wapo, Joseph",M,PAWAYAMO,Pastor,01 Jan 1968
+715,160499174,"Wapo, Samuel",M,PAWAYAMO,Student,15 Apr 2004
+716,160499176,"Watuma, Jonathan",M,PAWAYAMO,Student,19 Apr 2004
+717,160396900,"Watuma, Jones",M,PAWAYAMO,Carpenter,01 Jan 1976
+718,160373350,"Watuma, Martin",M,PAWAYAMO,Subsistence Farmer,01 Jan 1988
+719,160397205,"Watuma, Raymond",M,PAWAYAMO,Subsistence Farmer,01 Jan 1980
+720,160373349,"Watuma, Roger",M,PAWAYAMO,Subsistence Farmer,01 Jan 1993
+721,160372982,"Watuma, Samson",M,PAWAYAMO,Houseboy,01 Jan 1986
+722,160431350,"William, Auti",M,PAWAYAMO,Sales Women,10 Feb 1994
+723,160381567,"Willie, Muruks",M,PAWAYAMO,Student,01 Jan 1990
+724,160396686,"Yake, Jeffrry",M,PAWAYAMO,Subsistence Farmer,01 Jan 1978
+725,160396696,"Yake, Joshua",M,PAWAYAMO,Student,01 Jan 1986
+726,160402830,"Yakipu, Alberth",M,PAWAYAMO,Student,01 Jan 1966
+727,160379663,"Yakipu, Anton",M,PAWAYAMO,Subsistence Farmer,01 Jan 1993
+728,160499178,"Yakipu, Embi",M,PAWAYAMO,Student,26 Apr 2004
+729,160380035,"Yakipu, Jacob",M,PAWAYAMO,Subsistence Farmer,01 Jan 1983
+730,160401854,"Yakipu, Jim",M,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+731,160372974,"Yakipu, Jonathan",M,PAWAYAMO,Subsistence Farmer,01 Jan 1965
+732,160402834,"Yakipu, Megere",M,PAWAYAMO,Pastor,01 Jan 1972
+733,160380611,"Yakipu, Melton",M,PAWAYAMO,Teacher,01 Jan 1986
+734,160402831,"Yakipu, Nick",M,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+735,160372977,"Yakipu, Stibon",M,PAWAYAMO,Subsistence Farmer,01 Jan 1981
+736,160499180,"Yaling, Benny",M,PAWAYAMO,Student,15 Mar 2004
+737,160286716,"Yaling, Hanson",M,PAWAYAMO,Student,25 Jun 1995
+738,160433076,"Yaling, Joshua",M,PAWAYAMO,Student,09 May 1992
+739,160286384,"Yaling, Nelson",M,PAWAYAMO,Sales Women,07 Jun 1984
+740,160399099,"Yanda, Mope",M,PAWAYAMO,Subsistence Farmer,01 Jan 1978
+741,160398243,"Yanda, Nandesu",M,PAWAYAMO,Student,01 Jan 1987
+742,160396740,"Yandapu, Beath",M,PAWAYAMO,Subsistence Farmer,01 Jan 1960
+743,160396743,"Yandapu, Pono",M,PAWAYAMO,Subsistence Farmer,01 Jan 1966
+744,160396744,"Yandapu, Soman",M,PAWAYAMO,Subsistence Farmer,01 Jan 1965
+745,160396913,"Yandi, Nande",M,PAWAYAMO,Subsistence Farmer,01 Jan 1986
+746,160397268,"Yandi, Tonny",M,PAWAYAMO,Sister,01 Jan 1948
+747,160396867,"Yandi, Waria",M,PAWAYAMO,Subsistence Farmer,01 Jan 1981
+748,160397707,"Yapa, Aisaya",M,PAWAYAMO,Subsistence Farmer,01 Jan 1965
+749,160397704,"Yapa, James",M,PAWAYAMO,Subsistence Farmer,01 Jan 1973
+750,160499184,"Yapa, Luwis",M,PAWAYAMO,Student,04 Mar 2004
+751,160398410,"Yapa, Martin",M,PAWAYAMO,Subsistence Farmer,01 Jan 1972
+752,160377194,"Yapa, Runane",M,PAWAYAMO,Subsistence Farmer,01 Jan 1970
+753,160377233,"Yapa, Wagu",M,PAWAYAMO,Subsistence Farmer,01 Jan 1969
+754,160387369,"Yapi, Supa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1966
+755,160398236,"Yari, Pumbu",M,PAWAYAMO,Subsistence Farmer,01 Jan 1968
+756,160398337,"Yari, Ririma",M,PAWAYAMO,Subsistence Farmer,01 Jan 1971
+757,160396879,"Yaropa, Apasi",M,PAWAYAMO,Subsistence Farmer,01 Jan 1941
+758,160396806,"Yaropa, Kalai",M,PAWAYAMO,Subsistence Farmer,01 Jan 1946
+759,160386616,"Yasa, Supa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1986
+760,160398237,"Yata, Kotapu",M,PAWAYAMO,Subsistence Farmer,01 Jan 1969
+761,160396903,"Yata, Mek",M,PAWAYAMO,Subsistence Farmer,01 Jan 1964
+762,160399071,"Yata, Minasa",M,PAWAYAMO,Subsistence Farmer,01 Jan 1975
+763,160398238,"Yata, Reali",M,PAWAYAMO,Subsistence Farmer,01 Jan 1978
+764,160398346,"Yata, Rola",M,PAWAYAMO,Subsistence Farmer,01 Jan 1981
+765,160396905,"Yata, Vincent",M,PAWAYAMO,Evangelist,01 Jan 1968
+766,160399097,"Yata, Yole",M,PAWAYAMO,Subsistence Farmer,01 Jan 1984
+767,160396699,"Yauwa, Kuta",M,PAWAYAMO,Subsistence Farmer,01 Jan 1972
+768,160396709,"Yawa, David",M,PAWAYAMO,Pastor,01 Jan 1957
+769,160400905,"Yawa, Jesi",M,PAWAYAMO,Subsistence Farmer,01 Jan 1976
+770,160400906,"Yawa, Jonathan",M,PAWAYAMO,Student,01 Jan 1985
+771,160379652,"Yawa, Lucas",M,PAWAYAMO,Farm worker,01 Jan 1979
+772,160379653,"Yawa, Paina",M,PAWAYAMO,Subsistence Farmer,01 Jan 1984
+773,160400193,"Yawa, Wesly",M,PAWAYAMO,Student,01 Jan 1981
+774,160380605,"Yawa, Willie",M,PAWAYAMO,Subsistence Farmer,01 Jan 1980

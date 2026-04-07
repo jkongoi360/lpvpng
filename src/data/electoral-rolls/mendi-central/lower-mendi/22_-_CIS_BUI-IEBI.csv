@@ -1,0 +1,1153 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,25080990,"Adrien, Natalie",F,CIS Bui-Iebi,Policewomen,28 Feb 1989
+2,160511182,"Alex, Miriam",F,CIS Bui-Iebi,Student,12 Oct 1999
+3,160241775,"Alfred, Caroline",F,CIS Bui-Iebi,Prisoner,05 Aug 1985
+4,160241107,"Alfred, Gloria",F,CIS Bui-Iebi,Household Duties,03 Nov 1987
+5,25080997,"Alfred, Stella",F,CIS Bui-Iebi,Prisoner,28 Apr 1986
+6,160437620,"Amos, Delialah",F,CIS Bui-Iebi,Prisoner,03 Sep 1994
+7,25087108,"Amos, Seliah",F,CIS Bui-Iebi,Prisoner,28 May 1984
+8,160141915,"Andrew, Alie",F,CIS Bui-Iebi,Student,01 Jan 1988
+9,160143901,"Andrew, Lucy",F,CIS Bui-Iebi,Student,01 Jan 1990
+10,160141914,"Andrew, Magret",F,CIS Bui-Iebi,Household Duties,01 Jan 1971
+11,160142124,"Andrew, Vero",F,CIS Bui-Iebi,Household Duties,01 Jan 1975
+12,160143950,"Angawai, Racheal",F,CIS Bui-Iebi,Prisoner,01 Jan 1983
+13,160143966,"Angui, Alice",F,CIS Bui-Iebi,Household Duties,01 Jan 1979
+14,160142420,"Angura, Caroline",F,CIS Bui-Iebi,Housegirl,01 Jan 1990
+15,160146254,"Angura, Cathy",F,CIS Bui-Iebi,Warder,01 Jan 1967
+16,160144390,"Angura, Elly",F,CIS Bui-Iebi,Housegirl,01 Jan 1989
+17,160241387,"Angura, Gina",F,CIS Bui-Iebi,Student,05 Aug 1993
+18,160144034,"Anjo, Joycelyn",F,CIS Bui-Iebi,Student,01 Jan 1987
+19,160144033,"Anjo, Nancy",F,CIS Bui-Iebi,Household Duties,01 Jan 1974
+20,160128514,"Apule, Alice",F,CIS Bui-Iebi,Prisoner,27 Jun 1976
+21,160241371,"Balthasar, Angle",F,CIS Bui-Iebi,Student,01 Jun 1993
+22,160143685,"Balthasar, Lilly",F,CIS Bui-Iebi,Household Duties,01 Jan 1977
+23,25081004,"Balthasar, Natasa",F,CIS Bui-Iebi,Student,15 Aug 2000
+24,160241389,"Bandrew, Shalley",F,CIS Bui-Iebi,Student,02 Sep 1990
+25,160142128,"Barry, Benedett",F,CIS Bui-Iebi,Household Duties,01 Jan 1968
+26,25081012,"Bekay, Nali",F,CIS Bui-Iebi,Household Duties,11 Apr 2002
+27,160241770,"Ben, Milla",F,CIS Bui-Iebi,Household Duties,01 May 1984
+28,160143847,"Berard, Cathy",F,CIS Bui-Iebi,Household Duties,01 Jan 1969
+29,160143934,"Berard, Lucas",F,CIS Bui-Iebi,Student,01 Jan 1987
+30,160143578,"Boli, Cicilia",F,CIS Bui-Iebi,Teacher,01 Jan 1970
+31,160241386,"Boli, Georgina",F,CIS Bui-Iebi,Student,06 Feb 1994
+32,25081024,"Boli, Jublinta",F,CIS Bui-Iebi,Doctor,03 May 1991
+33,160144035,"Boli, Tolin",F,CIS Bui-Iebi,Household Duties,01 Jan 1957
+34,160437616,"Brian, Christy",F,CIS Bui-Iebi,Prisoner,07 Oct 1982
+35,160437599,"Buka, Kendy",F,CIS Bui-Iebi,Student,27 Apr 2004
+36,160437596,"Buka, Lala",F,CIS Bui-Iebi,Student,24 Apr 2004
+37,160143673,"Charles, Willinoh",F,CIS Bui-Iebi,Household Duties,01 Jan 1971
+38,25081027,"Charlie, Lina",F,CIS Bui-Iebi,Household Duties,28 Apr 1990
+39,25081031,"Charlie, Pricilla",F,CIS Bui-Iebi,Teacher,28 Apr 1993
+40,160144356,"Chico, Sussie",F,CIS Bui-Iebi,Household Duties,01 Jan 1972
+41,160128390,"Clara, Pakuma",F,CIS Bui-Iebi,Household Duties,01 Apr 1970
+42,160437610,"Dani, Lucas",F,CIS Bui-Iebi,Prisoner,16 Nov 1997
+43,160142434,"David, Anna",F,CIS Bui-Iebi,Student,01 Jan 1986
+44,160143741,"David, Annet",F,CIS Bui-Iebi,Student,01 Jan 1990
+45,160437572,"David, Easther",F,CIS Bui-Iebi,Student,24 Apr 2004
+46,160241935,"David, Gloria",F,CIS Bui-Iebi,Prisoner,09 Jun 1979
+47,160143740,"David, Henny",F,CIS Bui-Iebi,Student,01 Jan 1989
+48,160437574,"David, Jansay",F,CIS Bui-Iebi,Student,25 Apr 2004
+49,160437608,"David, Jessica",F,CIS Bui-Iebi,Prisoner,22 Feb 2001
+50,160143739,"David, Monica",F,CIS Bui-Iebi,Household Duties,01 Jan 1977
+51,160143892,"David, Rosline",F,CIS Bui-Iebi,Student,01 Jan 1989
+52,160241376,"Dege, Cathy",F,CIS Bui-Iebi,Student,03 Jan 1991
+53,160241377,"Dege, Maverlyn",F,CIS Bui-Iebi,Student,01 Oct 1992
+54,160241551,"Desmon, Elis",F,CIS Bui-Iebi,Prisoner,03 Aug 1991
+55,25081044,"Dunstan, Babra",F,CIS Bui-Iebi,Household Duties,11 Dec 2002
+56,25081048,"Dunstan, Freda",F,CIS Bui-Iebi,Student,18 Mar 2001
+57,25087118,"Dunstan, Imella",F,CIS Bui-Iebi,Student,09 Oct 2001
+58,25081066,"Dunstan, Quida",F,CIS Bui-Iebi,Student,28 Feb 2000
+59,160437580,"Duri, Georgina",F,CIS Bui-Iebi,Student,25 Apr 2004
+60,160144440,"Duruka, Maria",F,CIS Bui-Iebi,Prisoner,01 Jan 1974
+61,25081068,"Dus, Kay sendra",F,CIS Bui-Iebi,Housegirl,28 Jul 2003
+62,160146252,"Dus, Lumi liliyanne",F,CIS Bui-Iebi,Warder,01 Jan 1975
+63,160144345,"Erelie, Agnes",F,CIS Bui-Iebi,Household Duties,01 Jan 1966
+64,160144348,"Erelie, Nero",F,CIS Bui-Iebi,Household Duties,01 Jan 1976
+65,160144433,"Eric, Cathy",F,CIS Bui-Iebi,Household Duties,01 Jan 1978
+66,160142437,"Eric, Maria",F,CIS Bui-Iebi,Housegirl,01 Jan 1987
+67,160241120,"Felix, Levina",F,CIS Bui-Iebi,Student,06 Aug 1988
+68,160143984,"Felix, Lina",F,CIS Bui-Iebi,Household Duties,01 Jan 1980
+69,160241379,"Felix, Naomi",F,CIS Bui-Iebi,Student,04 Oct 1990
+70,160144189,"Gai, Janet",F,CIS Bui-Iebi,Student,08 Feb 1982
+71,160143670,"Gai, Jenifer",F,CIS Bui-Iebi,Student,01 Jan 1989
+72,160144191,"Gai, Julie",F,CIS Bui-Iebi,Student,17 Aug 1984
+73,160143669,"Gai, Linda",F,CIS Bui-Iebi,Household Duties,01 Jan 1961
+74,160144192,"Gai, Susan",F,CIS Bui-Iebi,Student,01 Jan 1986
+75,160142281,"Geglu, Mary",F,CIS Bui-Iebi,Household Duties,01 Jan 1970
+76,160241556,"Geoffery, Pamela",F,CIS Bui-Iebi,Student,10 Jan 1994
+77,25081076,"George, Bully",F,CIS Bui-Iebi,Student,13 Jan 2000
+78,160143678,"George, Cathy",F,CIS Bui-Iebi,Household Duties,01 Jan 1971
+79,160241115,"George, Melisa",F,CIS Bui-Iebi,Student,04 Jan 1994
+80,25081080,"George, Meloney",F,CIS Bui-Iebi,Household Duties,13 May 1990
+81,25081092,"Guiai, Bagiba",F,CIS Bui-Iebi,Student,18 Jan 1999
+82,160143972,"Gulai, Helen",F,CIS Bui-Iebi,Household Duties,01 Jan 1971
+83,160144276,"Gulai, Matilda",F,CIS Bui-Iebi,Student,01 Jan 1987
+84,160241555,"Gulai, Rabbica",F,CIS Bui-Iebi,Teacher,08 Feb 1985
+85,160241383,"Gulai, Sandra",F,CIS Bui-Iebi,Student,10 Feb 1991
+86,160128387,"Guni, Nancy",F,CIS Bui-Iebi,Household Duties,08 Oct 1960
+87,160144305,"Haralu, Linji",F,CIS Bui-Iebi,Prisoner,01 Jan 1970
+88,160142039,"Hari, Magret",F,CIS Bui-Iebi,Prisoner,01 Jan 1987
+89,160144173,"Harila, Harali",F,CIS Bui-Iebi,Prisoner,01 Jan 1980
+90,160142287,"Homono, Puriri",F,CIS Bui-Iebi,Household Duties,01 Jan 1969
+91,160144118,"Homono, Wendy",F,CIS Bui-Iebi,Teacher,01 Jan 1980
+92,160142080,"Ibugu, Alice",F,CIS Bui-Iebi,Household Duties,01 Jan 1971
+93,25081102,"Idamo, Docas",F,CIS Bui-Iebi,Prisoner,28 Apr 1997
+94,160241554,"Israel, Jessica",F,CIS Bui-Iebi,Household Duties,12 Aug 1992
+95,160437665,"Jack, Natasha",F,CIS Bui-Iebi,Student,25 Apr 2004
+96,160437666,"Jack, Offodeah",F,CIS Bui-Iebi,Student,23 Apr 2004
+97,160241393,"Jack, Telem",F,CIS Bui-Iebi,Prisoner,10 Feb 1972
+98,160128513,"Jack, Telem",F,CIS Bui-Iebi,Prisoner,17 Sep 1980
+99,160143903,"Jackson, Carrol",F,CIS Bui-Iebi,Household Duties,01 Jan 1977
+100,160128508,"Jackson, Cathy",F,CIS Bui-Iebi,Prisoner,02 Apr 1990
+101,160138154,"Jackson, Mala",F,CIS Bui-Iebi,Prisoner,05 Nov 1987
+102,25081106,"Jacky, Vero",F,CIS Bui-Iebi,Household Duties,22 Apr 2004
+103,160437602,"James, Jacklyn",F,CIS Bui-Iebi,Student,23 Apr 2004
+104,160437601,"James, Nomila",F,CIS Bui-Iebi,Student,25 Feb 2004
+105,160241941,"James, Roselyn",F,CIS Bui-Iebi,Prisoner,12 Apr 1972
+106,160146267,"Jeffery, Mary",F,CIS Bui-Iebi,Student,01 Jan 1988
+107,160142427,"Jeffery, Monica",F,CIS Bui-Iebi,Household Duties,01 Jan 1975
+108,160128500,"Jerry, Angelyn",F,CIS Bui-Iebi,Prisoner,11 Jun 1980
+109,160241928,"Jerry, Anjelin",F,CIS Bui-Iebi,Prisoner,12 Sep 1985
+110,160142742,"Jiara, Medobo",F,CIS Bui-Iebi,Household Duties,01 Jan 1950
+111,160142122,"Jiara, Rosemary",F,CIS Bui-Iebi,Student,21 Aug 1981
+112,160241949,"Jim, Grace",F,CIS Bui-Iebi,Prisoner,04 Nov 1985
+113,160142588,"Jim, Margert",F,CIS Bui-Iebi,Student,01 Jan 1990
+114,160142587,"Jim, Rose",F,CIS Bui-Iebi,Household Duties,01 Jan 1979
+115,160146260,"Jimmy, Ambaijah",F,CIS Bui-Iebi,Teacher,01 Jan 1973
+116,160142227,"Jimmy, Julie",F,CIS Bui-Iebi,Subsistence Farmer,01 Jan 1979
+117,160142641,"Jimmy, Kinibo",F,CIS Bui-Iebi,Household Duties,06 Feb 1976
+118,160142390,"Jimmy, Pakome newai",F,CIS Bui-Iebi,Household Duties,01 Jan 1951
+119,25081110,"Joel, Freda",F,CIS Bui-Iebi,Prisoner,15 Jan 1988
+120,160138153,"John, Maria",F,CIS Bui-Iebi,Prisoner,09 Nov 1982
+121,25081114,"John, Susan",F,CIS Bui-Iebi,Prisoner,28 Apr 1998
+122,160241380,"Kambi, Daina",F,CIS Bui-Iebi,Student,03 Apr 1994
+123,25081123,"Kambi, Dancy",F,CIS Bui-Iebi,Student,28 Apr 1998
+124,160143683,"Kambi, Miriam",F,CIS Bui-Iebi,Household Duties,01 Jan 1967
+125,25081128,"Kambi, Tiana",F,CIS Bui-Iebi,Student,28 Jan 2002
+126,160128511,"Kantinga, Kah",F,CIS Bui-Iebi,Prisoner,24 Apr 1980
+127,160144287,"Kape, Makip",F,CIS Bui-Iebi,Prisoner,01 Jan 1970
+128,160144092,"Kavin, Joicline",F,CIS Bui-Iebi,Housegirl,01 Jan 1989
+129,160143949,"Kawage, Jennica",F,CIS Bui-Iebi,Prisoner,01 Jan 1982
+130,160241944,"Kawage, Philipa",F,CIS Bui-Iebi,Prisoner,10 Feb 1974
+131,160144286,"Kelo, Ipinogk",F,CIS Bui-Iebi,Prisoner,01 Jan 1969
+132,25081136,"Ken, Meriam",F,CIS Bui-Iebi,Household Duties,28 Sep 1997
+133,160144285,"Kepesa, Lina",F,CIS Bui-Iebi,Prisoner,01 Jan 2000
+134,160241946,"Kevin, Starlyn",F,CIS Bui-Iebi,Prisoner,06 Aug 1986
+135,160143840,"Kiki, Infred",F,CIS Bui-Iebi,Household Duties,01 Jan 1956
+136,160241936,"King, Monica",F,CIS Bui-Iebi,Prisoner,10 Feb 1966
+137,160142090,"Koiba, Ula",F,CIS Bui-Iebi,Household Duties,01 Jan 1953
+138,25081140,"Koma, Debora",F,CIS Bui-Iebi,Student,08 Mar 1998
+139,25081144,"Koma, Mishell",F,CIS Bui-Iebi,Student,13 May 2001
+140,160128568,"Kombra, Stella",F,CIS Bui-Iebi,Student,20 Apr 1997
+141,160143580,"Kome, Anna",F,CIS Bui-Iebi,Household Duties,01 Jan 1969
+142,160241384,"Kome, Cynthia",F,CIS Bui-Iebi,Student,04 Aug 1994
+143,160141962,"Kome, Emelia",F,CIS Bui-Iebi,Student,01 Jan 1988
+144,160241381,"Kome, Marie",F,CIS Bui-Iebi,Student,06 Jan 1991
+145,160437658,"Kope, Rose",F,CIS Bui-Iebi,Student,22 Apr 2004
+146,160437659,"Kope, Roselyn",F,CIS Bui-Iebi,Nurse,24 Apr 2004
+147,25081149,"Korowa, Silvia",F,CIS Bui-Iebi,Student,29 Apr 2000
+148,160144116,"Kujago, Lavina",F,CIS Bui-Iebi,Prisoner,01 Jan 1984
+149,25081157,"Kundi, Santer",F,CIS Bui-Iebi,Prisoner,28 Apr 1981
+150,160128510,"Lai, Cathy",F,CIS Bui-Iebi,Prisoner,30 Jul 1978
+151,160144416,"Laiko, Nelly",F,CIS Bui-Iebi,Unemployed,01 Jan 1982
+152,160146406,"Laiko, Rose",F,CIS Bui-Iebi,Student,01 Jan 1988
+153,160142585,"Laiko, Wendy",F,CIS Bui-Iebi,Household Duties,01 Jan 1971
+154,160142440,"Lawence, Marie",F,CIS Bui-Iebi,Warder,01 Jan 1975
+155,160141955,"Loko, Anna",F,CIS Bui-Iebi,Housegirl,01 Jan 1977
+156,160142717,"Loko, Miriam",F,CIS Bui-Iebi,Household Duties,01 Jan 1957
+157,160141949,"Longa, Lyna",F,CIS Bui-Iebi,Household Duties,01 Jan 1971
+158,160241118,"Longa, Monica",F,CIS Bui-Iebi,Student,01 Sep 1994
+159,160241117,"Longa, Sandra",F,CIS Bui-Iebi,Student,06 Oct 1992
+160,160241119,"Lopa, Dead",F,CIS Bui-Iebi,Student,10 Jun 1979
+161,160128501,"Loro, Vero",F,CIS Bui-Iebi,Prisoner,24 Jun 1992
+162,160144400,"Luke, Babra",F,CIS Bui-Iebi,Prisoner,01 Jan 1980
+163,25081164,"Malaki, Alinta",F,CIS Bui-Iebi,Household Duties,12 May 1994
+164,160142312,"Mara, Ali",F,CIS Bui-Iebi,Prisoner,01 Jan 1985
+165,160141890,"Mark, Christina",F,CIS Bui-Iebi,Household Duties,01 Jan 1981
+166,25081175,"Mark, Rabbecca",F,CIS Bui-Iebi,Household Duties,28 Sep 1999
+167,160141891,"Mark, Victoria",F,CIS Bui-Iebi,Student,01 Jan 1990
+168,160146430,"Markus, Anna",F,CIS Bui-Iebi,Household Duties,01 Jan 1978
+169,160142589,"Markus, Betty",F,CIS Bui-Iebi,Student,01 Jan 1988
+170,160144423,"Markus, Julie",F,CIS Bui-Iebi,Student,01 Jan 1989
+171,160146432,"Markus, Megi",F,CIS Bui-Iebi,Housegirl,01 Jan 1980
+172,160144308,"Martin, Helen",F,CIS Bui-Iebi,Prisoner,01 Jan 1985
+173,25081181,"Mathew, Ginani",F,CIS Bui-Iebi,Student,19 Apr 1998
+174,160437586,"Mathew, Jemimah",F,CIS Bui-Iebi,Student,25 Apr 2004
+175,25081187,"Mathew, Measel",F,CIS Bui-Iebi,Student,28 Apr 2004
+176,160241111,"Matthew, Lin",F,CIS Bui-Iebi,Household Duties,09 Feb 1988
+177,160437649,"Max, Adreah",F,CIS Bui-Iebi,Student,25 Apr 2004
+178,25081195,"Max, Julie",F,CIS Bui-Iebi,Household Duties,28 Apr 1990
+179,160128509,"Megere, Evelyn",F,CIS Bui-Iebi,Prisoner,16 Feb 2017
+180,160437589,"Mei, Alice",F,CIS Bui-Iebi,Prisoner,12 Sep 1989
+181,160128566,"Melchior, Agnes",F,CIS Bui-Iebi,Household Duties,20 Mar 1982
+182,160144031,"Mere, Jacklyn",F,CIS Bui-Iebi,Unemployed,09 Sep 1984
+183,160143962,"Mere, Susan",F,CIS Bui-Iebi,Household Duties,01 Jan 1950
+184,160241553,"Meya, Keran",F,CIS Bui-Iebi,Household Duties,10 Jan 1984
+185,160437571,"Michael, Steheny",F,CIS Bui-Iebi,Student,26 Apr 2004
+186,160142430,"Micheal, Monica",F,CIS Bui-Iebi,Household Duties,01 Jan 1970
+187,160146269,"Micheal, Susan",F,CIS Bui-Iebi,Housegirl,01 Jan 1981
+188,160144437,"Moliya, Caroline",F,CIS Bui-Iebi,Student,01 Jan 1980
+189,160142591,"Moliya, Joceylin",F,CIS Bui-Iebi,Household Duties,01 Jan 1971
+190,160146273,"Moliya, Regina",F,CIS Bui-Iebi,Student,01 Jan 1988
+191,160144436,"Moliya, Ruth",F,CIS Bui-Iebi,Student,01 Jan 1989
+192,160437607,"Molo, Evonie",F,CIS Bui-Iebi,Prisoner,29 Dec 1997
+193,160142315,"Mondo, Elonny",F,CIS Bui-Iebi,Household Duties,01 Jan 1978
+194,160144303,"Morgan, Susie",F,CIS Bui-Iebi,Prisoner,01 Jan 1978
+195,25081214,"Moses, Liska",F,CIS Bui-Iebi,Household Duties,28 Apr 1980
+196,25081217,"Moses, Raboni",F,CIS Bui-Iebi,Student,28 Apr 2000
+197,160437588,"Motasia, Lavina",F,CIS Bui-Iebi,Prisoner,04 Mar 1980
+198,25081222,"Moya, Audrey",F,CIS Bui-Iebi,Student,28 Jun 2002
+199,160128502,"Muli, Evelyn",F,CIS Bui-Iebi,Prisoner,23 Feb 1994
+200,160138175,"Munge, Sheena",F,CIS Bui-Iebi,Self Employed,26 Oct 1986
+201,160128384,"Muruasa, Lucy",F,CIS Bui-Iebi,Household Duties,18 Jun 1989
+202,25081228,"Muruasa, Vero",F,CIS Bui-Iebi,Student,05 Feb 1996
+203,160437573,"Nalod, Easthet",F,CIS Bui-Iebi,Student,24 Apr 2004
+204,160144211,"Nathan, Jocylyn",F,CIS Bui-Iebi,Student,11 Nov 1990
+205,160143835,"Nathan, Linda",F,CIS Bui-Iebi,Household Duties,01 Jan 1966
+206,25081230,"Nicky, Gina",F,CIS Bui-Iebi,Teacher,28 Apr 1997
+207,25081232,"Nicky, Nigilah",F,CIS Bui-Iebi,Student,18 Feb 2004
+208,160241106,"Nikipa, Teyabe",F,CIS Bui-Iebi,Prisoner,04 Dec 1980
+209,25081236,"Noa, Sorothy",F,CIS Bui-Iebi,Prisoner,28 Apr 1991
+210,160128499,"Noel, Henny",F,CIS Bui-Iebi,Prisoner,03 Jul 1989
+211,160128512,"Norm, Roselyn",F,CIS Bui-Iebi,Prisoner,15 Oct 1987
+212,160241931,"Norm, Roselyn",F,CIS Bui-Iebi,Prisoner,12 Jan 1978
+213,160144417,"Nowada, Yori",F,CIS Bui-Iebi,Warder,01 Jan 1988
+214,160144172,"Okapi, Janet",F,CIS Bui-Iebi,Prisoner,01 Jan 1986
+215,160128561,"Omba, Girennie",F,CIS Bui-Iebi,Student,03 Mar 1999
+216,160437652,"Ondex, Susan",F,CIS Bui-Iebi,Student,24 Apr 2004
+217,160437694,"Onge, Elintha",F,CIS Bui-Iebi,Household Duties,25 Dec 2003
+218,160142007,"Oscar, Doris",F,CIS Bui-Iebi,Household Duties,01 Jan 1987
+219,160128503,"Oxy, Pombox",F,CIS Bui-Iebi,Prisoner,11 Nov 1991
+220,160143677,"Paiyak, Maria",F,CIS Bui-Iebi,Household Duties,01 Jan 1980
+221,160142292,"Paki, Josephine",F,CIS Bui-Iebi,Household Duties,01 Jan 1982
+222,160511186,"Pale, Catrine",F,CIS Bui-Iebi,Student,13 May 2003
+223,160128504,"Palipe, Lucy",F,CIS Bui-Iebi,Prisoner,30 Sep 1991
+224,160143679,"Palom, Eli",F,CIS Bui-Iebi,Student,01 Jan 1990
+225,160142284,"Palom, Rose",F,CIS Bui-Iebi,Warder,01 Jan 1972
+226,160142059,"Parako, Evelin",F,CIS Bui-Iebi,Prisoner,01 Jan 1984
+227,160138158,"Pare, Nancy",F,CIS Bui-Iebi,Prisoner,13 Dec 1986
+228,160437624,"Parei, Nancy",F,CIS Bui-Iebi,Prisoner,09 Jan 1992
+229,160437693,"Pate, Jessica",F,CIS Bui-Iebi,Worker,12 Nov 1973
+230,160144352,"Pavoja, Ailin",F,CIS Bui-Iebi,Household Duties,01 Jan 1966
+231,160437611,"Peter, Mary",F,CIS Bui-Iebi,Prisoner,28 Dec 1982
+232,160144218,"Peter, Nancy",F,CIS Bui-Iebi,Teacher,01 Jan 1975
+233,160146251,"Philip, Cathy",F,CIS Bui-Iebi,Household Duties,01 Jan 1982
+234,160146250,"Philip, Joyce",F,CIS Bui-Iebi,Household Duties,01 Jan 1980
+235,25081256,"Physis, Madah",F,CIS Bui-Iebi,Student,21 Mar 2004
+236,25081260,"Physis, Oliver",F,CIS Bui-Iebi,Student,28 Apr 2001
+237,25081265,"Physis, Saina",F,CIS Bui-Iebi,Household Duties,28 Apr 1980
+238,25081269,"Physis, Valatine",F,CIS Bui-Iebi,Student,15 Jun 2002
+239,160142133,"Pima, Vero",F,CIS Bui-Iebi,Household Duties,01 Jan 1950
+240,160437591,"Pokea, Susan",F,CIS Bui-Iebi,Prisoner,01 Jun 1994
+241,160144387,"Poppy, Mena",F,CIS Bui-Iebi,Household Duties,01 Jan 1980
+242,160511189,"Pore, Molina",F,CIS Bui-Iebi,Teacher,16 Jun 1995
+243,160142545,"Puli, Esther",F,CIS Bui-Iebi,Household Duties,01 Jan 1971
+244,160143600,"Puli, Everlyn",F,CIS Bui-Iebi,Student,01 Jan 1987
+245,160140005,"Puli, Ritha",F,CIS Bui-Iebi,Student,01 Jan 1990
+246,160143590,"Puli, Ronda",F,CIS Bui-Iebi,Student,01 Jan 1990
+247,160241378,"Ralvi, Felix",F,CIS Bui-Iebi,Housegirl,02 Nov 1991
+248,160241950,"Rex, Mary",F,CIS Bui-Iebi,Prisoner,04 Nov 1987
+249,160138156,"Robert, Lucy",F,CIS Bui-Iebi,Prisoner,28 Jun 1983
+250,160437626,"Robert, Pauline",F,CIS Bui-Iebi,Prisoner,03 Apr 1994
+251,160241548,"Robert, Wonong",F,CIS Bui-Iebi,Prisoner,12 Oct 1983
+252,160146436,"Sapea, Monica",F,CIS Bui-Iebi,Household Duties,01 Jan 1972
+253,160144427,"Sapea, Nomi",F,CIS Bui-Iebi,Student,01 Jan 1987
+254,160144426,"Sapea, Ruthy",F,CIS Bui-Iebi,Unemployed,01 Jan 1979
+255,160144307,"Sapolo, Yupia",F,CIS Bui-Iebi,Prisoner,01 Jan 1968
+256,160143935,"Seeto, Siwai",F,CIS Bui-Iebi,Nurse,01 Jan 1973
+257,160241552,"Simon, Anna",F,CIS Bui-Iebi,Prisoner,03 Aug 1976
+258,25081277,"Simon, Anna",F,CIS Bui-Iebi,Household Duties,28 Jan 2000
+259,160437674,"Simon, Elin",F,CIS Bui-Iebi,Typist,24 Apr 2004
+260,160437670,"Simon, Eliquenta",F,CIS Bui-Iebi,Student,23 Apr 2004
+261,160437675,"Simon, Elis",F,CIS Bui-Iebi,Worker,28 Apr 2004
+262,25081281,"Simon, Joelyn",F,CIS Bui-Iebi,Student,20 Apr 2004
+263,160437669,"Simon, Lorina",F,CIS Bui-Iebi,Student,24 Apr 2004
+264,160437625,"Simon, Lorna",F,CIS Bui-Iebi,Prisoner,07 Sep 1994
+265,25081284,"Simon, Patricia",F,CIS Bui-Iebi,Student,17 Jan 2001
+266,160241108,"Simon, Regina",F,CIS Bui-Iebi,Warder,02 Nov 1982
+267,160437673,"Simon, Sheril",F,CIS Bui-Iebi,Student,25 Apr 2004
+268,25081287,"Simon, Sherylina",F,CIS Bui-Iebi,Student,19 Apr 2004
+269,160437663,"Simon, Sioley",F,CIS Bui-Iebi,Housegirl,23 Apr 2004
+270,160437655,"Sinta, Kope",F,CIS Bui-Iebi,Student,25 Apr 2004
+271,25081293,"Sipi, Christal",F,CIS Bui-Iebi,Household Duties,03 Feb 1997
+272,160241369,"Sipi, Christina",F,CIS Bui-Iebi,Student,10 Feb 1991
+273,25081297,"Sipi, Christobela",F,CIS Bui-Iebi,Student,15 Aug 2000
+274,25081300,"Sipi, Genalisa",F,CIS Bui-Iebi,Student,01 Feb 2004
+275,160141961,"Sipi, Jenny",F,CIS Bui-Iebi,Household Duties,01 Jan 1971
+276,160143687,"Sipili, Lucy",F,CIS Bui-Iebi,Household Duties,01 Jan 1983
+277,160143690,"Sipili, Norin",F,CIS Bui-Iebi,Housegirl,01 Jan 1986
+278,160141952,"Sipili, Pelin",F,CIS Bui-Iebi,Housegirl,01 Jan 1985
+279,160437688,"Sipili, Selinta",F,CIS Bui-Iebi,Student,15 Oct 2002
+280,25087134,"Sipili, Shirly",F,CIS Bui-Iebi,Student,28 Apr 1994
+281,25081317,"Sipili, Shirlyn",F,CIS Bui-Iebi,Student,28 Apr 1994
+282,25081321,"Smokie, Esther",F,CIS Bui-Iebi,Household Duties,28 Apr 2004
+283,160142154,"Sopolo, Julie",F,CIS Bui-Iebi,Prisoner,01 Jan 1987
+284,160144196,"Stephen, Jenny",F,CIS Bui-Iebi,Household Duties,01 Jan 1963
+285,160138155,"Steven, Malin",F,CIS Bui-Iebi,Prisoner,28 Aug 1982
+286,160437687,"Steven, Maria",F,CIS Bui-Iebi,Household Duties,12 Oct 1997
+287,160437619,"Steven, Marlyn",F,CIS Bui-Iebi,Prisoner,07 Jan 1987
+288,25081329,"Tandnia, Olad",F,CIS Bui-Iebi,Prisoner,30 May 1979
+289,160437617,"Tandole, Hokaiye",F,CIS Bui-Iebi,Prisoner,01 Sep 1995
+290,160241943,"Teka, Eliszabberth",F,CIS Bui-Iebi,Prisoner,04 Nov 1975
+291,160241766,"Terance, Kasi",F,CIS Bui-Iebi,Household Duties,03 Dec 1982
+292,160437615,"Tero, Lora",F,CIS Bui-Iebi,Prisoner,03 Jun 1994
+293,160141947,"Theo, Priscila",F,CIS Bui-Iebi,Household Duties,01 Jan 1979
+294,160142584,"Thomas, Anna",F,CIS Bui-Iebi,Student,01 Jan 1989
+295,160146404,"Thomas, Carolina",F,CIS Bui-Iebi,Student,01 Jan 1987
+296,160141971,"Thomas, Dora",F,CIS Bui-Iebi,Student,01 Jan 1987
+297,160146271,"Thomas, Helen",F,CIS Bui-Iebi,Household Duties,01 Jan 1980
+298,160143585,"Thomas, Janet",F,CIS Bui-Iebi,Household Duties,01 Jan 1960
+299,160141970,"Thomas, Mevis",F,CIS Bui-Iebi,Student,01 Jan 1987
+300,160144414,"Thomas, Roselin",F,CIS Bui-Iebi,Housegirl,01 Jan 1989
+301,160146433,"Tibe, Angola",F,CIS Bui-Iebi,Warder,01 Jan 1973
+302,160144425,"Tibe, Christina",F,CIS Bui-Iebi,Student,01 Jan 1989
+303,160146434,"Tibe, Mary",F,CIS Bui-Iebi,Housegirl,01 Jan 1986
+304,160128498,"Timothy, Janet",F,CIS Bui-Iebi,Prisoner,10 Sep 1987
+305,160241930,"Tira, Freida",F,CIS Bui-Iebi,Prisoner,12 Sep 1983
+306,160437618,"Tom, Jalima",F,CIS Bui-Iebi,Prisoner,05 Mar 1992
+307,160146263,"Tom, Julian",F,CIS Bui-Iebi,Household Duties,01 Jan 1980
+308,160128507,"Tombos, Alice",F,CIS Bui-Iebi,Prisoner,08 Apr 1989
+309,160143843,"Tony, Gildes",F,CIS Bui-Iebi,Student,01 Jan 1988
+310,160142318,"Tony, Hedwig",F,CIS Bui-Iebi,Nurse,01 Jan 1970
+311,160144171,"Tungali, Markham",F,CIS Bui-Iebi,Prisoner,01 Jan 1985
+312,160241945,"Undi, Jefrina",F,CIS Bui-Iebi,Prisoner,10 Sep 1976
+313,160128565,"Vinbcent-moengo, Selinda",F,CIS Bui-Iebi,Household Duties,23 Nov 1993
+314,160143834,"Vincent, Caroline",F,CIS Bui-Iebi,Student,27 Jan 1990
+315,25081339,"Vincent, Egi",F,CIS Bui-Iebi,Household Duties,28 Feb 1965
+316,160143831,"Vincent, Maria bepi",F,CIS Bui-Iebi,Household Duties,01 Jan 1960
+317,160143833,"Vincent, Nancy",F,CIS Bui-Iebi,Unemployed,01 Apr 1983
+318,25081342,"Vincent, Sabina",F,CIS Bui-Iebi,Student,28 Apr 2002
+319,160128564,"Vincent-moengo, Lisa",F,CIS Bui-Iebi,Household Duties,28 May 1994
+320,160143668,"Vitus, Lina",F,CIS Bui-Iebi,Household Duties,01 Jan 1988
+321,160241388,"Vitus, Vergi",F,CIS Bui-Iebi,Student,10 Feb 1994
+322,160437590,"Wamo, Doucas",F,CIS Bui-Iebi,Prisoner,09 Jun 1995
+323,25081352,"Wane, Natha",F,CIS Bui-Iebi,Student,28 Apr 2004
+324,160241933,"Wapa, Susan",F,CIS Bui-Iebi,Prisoner,10 Apr 1991
+325,25081357,"Wapia, Anneth",F,CIS Bui-Iebi,Baby Sitter,15 May 1995
+326,25081362,"Wapia, Mathi",F,CIS Bui-Iebi,Student,28 Feb 1999
+327,160142081,"Wapia, Regina",F,CIS Bui-Iebi,Warder,01 Jan 1970
+328,160142286,"Warea, Miriam",F,CIS Bui-Iebi,Household Duties,01 Jan 1976
+329,25081366,"Wek, Wendy",F,CIS Bui-Iebi,Prisoner,28 Apr 1984
+330,160138157,"Weso, Jenny",F,CIS Bui-Iebi,Prisoner,06 Oct 1986
+331,160437570,"Wilson, Melah",F,CIS Bui-Iebi,Student,23 Apr 2004
+332,160437569,"Wilson, Steveny",F,CIS Bui-Iebi,Student,24 Apr 2004
+333,160128505,"Wilson, Wesin",F,CIS Bui-Iebi,Prisoner,16 May 1989
+334,160241937,"Yal, Cathrine",F,CIS Bui-Iebi,Prisoner,10 Feb 1985
+335,160128506,"Yala, Kathereen",F,CIS Bui-Iebi,Prisoner,01 Jan 1984
+336,160241932,"Yang, Rachel",F,CIS Bui-Iebi,Prisoner,10 Feb 1968
+337,160128391,"Aba, Franchis",M,CIS Bui-Iebi,Warder,16 Oct 1964
+338,160128521,"Abau, Wara",M,CIS Bui-Iebi,Prisoner,30 Jan 1989
+339,160242028,"Aem, Sak",M,CIS Bui-Iebi,Prisoner,02 Sep 1989
+340,160142600,"Aga, Asipu",M,CIS Bui-Iebi,Prisoner,01 Jan 1951
+341,160142468,"Agima, James",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+342,160243115,"Aiya, Doti",M,CIS Bui-Iebi,Prisoner,24 Feb 1965
+343,160144170,"Aki, Rex",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+344,160146393,"Akima, James",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+345,160144407,"Akipe, Robert",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+346,160128549,"Akiru, Sorty",M,CIS Bui-Iebi,Prisoner,29 Apr 1990
+347,160242011,"Ako, Terance",M,CIS Bui-Iebi,Prisoner,28 Feb 1983
+348,160511181,"Alex, Bonny",M,CIS Bui-Iebi,Student,10 Mar 1998
+349,160437587,"Alfred, Eliajah",M,CIS Bui-Iebi,Prisoner,21 May 2000
+350,25080994,"Alfred, Jimmy",M,CIS Bui-Iebi,Student,22 Apr 2004
+351,160437613,"Alfred, Luke",M,CIS Bui-Iebi,Prisoner,18 Sep 1995
+352,160144056,"Alipa, Timon",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+353,160142243,"Alo, Alex",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+354,160146296,"Alopa, Tar",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+355,160511183,"Alson, Simon",M,CIS Bui-Iebi,Subsistence Farmer,17 May 1994
+356,160144409,"Alua, Steven",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+357,160128518,"Aluya, Pape",M,CIS Bui-Iebi,Prisoner,08 Dec 1981
+358,160142293,"Amol, Babuya",M,CIS Bui-Iebi,Prisoner,01 Jan 1979
+359,160144398,"Andaku, Bruce",M,CIS Bui-Iebi,Prisoner,01 Jan 1970
+360,160437703,"Andrew, Issiah",M,CIS Bui-Iebi,Worker,05 Feb 1994
+361,160128523,"Andrew, James",M,CIS Bui-Iebi,Prisoner,15 Apr 1990
+362,160437609,"Andrew, Maya",M,CIS Bui-Iebi,Prisoner,09 May 1996
+363,160142075,"Angiu, Hame",M,CIS Bui-Iebi,Warder,01 Jan 1969
+364,160437637,"Angu, Koi",M,CIS Bui-Iebi,Prisoner,23 Jul 1989
+365,160437634,"Angu, Koi",M,CIS Bui-Iebi,Prisoner,15 Oct 1978
+366,160143967,"Angui, John",M,CIS Bui-Iebi,Houseboy,01 Jan 1982
+367,160146256,"Angura, Simon",M,CIS Bui-Iebi,Teacher,01 Jan 1969
+368,160128519,"Anis, Aliali",M,CIS Bui-Iebi,Prisoner,05 Feb 1980
+369,160143969,"Anjo, Alphonse",M,CIS Bui-Iebi,Student,01 Jan 1987
+370,160142077,"Anjo, Eric pareka",M,CIS Bui-Iebi,Warder,01 Jan 1964
+371,160241385,"Anjo, Ezira",M,CIS Bui-Iebi,Student,10 May 1993
+372,160142301,"Anonga, Charlie",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+373,160142061,"Anuma, Andrew",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+374,160143946,"Ape, David",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+375,160143951,"Ape, Micheal",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+376,160144230,"Aprolo, Wale",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+377,160437622,"Ariambe, Pel",M,CIS Bui-Iebi,Prisoner,07 Oct 1988
+378,160146302,"Arijamo, Peter",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+379,160142407,"Ariki, Yakanda",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+380,160241942,"Arom, Paulai",M,CIS Bui-Iebi,Prisoner,11 Apr 1980
+381,160142599,"Aromali, Enoli",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+382,160128548,"Aron, Samuel",M,CIS Bui-Iebi,Prisoner,18 Sep 1977
+383,160142138,"Asing, Soro",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+384,160143902,"Atasi, Jackson",M,CIS Bui-Iebi,Teacher,01 Jan 1969
+385,160242020,"Aukbin, Russel",M,CIS Bui-Iebi,Prisoner,10 Feb 1967
+386,160144334,"Auro, Kale",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+387,160144298,"Awa, Rocky",M,CIS Bui-Iebi,Prisoner,01 Jan 1983
+388,160128406,"Awi, Kepe",M,CIS Bui-Iebi,Prisoner,19 Nov 1970
+389,160142257,"Awiawa, Bapi",M,CIS Bui-Iebi,Prisoner,01 Jan 1979
+390,160128385,"Badia, Domenama",M,CIS Bui-Iebi,Warder,08 Jan 1981
+391,160128382,"Badia, Pomena",M,CIS Bui-Iebi,Warder,01 Jan 1981
+392,160146293,"Bage, Kudims",M,CIS Bui-Iebi,Prisoner,01 Jan 1984
+393,160142041,"Bai, Jeffery",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+394,160241390,"Bandrew, Joshua",M,CIS Bui-Iebi,Student,10 Nov 1990
+395,160242021,"Bari, Peter",M,CIS Bui-Iebi,Prisoner,21 Feb 1954
+396,160142129,"Barry, Martin",M,CIS Bui-Iebi,Student,30 Nov 1988
+397,160143829,"Barry, Mathew",M,CIS Bui-Iebi,Student,15 May 1985
+398,160144201,"Barry, Nathan",M,CIS Bui-Iebi,Student,21 Oct 1986
+399,160138165,"Baru, Allen",M,CIS Bui-Iebi,Prisoner,15 Sep 1989
+400,160146601,"Bebi, Steven",M,CIS Bui-Iebi,Prisoner,01 Jan 1970
+401,160437621,"Bekar, David",M,CIS Bui-Iebi,Prisoner,05 Jun 1999
+402,25081007,"Bekay, Charlie",M,CIS Bui-Iebi,Student,08 Dec 2001
+403,160143997,"Benny, Joel",M,CIS Bui-Iebi,Prisoner,01 Jan 1978
+404,160142567,"Bernard, John",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+405,160243109,"Billy, Siba",M,CIS Bui-Iebi,Prisoner,16 Feb 1987
+406,160242014,"Boakalu, Gibson",M,CIS Bui-Iebi,Prisoner,01 Jun 1980
+407,160128528,"Bode, Nathan",M,CIS Bui-Iebi,Prisoner,02 Apr 1986
+408,160144045,"Boki, Jack",M,CIS Bui-Iebi,Prisoner,01 Jan 1984
+409,160146265,"Bokolu, Kilao",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+410,25087114,"Boli, Akupa",M,CIS Bui-Iebi,Student,04 Mar 2002
+411,25081021,"Boli, Bornivil",M,CIS Bui-Iebi,Student,28 Apr 2004
+412,160141958,"Boli, Peter",M,CIS Bui-Iebi,Warder,01 Jan 1967
+413,160242012,"Borowe, Stanley",M,CIS Bui-Iebi,Prisoner,17 Feb 1975
+414,160437683,"Boso, Nelson",M,CIS Bui-Iebi,Prisoner,22 Aug 1987
+415,160241395,"Brumm, Atox",M,CIS Bui-Iebi,Prisoner,10 Apr 1978
+416,160437598,"Buka, Johnson",M,CIS Bui-Iebi,Student,28 Apr 2004
+417,160128405,"Buka, Woel",M,CIS Bui-Iebi,Prisoner,05 Aug 1970
+418,160142574,"Bumbu, Alfred",M,CIS Bui-Iebi,Prisoner,01 Jan 1990
+419,160144053,"Bumbu, John",M,CIS Bui-Iebi,Prisoner,01 Jan 1983
+420,160143991,"Buna, Ben",M,CIS Bui-Iebi,Prisoner,01 Jan 1983
+421,160146295,"Burtaman, Silas",M,CIS Bui-Iebi,Prisoner,01 Jan 1969
+422,160437638,"Bus, Kep",M,CIS Bui-Iebi,Prisoner,15 Nov 1996
+423,160144216,"Butene, Mape",M,CIS Bui-Iebi,Prisoner,01 Jan 1974
+424,160144004,"Butine, Isana",M,CIS Bui-Iebi,Prisoner,01 Jan 1976
+425,160241951,"Daton, Terance",M,CIS Bui-Iebi,Warder,10 May 1985
+426,160142435,"David, Gorden",M,CIS Bui-Iebi,Student,01 Jan 1989
+427,160243097,"David, Londe",M,CIS Bui-Iebi,Prisoner,24 Jul 1979
+428,160142005,"David, Noru",M,CIS Bui-Iebi,Unemployed,01 Jan 1982
+429,160437709,"David, Oberth",M,CIS Bui-Iebi,Student,25 Apr 2004
+430,160142433,"David, Steven",M,CIS Bui-Iebi,Student,01 Jan 1984
+431,160142000,"David, Sumine",M,CIS Bui-Iebi,Student,01 Jan 1987
+432,160142004,"David, Timon",M,CIS Bui-Iebi,Unemployed,01 Jan 1985
+433,160142244,"David, Wanpis",M,CIS Bui-Iebi,Prisoner,01 Jan 1984
+434,160143894,"David, Willie",M,CIS Bui-Iebi,Student,01 Jan 1988
+435,160128563,"David-moengo, Ismael",M,CIS Bui-Iebi,Student,01 Dec 1991
+436,160142062,"Dea, Holwesi",M,CIS Bui-Iebi,Prisoner,01 Jan 1979
+437,160142086,"Dege, Gai",M,CIS Bui-Iebi,Warder,01 Jan 1957
+438,160146284,"Dino, Mori",M,CIS Bui-Iebi,Prisoner,01 Jan 1974
+439,160142519,"Duka, Oscar",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+440,160128398,"Dukpio, Blasius",M,CIS Bui-Iebi,Prisoner,25 May 1979
+441,160146602,"Duku, Andrew",M,CIS Bui-Iebi,Prisoner,01 Jan 1968
+442,160142568,"Duku, Maris",M,CIS Bui-Iebi,Prisoner,01 Jan 1982
+443,160242940,"Dull, Top",M,CIS Bui-Iebi,Prisoner,10 Jun 1987
+444,25087116,"Dunstain, Isreal",M,CIS Bui-Iebi,Student,28 May 2000
+445,25081058,"Dunstan, Jorden",M,CIS Bui-Iebi,Student,21 Jan 2004
+446,25081063,"Dunstan, Junior",M,CIS Bui-Iebi,Teacher,09 Dec 2002
+447,160437583,"Duri, Plimi",M,CIS Bui-Iebi,Student,23 Apr 2004
+448,25081070,"Dus, Kaycee",M,CIS Bui-Iebi,Student,05 Apr 2000
+449,25081072,"Edmon, Amond",M,CIS Bui-Iebi,Student,28 Jul 1990
+450,160143980,"Egari, Hamono",M,CIS Bui-Iebi,Warder,01 Jan 1959
+451,160144337,"Ekere, Mark",M,CIS Bui-Iebi,Prisoner,01 Jan 1971
+452,160142037,"Ekon, Tolapi",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+453,160142230,"Eloria, Aginia",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+454,160241764,"Epei, Andrew",M,CIS Bui-Iebi,Prisoner,03 Oct 1978
+455,160242939,"Epelmya, Kopi",M,CIS Bui-Iebi,Prisoner,14 Jan 1975
+456,160144350,"Erelie, Alfred",M,CIS Bui-Iebi,Student,01 Jan 1982
+457,160144346,"Erelie, Pupuri",M,CIS Bui-Iebi,Welder,01 Jan 1980
+458,160146310,"Erelie, Timothy",M,CIS Bui-Iebi,Student,01 Jan 1990
+459,160144039,"Eric, Don",M,CIS Bui-Iebi,Prisoner,01 Jan 1985
+460,160146270,"Eric, John",M,CIS Bui-Iebi,Student,01 Jan 1988
+461,160142436,"Eric, Peter",M,CIS Bui-Iebi,Unemployed,01 Jan 1983
+462,160142065,"Erick, Samson",M,CIS Bui-Iebi,Prisoner,01 Jan 1990
+463,160243104,"Faso, Joshua",M,CIS Bui-Iebi,Prisoner,10 Jun 1988
+464,160142346,"Felix, Mamu",M,CIS Bui-Iebi,Unemployed,01 Jan 1987
+465,160144376,"Felix, Robert",M,CIS Bui-Iebi,Unemployed,01 Jan 1985
+466,160138172,"Foxy, Andrew",M,CIS Bui-Iebi,Prisoner,13 Jun 1985
+467,160144323,"Francis, Micheal",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+468,160142057,"Freman, Agini",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+469,160143995,"Gabang, Mufe",M,CIS Bui-Iebi,Prisoner,01 Jan 1983
+470,160143672,"Gai, John",M,CIS Bui-Iebi,Student,01 Jan 1990
+471,160146291,"Galap, Towang",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+472,160243100,"Gamu, Dickson",M,CIS Bui-Iebi,Prisoner,20 Apr 1977
+473,160243283,"Garia, Meroa",M,CIS Bui-Iebi,Prisoner,10 Mar 1977
+474,160146258,"Garie, Jimmy",M,CIS Bui-Iebi,Warder,01 Jan 1947
+475,160146274,"Garu, Paul",M,CIS Bui-Iebi,Prisoner,01 Jan 1969
+476,160142282,"Geglu, Elaizah",M,CIS Bui-Iebi,Student,01 Jan 1989
+477,160144277,"Geglu, Michiel",M,CIS Bui-Iebi,Warder,01 Jan 1966
+478,160437684,"Gem, Vincent",M,CIS Bui-Iebi,Prisoner,17 Oct 1987
+479,160241772,"Geoffery, Dugi",M,CIS Bui-Iebi,Student,09 Apr 1992
+480,160144357,"Geoffery, Raimi",M,CIS Bui-Iebi,Student,01 Jan 1990
+481,160142260,"Geoffery, Raymond",M,CIS Bui-Iebi,Student,01 Jan 1984
+482,160142263,"Geoffery, Solomon",M,CIS Bui-Iebi,Unemployed,01 Jan 1986
+483,160241394,"Geoffery, Tom",M,CIS Bui-Iebi,Warder,09 Feb 1980
+484,25081086,"George, Ray",M,CIS Bui-Iebi,Security,05 Feb 1998
+485,160142749,"George, Timon",M,CIS Bui-Iebi,Student,01 Jan 1980
+486,160437698,"Giru, Joshua",M,CIS Bui-Iebi,Worker,14 Sep 1982
+487,160144214,"Giveng, Etuke",M,CIS Bui-Iebi,Prisoner,01 Jan 1982
+488,160144042,"Gofang, Goni",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+489,160146311,"Gulai, Aissac kirape",M,CIS Bui-Iebi,Warder,01 Jan 1959
+490,160241373,"Gulai, Andi",M,CIS Bui-Iebi,Student,10 Feb 1990
+491,160143975,"Gulai, Ape",M,CIS Bui-Iebi,Student,01 Jan 1984
+492,25081098,"Gulai, Freeman",M,CIS Bui-Iebi,Student,05 Aug 1997
+493,160143974,"Gulai, Roman",M,CIS Bui-Iebi,Teacher,01 Jan 1981
+494,160243099,"Guli, Raymond",M,CIS Bui-Iebi,Prisoner,25 Apr 1973
+495,160144005,"Gusi, Gunugau",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+496,160143945,"Haka, Richard",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+497,160142747,"Haluma, Andrew",M,CIS Bui-Iebi,Warder,01 Jan 1964
+498,160144047,"Hangat, Joe",M,CIS Bui-Iebi,Prisoner,01 Jan 1977
+499,160144117,"Hapo, Tandape",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+500,160142135,"Harai, Kaiva",M,CIS Bui-Iebi,Prisoner,01 Jan 1982
+501,160243288,"Haralu, Andiki",M,CIS Bui-Iebi,Prisoner,29 Jun 1977
+502,160138166,"Haraya, Daniel",M,CIS Bui-Iebi,Prisoner,12 May 1982
+503,160243096,"Haro, Thomas",M,CIS Bui-Iebi,Prisoner,29 Sep 1987
+504,160142472,"Hatoku, Hewape",M,CIS Bui-Iebi,Prisoner,01 Jan 1971
+505,160128517,"Hayape, Igipe",M,CIS Bui-Iebi,Prisoner,15 Aug 1986
+506,160242023,"Hena, Peter",M,CIS Bui-Iebi,Prisoner,20 Oct 1983
+507,160241546,"Henari, Peter",M,CIS Bui-Iebi,Prisoner,02 Jun 1975
+508,160437702,"Henry, Gibson",M,CIS Bui-Iebi,Worker,28 Sep 1987
+509,160128407,"Henry, Mark",M,CIS Bui-Iebi,Prisoner,14 Feb 1981
+510,160243276,"Heroma, Elija",M,CIS Bui-Iebi,Prisoner,16 Feb 1979
+511,160243287,"Heyaweli, Mulungu",M,CIS Bui-Iebi,Prisoner,23 Oct 1974
+512,160138171,"Hikili, Buka",M,CIS Bui-Iebi,Prisoner,20 Jul 1985
+513,160144184,"Himugu, Ibugu",M,CIS Bui-Iebi,Warder,01 Jan 1962
+514,160437706,"Hipofa, Lazarus",M,CIS Bui-Iebi,Worker,03 Mar 1996
+515,160142056,"Hiribu, Peter",M,CIS Bui-Iebi,Prisoner,01 Jan 1978
+516,160144301,"Hiwali, Laija",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+517,160142288,"Homono, Albert",M,CIS Bui-Iebi,Unemployed,01 Jan 1982
+518,160142401,"Huliya, Paul",M,CIS Bui-Iebi,Prisoner,01 Jan 1976
+519,160144300,"Hundiai, Pailara",M,CIS Bui-Iebi,Prisoner,01 Jan 1969
+520,160142748,"Hungs, Samuel",M,CIS Bui-Iebi,Unemployed,01 Jan 1987
+521,160241776,"Huruma, Hiliwa",M,CIS Bui-Iebi,Prisoner,04 Sep 1975
+522,160241925,"Huruwo, Jack",M,CIS Bui-Iebi,Prisoner,06 Sep 1988
+523,160242031,"Iabo, Leslie",M,CIS Bui-Iebi,Prisoner,10 Dec 1987
+524,160243127,"Iabo, Young",M,CIS Bui-Iebi,Prisoner,23 Apr 1971
+525,160142596,"Ibule, Takaya",M,CIS Bui-Iebi,Prisoner,01 Jan 1970
+526,160243125,"Iem, Pis",M,CIS Bui-Iebi,Prisoner,13 Mar 1981
+527,160242006,"Ifana, Luwie",M,CIS Bui-Iebi,Prisoner,10 Aug 1959
+528,160146264,"Igipe, Ewali",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+529,160144026,"Igol, Moris",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+530,160243112,"Ikila, Jeffrey",M,CIS Bui-Iebi,Prisoner,29 Oct 1992
+531,160144302,"Ikipe, Mongi",M,CIS Bui-Iebi,Prisoner,01 Jan 1971
+532,160437696,"Imbang, Abrham",M,CIS Bui-Iebi,Worker,11 Nov 1986
+533,160128536,"Imisi, Apen",M,CIS Bui-Iebi,Prisoner,18 Nov 1977
+534,160144009,"Inakoiye, Yu",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+535,160146394,"Inugu, Jack",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+536,160128554,"Iopa, Philip lepa",M,CIS Bui-Iebi,Prisoner,23 May 1979
+537,160128527,"Ipana, Moropa",M,CIS Bui-Iebi,Prisoner,11 Aug 1989
+538,160144167,"Ipape, Takope",M,CIS Bui-Iebi,Prisoner,01 Jan 1987
+539,160146290,"Ipisa, Lukia",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+540,160146299,"Ipisa, Rukia",M,CIS Bui-Iebi,Prisoner,01 Jan 1974
+541,160243135,"Ipuke, Francis",M,CIS Bui-Iebi,Prisoner,12 Apr 1953
+542,160242019,"Iraku, Saki",M,CIS Bui-Iebi,Prisoner,06 Feb 1975
+543,160142043,"Iribu, Hame",M,CIS Bui-Iebi,Prisoner,01 Jan 1979
+544,160144441,"Iroi, James",M,CIS Bui-Iebi,Prisoner,01 Jan 1963
+545,160146396,"Iru, Pona",M,CIS Bui-Iebi,Prisoner,01 Jan 1970
+546,160142594,"Iru, Pona",M,CIS Bui-Iebi,Prisoner,01 Jan 1954
+547,160144339,"Issac, Paul",M,CIS Bui-Iebi,Prisoner,01 Jan 1968
+548,160144126,"Itupe, Andale",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+549,160242945,"Iyao, Akis",M,CIS Bui-Iebi,Prisoner,26 Jun 1979
+550,160144050,"Jack, Kuro",M,CIS Bui-Iebi,Prisoner,01 Jan 1987
+551,160243116,"Jack, Paul",M,CIS Bui-Iebi,Prisoner,20 Jan 1967
+552,160437667,"Jack, Wilfred",M,CIS Bui-Iebi,Houseboy,25 Apr 2004
+553,160437668,"Jack, Wilson",M,CIS Bui-Iebi,Student,22 Apr 2004
+554,160144044,"Jae, Kopiong",M,CIS Bui-Iebi,Prisoner,01 Jan 1969
+555,160144114,"Jalapa, Yagari",M,CIS Bui-Iebi,Prisoner,01 Jan 1984
+556,160437594,"James, Alco",M,CIS Bui-Iebi,Student,28 Apr 2004
+557,160437623,"James, Jolusion",M,CIS Bui-Iebi,Student,24 Apr 2004
+558,160437603,"James, Julias",M,CIS Bui-Iebi,Subsistence Farmer,24 Apr 2004
+559,160437593,"James, Nalcop",M,CIS Bui-Iebi,Student,25 Apr 2004
+560,160437592,"James, Nalzii",M,CIS Bui-Iebi,Student,28 Apr 2004
+561,160144332,"Japah, Boned",M,CIS Bui-Iebi,Prisoner,01 Jan 1971
+562,160241110,"Jara ubasa, Aisa",M,CIS Bui-Iebi,Warder,10 Jun 1987
+563,160144429,"Jeffery, Brian",M,CIS Bui-Iebi,Unemployed,01 Jan 1979
+564,160142419,"Jeffery, John",M,CIS Bui-Iebi,Houseboy,01 Jan 1980
+565,160142417,"Jeffery, Nickson",M,CIS Bui-Iebi,Student,01 Jan 1987
+566,160142428,"Jeffery, Paul",M,CIS Bui-Iebi,Unemployed,01 Jan 1980
+567,160142429,"Jeffery, Steward",M,CIS Bui-Iebi,Student,01 Jan 1983
+568,160144354,"Jeffery, Tom",M,CIS Bui-Iebi,Community Health,01 Jan 1976
+569,160142399,"Jena, Johnathan",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+570,160143992,"Jeremy, Mizereng",M,CIS Bui-Iebi,Prisoner,01 Jan 1983
+571,160142123,"Jiara, Aisa",M,CIS Bui-Iebi,Student,04 Jun 1987
+572,160142745,"Jiara, Gidion",M,CIS Bui-Iebi,Student,03 May 1990
+573,160142746,"Jiara, Obed",M,CIS Bui-Iebi,Student,17 May 1977
+574,160142121,"Jiara, Robin",M,CIS Bui-Iebi,Student,12 Apr 1979
+575,160146261,"Jimmy, Lazarus",M,CIS Bui-Iebi,Student,01 Jan 1981
+576,160144385,"John, Ala",M,CIS Bui-Iebi,Prisoner,01 Jan 1952
+577,160144000,"Joseph, Jetro",M,CIS Bui-Iebi,Prisoner,01 Jan 1985
+578,160144124,"Kai, Andrew",M,CIS Bui-Iebi,Prisoner,01 Jan 1990
+579,160437682,"Kaiye, Yoks",M,CIS Bui-Iebi,Prisoner,05 Oct 1985
+580,160243114,"Kakila, Meriku",M,CIS Bui-Iebi,Prisoner,10 Jun 1990
+581,160142463,"Kakis, John",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+582,160146280,"Kakis, Johnathan",M,CIS Bui-Iebi,Prisoner,01 Jan 1975
+583,160142233,"Kamba, Pias",M,CIS Bui-Iebi,Prisoner,01 Jan 1987
+584,25081118,"Kambe, Bekay",M,CIS Bui-Iebi,Subsistence Farmer,19 Mar 2002
+585,160144198,"Kambe, David",M,CIS Bui-Iebi,Subsistence Farmer,01 Jan 1980
+586,160241557,"Kambi, Benson",M,CIS Bui-Iebi,Student,11 Feb 1993
+587,160142644,"Kambi, Kingsten",M,CIS Bui-Iebi,Student,01 Jan 1990
+588,160142642,"Kambi, Piasal",M,CIS Bui-Iebi,Warder,01 Jan 1966
+589,160146283,"Kambo, Gabriel",M,CIS Bui-Iebi,Prisoner,01 Jan 1964
+590,25081132,"Kambu, Adrien",M,CIS Bui-Iebi,Warder,12 Mar 1984
+591,160242944,"Kameku, Neso",M,CIS Bui-Iebi,Prisoner,12 Apr 1987
+592,160144231,"Kameli, Akope",M,CIS Bui-Iebi,Prisoner,01 Jan 1968
+593,160142304,"Kami, John",M,CIS Bui-Iebi,Prisoner,01 Jan 1965
+594,160144418,"Kamin, Jim",M,CIS Bui-Iebi,Warder,01 Jan 1976
+595,160142064,"Kamo, Tu",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+596,160142404,"Kamokong, Benny",M,CIS Bui-Iebi,Prisoner,01 Jan 1983
+597,160142254,"Kanda, Rela",M,CIS Bui-Iebi,Prisoner,01 Jan 1963
+598,160138176,"Kande, Stephen",M,CIS Bui-Iebi,Warder,01 Apr 1979
+599,160144394,"Kandi, Awi",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+600,160144181,"Kandi, Awi",M,CIS Bui-Iebi,Prisoner,01 Jan 1990
+601,160146305,"Kandi, Hararu",M,CIS Bui-Iebi,Prisoner,01 Jan 1969
+602,160142565,"Kandi, Loma",M,CIS Bui-Iebi,Prisoner,01 Jan 1982
+603,160144059,"Kangema, Tony",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+604,160142576,"Kap, Semi",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+605,160144322,"Kapal, Roger",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+606,160144121,"Kapi, Olewale",M,CIS Bui-Iebi,Prisoner,01 Jan 1976
+607,160146391,"Kara, Nit",M,CIS Bui-Iebi,Prisoner,01 Jan 1973
+608,160146279,"Kara, Simill",M,CIS Bui-Iebi,Prisoner,01 Jan 1952
+609,160146276,"Kare, Karl",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+610,160146416,"Kari, Paul",M,CIS Bui-Iebi,Prisoner,01 Jan 1966
+611,160138161,"Kariap, Tomson",M,CIS Bui-Iebi,Prisoner,02 Feb 1987
+612,160437582,"Kasadae, Presen",M,CIS Bui-Iebi,Subsistence Farmer,26 Feb 2004
+613,160144038,"Kasmir, Charlie",M,CIS Bui-Iebi,Prisoner,01 Jan 1985
+614,160243111,"Kassman, Frank",M,CIS Bui-Iebi,Prisoner,13 Aug 1973
+615,160144424,"Kaugla, Tibe",M,CIS Bui-Iebi,Warder,01 Jan 1978
+616,160142060,"Kave, James",M,CIS Bui-Iebi,Prisoner,01 Jan 1985
+617,160146423,"Kawe, Andale",M,CIS Bui-Iebi,Prisoner,01 Jan 1979
+618,160243282,"Kaycee, Aida",M,CIS Bui-Iebi,Prisoner,24 Sep 1987
+619,160146262,"Kei, Peter",M,CIS Bui-Iebi,Warder,01 Jan 1970
+620,160146402,"Kelamu, Tom",M,CIS Bui-Iebi,Prisoner,01 Jan 1983
+621,160142255,"Kele, Kea",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+622,160128545,"Kella, James",M,CIS Bui-Iebi,Prisoner,21 Aug 1987
+623,160242002,"Kelly, Senis",M,CIS Bui-Iebi,Prisoner,18 Mar 1984
+624,160243106,"Kelo, Mero",M,CIS Bui-Iebi,Prisoner,28 Oct 1989
+625,160142396,"Kema, Kipulu",M,CIS Bui-Iebi,Prisoner,01 Jan 1966
+626,160142242,"Kengema, John",M,CIS Bui-Iebi,Prisoner,01 Jan 1982
+627,160142308,"Kenneth, Justin",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+628,160142575,"Keno, Simson",M,CIS Bui-Iebi,Prisoner,01 Jan 1970
+629,160144174,"Kensi, Francis",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+630,160142406,"Kepu, Kata",M,CIS Bui-Iebi,Prisoner,01 Jan 1990
+631,160243095,"Kepu, Steward",M,CIS Bui-Iebi,Prisoner,28 Mar 1974
+632,160142063,"Keropen, Nelson",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+633,160144432,"Kevana, Eric",M,CIS Bui-Iebi,Warder,01 Jan 1974
+634,160128516,"Kevin, Noel",M,CIS Bui-Iebi,Prisoner,17 Nov 1996
+635,160128562,"Kiabo, Vincent",M,CIS Bui-Iebi,Warder,21 Mar 1975
+636,160128557,"Kiage, Kamb",M,CIS Bui-Iebi,Prisoner,30 Sep 1987
+637,160142134,"Kiki, Don",M,CIS Bui-Iebi,Student,01 Jan 1990
+638,160143841,"Kiki, Newman",M,CIS Bui-Iebi,Unemployed,01 Jan 1980
+639,160143842,"Kiki, Wani",M,CIS Bui-Iebi,Unemployed,01 Jan 1987
+640,160144336,"Kikimugi, John",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+641,160144428,"Kipa, Jeffery",M,CIS Bui-Iebi,Warder,01 Jan 1970
+642,160241934,"Kipa, Rodney",M,CIS Bui-Iebi,Prisoner,10 Feb 1982
+643,160141950,"Kipa, Sipili",M,CIS Bui-Iebi,Warder,01 Jan 1969
+644,160144338,"Kiripa, Hayape",M,CIS Bui-Iebi,Prisoner,01 Jan 1975
+645,160437705,"Kisa, Samson",M,CIS Bui-Iebi,Worker,01 Feb 2001
+646,160128400,"Kiso, Martin",M,CIS Bui-Iebi,Prisoner,10 Apr 1981
+647,160142299,"Kit, Jerry",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+648,160242941,"Kiwa, Jacob",M,CIS Bui-Iebi,Prisoner,16 Mar 1989
+649,160241929,"Koal, Pombere",M,CIS Bui-Iebi,Prisoner,12 Jun 1984
+650,160142645,"Koi, Balthasar",M,CIS Bui-Iebi,Warder,01 Jan 1971
+651,160143674,"Koiba, Wabi",M,CIS Bui-Iebi,Student,01 Jan 1985
+652,160142092,"Koiba, Wapu",M,CIS Bui-Iebi,Student,01 Jan 1987
+653,160142071,"Koke, Charles",M,CIS Bui-Iebi,Warder,01 Jan 1956
+654,160243103,"Koke, Jonathen",M,CIS Bui-Iebi,Prisoner,04 Oct 1988
+655,160243098,"Kola, Mike",M,CIS Bui-Iebi,Prisoner,19 Apr 1979
+656,160128553,"Komanda, Baras",M,CIS Bui-Iebi,Prisoner,14 Mar 1984
+657,160437629,"Komanda, Batas",M,CIS Bui-Iebi,Prisoner,25 Dec 1970
+658,160142058,"Komape, Edward",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+659,160144227,"Komape, Mathew",M,CIS Bui-Iebi,Prisoner,01 Jan 1970
+660,160144324,"Komba, Albert",M,CIS Bui-Iebi,Prisoner,01 Jan 1954
+661,160146401,"Kombe, Ero",M,CIS Bui-Iebi,Prisoner,01 Jan 1970
+662,160141996,"Kombo, Michael",M,CIS Bui-Iebi,Teacher,01 Jan 1980
+663,160128567,"Kombra, Benjamin",M,CIS Bui-Iebi,Warder,20 Jul 1968
+664,160241382,"Kome, Alphones",M,CIS Bui-Iebi,Student,06 Nov 1992
+665,160243101,"Kome, Justine",M,CIS Bui-Iebi,Prisoner,24 Oct 1982
+666,160142721,"Kome, Pint osen",M,CIS Bui-Iebi,Warder,01 Jan 1964
+667,160143581,"Kome, Simon",M,CIS Bui-Iebi,Student,01 Jan 1990
+668,160242948,"Kome, Wilfred",M,CIS Bui-Iebi,Prisoner,09 Jan 1972
+669,160144166,"Komiabo, Jonathan",M,CIS Bui-Iebi,Prisoner,01 Jan 1977
+670,160142578,"Kondo, Danny",M,CIS Bui-Iebi,Prisoner,01 Jan 1969
+671,160142466,"Kondo, Francis",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+672,160144331,"Kongapaiya, Mahia",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+673,160144410,"Kopaya, Daniel",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+674,160437595,"Kope, Andrew",M,CIS Bui-Iebi,Subsistence Farmer,25 Feb 2004
+675,160437654,"Kope, Jabadi",M,CIS Bui-Iebi,Student,23 Apr 2004
+676,160437614,"Kope, Junior",M,CIS Bui-Iebi,Student,28 Apr 2004
+677,160437657,"Kope, Kelly",M,CIS Bui-Iebi,Subsistence Farmer,25 Apr 2004
+678,160437656,"Kope, Ronny",M,CIS Bui-Iebi,Houseboy,24 Apr 2004
+679,160243270,"Kopeap, Buka",M,CIS Bui-Iebi,Prisoner,19 Oct 1984
+680,160144036,"Kore, Amon",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+681,160243131,"Kore, John",M,CIS Bui-Iebi,Prisoner,01 Jan 1978
+682,160241938,"Korou, Bush",M,CIS Bui-Iebi,Prisoner,09 Dec 1976
+683,160143680,"Korowa, Lucas",M,CIS Bui-Iebi,Warder,21 Nov 1975
+684,25081147,"Korowa, Oliva",M,CIS Bui-Iebi,Student,28 Apr 1998
+685,160141948,"Korowa, Rose",M,CIS Bui-Iebi,Household Duties,05 Jul 1975
+686,160241939,"Kosi, Peter",M,CIS Bui-Iebi,Prisoner,10 Sep 1981
+687,160142302,"Kotap, Edward",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+688,160128520,"Kowi, Eka",M,CIS Bui-Iebi,Prisoner,12 Sep 1992
+689,160144381,"Kowi, Kopsy",M,CIS Bui-Iebi,Prisoner,01 Jan 1983
+690,160142295,"Kuk, Robert",M,CIS Bui-Iebi,Prisoner,01 Jan 1970
+691,160142439,"Kukbak, Nelson",M,CIS Bui-Iebi,Warder,01 Jan 1975
+692,160142250,"Kuku, Joseph",M,CIS Bui-Iebi,Prisoner,01 Jan 1984
+693,160146600,"Kumbao, Gabriel",M,CIS Bui-Iebi,Prisoner,01 Jan 1964
+694,160144325,"Kumbaro, Ipiol",M,CIS Bui-Iebi,Prisoner,01 Jan 1974
+695,160144023,"Kumbia, Robinson",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+696,25081153,"Kumnari, Roger",M,CIS Bui-Iebi,Malaria Sprayer,28 Mar 1979
+697,160242030,"Kumul, Jack",M,CIS Bui-Iebi,Prisoner,12 Apr 1967
+698,160242003,"Kundu, Roland",M,CIS Bui-Iebi,Prisoner,03 Oct 1987
+699,160241558,"Kununu, Alson",M,CIS Bui-Iebi,Student,10 Feb 1991
+700,160142548,"Kununu, Willie",M,CIS Bui-Iebi,Student,01 Jan 1985
+701,160142397,"Kupiale, Urunu",M,CIS Bui-Iebi,Prisoner,01 Jan 1971
+702,160142412,"Kupiawi, Andape",M,CIS Bui-Iebi,Prisoner,01 Jan 1983
+703,160144282,"Kupiawi, Steven",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+704,160138178,"Kurai, Sina",M,CIS Bui-Iebi,Prisoner,20 Jan 1978
+705,160241768,"Kuro, Tally",M,CIS Bui-Iebi,Prisoner,12 Sep 1977
+706,160242943,"Kuroll, Simon",M,CIS Bui-Iebi,Prisoner,10 Dec 1984
+707,160146426,"Kuru, Kep",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+708,160138164,"Kutu, Simon",M,CIS Bui-Iebi,Prisoner,13 Jun 1989
+709,160144434,"Ladon, Lawence",M,CIS Bui-Iebi,Warder,01 Jan 1980
+710,160144397,"Laija, Pape",M,CIS Bui-Iebi,Prisoner,01 Jan 1968
+711,160144396,"Laija, Tomiape",M,CIS Bui-Iebi,Prisoner,01 Jan 1970
+712,160142586,"Laiko, Nathan",M,CIS Bui-Iebi,Student,01 Jan 1990
+713,160144415,"Laiko, Steven",M,CIS Bui-Iebi,Teacher,01 Jan 1976
+714,160144445,"Lalop, Ruben",M,CIS Bui-Iebi,Prisoner,01 Jan 1975
+715,160142038,"Lambo, Wari",M,CIS Bui-Iebi,Prisoner,01 Jan 1982
+716,160138179,"Lapua, Philip",M,CIS Bui-Iebi,Prisoner,16 Aug 1978
+717,160144438,"Lawai, Asipain",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+718,160146397,"Lawai, Tawas",M,CIS Bui-Iebi,Prisoner,01 Jan 1984
+719,160146272,"Lawence, Junior",M,CIS Bui-Iebi,Warder,01 Jan 1988
+720,160146292,"Lawija, Hegela",M,CIS Bui-Iebi,Prisoner,01 Jan 1969
+721,160142518,"Lelip, Murry",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+722,160143952,"Lenel, Ronald",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+723,160242022,"Lepa, David",M,CIS Bui-Iebi,Prisoner,26 Aug 1987
+724,160142405,"Lepi, Mone",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+725,160144219,"Lindape, Tom",M,CIS Bui-Iebi,Warder,01 Jan 1970
+726,160144049,"Lisa, Napthali",M,CIS Bui-Iebi,Prisoner,01 Jan 1982
+727,160243271,"Loibawi, Thomas",M,CIS Bui-Iebi,Prisoner,20 Oct 1986
+728,160142750,"Loko, Moses",M,CIS Bui-Iebi,Warder,25 Apr 1975
+729,160141957,"Loko, Pala",M,CIS Bui-Iebi,Student,01 Jan 1988
+730,160144215,"Lokora, Mimi",M,CIS Bui-Iebi,Prisoner,01 Jan 1987
+731,160242946,"Lol, Ball piyn",M,CIS Bui-Iebi,Not Specified,01 Mar 1981
+732,160142752,"Longa, Peter",M,CIS Bui-Iebi,Warder,01 Jan 1965
+733,160142720,"Lopa, Sipi",M,CIS Bui-Iebi,Warder,01 Jan 1969
+734,160128522,"Luke, Opa",M,CIS Bui-Iebi,Prisoner,21 Jun 1986
+735,160142410,"Lun, Jack",M,CIS Bui-Iebi,Prisoner,01 Jan 1967
+736,160142577,"Luni, Sepen",M,CIS Bui-Iebi,Prisoner,01 Jan 1987
+737,160128393,"Lupes, Vincent",M,CIS Bui-Iebi,Prisoner,06 Dec 1970
+738,160146605,"Luwi, Warep",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+739,160143989,"Mai, Maliaki",M,CIS Bui-Iebi,Prisoner,01 Jan 1979
+740,160143999,"Maigamen, Marcus",M,CIS Bui-Iebi,Prisoner,01 Jan 1972
+741,160142465,"Maima, Anton",M,CIS Bui-Iebi,Prisoner,01 Jan 1953
+742,160144391,"Makape, Luke",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+743,160128541,"Malakai, Martin",M,CIS Bui-Iebi,Prisoner,06 Jun 1960
+744,160146281,"Male, Koligi",M,CIS Bui-Iebi,Prisoner,01 Jan 1954
+745,160143904,"Mali, Kavin",M,CIS Bui-Iebi,Teacher,01 Jan 1983
+746,160146392,"Mama, Francis",M,CIS Bui-Iebi,Prisoner,01 Jan 1953
+747,160146395,"Mambel, Kevin",M,CIS Bui-Iebi,Prisoner,01 Jan 1983
+748,160146399,"Mambi, Magu",M,CIS Bui-Iebi,Prisoner,01 Jan 1963
+749,160144288,"Mambi, Munga",M,CIS Bui-Iebi,Prisoner,01 Jan 1939
+750,160241550,"Mambia, Andrew",M,CIS Bui-Iebi,Prisoner,12 Feb 1962
+751,160142394,"Mandago, Arereme",M,CIS Bui-Iebi,Prisoner,01 Jan 1974
+752,160144052,"Mandi, Maiyoni",M,CIS Bui-Iebi,Prisoner,01 Jan 1984
+753,160142423,"Mandoro, Hayabe",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+754,160146257,"Mane, Palus",M,CIS Bui-Iebi,Warder,01 Jan 1972
+755,160437633,"Mangal, Jack",M,CIS Bui-Iebi,Prisoner,28 Dec 1960
+756,160146418,"Map, Nemaiah",M,CIS Bui-Iebi,Prisoner,01 Jan 1982
+757,160437612,"Maril, Meki",M,CIS Bui-Iebi,Prisoner,10 Aug 1998
+758,160143939,"Mark, Andrew",M,CIS Bui-Iebi,Student,01 Jan 1989
+759,160143938,"Mark, Dixie",M,CIS Bui-Iebi,Student,01 Jan 1988
+760,160437579,"Mark, Ot",M,CIS Bui-Iebi,Student,28 Apr 2004
+761,160437581,"Mark, Steward",M,CIS Bui-Iebi,Student,28 Feb 2004
+762,160146431,"Markus, Andrew",M,CIS Bui-Iebi,Student,01 Jan 1986
+763,160142590,"Markus, Mark",M,CIS Bui-Iebi,Student,01 Jan 1990
+764,160241947,"Marori, Jonimaka",M,CIS Bui-Iebi,Prisoner,04 Sep 1990
+765,160243128,"Masalau, Eddie",M,CIS Bui-Iebi,Prisoner,30 Sep 1985
+766,160437585,"Mathew, Iapa",M,CIS Bui-Iebi,Subsistence Farmer,23 Apr 2004
+767,160128404,"Matoli, Thomas",M,CIS Bui-Iebi,Prisoner,08 Dec 1985
+768,160138169,"Mawe, George",M,CIS Bui-Iebi,Prisoner,08 Apr 1989
+769,160437647,"Max, Adreas",M,CIS Bui-Iebi,Student,27 Apr 2004
+770,160437704,"Max, Andy",M,CIS Bui-Iebi,Student,18 Sep 2003
+771,160437648,"Max, Drean",M,CIS Bui-Iebi,Houseboy,21 Apr 2004
+772,160241549,"Meck, David",M,CIS Bui-Iebi,Prisoner,10 Apr 1987
+773,160243117,"Mek, Mapi",M,CIS Bui-Iebi,Prisoner,19 Jan 1972
+774,160144127,"Mel kome, Samson",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+775,160144222,"Melepa, Fred",M,CIS Bui-Iebi,Prisoner,01 Jan 1971
+776,160243108,"Melo, Yamala",M,CIS Bui-Iebi,Prisoner,23 Feb 1966
+777,160243268,"Mepiyo, Rickson",M,CIS Bui-Iebi,Prisoner,08 Apr 1991
+778,160143960,"Mere, Alu james",M,CIS Bui-Iebi,Warder,01 Jan 1947
+779,160142074,"Mere, Joshua",M,CIS Bui-Iebi,Electrician,16 Jun 1975
+780,160143963,"Mere, Michael",M,CIS Bui-Iebi,Mechanic,12 Sep 1982
+781,160142143,"Meya, Berard",M,CIS Bui-Iebi,Nurse,01 Jan 1968
+782,160144328,"Miako, Paul",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+783,160128403,"Michael, Ramcy",M,CIS Bui-Iebi,Prisoner,13 Aug 1984
+784,160437650,"Michael, Tarol",M,CIS Bui-Iebi,Student,24 Apr 2004
+785,160437651,"Micheal, Cordii",M,CIS Bui-Iebi,Student,22 Apr 2004
+786,25081199,"Micheal, Jacky",M,CIS Bui-Iebi,Self Employed,28 Apr 1998
+787,25081202,"Micheal, Luther",M,CIS Bui-Iebi,Household Duties,28 Apr 1988
+788,160144430,"Micheal, Moses",M,CIS Bui-Iebi,Student,01 Jan 1989
+789,160437699,"Micheal, Peter",M,CIS Bui-Iebi,Worker,12 Apr 1991
+790,25081207,"Micheal, Witus",M,CIS Bui-Iebi,Student,28 Apr 2001
+791,160142159,"Minape, Hangu",M,CIS Bui-Iebi,Prisoner,01 Jan 1982
+792,160142569,"Miori, Kiniba",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+793,25081212,"Miru, Smokie",M,CIS Bui-Iebi,Subsistence Farmer,28 Apr 1981
+794,160144333,"Miti, Dora dickson",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+795,160138170,"Modoro, Udialu",M,CIS Bui-Iebi,Prisoner,16 Jul 1981
+796,160142469,"Mokiia, James",M,CIS Bui-Iebi,Prisoner,01 Jan 1975
+797,160146298,"Mokri, Moni",M,CIS Bui-Iebi,Prisoner,01 Jan 1977
+798,160142592,"Moliya, Billy",M,CIS Bui-Iebi,Unemployed,01 Jan 1976
+799,160142593,"Moliya, Kelly",M,CIS Bui-Iebi,Unemployed,01 Jan 1976
+800,160144435,"Moliya, Robert",M,CIS Bui-Iebi,Warder,01 Jan 1965
+801,160242942,"Molu, Gibson",M,CIS Bui-Iebi,Prisoner,30 Nov 1984
+802,160144063,"Mondo, John",M,CIS Bui-Iebi,Teacher,01 Jan 1962
+803,160243279,"Mora, Mike",M,CIS Bui-Iebi,Prisoner,26 Sep 1985
+804,160142249,"More, Micheal",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+805,160142474,"More, Trouy",M,CIS Bui-Iebi,Prisoner,01 Jan 1971
+806,160241767,"Morea, Meya",M,CIS Bui-Iebi,Warder,10 Jan 1978
+807,160144413,"Morgan, Andrew",M,CIS Bui-Iebi,Prisoner,01 Jan 1964
+808,160242015,"Mouse, Dominic",M,CIS Bui-Iebi,Prisoner,09 Feb 1990
+809,160142580,"Muga, Nickson",M,CIS Bui-Iebi,Prisoner,01 Jan 1984
+810,160144393,"Mukuni, Minai",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+811,160243281,"Muliap, Justine",M,CIS Bui-Iebi,Prisoner,29 Oct 1974
+812,160146303,"Mumuan, Paul",M,CIS Bui-Iebi,Prisoner,01 Jan 1973
+813,160128531,"Mun, Pesly",M,CIS Bui-Iebi,Prisoner,15 Feb 1991
+814,160243275,"Mung, Philip",M,CIS Bui-Iebi,Prisoner,28 Feb 1969
+815,160128386,"Munge, Kudah",M,CIS Bui-Iebi,Warder,30 Jul 1983
+816,160128396,"Muringi, David",M,CIS Bui-Iebi,Prisoner,19 Mar 1980
+817,25081223,"Muruasa, Bradley",M,CIS Bui-Iebi,Student,13 Jul 2000
+818,160128383,"Muruasa, Rodney",M,CIS Bui-Iebi,Warder,23 Jul 1984
+819,160144309,"Nagia, Peter",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+820,160142579,"Nakada, Steven",M,CIS Bui-Iebi,Prisoner,01 Jan 1978
+821,160142251,"Nako, Paul",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+822,160146403,"Nakunda, James",M,CIS Bui-Iebi,Prisoner,01 Jan 1973
+823,160141977,"Nalap, Mark",M,CIS Bui-Iebi,Teacher,01 Jan 1981
+824,160144291,"Namane, Pore",M,CIS Bui-Iebi,Labourer,01 Jan 1982
+825,160144088,"Namanex, Felix",M,CIS Bui-Iebi,Worker,01 Jan 1969
+826,160142306,"Namben, Suang",M,CIS Bui-Iebi,Prisoner,01 Jan 1982
+827,160142040,"Name, Jeffery",M,CIS Bui-Iebi,Prisoner,01 Jan 1984
+828,160437695,"Nana, Malaki",M,CIS Bui-Iebi,Worker,29 Dec 1992
+829,160128525,"Nanape, Peter",M,CIS Bui-Iebi,Prisoner,04 May 1983
+830,160143830,"Nande, Vincent",M,CIS Bui-Iebi,Warder,01 Jan 1954
+831,160138177,"Nare, Tom",M,CIS Bui-Iebi,Prisoner,13 Aug 1984
+832,160437679,"Nare, Tombake",M,CIS Bui-Iebi,Prisoner,25 Sep 1983
+833,160437628,"Nathan, Bode",M,CIS Bui-Iebi,Prisoner,27 Jul 1990
+834,160143838,"Nathan, George",M,CIS Bui-Iebi,Unemployed,01 Jan 1985
+835,160143837,"Nathan, Paul",M,CIS Bui-Iebi,Student,01 Jan 1977
+836,160144178,"Nea, Philipus",M,CIS Bui-Iebi,Prisoner,01 Jan 1984
+837,160511184,"Nelson, Ita",M,CIS Bui-Iebi,Driver,15 May 1995
+838,160243278,"Nembo, Sowart",M,CIS Bui-Iebi,Prisoner,13 Mar 1951
+839,160138180,"Nemis, Ape",M,CIS Bui-Iebi,Prisoner,17 Oct 1979
+840,160144310,"Niapa, Endeli",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+841,160437645,"Nicky, Jackson",M,CIS Bui-Iebi,Student,23 Apr 2004
+842,160437644,"Nicky, Jason",M,CIS Bui-Iebi,Student,24 Apr 2004
+843,160437643,"Nicky, Joiclyn",M,CIS Bui-Iebi,Student,25 Apr 2004
+844,160437646,"Nicky, Nickson",M,CIS Bui-Iebi,Teacher,26 Apr 2004
+845,160128530,"Nisa, Petrus",M,CIS Bui-Iebi,Prisoner,20 Nov 1982
+846,160242950,"Nogo, Wanpis",M,CIS Bui-Iebi,Prisoner,26 May 1979
+847,160144422,"Nolga, Markus",M,CIS Bui-Iebi,Warder,01 Jan 1974
+848,160144297,"Nomas, Noringi",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+849,160144223,"Ogen, Hongum",M,CIS Bui-Iebi,Prisoner,01 Jan 1990
+850,160142438,"Ogove, Thomas",M,CIS Bui-Iebi,Warder,01 Jan 1976
+851,160144164,"Okoban, Jim",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+852,160128538,"Oky, Akua",M,CIS Bui-Iebi,Prisoner,07 Feb 1971
+853,160243269,"Olkoben, Pell",M,CIS Bui-Iebi,Prisoner,24 Aug 1973
+854,160243094,"Olwon, Norbert",M,CIS Bui-Iebi,Prisoner,19 Jun 1984
+855,160128559,"Omba, Bob",M,CIS Bui-Iebi,Veterinary Surgeon,19 Aug 1974
+856,160138174,"Omba, Mathew",M,CIS Bui-Iebi,Student,13 Aug 1994
+857,160128560,"Omba, Wawe",M,CIS Bui-Iebi,Student,16 Nov 1996
+858,160243267,"Omeo, Garryson",M,CIS Bui-Iebi,Prisoner,02 Aug 1979
+859,160437662,"Ondex, Feward",M,CIS Bui-Iebi,Houseboy,23 Apr 2004
+860,160437660,"Ondex, Hariwepa",M,CIS Bui-Iebi,Student,23 Apr 2004
+861,160437661,"Ondex, Talita",M,CIS Bui-Iebi,Student,25 Apr 2004
+862,160437653,"Ondex, Tarry",M,CIS Bui-Iebi,Student,22 Apr 2004
+863,160243129,"Ondupiri, Olboli",M,CIS Bui-Iebi,Prisoner,30 Oct 1979
+864,160143996,"Onea, Philimon",M,CIS Bui-Iebi,Prisoner,01 Jan 1979
+865,160242013,"Ope, Peter",M,CIS Bui-Iebi,Prisoner,01 May 1969
+866,160242027,"Ori, Benson",M,CIS Bui-Iebi,Prisoner,03 Jan 1984
+867,160143896,"Oscar, Peter",M,CIS Bui-Iebi,Student,01 Jan 1990
+868,160242005,"Oslow, Ronald",M,CIS Bui-Iebi,Prisoner,10 Aug 1990
+869,25081241,"Otmar, Sam",M,CIS Bui-Iebi,Houseboy,05 Feb 1990
+870,160146603,"Otmar, Win",M,CIS Bui-Iebi,Prisoner,01 Jan 1987
+871,160241774,"Oukie, James",M,CIS Bui-Iebi,Prisoner,04 Oct 1985
+872,160243277,"Pablo, Kevin",M,CIS Bui-Iebi,Prisoner,11 Oct 1975
+873,160511185,"Pail, Lasarus",M,CIS Bui-Iebi,Student,14 Jun 2003
+874,160142042,"Pais, Simon",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+875,160143675,"Paiyak, Andrew",M,CIS Bui-Iebi,Warder,15 Jan 1974
+876,160243272,"Pakaya, Hara",M,CIS Bui-Iebi,Prisoner,02 Sep 1985
+877,160144199,"Paki, John",M,CIS Bui-Iebi,Warder,01 Jan 1947
+878,160142239,"Pakule, Willie",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+879,160146606,"Pala, Jack",M,CIS Bui-Iebi,Prisoner,01 Jan 1969
+880,160242938,"Pale, Huripa",M,CIS Bui-Iebi,Prisoner,11 Jun 1985
+881,160511187,"Pale, Ronny",M,CIS Bui-Iebi,Student,10 Dec 1999
+882,160142283,"Palom, Cobern",M,CIS Bui-Iebi,Warder,01 Jan 1971
+883,160142089,"Pandere, Koiba",M,CIS Bui-Iebi,Warder,01 Jan 1951
+884,160144443,"Pandi, Daniel",M,CIS Bui-Iebi,Prisoner,01 Jan 1974
+885,160146398,"Pando, Yano",M,CIS Bui-Iebi,Prisoner,01 Jan 1960
+886,160143943,"Pape, Hebe",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+887,160128537,"Papia, John",M,CIS Bui-Iebi,Prisoner,01 Dec 1979
+888,160241940,"Papu, Jacky",M,CIS Bui-Iebi,Prisoner,09 Jun 1979
+889,160243122,"Papuah, Lai",M,CIS Bui-Iebi,Prisoner,24 Oct 1988
+890,160146607,"Pare, David",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+891,160142470,"Pare, Hole",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+892,160146285,"Parop, Larop",M,CIS Bui-Iebi,Prisoner,01 Jan 1978
+893,160437677,"Pata, Elvis",M,CIS Bui-Iebi,Prisoner,21 Apr 1990
+894,160142422,"Patabe, Amos",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+895,160437692,"Pate, Don",M,CIS Bui-Iebi,Student,20 Dec 2001
+896,25081244,"Pate, Israel",M,CIS Bui-Iebi,Student,02 Mar 2004
+897,160437691,"Pate, Kim",M,CIS Bui-Iebi,Student,16 Jul 1998
+898,160437690,"Pate, Leo",M,CIS Bui-Iebi,Worker,21 Jul 1974
+899,160142066,"Patiabe, Amos",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+900,160437584,"Paul, Alex",M,CIS Bui-Iebi,Houseboy,23 Apr 2004
+901,160511188,"Paul, David",M,CIS Bui-Iebi,Student,12 Dec 2003
+902,160437639,"Paul, Map",M,CIS Bui-Iebi,Prisoner,21 Oct 1997
+903,160142259,"Pavoja, Geoffery",M,CIS Bui-Iebi,Warder,01 Jan 1959
+904,160144058,"Pawa, Jim",M,CIS Bui-Iebi,Prisoner,01 Jan 1987
+905,160243123,"Payabe, Issac",M,CIS Bui-Iebi,Prisoner,20 Feb 1977
+906,160144177,"Payaja, Lemape",M,CIS Bui-Iebi,Prisoner,01 Jan 1978
+907,160128395,"Peap, James",M,CIS Bui-Iebi,Prisoner,18 Aug 1985
+908,160146286,"Pekai, John",M,CIS Bui-Iebi,Prisoner,01 Jan 1976
+909,160143944,"Peke, Poya",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+910,160142238,"Pelago, Tandaija",M,CIS Bui-Iebi,Prisoner,01 Jan 1967
+911,160143583,"Pelapa, Akilepa thomas",M,CIS Bui-Iebi,Warder,01 Jan 1957
+912,160143681,"Pelapa, Jimmy",M,CIS Bui-Iebi,Warder,31 Aug 1975
+913,160143947,"Peli, Iribu",M,CIS Bui-Iebi,Prisoner,01 Jan 1985
+914,160128681,"Pepena, Kola",M,CIS Bui-Iebi,Prisoner,20 Oct 1982
+915,25081247,"Pereap, Charlie",M,CIS Bui-Iebi,Unemployed,16 Jan 1988
+916,160144115,"Pes, David",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+917,160142521,"Pes, Sape",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+918,160142247,"Peter, Batholomeo",M,CIS Bui-Iebi,Prisoner,01 Jan 1972
+919,160138181,"Peter, David",M,CIS Bui-Iebi,Prisoner,24 Apr 1988
+920,160242029,"Peter, Issack",M,CIS Bui-Iebi,Prisoner,05 Apr 1989
+921,160144037,"Peter, Kua",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+922,25081250,"Peter, Lasen",M,CIS Bui-Iebi,Warder,16 May 1985
+923,160437700,"Peter, Michal",M,CIS Bui-Iebi,Worker,05 Apr 1989
+924,160242017,"Peto, Philip",M,CIS Bui-Iebi,Prisoner,10 Feb 1982
+925,160241771,"Philip, Israel",M,CIS Bui-Iebi,Warder,04 Apr 1981
+926,160243105,"Philip, William",M,CIS Bui-Iebi,Prisoner,10 Feb 1979
+927,160142715,"Philip, Willie",M,CIS Bui-Iebi,Student,01 Jan 1988
+928,25081252,"Physis, Freman",M,CIS Bui-Iebi,Student,28 Apr 2002
+929,160142517,"Pikay, Walap",M,CIS Bui-Iebi,Prisoner,01 Jan 1964
+930,160128555,"Piknus, Peter",M,CIS Bui-Iebi,Prisoner,08 Nov 1982
+931,160142566,"Pimbik, Pok",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+932,160142393,"Pingrum, Meta",M,CIS Bui-Iebi,Prisoner,01 Jan 1982
+933,160437678,"Piniel, Petrus",M,CIS Bui-Iebi,Prisoner,07 Oct 1979
+934,160146405,"Pipeca, Laiko",M,CIS Bui-Iebi,Warder,01 Jan 1967
+935,160142252,"Pipi, Tom",M,CIS Bui-Iebi,Prisoner,01 Jan 1971
+936,160144048,"Piping, Zenang",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+937,160144383,"Piwalu, Yakanda",M,CIS Bui-Iebi,Prisoner,01 Jan 1971
+938,160144163,"Poko, Kangema",M,CIS Bui-Iebi,Prisoner,01 Jan 1971
+939,160243130,"Polo, Mike",M,CIS Bui-Iebi,Prisoner,22 Aug 1974
+940,160241773,"Pomis, Fraka",M,CIS Bui-Iebi,Prisoner,08 Jun 1984
+941,160142415,"Poppy, Peter",M,CIS Bui-Iebi,Carpenter,01 Jan 1968
+942,160243110,"Pora, Daniel",M,CIS Bui-Iebi,Prisoner,28 Nov 1971
+943,160144212,"Pora, Kiki",M,CIS Bui-Iebi,Warder,01 Jan 1952
+944,160242947,"Pora, Simon",M,CIS Bui-Iebi,Prisoner,02 Sep 1981
+945,160511190,"Pore, Peter",M,CIS Bui-Iebi,Student,12 Apr 1999
+946,160242016,"Pori, Alex",M,CIS Bui-Iebi,Prisoner,10 Jun 1977
+947,25081273,"Powpo, Ken",M,CIS Bui-Iebi,Student,09 Apr 1990
+948,160142597,"Pua, Rimu",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+949,160242004,"Pula, Buka",M,CIS Bui-Iebi,Prisoner,22 Aug 1982
+950,160142546,"Puli, Elias pele",M,CIS Bui-Iebi,Unemployed,01 Jan 1985
+951,160142544,"Puli, Pele",M,CIS Bui-Iebi,Warder,01 Jan 1953
+952,160243126,"Pumhais, Steven",M,CIS Bui-Iebi,Prisoner,28 Oct 1982
+953,160437680,"Pundia, Jeffery",M,CIS Bui-Iebi,Prisoner,21 Aug 1976
+954,160128533,"Pungi, James",M,CIS Bui-Iebi,Prisoner,13 Jul 1988
+955,160143895,"Puri, Oscar",M,CIS Bui-Iebi,Teacher,01 Jan 1985
+956,160144327,"Puri, Tom",M,CIS Bui-Iebi,Prisoner,01 Jan 1965
+957,160144340,"Raita, Mathew",M,CIS Bui-Iebi,Prisoner,01 Jan 1984
+958,160142152,"Rake, Onu",M,CIS Bui-Iebi,Prisoner,01 Jan 1990
+959,160243284,"Rami, Lucas",M,CIS Bui-Iebi,Prisoner,20 May 1982
+960,160243102,"Rami, Moses",M,CIS Bui-Iebi,Prisoner,10 Apr 1977
+961,160242949,"Rami, Pipindi",M,CIS Bui-Iebi,Prisoner,18 May 1973
+962,160143738,"Randa, David",M,CIS Bui-Iebi,Councillor,01 Jan 1978
+963,160144439,"Randa, Micheal",M,CIS Bui-Iebi,Prisoner,01 Jan 1961
+964,160142471,"Rema, Peter",M,CIS Bui-Iebi,Prisoner,01 Jan 1974
+965,160138162,"Remo, Tonny",M,CIS Bui-Iebi,Prisoner,16 Mar 1981
+966,160146608,"Ricnowa, David",M,CIS Bui-Iebi,Prisoner,01 Jan 1970
+967,160241112,"Rogea, Alfred",M,CIS Bui-Iebi,Warder,10 Jan 1982
+968,160142581,"Romba, George",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+969,160241927,"Ronald, Pes",M,CIS Bui-Iebi,Prisoner,04 Oct 1985
+970,160128535,"Rony, Andialu",M,CIS Bui-Iebi,Prisoner,03 Jul 1984
+971,160128524,"Roy, Andali",M,CIS Bui-Iebi,Prisoner,11 Mar 1993
+972,160437577,"Ruben, Jika",M,CIS Bui-Iebi,Student,27 Apr 2004
+973,160437578,"Ruben, Joachim",M,CIS Bui-Iebi,Security,22 Mar 2004
+974,160142136,"Sagi, Ruben",M,CIS Bui-Iebi,Prisoner,01 Jan 1977
+975,160144442,"Sagump, Markus",M,CIS Bui-Iebi,Prisoner,01 Jan 1951
+976,160142067,"Salu, Randa",M,CIS Bui-Iebi,Prisoner,01 Jan 1975
+977,160146268,"Samar, Micheal",M,CIS Bui-Iebi,Warder,01 Jan 1974
+978,160144001,"Sande, Rush",M,CIS Bui-Iebi,Prisoner,01 Jan 1984
+979,160146437,"Sapea, Buka",M,CIS Bui-Iebi,Warder,01 Jan 1976
+980,160146266,"Sapea, Jimson",M,CIS Bui-Iebi,Student,01 Jan 1989
+981,160146438,"Sapea, Max",M,CIS Bui-Iebi,Teacher,01 Jan 1980
+982,160142425,"Sapea, Samson",M,CIS Bui-Iebi,Warder,01 Jan 1964
+983,160437686,"Sengei, Ryan",M,CIS Bui-Iebi,Worker,14 May 1997
+984,160437664,"Simon, Haward",M,CIS Bui-Iebi,Student,23 Apr 2004
+985,160437600,"Simon, Joel",M,CIS Bui-Iebi,Nurse,23 Apr 2004
+986,160437671,"Simon, Mackvill",M,CIS Bui-Iebi,Student,24 Apr 2004
+987,160437672,"Simon, Novil",M,CIS Bui-Iebi,Student,25 Apr 2004
+988,160241769,"Simon, Paul",M,CIS Bui-Iebi,Prisoner,04 Aug 1974
+989,160142297,"Sindo, Len",M,CIS Bui-Iebi,Prisoner,01 Jan 1982
+990,160243280,"Singoro, Philip",M,CIS Bui-Iebi,Prisoner,20 Jun 1961
+991,160241374,"Sipi, Christoper",M,CIS Bui-Iebi,Student,01 Sep 1993
+992,25081303,"Sipili, Andreas",M,CIS Bui-Iebi,Student,28 Apr 1992
+993,25081306,"Sipili, Brendon",M,CIS Bui-Iebi,Soldier,03 Nov 1992
+994,25081309,"Sipili, Buddy",M,CIS Bui-Iebi,Student,19 Jan 2004
+995,160241105,"Sipili, Kurari",M,CIS Bui-Iebi,Prisoner,04 Nov 1993
+996,160138159,"Siruma, Aliape",M,CIS Bui-Iebi,Prisoner,02 May 1981
+997,160128397,"Sisi, Willie",M,CIS Bui-Iebi,Prisoner,03 Aug 1987
+998,160243121,"Sisi, Willie",M,CIS Bui-Iebi,Prisoner,09 Mar 1963
+999,160143667,"Siune, Vitus",M,CIS Bui-Iebi,Warder,01 Jan 1964
+1000,160146420,"Siwi, Okolu",M,CIS Bui-Iebi,Prisoner,01 Jan 1942
+1001,25081323,"Smokie, Ramond",M,CIS Bui-Iebi,Student,28 Feb 2001
+1002,160128399,"Sokol, Lus",M,CIS Bui-Iebi,Prisoner,14 Feb 1990
+1003,160241923,"Solo, Piso",M,CIS Bui-Iebi,Prisoner,02 Mar 1967
+1004,160128534,"Solomi, Alex",M,CIS Bui-Iebi,Prisoner,05 Nov 1984
+1005,160143839,"Sonogo, Pima",M,CIS Bui-Iebi,Warder,01 Jan 1949
+1006,160437636,"Stanley, Bob",M,CIS Bui-Iebi,Prisoner,01 Jul 1969
+1007,160437676,"Stanley, Simon",M,CIS Bui-Iebi,Prisoner,08 Mar 1998
+1008,160143986,"Stephen, Desmond",M,CIS Bui-Iebi,Student,01 Jan 1989
+1009,160142291,"Stephen, Wesley",M,CIS Bui-Iebi,Student,01 Jan 1989
+1010,160128540,"Steven, Ilu",M,CIS Bui-Iebi,Prisoner,14 Mar 1984
+1011,160142294,"Suman, Girige",M,CIS Bui-Iebi,Prisoner,01 Jan 1977
+1012,160144065,"Sumimi, Tony",M,CIS Bui-Iebi,Subsistence Farmer,01 Jan 1971
+1013,160142601,"Suzuki, Simon",M,CIS Bui-Iebi,Prisoner,01 Jan 1984
+1014,160128544,"Tai, Brain",M,CIS Bui-Iebi,Prisoner,26 Oct 1978
+1015,160146277,"Takoma, Samson",M,CIS Bui-Iebi,Prisoner,01 Jan 1974
+1016,160437685,"Taku, Philip",M,CIS Bui-Iebi,Prisoner,18 Dec 1996
+1017,160146282,"Tamuian, Bakon",M,CIS Bui-Iebi,Prisoner,01 Jan 1963
+1018,160142156,"Tandakua, Hayaku",M,CIS Bui-Iebi,Prisoner,01 Jan 1964
+1019,160128543,"Tandaya, Joseph",M,CIS Bui-Iebi,Prisoner,07 Nov 1970
+1020,160142055,"Tape, James",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+1021,160146287,"Tape, Mark",M,CIS Bui-Iebi,Prisoner,01 Jan 1973
+1022,160143948,"Tapiako, Tatalu",M,CIS Bui-Iebi,Prisoner,01 Jan 1987
+1023,160128515,"Tasa, John",M,CIS Bui-Iebi,Prisoner,04 Nov 1987
+1024,160144089,"Taya, Andred",M,CIS Bui-Iebi,Teacher,01 Jan 1970
+1025,160142431,"Taya, David",M,CIS Bui-Iebi,Warder,01 Jan 1969
+1026,160437707,"Taya, John",M,CIS Bui-Iebi,Worker,15 Aug 1986
+1027,160138163,"Taya, Peter",M,CIS Bui-Iebi,Prisoner,15 Apr 1981
+1028,160241924,"Tayabe, Ginnie",M,CIS Bui-Iebi,Prisoner,01 Oct 1986
+1029,160243124,"Tayabe, Johnny",M,CIS Bui-Iebi,Prisoner,09 Dec 1976
+1030,160142155,"Telape, Tai",M,CIS Bui-Iebi,Prisoner,01 Jan 1969
+1031,160142573,"Telege, Hewabe",M,CIS Bui-Iebi,Prisoner,01 Jan 1976
+1032,160241109,"Ten, Job",M,CIS Bui-Iebi,Warder,05 Jul 1980
+1033,160128394,"Tende, Solomon",M,CIS Bui-Iebi,Prisoner,11 Feb 1989
+1034,160142542,"Thomas, Alfred",M,CIS Bui-Iebi,Unemployed,01 Jan 1987
+1035,160143587,"Thomas, Alson",M,CIS Bui-Iebi,Unemployed,01 Jan 1983
+1036,160141968,"Thomas, Alwin",M,CIS Bui-Iebi,Teacher,01 Jan 1980
+1037,160143586,"Thomas, Dickson",M,CIS Bui-Iebi,Teacher,01 Jan 1980
+1038,160141972,"Thomas, Kingsly",M,CIS Bui-Iebi,Student,01 Jan 1986
+1039,160144321,"Thomas, Micheal",M,CIS Bui-Iebi,Prisoner,01 Jan 1970
+1040,160146417,"Tim, Nelson",M,CIS Bui-Iebi,Prisoner,01 Jan 1974
+1041,160146400,"Tima, Brain",M,CIS Bui-Iebi,Prisoner,01 Jan 1974
+1042,160144125,"Timbalu, Yakua",M,CIS Bui-Iebi,Prisoner,01 Jan 1987
+1043,160146435,"Timbe, Andrew",M,CIS Bui-Iebi,Student,01 Jan 1990
+1044,160241370,"Timbol ben, Ben",M,CIS Bui-Iebi,Warder,06 Oct 1981
+1045,160144165,"Tindi, Pais",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+1046,160437708,"Tine, Sipa",M,CIS Bui-Iebi,Worker,06 Jun 1977
+1047,160142303,"Tino, Gawi",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+1048,160142237,"Tinol, Edward",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+1049,160128389,"Tio, Mickson",M,CIS Bui-Iebi,Student,15 Mar 1999
+1050,160146289,"Tiporami, Parisa",M,CIS Bui-Iebi,Prisoner,01 Jan 1965
+1051,160144408,"Tirima, Bernard",M,CIS Bui-Iebi,Prisoner,01 Jan 1975
+1052,160437635,"Tiripi, Haiden",M,CIS Bui-Iebi,Prisoner,18 Dec 1968
+1053,160128550,"Tiripu, Heyden",M,CIS Bui-Iebi,Prisoner,10 Feb 1979
+1054,160437631,"Tivilary, Albert",M,CIS Bui-Iebi,Prisoner,16 May 1999
+1055,160144226,"Toba, Dapi",M,CIS Bui-Iebi,Prisoner,01 Jan 1985
+1056,160141953,"Tokopa, Philip",M,CIS Bui-Iebi,Warder,01 Jan 1960
+1057,160128547,"Tom, Denis",M,CIS Bui-Iebi,Prisoner,23 Jul 1985
+1058,160241926,"Tom, Sibona",M,CIS Bui-Iebi,Prisoner,04 Dec 1975
+1059,160143942,"Tomane, Haribe",M,CIS Bui-Iebi,Prisoner,01 Jan 1987
+1060,160128552,"Tomaya, Taitus",M,CIS Bui-Iebi,Prisoner,05 Dec 1989
+1061,160128546,"Tombe, Eka",M,CIS Bui-Iebi,Prisoner,24 Apr 1987
+1062,160142751,"Tome, Theo",M,CIS Bui-Iebi,Warder,01 Jan 1970
+1063,160143732,"Tony, Ronal",M,CIS Bui-Iebi,Student,01 Jan 1989
+1064,160144382,"Topa, Paul",M,CIS Bui-Iebi,Prisoner,01 Jan 1949
+1065,160437632,"Toromu, Buka",M,CIS Bui-Iebi,Prisoner,11 Jul 1987
+1066,160128558,"Torop, Alosie",M,CIS Bui-Iebi,Prisoner,17 Mar 1980
+1067,160142570,"Tuku, Peter",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+1068,160242024,"Tumale, Walia",M,CIS Bui-Iebi,Prisoner,02 Sep 1987
+1069,160128542,"Tumbu, Opi",M,CIS Bui-Iebi,Prisoner,16 Oct 1978
+1070,160142572,"Tundul, Saku",M,CIS Bui-Iebi,Prisoner,01 Jan 1983
+1071,160144179,"Tundul, Saku",M,CIS Bui-Iebi,Prisoner,01 Jan 1979
+1072,160142595,"Turi, Suman",M,CIS Bui-Iebi,Prisoner,01 Jan 1965
+1073,160128402,"Turu, David",M,CIS Bui-Iebi,Prisoner,15 Apr 1984
+1074,160243113,"Tutomano, Elais",M,CIS Bui-Iebi,Prisoner,14 Mar 1987
+1075,160144194,"Ubase, Jiara",M,CIS Bui-Iebi,Warder,01 Jan 1945
+1076,160128526,"Uma, Toro",M,CIS Bui-Iebi,Prisoner,29 Oct 1979
+1077,160144330,"Undpie, Paul",M,CIS Bui-Iebi,Prisoner,01 Jan 1975
+1078,160128529,"Urea, Doba",M,CIS Bui-Iebi,Prisoner,24 Jan 1987
+1079,160146422,"Uta, Jacob",M,CIS Bui-Iebi,Prisoner,01 Jan 1983
+1080,160437689,"Vali, Harry",M,CIS Bui-Iebi,Worker,05 Oct 1996
+1081,160142130,"Vincent, Alex samuel",M,CIS Bui-Iebi,Unemployed,12 May 1978
+1082,160143832,"Vincent, Daniel",M,CIS Bui-Iebi,Unemployed,30 Nov 1982
+1083,25081335,"Vincent, David",M,CIS Bui-Iebi,Student,28 Apr 2004
+1084,160142084,"Vitus, Francis",M,CIS Bui-Iebi,Student,20 Jun 1990
+1085,160142083,"Vitus, Joseph",M,CIS Bui-Iebi,Student,13 Mar 1988
+1086,160144176,"Wade, Philip",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+1087,160142464,"Wagai, Yowan",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+1088,160144444,"Wagen, Thomas",M,CIS Bui-Iebi,Prisoner,01 Jan 1950
+1089,160142392,"Waita, Yapi",M,CIS Bui-Iebi,Prisoner,01 Jan 1990
+1090,160142125,"Wakane, George toiye",M,CIS Bui-Iebi,Warder,01 Jan 1969
+1091,160128392,"Walis, Abraham",M,CIS Bui-Iebi,Prisoner,30 May 1979
+1092,160242025,"Walo, Senis",M,CIS Bui-Iebi,Prisoner,04 Aug 1984
+1093,160128556,"Wame, John",M,CIS Bui-Iebi,Prisoner,26 Jan 1992
+1094,160144204,"Wamia, Nathan",M,CIS Bui-Iebi,Warder,15 Dec 1952
+1095,25081348,"Wane, Mark",M,CIS Bui-Iebi,Subsistence Farmer,28 Aug 2002
+1096,160243120,"Wangare, Paul",M,CIS Bui-Iebi,Prisoner,29 May 1941
+1097,160142253,"Wangue, Steven",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+1098,160142289,"Wanhuhali, Stephen",M,CIS Bui-Iebi,Warder,01 Jan 1952
+1099,160144131,"Wapa, James",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+1100,160144057,"Wapa, Leya",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+1101,160144344,"Wape, Erelie",M,CIS Bui-Iebi,Warder,01 Jan 1960
+1102,160142582,"Wapena, Thomas",M,CIS Bui-Iebi,Prisoner,01 Jan 1976
+1103,160143666,"Wapia, Pumi",M,CIS Bui-Iebi,Warder,01 Jan 1962
+1104,160144185,"Wapia, Richie",M,CIS Bui-Iebi,Student,01 Jan 1990
+1105,160437681,"Warape, Kori",M,CIS Bui-Iebi,Prisoner,16 Oct 1987
+1106,160128401,"Warea, Kunuma",M,CIS Bui-Iebi,Prisoner,17 Jan 1990
+1107,160146604,"Warea, Lorans",M,CIS Bui-Iebi,Prisoner,01 Jan 1971
+1108,160144326,"Warea, Nickson",M,CIS Bui-Iebi,Prisoner,01 Jan 1989
+1109,160144280,"Warea, Peter",M,CIS Bui-Iebi,Warder,01 Jan 1970
+1110,160144329,"Warii, James",M,CIS Bui-Iebi,Prisoner,01 Jan 1981
+1111,160142140,"Warren, Kia",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+1112,160128551,"Waru, Peter",M,CIS Bui-Iebi,Prisoner,13 Nov 1983
+1113,160437640,"Warvn, Peter",M,CIS Bui-Iebi,Prisoner,06 Jun 1972
+1114,160144122,"Wati, Bomai",M,CIS Bui-Iebi,Prisoner,01 Jan 1973
+1115,160241547,"Welin, Hapsi",M,CIS Bui-Iebi,Prisoner,09 Feb 1979
+1116,160241765,"Weses, Matthew",M,CIS Bui-Iebi,Warder,10 Jul 1974
+1117,160144113,"Wesis, Ben",M,CIS Bui-Iebi,Prisoner,01 Jan 1985
+1118,160128532,"Wesley, John",M,CIS Bui-Iebi,Prisoner,08 Apr 1984
+1119,160138160,"Wiapi, Buka",M,CIS Bui-Iebi,Prisoner,07 Nov 1980
+1120,160437630,"Willie, Martin",M,CIS Bui-Iebi,Prisoner,28 Jul 1996
+1121,160144024,"Willie, Peter",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+1122,160142296,"Willie, Towo",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+1123,160437575,"Wilson, Korean",M,CIS Bui-Iebi,Student,21 Apr 2004
+1124,160437641,"Wilson, Mules",M,CIS Bui-Iebi,Subsistence Farmer,25 Apr 2004
+1125,160437576,"Wilson, Tommy",M,CIS Bui-Iebi,Subsistence Farmer,23 Apr 2004
+1126,160437642,"Wilson, Tuwa",M,CIS Bui-Iebi,Student,27 Apr 2004
+1127,160142516,"Wiyap, Ani",M,CIS Bui-Iebi,Prisoner,01 Jan 1974
+1128,160243134,"Woga, Suva",M,CIS Bui-Iebi,Prisoner,10 Mar 1981
+1129,160242937,"Woromeso, Joe",M,CIS Bui-Iebi,Prisoner,27 Mar 1967
+1130,160142298,"Wosepe, Nongomo",M,CIS Bui-Iebi,Prisoner,01 Jan 1975
+1131,160128388,"Wsimon, Udio",M,CIS Bui-Iebi,Warder,31 Aug 1988
+1132,160142462,"Wunwun, Moses",M,CIS Bui-Iebi,Prisoner,01 Jan 1988
+1133,160144379,"Yako, Leonard",M,CIS Bui-Iebi,Prisoner,01 Jan 1987
+1134,160138167,"Yakopa, Franchis",M,CIS Bui-Iebi,Prisoner,15 Sep 1970
+1135,160128539,"Yakopa, Kelly",M,CIS Bui-Iebi,Prisoner,26 Dec 1979
+1136,160437627,"Yakumb, Kama",M,CIS Bui-Iebi,Student,23 Apr 2004
+1137,160243285,"Yanali, David",M,CIS Bui-Iebi,Prisoner,26 Aug 1989
+1138,160242018,"Yandi, Peter",M,CIS Bui-Iebi,Prisoner,06 Dec 1980
+1139,160243274,"Yango, Ikemo",M,CIS Bui-Iebi,Prisoner,21 Aug 1946
+1140,160142473,"Yani, Luke",M,CIS Bui-Iebi,Prisoner,01 Jan 1987
+1141,160146427,"Yapa, Lora",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+1142,160144006,"Yaura, Agipa",M,CIS Bui-Iebi,Prisoner,01 Jan 1986
+1143,160142141,"Yaura, Yaura",M,CIS Bui-Iebi,Prisoner,01 Jan 1983
+1144,160143953,"Yawa, David",M,CIS Bui-Iebi,Prisoner,01 Jan 1980
+1145,160241952,"Yobuna, Dero",M,CIS Bui-Iebi,Warder,10 Mar 1987
+1146,160142409,"Yokola, Edwin",M,CIS Bui-Iebi,Prisoner,01 Jan 1964
+1147,160142571,"Yokwa, Asaru",M,CIS Bui-Iebi,Prisoner,01 Jan 1968
+1148,160142467,"Yolome, Peter",M,CIS Bui-Iebi,Prisoner,01 Jan 1985
+1149,160146429,"Yorri, Nako",M,CIS Bui-Iebi,Student,01 Jan 1990
+1150,160146408,"Yorri, Roman",M,CIS Bui-Iebi,Houseboy,01 Jan 1981
+1151,160142053,"Yubirago, Parago",M,CIS Bui-Iebi,Prisoner,01 Jan 1977
+1152,160146407,"Yumben, Yorri",M,CIS Bui-Iebi,Warder,01 Jan 1980

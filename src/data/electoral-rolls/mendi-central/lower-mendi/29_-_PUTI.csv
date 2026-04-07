@@ -1,0 +1,711 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160380096,"Adakua, Betty",F,PUTI,Household Duties,01 Jan 1973
+2,160389909,"Adakua, Irame",F,PUTI,Household Duties,31 Dec 1968
+3,160389996,"Adakua, Luta",F,PUTI,Subsistence Farmer,05 Nov 1989
+4,160380529,"Adakua, Menelinda",F,PUTI,Student,01 Jan 1993
+5,160381575,"Adakua, Sentra",F,PUTI,Housegirl,01 Jan 1991
+6,160374788,"Alopa, Mata",F,AWARONDA,Household Duties,01 Jan 1978
+7,160387461,"Alua, Ramba",F,PUTI,Household Duties,31 Dec 1963
+8,160374767,"Alua, Remanu",F,AWARONDA,Household Duties,01 Jan 2000
+9,160387434,"Alua, Wakapi",F,PUTI,Household Duties,16 Oct 1978
+10,160501131,"Amos, Femila",F,AGARE,Student,07 Apr 2001
+11,160508437,"Andrew, Melindo",F,MALUE,Student,23 Nov 1998
+12,160508440,"Andrew, Mildred",F,MALUE,Student,24 Feb 2000
+13,160393054,"Apoka, Miriam",F,AGARE,Student,16 Mar 1994
+14,160388348,"Apoka, Rebicca",F,PUTI,Household Duties,27 Oct 1978
+15,160388364,"Apoka, Rema",F,PUTI,Household Duties,11 Feb 1973
+16,160390091,"Aru, Anna",F,PUTI,Household Duties,01 Jun 1974
+17,160390411,"Aru, Janet",F,PUTI,Subsistence Farmer,01 Oct 1971
+18,160390217,"Aru, Lame",F,PUTI,Student,25 Nov 1977
+19,160388319,"Aru, Mayame",F,PUTI,Household Duties,31 Jan 1963
+20,160378131,"Aru, Molina",F,AWARONDA,Housegirl,01 Jan 1992
+21,160378113,"Aru, Monica",F,PUTI,Household Duties,01 Jan 1981
+22,160379092,"Aru, Nancy",F,AWARONDA,Household Duties,01 Jan 1986
+23,160379969,"Aru, Nisima",F,AWARONDA,Housegirl,01 Jan 1991
+24,160390489,"Aru, Wendy",F,PUTI,Subsistence Farmer,10 Aug 1981
+25,160388138,"Atasi, Kerol",F,PUTI,Household Duties,05 Oct 1971
+26,160388263,"Atasi, Racian",F,PUTI,Household Duties,07 Sep 1971
+27,160392378,"Atasi, Rose",F,AMBEAME,Household Duties,15 Jun 1979
+28,160392047,"Atasi, Wata",F,AMBEAME,Household Duties,16 Apr 1976
+29,160292050,"Atesi, Bethsiba",F,AMBEAME,Hairdresser,03 Aug 1997
+30,160392118,"Atesi, Melonica",F,PUTI,Student,26 Jan 1993
+31,160388315,"Ato, Ana",F,PUTI,Subsistence Farmer,07 Oct 1987
+32,160508447,"Ato, Anna",F,MALUE,Student,28 Nov 1998
+33,160388142,"Ato, Desy",F,PUTI,Household Duties,20 Dec 1976
+34,160370706,"Ato, Josphine",F,NEW ISLAND,Household Duties,01 Jan 1991
+35,160371129,"Ato, Julie",F,NEW ISLAND,Household Duties,01 Jan 1989
+36,160388314,"Ato, Manu",F,PUTI,Household Duties,14 Apr 1965
+37,160388141,"Ato, Mapi",F,PUTI,Household Duties,25 Jul 1978
+38,160370954,"Ato, Prida",F,NEW ISLAND,Household Duties,01 Jan 1980
+39,160372230,"Ato, Puame",F,NEW ISLAND,Household Duties,01 Jan 1981
+40,160371303,"Ato, Seron",F,MALUE,Housegirl,01 Jan 1990
+41,160292039,"Awaro, Nancy",F,PARUPANDA,Hairdresser,20 Apr 1984
+42,160292045,"Bapi, Ensola",F,PARUPANDA,Hairdresser,15 May 1989
+43,160292008,"Bara, Jennifer",F,PARUPANDA,Hairdresser,14 Feb 1988
+44,160495995,"Benard, Ruth",F,PUTI,Household Duties,18 May 1995
+45,160292058,"Bero, Bilinu",F,PARUPANDA,Hairdresser,18 Apr 1977
+46,160495996,"Brian, Tracy",F,PUTI,Subsistence Farmer,18 May 1989
+47,160430794,"Buka, Rebeca",F,PARUPANDA,Hairdresser,28 Feb 1993
+48,160495951,"Daniel, Serina",F,PARUPANDA,Student,06 Aug 2000
+49,160292057,"Dee, Christina",F,PARUPANDA,Hairdresser,20 Feb 1991
+50,160291755,"Ega, Anna",F,PARUPANDA,Household Duties,18 May 1989
+51,160495997,"Ega, Anna",F,PUTI,Subsistence Farmer,18 Aug 1981
+52,160508499,"Ega, Anna",F,PARUPANDA,Student,23 Oct 1997
+53,160388691,"Epo, Racial",F,PUTI,Household Duties,04 Oct 1976
+54,160292216,"Gibson, Recheal",F,PARUPANDA,Sales Women,12 Mar 1998
+55,160495998,"Heron, Angella",F,PUTI,Subsistence Farmer,20 Jan 1990
+56,160292053,"Iralu, Prisila",F,PARUPANDA,Hairdresser,14 Mar 1969
+57,160381479,"Ire, Catelyn",F,PUTI,Student,01 Jan 1992
+58,160430798,"Irinaya, Grace",F,MALUE,Not Specified,04 Jul 1992
+59,160430790,"Irinaya, Hema",F,MALUE,Hairdresser,04 Jul 1987
+60,160392040,"Irinaya, Polyn",F,AMBEAME,Household Duties,11 Jan 1986
+61,160430797,"Irinaya, Soso",F,MALUE,Hairdresser,04 Sep 1997
+62,160388362,"Irinaya, Undipa",F,PUTI,Household Duties,25 Apr 1960
+63,160430786,"Iso, Naomi",F,PARUPANDA,Hairdresser,14 Mar 1987
+64,160371640,"Ita, Dorothy",F,MALUE,Household Duties,01 Jan 1990
+65,160371639,"Ita, Jacklyn",F,MALUE,Household Duties,01 Jan 1988
+66,160387165,"Ita, Lewa",F,PUTI,Subsistence Farmer,03 Apr 1986
+67,160373275,"Ita, Maname",F,MALUE,Household Duties,01 Jan 1974
+68,160496002,"Ita, Utare",F,PUTI,Household Duties,06 Dec 1970
+69,160388958,"Itasi, Lote",F,PUTI,Household Duties,11 Apr 1972
+70,160388811,"Itasi, Monica",F,PUTI,Household Duties,15 Oct 1970
+71,160388851,"Itasi, Polyne",F,PUTI,Student,14 May 1989
+72,160380554,"Itasi, Simbu",F,PUTI,Gardener,01 Jan 1976
+73,160388717,"Itasi, Veronica",F,PUTI,Household Duties,02 Jun 1982
+74,160508505,"Jack, Jessica",F,PUTI,Student,21 Dec 1998
+75,160508506,"Jack, Julie",F,PUTI,Student,28 Apr 2004
+76,160508507,"Jack, Yawame",F,PUTI,Student,01 Jan 2000
+77,160292488,"Jacob, Richilla",F,AMBEAME,Not Specified,04 Feb 1999
+78,160496004,"Jessy, Joicela",F,PUTI,Student,13 Aug 2003
+79,160370941,"Kamele, Ellan j",F,NEW ISLAND,Student,01 Jan 1993
+80,160370652,"Kamele, Josica",F,NEW ISLAND,Household Duties,01 Jan 1993
+81,160370696,"Kamele, Mama bha",F,NEW ISLAND,Housegirl,01 Jan 2000
+82,160370624,"Kamele, Polo",F,NEW ISLAND,Household Duties,01 Jan 1974
+83,160370930,"Kamele, Poloiame",F,NEW ISLAND,Household Duties,01 Jan 1985
+84,160370943,"Kamele, Poroma",F,NEW ISLAND,Household Duties,01 Jan 2000
+85,160370589,"Kamele, Regina",F,PUTI,Household Duties,01 Jan 1984
+86,160370938,"Kamele, Sendy",F,NEW ISLAND,Student,01 Jan 1992
+87,160377743,"Kana, Peter",F,MALUE,Subsistence Farmer,01 Jan 1954
+88,160371635,"Kana, Polly",F,MALUE,Household Duties,01 Jan 1988
+89,160375250,"Kanage, Jenet p",F,MALUE,Household Duties,11 Jul 1986
+90,160388666,"Kanage, Makirame",F,PUTI,Household Duties,01 Dec 1959
+91,160388688,"Kane, Asi",F,PUTI,Student,06 May 1986
+92,160378220,"Kapano, Esta",F,AWARONDA,Nurse,01 Jan 1989
+93,160374784,"Kapano, Lin",F,AWARONDA,Household Duties,01 Jan 1985
+94,160374785,"Kapano, Merian",F,AWARONDA,Household Duties,01 Jan 1987
+95,160397162,"Kelema, Yuku",F,PUTI,Subsistence Farmer,01 Jan 1972
+96,160508458,"Kelly, Mila",F,MALUE,Student,23 Dec 1999
+97,160371637,"Kenage, Cathy p",F,MALUE,Household Duties,03 Oct 1982
+98,160390746,"Kenage, Nogenu",F,PUTI,Household Duties,01 Oct 1953
+99,160373276,"Kenage, Ruth",F,MALUE,Household Duties,18 May 1982
+100,160387465,"Kenda, Buka",F,PUTI,Household Duties,08 Dec 1962
+101,160496007,"Kevin, Alice",F,PUTI,Household Duties,11 Dec 1982
+102,160495992,"Kietalu, Tia",F,PARUPIDA,Student,06 Jan 2003
+103,160380550,"Kilipia, Betty",F,PUTI,Household Duties,01 Jan 1992
+104,160389781,"Kilipia, Mama",F,PUTI,Household Duties,16 Jul 1960
+105,160392575,"Kimbua, Epeyapi",F,NEW ISLAND,Housegirl,17 May 1988
+106,160393065,"Kimbua, Kouame",F,NEW ISLAND,Household Duties,16 Oct 1971
+107,160392577,"Kimbua, Moriame",F,NEW ISLAND,Housegirl,10 Dec 1993
+108,160392409,"Kimbua, Yagunu",F,NEW ISLAND,Household Duties,29 Jul 1984
+109,160379098,"Kipaina, Amanogo",F,AWARONDA,Household Duties,01 Jan 1979
+110,160387904,"Kipaina, Janet",F,PUTI,Student,27 Feb 1986
+111,160378120,"Kipaina, Linda",F,AWARONDA,Household Duties,01 Jan 1973
+112,160387861,"Kipaina, Lynard",F,PUTI,Household Duties,25 Dec 1982
+113,160388174,"Kipaina, Roselyn",F,PUTI,Household Duties,20 Dec 1975
+114,160378121,"Kipania, Grais",F,AWARONDA,Housegirl,01 Jan 1989
+115,160388869,"Koi, Sarah",F,PUTI,Student,19 Oct 1989
+116,160370418,"Komba, Helent",F,PUTI,Household Duties,24 Feb 1981
+117,160389772,"Komba, Matalyn",F,PUTI,Student,14 May 1986
+118,160389802,"Komba, Nane",F,PUTI,Household Duties,04 Nov 1971
+119,160292070,"Laithan, Anna",F,PARUPANDA,Household Duties,03 Sep 1996
+120,160396741,"Lalo, Ipunu",F,PUTI,Subsistence Farmer,01 Jan 1961
+121,160396912,"Lalo, Lapeka",F,PUTI,Subsistence Farmer,03 Feb 1976
+122,160397210,"Lapon, Resi",F,PUTI,Subsistence Farmer,03 Feb 1976
+123,160292067,"Lawrance, Elly",F,PARUPANDA,Hairdresser,02 Sep 1994
+124,160370388,"Loko, Jacklyn p",F,PUTI,Student,01 Jan 1993
+125,160387148,"Loko, Karapus",F,PUTI,Household Duties,20 Oct 1964
+126,160370615,"Loko, Lyan nare",F,PUTI,Household Duties,05 Apr 1989
+127,160370431,"Loko, Ruth pwando",F,PUTI,Student,15 Jun 1993
+128,160387157,"Loko, Susan",F,PUTI,Household Duties,14 Feb 1967
+129,160508462,"Loko, Susi",F,MALUE,Student,26 Feb 2001
+130,160370618,"Loko, Tamila m",F,NEW ISLAND,Household Duties,01 Jan 1990
+131,160496008,"Lonly, Norin",F,PUTI,Household Duties,16 Jun 1985
+132,160495923,"Luke, Leska",F,MALUE,Student,05 Feb 2002
+133,160388277,"Lusa, Ralupiri",F,PUTI,Household Duties,19 Jul 1970
+134,160388159,"Lusa, Susan",F,PUTI,Household Duties,21 Oct 1979
+135,160388877,"Malu, Dorothy",F,PUTI,Household Duties,02 Sep 1986
+136,160389341,"Malu, Jacklin",F,PUTI,Household Duties,06 Dec 1980
+137,160508508,"Malu, Jennet",F,PUTI,Baby Sitter,25 Feb 1999
+138,160508509,"Malu, Jessica",F,PUTI,Student,23 Dec 2000
+139,160388938,"Malu, Kerolo",F,PUTI,Household Duties,06 Feb 1958
+140,160388854,"Malu, Martin",F,PUTI,Student,14 Oct 1988
+141,160388885,"Malu, Mary",F,PUTI,Household Duties,23 Nov 1974
+142,160397163,"Mapi, Ruth",F,PUTI,Subsistence Farmer,04 Feb 1980
+143,160430788,"Mark, Nathy",F,AMBEAME,Sales Women,02 Aug 1998
+144,160292207,"Maya, Esra",F,AMBEAME,Hairdresser,02 Feb 1962
+145,160292211,"Maya, Judy",F,AMBEAME,Sales Women,05 Oct 1988
+146,160508510,"Maya, Lucy",F,PUTI,Student,25 Feb 2001
+147,160292486,"Maya, Stepeni",F,AMBEAME,Housegirl,16 Feb 1991
+148,160508511,"Maya, Susan",F,PUTI,Student,24 Mar 2000
+149,160292206,"Maya, Waru",F,AMBEAME,Hairdresser,05 Oct 1953
+150,160378109,"Mena, Carol",F,AWARONDA,Household Duties,01 Jan 1982
+151,160379220,"Mena, Jacklyn",F,AWARONDA,Household Duties,01 Jan 1986
+152,160378221,"Mena, Kamanu",F,AWARONDA,Household Duties,01 Jan 2000
+153,160379211,"Mena, Katlyn",F,AWARONDA,Household Duties,01 Jan 1981
+154,160378110,"Mena, Macda",F,AWARONDA,Household Duties,01 Jan 2000
+155,160379965,"Mena, Nogo",F,AWARONDA,Household Duties,01 Jan 1938
+156,160379203,"Mena, Tame",F,AWARONDA,Housegirl,01 Jan 1990
+157,160377680,"Menda, Milfred",F,AWARONDA,Household Duties,01 Jan 1983
+158,160396923,"Mendo, Kina",F,PUTI,Subsistence Farmer,04 Feb 1976
+159,160397282,"Mendo, Molin",F,PUTI,Subsistence Farmer,03 Feb 1988
+160,160396922,"Mendo, Penenu",F,PUTI,Subsistence Farmer,01 Jan 1982
+161,160496011,"Michael, Jesinta",F,PUTI,Student,01 Dec 2002
+162,160495980,"Molin, Michael",F,PARUPANDA,Subsistence Farmer,03 Apr 1989
+163,160377691,"Moma, Makirame",F,AWARONDA,Household Duties,01 Jan 1984
+164,160292064,"Mote, Poame",F,PARUPANDA,Hairdresser,11 May 1959
+165,160379599,"Naki, Clea",F,AWARONDA,Teacher,01 Jan 1976
+166,160379971,"Naki, Joice",F,AWARONDA,Student,01 Jan 1990
+167,160380557,"Naki, Kelpa",F,AWARONDA,Household Duties,01 Jan 1958
+168,160379596,"Naki, Miriam",F,AWARONDA,Student,01 Jan 1993
+169,160379973,"Naki, Morin",F,AWARONDA,Teacher,01 Jan 1983
+170,160379109,"Naki, Papimi",F,AWARONDA,Teacher,01 Jan 1985
+171,160379088,"Naki, Ratame",F,AWARONDA,Household Duties,01 Jan 1984
+172,160380558,"Naki, Rawar",F,AWARONDA,Household Duties,01 Jan 1965
+173,160380501,"Naki, Rose",F,AWARONDA,Teacher,01 Jan 1978
+174,160380495,"Naki, Sosika",F,AWARONDA,Nurse,01 Jan 1986
+175,160495983,"Nason, Alice",F,PARUPANDA,Subsistence Farmer,06 Jan 1997
+176,160496013,"Nelson, Martha",F,PUTI,Sales Women,18 May 1986
+177,160495925,"Nemaih, Natty",F,MALUE,Student,25 Mar 1997
+178,160387438,"Noma, Jalian",F,PUTI,Student,02 Dec 1986
+179,160387439,"Noma, Jania",F,PUTI,Household Duties,07 Oct 1980
+180,160387464,"Noma, Norin",F,PUTI,Student,17 Jan 1986
+181,160379205,"Noma, Ratame",F,AWARONDA,Household Duties,01 Jan 1976
+182,160387463,"Noma, Remanu",F,PUTI,Subsistence Farmer,16 Oct 1964
+183,160396734,"Oke, Dolly",F,PUTI,Subsistence Farmer,03 Feb 1980
+184,160396748,"Oke, Ramani",F,PUTI,Subsistence Farmer,03 Feb 1986
+185,160397194,"Oke, Ramuame",F,PUTI,Subsistence Farmer,02 Mar 1982
+186,160370135,"Olapi, Judy a",F,PUTI,Student,01 Jan 1993
+187,160370134,"Olapi, Kerema a",F,PUTI,Household Duties,01 Jan 1976
+188,160370136,"Olapi, Teresa",F,PUTI,Student,01 Jan 1993
+189,160495927,"Olimaya, Jacklyn",F,MALUE,Student,28 Apr 2004
+190,160370406,"Osawe, Dolly",F,PUTI,Student,20 Sep 1993
+191,160370579,"Osawe, Jennifaw",F,PUTI,Subsistence Farmer,01 Jan 1990
+192,160371294,"Osawe, Jenny s",F,MALUE,Household Duties,24 Apr 1979
+193,160370776,"Osawe, Johna wakia",F,MALUE,Household Duties,21 Jun 1979
+194,160370779,"Osawe, Lian s",F,MALUE,Household Duties,28 Feb 1980
+195,160387407,"Osawe, Luminu",F,PUTI,Household Duties,04 Aug 1967
+196,160370451,"Osawe, Magrethw",F,PUTI,Household Duties,01 Jan 1982
+197,160370450,"Osawe, Rosaw",F,PUTI,Household Duties,01 Jan 1989
+198,160371233,"Osawe, Sama",F,MALUE,Household Duties,21 Oct 1970
+199,160393472,"Oya, Beling",F,PUTI,Student,19 Aug 1984
+200,160393473,"Oya, Elly",F,PUTI,Student,12 Oct 1987
+201,160388692,"Paiputia, Nepame",F,PUTI,Household Duties,20 Oct 1951
+202,160388289,"Paiputia, Ruth",F,PUTI,Household Duties,22 Nov 1972
+203,160371305,"Pasua, Ellen",F,MALUE,Household Duties,01 Jan 1975
+204,160371634,"Pasua, Monica",F,MALUE,Household Duties,01 Jan 1977
+205,160496018,"Peter, Jacklyn",F,PUTI,Student,05 Aug 2002
+206,160396426,"Peter, Jennifer",F,PUTI,Subsistence Farmer,02 Mar 1975
+207,160396737,"Peter, Loeme",F,PUTI,Subsistence Farmer,01 Jan 1970
+208,160432709,"Philmon, Elisa",F,MALUE,Household Duties,14 Jul 1992
+209,160380522,"Pima, Larimi",F,PUTI,Household Duties,01 Jan 1983
+210,160381579,"Pima, Lin",F,PUTI,Household Duties,01 Jan 1978
+211,160380521,"Pima, Mackdala",F,PUTI,Housegirl,01 Jan 1983
+212,160389775,"Pima, Magaret",F,PUTI,Household Duties,20 Apr 1979
+213,160387924,"Pukupia, Monica",F,PUTI,Household Duties,28 Jul 1970
+214,160390085,"Rakiana, Agare",F,PUTI,Household Duties,11 Aug 1961
+215,160292043,"Rala, Roselyn",F,PARUPANDA,Hairdresser,23 Mar 1979
+216,160392203,"Ralama, Betty",F,PUTI,Household Duties,10 Sep 1991
+217,160392116,"Ralama, Christina",F,YARIME,Household Duties,11 Dec 1990
+218,160392869,"Ralama, Magreth",F,MALUE,Household Duties,16 Oct 1988
+219,160387487,"Ralama, Pirisan",F,PUTI,Subsistence Farmer,26 Mar 1982
+220,160392867,"Ralama, Veronica",F,MALUE,Student,18 Sep 1992
+221,160392865,"Ralama, Yaipanu",F,MALUE,Household Duties,15 Nov 1989
+222,160393134,"Rambue, Fricila",F,AGUPA,Household Duties,16 Jul 1985
+223,160388321,"Rambue, Kematanu",F,PUTI,Household Duties,20 Sep 1964
+224,160392892,"Rambue, Misi",F,AGUPA,Household Duties,10 Dec 1977
+225,160387491,"Rande, Biyame",F,PUTI,Household Duties,10 Dec 1966
+226,160496022,"Reaxon, Joice",F,PUTI,Student,16 May 2001
+227,160370133,"Regepea, Aponia y",F,PUTI,Student,01 Jan 1994
+228,160370126,"Regepea, Elma y",F,PUTI,Student,01 Jan 1992
+229,160387466,"Regepea, Epono",F,PUTI,Household Duties,18 Mar 1960
+230,160370608,"Regepea, Joice",F,PUTI,Household Duties,01 Jan 1978
+231,160370581,"Regepea, Miriam y",F,PUTI,Household Duties,01 Jan 1970
+232,160387477,"Regepea, Monica",F,PUTI,Household Duties,02 Oct 1969
+233,160387441,"Regepea, Yala",F,PUTI,Subsistence Farmer,11 Oct 1985
+234,160430793,"Rexson, Melda",F,PARUPANDA,Sales Women,17 Mar 1998
+235,160430792,"Rexson, Steveny",F,PARUPANDA,Sales Women,14 Feb 1990
+236,160387416,"Rikita, Bapi",F,PUTI,Household Duties,23 Aug 1970
+237,160431658,"Rimba, Eli",F,MALUE,Subsistence Farmer,26 Apr 1995
+238,160430785,"Rimu, Jona",F,PARUPANDA,Hairdresser,24 Jul 1989
+239,160292041,"Rimu, Rebeka",F,PARUPANDA,Hairdresser,17 Feb 1985
+240,160292038,"Rindita, Ega",F,PARUPANDA,Hairdresser,17 Feb 1983
+241,160387410,"Rombala, Lyn",F,PUTI,Subsistence Farmer,04 Jan 1974
+242,160508474,"Rombala, Malin",F,MALUE,Subsistence Farmer,26 Nov 1999
+243,160387159,"Rombala, Nisimi",F,PUTI,Subsistence Farmer,12 Dec 1976
+244,160387409,"Rombala, Piricila",F,PUTI,Household Duties,06 Mar 1978
+245,160430791,"Rundu, Dali",F,PARUPANDA,Hairdresser,13 Apr 1965
+246,160393080,"Ruri, Molin",F,NEW ISLAND,Household Duties,22 Mar 1992
+247,160389350,"Ruri, Monica",F,PUTI,Student,10 Mar 1984
+248,160388865,"Ruri, Polin",F,PUTI,Subsistence Farmer,17 Sep 1980
+249,160387918,"Ruru, Amanogo",F,PUTI,Household Duties,30 Jun 1968
+250,160387160,"Sala, Didi",F,PUTI,Household Duties,08 Mar 1958
+251,160378315,"Sala, Giamame",F,MALUE,Household Duties,01 Jan 1994
+252,160378317,"Sala, Konigi",F,MALUE,Household Duties,01 Jan 1978
+253,160372924,"Sala, Nandesu",F,MALUE,Household Duties,01 Jan 1979
+254,160378176,"Sala, Palukupu",F,MALUE,Household Duties,01 Jan 1975
+255,160496024,"Samson, Doris",F,PUTI,Teacher,05 Nov 1991
+256,160292054,"Samson, Mapali",F,PARUPANDA,Student,12 Mar 1995
+257,160292055,"Samson, Melisa",F,PARUPANDA,Sales Women,12 Mar 1990
+258,160496027,"Samson, Ricky",F,PUTI,Student,08 Dec 2003
+259,160496029,"Samson, Salpina",F,PUTI,Student,18 Jun 2000
+260,160495932,"Samuel, Joice",F,MALUE,Student,10 Sep 2002
+261,160496040,"Samuel, Stella",F,PUTI,Student,03 May 2003
+262,160375251,"Saua, Susan",F,MALUE,Household Duties,01 Jan 1979
+263,160495897,"Sevendi, Lapinda",F,AGARE,Student,03 Jun 1999
+264,160388714,"Sliayo, Soti",F,PUTI,Subsistence Farmer,19 Apr 1989
+265,160292213,"Steven, Freda",F,AMBEAME,Hairdresser,07 Aug 1988
+266,160495914,"Steven, Lavlyn",F,AMBEAME,Student,02 Dec 2002
+267,160430789,"Steven, Malyn",F,PUTI,Hairdresser,02 Apr 1976
+268,160292212,"Steven, Rudy",F,AMBEAME,Hairdresser,04 Dec 1984
+269,160390103,"Suayo, Catheoline",F,PUTI,Household Duties,16 Jan 1984
+270,160390023,"Suayo, Janny",F,PUTI,Household Duties,12 Oct 1979
+271,160381935,"Suayo, Jenny",F,PUTI,Student,01 Jan 1994
+272,160390105,"Suayo, Kina",F,PUTI,Subsistence Farmer,19 Oct 1988
+273,160390194,"Suayo, Melen",F,PUTI,Subsistence Farmer,15 Nov 1980
+274,160390199,"Suayo, Mogo",F,PUTI,Household Duties,17 Jul 1966
+275,160389999,"Suayo, Nancy",F,PUTI,Household Duties,15 Feb 1986
+276,160389917,"Suayo, Nelly",F,PUTI,Student,16 Sep 1985
+277,160292060,"Thomas, Jennethy",F,PARUPANDA,Sales Women,13 Oct 1997
+278,160495939,"Timothy, Dolly",F,MALUE,Household Duties,07 Feb 1991
+279,160432710,"Timothy, Rebeca",F,MALUE,Subsistence Farmer,11 Nov 1983
+280,160508496,"Tomsen, Elcy",F,MALUE,Student,25 Jan 1999
+281,160291754,"Tomsen, Tomika",F,MALUE,Sales Women,14 Aug 1989
+282,160396889,"Tunu, Laiwame",F,PUTI,Subsistence Farmer,02 Mar 1982
+283,160387150,"Tunu, Panudame",F,PUTI,Household Duties,02 Oct 1966
+284,160396891,"Tunu, Rachael",F,PUTI,Subsistence Farmer,03 Feb 1976
+285,160378318,"Uluma, Lino",F,MALUE,Housegirl,27 Aug 1991
+286,160388258,"Uluma, Marta",F,PUTI,Subsistence Farmer,27 Nov 1982
+287,160378313,"Uluma, Ratame",F,MALUE,Household Duties,01 Jan 1987
+288,160373248,"Uluma, Yanu",F,MALUE,Household Duties,01 Jan 1989
+289,160432708,"Waga, Molin",F,MALUE,Household Duties,13 Aug 1996
+290,160390078,"Wage, Rana",F,PUTI,Student,31 Dec 1982
+291,160390476,"Wage, Wareame",F,PUTI,Household Duties,28 May 1977
+292,160390417,"Walea, Martina",F,PUTI,Subsistence Farmer,07 Nov 1988
+293,160430795,"Waya, Norrin",F,PARUPANDA,Hairdresser,18 Mar 1982
+294,160496060,"Wembi, Ruth",F,PUTI,Student,08 Sep 2000
+295,160370632,"Wepo, Asla",F,NEW ISLAND,Student,10 Nov 1994
+296,160393083,"Wepo, Betsiba",F,AMBEAME,Household Duties,08 Dec 1979
+297,160387166,"Wepo, Betty",F,PUTI,Household Duties,10 Nov 1984
+298,160370074,"Wepo, Lorita",F,NEW ISLAND,Housegirl,22 May 1991
+299,160387169,"Wepo, Merolyn",F,PUTI,Household Duties,11 Jan 1967
+300,160370507,"Wepo, Rachael",F,NEW ISLAND,Household Duties,25 Sep 1979
+301,160387173,"Yagunaki, Riame",F,PUTI,Student,10 Oct 1988
+302,160396799,"Yanda, Agnes",F,PUTI,Subsistence Farmer,03 Feb 1980
+303,160396901,"Yanda, Salien",F,PUTI,Subsistence Farmer,01 Jan 1982
+304,160496063,"Yano, Delta",F,PUTI,Subsistence Farmer,11 Jul 1998
+305,160292071,"Yapasi, Pogolame",F,PARUPANDA,Household Duties,01 Dec 1964
+306,160495947,"Yapasi, Resila",F,PARUPADIA,Subsistence Farmer,06 Mar 1991
+307,160370387,"Yapini, Biyamer",F,PUTI,Household Duties,01 Jan 1951
+308,160387100,"Yapini, Boo",F,PUTI,Household Duties,30 Nov 1962
+309,160387468,"Yapini, Essy",F,PUTI,Household Duties,13 Jul 1970
+310,160370613,"Yapini, Kinu wando",F,PUTI,Household Duties,01 Jan 1983
+311,160370734,"Yapini, Magretr",F,PUTI,Household Duties,01 Jan 1987
+312,160370610,"Yapini, Melka l",F,PUTI,Student,01 Jan 1993
+313,160387484,"Yapini, Reacheal",F,PUTI,Subsistence Farmer,25 Mar 1989
+314,160495945,"Yaripa, Mata",F,MALUE,Household Duties,05 Jun 1981
+315,160387152,"Yaripia, Elly",F,PUTI,Student,18 Jul 1986
+316,160387174,"Yaripia, Kaleye",F,PUTI,Household Duties,30 Nov 1958
+317,160387418,"Yaripia, Lina",F,PUTI,Household Duties,13 Dec 1974
+318,160387158,"Yaripia, Martina",F,PUTI,Household Duties,31 Dec 1976
+319,160387450,"Yaripia, Melenogo",F,PUTI,Household Duties,11 Nov 1956
+320,160389370,"Yaripia, Nancy",F,PUTI,Household Duties,10 Dec 1976
+321,160388260,"Yaripia, Susan",F,PUTI,Household Duties,03 Sep 1967
+322,160370580,"Yarupia, Aponia",F,PUTI,Student,01 Jan 1991
+323,160370416,"Yarupia, Pai",F,PUTI,Student,01 Jan 1991
+324,160390019,"Adakua, Yano",M,PUTI,Student,15 Feb 1989
+325,160390818,"Akane, Bara",M,PUTI,Student,07 Jul 1987
+326,160495993,"Akane, Benard",M,PUTI,Accountant,06 Jun 1980
+327,160292489,"Akane, Kitalu",M,PARUPANDA,Accountant,13 Apr 1987
+328,160495994,"Akane, Nelson",M,PUTI,Security,02 Feb 1987
+329,160292056,"Akane, Rexson",M,PARUPANDA,Sales Women,11 Mar 1979
+330,160292490,"Akane, Samson",M,PARUPANDA,Teacher,17 Mar 1967
+331,160387925,"Alopa, Amos",M,PUTI,Subsistence Farmer,08 Jul 1984
+332,160374794,"Alua, Frensis",M,AWARONDA,Subsistence Farmer,01 Jan 1990
+333,160387431,"Alua, Issac",M,PUTI,Subsistence Farmer,03 May 1978
+334,160387462,"Alua, Jacob",M,PUTI,Student,07 Dec 1988
+335,160387433,"Alua, Noma",M,PUTI,Subsistence Farmer,13 Jun 1969
+336,160387460,"Alua, Peter",M,PUTI,Subsistence Farmer,01 Oct 1965
+337,160387432,"Alua, Randoa",M,PUTI,Student,02 Nov 1987
+338,160378219,"Alua, Robin",M,AWARONDA,Subsistence Farmer,01 Jan 1986
+339,160508503,"Andakua, Simro",M,PUTI,Subsistence Farmer,25 Nov 1998
+340,160430784,"Anthony, Toma",M,AMBEAME,Houseboy,05 Nov 1985
+341,160388663,"Apalu, Roney",M,PUTI,Subsistence Farmer,15 Aug 1984
+342,160388677,"Apoka, Dokta",M,PUTI,Subsistence Farmer,12 Aug 1968
+343,160292063,"Apoka, Mote",M,PARUPANDA,Sales Women,06 Nov 1959
+344,160430796,"Apoka, Yapasi",M,PARUPANDA,Sales Women,07 Aug 1961
+345,160390206,"Aru, Francis",M,PUTI,Subsistence Farmer,22 Aug 1972
+346,160378132,"Aru, Gibson",M,AWARONDA,Houseboy,01 Jan 1993
+347,160390490,"Aru, Jessy",M,PUTI,Subsistence Farmer,02 Sep 1989
+348,160388173,"Aru, Kipana",M,PUTI,Pastor,21 May 1959
+349,160390736,"Aru, Makira",M,PUTI,Subsistence Farmer,26 Dec 1974
+350,160379215,"Aru, Nande",M,PUTI,Subsistence Farmer,01 Jan 1982
+351,160390080,"Aru, Nelson",M,PUTI,Subsistence Farmer,21 Dec 1980
+352,160390212,"Aru, Otona",M,PUTI,Student,17 Dec 1987
+353,160387862,"Aru, Yasa",M,PUTI,Subsistence Farmer,10 Sep 1960
+354,160508442,"Atasi, Bendy",M,MALUE,Student,23 Nov 1998
+355,160392048,"Atasi, Jacob",M,AMBEAME,Subsistence Farmer,12 May 1980
+356,160392437,"Atasi, John",M,AMBEAME,Subsistence Farmer,25 Jun 1968
+357,160387927,"Atasi, Malaki",M,PUTI,Student,26 Jan 1976
+358,160508444,"Atasi, Melken",M,MALUE,Student,26 Dec 1999
+359,160392381,"Atasi, Richard",M,AMBEAME,Subsistence Farmer,20 Nov 1978
+360,160392248,"Atasi, Roslyn",M,PUTI,Household Duties,25 Jul 1981
+361,160508446,"Atasi, Stanson",M,MALUE,Student,24 Dec 1998
+362,160388269,"Ato, Anderson",M,PUTI,Subsistence Farmer,03 Nov 1980
+363,160388271,"Ato, John",M,PUTI,Subsistence Farmer,31 Dec 1981
+364,160371304,"Ato, Ploed",M,MALUE,Subsistence Farmer,01 Jan 1969
+365,160396731,"Benson, Rex",M,PUTI,Subsistence Farmer,03 Feb 1989
+366,160380631,"Dakua, Andrew",M,PUTI,Subsistence Farmer,01 Jan 1976
+367,160495950,"Daniel, Manuel",M,PARUPANDA,Student,06 Feb 2001
+368,160387167,"David, Gipson",M,PUTI,Subsistence Farmer,13 Jul 1989
+369,160495891,"David, Waria",M,AGARE,Student,07 Feb 1998
+370,160292052,"Dickson, Danny",M,AMBEAME,Sales Women,27 Aug 1986
+371,160390806,"Ega, Dick",M,PUTI,Student,19 Jun 1986
+372,160292040,"Ega, Michael",M,PARUPANDA,Sales Women,07 Sep 1982
+373,160291756,"Ega, Soti",M,PARUPANDA,Sales Women,01 Jun 1989
+374,160387942,"Eno, Atasi",M,PUTI,Subsistence Farmer,21 Jan 1953
+375,160388294,"Epo, Ranikapu",M,PUTI,Pastor,03 Dec 1974
+376,160495905,"Felisen, Anthony",M,AMBEAME,Student,06 Oct 2001
+377,160388259,"Gapi, Irapu",M,PUTI,Subsistence Farmer,19 May 1965
+378,160389885,"Ire, Agurapoa",M,PUTI,Subsistence Farmer,22 May 1969
+379,160390096,"Ire, Windy",M,PUTI,Student,27 Mar 1988
+380,160292214,"Iria, Gibson",M,PARUPANDA,Teacher,20 Aug 1981
+381,160508500,"Iria, Philip",M,PARUPANDA,Subsistence Farmer,04 Mar 2001
+382,160392434,"Irinaya, Grasila",M,AGARE,Housegirl,10 Sep 1994
+383,160388351,"Irinaya, Kalape",M,PUTI,Subsistence Farmer,06 Jul 1967
+384,160392046,"Irinaya, Nataniel",M,AGARE,Farm worker,18 Oct 1991
+385,160388359,"Irinaya, Pasam",M,PUTI,Student,21 Jun 1987
+386,160388353,"Irinaya, Sakaria",M,PUTI,Subsistence Farmer,15 Jul 1977
+387,160392039,"Irinaya, Sinel",M,AGARE,Student,28 Nov 1994
+388,160388699,"Irinaya, Tomson",M,PUTI,Subsistence Farmer,28 Nov 1988
+389,160495901,"Iso, Mathew",M,AGUPA,Teacher,05 Sep 1996
+390,160495953,"Iso, Pilton",M,PARUPANDA,Student,06 Aug 2001
+391,160495916,"Issac, Jaycell",M,AWARONDA,Student,06 Jan 2002
+392,160508450,"Ita, David",M,MALUE,Subsistence Farmer,24 Nov 1998
+393,160495999,"Ita, Lonly",M,PUTI,Security,28 Apr 2004
+394,160292042,"Ita, Makira",M,PARUPANDA,Sales Women,25 Mar 1977
+395,160371636,"Ita, May",M,MALUE,Subsistence Farmer,01 Jan 1989
+396,160496000,"Ita, Petrus",M,PUTI,Subsistence Farmer,01 Jan 1974
+397,160496001,"Ita, Philimon",M,PUTI,Student,07 Aug 1992
+398,160495955,"Ita, Philip",M,PARUPANDA,Subsistence Farmer,18 May 1984
+399,160371632,"Ita, Samson",M,MALUE,Student,01 Jan 1992
+400,160508504,"Itasi, Bendien",M,PUTI,Student,25 Oct 1998
+401,160388870,"Itasi, Bennic",M,PUTI,Student,11 May 1986
+402,160381593,"Itasi, Breden",M,PUTI,Student,01 Jan 1993
+403,160388783,"Itasi, John",M,PUTI,Subsistence Farmer,01 Jun 1977
+404,160393486,"Itasi, Kuna",M,PUTI,Subsistence Farmer,06 Oct 1984
+405,160381592,"Itasi, Mack",M,PUTI,Student,01 Jan 1990
+406,160388790,"Itasi, Megere",M,PUTI,Subsistence Farmer,26 Oct 1983
+407,160508451,"Itasi, Pesu",M,MALUE,Student,25 Nov 1998
+408,160292049,"Jacob, Borny",M,AMBEAME,Sales Women,04 Jun 1998
+409,160292059,"Jakias, Jonah",M,PARUPANDA,Houseboy,28 May 1991
+410,160495908,"James, Benport",M,AMBEAME,Student,02 Jul 2001
+411,160495910,"James, Loney",M,AMBEAME,Student,06 Sep 2002
+412,160496003,"Jessy, Ismale",M,PUTI,Student,20 Feb 2003
+413,160496005,"Jessy, Lopa",M,PUTI,Student,11 Nov 2003
+414,160496006,"Jessy, Mero",M,PUTI,Student,10 Jul 2003
+415,160495919,"Jetro, Aronsm",M,MALUE,Student,03 Aug 2000
+416,160388956,"Jtasi, Ben",M,PUTI,Subsistence Farmer,19 Jun 1969
+417,160396965,"Justin, Tunu",M,PUTI,Subsistence Farmer,03 Feb 1975
+418,160397271,"Kama, Canga",M,PUTI,Subsistence Farmer,04 Mar 1976
+419,160397207,"Kama, Kewa",M,PUTI,Subsistence Farmer,02 Mar 1970
+420,160396804,"Kama, Kone",M,PUTI,Subsistence Farmer,02 Mar 1972
+421,160396866,"Kama, Nason",M,PUTI,Subsistence Farmer,03 Feb 1975
+422,160396916,"Kama, Rati",M,PUTI,Subsistence Farmer,03 Feb 1980
+423,160397272,"Kama, Rombolo",M,PUTI,Subsistence Farmer,02 May 1980
+424,160508453,"Kamele, Israel",M,MALUE,Ambulance Man,24 Oct 2001
+425,160370719,"Kamele, Jacob",M,NEW ISLAND,Subsistence Farmer,01 Jan 1990
+426,160387101,"Kamele, Rati",M,PUTI,Subsistence Farmer,10 Nov 1973
+427,160370590,"Kamele, Regepea",M,PUTI,Student,01 Jan 1993
+428,160387151,"Kamele, Rupia",M,PUTI,Subsistence Farmer,10 Mar 1978
+429,160370597,"Kamele, Wariape",M,PUTI,Subsistence Farmer,01 Jan 1974
+430,160378175,"Kana, Bapi",M,MALUE,Student,01 Jan 2000
+431,160388711,"Kanage, Kane",M,PUTI,Subsistence Farmer,02 Jul 1951
+432,160377744,"Kane, Aten",M,MALUE,Student,01 Jan 1994
+433,160388363,"Kane, More",M,PUTI,Student,13 Jun 1989
+434,160388686,"Kane, Stanely",M,PUTI,Student,25 Oct 1973
+435,160372580,"Kapano, Pentoni",M,AWARONDA,Subsistence Farmer,01 Jan 1981
+436,160508455,"Kelly, Hami",M,MALUE,Student,24 Dec 1998
+437,160508425,"Kelly, John",M,AGARE,Subsistence Farmer,25 Jan 2001
+438,160430780,"Kelly, Mack",M,MALUE,Sales Women,05 Sep 1990
+439,160292204,"Kelly, Macklin",M,MALUE,Hairdresser,04 Mar 1993
+440,160292203,"Kelly, Nane",M,MALUE,Sales Women,15 Jul 1967
+441,160292205,"Kelly, Simon",M,MALUE,Student,07 Nov 1996
+442,160390462,"Kenage, Holimaiya",M,PUTI,Student,21 Aug 1989
+443,160390409,"Kenage, Paul",M,PUTI,Subsistence Farmer,05 Oct 1981
+444,160390731,"Kenage, Samson",M,PUTI,Subsistence Farmer,03 May 1978
+445,160390819,"Kenage, Walea",M,PUTI,Subsistence Farmer,05 Jun 1956
+446,160397274,"Kewa, Mark",M,PUTI,Subsistence Farmer,03 Feb 1980
+447,160397269,"Kewa, Max",M,PUTI,Subsistence Farmer,03 Feb 1975
+448,160495957,"Kietal, Akason",M,PARUPANDA,Student,06 May 1995
+449,160495959,"Kietal, Aluanda",M,PARUPANDA,Student,06 Feb 2003
+450,160393209,"Kiimbua, Kombere",M,NEW ISLAND,Subsistence Farmer,16 Jun 1969
+451,160381590,"Kilipia, Matias",M,PUTI,Student,01 Jan 1994
+452,160392408,"Kimbua, Sapona",M,NEW ISLAND,Student,10 Aug 1993
+453,160379967,"Kipaina, Nagia",M,AWARONDA,Subsistence Farmer,01 Jan 1976
+454,160388172,"Kipaina, Rupia",M,PUTI,Student,17 Oct 1981
+455,160387864,"Kipana, Benard",M,PUTI,Subsistence Farmer,29 Jan 1971
+456,160379968,"Kipania, Hone n",M,AWARONDA,Student,01 Jan 1986
+457,160378129,"Kipania, Wari",M,AWARONDA,Student,01 Jan 1992
+458,160388868,"Koi, Supia",M,PUTI,Subsistence Farmer,10 Oct 1957
+459,160389773,"Komba, Junia",M,PUTI,Student,10 Mar 1984
+460,160292485,"Komba, Kelly",M,PUTI,Sales Women,11 Mar 1965
+461,160389803,"Komba, Mack",M,PUTI,Student,05 Oct 1981
+462,160370607,"Komba, Simon k",M,PUTI,Student,01 Jan 1990
+463,160389369,"Komba, Thomson",M,PUTI,Teacher,02 Dec 1972
+464,160389372,"Komba, Timson",M,PUTI,Subsistence Farmer,01 Mar 1976
+465,160292004,"Kura, Maya",M,AMBEAME,Sales Women,02 Dec 1948
+466,160370614,"Loko, Brian m",M,PUTI,Student,01 Jan 1993
+467,160508459,"Loko, Ismile",M,MALUE,Pilot,26 Feb 1998
+468,160387161,"Loko, Joel",M,PUTI,Student,15 Nov 1987
+469,160387103,"Loko, Madali",M,PUTI,Subsistence Farmer,01 Jun 1958
+470,160495921,"Loko, Mesek",M,MALUE,Student,08 Feb 2003
+471,160387156,"Loko, Nare",M,PUTI,Subsistence Farmer,04 May 1986
+472,160387444,"Loko, Paul",M,PUTI,Pastor,18 Oct 1963
+473,160496009,"Lonly, Nunupit",M,PUTI,Student,08 Aug 2003
+474,160495894,"Luke, Lukson",M,AGARE,Student,03 Apr 2003
+475,160388162,"Lusa, Alo",M,PUTI,Subsistence Farmer,22 Dec 1980
+476,160388145,"Lusa, Warea",M,PUTI,Subsistence Farmer,28 Jul 1972
+477,160388326,"Lusa, Yako",M,PUTI,Subsistence Farmer,05 Jun 1965
+478,160495960,"Makia, Amon",M,PARUPANDA,Student,06 Mar 2002
+479,160388931,"Malu, Jerry",M,PUTI,Subsistence Farmer,11 Oct 1984
+480,160388929,"Malu, Mark",M,PUTI,Subsistence Farmer,23 May 1976
+481,160388881,"Malu, Robert",M,PUTI,Teacher,16 May 1969
+482,160508498,"Manda, Akane",M,PARUPADIA,Student,26 Aug 1989
+483,160378128,"Manu, Paru",M,AWARONDA,Subsistence Farmer,01 Jan 1982
+484,160396742,"Mapi, Lot",M,PUTI,Subsistence Farmer,03 Feb 1986
+485,160292048,"Mark, Amil",M,AMBEAME,Sales Women,24 Feb 1996
+486,160292047,"Mark, Lapan",M,AMBEAME,Student,02 Aug 1994
+487,160495962,"Mathew, Kingsly",M,PARUPANDA,Student,06 Mar 2003
+488,160495965,"Mathew, Lukeson",M,PARUPANDA,Student,02 Jan 2001
+489,160495968,"Mathew, Olipa",M,PARUPANDA,Student,03 Apr 1999
+490,160430783,"Maya, Anthony",M,AMBEAME,Teacher,03 Jul 1978
+491,160430781,"Maya, Benro",M,AMBEAME,Sales Women,15 Apr 1990
+492,160508435,"Maya, Dickson",M,AMBEAME,Subsistence Farmer,24 Dec 1999
+493,160292210,"Maya, Felix",M,AMBEAME,Sales Women,09 Nov 1998
+494,160292208,"Maya, James",M,AMBEAME,Dental Therapist,16 Oct 1984
+495,160292209,"Maya, Solo",M,AMBEAME,Sales Women,22 Feb 1992
+496,160430782,"Maya, Steven",M,MALUE,Teacher,22 May 1983
+497,160292051,"Maya, Warran",M,AMBEAME,Sales Women,04 Sep 1987
+498,160377694,"Mena, Alus",M,AWARONDA,Subsistence Farmer,01 Jan 1989
+499,160379208,"Mena, Daniel",M,AWARONDA,Subsistence Farmer,01 Jan 1988
+500,160377683,"Mena, Kingsen",M,AWARONDA,Subsistence Farmer,01 Jan 1986
+501,160378115,"Mena, Rati",M,AWARONDA,Teacher,01 Jan 1986
+502,160378116,"Mena, Tony",M,AWARONDA,Student,01 Jan 1985
+503,160396877,"Mendo, Anala",M,PUTI,Subsistence Farmer,03 Feb 1970
+504,160397281,"Mendo, Mason",M,PUTI,Subsistence Farmer,03 Feb 1987
+505,160396881,"Mendo, Nadas",M,PUTI,Subsistence Farmer,04 Mar 1975
+506,160396887,"Mendo, Pale",M,PUTI,Subsistence Farmer,03 Feb 1975
+507,160396926,"Mendo, Runa",M,PUTI,Subsistence Farmer,01 Jan 1987
+508,160397280,"Mendo, Winson",M,PUTI,Subsistence Farmer,03 Feb 1985
+509,160496010,"Michael, Geripa",M,PUTI,Student,13 Feb 2002
+510,160495971,"Michael, Manu",M,PARUPANDA,Student,06 Jan 2004
+511,160496012,"Michael, Marabe",M,PUTI,Student,23 Jan 2003
+512,160495974,"Michael, Peter",M,PARUPANDA,Student,06 Mar 2003
+513,160495976,"Michael, Wannan",M,PARUPANDA,Student,03 Mar 2003
+514,160430787,"Micheal, Keripa",M,PARUPANDA,Sales Women,30 Mar 1999
+515,160292009,"Mote, Israel",M,PARUPANDA,Sales Women,07 Dec 1998
+516,160292065,"Mote, Junior",M,PARUPANDA,Sales Women,10 Aug 1996
+517,160292069,"Mote, Laithan",M,PARUPANDA,Sales Women,09 Nov 1994
+518,160292066,"Mote, Lawrance",M,PARUPANDA,Not Specified,17 Jul 1991
+519,160292068,"Mote, Sentom",M,PARUPANDA,Driver,20 Feb 1983
+520,160292215,"Muta, Iria",M,PARUPANDA,Sales Women,20 Feb 1956
+521,160379666,"Naki, Albert",M,AWARONDA,Driver,01 Jan 1976
+522,160379107,"Naki, Bredy",M,AWARONDA,Student,01 Jan 1993
+523,160380498,"Naki, Goden",M,AWARONDA,Student,01 Jan 1991
+524,160379108,"Naki, Gotfrey",M,AWARONDA,Student,01 Jan 1988
+525,160379978,"Naki, Oty",M,AWARONDA,Student,01 Jan 1978
+526,160379086,"Naki, Pelisa",M,AWARONDA,Student,01 Jan 1990
+527,160380556,"Naki, Riapu",M,AWARONDA,Subsistence Farmer,01 Jan 1956
+528,160380497,"Naki, Robert",M,AWARONDA,Student,01 Jan 1992
+529,160379587,"Naki, Rundua",M,AWARONDA,Subsistence Farmer,01 Jan 1962
+530,160379111,"Naki, Tuma",M,AWARONDA,Student,01 Jan 1991
+531,160379095,"Naki, Vincent",M,AWARONDA,Student,01 Jan 1994
+532,160495986,"Nason, Raita",M,PARUPANDA,Student,06 Jan 2003
+533,160495988,"Nema, Numan",M,PARUPANDA,Student,06 Feb 2003
+534,160496014,"Nepo, Bob",M,PUTI,Subsistence Farmer,14 May 1994
+535,160496015,"Nepo, Bonny",M,PUTI,Student,12 Feb 1994
+536,160496016,"Nepo, Kakuanaki",M,PUTI,Subsistence Farmer,11 Nov 1999
+537,160496017,"Nepo, Mondea",M,PUTI,Subsistence Farmer,11 Aug 1981
+538,160495895,"Noah, Jerelyn",M,AGARE,Household Duties,02 Aug 1999
+539,160387437,"Noma, Ben",M,PUTI,Student,16 Jul 1984
+540,160387440,"Noma, Francis",M,PUTI,Subsistence Farmer,08 Aug 1975
+541,160387435,"Noma, Paul",M,PUTI,Subsistence Farmer,15 Oct 1976
+542,160387436,"Noma, Peter",M,PUTI,Student,12 Apr 1982
+543,160396745,"Oke, Sabath",M,PUTI,Subsistence Farmer,03 Feb 1976
+544,160396733,"Oke, Solomon",M,PUTI,Subsistence Farmer,03 Feb 1975
+545,160370582,"Olapi, Anpaya",M,PUTI,Subsistence Farmer,01 Jan 1969
+546,160370422,"Olapi, Buka",M,PUTI,Subsistence Farmer,01 Jan 1989
+547,160370129,"Olapi, Joe",M,PUTI,Subsistence Farmer,01 Jan 1979
+548,160370417,"Olapi, John",M,PUTI,Subsistence Farmer,01 Jan 1989
+549,160370128,"Olapi, Kenage",M,PUTI,Subsistence Farmer,01 Jan 1958
+550,160370137,"Olapi, Wasa",M,PUTI,Subsistence Farmer,01 Jan 1979
+551,160370578,"Osawe, Asiw",M,PUTI,Subsistence Farmer,20 Feb 1992
+552,160370122,"Osawe, Jeoffreyw",M,PUTI,Subsistence Farmer,18 Dec 1992
+553,160370577,"Osawe, Joshuaw",M,PUTI,Subsistence Farmer,07 Jul 1989
+554,160387412,"Osawe, Rombala",M,PUTI,Subsistence Farmer,07 Sep 1961
+555,160371234,"Osawe, Samuel",M,MALUE,Councillor,10 Nov 1978
+556,160370405,"Osawe, Simonw",M,PUTI,Subsistence Farmer,01 Jan 1987
+557,160371290,"Osawe, Timothy w",M,MALUE,Subsistence Farmer,29 Apr 1981
+558,160370778,"Osawe, Wakia",M,MALUE,Subsistence Farmer,12 Jun 1965
+559,160387488,"Osawe, Yaripia",M,PUTI,Subsistence Farmer,14 Jan 1951
+560,160388787,"Oya, Kapano",M,PUTI,Subsistence Farmer,19 May 1954
+561,160390836,"Oya, Obert",M,PUTI,Student,28 Oct 1982
+562,160388298,"Paiputia, Samon",M,PUTI,Subsistence Farmer,12 Feb 1982
+563,160508512,"Paiya, Andrew",M,PUTI,Student,23 Jan 2001
+564,160508513,"Paiya, Jacob",M,PUTI,Student,26 Feb 2001
+565,160508463,"Palama, Robin",M,MALUE,Student,01 Mar 2004
+566,160387940,"Pasalo, David",M,PUTI,Student,01 Dec 1972
+567,160371633,"Pasua, Andrew",M,MALUE,Subsistence Farmer,01 Jan 1976
+568,160373277,"Pasua, David",M,MALUE,Subsistence Farmer,01 Jan 1975
+569,160371668,"Pasua, Gibsena",M,MALUE,Student,01 Jan 1994
+570,160371313,"Pasua, Paul e",M,MALUE,Student,01 Jan 1993
+571,160371315,"Pasua, Pegema e",M,MALUE,Subsistence Farmer,01 Jan 1963
+572,160372922,"Pasua, Yagima",M,MALUE,Subsistence Farmer,01 Jan 1974
+573,160508466,"Paul, Kesum",M,MALUE,Student,24 Nov 1998
+574,160508468,"Paul, Nawa",M,MALUE,Teacher,27 Mar 2000
+575,160431657,"Paul, Senis",M,MALUE,Sales Women,14 Feb 1998
+576,160397161,"Peter, Daniel",M,PUTI,Subsistence Farmer,02 Mar 1987
+577,160396738,"Peter, Master",M,PUTI,Subsistence Farmer,02 Apr 1986
+578,160397160,"Peter, Michael",M,PUTI,Subsistence Farmer,01 Jan 1982
+579,160396424,"Peter, Soti",M,PUTI,Subsistence Farmer,02 May 1975
+580,160396425,"Peter, Winson",M,PUTI,Subsistence Farmer,01 Jan 1985
+581,160508469,"Pialama, Junior",M,MALUE,Subsistence Farmer,25 Oct 1997
+582,160388799,"Pima, Bola",M,PUTI,Subsistence Farmer,05 Jun 1979
+583,160388804,"Pima, David",M,PUTI,Student,12 Jun 1989
+584,160388802,"Pima, Janisi",M,PUTI,Student,17 Mar 1988
+585,160389806,"Pima, Ruben",M,PUTI,Subsistence Farmer,23 Dec 1976
+586,160380555,"Pima, Yake",M,PUTI,Subsistence Farmer,01 Jan 1975
+587,160387906,"Pukupia, Andrew",M,PUTI,Subsistence Farmer,04 Dec 1963
+588,160387427,"Ragala, Tegepea",M,PUTI,Subsistence Farmer,05 Dec 1988
+589,160496019,"Rakeana, Peter",M,PUTI,Student,08 Nov 2001
+590,160387425,"Ralama, Pondo",M,PUTI,Subsistence Farmer,12 Oct 1979
+591,160387424,"Ralama, Wala",M,PUTI,Subsistence Farmer,08 Jun 1977
+592,160387429,"Ralama, Wesley",M,PUTI,Subsistence Farmer,11 Apr 1967
+593,160390101,"Rambue, Amua",M,PUTI,Subsistence Farmer,29 Jul 1968
+594,160389901,"Rambue, Pando",M,PUTI,Student,03 May 1980
+595,160389884,"Rambue, Patrick",M,PUTI,Student,01 Dec 1979
+596,160387428,"Rande, Yapini",M,PUTI,Subsistence Farmer,01 Apr 1951
+597,160508514,"Randoloma, Lomba",M,PUTI,Baby Sitter,23 Nov 1998
+598,160508471,"Rati, Jenemia",M,MALUE,Student,23 Oct 1997
+599,160508427,"Rati, Maiyow",M,AGUPA,Baby Sitter,24 Oct 1997
+600,160508429,"Rati, Noah",M,AGUPA,Student,23 Nov 1998
+601,160508432,"Rati, Robolo",M,AGUPA,Student,24 Jan 2002
+602,160508434,"Rati, Stalon",M,AGUPA,Student,26 Dec 2000
+603,160496020,"Reaxon, Jeremaih",M,PUTI,Student,20 Dec 2001
+604,160496021,"Reaxon, Jeremiah",M,PUTI,Student,18 Jul 1999
+605,160387426,"Regepea, Albert",M,PUTI,Subsistence Farmer,13 Nov 1976
+606,160370421,"Regepea, Kombea y",M,PUTI,Subsistence Farmer,01 Jan 1963
+607,160387490,"Regepea, Luke",M,PUTI,Student,11 Dec 1983
+608,160387470,"Regepea, Ragala",M,PUTI,Subsistence Farmer,14 Oct 1959
+609,160387474,"Regepea, Tege",M,PUTI,Subsistence Farmer,15 Oct 1982
+610,160387467,"Regepea, Vero",M,PUTI,Subsistence Farmer,19 Sep 1987
+611,160370127,"Regepea, Willy y",M,PUTI,Student,01 Jan 1990
+612,160387489,"Regepea, Yako",M,PUTI,Subsistence Farmer,10 Nov 1958
+613,160387411,"Rikita, Mapuna",M,PUTI,Subsistence Farmer,22 Feb 1960
+614,160387430,"Rikita, Ruth",M,PUTI,Subsistence Farmer,15 Dec 1983
+615,160387408,"Rombala, Nema",M,PUTI,Subsistence Farmer,12 Jun 1973
+616,160508490,"Rombala, Seli",M,MALUE,Student,23 Sep 1998
+617,160387413,"Rombala, Soti",M,PUTI,Student,10 Oct 1988
+618,160496023,"Romo, Jackson",M,PUTI,Plumber,02 May 1961
+619,160292491,"Romo, Vincent",M,PARUPANDA,Teacher,18 May 1983
+620,160508515,"Rondolome, Mara",M,PUTI,Student,24 Nov 1997
+621,160508516,"Rondolome, Mutu",M,PUTI,Student,24 Nov 1997
+622,160508517,"Rondolome, Rando",M,PUTI,Baby Sitter,24 Oct 1997
+623,160396800,"Ruri, Kama",M,PUTI,Subsistence Farmer,01 Jan 1950
+624,160388170,"Ruri, Michael",M,PUTI,Subsistence Farmer,31 Dec 1978
+625,160392891,"Ruri, Rama",M,MALUE,Subsistence Farmer,25 Sep 1960
+626,160387449,"Sala, Alo",M,PUTI,Subsistence Farmer,10 Mar 1979
+627,160373250,"Sala, Lome",M,MALUE,Subsistence Farmer,01 Jan 1974
+628,160373279,"Sala, Napa",M,MALUE,Subsistence Farmer,01 Jan 1990
+629,160387155,"Sala, Ondo",M,PUTI,Subsistence Farmer,09 Apr 1982
+630,160378316,"Sala, Rambo",M,MALUE,Subsistence Farmer,01 Jan 1974
+631,160373280,"Sala, Toei",M,MALUE,Subsistence Farmer,01 Jan 1991
+632,160496025,"Samson, Franklin",M,PUTI,Student,03 May 2003
+633,160508501,"Samson, Salome",M,PARUPANDA,Student,24 Dec 1998
+634,160495930,"Samuel, Imson",M,MALUE,Student,03 Feb 2002
+635,160496033,"Samuel, Ismuen",M,PUTI,Student,04 May 2003
+636,160495935,"Samuel, Jonathan",M,MALUE,Student,02 Apr 1999
+637,160496038,"Samuel, Samson",M,PUTI,Student,02 Jul 2003
+638,160495903,"Sevendi, Kinda",M,AGUPA,Student,06 Apr 2004
+639,160495912,"Steven, Lapos",M,AMBEAME,Student,01 Feb 2003
+640,160390191,"Suayo, Ibiripa",M,PUTI,Subsistence Farmer,26 Dec 1958
+641,160390108,"Suayo, Ismile",M,PUTI,Student,11 Jun 1989
+642,160390196,"Suayo, Kane",M,PUTI,Subsistence Farmer,12 Apr 1989
+643,160393482,"Suayo, Kinselly",M,PUTI,Subsistence Farmer,08 Jul 1987
+644,160390022,"Suayo, Maxwel",M,PUTI,Subsistence Farmer,01 Nov 1977
+645,160508518,"Suayo, Mel",M,PUTI,Student,25 Nov 1998
+646,160508519,"Suayo, Morris",M,PUTI,Student,24 Nov 1998
+647,160393488,"Suayo, Rimba",M,PUTI,Subsistence Farmer,10 Dec 1959
+648,160390835,"Suayo, Samson",M,PUTI,Student,19 Aug 1988
+649,160381934,"Suayo, Stanly",M,PUTI,Student,01 Jan 1993
+650,160390190,"Suayu, Vincent",M,PUTI,Subsistence Farmer,03 Sep 1978
+651,160495937,"Taitus, Willie",M,MALUE,Student,06 Mar 2003
+652,160292007,"Thomas, Exodus",M,PARUPANDA,Sales Women,30 Dec 1997
+653,160508492,"Timsen, Andrian",M,MALUE,Mechanic,24 Nov 1998
+654,160496042,"Tom, Jennifer",M,PUTI,Household Duties,03 Jul 1996
+655,160508495,"Tomsen, Dixy",M,MALUE,Student,25 Mar 2002
+656,160387153,"Tunu, Bob",M,PUTI,Student,11 Aug 1987
+657,160387930,"Uluma, Abrahm",M,PUTI,Student,06 Oct 1978
+658,160387910,"Uluma, Otaku",M,PUTI,Subsistence Farmer,30 Oct 1964
+659,160292061,"Umbisi, Assac",M,PARUPANDA,Sales Women,15 Mar 1985
+660,160292006,"Umbisi, Thomas",M,PARUPANDA,Teacher,13 Mar 1972
+661,160508520,"Upa, Aripu",M,PUTI,Student,24 Dec 2002
+662,160508521,"Upa, Parape",M,PUTI,Student,25 Nov 1998
+663,160508522,"Upa, Tonny",M,PUTI,Student,25 Nov 1998
+664,160495899,"Vaka, Noiah",M,AGARE,Driver,01 Jul 1979
+665,160496044,"Wabi, Essy",M,PUTI,Student,08 Feb 2003
+666,160390079,"Wage, Soti",M,PUTI,Student,06 Oct 1987
+667,160390028,"Wage, Tom",M,PUTI,Student,06 Feb 1980
+668,160508523,"Wagi, Napisu",M,PUTI,Student,23 Nov 1997
+669,160508524,"Wagi, Pisu",M,PUTI,Student,22 Nov 1998
+670,160390750,"Walea, John",M,PUTI,Subsistence Farmer,06 Aug 1986
+671,160390471,"Walea, Koyo",M,PUTI,Subsistence Farmer,01 Aug 1979
+672,160390385,"Walea, Peter",M,PUTI,Pastor,07 Oct 1977
+673,160390397,"Walea, Sandu",M,PUTI,Subsistence Farmer,08 Jul 1987
+674,160496048,"Wambi, Amon",M,PUTI,Student,09 Jan 2003
+675,160292044,"Wambi, Eron",M,PARUPANDA,Sales Women,23 Jan 1984
+676,160292046,"Wambi, Kuta",M,PARUPANDA,Sales Women,02 Feb 1989
+677,160496051,"Wambi, Martin",M,PUTI,Student,06 Aug 2002
+678,160496057,"Wange, Ismael",M,PUTI,Student,03 Jan 1999
+679,160370630,"Wepo, Anton",M,NEW ISLAND,Houseboy,30 Oct 1992
+680,160387102,"Wepo, Endola",M,PUTI,Subsistence Farmer,11 Apr 1963
+681,160370506,"Wepo, Philip",M,NEW ISLAND,Pastor,05 Aug 1976
+682,160370502,"Wepo, Philipai",M,NEW ISLAND,Student,15 Jun 1993
+683,160387099,"Wepo, Triman",M,PUTI,Subsistence Farmer,02 Oct 1976
+684,160393061,"Wepo, Una",M,AMBEAME,Student,16 Jul 1987
+685,160392117,"Willie, Allen",M,PUTI,Student,15 Mar 1993
+686,160495940,"Yanage, Mathew",M,MALUE,Subsistence Farmer,03 Feb 1979
+687,160397203,"Yanda, Deres",M,PUTI,Subsistence Farmer,03 Feb 1985
+688,160396797,"Yanda, Giape",M,PUTI,Subsistence Farmer,04 Mar 1982
+689,160396798,"Yanda, Kinsely",M,PUTI,Subsistence Farmer,01 Jan 1980
+690,160396796,"Yanda, Mark",M,PUTI,Subsistence Farmer,02 Mar 1980
+691,160397200,"Yanda, Timothy",M,PUTI,Subsistence Farmer,02 Mar 1975
+692,160292036,"Yandala, Iso",M,PARUPANDA,Sales Women,12 Aug 1977
+693,160495990,"Yapasi, Andy",M,PARUPANDA,Accountant,03 Apr 1975
+694,160508502,"Yapasi, Dunstan",M,PARUPANDA,Student,21 Mar 2001
+695,160496064,"Yapasi, Jesy",M,PUTI,Pastor,06 Apr 1966
+696,160292487,"Yapasi, Keven",M,PARUPANDA,Teacher,17 Mar 1985
+697,160390808,"Yapasi, Sasua",M,PUTI,Subsistence Farmer,19 Nov 1988
+698,160370426,"Yapi, Samson b",M,PUTI,Student,30 Nov 1992
+699,160495943,"Yapi, Solomon",M,MALUE,Pastor,06 Mar 1971
+700,160508497,"Yapine, Enabo",M,MALUE,Student,26 Jan 1999
+701,160387469,"Yapini, Issac",M,PUTI,Subsistence Farmer,24 Nov 1986
+702,160387442,"Yapini, Luke",M,PUTI,Subsistence Farmer,04 Aug 1969
+703,160387168,"Yapini, Peter",M,PUTI,Student,04 May 1987
+704,160387443,"Yapini, Rande",M,PUTI,Subsistence Farmer,21 Dec 1976
+705,160370427,"Yapini, Wando",M,PUTI,Subsistence Farmer,01 Jan 1970
+706,160389371,"Yaripia, Kupu",M,PUTI,Subsistence Farmer,16 Dec 1978
+707,160387154,"Yaripia, Manuel",M,PUTI,Student,11 May 1975
+708,160387149,"Yaripia, Mark",M,PUTI,Student,10 Jun 1976
+709,160387417,"Yaripia, Mathew",M,PUTI,Teacher,18 Oct 1969
+710,160370415,"Yarupia, Ero",M,PUTI,Student,01 Jan 1993

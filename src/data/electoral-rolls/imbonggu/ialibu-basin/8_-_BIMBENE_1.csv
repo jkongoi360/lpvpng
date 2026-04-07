@@ -1,0 +1,764 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160210268,"Aipa, Kendame",F,Bimbinie 1,Subsistence Farmer,01 Jan 1943
+2,160229789,"Aipa, Roselen",F,Bimbinie 1,Student,01 Jan 1981
+3,160210641,"Aipa, Waki",F,Bimbinie 1,Student,01 Jan 1982
+4,160213804,"Aiya, Enjela",F,Bimbinie 1,Subsistence Farmer,01 Jan 1979
+5,160197162,"Akele, Kandiye",F,Bimbinie 1,Student,01 Jan 1987
+6,160197157,"Akele, Koyapo",F,Bimbinie 1,Subsistence Farmer,01 Jan 1963
+7,25086576,"Akele, Maria",F,Bimbinie 1,Housegirl,29 Oct 1985
+8,160244675,"Akena, Marry",F,Bimbinie 1,Household Duties,01 Jan 1980
+9,160246674,"Albert, Naomi",F,Bimbinie 1,Household Duties,01 Jan 1989
+10,160215766,"Andi, Kepono pene",F,Bimbinie 1,Household Duties,01 Jan 1963
+11,160224231,"Andi, Leya",F,Bimbinie 1,Student,01 Jan 1988
+12,160224743,"Andi, Wari joice",F,Bimbinie 1,Subsistence Farmer,01 Jan 1984
+13,160131506,"Andrew, Cathy",F,Bimbinie 1,Household Duties,18 Mar 1997
+14,160440163,"Andrew, Kuskus",F,Bimbinie 1,Household Duties,28 Apr 2004
+15,160244549,"Andrew john, Margret",F,Bimbinie 1,Subsistence Farmer,01 Jan 1983
+16,160440213,"Bali, Jacklyn",F,Bimbinie 1,Student,24 Mar 2004
+17,160245661,"Bali, Lucy",F,Bimbinie 1,Student,01 Jan 1991
+18,160223700,"Bali, Misi",F,Bimbinie 1,Subsistence Farmer,01 Jan 1963
+19,160131466,"Bali, Semillar",F,Bimbinie 1,Student,02 Mar 1998
+20,160210657,"Bali, Willien",F,Bimbinie 1,Student,01 Jan 1985
+21,160440189,"Ben, Sendy",F,Bimbinie 1,Student,10 Feb 2002
+22,160440188,"Ben, Shera",F,Bimbinie 1,Student,14 Feb 2004
+23,160131489,"Ben, Silver",F,Bimbinie 1,Household Duties,26 Sep 1980
+24,160224244,"Ben, Tomba heni",F,Bimbinie 1,Teacher,01 Jan 1980
+25,160131490,"Ben, Vero",F,Bimbinie 1,Household Duties,26 Jan 1986
+26,160440183,"Ben, Vivian",F,Bimbinie 1,Student,09 Jul 2003
+27,25086581,"Bulu, Bethsiba",F,Bimbinie 1,Student,01 Feb 2004
+28,160245648,"Bulu, Lea",F,Bimbinie 1,Household Duties,01 Jan 1985
+29,160245657,"Charli, Lina",F,Bimbinie 1,Subsistence Farmer,01 Jan 1982
+30,160230841,"Charlie, Engabo",F,Bimbinie 1,Household Duties,01 Jan 1972
+31,160215144,"Charlie, Kepo",F,Bimbinie 1,Household Duties,01 Jan 1969
+32,160244548,"Charlie, Ronda",F,Bimbinie 1,Student,01 Jan 1990
+33,160440162,"David, Elima",F,Bimbinie 1,Subsistence Farmer,02 Nov 1995
+34,160246769,"David, Precilla",F,Bimbinie 1,Household Duties,01 Jan 1983
+35,160210089,"David, Rita",F,Bimbinie 1,Household Duties,01 Jan 1976
+36,160230314,"David, Susan",F,Bimbinie 1,Household Duties,01 Jan 2000
+37,160244552,"Eke, Apele",F,Bimbinie 1,Household Duties,01 Jan 1959
+38,160245656,"Eke, Lame",F,Bimbinie 1,Subsistence Farmer,01 Jan 1987
+39,160244555,"Eke, Mary",F,Bimbinie 1,Student,01 Jan 1992
+40,160229401,"Elvis, Anna",F,Bimbinie 1,Household Duties,01 Jan 1971
+41,160244677,"Elvis, Cathy",F,Bimbinie 1,Household Duties,01 Jan 1987
+42,160244679,"Elvis, Joice",F,Bimbinie 1,Household Duties,01 Jan 1989
+43,160229290,"Elvis, Kanambo",F,Bimbinie 1,Household Duties,01 Jan 1970
+44,160229415,"Elvis, Marte",F,Bimbinie 1,Student,01 Jan 1990
+45,160131482,"Elvis, Martina",F,Bimbinie 1,Student,10 Sep 1997
+46,160224746,"Enge, Jeniffer",F,Bimbinie 1,Student,01 Jan 1986
+47,160224223,"Enge, Merinly",F,Bimbinie 1,Household Duties,01 Jan 1984
+48,160213502,"Garu, Julie",F,Bimbinie 1,Subsistence Farmer,01 Jan 1980
+49,160230950,"Garu, Mellin",F,Bimbinie 1,Household Duties,01 Jan 1981
+50,160440149,"Glaime, Bethal",F,Bimbinie 1,Household Duties,28 Apr 2004
+51,160207459,"Goraiye, Elli",F,Bimbinie 1,Student,01 Jan 1987
+52,160246975,"Goraiye, Esta",F,Bimbinie 1,Household Duties,01 Jan 1984
+53,160207430,"Goraiye, Malinda",F,Bimbinie 1,Student,01 Jan 1990
+54,160210266,"Goraiye, Toimbo",F,Bimbinie 1,Household Duties,01 Jan 1940
+55,160224208,"Goriyea, Angela",F,Bimbinie 1,Student,01 Jan 1982
+56,160225108,"Goriyea, Huke",F,Bimbinie 1,Household Duties,01 Jan 1961
+57,160224209,"Goriyea, Pricella",F,Bimbinie 1,Student,01 Jan 1986
+58,160230849,"Guli, Caroline",F,Bimbinie 1,Household Duties,01 Jan 1977
+59,160246977,"Guli, Jenny",F,Bimbinie 1,Household Duties,01 Jan 1978
+60,160246298,"Heron, Anna",F,Bimbinie 1,Student,01 Jan 1990
+61,160131459,"Heron, Besildah",F,Bimbinie 1,Household Duties,20 Jun 1989
+62,160241077,"Heron, Ena",F,Bimbinie 1,Household Duties,01 Jan 1980
+63,160246299,"Heron, Esther",F,Bimbinie 1,Sales Women,01 Jan 1993
+64,160246301,"Heron, Perabo",F,Bimbinie 1,Household Duties,01 Jan 1986
+65,160243990,"Heron, Ruth",F,Bimbinie 1,Household Duties,01 Jan 1984
+66,160131452,"Herot, Berthlyn",F,Bimbinie 1,Household Duties,07 Mar 1990
+67,160247239,"Iko, Chimbouambo",F,Bimbinie 1,Household Duties,01 Jan 1979
+68,160224152,"Iko, Kiweme",F,Bimbinie 1,Household Duties,01 Jan 1978
+69,25086588,"Issiach, Josephine",F,Bimbinie 1,Subsistence Farmer,01 Jan 1999
+70,160440197,"Jackson, Racheal",F,Bimbinie 1,Subsistence Farmer,01 Jan 1993
+71,160246436,"Jacob, Grace",F,Bimbinie 1,Stenographer,01 Jan 1994
+72,160131478,"Jacob, Jeninah",F,Bimbinie 1,Student,02 Nov 1998
+73,25086590,"Jacob, Judy",F,Bimbinie 1,Unemployed,10 Apr 1999
+74,160131500,"Jacob, Lenitah",F,Bimbinie 1,Student,11 Mar 1997
+75,160211009,"Jacob, Melina",F,Bimbinie 1,Subsistence Farmer,01 Jan 1976
+76,160131477,"Jacob, Peninah",F,Bimbinie 1,Student,05 Mar 1997
+77,25086593,"James, Joice",F,Bimbinie 1,Self Employed,01 Jan 1995
+78,160440153,"James, Kendy laki",F,Bimbinie 1,Teacher,07 Nov 1996
+79,160213956,"James, Kiniye",F,Bimbinie 1,Student,01 Jan 1988
+80,160215215,"James, Margret",F,Bimbinie 1,Household Duties,01 Jan 1964
+81,160131499,"James, Sekainah",F,Bimbinie 1,Student,02 Jun 1998
+82,160211273,"Jerry, Liyen",F,Bimbinie 1,Subsistence Farmer,01 Jan 1981
+83,160229761,"Jessy, Jenny",F,Bimbinie 1,Household Duties,01 Jan 1976
+84,160131483,"Joe, Georgina",F,Bimbinie 1,Student,01 Jan 1998
+85,160213338,"Joe, Julie",F,Bimbinie 1,Household Duties,01 Jan 1980
+86,160440175,"John, Bafina",F,Bimbinie 1,Household Duties,03 Apr 2004
+87,160246770,"John, Esta",F,Bimbinie 1,Household Duties,01 Jan 1974
+88,160246785,"John, Frida",F,Bimbinie 1,Household Duties,01 Jan 1975
+89,160230344,"John, Mokarie",F,Bimbinie 1,Household Duties,01 Jan 1968
+90,160229772,"John, Winta",F,Bimbinie 1,Student,01 Jan 1990
+91,25086594,"Jonah, Shalo",F,Bimbinie 1,Student,04 Mar 1999
+92,160440141,"Jonathan, Helinda",F,Bimbinie 1,Self Employed,11 Dec 1992
+93,160245646,"Jonathan, Rossy",F,Bimbinie 1,Student,01 Jan 1987
+94,25086596,"Kaipo, Telno",F,Bimbinie 1,Subsistence Farmer,10 Jan 1990
+95,160207458,"Kambano, Kina      rebecca",F,Bimbinie 1,Household Duties,01 Jan 1979
+96,160224591,"Kambano, Yamba werenica",F,Bimbinie 1,Household Duties,01 Jan 1946
+97,160215767,"Kanani, Cathy",F,Bimbinie 1,Household Duties,01 Jan 1974
+98,160202626,"Kanombo, Serah",F,Bimbinie 1,Household Duties,01 Jan 1978
+99,160230297,"Kapul, Angela",F,Bimbinie 1,Household Duties,01 Jan 1968
+100,160247181,"Kelly, Jenet",F,Bimbinie 1,Student,01 Jan 1991
+101,160230788,"Kelly, Rosa",F,Bimbinie 1,Student,01 Jan 1990
+102,160440166,"Kelly, Rubina",F,Bimbinie 1,Student,09 Apr 2004
+103,160440140,"Kelvin, Serah",F,Bimbinie 1,Subsistence Farmer,16 Oct 1994
+104,160224604,"Kemapu, Palakome",F,Bimbinie 1,Household Duties,01 Jan 1971
+105,160245653,"Ken, Cathy",F,Bimbinie 1,Household Duties,01 Jan 1980
+106,160245652,"Ken, Wonong",F,Bimbinie 1,Household Duties,01 Jan 1978
+107,25086600,"Kepong, Kristy",F,Bimbinie 1,Student,01 Jan 2000
+108,160440131,"Keponge, Carol",F,Bimbinie 1,Student,12 Aug 1998
+109,160224206,"Kepunge, Carolin",F,Bimbinie 1,Student,01 Jan 1984
+110,160224607,"Kepunge, Christina",F,Bimbinie 1,Student,01 Jan 1987
+111,160226478,"Kepunge, Mombo",F,Bimbinie 1,Household Duties,01 Jan 1966
+112,160230440,"Kepunge, Waliton",F,Bimbinie 1,Household Duties,01 Jan 1972
+113,160224205,"Kera, Josphine",F,Bimbinie 1,Student,01 Jan 1989
+114,160224535,"Kera, Julie",F,Bimbinie 1,Subsistence Farmer,01 Jan 1984
+115,160224538,"Kera, Lendepame anna",F,Bimbinie 1,Household Duties,01 Jan 1942
+116,160230681,"Kera, Regina",F,Bimbinie 1,Household Duties,01 Jan 1971
+117,160224536,"Kera, Tana",F,Bimbinie 1,Subsistence Farmer,01 Jan 1986
+118,160224533,"Kera, Timbo maria",F,Bimbinie 1,Household Duties,01 Jan 1956
+119,160247244,"Kera ana, Weni",F,Bimbinie 1,Student,01 Jan 1982
+120,160230335,"Komes, Hellen",F,Bimbinie 1,Teacher,01 Jan 1976
+121,160440229,"Komes, Jamima",F,Bimbinie 1,Student,07 Feb 2004
+122,160197152,"Komes, Regina",F,Bimbinie 1,Subsistence Farmer,01 Jan 1966
+123,160223698,"Komes, Saron",F,Bimbinie 1,Student,01 Jan 1988
+124,160440139,"Kondi, Sharon",F,Bimbinie 1,Household Duties,19 Jun 1978
+125,160246833,"Kondowa, Anna",F,Bimbinie 1,Household Duties,01 Jan 1979
+126,160131467,"Kondowa, Merolyn",F,Bimbinie 1,Household Duties,07 Feb 1990
+127,160212501,"Kopel, Bepo",F,Bimbinie 1,Household Duties,01 Jan 1957
+128,160224836,"Kopi, Jerolin",F,Bimbinie 1,Household Duties,01 Jan 1973
+129,160246935,"Kopi, Marry",F,Bimbinie 1,Household Duties,01 Jan 1975
+130,160131454,"Kopono, Joice",F,Bimbinie 1,Household Duties,11 May 1989
+131,25086601,"Kopono, Samantha",F,Bimbinie 1,Student,06 Aug 1998
+132,160440161,"Korale, Elinda",F,Bimbinie 1,Subsistence Farmer,22 Apr 1997
+133,160246973,"Korale, Eto",F,Bimbinie 1,Student,01 Jan 1989
+134,160224001,"Korale, Kurupame",F,Bimbinie 1,Household Duties,01 Jan 1961
+135,160230848,"Korale, Nomi",F,Bimbinie 1,Teacher,01 Jan 1968
+136,160232115,"Korale, Nondi",F,Bimbinie 1,Household Duties,01 Jan 1958
+137,160223755,"Korale, Racheal",F,Bimbinie 1,Student,01 Jan 1990
+138,160246759,"Korale, Ronda",F,Bimbinie 1,Student,01 Jan 1990
+139,160207422,"Koromba, Kiniwi momo",F,Bimbinie 1,Household Duties,01 Jan 1966
+140,160215381,"Korowabo, Kuipeli",F,Bimbinie 1,Housegirl,01 Jan 1985
+141,160217873,"Korowabo, Nancy",F,Bimbinie 1,Housegirl,01 Jan 1980
+142,160246776,"Korowi, Beplin",F,Bimbinie 1,Household Duties,01 Jan 1985
+143,160218656,"Koyapo, Kuwin",F,Bimbinie 1,Housegirl,01 Jan 1984
+144,160224659,"Koyapo, Pilimbo",F,Bimbinie 1,Household Duties,01 Jan 1950
+145,160246294,"Kunuma, Marsha",F,Bimbinie 1,Student,01 Jan 1991
+146,160243995,"Kunuma, Misi",F,Bimbinie 1,Subsistence Farmer,01 Jan 1964
+147,160243989,"Kunuma, Shirly",F,Bimbinie 1,Student,01 Jan 1990
+148,160229397,"Lapatoi, Nino cathy",F,Bimbinie 1,Factory Worker,01 Jan 1970
+149,160210233,"Lapatoli, Kuwin",F,Bimbinie 1,Subsistence Farmer,01 Jan 1989
+150,160440217,"Lewa, Manisha",F,Bimbinie 1,Student,04 Feb 2004
+151,160215127,"Lewe, Kolopa",F,Bimbinie 1,Subsistence Farmer,01 Jan 1953
+152,160213088,"Lewe, Magret",F,Bimbinie 1,Subsistence Farmer,01 Jan 1976
+153,160131470,"Lewe, Martha",F,Bimbinie 1,Student,05 Jun 1997
+154,160215129,"Lewe, Miriam",F,Bimbinie 1,Subsistence Farmer,01 Jan 1982
+155,160245643,"Lewe, Polin",F,Bimbinie 1,Subsistence Farmer,01 Jan 1988
+156,160212844,"Liye, Aiye",F,Bimbinie 1,Subsistence Farmer,01 Jan 1976
+157,160210099,"Liye, Mombo",F,Bimbinie 1,Household Duties,01 Jan 1966
+158,160223671,"Liye, Ronda",F,Bimbinie 1,Student,01 Jan 1990
+159,160207089,"Loke, Lilly",F,Bimbinie 1,Student,01 Jan 1986
+160,160207091,"Loke, Lineth",F,Bimbinie 1,Student,01 Jan 1988
+161,160207426,"Loke, Mombo",F,Bimbinie 1,Household Duties,01 Jan 1962
+162,160215379,"Mali, Elevina",F,Bimbinie 1,Household Duties,01 Jan 1968
+163,160223739,"Mali, Emolin",F,Bimbinie 1,Student,01 Jan 1990
+164,160245647,"Maria, Pora",F,Bimbinie 1,Household Duties,01 Jan 1980
+165,160201825,"Markoroli, Enjela",F,Bimbinie 1,Household Duties,01 Jan 1977
+166,160224215,"Marowa, Rebecca",F,Bimbinie 1,Household Duties,01 Jan 1970
+167,160131457,"Martin, Marlyn",F,Bimbinie 1,Subsistence Farmer,04 Feb 1993
+168,160440204,"Martin, Pakim",F,Bimbinie 1,Subsistence Farmer,29 Sep 1995
+169,160131456,"Martin, Sheron",F,Bimbinie 1,Subsistence Farmer,02 Jan 1990
+170,160217721,"Marupe, Korowabo",F,Bimbinie 1,Household Duties,01 Jan 1950
+171,160224788,"Marupe, Nendo",F,Bimbinie 1,Household Duties,01 Jan 1943
+172,160224361,"Mendeli, Margalina",F,Bimbinie 1,Student,01 Jan 1985
+173,160224524,"Mendeli, Marry",F,Bimbinie 1,Student,01 Jan 1982
+174,160224523,"Mendeli, Waruwame",F,Bimbinie 1,Household Duties,01 Jan 1952
+175,160246921,"Mendepo, Ana",F,Bimbinie 1,Household Duties,01 Jan 1938
+176,160440214,"Mendepo, Mali",F,Bimbinie 1,Student,28 Apr 2004
+177,160244681,"Mendepo, Melendi",F,Bimbinie 1,Student,01 Jan 1994
+178,160131476,"Mendepo, Melisha",F,Bimbinie 1,Student,03 Jul 1998
+179,160230844,"Mendepo, Wei",F,Bimbinie 1,Household Duties,01 Jan 1940
+180,160440137,"Micheal, Lenita",F,Bimbinie 1,Unemployed,11 Aug 1999
+181,160245651,"Micheal, Mariam",F,Bimbinie 1,Household Duties,01 Jan 1965
+182,160440134,"Mona, Malshala",F,Bimbinie 1,Student,16 Sep 2003
+183,160224355,"Mona, Maria",F,Bimbinie 1,Household Duties,01 Jan 1979
+184,160218714,"Mona, Tawa",F,Bimbinie 1,Household Duties,01 Jan 1981
+185,160219182,"Mondo, Lillie",F,Bimbinie 1,Student,01 Jan 1986
+186,160220387,"Mondo, Mandino",F,Bimbinie 1,Household Duties,01 Jan 1966
+187,160230837,"Mondo, Marry",F,Bimbinie 1,Household Duties,01 Jan 1986
+188,160131492,"Moses, Dorine",F,Bimbinie 1,Subsistence Farmer,08 Feb 1994
+189,160246972,"Moses, Jenifer",F,Bimbinie 1,Teacher,01 Jan 1951
+190,160229773,"Moses, Jullie",F,Bimbinie 1,Household Duties,01 Jan 1972
+191,160215790,"Moses, Maria",F,Bimbinie 1,Household Duties,01 Jan 1974
+192,160440187,"Moses, Racheal",F,Bimbinie 1,Student,10 Apr 2004
+193,160213970,"Muka, Cathy",F,Bimbinie 1,Subsistence Farmer,01 Jan 1983
+194,160131494,"Muka, Dovero",F,Bimbinie 1,Student,04 Feb 1995
+195,160213958,"Muka, Monica",F,Bimbinie 1,Subsistence Farmer,01 Jan 1985
+196,160213082,"Muka, Natonda",F,Bimbinie 1,Household Duties,01 Jan 1960
+197,160131495,"Muka, Veronicah",F,Bimbinie 1,Student,07 Feb 1997
+198,160131497,"Namba, Enjolyn",F,Bimbinie 1,Student,03 Aug 1998
+199,160440182,"Namba, Joycila",F,Bimbinie 1,Student,23 Oct 2003
+200,160224647,"Namba, Marglin",F,Bimbinie 1,Subsistence Farmer,01 Jan 1986
+201,160224648,"Namba, Rona",F,Bimbinie 1,Student,01 Jan 1988
+202,160224645,"Namba, Rotto morine",F,Bimbinie 1,Household Duties,01 Jan 1952
+203,160224640,"Napa, Tangaiye jacob",F,Bimbinie 1,Household Duties,01 Jan 1967
+204,25086611,"Nelson, Fairley",F,Bimbinie 1,Student,01 Feb 2001
+205,160245662,"Nelson, Liveta",F,Bimbinie 1,Student,01 Jan 1993
+206,160131501,"Nelson, Sendy",F,Bimbinie 1,Subsistence Farmer,06 Jan 1993
+207,160215149,"Nema, Manu",F,Bimbinie 1,Student,01 Jan 1990
+208,160229381,"Nendipo, Maria",F,Bimbinie 1,Household Duties,01 Jan 1971
+209,160225138,"Nendipo, Sam",F,Bimbinie 1,Household Duties,01 Jan 1982
+210,160224593,"Nimbo, Wali",F,Bimbinie 1,Household Duties,01 Jan 1972
+211,160131475,"Noime, Anitha",F,Bimbinie 1,Student,10 Nov 1997
+212,160230333,"Noime, Bali",F,Bimbinie 1,Household Duties,01 Jan 1960
+213,160223683,"Noinge, Ali",F,Bimbinie 1,Household Duties,01 Jan 1944
+214,160222382,"Noinge, Dorothy",F,Bimbinie 1,Housegirl,01 Jan 1984
+215,160222380,"Noinge, Jullie",F,Bimbinie 1,Household Duties,01 Jan 1968
+216,160223701,"Noinge, Kondi",F,Bimbinie 1,Subsistence Farmer,01 Jan 1973
+217,160440133,"Noinge, Lily",F,Bimbinie 1,Student,17 Mar 2000
+218,160246783,"Noinge, Lindia",F,Bimbinie 1,Student,01 Jan 1993
+219,160217603,"Noinge, Sina",F,Bimbinie 1,Household Duties,01 Jan 1968
+220,25086615,"Nokop, Kelo",F,Bimbinie 1,Student,01 Apr 2000
+221,160207102,"Nokop, Mopune",F,Bimbinie 1,Student,01 Jan 1982
+222,160207101,"Nokop, Nancy",F,Bimbinie 1,Subsistence Farmer,01 Jan 1980
+223,160211163,"Nokop, Regina",F,Bimbinie 1,Student,01 Jan 1986
+224,160207098,"Nokop, Tangele",F,Bimbinie 1,Household Duties,01 Jan 1966
+225,160246966,"Noma, Linda",F,Bimbinie 1,Household Duties,01 Jan 1950
+226,160223845,"Noma, Ropini",F,Bimbinie 1,Teacher,01 Jan 1982
+227,160246771,"Nombea, Heing",F,Bimbinie 1,Household Duties,01 Jan 1992
+228,160246772,"Nombea, Tosima",F,Bimbinie 1,Student,01 Jan 1994
+229,160223691,"Nombeya, Lucy",F,Bimbinie 1,Subsistence Farmer,01 Jan 1976
+230,160229757,"Nombiya, Lena",F,Bimbinie 1,Household Duties,01 Jan 1990
+231,160440200,"Norman, Noami",F,Bimbinie 1,Subsistence Farmer,22 Aug 2000
+232,25086617,"Olgai, Delaila",F,Bimbinie 1,Student,01 Feb 2003
+233,160244550,"Olgai, Kumbiye",F,Bimbinie 1,Household Duties,01 Jan 1976
+234,160440194,"Olgai, Lin",F,Bimbinie 1,Subsistence Farmer,22 Aug 1993
+235,160230680,"Olgai, Merolean",F,Bimbinie 1,Health Officer,01 Jan 1987
+236,160226960,"Ombele, Aita",F,Bimbinie 1,Student,01 Jan 1990
+237,160201307,"Ombele, Hellen",F,Bimbinie 1,Student,01 Jan 1985
+238,160207272,"Ombele, Jenny",F,Bimbinie 1,Subsistence Farmer,01 Jan 1962
+239,160131474,"Ombele, Joice",F,Bimbinie 1,Student,02 Aug 1997
+240,160201302,"Ombele, Julien",F,Bimbinie 1,Subsistence Farmer,01 Jan 1976
+241,160207271,"Ombele, Kandipe",F,Bimbinie 1,Subsistence Farmer,01 Jan 1952
+242,160198948,"Ombele, Mellen",F,Bimbinie 1,Student,01 Jan 1985
+243,160246667,"Ombele, Molon",F,Bimbinie 1,Household Duties,01 Jan 1980
+244,160203630,"Ombele, Pelgaiye",F,Bimbinie 1,Subsistence Farmer,01 Jan 1970
+245,160197310,"Ombele, Sera",F,Bimbinie 1,Student,01 Jan 1989
+246,160198991,"Ombele, Serolin",F,Bimbinie 1,Student,01 Jan 1988
+247,160201301,"Ombele, Temo",F,Bimbinie 1,Subsistence Farmer,01 Jan 1973
+248,160213344,"Onne, Soli",F,Bimbinie 1,Student,01 Jan 1990
+249,160215689,"Onne, Susen",F,Bimbinie 1,Household Duties,01 Jan 1967
+250,160131455,"Orum, Monica",F,Bimbinie 1,Subsistence Farmer,03 Feb 1991
+251,160224356,"Paru, Mendepo ailembo",F,Bimbinie 1,Household Duties,01 Jan 1942
+252,25086619,"Patrus, Slsie",F,Bimbinie 1,Student,04 Feb 2001
+253,160244676,"Paul, Jenifa",F,Bimbinie 1,Household Duties,01 Jan 1987
+254,160131451,"Paul, Lilian",F,Bimbinie 1,Household Duties,12 Mar 1992
+255,160246432,"Pawa, Cathy",F,Bimbinie 1,Household Duties,01 Jan 1978
+256,160246672,"Pawa, Wiruambo",F,Bimbinie 1,Household Duties,01 Jan 1980
+257,160440201,"Paya, Jacklyn",F,Bimbinie 1,Subsistence Farmer,16 Dec 1999
+258,160223750,"Pembo, Levina",F,Bimbinie 1,Student,01 Jan 1990
+259,160230292,"Pembo, Rose",F,Bimbinie 1,Student,01 Jan 1990
+260,160440207,"Pembo, Serah",F,Bimbinie 1,Subsistence Farmer,11 Aug 2000
+261,160247075,"Pembo, Tangaiye",F,Bimbinie 1,Household Duties,01 Jan 1965
+262,160229867,"Pene, Roselin",F,Bimbinie 1,Household Duties,01 Jan 1981
+263,160234152,"Penga, Marry",F,Bimbinie 1,Household Duties,01 Jan 1984
+264,160232110,"Pera, Lennet",F,Bimbinie 1,Household Duties,01 Jan 1979
+265,160211270,"Peter, Susen",F,Bimbinie 1,Nurse,01 Jan 1972
+266,160131480,"Peter, Vicky",F,Bimbinie 1,Student,16 Mar 1997
+267,160246425,"Peter, Wambi",F,Bimbinie 1,Household Duties,01 Jan 1969
+268,160440205,"Peter pora, Vannima",F,Bimbinie 1,Student,07 Feb 2004
+269,160224606,"Peya, Morena",F,Bimbinie 1,Household Duties,01 Jan 1978
+270,160440143,"Peya, Polly",F,Bimbinie 1,Student,07 Mar 2004
+271,160223851,"Peyandi, Josphine",F,Bimbinie 1,Student,01 Jan 1990
+272,160224240,"Peyandi, Marry",F,Bimbinie 1,Student,01 Jan 1985
+273,160224067,"Peyandi, Marta",F,Bimbinie 1,Student,01 Jan 1986
+274,160224071,"Peyandi, Petty",F,Bimbinie 1,Student,01 Jan 1982
+275,160246427,"Pilimbo, Mata",F,Bimbinie 1,Household Duties,01 Jan 1950
+276,160223647,"Pilimbo, Nateli",F,Bimbinie 1,Housegirl,01 Jan 1981
+277,160222002,"Pilimbo, Terum",F,Bimbinie 1,Student,01 Jan 1986
+278,160211005,"Pilipo, Huri",F,Bimbinie 1,Subsistence Farmer,01 Jan 1947
+279,160211017,"Pilipo, Mellen",F,Bimbinie 1,Subsistence Farmer,01 Jan 1982
+280,160212958,"Pilipo, Monica",F,Bimbinie 1,Subsistence Farmer,01 Jan 1967
+281,160211010,"Pilipo, Pealyne",F,Bimbinie 1,Subsistence Farmer,01 Jan 1974
+282,160232111,"Pone, Dorothy",F,Bimbinie 1,Household Duties,01 Jan 1982
+283,160232290,"Pone, Temo",F,Bimbinie 1,Household Duties,01 Jan 1954
+284,160224784,"Pora, Betty",F,Bimbinie 1,Housegirl,01 Jan 1983
+285,160229805,"Pora, Dolli",F,Bimbinie 1,Student,01 Jan 1990
+286,160212939,"Pora, Dorethy",F,Bimbinie 1,Student,01 Jan 1990
+287,160219185,"Pora, Emanogo",F,Bimbinie 1,Housegirl,01 Jan 1988
+288,160214972,"Pora, Esta",F,Bimbinie 1,Student,01 Jan 1985
+289,160246968,"Pora, Jenet",F,Bimbinie 1,Household Duties,01 Jan 1973
+290,160224834,"Pora, Jenny",F,Bimbinie 1,Housegirl,01 Jan 1983
+291,160223650,"Pora, Josephin",F,Bimbinie 1,Household Duties,01 Jan 1968
+292,160213086,"Pora, Julien",F,Bimbinie 1,Student,01 Jan 1987
+293,160224998,"Pora, Komongirl",F,Bimbinie 1,Household Duties,01 Jan 1968
+294,160225016,"Pora, Kupune",F,Bimbinie 1,Household Duties,01 Jan 1966
+295,160225023,"Pora, Mukundi",F,Bimbinie 1,Household Duties,01 Jan 1941
+296,160215204,"Pora, Pene",F,Bimbinie 1,Subsistence Farmer,01 Jan 1964
+297,160215201,"Pora, Pundaino",F,Bimbinie 1,Subsistence Farmer,01 Jan 1956
+298,25086620,"Pora, Selo",F,Bimbinie 1,Student,11 Jan 2004
+299,160131463,"Pora, Stephanie",F,Bimbinie 1,Student,04 Jun 1998
+300,160224941,"Pora, Stephen",F,Bimbinie 1,Student,01 Jan 1990
+301,160220381,"Poya, Kentil",F,Bimbinie 1,Household Duties,01 Jan 1966
+302,160246420,"Punde, Freida",F,Bimbinie 1,Student,01 Jan 1994
+303,160224663,"Punge, Cathy",F,Bimbinie 1,Housegirl,01 Jan 1984
+304,160224626,"Punge, Linnet",F,Bimbinie 1,Housegirl,01 Jan 1975
+305,160224628,"Punge, Ruth",F,Bimbinie 1,Student,01 Jan 1979
+306,160247153,"Puru, Chimbuambo",F,Bimbinie 1,Household Duties,01 Jan 1978
+307,160440176,"Puru, Omega",F,Bimbinie 1,Student,28 Mar 2004
+308,160213972,"Puru, Sharon",F,Bimbinie 1,Household Duties,01 Jan 1977
+309,160245658,"Puwi, Engambo",F,Bimbinie 1,Subsistence Farmer,01 Jan 1983
+310,160440160,"Racheal, Ismael",F,Bimbinie 1,Household Duties,05 May 1993
+311,160234150,"Remcy, Piona",F,Bimbinie 1,Teacher,01 Jan 1976
+312,160245660,"Remsy, Juvel",F,Bimbinie 1,Student,01 Jan 1991
+313,160440196,"Rex, Roselyn",F,Bimbinie 1,Household Duties,03 Jan 1995
+314,160131491,"Rex, Ruth",F,Bimbinie 1,Subsistence Farmer,16 Mar 1997
+315,160247231,"Roapa, Teni",F,Bimbinie 1,Household Duties,01 Jan 1986
+316,160245645,"Robby, Mariam",F,Bimbinie 1,Household Duties,01 Jan 1972
+317,160131458,"Robert, Belinda",F,Bimbinie 1,Household Duties,10 Apr 1989
+318,160230302,"Robin, Flora",F,Bimbinie 1,Student,01 Jan 1979
+319,160230307,"Robin, Lean",F,Bimbinie 1,Student,01 Jan 1983
+320,160230846,"Robin, Nathan",F,Bimbinie 1,Student,01 Jan 1987
+321,160243988,"Ronald opa, Linda",F,Bimbinie 1,Household Duties,01 Jan 1975
+322,160246434,"Ronald opa, Malina",F,Bimbinie 1,Student,01 Jan 1990
+323,160246671,"Ronald opa, Stepeny",F,Bimbinie 1,Household Duties,01 Jan 1989
+324,160244680,"Samuel, Freida",F,Bimbinie 1,Teacher,01 Jan 1980
+325,25086623,"Simon, Joice",F,Bimbinie 1,Student,01 Mar 1999
+326,160217729,"Simon, Stela",F,Bimbinie 1,Household Duties,01 Jan 1976
+327,160440151,"Stanley, Elis",F,Bimbinie 1,Household Duties,15 Aug 1992
+328,160440152,"Stanley, Susan",F,Bimbinie 1,Household Duties,27 Oct 1993
+329,160222385,"Stephen, Miti",F,Bimbinie 1,Household Duties,01 Jan 1966
+330,160211022,"Stephen, Rona",F,Bimbinie 1,Student,01 Jan 1990
+331,160440174,"Tana, Jacklyn",F,Bimbinie 1,Household Duties,10 Nov 1993
+332,160247169,"Taroiye, Taroiyeambo",F,Bimbinie 1,Household Duties,01 Jan 1939
+333,160224353,"Tawa, Mellin",F,Bimbinie 1,Student,01 Jan 1988
+334,160224200,"Tawa, Mondi",F,Bimbinie 1,Household Duties,01 Jan 1956
+335,160226474,"Tawa, Regina",F,Bimbinie 1,Student,01 Jan 1983
+336,160246773,"Tendako, Ruth",F,Bimbinie 1,Household Duties,01 Jan 1971
+337,160224068,"Tendeli, Betty",F,Bimbinie 1,Subsistence Farmer,01 Jan 1983
+338,160224153,"Tendeli, Puke judy",F,Bimbinie 1,Household Duties,01 Jan 1977
+339,160246961,"Tendeli, Yamuno",F,Bimbinie 1,Household Duties,01 Jan 1939
+340,160246970,"Tenis, Freida",F,Bimbinie 1,Student,01 Jan 1990
+341,160211154,"Tenis, Kelly",F,Bimbinie 1,Household Duties,01 Jan 1982
+342,160246969,"Tenis, Neino",F,Bimbinie 1,Household Duties,01 Jan 1976
+343,160131460,"Tenis, Regina",F,Bimbinie 1,Subsistence Farmer,11 Feb 1991
+344,160440178,"Tens, Bless",F,Bimbinie 1,Student,13 Apr 2004
+345,160440177,"Tens, Mariam",F,Bimbinie 1,Student,21 Feb 2001
+346,160224651,"Tens, Ruth",F,Bimbinie 1,Household Duties,01 Jan 1969
+347,160223752,"Tens, Sheron",F,Bimbinie 1,Student,01 Jan 1990
+348,160440206,"Terema nobert, Duff",F,Bimbinie 1,Subsistence Farmer,12 Aug 1995
+349,160213097,"Terry, Cathy",F,Bimbinie 1,Subsistence Farmer,01 Jan 1980
+350,160440240,"Terry, Jayen",F,Bimbinie 1,Student,05 Feb 2001
+351,160230305,"Terry, Linei",F,Bimbinie 1,Household Duties,01 Jan 1979
+352,25086625,"Thomson, Meggi",F,Bimbinie 1,Household Duties,02 Jun 1992
+353,160244674,"Timothy, Kewaambo",F,Bimbinie 1,Household Duties,01 Jan 1989
+354,25086627,"Toea, Belinda",F,Bimbinie 1,Unemployed,01 Feb 1993
+355,160440195,"Toke, Jamicha",F,Bimbinie 1,Subsistence Farmer,15 May 1997
+356,160440158,"Tom, Amenda",F,Bimbinie 1,Subsistence Farmer,06 Mar 2002
+357,160202519,"Tom, Esta",F,Bimbinie 1,Student,01 Jan 1990
+358,160246974,"Tom, Kewambo",F,Bimbinie 1,Household Duties,01 Jan 1985
+359,160210264,"Tom, Yawini",F,Bimbinie 1,Household Duties,01 Jan 1970
+360,160224234,"Tomba, Freda",F,Bimbinie 1,Student,01 Jan 2000
+361,160224238,"Tomba, Palakome",F,Bimbinie 1,Household Duties,01 Jan 1974
+362,160224225,"Tomba, Sarah",F,Bimbinie 1,Household Duties,01 Jan 1956
+363,160223748,"Tomba, Sheron",F,Bimbinie 1,Student,01 Jan 1990
+364,160224544,"Tomba, Tome",F,Bimbinie 1,Household Duties,01 Jan 1964
+365,160131487,"Tomba, Yuwini",F,Bimbinie 1,Student,18 Feb 1997
+366,160224633,"Toropo, Mombo",F,Bimbinie 1,Household Duties,01 Jan 1948
+367,160207374,"Undi, Llineth    soty",F,Bimbinie 1,Student,01 Jan 1988
+368,160207557,"Undi, Milame",F,Bimbinie 1,Household Duties,01 Jan 1968
+369,160232112,"Waitolo, Korea",F,Bimbinie 1,Household Duties,01 Jan 1978
+370,160218094,"Wakena, Meriam",F,Bimbinie 1,Household Duties,01 Jan 1964
+371,160229301,"Walambo, Cathy",F,Bimbinie 1,Household Duties,01 Jan 1966
+372,160216176,"Walumeiye, Mombo",F,Bimbinie 1,Household Duties,01 Jan 1958
+373,160215136,"Walumeiye, Momo",F,Bimbinie 1,Household Duties,01 Jan 1967
+374,160215762,"Walumeiye, Roselyn",F,Bimbinie 1,Student,01 Jan 1983
+375,160215132,"Walumeiye, Sarah",F,Bimbinie 1,Subsistence Farmer,01 Jan 1987
+376,160216173,"Walumeiye, Verro",F,Bimbinie 1,Student,01 Jan 1978
+377,25086628,"Walumelye, Brithney",F,Bimbinie 1,Student,03 Dec 2001
+378,25086629,"Walumiye, Molly",F,Bimbinie 1,Subsistence Farmer,01 Feb 2001
+379,160246287,"Wanep, Martha",F,Bimbinie 1,Student,01 Jan 1993
+380,160246421,"Wanep, Pangom",F,Bimbinie 1,Household Duties,01 Jan 1958
+381,160246288,"Wanep, Pokeame",F,Bimbinie 1,Household Duties,01 Jan 1959
+382,160218705,"Wanpis, Esta",F,Bimbinie 1,Household Duties,01 Jan 1967
+383,160229288,"Wanpis, Roselen",F,Bimbinie 1,Household Duties,01 Jan 1980
+384,25086630,"Wanpis, Sandra",F,Bimbinie 1,Student,03 Mar 2001
+385,160246422,"Warea, Joice",F,Bimbinie 1,Household Duties,01 Jan 1992
+386,25086631,"Warea, Jowena",F,Bimbinie 1,Student,02 Mar 2000
+387,160131461,"Warea, Noma",F,Bimbinie 1,Household Duties,26 Aug 1985
+388,160230441,"Wareya, Geita",F,Bimbinie 1,Household Duties,01 Jan 1970
+389,160197311,"Waru, Lopale",F,Bimbinie 1,Subsistence Farmer,01 Jan 1950
+390,160226961,"Waru, Oiye",F,Bimbinie 1,Student,01 Jan 1990
+391,160197318,"Waru, Puiye",F,Bimbinie 1,Student,01 Jan 1987
+392,160440231,"Wasis, Semila",F,Bimbinie 1,Student,07 Sep 2001
+393,160131503,"Watil, Regina",F,Bimbinie 1,Subsistence Farmer,12 Apr 1996
+394,160440185,"Watoli, Alfina",F,Bimbinie 1,Student,20 Nov 1998
+395,160224226,"Watoli, Alice",F,Bimbinie 1,Household Duties,01 Jan 1969
+396,160223677,"Watoli, Staveny",F,Bimbinie 1,Student,01 Jan 1990
+397,160440142,"Wea, Lavina",F,Bimbinie 1,Student,08 May 2001
+398,160221998,"Wea, Lusmeri",F,Bimbinie 1,Student,01 Jan 1985
+399,160222290,"Wea, Punde",F,Bimbinie 1,Household Duties,01 Jan 1954
+400,160218092,"Wea, Tupaboie",F,Bimbinie 1,Student,01 Jan 1989
+401,160215380,"Weiye, Cathy",F,Bimbinie 1,Household Duties,01 Jan 1976
+402,25086634,"Weiye, Fioa",F,Bimbinie 1,Student,08 Apr 2004
+403,160223740,"Weiye, Nami",F,Bimbinie 1,Student,01 Jan 1990
+404,160230329,"Wela, Jennet",F,Bimbinie 1,Household Duties,01 Jan 1980
+405,25086637,"Welail, Joice",F,Bimbinie 1,Student,01 Feb 2004
+406,160224681,"Welalie, Evelyn",F,Bimbinie 1,Household Duties,01 Jan 1972
+407,160229870,"Willi, Maplin",F,Bimbinie 1,Household Duties,01 Jan 1978
+408,160229807,"William, Mary",F,Bimbinie 1,Student,01 Jan 1979
+409,160440208,"Willie, Lessi",F,Bimbinie 1,Student,04 Apr 2004
+410,160211018,"Win, Anny",F,Bimbinie 1,Household Duties,01 Jan 1971
+411,160246760,"Win, Nancy",F,Bimbinie 1,Household Duties,01 Jan 1976
+412,160223839,"Windi, Delta",F,Bimbinie 1,Household Duties,01 Jan 1979
+413,160247234,"Windi, Jenny",F,Bimbinie 1,Household Duties,01 Jan 1980
+414,160210685,"Yakili, Bepi duly",F,Bimbinie 1,Household Duties,01 Jan 1967
+415,160245644,"Yana, Negi",F,Bimbinie 1,Household Duties,01 Jan 1978
+416,160224595,"Yana, Turi rubame",F,Bimbinie 1,Household Duties,01 Jan 1942
+417,160224540,"Yombo, Kepambo",F,Bimbinie 1,Household Duties,01 Jan 1938
+418,160230439,"Yombo, Mary",F,Bimbinie 1,Student,01 Jan 1932
+419,160224527,"Yombo, Oki mellen",F,Bimbinie 1,Subsistence Farmer,01 Jan 1971
+420,160230789,"Yombo, Rose",F,Bimbinie 1,Student,01 Jan 1978
+421,25086638,"Yombo, Stacy",F,Bimbinie 1,Student,28 Jan 2004
+422,160229804,"Yuwanis, Leneta",F,Bimbinie 1,Student,01 Jan 1990
+423,160230310,"Yuwanis, Wambi",F,Bimbinie 1,Household Duties,01 Jan 1974
+424,160211099,"Aipa, Francis molgai",M,Bimbinie 1,Subsistence Farmer,01 Jan 1977
+425,160226959,"Aipa, James",M,Bimbinie 1,Student,01 Jan 1990
+426,160210643,"Aipa, Kalo",M,Bimbinie 1,Student,01 Jan 1984
+427,160131469,"Aipa, Tiki",M,Bimbinie 1,Student,06 Aug 1998
+428,160229300,"Aipa, Wela",M,Bimbinie 1,Driver,01 Jan 1970
+429,160207280,"Aiya, Makoroli   mike",M,Bimbinie 1,Subsistence Farmer,01 Jan 1972
+430,160213323,"Aiya, Simon",M,Bimbinie 1,Student,01 Jan 1986
+431,25086575,"Akele, Edward",M,Bimbinie 1,Subsistence Farmer,10 Aug 1984
+432,160243999,"Akele, Yakpos",M,Bimbinie 1,Student,01 Jan 1990
+433,160223673,"Altu, Clency",M,Bimbinie 1,Student,01 Jan 1990
+434,160247088,"Altu, Emamuel",M,Bimbinie 1,Student,01 Jan 1993
+435,160247176,"Altu, Miyemo",M,Bimbinie 1,Subsistence Farmer,01 Jan 1950
+436,160224358,"Altu, Tirimo",M,Bimbinie 1,Student,01 Jan 1988
+437,160224219,"Andi, Kandi moses",M,Bimbinie 1,Subsistence Farmer,01 Jan 1978
+438,160440181,"Andi, Matom",M,Bimbinie 1,Student,28 Apr 2003
+439,160440180,"Andi, Seki",M,Bimbinie 1,Student,28 Mar 2000
+440,160224744,"Andi, Sowi",M,Bimbinie 1,Subsistence Farmer,01 Jan 1986
+441,160210656,"Bali, Herot",M,Bimbinie 1,Student,01 Jan 1982
+442,25086579,"Bali, Las",M,Bimbinie 1,Student,01 Jan 2004
+443,160131465,"Bali, Nicky",M,Bimbinie 1,Student,15 Oct 1996
+444,160210640,"Bali, Paya",M,Bimbinie 1,Student,01 Jan 1988
+445,160226958,"Bali, Toya",M,Bimbinie 1,Student,01 Jan 1990
+446,160210117,"Bepi, Andrew",M,Bimbinie 1,Student,01 Jan 1988
+447,160440164,"Bepi, Noel",M,Bimbinie 1,Subsistence Farmer,06 Apr 1998
+448,160440165,"Bepi, Norman",M,Bimbinie 1,Subsistence Farmer,24 Dec 2000
+449,160204661,"Bepi, Simon",M,Bimbinie 1,Student,01 Jan 1986
+450,160197155,"Bonne, Akele",M,Bimbinie 1,Subsistence Farmer,01 Jan 1962
+451,160197160,"Bonne, Bali",M,Bimbinie 1,Subsistence Farmer,01 Jan 1966
+452,160230293,"Bonne, Kapul",M,Bimbinie 1,Household Duties,01 Jan 1969
+453,160212943,"Bonne, Lewe",M,Bimbinie 1,Pastor,01 Jan 1950
+454,160230299,"Bonne, Robin",M,Bimbinie 1,Teacher,01 Jan 1959
+455,160229781,"Bonne, Welambo",M,Bimbinie 1,Subsistence Farmer,01 Jan 1988
+456,160229769,"Bonne, Yana",M,Bimbinie 1,Driver,01 Jan 1960
+457,160511138,"Bonne pora, Martin",M,Bimbinie 1,Teacher,13 Apr 1990
+458,160440219,"Bun, Junior",M,Bimbinie 1,Student,09 Feb 2003
+459,25087534,"Bun, Newman",M,Bimbinie 1,Student,01 Feb 2003
+460,25086583,"Bun, Steven",M,Bimbinie 1,Student,11 Feb 2002
+461,160440221,"Bun, Yaki",M,Bimbinie 1,Student,08 Jan 2003
+462,160245663,"Eke, Abraham",M,Bimbinie 1,Student,01 Jan 1986
+463,160244671,"Eke, Aisack",M,Bimbinie 1,Student,01 Jan 1994
+464,160245659,"Eke, Amos",M,Bimbinie 1,Student,01 Jan 1980
+465,160245655,"Eke, Daniel",M,Bimbinie 1,Student,01 Jan 1984
+466,160244554,"Eke, Dolly",M,Bimbinie 1,Student,01 Jan 1990
+467,160244553,"Eke, Peter",M,Bimbinie 1,Subsistence Farmer,01 Jan 1982
+468,25086584,"Enge, Jeff",M,Bimbinie 1,Student,04 Feb 2002
+469,160229866,"Garu, Akena",M,Bimbinie 1,Driver,01 Jan 1976
+470,160210238,"Garu, Lombil",M,Bimbinie 1,Subsistence Farmer,01 Jan 1975
+471,160230320,"Garu, Teki",M,Bimbinie 1,Student,01 Jan 1990
+472,160230791,"Garu, Wini",M,Bimbinie 1,Student,01 Jan 1986
+473,160440171,"Gloraiye, Albert",M,Bimbinie 1,Student,10 Jan 2003
+474,160207385,"Goraiye, Sam       kina",M,Bimbinie 1,Subsistence Farmer,01 Jan 1975
+475,160230303,"Goraiye, Yuwanis",M,Bimbinie 1,Subsistence Farmer,01 Jan 1974
+476,160246300,"Heron, Kunuma",M,Bimbinie 1,Subsistence Farmer,01 Jan 1980
+477,25086589,"Issiah, Goraiye",M,Bimbinie 1,Student,01 Jan 2002
+478,160440193,"Jacob, Jenai",M,Bimbinie 1,Student,14 Mar 2004
+479,25086591,"Jacob, Philimon",M,Bimbinie 1,Student,14 Mar 2004
+480,25086592,"Jacob, Semithorn",M,Bimbinie 1,Student,01 Mar 2002
+481,160232114,"James, John",M,Bimbinie 1,Student,01 Jan 1976
+482,160213954,"James, Piyele",M,Bimbinie 1,Student,21 Feb 1984
+483,160131498,"James, Saki",M,Bimbinie 1,Student,08 Mar 1997
+484,160440211,"Jessy, Douglas",M,Bimbinie 1,Student,25 Jan 2000
+485,160440210,"Jessy, Miri",M,Bimbinie 1,Student,16 Jun 2001
+486,160440135,"Jonah, Robby",M,Bimbinie 1,Self Employed,18 Jun 1983
+487,160440138,"Jonathab, Rimbu",M,Bimbinie 1,Subsistence Farmer,29 Nov 1994
+488,160440167,"Joseph, Joseph pino",M,Bimbinie 1,Student,16 Feb 2004
+489,25086595,"Joseph, Micah",M,Bimbinie 1,Student,04 Jun 2003
+490,160230437,"Kaipo, Kiniwe",M,Bimbinie 1,Subsistence Farmer,01 Jan 1954
+491,160211142,"Kaipo, Kolandi     kelly",M,Bimbinie 1,Subsistence Farmer,01 Jan 1969
+492,160207425,"Kaipo, Loke luke",M,Bimbinie 1,Subsistence Farmer,01 Jan 1959
+493,160207424,"Kaipo, Nindipo",M,Bimbinie 1,Student,01 Jan 1980
+494,25086597,"Kapul, Clifford",M,Bimbinie 1,Student,28 Apr 2004
+495,160440215,"Kapul, Manu",M,Bimbinie 1,Student,27 Feb 2004
+496,25086598,"Kapul, Nathan",M,Bimbinie 1,Student,04 Jul 2003
+497,160224594,"Kawa, Turi tapondoli",M,Bimbinie 1,Subsistence Farmer,01 Jan 1938
+498,160440168,"Kelly, Alan",M,Bimbinie 1,Student,29 Jan 2004
+499,25086599,"Kelly, Kevin",M,Bimbinie 1,Student,02 Apr 2001
+500,160440148,"Kemapu, Samson",M,Bimbinie 1,Teacher,12 Sep 1994
+501,160440172,"Keponge, Jeromy",M,Bimbinie 1,Student,11 Feb 2004
+502,160440173,"Keponge, Joel",M,Bimbinie 1,Subsistence Farmer,07 May 1996
+503,160246762,"Kepu, Moses",M,Bimbinie 1,Subsistence Farmer,01 Jan 1990
+504,160224204,"Kera, Glaime",M,Bimbinie 1,Student,01 Jan 1988
+505,160212547,"Kera, Ismael",M,Bimbinie 1,Student,01 Jan 1990
+506,160224201,"Kera, Olgai matias",M,Bimbinie 1,Subsistence Farmer,01 Jan 1983
+507,160207377,"Kera, Tomano      tom",M,Bimbinie 1,Subsistence Farmer,01 Jan 1969
+508,160247087,"Kera tomano, Berned",M,Bimbinie 1,Student,01 Jan 1993
+509,160246938,"Kerendaie, Kumbe oli",M,Bimbinie 1,Subsistence Farmer,01 Jan 1950
+510,160246971,"Kerendaie, Pointe",M,Bimbinie 1,Subsistence Farmer,01 Jan 1987
+511,160215143,"Kolema, Charlie",M,Bimbinie 1,Mechanic,01 Jan 1967
+512,160215138,"Kolema, Pembo",M,Bimbinie 1,Subsistence Farmer,01 Jan 1963
+513,160223696,"Komes, David",M,Bimbinie 1,Mechanic,01 Jan 1986
+514,160440227,"Komes, Immanuel",M,Bimbinie 1,Student,07 Feb 2004
+515,160246285,"Komes, Saki",M,Bimbinie 1,Student,01 Jan 1994
+516,160131502,"Kopel, Inoch",M,Bimbinie 1,Student,08 Apr 1997
+517,160220368,"Kopele, Jacob",M,Bimbinie 1,Student,01 Jan 1989
+518,160220365,"Kopele, Michael",M,Bimbinie 1,Subsistence Farmer,01 Jan 1980
+519,160220367,"Kopele, Nelson",M,Bimbinie 1,Student,01 Jan 1986
+520,160220379,"Kopele, Titus",M,Bimbinie 1,Student,01 Jan 1988
+521,160223841,"Korale, Simon",M,Bimbinie 1,Student,01 Jan 1987
+522,160230795,"Koromba, Guli",M,Bimbinie 1,Subsistence Farmer,01 Jan 1970
+523,160216460,"Korowabo, Billy",M,Bimbinie 1,Student,01 Jan 1990
+524,25086602,"Kote, Cain",M,Bimbinie 1,Student,01 Feb 2000
+525,160215770,"Kote, Kelvin",M,Bimbinie 1,Student,01 Jan 1990
+526,25086603,"Kote, Kennedy",M,Bimbinie 1,Student,01 Feb 2001
+527,160222387,"Kote, Kenneth",M,Bimbinie 1,Student,01 Jan 1987
+528,160440145,"Kote, Keven",M,Bimbinie 1,Subsistence Farmer,16 Aug 1999
+529,160220382,"Koyapo, David",M,Bimbinie 1,Student,01 Jan 1986
+530,160218654,"Koyapo, Wane",M,Bimbinie 1,Subsistence Farmer,01 Jan 1977
+531,160230319,"Kund, Wareya",M,Bimbinie 1,Subsistence Farmer,01 Jan 1968
+532,160246424,"Kunuma, Heron",M,Bimbinie 1,Policeman,01 Jan 1982
+533,160229353,"Lapatoi, Wiwa",M,Bimbinie 1,Subsistence Farmer,01 Jan 1986
+534,160210271,"Lapatoli, Andrew john",M,Bimbinie 1,Subsistence Farmer,01 Jan 1980
+535,160210274,"Lapatoli, Johna",M,Bimbinie 1,Student,01 Jan 1986
+536,160210273,"Lapatoli, Nomo",M,Bimbinie 1,Student,01 Jan 1983
+537,160213080,"Lepi, Alako james",M,Bimbinie 1,Pastor,01 Jan 1964
+538,160224548,"Lepi, Andi",M,Bimbinie 1,Subsistence Farmer,01 Jan 1945
+539,160210113,"Lepi, David",M,Bimbinie 1,Student,01 Jan 1975
+540,160224745,"Lepi, Enge",M,Bimbinie 1,Teacher,01 Jan 1946
+541,160213968,"Lepi, Muka john",M,Bimbinie 1,Subsistence Farmer,01 Jan 1946
+542,160224644,"Lepi, Namba thomas",M,Bimbinie 1,Subsistence Farmer,01 Jan 1950
+543,160224636,"Lepi, Pembo jacob",M,Bimbinie 1,Subsistence Farmer,01 Jan 1964
+544,160224239,"Lepi, Peyandi",M,Bimbinie 1,Social Worker,01 Jan 1963
+545,160224643,"Lepi, Tens",M,Bimbinie 1,Subsistence Farmer,01 Jan 1968
+546,160224228,"Lepi, Tomba",M,Bimbinie 1,Subsistence Farmer,01 Jan 1946
+547,160245571,"Lewe, Apete",M,Bimbinie 1,Student,01 Jan 1990
+548,25086604,"Lewe, Ismael",M,Bimbinie 1,Student,01 Feb 2004
+549,160213094,"Lewe, Kopono",M,Bimbinie 1,Student,01 Jan 1985
+550,25086605,"Lewe, Newman",M,Bimbinie 1,Student,02 Apr 2004
+551,160213095,"Lewe, Taliya",M,Bimbinie 1,Student,01 Jan 1988
+552,160213091,"Lewe, Terry",M,Bimbinie 1,Subsistence Farmer,01 Jan 1979
+553,160212802,"Liye, Fredy",M,Bimbinie 1,Student,01 Jan 1987
+554,160212799,"Liye, Opis",M,Bimbinie 1,Subsistence Farmer,01 Jan 1984
+555,160212498,"Liye, Rex",M,Bimbinie 1,Student,01 Jan 1986
+556,160211138,"Loke, Gibson",M,Bimbinie 1,Student,01 Jan 1990
+557,25086606,"Loke, Gideon",M,Bimbinie 1,Student,08 Sep 2000
+558,25086607,"Loke, Saki",M,Bimbinie 1,Student,06 Jul 2002
+559,160207431,"Mara, Kanombo",M,Bimbinie 1,Subsistence Farmer,01 Jan 1976
+560,160210442,"Mara, Undi",M,Bimbinie 1,Subsistence Farmer,01 Jan 1966
+561,160212548,"Marowa, Clayof",M,Bimbinie 1,Student,01 Jan 1990
+562,160224214,"Marowa, Sharof",M,Bimbinie 1,Student,01 Jan 1986
+563,160223682,"Marupe, Noinge",M,Bimbinie 1,Subsistence Farmer,01 Jan 1938
+564,160222388,"Marupe, Wea",M,Bimbinie 1,Subsistence Farmer,01 Jan 1948
+565,160229765,"Mathew, David",M,Bimbinie 1,Store Keeper,01 Jan 1970
+566,160229758,"Mathew, Penga",M,Bimbinie 1,Subsistence Farmer,01 Jan 1986
+567,160229753,"Mathew, Timothy",M,Bimbinie 1,Subsistence Farmer,01 Jan 1986
+568,160246431,"Meku, Pawa",M,Bimbinie 1,Subsistence Farmer,01 Jan 1975
+569,160246423,"Meku, Ronald",M,Bimbinie 1,Subsistence Farmer,01 Jan 1967
+570,160211050,"Membi, Nokop",M,Bimbinie 1,Subsistence Farmer,01 Jan 1961
+571,160210956,"Membi, Puluwe     peter",M,Bimbinie 1,Subsistence Farmer,01 Jan 1966
+572,160210840,"Membi, Win jacky     lombo",M,Bimbinie 1,Subsistence Farmer,01 Jan 1973
+573,160131468,"Mendal, Elizah",M,Bimbinie 1,Student,25 Jun 1998
+574,160247158,"Mendeli, Thomas",M,Bimbinie 1,Student,01 Jan 1994
+575,160230823,"Mendepo, Monica",M,Bimbinie 1,Student,01 Jan 1986
+576,160230840,"Mendepo, Norman",M,Bimbinie 1,Student,01 Jan 1990
+577,160131479,"Micheal, Lapo",M,Bimbinie 1,Student,04 May 1998
+578,160245654,"Micheal, Pora",M,Bimbinie 1,Student,01 Jan 1991
+579,160246673,"Mini, Meku",M,Bimbinie 1,Subsistence Farmer,01 Jan 1968
+580,160225022,"Mini, Pora",M,Bimbinie 1,Subsistence Farmer,01 Jan 1939
+581,160224529,"Miyemo, David mendepo",M,Bimbinie 1,Subsistence Farmer,01 Jan 1937
+582,160223840,"Miyemo, Korale josuha",M,Bimbinie 1,Church Worker,01 Jan 1943
+583,160223843,"Miyemo, Noma",M,Bimbinie 1,Subsistence Farmer,01 Jan 1943
+584,160218625,"Mondo, Mathais",M,Bimbinie 1,Student,01 Jan 1983
+585,160229868,"Mondo, Torong",M,Bimbinie 1,Subsistence Farmer,01 Jan 1978
+586,160440192,"Moses, Junior",M,Bimbinie 1,Student,10 Feb 2004
+587,160440191,"Moses, Kingston",M,Bimbinie 1,Student,28 Feb 2004
+588,25086609,"Moses, Stallon",M,Bimbinie 1,Student,02 Apr 2004
+589,160246976,"Moses, Tope",M,Bimbinie 1,Driver,01 Jan 1980
+590,160131493,"Muka, Enoch",M,Bimbinie 1,Student,06 Mar 1997
+591,160213083,"Muka, Jonah",M,Bimbinie 1,Student,01 Jan 1988
+592,160440179,"Muka, Joshua",M,Bimbinie 1,Student,18 Feb 2004
+593,160215764,"Muka, Ola",M,Bimbinie 1,Student,01 Jan 1989
+594,160224638,"Namba, Andrew",M,Bimbinie 1,Student,01 Jan 1984
+595,160223675,"Namba, Fred",M,Bimbinie 1,Student,01 Jan 1990
+596,160131496,"Namba, Jimmy",M,Bimbinie 1,Student,08 Feb 1997
+597,25086612,"Nelson, Guise one",M,Bimbinie 1,Student,01 Feb 2003
+598,160131464,"Nelson, Kapi",M,Bimbinie 1,Student,24 Nov 1998
+599,160440242,"Nelson, Rodney",M,Bimbinie 1,Student,02 Feb 2002
+600,25086613,"Nelson, Sedrick",M,Bimbinie 1,Student,04 May 2000
+601,160440238,"Nelson, Tobby",M,Bimbinie 1,Subsistence Farmer,28 May 1996
+602,160247170,"Nindipo, Chimbuambo",M,Bimbinie 1,Subsistence Farmer,01 Jan 1981
+603,160440209,"Nino, Clyde",M,Bimbinie 1,Subsistence Farmer,15 Aug 2000
+604,160230334,"Niwi, Aperel",M,Bimbinie 1,Subsistence Farmer,01 Jan 1952
+605,160230787,"Nogop, Pawa",M,Bimbinie 1,Subsistence Farmer,01 Jan 1970
+606,160230291,"Noime, Manuel",M,Bimbinie 1,Student,01 Jan 1990
+607,160230843,"Noime, Orume",M,Bimbinie 1,Student,01 Jan 1983
+608,160230839,"Noime, Samuel",M,Bimbinie 1,Student,01 Jan 1978
+609,160210953,"Nokop, Gibson",M,Bimbinie 1,Student,01 Jan 1990
+610,160223847,"Noma, David",M,Bimbinie 1,Student,01 Jan 1984
+611,25086616,"Nombea, Benson",M,Bimbinie 1,Student,30 Mar 2004
+612,160246670,"Ombbele, Sam",M,Bimbinie 1,Subsistence Farmer,01 Jan 1992
+613,160198461,"Ombele, Eipa",M,Bimbinie 1,Subsistence Farmer,01 Jan 1958
+614,160246433,"Ombele, Polly",M,Bimbinie 1,Subsistence Farmer,01 Jan 1970
+615,160201304,"Ombele, Wanpis",M,Bimbinie 1,Student,01 Jan 1979
+616,160207382,"Ongo, Goraiye     korowi",M,Bimbinie 1,Pastor,01 Jan 1942
+617,160215535,"Onne, Bulu",M,Bimbinie 1,Student,01 Jan 1986
+618,160213342,"Onne, Jack",M,Bimbinie 1,Student,01 Jan 1989
+619,160215690,"Onne, Joe",M,Bimbinie 1,Pastor,01 Jan 1978
+620,160245649,"Onne, Ken",M,Bimbinie 1,Policeman,01 Jan 1969
+621,160215148,"Onne, Nelson",M,Bimbinie 1,Teacher,01 Jan 1966
+622,160215693,"Onne, Puwi",M,Bimbinie 1,Subsistence Farmer,01 Jan 1980
+623,160215542,"Onne, Simon",M,Bimbinie 1,Student,01 Jan 1986
+624,160224359,"Pandepo, Mendeli",M,Bimbinie 1,Subsistence Farmer,01 Jan 1942
+625,160229869,"Pandepo, Mendepo",M,Bimbinie 1,Subsistence Farmer,01 Jan 1954
+626,25086618,"Patrus, Esikel",M,Bimbinie 1,Student,02 Jan 2000
+627,160216174,"Pembo, Benjamin",M,Bimbinie 1,Student,01 Jan 1988
+628,160223751,"Pembo, Jim",M,Bimbinie 1,Student,01 Jan 1990
+629,160215781,"Pembo, Joseph",M,Bimbinie 1,Student,01 Jan 1990
+630,160245664,"Pembo, Toke",M,Bimbinie 1,Student,01 Jan 1993
+631,160234151,"Pera, Aie",M,Bimbinie 1,Subsistence Farmer,01 Jan 1975
+632,160246937,"Pera, Tendako",M,Bimbinie 1,Subsistence Farmer,01 Jan 1970
+633,160440212,"Peter, Victor",M,Bimbinie 1,Student,28 Aug 2003
+634,160440150,"Petrus, Pola",M,Bimbinie 1,Pastor,15 Oct 1998
+635,160131472,"Philip, Enoch",M,Bimbinie 1,Student,28 Mar 1997
+636,160511139,"Philip, Jacob",M,Bimbinie 1,Teacher,12 Apr 1989
+637,160440233,"Philip, Jonah",M,Bimbinie 1,Student,28 Apr 2004
+638,160244678,"Pihipo, Job",M,Bimbinie 1,Subsistence Farmer,01 Jan 1990
+639,160222003,"Pilimbo, Pora",M,Bimbinie 1,Subsistence Farmer,01 Jan 1970
+640,160223651,"Pilimbo, Sam",M,Bimbinie 1,Subsistence Farmer,01 Jan 1976
+641,160211026,"Pilimbo, Simon",M,Bimbinie 1,Student,01 Jan 1990
+642,160223646,"Pilimbo, Tenis",M,Bimbinie 1,Subsistence Farmer,01 Jan 1973
+643,160211014,"Pilipo, Albert",M,Bimbinie 1,Driver,01 Jan 1978
+644,160212954,"Pilipo, Jacob",M,Bimbinie 1,Pastor,01 Jan 1970
+645,160211442,"Pilipo, Nobert",M,Bimbinie 1,Student,01 Jan 1989
+646,160243986,"Pilipo, Philip",M,Bimbinie 1,Subsistence Farmer,01 Jan 1986
+647,160211267,"Pilipo, Tapoli",M,Bimbinie 1,Student,01 Jan 1986
+648,160229442,"Pone, Elvis",M,Bimbinie 1,Mechanic,01 Jan 1968
+649,160229222,"Pone, Jacob",M,Bimbinie 1,Student,01 Jan 1988
+650,160230818,"Pone, Kondowa",M,Bimbinie 1,Subsistence Farmer,01 Jan 1979
+651,160229260,"Pone, Moses",M,Bimbinie 1,Subsistence Farmer,01 Jan 1976
+652,160232308,"Pone, Paul",M,Bimbinie 1,Driver,01 Jan 1973
+653,160244672,"Pone, Roki",M,Bimbinie 1,Subsistence Farmer,01 Jan 1975
+654,160224769,"Pora, Buka",M,Bimbinie 1,Subsistence Farmer,01 Jan 1990
+655,160440144,"Pora, Issack",M,Bimbinie 1,Student,21 Sep 1996
+656,160225021,"Pora, Jacky",M,Bimbinie 1,Student,01 Jan 1990
+657,160246936,"Pora, Jeremia",M,Bimbinie 1,Student,01 Jan 1993
+658,160225001,"Pora, Jonathan",M,Bimbinie 1,Student,01 Jan 1983
+659,160224785,"Pora, Kopi",M,Bimbinie 1,Subsistence Farmer,01 Jan 1970
+660,160224772,"Pora, Mark",M,Bimbinie 1,Student,01 Jan 1982
+661,160215209,"Pora, Paul",M,Bimbinie 1,Student,01 Jan 1985
+662,160246774,"Pora, Pera",M,Bimbinie 1,Subsistence Farmer,01 Jan 1972
+663,160214970,"Pora, Peter",M,Bimbinie 1,Teacher,01 Jan 1969
+664,160217604,"Pora, Rambo",M,Bimbinie 1,Student,01 Jan 1990
+665,160224761,"Pora, Thomas",M,Bimbinie 1,Student,01 Jan 1982
+666,160224762,"Pora, Ungeiya",M,Bimbinie 1,Subsistence Farmer,01 Jan 1985
+667,160224838,"Pora, Welalie",M,Bimbinie 1,Subsistence Farmer,01 Jan 2000
+668,160213179,"Pora, Wini",M,Bimbinie 1,Student,01 Jan 1982
+669,160217732,"Pora, Yeseph",M,Bimbinie 1,Subsistence Farmer,01 Jan 1986
+670,160217719,"Poya, Mali",M,Bimbinie 1,Subsistence Farmer,01 Jan 1964
+671,160215377,"Poya, Mona",M,Bimbinie 1,Subsistence Farmer,01 Jan 1976
+672,160217728,"Poya, Simon",M,Bimbinie 1,Subsistence Farmer,01 Jan 1969
+673,160216454,"Poya, Weiye",M,Bimbinie 1,Subsistence Farmer,01 Jan 1969
+674,160230799,"Pulemba, Tepa",M,Bimbinie 1,Subsistence Farmer,01 Jan 1950
+675,160210119,"Pulumbe, Mara",M,Bimbinie 1,Subsistence Farmer,01 Jan 1900
+676,160210960,"Puluwe, Benjamin",M,Bimbinie 1,Student,01 Jan 1988
+677,160210962,"Puluwe, Jerry",M,Bimbinie 1,Student,01 Jan 1990
+678,160246286,"Punde, George",M,Bimbinie 1,Student,01 Jan 1992
+679,25086621,"Punde, Jaromy",M,Bimbinie 1,Student,04 Apr 2004
+680,160243987,"Punde, Ruben",M,Bimbinie 1,Subsistence Farmer,01 Jan 1989
+681,160223685,"Punde, Stephen",M,Bimbinie 1,Subsistence Farmer,01 Jan 1957
+682,160247156,"Roapa, Samson",M,Bimbinie 1,Subsistence Farmer,01 Jan 1990
+683,160247154,"Roapa, Yunungo",M,Bimbinie 1,Subsistence Farmer,01 Jan 1974
+684,160230301,"Robin, Jonathan",M,Bimbinie 1,Student,01 Jan 1979
+685,160440202,"Sam, Gilbert",M,Bimbinie 1,Student,23 Feb 2004
+686,25086622,"Sam, Simon",M,Bimbinie 1,Student,04 Feb 2004
+687,25086624,"Stalcy, Kalistan",M,Bimbinie 1,Student,04 Jun 2000
+688,160440147,"Steven, Livai",M,Bimbinie 1,Subsistence Farmer,17 Jun 1997
+689,160440146,"Steven, Natan",M,Bimbinie 1,Subsistence Farmer,10 Dec 1995
+690,160224351,"Tawa, David",M,Bimbinie 1,Student,01 Jan 1981
+691,160224598,"Tawa, John",M,Bimbinie 1,Subsistence Farmer,01 Jan 1979
+692,160224354,"Tawa, Mona",M,Bimbinie 1,Subsistence Farmer,01 Jan 1976
+693,160226965,"Tawa, Wanpis",M,Bimbinie 1,Subsistence Farmer,01 Jan 1971
+694,160223678,"Tendeli, Gilford",M,Bimbinie 1,Student,01 Jan 1990
+695,160224074,"Tendeli, Iko joken",M,Bimbinie 1,Subsistence Farmer,01 Jan 1970
+696,160224151,"Tendeli, James",M,Bimbinie 1,Subsistence Farmer,01 Jan 1986
+697,160224000,"Tendeli, Windi",M,Bimbinie 1,Subsistence Farmer,01 Jan 1981
+698,160246967,"Tenis, Pera",M,Bimbinie 1,Subsistence Farmer,01 Jan 1974
+699,160247173,"Tepa, Undi",M,Bimbinie 1,Subsistence Farmer,01 Jan 1969
+700,160440169,"Timothy, Manu",M,Bimbinie 1,Subsistence Farmer,03 May 2003
+701,160221999,"Tiri, Pilimbo",M,Bimbinie 1,Subsistence Farmer,01 Jan 1939
+702,160225013,"Tiri, Wekena",M,Bimbinie 1,Subsistence Farmer,01 Jan 1943
+703,160440156,"Tom, Joel",M,Bimbinie 1,Student,06 Mar 2004
+704,160440155,"Tom, Natan",M,Bimbinie 1,Subsistence Farmer,15 Oct 2000
+705,160224235,"Tomba, Ben",M,Bimbinie 1,Student,01 Jan 1971
+706,160131486,"Tomba, Gete",M,Bimbinie 1,Student,02 Jan 1998
+707,160223745,"Tomba, Inok",M,Bimbinie 1,Student,01 Jan 1990
+708,160224229,"Tomba, Kane",M,Bimbinie 1,Student,01 Jan 1989
+709,160511140,"Tomba, Level",M,Bimbinie 1,Subsistence Farmer,14 Apr 1989
+710,160224236,"Tomba, Watoli",M,Bimbinie 1,Councillor,01 Jan 1967
+711,160224668,"Tuku, Toropo",M,Bimbinie 1,Subsistence Farmer,01 Jan 1942
+712,160210261,"Undi, Samson",M,Bimbinie 1,Student,01 Jan 1990
+713,160210257,"Undi, Tenis",M,Bimbinie 1,Student,01 Jan 1987
+714,160210662,"Waka, Lawa",M,Bimbinie 1,Subsistence Farmer,01 Jan 1947
+715,160220380,"Waka, Poya",M,Bimbinie 1,Subsistence Farmer,01 Jan 1943
+716,160229793,"Walambo, Chatopa",M,Bimbinie 1,Student,01 Jan 1990
+717,160223743,"Walumeiye, Jeremiah",M,Bimbinie 1,Student,01 Jan 1990
+718,160223742,"Walumeiye, Jerry",M,Bimbinie 1,Subsistence Farmer,01 Jan 1990
+719,160215788,"Walumeiye, Moses",M,Bimbinie 1,Subsistence Farmer,01 Jan 1970
+720,160216178,"Walumeiye, Oru",M,Bimbinie 1,Subsistence Farmer,01 Jan 1983
+721,160215131,"Walumeiye, Puru",M,Bimbinie 1,Subsistence Farmer,01 Jan 1979
+722,160215150,"Walumeiye, Wari",M,Bimbinie 1,Student,01 Jan 1987
+723,160246295,"Wanep, Francis",M,Bimbinie 1,Student,01 Jan 1992
+724,160230436,"Wanep, Jason",M,Bimbinie 1,Student,01 Jan 1988
+725,160229760,"Wanep, Jessy",M,Bimbinie 1,Student,01 Jan 1971
+726,160197324,"Wanguwa, Komes",M,Bimbinie 1,Clerk,01 Jan 1946
+727,160212949,"Wanguwa, Pilipo",M,Bimbinie 1,Subsistence Farmer,01 Jan 1938
+728,160230339,"Wanguwa, Punde",M,Bimbinie 1,Driver,01 Jan 1970
+729,160440170,"Wanpis, Clive",M,Bimbinie 1,Student,05 Apr 2004
+730,25086632,"Warea, Kundi jnr",M,Bimbinie 1,Student,01 Feb 1999
+731,160131471,"Warea, Malkom",M,Bimbinie 1,Student,18 Feb 1997
+732,160198974,"Waru, Kondowa",M,Bimbinie 1,Subsistence Farmer,01 Jan 1978
+733,160198972,"Waru, Nombea",M,Bimbinie 1,Subsistence Farmer,01 Jan 1974
+734,160223681,"Waru, Tiye",M,Bimbinie 1,Subsistence Farmer,01 Jan 1982
+735,160131488,"Watil, Wilfred",M,Bimbinie 1,Student,08 Feb 1996
+736,160440186,"Watoli, Alfa",M,Bimbinie 1,Student,16 Apr 1990
+737,160440190,"Watoli, Alfred",M,Bimbinie 1,Student,06 Feb 2004
+738,160440184,"Watoli, Asek",M,Bimbinie 1,Student,12 Jun 2003
+739,160223674,"Watoli, Peka",M,Bimbinie 1,Student,01 Jan 1990
+740,160440198,"Watoli, Pemo",M,Bimbinie 1,Student,01 Apr 2004
+741,160224070,"Watoli, Rex",M,Bimbinie 1,Student,01 Jan 1989
+742,25087536,"Wea, Jack",M,Bimbinie 1,Student,01 Apr 2004
+743,160211024,"Wea, Jeffery",M,Bimbinie 1,Student,01 Jan 1990
+744,160246784,"Wea, Jerry",M,Bimbinie 1,Student,01 Jan 1994
+745,160223706,"Wea, Tom",M,Bimbinie 1,Student,01 Jan 1982
+746,25086635,"Weiye, Josuah",M,Bimbinie 1,Student,01 Jul 2001
+747,25086636,"Weiye, Malacah",M,Bimbinie 1,Student,02 May 2001
+748,160131484,"Welail, Ismael",M,Bimbinie 1,Student,04 Feb 1998
+749,160440225,"Welal, Pawiya",M,Bimbinie 1,Subsistence Farmer,24 Jun 2000
+750,160131507,"Willi, Alfred",M,Bimbinie 1,Not Specified,17 Jun 1997
+751,160440130,"Willie, Soti",M,Bimbinie 1,Subsistence Farmer,11 Feb 2000
+752,160224207,"Yakali, Goriyea",M,Bimbinie 1,Subsistence Farmer,01 Jan 1956
+753,160226476,"Yakali, Kepunge",M,Bimbinie 1,Subsistence Farmer,01 Jan 1965
+754,160224212,"Yakali, Marowa",M,Bimbinie 1,Subsistence Farmer,01 Jan 1964
+755,160224603,"Yakali, Peya",M,Bimbinie 1,Subsistence Farmer,01 Jan 1967
+756,160226964,"Yakali, Tawa",M,Bimbinie 1,Subsistence Farmer,01 Jan 1948
+757,160511141,"Yakili, Keponge",M,Bimbinie 1,Nurse,16 Apr 1991
+758,160211289,"Yakipu, Ombele",M,Bimbinie 1,Magistrate,01 Jan 1951
+759,160230340,"Yana, Jenny",M,Bimbinie 1,Household Duties,01 Jan 1976
+760,160440223,"Yana, Moses",M,Bimbinie 1,Student,04 Mar 2004
+761,160245570,"Yari, Kunuma",M,Bimbinie 1,Subsistence Farmer,01 Jan 1964
+762,160231120,"Yombo, Hende kepunge",M,Bimbinie 1,Student,01 Jan 1967
+763,160224217,"Yombo, Nimbo joseph",M,Bimbinie 1,Subsistence Farmer,01 Jan 1969

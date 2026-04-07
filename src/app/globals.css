@@ -23,6 +23,9 @@
   --color-chart-3: var(--chart-3);
   --color-chart-2: var(--chart-2);
   --color-chart-1: var(--chart-1);
+  --color-png-red: #CE1126;
+  --color-png-gold: #FCD116;
+  --color-png-black: #000000;
   --color-ring: var(--ring);
   --color-input: var(--input);
   --color-border: var(--border);

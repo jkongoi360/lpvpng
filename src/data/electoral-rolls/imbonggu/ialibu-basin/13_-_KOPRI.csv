@@ -1,0 +1,997 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160148410,"Abramham, Ellvin",F,Kopiri,Student,01 Jan 1990
+2,160224195,"Aiye, Dainna",F,Kopiri,Student,01 Jan 1990
+3,160444063,"Aiye, Delma",F,Kopiri,Student,13 Nov 2000
+4,160224193,"Aiye, Dogas",F,Kopiri,Household Duties,01 Jan 1957
+5,160223779,"Aiye, Dogas fetty",F,Kopiri,Student,01 Jan 1990
+6,160224196,"Aiye, Dorothy",F,Kopiri,Receptionist,01 Jan 1983
+7,160222068,"Aiye, Tonno",F,Kopiri,Household Duties,01 Jan 1954
+8,160226499,"Akeya, Jeneth",F,Kopiri,Student,01 Jan 1990
+9,160226337,"Akeya, Urrino",F,Kopiri,Pastor,01 Jan 1974
+10,160232553,"Akowaiye, Dina",F,Kopiri,Student,01 Jan 1987
+11,160232548,"Akowaye, Cecelia",F,Kopiri,Student,01 Jan 1987
+12,160230863,"Akowaye, Lesy",F,Kopiri,Household Duties,01 Jan 1972
+13,160232660,"Akowaye, Lowame",F,Kopiri,Household Duties,01 Jan 1953
+14,160222026,"Alako, Punno",F,Kopiri,Household Duties,01 Jan 1973
+15,160250489,"Alame, Nema",F,Kopiri,Subsistence Farmer,01 Jan 1951
+16,160231122,"Alekou, Kopi monica",F,Kopiri,Student,01 Jan 1981
+17,160232391,"Alekou, Ltepuli",F,Kopiri,Household Duties,01 Jan 1953
+18,160244638,"Alopa, Daisy",F,Kopiri,Student,01 Jan 1985
+19,160222182,"Alopa, Kundipano",F,Kopiri,Household Duties,01 Jan 1959
+20,160222491,"Alopa, Tanna",F,Kopiri,Household Duties,01 Jan 1978
+21,160249138,"Amos, Helma",F,Topel,Household Duties,01 Jan 1982
+22,160253099,"Amos, Judy",F,Topel,Student,01 Jan 1992
+23,160222495,"Amos, Kandiye",F,Kopiri,Teacher,01 Jan 1973
+24,160252998,"Amos, Mery",F,Topel,Subsistence Farmer,01 Jan 1987
+25,160253102,"Amos, Mike",F,Topel,Student,01 Jan 1996
+26,160214077,"Andoiye, Miriam",F,Kopiri,Household Duties,01 Jan 1979
+27,160253011,"Andrew, Betty",F,Topel,Subsistence Farmer,01 Jan 1991
+28,160249953,"Andrew, Julie",F,Topel,Household Duties,01 Jan 1979
+29,160215349,"Andrew, Kola",F,Kopiri,Household Duties,01 Jan 1977
+30,160252938,"Andrew, Leten",F,Topel,Subsistence Farmer,01 Jan 1996
+31,160252937,"Andrew, Liha",F,Topel,Subsistence Farmer,01 Jan 2000
+32,160215350,"Andrew, Piyo",F,Kopiri,Household Duties,01 Jan 1954
+33,160232438,"Bapi, Lywian",F,Kopiri,Student,01 Jan 1987
+34,160232429,"Bapi, Vivian",F,Kopiri,Student,01 Jan 1990
+35,160222023,"Bapi vincent, Keina",F,Kopiri,Household Duties,01 Jan 1970
+36,160240710,"Belorry, Yando",F,Topel,Subsistence Farmer,01 Jan 1991
+37,160252948,"Benny, Mary",F,Topel,Household Duties,01 Jan 1977
+38,160253019,"Benny, Moses",F,Topel,Subsistence Farmer,01 Jan 1995
+39,160120061,"Bonjo, Osipag",F,Topel,Self Employed,18 May 1992
+40,160444220,"Bonjo, Osiva",F,Kopiri,Household Duties,02 Apr 2002
+41,160120069,"Bonjo, Regina",F,Topel,Household Duties,12 Jun 1991
+42,160120070,"Bonjo, Susan",F,Kopiri,Not Specified,07 Feb 1990
+43,160443950,"Brain monda, Sendrah",F,Kopiri,Student,15 Jun 2003
+44,160245953,"Brendy, Betty",F,Kopiri,Student,01 Jan 2000
+45,160444182,"Charlie, Stella",F,Kopiri,Household Duties,10 Jan 2000
+46,160444202,"Chris danny, Olive",F,Kopiri,Student,02 Apr 2000
+47,160245795,"Clement, Nancy",F,Kopiri,Household Duties,01 Jan 1982
+48,25082783,"Daniel, Jennifer",F,Kopiri,Unemployed,02 Jan 2000
+49,25082786,"Daniel, Maria",F,Kopiri,Unemployed,01 Jan 1998
+50,160146571,"Daniel, Susan",F,Kopiri,Household Duties,01 Jan 1968
+51,160252954,"Danny, Elly",F,Topel,Household Duties,01 Jan 1942
+52,160120038,"Danny, Esther",F,Topel,Student,05 Feb 1999
+53,160252953,"Danny, Famela",F,Topel,Student,01 Jan 1989
+54,160148051,"Denny, Kiniye",F,Kopiri,Household Duties,01 Jan 1944
+55,160153161,"Denny, Maiambo",F,Kopiri,Household Duties,01 Jan 1985
+56,160215961,"Denny, Peki",F,Kopiri,Household Duties,01 Jan 1968
+57,160218616,"Dike timothy, Finly",F,Kopiri,Student,01 Jan 1988
+58,160219208,"Dike timothy, Fiona",F,Kopiri,Student,01 Jan 1985
+59,160232535,"Dike timothy, Fordy",F,Kopiri,Student,01 Jan 1988
+60,160232443,"Dike timothy, Freda",F,Kopiri,Student,01 Jan 1980
+61,160241358,"Domonic, Kepume",F,Topel,Household Duties,01 Jan 1952
+62,160241359,"Domonic, Kerolyn",F,Topel,Household Duties,01 Jan 1977
+63,160241197,"Domonic, Merolyn",F,Topel,Household Duties,01 Jan 1983
+64,160120047,"Donly, Janeth",F,Topel,Self Employed,10 Feb 1989
+65,160139750,"Donne, Welmah",F,Topel,Household Duties,04 Aug 1996
+66,160253003,"Doti, Jully",F,Topel,Student,01 Jan 1992
+67,160249952,"Doti, Lois",F,Topel,Household Duties,01 Jan 1979
+68,160252934,"Doti, Wendy",F,Topel,Subsistence Farmer,01 Jan 2000
+69,160244647,"Emson, Lemex",F,Kopiri,Student,01 Jan 1996
+70,160444175,"Eric korongai, Shila",F,Kopiri,Student,10 Mar 2003
+71,25082789,"Ferbian, Monica",F,Kopiri,Unemployed,01 Jan 1992
+72,160241172,"Gandi, Merol",F,Topel,Household Duties,01 Jan 1989
+73,160241363,"Gandi, Tollin",F,Topel,Student,01 Jan 1994
+74,160241275,"Gandi, Yarambo",F,Topel,Household Duties,01 Jan 1976
+75,25082791,"Gibson, Monica",F,Kopiri,Unemployed,01 Jan 1992
+76,25082901,"Gilbert, Belinda",F,Topel,Unemployed,01 Jan 1999
+77,160153881,"Giye, Kurumano",F,Kopiri,Household Duties,01 Jan 1966
+78,160250148,"Giye, Roselin",F,Topel,Student,01 Jan 1992
+79,160223791,"Giye, Tana",F,Kopiri,Student,01 Jan 1989
+80,160444223,"Glangi, Stepheny",F,Kopiri,Household Duties,04 Jun 2000
+81,160226358,"Gloraiye, Kumbiye",F,Kopiri,Household Duties,01 Jan 1966
+82,160444226,"Gloway, Sandy",F,Kopiri,Nurse,03 May 2000
+83,160246051,"Goraiye, Jully",F,Kopiri,Student,01 Jan 1990
+84,160245891,"Goraiye, Mondi",F,Kopiri,Subsistence Farmer,01 Jan 1975
+85,160252919,"Hengar, Jacinta",F,Topel,Student,01 Jan 1991
+86,160246057,"Henry, Rorse",F,Kopiri,Student,01 Jan 1992
+87,25082792,"Herry, Silla",F,Kopiri,Unemployed,02 Apr 1995
+88,160222312,"Iki, Jeniffer",F,Kopiri,Student,01 Jan 1989
+89,160222568,"Iki, Kepenge",F,Kopiri,Household Duties,01 Jan 1956
+90,160222485,"Iki, Tindi",F,Kopiri,Subsistence Farmer,01 Jan 1977
+91,160148412,"Imbi, Lepo",F,Kopiri,Household Duties,01 Jan 1965
+92,160153129,"Imbi, Lipende",F,Kopiri,Household Duties,01 Jan 1958
+93,160148414,"Imbi, Liya",F,Kopiri,Household Duties,01 Jan 1974
+94,160148413,"Imbi, Rachael",F,Kopiri,Household Duties,01 Jan 1970
+95,160153131,"Imbi, Relinda",F,Kopiri,Student,01 Jan 1988
+96,160120065,"Imbi, Robina",F,Topel,Household Duties,25 Sep 1992
+97,160153132,"Imbi, Rona",F,Kopiri,Student,01 Jan 1990
+98,25082906,"J pinje, Clanda",F,Topel,Student,06 Apr 2002
+99,160250145,"Jack, Judy",F,Topel,Household Duties,01 Jan 1978
+100,160119918,"Jackobus, Lidia",F,Topel,Household Duties,02 Apr 1983
+101,160139746,"Jackson, Rosa",F,Topel,Self Employed,10 Mar 1985
+102,160444211,"Jackson undi, Rosa",F,Kopiri,Teacher,04 May 2003
+103,25082914,"Jacob, Topel",F,Topel,Student,18 Apr 2004
+104,160223793,"Jacob alopa, Omambo rose",F,Kopiri,Household Duties,01 Jan 1976
+105,160444101,"Jacob yunumi, Lucy",F,Kopiri,Student,13 Dec 2000
+106,160252927,"Jacobus, Mery",F,Topel,Student,01 Jan 2000
+107,160252926,"Jacobus, Mondi",F,Topel,Household Duties,01 Jan 1991
+108,25082794,"James, Anna",F,Kopiri,Unemployed,19 Sep 1995
+109,25082796,"James, Jenny",F,Kopiri,Self Employed,19 Oct 1991
+110,160249328,"Jeffery, Cathy",F,Kopiri,Household Duties,01 Jan 1981
+111,160443942,"Jeffery, Messelyn",F,Kopiri,Student,06 Jun 2003
+112,160220873,"Jeffery, Roselyn",F,Kopiri,Household Duties,01 Jan 1977
+113,160245775,"Jepsy, Liligen",F,Kopiri,Student,01 Jan 1991
+114,160444199,"Jepsy ono, Rachael",F,Kopiri,Teacher,04 May 2000
+115,160252952,"Jerry, Magret",F,Topel,Household Duties,01 Jan 1987
+116,160244623,"Jessica, Penga",F,Kopiri,Student,01 Jan 1980
+117,160443946,"Jessy, Sida",F,Kopiri,Household Duties,16 Jul 1994
+118,25082916,"Jim, Esther",F,Topel,Unemployed,07 Feb 1990
+119,160139749,"Jim, Lewa",F,Topel,Household Duties,06 May 1987
+120,160444214,"Jima glangi, Jenny",F,Kopiri,Household Duties,04 Jul 2002
+121,25082919,"Job, Jaied",F,Topel,Nurse,09 Mar 1998
+122,25082921,"Job, Joi",F,Topel,Unemployed,01 Jan 1994
+123,25082815,"Job, Nicole",F,Kopiri,Student,28 Apr 2004
+124,25082817,"Job yapi, Akenes",F,Kopiri,Pastor,01 Jan 1973
+125,25082819,"Job yapi, Elishabert",F,Kopiri,Student,03 Jan 1989
+126,25082823,"Job yapi, Julina",F,Kopiri,Student,02 Sep 1992
+127,25082826,"Job yapi, Solomon",F,Kopiri,Self Employed,05 Feb 1986
+128,25082829,"Joel, Ruth",F,Kopiri,Student,03 Apr 2000
+129,160253014,"John, Elly",F,Topel,Subsistence Farmer,01 Jan 1989
+130,160245787,"John, Elly",F,Kopiri,Student,01 Jan 1994
+131,160443984,"John, Emely",F,Kopiri,Student,15 Jan 2000
+132,160250154,"John, Malinda",F,Topel,Student,01 Jan 1993
+133,160120053,"John, Racheal",F,Topel,Household Duties,26 Jun 1980
+134,160252997,"John, Ronda",F,Topel,Student,01 Jan 1996
+135,160226495,"John, Veronica",F,Kopiri,Household Duties,01 Jan 1975
+136,160139744,"Johnnah, Stephine",F,Topel,Household Duties,16 Jul 1992
+137,160443952,"Julies, Jerrina",F,Kopiri,Student,05 Dec 2000
+138,160220879,"Julius, Jessy",F,Kopiri,Household Duties,01 Jan 1979
+139,25082923,"Junior, Stevi",F,Topel,Unemployed,02 Sep 1994
+140,160252214,"Kaima, Cathy",F,Topel,Subsistence Farmer,01 Jan 1990
+141,160252023,"Kaima, Maria",F,Topel,Subsistence Farmer,01 Jan 1973
+142,160252021,"Kaima, Merolin",F,Topel,Subsistence Farmer,01 Jan 1985
+143,160252215,"Kaima, Pelgaiye",F,Topel,Subsistence Farmer,01 Jan 1949
+144,160240724,"Kaipo, Kuku",F,Topel,Household Duties,01 Jan 1982
+145,160241189,"Kaipo, Kurumaino",F,Topel,Household Duties,01 Jan 1960
+146,160244632,"Kale, Juliana",F,Kopiri,Household Duties,01 Jan 1986
+147,25082838,"Kaliba, Ambai",F,Kopiri,Student,03 Jan 2001
+148,25082926,"Kaliken, Merolyn",F,Topel,Self Employed,02 Nov 1988
+149,160240707,"Kanambo, Yando",F,Topel,Subsistence Farmer,01 Jan 1974
+150,160215354,"Kapuru, Sheila",F,Kopiri,Household Duties,01 Jan 1979
+151,160215180,"Kapuru robert, Teino",F,Kopiri,Household Duties,01 Jan 1987
+152,160223777,"Kelembo, Palla",F,Kopiri,Household Duties,01 Jan 1978
+153,160223776,"Kelembo, Yando",F,Kopiri,Household Duties,01 Jan 1959
+154,160232439,"Kelly, Betty",F,Kopiri,Computer Operator,01 Jan 1972
+155,160151945,"Kelly, Huma",F,Kopiri,Household Duties,01 Jan 1958
+156,160250783,"Kera, Cathy",F,Topel,Subsistence Farmer,01 Jan 1982
+157,160252030,"Kera, Moiye",F,Topel,Subsistence Farmer,01 Jan 1986
+158,160250788,"Kera, Yalambo",F,Topel,Subsistence Farmer,01 Jan 1968
+159,160250789,"Keri, Kuli",F,Topel,Subsistence Farmer,01 Jan 1968
+160,160244650,"Keri, Penga",F,Kopiri,Student,01 Jan 1987
+161,160223787,"Kingi, Lteli",F,Kopiri,Household Duties,01 Jan 1969
+162,160244624,"Kini, Carolyn",F,Kopiri,Household Duties,01 Jan 1986
+163,160246033,"Koke, Rachael",F,Kopiri,Student,01 Jan 1992
+164,160246061,"Koke, Stanley",F,Kopiri,Student,01 Jan 1995
+165,160245788,"Koke, Vency",F,Kopiri,Household Duties,01 Jan 1975
+166,160246056,"Kowa, Beki",F,Kopiri,Student,01 Jan 1992
+167,160246055,"Kowa, Bepi",F,Kopiri,Subsistence Farmer,01 Jan 1987
+168,160226330,"Kowa, Nakanoli",F,Kopiri,Household Duties,01 Jan 1955
+169,160245786,"Kowa, Norrin",F,Kopiri,Subsistence Farmer,01 Jan 1965
+170,160222020,"Kumbiye, Benza",F,Kopiri,Student,01 Jan 1988
+171,160222019,"Kumbiye, Grace",F,Kopiri,Student,01 Jan 1987
+172,160120044,"Kumbiye, Mellin",F,Topel,Student,27 Mar 1999
+173,160222493,"Kumbiye, Nancy",F,Kopiri,Household Duties,01 Jan 1958
+174,160222492,"Kumbiye, Yunu",F,Kopiri,Household Duties,01 Jan 1956
+175,160444104,"Kumbiyea, Kireme",F,Kopiri,Student,14 Dec 2002
+176,160444145,"Kumbyea, Jessica",F,Kopiri,Student,10 Dec 2000
+177,160222414,"Langi, Kelen",F,Kopiri,Student,01 Jan 1987
+178,160222323,"Langi, Kola",F,Kopiri,Household Duties,01 Jan 1976
+179,160222324,"Langi, Kondo",F,Kopiri,Household Duties,01 Jan 1976
+180,160222415,"Langi, Pilembo",F,Kopiri,Household Duties,01 Jan 1950
+181,160444205,"Layton lipu, Florida",F,Kopiri,Student,01 Apr 2000
+182,160245890,"Lenga, Anjela",F,Kopiri,Household Duties,01 Jan 1987
+183,160246060,"Lenga, Kengena",F,Kopiri,Household Duties,01 Jan 1956
+184,160245889,"Lenga, Rachael",F,Kopiri,Household Duties,01 Jan 1978
+185,160443953,"Lenox, Jenny",F,Kopiri,Self Employed,01 Feb 1998
+186,160139747,"Leo, Tega",F,Topel,Self Employed,01 Oct 1987
+187,160444209,"Leo undi, Tenga",F,Kopiri,Household Duties,19 Sep 1999
+188,160222586,"Lewis, Rubie",F,Kopiri,Student,01 Jan 1987
+189,25082928,"Lewis, Ruenzy",F,Topel,Student,28 Apr 2004
+190,160222585,"Lewis, Ruth",F,Kopiri,Household Duties,01 Jan 1968
+191,160222320,"Limbiye, Aiembo",F,Kopiri,Household Duties,01 Jan 1966
+192,160222318,"Limbiye, Josephine",F,Kopiri,Student,01 Jan 1987
+193,160250057,"Limbo, Anita",F,Topel,Student,01 Jan 1989
+194,160249135,"Limbo, Jacklyn",F,Topel,Student,01 Jan 1984
+195,160249134,"Limbo, Takame",F,Topel,Subsistence Farmer,01 Jan 1950
+196,160444229,"Lina, Nati",F,Kopiri,Household Duties,02 Jun 2000
+197,160139742,"Lipu, Hellen",F,Topel,Household Duties,05 Apr 1993
+198,160443910,"Lipu, Leonii",F,Kopiri,Student,15 May 1999
+199,160444001,"Lipu tiri, Leovah",F,Kopiri,Student,01 Jan 2004
+200,160120063,"Lombil, Anisah",F,Topel,Student,03 Apr 1998
+201,160153143,"Lombil, Jeneth",F,Kopiri,Worker,01 Jan 1963
+202,160241276,"Luke, Luke",F,Topel,Subsistence Farmer,01 Jan 1985
+203,25082844,"Mack, Jacklyn",F,Kopiri,Household Duties,11 Feb 1993
+204,25082847,"Mack, Micklyn",F,Kopiri,Self Employed,19 Oct 1996
+205,25082849,"Mackwin, Mack",F,Kopiri,Student,05 Mar 2001
+206,160222581,"Magipu, Takepo",F,Kopiri,Household Duties,01 Jan 1944
+207,160222034,"Mandea, Lopeke",F,Kopiri,Household Duties,01 Jan 1979
+208,160222186,"Mandea, Torongi",F,Kopiri,Household Duties,01 Jan 1969
+209,160222187,"Mandea, Wape",F,Kopiri,Student,01 Jan 1989
+210,160222184,"Mandea, Waruwa",F,Kopiri,Household Duties,01 Jan 1947
+211,160244635,"Mandeya, Keni",F,Kopiri,Household Duties,01 Jan 1996
+212,160245965,"Mandeya, Monica",F,Kopiri,Student,01 Jan 1990
+213,160245782,"Mandeya, Natasa",F,Kopiri,Subsistence Farmer,01 Jan 1980
+214,160245964,"Mandeya, Shemila",F,Kopiri,Household Duties,01 Jan 1989
+215,160214087,"Manenge, Kurumaino",F,Kopiri,Household Duties,01 Jan 1950
+216,160151681,"Manenge, Pepo",F,Kopiri,Household Duties,01 Jan 1969
+217,160244627,"Mangipu, Mery",F,Kopiri,Student,01 Jan 1991
+218,25082852,"Manu, Miram",F,Kopiri,Self Employed,20 Mar 1999
+219,160444196,"Manuel john, Luda",F,Kopiri,Student,01 Jan 2000
+220,160246029,"Mark, Maria",F,Kopiri,Student,01 Jan 1990
+221,160246030,"Mark, Merry",F,Kopiri,Student,01 Jan 1996
+222,160444038,"Mark, Mery",F,Kopiri,Student,18 Jan 2003
+223,160226489,"Mark, Wanna",F,Kopiri,Household Duties,01 Jan 1977
+224,160222092,"Mathew, Evellyn",F,Kopiri,Teacher,01 Jan 1977
+225,25082930,"Mathew, Evelyn",F,Topel,Unemployed,02 Sep 1992
+226,160244645,"Mathew, Moses",F,Kopiri,Student,01 Jan 1992
+227,160444075,"Mehere, Sherena",F,Kopiri,Student,10 Nov 2000
+228,160444078,"Mekere, Shelva",F,Kopiri,Student,11 Oct 2003
+229,160443999,"Mendo, Bali",F,Kopiri,Student,15 Oct 2002
+230,160253020,"Mendo, Joe",F,Topel,Student,01 Jan 2000
+231,160252916,"Mendo, Lioni",F,Topel,Student,01 Jan 1990
+232,160232537,"Mendo, Mane",F,Kopiri,Household Duties,01 Jan 1970
+233,160252940,"Mendo, Ruthy",F,Topel,Student,01 Jan 1994
+234,160222422,"Mercury, Ruth",F,Kopiri,Household Duties,01 Jan 1975
+235,160139755,"Mercury, Senoly",F,Topel,Household Duties,26 May 1992
+236,160222327,"Mercury, Waipe",F,Kopiri,Household Duties,01 Jan 1956
+237,25082855,"Miaka, Wiyaya",F,Kopiri,Household Duties,02 May 1995
+238,160153250,"Michael, Miti",F,Kopiri,Household Duties,01 Jan 1969
+239,160444011,"Michael, Nandi",F,Kopiri,Student,14 Apr 2003
+240,160444009,"Michael, Natasha",F,Kopiri,Student,15 May 2001
+241,160139752,"Michael, Norin",F,Topel,Subsistence Farmer,12 Oct 1992
+242,160153252,"Michael, Puksy",F,Kopiri,Household Duties,01 Jan 1973
+243,160222575,"Mini, Akele",F,Kopiri,Subsistence Farmer,01 Jan 1945
+244,160223959,"Mini, Kani",F,Kopiri,Subsistence Farmer,01 Jan 1974
+245,160244633,"Monda, Kelly",F,Kopiri,Student,01 Jan 1990
+246,160222058,"Monda, Magret",F,Kopiri,Household Duties,01 Jan 1976
+247,25082861,"Monda, Shandra",F,Kopiri,Student,28 Jan 2004
+248,160213167,"Mondopa, Evelyn",F,Kopiri,Student,01 Jan 1990
+249,160214058,"Mondopa, Kaka",F,Kopiri,Household Duties,01 Jan 1983
+250,160252945,"Mondopa, Lineth",F,Topel,Student,01 Jan 1991
+251,160214096,"Mondopa, Mekeya",F,Kopiri,Household Duties,01 Jan 1956
+252,25082864,"Moses, Elis",F,Kopiri,Household Duties,06 Feb 1990
+253,160252933,"Moti, Cathy",F,Topel,Student,01 Jan 1987
+254,160148054,"Moti, Jeneth",F,Kopiri,Household Duties,01 Jan 1970
+255,160252932,"Moti, Remina",F,Topel,Household Duties,01 Jan 1975
+256,160444217,"Naka norum, Jenny",F,Kopiri,Household Duties,04 Mar 2001
+257,160252921,"Nakanol, Delma",F,Topel,Student,01 Jan 1991
+258,160146572,"Nakanol, Eli",F,Kopiri,Teacher,01 Jan 1983
+259,160252920,"Nakanol, Tereno",F,Topel,Household Duties,01 Jan 1973
+260,160240708,"Nancy, Pile",F,Topel,Subsistence Farmer,01 Jan 1976
+261,160139759,"Nataniel, Lina",F,Kopiri,Household Duties,16 May 1991
+262,160250646,"Nema, Anita",F,Kopiri,Subsistence Farmer,01 Jan 1979
+263,160252035,"Nema, Beunda",F,Topel,Subsistence Farmer,01 Jan 1984
+264,160250781,"Nema, Ruth",F,Topel,Student,01 Jan 1995
+265,160246065,"Nema, Theresa",F,Kopiri,Household Duties,01 Jan 1980
+266,160223782,"Nemma, Miriam",F,Kopiri,Household Duties,01 Jan 1971
+267,160139745,"Newman, Vero",F,Topel,Household Duties,20 Apr 1991
+268,160252929,"Nimde, Mondi",F,Topel,Subsistence Farmer,01 Jan 1996
+269,160253006,"Nimde, Sheron",F,Topel,Student,01 Jan 1992
+270,160232538,"Ninde, Rebecca",F,Kopiri,Teacher,01 Jan 1961
+271,160153288,"Niwa, Ellis",F,Kopiri,Household Duties,01 Jan 1972
+272,160120206,"Niwa, Magalinnah",F,Topel,Household Duties,29 Nov 1989
+273,160245784,"Nopu, Jacklyn",F,Kopiri,Household Duties,01 Jan 1970
+274,160252951,"Norman, Magret",F,Topel,Household Duties,01 Jan 1978
+275,160443920,"Norman, Ruthy",F,Kopiri,Student,05 Jun 2003
+276,160153113,"Norman, Weya",F,Kopiri,Household Duties,01 Jan 1978
+277,160245669,"Norum, Ben",F,Kopiri,Subsistence Farmer,01 Jan 1983
+278,160222180,"Norum, Dolly",F,Kopiri,Household Duties,01 Jan 1987
+279,160153266,"Norum, Mayembo",F,Kopiri,Household Duties,01 Jan 1987
+280,160222181,"Norum, Patere",F,Kopiri,Household Duties,01 Jan 1969
+281,160222489,"Norum, Pepo",F,Kopiri,Household Duties,01 Jan 1981
+282,160245668,"Norum, Rose",F,Kopiri,Subsistence Farmer,01 Jan 1979
+283,160222027,"Norum, Ruth",F,Kopiri,Household Duties,01 Jan 1973
+284,160245959,"Norum, Stella",F,Kopiri,Subsistence Farmer,01 Jan 1996
+285,160222179,"Norum, Susan",F,Kopiri,Student,01 Jan 1989
+286,160222488,"Norum, Tagembo alice",F,Kopiri,Household Duties,01 Jan 1945
+287,160222185,"Norum, Wesly",F,Kopiri,Household Duties,01 Jan 1978
+288,160245785,"Npou, Mondi",F,Kopiri,Student,01 Jan 1994
+289,160246059,"Npou, Pokoi",F,Kopiri,Household Duties,01 Jan 1965
+290,160241201,"Nume, Kaipo",F,Topel,Subsistence Farmer,01 Jan 1954
+291,160250152,"Nume, Pendai",F,Topel,Household Duties,01 Jan 1983
+292,160223952,"Ogonda, Cicilia",F,Kopiri,Student,01 Jan 1986
+293,160223961,"Ogonda, Josephine",F,Kopiri,Student,01 Jan 1990
+294,160222573,"Ogonda, Name",F,Kopiri,Household Duties,01 Jan 1956
+295,160223954,"Ogonda, Roger",F,Kopiri,Student,01 Jan 1989
+296,160148379,"Ogonda, Tamba",F,Kopiri,Household Duties,01 Jan 1966
+297,160223953,"Ogonda, Tiye",F,Kopiri,Student,01 Jan 1988
+298,160222574,"Ogonda, Yapu",F,Kopiri,Subsistence Farmer,01 Jan 1984
+299,160153136,"Oki, Jacky",F,Kopiri,Teacher,01 Jan 1976
+300,160148239,"Oki, Kombiliambo",F,Kopiri,Teacher,01 Jan 1962
+301,160153137,"Oki, Viala",F,Kopiri,Household Duties,01 Jan 1978
+302,160232531,"Ole, Name",F,Kopiri,Household Duties,01 Jan 1949
+303,160253013,"Oscar, Kondi",F,Topel,Subsistence Farmer,01 Jan 1964
+304,160250153,"Oscar, Linna",F,Topel,Student,01 Jan 1991
+305,160444112,"Painjepo, Trasa",F,Kopiri,Student,13 Oct 2003
+306,160222190,"Paku, Frida merolyn",F,Kopiri,Household Duties,01 Jan 1983
+307,160444154,"Paku paue, Gina",F,Kopiri,Student,10 Jan 2003
+308,160223802,"Pani joseph, Mangono charothy",F,Kopiri,Nurse,01 Jan 1966
+309,25082933,"Pani joseph, Ruan",F,Topel,Student,19 Apr 2004
+310,160252266,"Panjipo, Stella",F,Kopiri,Student,01 Jan 1994
+311,160222321,"Panjipo, Veronica",F,Kopiri,Household Duties,01 Jan 1977
+312,160120040,"Paul, Kina",F,Topel,Household Duties,27 Nov 1985
+313,160223796,"Peandi, Ali",F,Kopiri,Household Duties,01 Jan 1968
+314,160223798,"Peandi, Betty",F,Kopiri,Student,01 Jan 1986
+315,160223800,"Peandi, Cathy",F,Kopiri,Student,01 Jan 1968
+316,160222572,"Peandi, Christina",F,Kopiri,Student,01 Jan 1990
+317,160444035,"Peandi, Shelina",F,Kopiri,Student,13 Dec 2001
+318,160444032,"Peandi, Velina",F,Kopiri,Student,13 Dec 2001
+319,160223797,"Peandi, Wendy",F,Kopiri,Student,01 Jan 1982
+320,25082870,"Pele, Sandra",F,Kopiri,Self Employed,01 Jan 1990
+321,160151935,"Pena, Ruth",F,Kopiri,Household Duties,01 Jan 1971
+322,160148059,"Pendene, Bepi",F,Kopiri,Household Duties,01 Jan 1962
+323,160146704,"Pendene, Jenny",F,Kopiri,Household Duties,01 Jan 1986
+324,160146705,"Pendene, Tapi",F,Kopiri,Household Duties,01 Jan 1989
+325,25082872,"Perry, Dian",F,Kopiri,Self Employed,19 Feb 1988
+326,160232525,"Perry, Grace",F,Kopiri,Teacher,01 Jan 1989
+327,160444170,"Perry, Joselyn",F,Kopiri,Household Duties,23 Apr 2000
+328,25082874,"Perry, Mequinda",F,Kopiri,Student,28 Apr 2004
+329,25082876,"Peter, Agnes",F,Kopiri,Household Duties,02 Apr 1995
+330,160222576,"Peter, Alu",F,Kopiri,Subsistence Farmer,01 Jan 1957
+331,160221954,"Peter, Diane",F,Kopiri,Household Duties,01 Jan 1964
+332,160246006,"Peter, Dolly",F,Kopiri,Student,01 Jan 1996
+333,160226582,"Peter, Mellen",F,Kopiri,Household Duties,01 Jan 1973
+334,160252946,"Peter, Miriam",F,Topel,Student,01 Jan 1988
+335,160444049,"Peter, Pisime",F,Kopiri,Student,10 Oct 2000
+336,160240704,"Peter, Polline",F,Topel,Subsistence Farmer,01 Jan 1975
+337,160119917,"Peter, Sarah",F,Topel,Household Duties,07 Mar 1985
+338,160244634,"Peter, Shaly",F,Kopiri,Student,01 Jan 1992
+339,160244639,"Peter, Sharon",F,Kopiri,Student,01 Jan 1996
+340,160222570,"Peter, Wendy",F,Kopiri,Student,01 Jan 1988
+341,160444120,"Peter mini, Marica",F,Kopiri,Student,16 Oct 2002
+342,160444117,"Peter mini, Shemilla",F,Kopiri,Student,19 Jun 2003
+343,160444123,"Peter mini, Wendy",F,Kopiri,Household Duties,12 Apr 1991
+344,160249128,"Peyandi, Lavina",F,Topel,Student,01 Jan 1991
+345,160119915,"Peyandi, Lavina",F,Topel,Student,11 Mar 1999
+346,160120209,"Philip, Jeniffer",F,Topel,Industrial Engineer,29 Jul 1984
+347,160225309,"Philip, Linda",F,Kopiri,Household Duties,01 Jan 1975
+348,160241451,"Philip, Magret",F,Topel,Household Duties,01 Jan 1978
+349,160244641,"Philip, Rorn",F,Kopiri,Student,01 Jan 1996
+350,160223957,"Philip, Serah",F,Kopiri,Subsistence Farmer,01 Jan 1978
+351,160240715,"Pile, Yando",F,Topel,Subsistence Farmer,01 Jan 1976
+352,160120073,"Pilimbo, Alice",F,Kopiri,Household Duties,02 Jul 1969
+353,160245962,"Pilimbo, Jog",F,Kopiri,Student,01 Jan 1992
+354,160222413,"Pinje, Lucky",F,Kopiri,Household Duties,01 Jan 1977
+355,160245937,"Pinte, Belo",F,Kopiri,Household Duties,01 Jan 1958
+356,160245949,"Pinte, Kay",F,Kopiri,Household Duties,01 Jan 1985
+357,160226334,"Pokeya, Esther",F,Kopiri,Student,01 Jan 1990
+358,160226497,"Pokeya, Lonchy",F,Kopiri,Household Duties,01 Jan 1970
+359,160226327,"Pokeya, Nareme",F,Kopiri,Household Duties,01 Jan 1965
+360,160226328,"Pokeya, Tiye",F,Kopiri,Household Duties,01 Jan 1982
+361,160246054,"Pokgya, Lima",F,Kopiri,Subsistence Farmer,01 Jan 1978
+362,160223788,"Pole, Martha",F,Kopiri,Household Duties,01 Jan 1955
+363,160153274,"Pole, Mulino",F,Kopiri,Household Duties,01 Jan 1946
+364,160223781,"Pole, Otamata",F,Kopiri,Household Duties,01 Jan 1954
+365,160252935,"Polle, Linda",F,Topel,Subsistence Farmer,01 Jan 1974
+366,160253010,"Polle, Rorse",F,Topel,Student,01 Jan 1978
+367,160250492,"Pone, Ambore",F,Kopiri,Subsistence Farmer,01 Jan 1951
+368,160250491,"Pone, Maimbo",F,Kopiri,Student,01 Jan 1993
+369,160249130,"Poya, Cathy",F,Topel,Student,01 Jan 1990
+370,160250052,"Poya, Jane",F,Topel,Subsistence Farmer,01 Jan 1960
+371,160250143,"Poya, Kurume",F,Topel,Subsistence Farmer,01 Jan 1949
+372,160249131,"Poya, Pricilla",F,Topel,Student,01 Jan 1994
+373,160146709,"Puive, Belinda",F,Kopiri,Teacher,01 Jan 1967
+374,160245791,"Puiye, Andy",F,Kopiri,Subsistence Farmer,01 Jan 1996
+375,160214064,"Puiye, Bembo",F,Kopiri,Household Duties,01 Jan 1975
+376,160245955,"Puiye, Brendon",F,Kopiri,Student,01 Jan 1994
+377,160244644,"Puiye, Lily",F,Kopiri,Student,01 Jan 2000
+378,160444040,"Puiye, Mondi",F,Kopiri,Student,10 Oct 2000
+379,160444043,"Puiye, Neomi",F,Kopiri,Student,19 Oct 2003
+380,160245963,"Puiye, Verro",F,Kopiri,Subsistence Farmer,01 Jan 2000
+381,160222325,"Puke, Gera",F,Kopiri,Household Duties,01 Jan 1968
+382,160222326,"Puke, Jeneth",F,Kopiri,Student,01 Jan 1990
+383,160222420,"Puke gaira, Wellen",F,Kopiri,Student,01 Jan 1987
+384,25082939,"Pulte, Kellyn",F,Topel,Student,28 Apr 2004
+385,160148402,"Pulte, Kurume",F,Kopiri,Household Duties,01 Jan 1959
+386,160226515,"Pulte, Tongo",F,Kopiri,Household Duties,01 Jan 1943
+387,160241457,"Purul, Makali",F,Topel,Household Duties,01 Jan 1954
+388,160241456,"Purul, Mombo",F,Topel,Household Duties,01 Jan 1975
+389,160120058,"Raycan, Jenny",F,Topel,Teacher,24 Apr 1987
+390,160245778,"Regam, Mery",F,Kopiri,Subsistence Farmer,01 Jan 1988
+391,160246016,"Regan, Mini",F,Kopiri,Student,01 Jan 1990
+392,160246015,"Rendy, Shelina",F,Kopiri,Student,01 Jan 1995
+393,160444167,"Rendy ono, Jacky",F,Kopiri,Teacher,24 Oct 2001
+394,160253017,"Rex, Dolla",F,Topel,Subsistence Farmer,01 Jan 1994
+395,160222063,"Rex, Isaka",F,Kopiri,Student,01 Jan 1990
+396,160252936,"Rex, Melo n",F,Topel,Subsistence Farmer,01 Jan 2000
+397,160222062,"Rex, Otto rachael",F,Kopiri,Student,01 Jan 1989
+398,160253016,"Rex, Poline",F,Topel,Subsistence Farmer,01 Jan 1979
+399,160139743,"Robert, Jenny",F,Topel,Household Duties,10 May 1985
+400,160250645,"Roberth, Nema",F,Kopiri,Subsistence Farmer,01 Jan 1955
+401,160444094,"Robi glangi, Jennifer",F,Kopiri,Student,13 Nov 2002
+402,160444098,"Robi glangi, Jenny",F,Kopiri,Student,11 Nov 2000
+403,160120074,"Robin, Lucy",F,Kopiri,Household Duties,30 Apr 1993
+404,160444006,"Rodrick, Esther",F,Kopiri,Teacher,15 May 1994
+405,160120203,"Roger, Josephine",F,Topel,Household Duties,15 Jun 1986
+406,25082882,"Roland, Ruwena",F,Kopiri,Self Employed,17 Mar 1991
+407,25082884,"Ruka, Ambai",F,Kopiri,Household Duties,01 Jan 1980
+408,25087264,"Ruka, Sheron",F,Kopiri,Self Employed,19 Feb 1999
+409,160444091,"Ruth norum, Jessica",F,Kopiri,Student,13 Dec 2003
+410,160244637,"Ruthy, Alako",F,Kopiri,Student,01 Jan 1978
+411,160139748,"Samson, Tinnah",F,Topel,Household Duties,25 Dec 1983
+412,160153259,"Samuel, Mopune",F,Kopiri,Household Duties,01 Jan 1976
+413,160244621,"Seeto, Heni",F,Kopiri,Subsistence Farmer,01 Jan 1986
+414,160146576,"Simon, Joyce",F,Kopiri,Household Duties,01 Jan 1986
+415,25082941,"Simon, Venisa",F,Topel,Unemployed,03 Feb 1990
+416,160153260,"Solomon, Dorothy",F,Kopiri,Household Duties,01 Jan 1974
+417,160153121,"Stanly, Grace",F,Kopiri,Household Duties,01 Jan 1982
+418,160120045,"Surigi, Roselyn",F,Topel,Household Duties,20 Oct 1993
+419,160231993,"Suringi, Julie",F,Kopiri,Household Duties,01 Jan 1967
+420,160241273,"Tama, Elis",F,Topel,Household Duties,01 Jan 1980
+421,160444088,"Tama, Lilian",F,Kopiri,Student,10 Dec 2003
+422,160153127,"Tati, Merolyn",F,Kopiri,Student,01 Jan 1989
+423,160153292,"Tati, Pepa",F,Kopiri,Teacher,01 Jan 1967
+424,160249140,"Temane, Anna",F,Topel,Household Duties,01 Jan 1982
+425,160253012,"Temane, Joen",F,Topel,Student,01 Jan 1994
+426,160223794,"Temmane, Pollin",F,Kopiri,Household Duties,01 Jan 1980
+427,160232527,"Tenis, Lean",F,Kopiri,Student,01 Jan 1989
+428,160246022,"Tenis, Lilien",F,Kopiri,Student,01 Jan 1990
+429,160232534,"Tenis, Magaret",F,Kopiri,Household Duties,01 Jan 1969
+430,160246007,"Tenis, Shelina",F,Kopiri,Student,01 Jan 1994
+431,160444193,"Tenis ape, Dorcas",F,Kopiri,Household Duties,02 Oct 2001
+432,160120204,"Terepa, Masayah",F,Topel,Household Duties,29 Nov 1983
+433,160444019,"Tero, Kelin",F,Kopiri,Student,14 Feb 2001
+434,160444136,"Tero mini, Augistine",F,Kopiri,Student,12 Dec 2000
+435,160139767,"Thomas, Josphine",F,Topel,Household Duties,19 Apr 1990
+436,160139766,"Thomas, Oiye",F,Topel,Household Duties,02 Jul 1951
+437,160444191,"Thomas, Pundu",F,Kopiri,Household Duties,10 Oct 2001
+438,25082943,"Tilipu, Jessica",F,Topel,Student,28 Apr 2004
+439,160226589,"Tilipu, Kuta",F,Kopiri,Household Duties,01 Jan 1958
+440,160120048,"Tilipu, Mere",F,Topel,Subsistence Farmer,05 Apr 1983
+441,160226482,"Tilipu, Regina",F,Kopiri,Student,01 Jan 1988
+442,25082945,"Tindi, Ralyn",F,Topel,Student,03 Apr 2004
+443,160245961,"Tiro, Ali",F,Kopiri,Nurse,01 Jan 1987
+444,160244643,"Tiro, Bonny",F,Kopiri,Student,01 Jan 1994
+445,160223958,"Tiro, Cathy",F,Kopiri,Household Duties,01 Jan 1977
+446,160139754,"Tiro, Christina",F,Topel,Student,13 Apr 1999
+447,160225320,"Tiro, Maria",F,Kopiri,Household Duties,01 Jan 1978
+448,160252915,"Tiye, Jenifer",F,Topel,Student,01 Jan 1991
+449,160250144,"Tokopa, Dikeino",F,Topel,Household Duties,01 Jan 1962
+450,160250151,"Tokopa, Maria",F,Topel,Student,01 Jan 1980
+451,160253022,"Tope, Lidia",F,Topel,Student,01 Jan 1991
+452,160232550,"Tope, Magi",F,Kopiri,Student,01 Jan 1990
+453,160252947,"Tope, Malinda",F,Topel,Student,01 Jan 1992
+454,160232656,"Tope, Welen",F,Kopiri,Teacher,01 Jan 1968
+455,160120067,"Tori, Rosa",F,Topel,Houseboy,02 Jun 1978
+456,25082948,"Tori, Solvia",F,Topel,Student,17 Apr 2004
+457,160443928,"Torobene, Machlyn",F,Kopiri,Student,15 Jun 2000
+458,160253015,"Toroiye, Balo",F,Topel,Student,01 Jan 1994
+459,160253100,"Toroiye, Boti",F,Topel,Subsistence Farmer,01 Jan 1979
+460,160226583,"Toroiye, Miri",F,Kopiri,Household Duties,01 Jan 1954
+461,160222174,"Toroli, Jullie",F,Kopiri,Student,01 Jan 1985
+462,160222335,"Toroli, Yando",F,Kopiri,Business man,01 Jan 1967
+463,160222336,"Toroli nelson, Dorcas",F,Kopiri,Student,01 Jan 1987
+464,160153141,"Torombena, Helen",F,Kopiri,Student,01 Jan 1985
+465,160120057,"Torombena, Jenny",F,Topel,Household Duties,02 Jul 1987
+466,160153140,"Torombena, Kuku",F,Kopiri,Student,01 Jan 1977
+467,160153139,"Torombena, Meapu",F,Kopiri,Household Duties,01 Jan 1957
+468,160153151,"Torombena, Mellen",F,Kopiri,Student,01 Jan 1987
+469,160148241,"Torombena, Wake",F,Kopiri,Household Duties,01 Jan 1955
+470,160443944,"Trevor, Masiye",F,Kopiri,Household Duties,10 Oct 1993
+471,160119913,"Unda, Lineth",F,Topel,Household Duties,02 Jul 1986
+472,160222029,"Undi, Akele",F,Kopiri,Nurse,01 Jan 1953
+473,160139761,"Undi, Balo",F,Topel,Student,03 Feb 1999
+474,160222032,"Undi, Carolyn",F,Kopiri,Student,01 Jan 1978
+475,160222031,"Undi, Elly",F,Kopiri,Household Duties,01 Jan 1976
+476,160222035,"Undi, Jacklyn",F,Kopiri,Student,01 Jan 1990
+477,160222061,"Undi, Kurumino",F,Kopiri,Household Duties,01 Jan 1963
+478,160222066,"Undi, Lucy",F,Kopiri,Household Duties,01 Jan 1989
+479,160222033,"Undi, Merolyn",F,Kopiri,Student,01 Jan 1988
+480,160120068,"Undi, Nato",F,Topel,Student,06 Apr 1998
+481,160222036,"Undi, Nekiyeme",F,Kopiri,Household Duties,01 Jan 1948
+482,160222030,"Undi, Tekure",F,Kopiri,Household Duties,01 Jan 1961
+483,160222330,"Unjombo, Melodi",F,Kopiri,Household Duties,01 Jan 1972
+484,160222329,"Unjombo, Palakome",F,Kopiri,Household Duties,01 Jan 1971
+485,160153255,"Uru, Late",F,Kopiri,Household Duties,01 Jan 1983
+486,160153253,"Uru, Tipuli",F,Kopiri,Household Duties,01 Jan 1960
+487,160222024,"Waine, Tagaiye",F,Kopiri,Business man,01 Jan 1954
+488,160245773,"Waka, Dolla",F,Kopiri,Subsistence Farmer,01 Jan 1972
+489,160226342,"Waka, Joanah",F,Kopiri,Student,01 Jan 1984
+490,160226340,"Waka, Kuta",F,Kopiri,Pastor,01 Jan 1958
+491,160153122,"Wakena, Elly",F,Kopiri,Student,01 Jan 1976
+492,160153119,"Wakena, Linda",F,Kopiri,Student,01 Jan 1988
+493,160153117,"Wakena, Nancy",F,Kopiri,Household Duties,01 Jan 1956
+494,160148408,"Wakena, Oname",F,Kopiri,Household Duties,01 Jan 1940
+495,160153120,"Wakena, Stevei",F,Kopiri,Student,01 Jan 1990
+496,160153118,"Wakena, Tiona",F,Kopiri,Student,01 Jan 1987
+497,160246019,"Wami, Betty",F,Kopiri,Student,01 Jan 1990
+498,160226493,"Wami, Mepili",F,Kopiri,Household Duties,01 Jan 1973
+499,160246023,"Wami, Ruth",F,Kopiri,Subsistence Farmer,01 Jan 1985
+500,160120060,"Wane, Everlyn",F,Topel,Household Duties,18 Apr 1979
+501,25087268,"Wapea, Adora",F,Kopiri,Student,28 Apr 2004
+502,160148258,"Wapea, Ayembo",F,Kopiri,Household Duties,01 Jan 1965
+503,160148259,"Wapea, Waiye",F,Kopiri,Student,01 Jan 1986
+504,160148256,"Wapea, Wiame",F,Kopiri,Household Duties,01 Jan 1968
+505,25082949,"Wapea, Wilfred",F,Topel,Student,12 Apr 2004
+506,160245951,"Wendy, Cathy",F,Kopiri,Subsistence Farmer,01 Jan 1941
+507,160245958,"Wendy, Gary",F,Kopiri,Student,01 Jan 1994
+508,160245966,"Wendy, Martina",F,Kopiri,Student,01 Jan 1989
+509,160245793,"Were, Mata",F,Kopiri,Student,01 Jan 1993
+510,160246058,"Were, Yollin",F,Kopiri,Household Duties,01 Jan 1972
+511,160241355,"Wesly, Roina",F,Topel,Household Duties,01 Jan 1987
+512,160253002,"Willie, Dolla",F,Topel,Student,01 Jan 1990
+513,160222565,"Willie, Jeneth",F,Kopiri,Household Duties,01 Jan 1972
+514,160245783,"Yalo, Judy",F,Kopiri,Subsistence Farmer,01 Jan 1986
+515,160443932,"Yamai, Malindah",F,Kopiri,Student,10 Nov 1999
+516,160222563,"Yamai, Poli",F,Kopiri,Student,01 Jan 1990
+517,160120050,"Yamai, Pollina",F,Topel,Household Duties,17 Sep 1994
+518,160443930,"Yamai, Tenisa",F,Kopiri,Student,15 May 2003
+519,160222566,"Yamai, Uri",F,Kopiri,Household Duties,01 Jan 1971
+520,160214092,"Yandi, Apuke",F,Kopiri,Household Duties,01 Jan 1966
+521,160250147,"Yaya, Penny",F,Topel,Household Duties,01 Jan 1985
+522,160443986,"Yaya, Vena",F,Kopiri,Student,15 Mar 2003
+523,160245934,"Yombi, Kim",F,Kopiri,Subsistence Farmer,01 Jan 1951
+524,160241184,"Yopai, Anga",F,Topel,Household Duties,01 Jan 1961
+525,160241185,"Yopai, Robina",F,Topel,Student,01 Jan 1994
+526,160241187,"Yopai, Roselyn",F,Topel,Household Duties,01 Jan 1972
+527,160443940,"Yopo, Grace",F,Kopiri,Student,05 May 2003
+528,160148249,"Yopo, Lopeke",F,Kopiri,Household Duties,01 Jan 1962
+529,160153157,"Yopo, Magret",F,Kopiri,Household Duties,01 Jan 1979
+530,160148253,"Yopo, Mevis",F,Kopiri,Student,01 Jan 1984
+531,160148250,"Yopo, Queen",F,Kopiri,Household Duties,01 Jan 1977
+532,160148409,"Abramham, Missack",M,Kopiri,Student,01 Jan 1990
+533,160444066,"Aiye, Daimen",M,Kopiri,Student,23 Oct 2000
+534,160444060,"Aiye, Deron",M,Kopiri,Student,12 Oct 2003
+535,160224197,"Aiye, Dion",M,Kopiri,Student,01 Jan 1989
+536,160224194,"Aiye, Donnley",M,Kopiri,Student,01 Jan 1987
+537,160245936,"Akele, Dolla",M,Kopiri,Student,01 Jan 1996
+538,160244626,"Akele, Lin",M,Kopiri,Subsistence Farmer,01 Jan 1984
+539,160139764,"Akeya, Gibson",M,Kopiri,Subsistence Farmer,06 Jan 1994
+540,160222038,"Akeya, Mathew",M,Kopiri,Teacher,01 Jan 1975
+541,160443966,"Akeya, Richard",M,Kopiri,Student,06 Oct 2000
+542,160444052,"Akeya, Saidon",M,Kopiri,Student,13 Oct 2000
+543,160443968,"Akeya, Stanford",M,Kopiri,Student,16 Jun 1995
+544,160230865,"Akowaye, Benny",M,Kopiri,Receptionist,01 Jan 1973
+545,160232657,"Akowaye, Soma",M,Kopiri,Subsistence Farmer,01 Jan 1989
+546,160232654,"Akowaye, Tena",M,Kopiri,Student,01 Jan 2000
+547,160232551,"Akowaye, Tiye",M,Kopiri,Driver,01 Jan 1970
+548,160232661,"Akowaye, Tom",M,Kopiri,Teacher,01 Jan 1985
+549,160232655,"Akowaye, Tope",M,Kopiri,Teacher,01 Jan 1967
+550,160244652,"Alako, Betty",M,Kopiri,Student,01 Jan 1992
+551,160252949,"Alekou, Anderson",M,Topel,Student,01 Jan 1988
+552,160444157,"Alopa, Wile",M,Kopiri,Household Duties,01 Mar 2004
+553,25082781,"Amson, Maka",M,Kopiri,Student,28 Apr 2004
+554,160443996,"Andrew, Anderson",M,Kopiri,Student,13 Dec 2000
+555,160443994,"Andrew, Thompson",M,Kopiri,Student,15 May 2002
+556,160253018,"Anjoiye, John",M,Topel,Subsistence Farmer,01 Jan 1994
+557,160241274,"Anoiye, Mike",M,Topel,Student,01 Jan 1989
+558,160219116,"Ape, Dike timothy",M,Kopiri,Teacher,01 Jan 1963
+559,160222425,"Ape, Iki",M,Kopiri,Subsistence Farmer,01 Jan 1952
+560,160231992,"Ape, Ole",M,Kopiri,Subsistence Farmer,01 Jan 1946
+561,160232532,"Ape, Tennis",M,Kopiri,Receptionist,01 Jan 1968
+562,160240723,"Ben, Yamdo",M,Topel,Student,01 Jan 1994
+563,160139762,"Bonjo, Nataniel",M,Topel,Subsistence Farmer,16 Aug 1993
+564,160443948,"Brain monda, Isack",M,Kopiri,Student,16 Jun 2002
+565,160245960,"Brendy, Anita",M,Kopiri,Subsistence Farmer,01 Jan 1986
+566,160245954,"Brendy, Jack",M,Kopiri,Student,01 Jan 1992
+567,160244642,"Brendy, Rose",M,Kopiri,Student,01 Jan 1988
+568,160240716,"Christoper, Pile",M,Topel,Subsistence Farmer,01 Jan 2000
+569,160245896,"Clement, Dickson",M,Kopiri,Student,01 Jan 1992
+570,160245900,"Clement, Steward",M,Kopiri,Student,01 Jan 1994
+571,160443970,"Combil, Manu",M,Kopiri,Student,14 Apr 2000
+572,160443924,"Danny, Collin",M,Kopiri,Student,06 Nov 2000
+573,160444029,"Danny, Joshua",M,Kopiri,Student,14 Dec 2000
+574,160240705,"Danny, Pele",M,Topel,Student,01 Jan 1993
+575,160252931,"Danny, Timo",M,Topel,Student,01 Jan 1991
+576,160215747,"Denny, Frank",M,Kopiri,Student,01 Jan 1990
+577,160241173,"Domonic, Mondo",M,Topel,Student,01 Jan 1991
+578,160241174,"Domonic, Pembo",M,Topel,Student,01 Jan 1994
+579,160249133,"Doya, Limbo",M,Topel,Subsistence Farmer,01 Jan 1942
+580,160146700,"Eka, Nakanol",M,Kopiri,Subsistence Farmer,01 Jan 2000
+581,160444129,"Emsen, Brain",M,Kopiri,Student,10 Dec 2001
+582,160253008,"Enga, Jack",M,Topel,Student,01 Jan 1996
+583,160252930,"Enga, Jorden",M,Topel,Student,01 Jan 1992
+584,160241361,"Gandi, Teke",M,Topel,Student,01 Jan 1991
+585,160241198,"Gandi, Yupe",M,Topel,Subsistence Farmer,01 Jan 1963
+586,160153882,"Giye, Enoch",M,Kopiri,Student,01 Jan 1990
+587,160249127,"Giye, Lenny",M,Topel,Student,01 Jan 1993
+588,160252922,"Giye, Roselyn",M,Topel,Subsistence Farmer,01 Jan 1982
+589,160223799,"Giye, Simon",M,Kopiri,Student,01 Jan 1987
+590,160444132,"Glangi, Stephen",M,Kopiri,Student,10 Dec 2002
+591,160222421,"Gloraiye, Mercury",M,Kopiri,Teacher,01 Jan 1953
+592,160226508,"Gloraiye, Samuel nepo",M,Kopiri,Subsistence Farmer,01 Jan 1970
+593,160148399,"Gloraiye, Solomon",M,Kopiri,Subsistence Farmer,01 Jan 1975
+594,160222412,"Glowaiye, Jeff pinje",M,Kopiri,Carpenter,01 Jan 1975
+595,160222582,"Glowaiye, Lewis",M,Kopiri,Teacher,01 Jan 1965
+596,160222311,"Glowaiye, Panjipo",M,Kopiri,Subsistence Farmer,01 Jan 1976
+597,160444107,"Gloway, Elizah",M,Kopiri,Student,02 Oct 2003
+598,160244649,"Gomo, Penga",M,Kopiri,Student,01 Jan 1984
+599,160245892,"Goraiye, Job",M,Kopiri,Student,01 Jan 1986
+600,160246013,"Goraiye, Osila",M,Kopiri,Student,01 Jan 1996
+601,160241460,"Guli, Pepeya",M,Topel,Subsistence Farmer,01 Jan 1978
+602,25087273,"Hanz, Jeffton",M,Topel,Student,28 Apr 2004
+603,160246017,"Henry, Brendon",M,Kopiri,Student,01 Jan 1996
+604,160245780,"Henry, Kila",M,Kopiri,Subsistence Farmer,01 Jan 1985
+605,160249139,"Iki, Herry",M,Topel,Student,01 Jan 1992
+606,160222580,"Iki, Jackbos",M,Kopiri,Subsistence Farmer,01 Jan 1987
+607,160253103,"Iki, Juma",M,Topel,Subsistence Farmer,01 Jan 1986
+608,160222584,"Iki, Perry",M,Kopiri,Student,01 Jan 1990
+609,160120055,"Imbi, Otto",M,Topel,Clerk,20 Aug 1990
+610,160443926,"Imbi, Ralph",M,Kopiri,Student,06 Jun 2000
+611,160443987,"Imbi, Ricky",M,Kopiri,Student,15 May 2003
+612,160148238,"Imbi, Robin",M,Kopiri,Student,01 Jan 1989
+613,160120064,"Imbi, Roland",M,Topel,Salesman,04 Aug 1990
+614,25082909,"J pinje, Rondy",M,Topel,Student,11 Feb 1996
+615,160253009,"Jack, Mone",M,Topel,Subsistence Farmer,01 Jan 1989
+616,160253001,"Jacobus, Joe",M,Topel,Subsistence Farmer,01 Jan 1987
+617,25082798,"James, John",M,Kopiri,Student,11 Jun 2001
+618,25082802,"Jeff pinje, Jemto",M,Kopiri,Student,23 Apr 1998
+619,160250494,"Jeffer, Penga",M,Kopiri,Student,01 Jan 1990
+620,160249284,"Jeffery, Ismael",M,Kopiri,Student,01 Jan 1993
+621,160245776,"Jepsy, Brain",M,Kopiri,Student,01 Jan 1996
+622,160245777,"Jepsy, Jessey",M,Kopiri,Subsistence Farmer,01 Jan 1978
+623,160244636,"Jerry, Rodha",M,Kopiri,Subsistence Farmer,01 Jan 1982
+624,25082803,"Jetly, Tiffini",M,Kopiri,Student,20 Sep 1999
+625,25082806,"Job, Anthony",M,Kopiri,Student,03 Feb 1999
+626,25082809,"Job, Ferman",M,Kopiri,Self Employed,01 Jan 1997
+627,25082811,"Job, Jonny",M,Kopiri,Student,19 Jan 2000
+628,160249137,"John, Job",M,Topel,Student,01 Jan 1991
+629,160245894,"John, Jorden",M,Kopiri,Subsistence Farmer,01 Jan 1984
+630,160252924,"John, Kelly",M,Topel,Subsistence Farmer,01 Jan 1983
+631,160120054,"John, Manuel",M,Topel,Student,11 Mar 1996
+632,25082832,"John, Mathew",M,Kopiri,Student,19 Jul 2003
+633,160245895,"John, Mekson",M,Kopiri,Subsistence Farmer,01 Jan 1989
+634,160443906,"John, Rodney",M,Kopiri,Student,15 Apr 2000
+635,160252996,"Joseph, Brendy",M,Topel,Student,01 Jan 1996
+636,160253005,"Joseph, Jepeth",M,Topel,Student,01 Jan 1990
+637,25082833,"Joseph, John",M,Kopiri,Student,19 Feb 2000
+638,25082835,"Joseph, John",M,Kopiri,Subsistence Farmer,19 Jan 1998
+639,160444023,"Julias, Jerrycan",M,Kopiri,Student,10 Apr 2003
+640,160444021,"Julies, Jeronich",M,Kopiri,Student,23 Feb 2000
+641,25082836,"Justin, Martina",M,Kopiri,Unemployed,19 Jan 1998
+642,160119919,"Kaim, Kales",M,Topel,Subsistence Farmer,04 Sep 1982
+643,160252020,"Kaima, Michael",M,Topel,Subsistence Farmer,01 Jan 1978
+644,160250787,"Kaima, Rex",M,Topel,Subsistence Farmer,01 Jan 1981
+645,160240717,"Kaipo, Job",M,Topel,Subsistence Farmer,01 Jan 1986
+646,160241188,"Kaipo, Kondi",M,Topel,Subsistence Farmer,01 Jan 1979
+647,160252941,"Kakeiye, Nakanol",M,Topel,Subsistence Farmer,01 Jan 1968
+648,160244631,"Kale, Jona",M,Kopiri,Subsistence Farmer,01 Jan 1989
+649,160245781,"Kale, Marowa",M,Kopiri,Student,01 Jan 1993
+650,160443934,"Kamus, Jonnah",M,Kopiri,Student,23 Nov 2000
+651,160241362,"Kanombo, Purul",M,Topel,Subsistence Farmer,01 Jan 1948
+652,160215750,"Kapuru, Andrew",M,Kopiri,Subsistence Farmer,01 Jan 1975
+653,160215964,"Kapuru, Moti",M,Kopiri,Subsistence Farmer,01 Jan 1968
+654,160215353,"Kapuru, Robert",M,Kopiri,Subsistence Farmer,01 Jan 1986
+655,160215186,"Kapuru, Stanly",M,Kopiri,Student,01 Jan 1990
+656,160244622,"Kari, Penga",M,Kopiri,Subsistence Farmer,01 Jan 1951
+657,160245933,"Kari, Pinte",M,Kopiri,Subsistence Farmer,01 Jan 1952
+658,160223778,"Kelembo ongonda, Walimbo",M,Kopiri,Student,01 Jan 1989
+659,160232519,"Kelly, Jim",M,Kopiri,Student,01 Jan 1986
+660,160232441,"Kelly agilo, Agilo jim",M,Kopiri,Student,01 Jan 1988
+661,160250786,"Kema, Watil",M,Topel,Subsistence Farmer,01 Jan 1987
+662,160240711,"Kenol, Yando",M,Topel,Subsistence Farmer,01 Jan 1989
+663,160119912,"Kepo, Unda",M,Topel,Driver,05 Jul 1983
+664,160252022,"Kera, Cletus",M,Topel,Student,01 Jan 1991
+665,160232524,"Kerandi, Akowaye",M,Kopiri,Aid Post Orderly,01 Jan 1949
+666,160252025,"Keri, Mendope",M,Topel,Subsistence Farmer,01 Jan 2000
+667,160252024,"Keri, Nanga",M,Topel,Student,01 Jan 1991
+668,160250490,"Kewgi, Pone",M,Kopiri,Subsistence Farmer,01 Jan 1946
+669,160222067,"Kingi, Aiye",M,Kopiri,Business man,01 Jan 1950
+670,160245935,"Kini, Jeffry",M,Kopiri,Subsistence Farmer,01 Jan 1976
+671,160245796,"Kini, Jeremaia",M,Kopiri,Subsistence Farmer,01 Jan 1980
+672,160244625,"Kini, Paul",M,Kopiri,Student,01 Jan 1993
+673,160245931,"Kini, Peterson",M,Kopiri,Student,01 Jan 1990
+674,160245897,"Koke, Tene",M,Kopiri,Subsistence Farmer,01 Jan 1989
+675,160249136,"Kololi, Poya",M,Topel,Subsistence Farmer,01 Jan 1941
+676,160245665,"Kombu, Paulson",M,Kopiri,Student,01 Jan 1994
+677,160226335,"Kowa, Akeya",M,Kopiri,Pastor,01 Jan 1971
+678,160245772,"Kowa, Matol",M,Kopiri,Subsistence Farmer,01 Jan 1980
+679,160245893,"Kowa, Moris",M,Kopiri,Subsistence Farmer,01 Jan 1989
+680,160226326,"Kowa, Pokeya",M,Kopiri,Driver,01 Jan 1962
+681,160222333,"Kumbiye, Gebriel",M,Kopiri,Subsistence Farmer,01 Jan 1986
+682,160444151,"Kumbiye, Gibi",M,Kopiri,Student,13 Apr 2003
+683,160232462,"Kumbiye, Kangy pambo",M,Kopiri,Subsistence Farmer,01 Jan 1957
+684,160222331,"Kumbiye, Paku",M,Kopiri,Subsistence Farmer,01 Jan 1981
+685,160222332,"Kumbiye, Perry",M,Kopiri,Student,01 Jan 1985
+686,160232442,"Kumbiye, Terry",M,Kopiri,Student,01 Jan 1989
+687,160222021,"Kumbiye pawg, Taitus",M,Kopiri,Subsistence Farmer,01 Jan 1982
+688,160444139,"Kumbiyea, Newman",M,Kopiri,Student,10 Dec 1999
+689,160444148,"Kumbiyea, Piti",M,Kopiri,Student,01 Jan 2002
+690,160443918,"Kupuru, Job",M,Kopiri,Student,05 Apr 2002
+691,160222416,"Langi, Jimma",M,Kopiri,Student,01 Jan 1990
+692,160139763,"Langi, Robin",M,Kopiri,Subsistence Farmer,02 Aug 1991
+693,160246028,"Lenga, Luke",M,Kopiri,Subsistence Farmer,01 Jan 1983
+694,160120046,"Lepi, Enge",M,Topel,Teacher,20 Oct 1967
+695,160222411,"Lewis, Kay",M,Kopiri,Student,01 Jan 1989
+696,160232521,"Lewis, Nobert",M,Kopiri,Student,01 Jan 1990
+697,25082840,"Limbiye, Fidler",M,Kopiri,Student,01 Jan 1993
+698,160146540,"Limbiye, Robin",M,Kopiri,Student,01 Jan 1987
+699,160250056,"Limbo, Jetro",M,Topel,Student,01 Jan 1980
+700,160250055,"Limbo, Julius",M,Topel,Subsistence Farmer,01 Jan 1976
+701,160250058,"Limbo, Ron",M,Topel,Subsistence Farmer,01 Jan 1993
+702,160120037,"Lipu, Laton",M,Topel,Subsistence Farmer,19 May 1996
+703,160222037,"Lipu leslie, Lenny lenox",M,Kopiri,Student,01 Jan 1990
+704,160148246,"Lombil, Tambi",M,Kopiri,Student,01 Jan 1990
+705,160120062,"Lombil, Tonton",M,Topel,Driver,11 Jun 1992
+706,160241459,"Lopeke, Wane",M,Topel,Subsistence Farmer,01 Jan 1984
+707,25082842,"Mack, Dunstan",M,Kopiri,Self Employed,19 Jan 1999
+708,25082846,"Mack, Mark",M,Kopiri,Self Employed,11 Jan 1997
+709,160139753,"Mainege, Charles",M,Topel,Driver,14 Jun 1996
+710,160120042,"Mainege, Manly",M,Topel,Subsistence Farmer,30 Dec 1992
+711,160153860,"Maka, Mini",M,Kopiri,Subsistence Farmer,01 Jan 1940
+712,160153872,"Mandea, Monda",M,Kopiri,Subsistence Farmer,01 Jan 1975
+713,160222057,"Mandea, Steven",M,Kopiri,Student,01 Jan 1984
+714,160245792,"Mandeya, Alli",M,Kopiri,Carpenter,01 Jan 1996
+715,160244646,"Mandeya, Garu",M,Kopiri,Mechanic,01 Jan 1991
+716,160245957,"Mandeya, Junior",M,Kopiri,Student,01 Jan 1986
+717,160119914,"Mandeya, Kalovera",M,Topel,Student,14 Nov 1997
+718,160444178,"Mandiyea, Kalopera",M,Kopiri,Student,10 Jan 2000
+719,160244648,"Mandoya, Shelina",M,Kopiri,Student,01 Jan 1996
+720,160215196,"Manenge, Charlie",M,Kopiri,Student,01 Jan 1990
+721,160444013,"Manenge, Chirlie",M,Kopiri,Subsistence Farmer,13 Apr 1988
+722,160215157,"Manenge, Paiye",M,Kopiri,Subsistence Farmer,01 Jan 1972
+723,160215160,"Manenge, Yandi",M,Kopiri,Subsistence Farmer,01 Jan 1964
+724,160245932,"Mangipu, Mathew",M,Kopiri,Student,01 Jan 1996
+725,160120066,"Mark, Able",M,Topel,Student,02 Apr 1999
+726,160139760,"Mark, Daniel",M,Topel,Student,19 Feb 1999
+727,160444054,"Mathew, Mendrick",M,Kopiri,Student,18 Oct 2003
+728,160444057,"Mathew, Metson",M,Kopiri,Student,19 Dec 2000
+729,160246024,"Maxinte, Were",M,Kopiri,Subsistence Farmer,01 Jan 1961
+730,160241454,"Mele, Langi",M,Topel,Subsistence Farmer,01 Jan 1982
+731,160443916,"Mendo, Kiri",M,Kopiri,Student,05 May 2003
+732,160222315,"Mercury, Jerry",M,Kopiri,Student,01 Jan 1988
+733,160222314,"Mercury, Leslie hauman",M,Kopiri,Student,01 Jan 1987
+734,160222319,"Mercury, Wesly",M,Kopiri,Student,01 Jan 1986
+735,160444161,"Merenge, Simon",M,Kopiri,Household Duties,10 Jul 1999
+736,160153287,"Michael, Lipu",M,Kopiri,Student,01 Jan 1983
+737,160120039,"Michael, Newman",M,Topel,Teacher,07 Aug 1990
+738,160139751,"Michael, Noel",M,Topel,Subsistence Farmer,11 Feb 1994
+739,160148392,"Michael, Waki",M,Kopiri,Student,01 Jan 1988
+740,25082858,"Mick, Tiffini",M,Kopiri,Student,19 May 2001
+741,160223803,"Mini, Peter wakena",M,Kopiri,Driver,01 Jan 1952
+742,160222418,"Mini, Tiro boad",M,Kopiri,Subsistence Farmer,01 Jan 1976
+743,25082931,"Mini tiro, Issah",M,Topel,Student,09 Apr 2002
+744,160246032,"Mogea, Koke",M,Kopiri,Subsistence Farmer,01 Jan 1965
+745,160245950,"Monda, Clare",M,Kopiri,Student,01 Jan 1992
+746,160213170,"Mondopa, Andoiye",M,Kopiri,Subsistence Farmer,01 Jan 1977
+747,160214991,"Mondopa, Jim",M,Kopiri,Subsistence Farmer,01 Jan 1989
+748,160213168,"Mondopa, Puiye",M,Kopiri,Subsistence Farmer,01 Jan 1971
+749,160214057,"Mondopa, Tori",M,Kopiri,Subsistence Farmer,01 Jan 1977
+750,160146702,"Nakanol, Daniel",M,Kopiri,Pastor,01 Jan 1966
+751,160146703,"Nakanol, Jackson",M,Kopiri,Student,01 Jan 1986
+752,160120052,"Natibo, John",M,Topel,Pastor,22 Nov 1997
+753,160245929,"Nema, Cedrac",M,Kopiri,Student,01 Jan 1995
+754,160250644,"Nema, Konjel",M,Kopiri,Subsistence Farmer,01 Jan 1990
+755,160252031,"Nema, Robin",M,Topel,Subsistence Farmer,01 Jan 1988
+756,160250784,"Nema, Rodney",M,Topel,Student,01 Jan 1995
+757,160253007,"Nimde, Mondo",M,Topel,Subsistence Farmer,01 Jan 2000
+758,160252917,"Ninde, Sammy",M,Topel,Student,01 Jan 1989
+759,25087258,"Nindel, Thomas",M,Kopiri,Student,19 May 2003
+760,160444017,"Niwa, Benedick",M,Kopiri,Student,13 Apr 2000
+761,160120208,"Niwa, Elizah",M,Topel,Subsistence Farmer,09 Feb 1994
+762,160444026,"Niwa, Jayson",M,Kopiri,Student,13 Apr 2001
+763,160120207,"Niwa, Meto",M,Topel,Driver,30 Sep 1992
+764,160120205,"Niwa, Steven",M,Topel,Driver,17 Apr 1990
+765,160120072,"Nokopa, Pilimbo",M,Kopiri,Carpenter,10 Mar 1965
+766,160241450,"Nomu, Tom",M,Topel,Subsistence Farmer,01 Jan 1974
+767,160246025,"Nopu, Kondi",M,Kopiri,Subsistence Farmer,01 Jan 1980
+768,160246026,"Nopu, Philip",M,Kopiri,Subsistence Farmer,01 Jan 1986
+769,160245636,"Norin, Wayne",M,Kopiri,Subsistence Farmer,01 Jan 2000
+770,160444072,"Norman, Brain",M,Kopiri,Student,10 Feb 2004
+771,160444069,"Norman, Lingsten",M,Kopiri,Student,12 Dec 2003
+772,25082868,"Norman, Ronny",M,Kopiri,Student,28 Apr 2004
+773,160222175,"Norum, Alako",M,Kopiri,Subsistence Farmer,01 Jan 1970
+774,160245667,"Norum, Andy",M,Kopiri,Student,01 Jan 1994
+775,160232536,"Norum, Puiye",M,Kopiri,Computer Operator,01 Jan 1964
+776,160222028,"Norum, Soti jackson",M,Kopiri,Student,01 Jan 1990
+777,160222178,"Norum, Taka",M,Kopiri,Student,01 Jan 1985
+778,160222490,"Norum, Tiye",M,Kopiri,Student,01 Jan 1990
+779,160222496,"Norum, Toroli nelson",M,Kopiri,Business man,01 Jan 1965
+780,160222334,"Norum, Waine",M,Kopiri,Business man,01 Jan 1951
+781,160252939,"Nume, Kelly",M,Topel,Subsistence Farmer,01 Jan 1985
+782,160253004,"Nume, Simon",M,Topel,Student,01 Jan 1996
+783,160223775,"Ogonda, Kelembo",M,Kopiri,Subsistence Farmer,01 Jan 1941
+784,160153299,"Oki, Kaliken",M,Kopiri,Student,01 Jan 1985
+785,160246027,"Oki, Lenga",M,Kopiri,Subsistence Farmer,01 Jan 1947
+786,160148240,"Oki, Pele",M,Kopiri,Student,01 Jan 1987
+787,160153297,"Oki, Tanda",M,Kopiri,Economist,01 Jan 1952
+788,160232393,"Ole, Enga",M,Kopiri,Teacher,01 Jan 1967
+789,160252928,"Ole, Kari",M,Topel,Subsistence Farmer,01 Jan 2000
+790,160232466,"Ole, Ninde",M,Kopiri,Teacher,01 Jan 1958
+791,160253000,"Ole, Ninge",M,Topel,Subsistence Farmer,01 Jan 2000
+792,160252999,"Ole, Noipo",M,Topel,Subsistence Farmer,01 Jan 2000
+793,160120059,"Onno, Moses",M,Topel,Salesman,13 Jun 1985
+794,160226483,"Ono, Mark",M,Kopiri,Subsistence Farmer,01 Jan 1966
+795,160226586,"Ono, Tilipu",M,Kopiri,Teacher,01 Jan 1954
+796,160226492,"Ono, Toroiye",M,Kopiri,Subsistence Farmer,01 Jan 1950
+797,160226485,"Ono, Waka",M,Kopiri,Pastor,01 Jan 1956
+798,160444109,"Painjepo, Yorick",M,Kopiri,Student,13 Dec 2000
+799,160120071,"Pajipo, Erick",M,Kopiri,Student,06 Jan 1999
+800,160153883,"Pani, Rian",M,Kopiri,Student,01 Jan 1990
+801,160443912,"Panii, Ryan",M,Kopiri,Student,06 Dec 2000
+802,160222494,"Paue, Amos",M,Kopiri,Banker,01 Jan 1971
+803,160222177,"Paue, Kumbiye",M,Kopiri,Teacher,01 Jan 1951
+804,160222022,"Paue, Vincent",M,Kopiri,Technician,01 Jan 1968
+805,160245666,"Paulson, Caleb",M,Kopiri,Student,01 Jan 1994
+806,160139756,"Peandi, Gift",M,Topel,Student,19 Jan 1999
+807,160120056,"Peandi, Gilbert",M,Topel,Subsistence Farmer,17 Jul 1998
+808,160252923,"Peandi, Israil",M,Topel,Student,01 Jan 1996
+809,25082936,"Peandi, Lolo",M,Topel,Student,18 Apr 2004
+810,160241445,"Pele, Garu",M,Topel,Subsistence Farmer,01 Jan 1986
+811,160443961,"Pendene, Jeromiah",M,Kopiri,Student,15 May 2000
+812,160146574,"Pendene, Jessy",M,Kopiri,Student,01 Jan 1983
+813,160443964,"Pendene, Job",M,Kopiri,Doctor,15 May 1996
+814,160443959,"Pendene, Justin",M,Kopiri,Student,15 Jun 2001
+815,160250486,"Penga, Kaima",M,Kopiri,Subsistence Farmer,01 Jan 1993
+816,160244653,"Penga, Mopune",M,Kopiri,Subsistence Farmer,01 Jan 1958
+817,160250487,"Pepena, Peter",M,Kopiri,Subsistence Farmer,01 Jan 1968
+818,160222577,"Peter, Amson",M,Kopiri,Driver,01 Jan 1986
+819,160222569,"Peter, Brendy",M,Kopiri,Subsistence Farmer,01 Jan 1987
+820,160252307,"Peter, David",M,Topel,Student,01 Jan 1990
+821,160139757,"Peter, Finlie",M,Topel,Student,20 Feb 1999
+822,25087260,"Peter, Frank",M,Kopiri,Subsistence Farmer,01 Jan 1994
+823,160241190,"Peter, Jack",M,Topel,Subsistence Farmer,01 Jan 1988
+824,160220969,"Peter, Jeffery",M,Kopiri,Subsistence Farmer,01 Jan 1971
+825,160148405,"Peter, Jerry",M,Kopiri,Subsistence Farmer,01 Jan 1977
+826,160220408,"Peter, Julius",M,Kopiri,Subsistence Farmer,01 Jan 1978
+827,160444046,"Peter, Junior",M,Kopiri,Student,13 Oct 2001
+828,160220876,"Peter, Norman",M,Kopiri,Subsistence Farmer,01 Jan 1976
+829,160223960,"Peter, Philip",M,Kopiri,Subsistence Farmer,01 Jan 1980
+830,160241202,"Peter, Polla",M,Topel,Student,01 Jan 1993
+831,160443979,"Peter, Roy",M,Kopiri,Student,05 Nov 2000
+832,160443975,"Peter, Semion",M,Kopiri,Student,10 Oct 1991
+833,160246020,"Peter, Simon",M,Kopiri,Student,01 Jan 1990
+834,160253021,"Peter, Stephen",M,Topel,Student,01 Jan 1984
+835,160220880,"Peter, Terepa",M,Kopiri,Student,01 Jan 1990
+836,160443977,"Peter, Yako",M,Kopiri,Student,13 May 1996
+837,160222417,"Peter, Yalo",M,Kopiri,Student,01 Jan 1990
+838,25082938,"Peter mini, Brian",M,Topel,Student,01 Jan 1998
+839,160444126,"Peter mini, Jerry",M,Kopiri,Student,12 Dec 2002
+840,160249129,"Peyandi, Gibson",M,Topel,Student,01 Jan 1993
+841,25082880,"Philimon, Keke",M,Kopiri,Student,09 Feb 1990
+842,160245952,"Philip, Ben",M,Kopiri,Student,01 Jan 1995
+843,160444081,"Pilimbo, Annani",M,Kopiri,Student,10 Oct 1999
+844,160232528,"Piliwi, Mendo",M,Kopiri,Subsistence Farmer,01 Jan 1960
+845,160120036,"Piliwi, Tonny",M,Topel,Subsistence Farmer,26 Apr 1991
+846,160245948,"Pinte, Jobina",M,Kopiri,Household Duties,01 Jan 1985
+847,160244628,"Pinte, Robin",M,Kopiri,Student,01 Jan 1990
+848,160245769,"Pinte, Ronni",M,Kopiri,Student,01 Jan 1994
+849,160245938,"Pinte, Tumbo",M,Kopiri,Subsistence Farmer,01 Jan 1978
+850,160250785,"Poiye, Keri",M,Topel,Subsistence Farmer,01 Jan 1961
+851,160511148,"Pokea, Paul",M,Kopiri,Teacher,18 Apr 1996
+852,160120041,"Pokeya, Gedion",M,Topel,Subsistence Farmer,22 Mar 1994
+853,160443981,"Pokeya, Yala",M,Kopiri,Student,06 Dec 2003
+854,160223792,"Pole, Andrew",M,Kopiri,Subsistence Farmer,01 Jan 1976
+855,160153880,"Pole, Jacob",M,Kopiri,Subsistence Farmer,01 Jan 1973
+856,160223790,"Pole, John",M,Kopiri,Subsistence Farmer,01 Jan 1984
+857,160223783,"Pole, Mathew",M,Kopiri,Subsistence Farmer,01 Jan 1986
+858,160223784,"Pole, Nemma rex",M,Kopiri,Teacher,01 Jan 1979
+859,160223789,"Pole, Numme",M,Kopiri,Subsistence Farmer,01 Jan 1981
+860,160223785,"Pole, Temane",M,Kopiri,Driver,01 Jan 1977
+861,160241458,"Pondo, Luke",M,Topel,Student,01 Jan 1992
+862,160250493,"Pone, Glopeke",M,Kopiri,Subsistence Farmer,01 Jan 1986
+863,160250488,"Pone, Mala",M,Kopiri,Student,01 Jan 1995
+864,160253105,"Pote, John",M,Topel,Subsistence Farmer,01 Jan 1980
+865,160249705,"Poya, Jeffry",M,Kopiri,Subsistence Farmer,01 Jan 1978
+866,160250053,"Poya, Wanpis",M,Topel,Subsistence Farmer,01 Jan 1976
+867,160250054,"Poya, Watil",M,Topel,Subsistence Farmer,01 Jan 1985
+868,160444015,"Puiye, Ismael",M,Kopiri,Student,13 Feb 1999
+869,160119916,"Puka, Peter",M,Topel,Subsistence Farmer,17 Jun 1991
+870,160226356,"Pulte, Donne",M,Kopiri,Subsistence Farmer,01 Jan 1967
+871,160241356,"Pulte, Moses",M,Topel,Student,01 Jan 1986
+872,160226511,"Pulte, Philip",M,Kopiri,Driver,01 Jan 1974
+873,160225311,"Pulte, Tama",M,Kopiri,Subsistence Farmer,01 Jan 1978
+874,160225298,"Pulte, Tiro",M,Kopiri,Subsistence Farmer,01 Jan 1977
+875,160241442,"Puringi, Puiye",M,Topel,Student,01 Jan 1992
+876,160511149,"Puringy, Micheal",M,Topel,Driver,20 Apr 1995
+877,160240706,"Purul, Ninde",M,Topel,Subsistence Farmer,01 Jan 1979
+878,160443973,"Raken, Jerobim",M,Kopiri,Student,13 Apr 2003
+879,160444164,"Rapula, Job",M,Kopiri,Pastor,13 May 2000
+880,160245779,"Regan, John",M,Kopiri,Subsistence Farmer,01 Jan 1996
+881,160222322,"Ropie, Langi",M,Kopiri,Subsistence Farmer,01 Jan 1947
+882,160245956,"Rosa, Ongonda",M,Kopiri,Subsistence Farmer,01 Jan 1989
+883,25082887,"Ruka, Tom",M,Kopiri,Student,01 Jan 2001
+884,160252943,"Saimon, Manley",M,Topel,Student,01 Jan 1987
+885,160252944,"Saimon, Manual",M,Topel,Student,01 Jan 1990
+886,160252942,"Saimon, Palingi",M,Topel,Driver,01 Jan 1962
+887,160444004,"Sammy tiki, Jannica",M,Kopiri,Teacher,14 Dec 2001
+888,160443938,"Samson, Fabian",M,Kopiri,Self Employed,10 Oct 1995
+889,160443936,"Samson, Philimon",M,Kopiri,Self Employed,15 May 1998
+890,160119911,"Samuel, Junior",M,Topel,Student,07 Mar 1998
+891,160443908,"Simon, Charles",M,Kopiri,Driver,23 Feb 2004
+892,160443957,"Surugi tiri, Sammy",M,Kopiri,Teacher,15 May 1999
+893,160241196,"Talopa, Domonic",M,Topel,Subsistence Farmer,01 Jan 1945
+894,160444084,"Tama, Gibson",M,Kopiri,Student,10 Oct 2000
+895,160153295,"Tanda, Imbi",M,Kopiri,Teacher,01 Jan 1951
+896,25082889,"Tanda, Job yapi",M,Kopiri,Pastor,01 Jan 1978
+897,160151685,"Tanda, Pendene",M,Kopiri,Subsistence Farmer,01 Jan 1957
+898,160153155,"Tanda, Yopo",M,Kopiri,Councillor,01 Jan 1952
+899,160511150,"Tanda yopl, Simon",M,Topel,Subsistence Farmer,15 Apr 1995
+900,160153293,"Tati, Victor",M,Kopiri,Student,01 Jan 1987
+901,160246008,"Tenis, Kelly",M,Kopiri,Student,01 Jan 1996
+902,160246009,"Tenis, Paul",M,Kopiri,Student,01 Jan 1992
+903,160119910,"Thomas, Alfonse",M,Topel,Self Employed,18 Nov 1994
+904,160120075,"Thomas, Granja",M,Topel,Driver,11 Jan 1992
+905,160444188,"Thomas pundu, Alphonse",M,Kopiri,Student,01 Oct 2002
+906,160444185,"Thomas pundu, Granger",M,Kopiri,Policeman,10 Oct 2001
+907,160226324,"Tilipu, Henry",M,Kopiri,Student,01 Jan 1975
+908,160226481,"Tilipu, Jepsy",M,Kopiri,Student,01 Jan 1990
+909,160226480,"Tilipu, Randy",M,Kopiri,Student,01 Jan 1986
+910,160226590,"Tilipu, Reagen",M,Kopiri,Student,01 Jan 1981
+911,160246064,"Tilto, Nopu",M,Kopiri,Subsistence Farmer,01 Jan 1950
+912,160246021,"Timothey, Wanis",M,Kopiri,Subsistence Farmer,01 Jan 1988
+913,25082891,"Tindi, Kellex",M,Kopiri,Unemployed,09 May 1973
+914,25082946,"Tindi, Ryan",M,Topel,Student,28 Apr 2004
+915,160153124,"Tipora, Tati",M,Kopiri,Computer Operator,01 Jan 1964
+916,160153116,"Tipora, Wakena",M,Kopiri,Teacher,01 Jan 1953
+917,160222188,"Tiri, Enno",M,Kopiri,Pastor,01 Jan 1984
+918,160222059,"Tiri, Surigi jack",M,Kopiri,Subsistence Farmer,01 Jan 1976
+919,160222060,"Tiri, Undi",M,Kopiri,Teacher,01 Jan 1950
+920,160222039,"Tiri leslie, Lipu",M,Kopiri,Magistrate,01 Jan 1967
+921,160221923,"Tiri rera, Rex",M,Kopiri,Subsistence Farmer,01 Jan 1967
+922,160444142,"Tiro min, Tupa",M,Kopiri,Student,13 Oct 2000
+923,160252918,"Tiye, Lorance",M,Topel,Student,01 Jan 1990
+924,160253101,"Tiye, Mike",M,Topel,Subsistence Farmer,01 Jan 1982
+925,160249951,"Tokopa, Doti",M,Topel,Teacher,01 Jan 1976
+926,160252950,"Tokopa, Jack",M,Topel,Teacher,01 Jan 1971
+927,160250150,"Tokopa, Nathan",M,Topel,Student,01 Jan 1986
+928,160250146,"Tokopa, Yaya",M,Topel,Subsistence Farmer,01 Jan 1983
+929,160241455,"Tongi, Wakena",M,Topel,Subsistence Farmer,01 Jan 1976
+930,160252925,"Toroiye, Andy",M,Topel,Subsistence Farmer,01 Jan 2000
+931,160226494,"Toroiye, Peter",M,Kopiri,Worker,01 Jan 1971
+932,160253104,"Toroiye, Wambiri",M,Topel,Subsistence Farmer,01 Jan 1968
+933,160222337,"Toroli nelson, Nathan",M,Kopiri,Student,01 Jan 1990
+934,160148244,"Torombena, Diya",M,Kopiri,Subsistence Farmer,01 Jan 1986
+935,160148243,"Torombena, Jim",M,Kopiri,Student,01 Jan 1987
+936,160153154,"Torombena, Lombili",M,Kopiri,Business man,01 Jan 1964
+937,160153142,"Torombena, Methew",M,Kopiri,Student,01 Jan 1990
+938,160222328,"Tungi, Bonjo unjombo",M,Kopiri,Security,01 Jan 1969
+939,160222317,"Tungi, John limbiye",M,Kopiri,Driver,01 Jan 1962
+940,160222183,"Tungi, Mandea",M,Kopiri,Subsistence Farmer,01 Jan 1942
+941,160222176,"Tungi, Ruka",M,Kopiri,Subsistence Farmer,01 Jan 1972
+942,160222065,"Undi, Jackson",M,Kopiri,Student,01 Jan 1986
+943,160222064,"Undi, Leo",M,Kopiri,Subsistence Farmer,01 Jan 1980
+944,160443955,"Undi tiri, Brendon",M,Kopiri,Student,16 Jun 1999
+945,160232437,"Unjombo, Gidion",M,Kopiri,Student,01 Jan 1990
+946,160148391,"Uru, Michael",M,Kopiri,Subsistence Farmer,01 Jan 1965
+947,160148394,"Uru, Niwa",M,Kopiri,Subsistence Farmer,01 Jan 1969
+948,160153256,"Uru, Soti",M,Kopiri,Subsistence Farmer,01 Jan 1966
+949,160222025,"Waine, Jerry",M,Kopiri,Student,01 Jan 1989
+950,160246014,"Waka, Brendy",M,Kopiri,Subsistence Farmer,01 Jan 1989
+951,160226341,"Waka, Jacob",M,Kopiri,Subsistence Farmer,01 Jan 1979
+952,160226487,"Waka, John",M,Kopiri,Subsistence Farmer,01 Jan 1970
+953,160226350,"Waka, Josuha",M,Kopiri,Student,01 Jan 1990
+954,160245774,"Waka, Monda",M,Kopiri,Subsistence Farmer,01 Jan 1974
+955,160153146,"Wakena, Mongi",M,Kopiri,Worker,01 Jan 1959
+956,160443992,"Wakena, Stanford",M,Kopiri,Student,02 Apr 2003
+957,160443990,"Wakera, Stanard",M,Kopiri,Student,02 Apr 2003
+958,160246005,"Wami, Mex",M,Kopiri,Student,01 Jan 1996
+959,160139765,"Wami, Nimrod",M,Topel,Subsistence Farmer,06 Feb 1992
+960,160241175,"Wamo, Yoko",M,Topel,Subsistence Farmer,01 Jan 1976
+961,160139758,"Wane, Noel",M,Topel,Student,02 Jan 1999
+962,25082896,"Wapea, Alfred",M,Kopiri,Student,20 Apr 2004
+963,160153159,"Wapea, Firmbian",M,Kopiri,Student,01 Jan 1990
+964,160151936,"Wapeya, Junior",M,Kopiri,Student,01 Jan 1990
+965,160146575,"Wapeya, Philimon",M,Kopiri,Student,01 Jan 1988
+966,160246062,"Were, Benjamin",M,Kopiri,Subsistence Farmer,01 Jan 1987
+967,160245898,"Were, Bonny",M,Kopiri,Student,01 Jan 1991
+968,160246063,"Were, Daiye",M,Kopiri,Student,01 Jan 1995
+969,160246012,"Willie, Jack",M,Kopiri,Student,01 Jan 1995
+970,160246011,"Willie, Niwi",M,Kopiri,Student,01 Jan 1994
+971,160246010,"Willie, Tom",M,Kopiri,Student,01 Jan 1992
+972,160443922,"Willie, Vector",M,Kopiri,Student,06 May 2001
+973,160443914,"Willie, Waka",M,Kopiri,Student,05 Jun 2000
+974,160222089,"Wiyo, Mendili",M,Kopiri,Worker,01 Jan 1960
+975,160148400,"Wiyo, Pulte",M,Kopiri,Subsistence Farmer,01 Jan 1949
+976,160244629,"Yakili, Kale",M,Kopiri,Subsistence Farmer,01 Jan 1957
+977,160244640,"Yalo, Grace",M,Kopiri,Student,01 Jan 1996
+978,160222419,"Yamai, Amos",M,Kopiri,Subsistence Farmer,01 Jan 1979
+979,160120049,"Yamai, Job",M,Topel,Subsistence Farmer,02 Jul 1992
+980,160222562,"Yamai, Jonna",M,Kopiri,Student,01 Jan 1989
+981,160120051,"Yamai, Mike",M,Topel,Subsistence Farmer,03 Dec 1996
+982,160250780,"Yando, Kaima",M,Topel,Subsistence Farmer,01 Jan 1946
+983,160252029,"Yando, Mongo",M,Topel,Subsistence Farmer,01 Jan 1968
+984,160241186,"Yopai, Greg",M,Topel,Subsistence Farmer,01 Jan 1982
+985,160241199,"Yopai, Kipu",M,Topel,Subsistence Farmer,01 Jan 1984
+986,160250782,"Yope, Kera",M,Topel,Subsistence Farmer,01 Jan 1965
+987,160148251,"Yopo, Kipunge",M,Kopiri,Subsistence Farmer,01 Jan 1977
+988,160148254,"Yopo, Simion",M,Kopiri,Subsistence Farmer,01 Jan 1986
+989,160148252,"Yopo, Simon",M,Kopiri,Student,01 Jan 1986
+990,160153158,"Yopo, Wapea",M,Kopiri,Pastor,01 Jan 1965
+991,160223786,"Yunumi, Giye",M,Kopiri,Subsistence Farmer,01 Jan 1961
+992,160223801,"Yunumi, Pani joseph",M,Kopiri,Business man,01 Jan 1964
+993,160223795,"Yunumi, Peandi",M,Kopiri,Subsistence Farmer,01 Jan 1966
+994,160153876,"Yunumi, Pole",M,Kopiri,Subsistence Farmer,01 Jan 1937
+995,160223956,"Yunumi, Yamai",M,Kopiri,Subsistence Farmer,01 Jan 1948
+996,160223955,"Yunumi joseph, Ogonda osscer",M,Kopiri,Subsistence Farmer,01 Jan 1953

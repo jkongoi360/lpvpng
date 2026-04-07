@@ -1,0 +1,553 @@
+{
+  "provinceId": "milne-bay",
+  "electorates": [
+    {
+      "electorateSlug": "alotau",
+      "llgs": [
+        {
+          "id": "alotau-alotau-urban",
+          "name": "Alotau Urban LLG",
+          "electorateSlug": "alotau",
+          "wards": [
+            {
+              "id": "alotau-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2892
+            },
+            {
+              "id": "alotau-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 5985
+            },
+            {
+              "id": "alotau-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3518
+            }
+          ]
+        },
+        {
+          "id": "alotau-weraura",
+          "name": "Weraura LLG",
+          "electorateSlug": "alotau",
+          "wards": [
+            {
+              "id": "weraura-w01",
+              "name": "Ward 1",
+              "registeredVoters": 6587
+            },
+            {
+              "id": "weraura-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4199
+            },
+            {
+              "id": "weraura-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3578
+            }
+          ]
+        },
+        {
+          "id": "alotau-suau",
+          "name": "Suau LLG",
+          "electorateSlug": "alotau",
+          "wards": [
+            {
+              "id": "suau-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2496
+            },
+            {
+              "id": "suau-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4180
+            },
+            {
+              "id": "suau-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4123
+            },
+            {
+              "id": "suau-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2312
+            }
+          ]
+        },
+        {
+          "id": "alotau-huhu",
+          "name": "Huhu LLG",
+          "electorateSlug": "alotau",
+          "wards": [
+            {
+              "id": "huhu-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1591
+            },
+            {
+              "id": "huhu-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1591
+            },
+            {
+              "id": "huhu-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1944
+            },
+            {
+              "id": "huhu-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1244
+            },
+            {
+              "id": "huhu-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2488
+            },
+            {
+              "id": "huhu-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2613
+            },
+            {
+              "id": "huhu-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1329
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "kiriwina-goodenough",
+      "llgs": [
+        {
+          "id": "kiriwina-goodenough-kiriwina",
+          "name": "Kiriwina LLG",
+          "electorateSlug": "kiriwina-goodenough",
+          "wards": [
+            {
+              "id": "kiriwina-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1963
+            },
+            {
+              "id": "kiriwina-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1418
+            },
+            {
+              "id": "kiriwina-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2826
+            },
+            {
+              "id": "kiriwina-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1663
+            },
+            {
+              "id": "kiriwina-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1785
+            },
+            {
+              "id": "kiriwina-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2483
+            },
+            {
+              "id": "kiriwina-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2105
+            },
+            {
+              "id": "kiriwina-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1773
+            }
+          ]
+        },
+        {
+          "id": "kiriwina-goodenough-goodenough-island",
+          "name": "Goodenough Island LLG",
+          "electorateSlug": "kiriwina-goodenough",
+          "wards": [
+            {
+              "id": "goodenough-island-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1947
+            },
+            {
+              "id": "goodenough-island-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1721
+            },
+            {
+              "id": "goodenough-island-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3305
+            },
+            {
+              "id": "goodenough-island-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3039
+            },
+            {
+              "id": "goodenough-island-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3006
+            },
+            {
+              "id": "goodenough-island-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2642
+            }
+          ]
+        },
+        {
+          "id": "kiriwina-goodenough-losuia",
+          "name": "Losuia LLG",
+          "electorateSlug": "kiriwina-goodenough",
+          "wards": [
+            {
+              "id": "losuia-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3627
+            },
+            {
+              "id": "losuia-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2897
+            },
+            {
+              "id": "losuia-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1765
+            },
+            {
+              "id": "losuia-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1578
+            },
+            {
+              "id": "losuia-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2524
+            },
+            {
+              "id": "losuia-w06",
+              "name": "Ward 6",
+              "registeredVoters": 3543
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "samarai-murua",
+      "llgs": [
+        {
+          "id": "samarai-murua-samarai",
+          "name": "Samarai LLG",
+          "electorateSlug": "samarai-murua",
+          "wards": [
+            {
+              "id": "samarai-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1573
+            },
+            {
+              "id": "samarai-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1584
+            },
+            {
+              "id": "samarai-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1712
+            },
+            {
+              "id": "samarai-w04",
+              "name": "Ward 4",
+              "registeredVoters": 944
+            },
+            {
+              "id": "samarai-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1458
+            },
+            {
+              "id": "samarai-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1012
+            },
+            {
+              "id": "samarai-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1739
+            }
+          ]
+        },
+        {
+          "id": "samarai-murua-murua",
+          "name": "Murua LLG",
+          "electorateSlug": "samarai-murua",
+          "wards": [
+            {
+              "id": "murua-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2985
+            },
+            {
+              "id": "murua-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1785
+            },
+            {
+              "id": "murua-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3055
+            },
+            {
+              "id": "murua-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3573
+            }
+          ]
+        },
+        {
+          "id": "samarai-murua-misima",
+          "name": "Misima LLG",
+          "electorateSlug": "samarai-murua",
+          "wards": [
+            {
+              "id": "misima-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1774
+            },
+            {
+              "id": "misima-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1658
+            },
+            {
+              "id": "misima-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1225
+            },
+            {
+              "id": "misima-w04",
+              "name": "Ward 4",
+              "registeredVoters": 782
+            },
+            {
+              "id": "misima-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1503
+            },
+            {
+              "id": "misima-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1089
+            },
+            {
+              "id": "misima-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1120
+            },
+            {
+              "id": "misima-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1138
+            }
+          ]
+        },
+        {
+          "id": "samarai-murua-woodlark",
+          "name": "Woodlark LLG",
+          "electorateSlug": "samarai-murua",
+          "wards": [
+            {
+              "id": "woodlark-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1183
+            },
+            {
+              "id": "woodlark-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1133
+            },
+            {
+              "id": "woodlark-w03",
+              "name": "Ward 3",
+              "registeredVoters": 972
+            },
+            {
+              "id": "woodlark-w04",
+              "name": "Ward 4",
+              "registeredVoters": 880
+            },
+            {
+              "id": "woodlark-w05",
+              "name": "Ward 5",
+              "registeredVoters": 929
+            },
+            {
+              "id": "woodlark-w06",
+              "name": "Ward 6",
+              "registeredVoters": 866
+            },
+            {
+              "id": "woodlark-w07",
+              "name": "Ward 7",
+              "registeredVoters": 923
+            },
+            {
+              "id": "woodlark-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1450
+            },
+            {
+              "id": "woodlark-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1047
+            },
+            {
+              "id": "woodlark-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1492
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "esa-ala",
+      "llgs": [
+        {
+          "id": "esa-ala-esa-ala",
+          "name": "Esa'ala LLG",
+          "electorateSlug": "esa-ala",
+          "wards": [
+            {
+              "id": "esa-ala-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3219
+            },
+            {
+              "id": "esa-ala-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1425
+            },
+            {
+              "id": "esa-ala-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3243
+            },
+            {
+              "id": "esa-ala-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2180
+            },
+            {
+              "id": "esa-ala-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2380
+            },
+            {
+              "id": "esa-ala-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2149
+            }
+          ]
+        },
+        {
+          "id": "esa-ala-dobu",
+          "name": "Dobu LLG",
+          "electorateSlug": "esa-ala",
+          "wards": [
+            {
+              "id": "dobu-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1779
+            },
+            {
+              "id": "dobu-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2208
+            },
+            {
+              "id": "dobu-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1313
+            },
+            {
+              "id": "dobu-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1530
+            },
+            {
+              "id": "dobu-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1948
+            },
+            {
+              "id": "dobu-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2062
+            },
+            {
+              "id": "dobu-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2481
+            }
+          ]
+        },
+        {
+          "id": "esa-ala-duau",
+          "name": "Duau LLG",
+          "electorateSlug": "esa-ala",
+          "wards": [
+            {
+              "id": "duau-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1484
+            },
+            {
+              "id": "duau-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1380
+            },
+            {
+              "id": "duau-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2021
+            },
+            {
+              "id": "duau-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1675
+            },
+            {
+              "id": "duau-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1572
+            },
+            {
+              "id": "duau-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2667
+            },
+            {
+              "id": "duau-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2269
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

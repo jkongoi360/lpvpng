@@ -1,0 +1,556 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160444495,"Ben, Dorin",F,LOPAILGE,Household Duties,14 Apr 1996
+2,25122979,"Ben, Kiloni",F,LOPAILGE,Student,13 Jul 2003
+3,25122980,"Ben, Machorine",F,LOPAILGE,Student,05 Jan 2004
+4,160148014,"Ena, Ati",F,ALOWANE,Household Duties,01 Jan 2000
+5,160148012,"Ena, Janiffa",F,ALOWANE,Student,01 Jan 2000
+6,160147892,"Ena, Kewambo",F,LOPAILGE,Household Duties,01 Jan 2000
+7,160146991,"Ena, Kudiembo",F,LOPAILGE,Household Duties,01 Jan 2000
+8,160148016,"Ena, Olopo",F,ALOWANE,Student,01 Jan 2000
+9,160443661,"Enna, Jullie",F,ALOWANE,Student,23 Feb 2003
+10,160165762,"Epa, Malendo",F,ALOWANE,Household Duties,01 Jan 2000
+11,160169319,"Gini, Akenabo",F,LOPAILGE,Household Duties,01 Jan 1970
+12,160171246,"Gini, Bepi",F,LOPAILGE,Household Duties,01 Jan 1970
+13,160171394,"Gini, Grace",F,LOPAILGE,Household Duties,01 Jan 1970
+14,160173013,"Gini, Jenny",F,LOPAILGE,Household Duties,01 Jan 1970
+15,160171426,"Gonol, Kaka",F,MARAPU,Household Duties,01 Jan 1976
+16,160167985,"Gonol, None",F,MARAPU,Household Duties,01 Jan 1951
+17,160147993,"Gonol, Tapol",F,MARAPU,Household Duties,01 Jan 1960
+18,160206284,"Guli, Lepoli",F,MARAPU,Household Duties,01 Jan 1960
+19,160444096,"Guli, Mellen",F,MARAPU,Student,20 May 2003
+20,160146965,"Guli, Nolea",F,MARAPU,Household Duties,01 Jan 1972
+21,160443789,"Jan, Kesia",F,LOPAILGE,Student,07 Jul 2000
+22,160443787,"Jan, Masea",F,LOPAILGE,Student,20 Mar 2004
+23,25123039,"Jane, Blesinta",F,LOPAILGE,Student,28 Apr 2004
+24,25123040,"Jane, Bonita",F,LOPAILGE,Household Duties,28 Apr 2004
+25,160165802,"Jeff, Heri",F,LOPAILGE,Household Duties,01 Jan 1983
+26,160169220,"Jipa, Pene",F,LOPAILGE,Household Duties,01 Jan 1980
+27,160171546,"Jipa, Pilge",F,LOPAILGE,Household Duties,01 Jan 1979
+28,160171374,"Jipa, Yara",F,LOPAILGE,Household Duties,01 Jan 1977
+29,160168984,"John, Betty",F,LOPAILGE,Household Duties,01 Jan 1986
+30,160155911,"John, Cathy",F,LOPAILGE,Household Duties,01 Jan 1979
+31,160168111,"John, Heny",F,LOPAILGE,Student,01 Jan 1986
+32,160147912,"John, Josephine",F,LOPAILGE,Household Duties,01 Jan 1964
+33,160147883,"John, Joyce",F,LOPAILGE,Student,01 Jan 1989
+34,160132967,"John, Katty",F,LOPAILGE,Sales Women,07 Dec 1989
+35,160444468,"John, Lindia",F,LOPAILGE,Nurse,04 Aug 2000
+36,160203778,"John, Monicca",F,LOPAILGE,Household Duties,01 Jan 1977
+37,160201942,"John, Panje",F,LOPAILGE,Household Duties,01 Jan 1983
+38,160147913,"John, Pibi",F,LOPAILGE,Student,01 Jan 1988
+39,160156016,"John, Rebecca",F,LOPAILGE,Student,01 Jan 1988
+40,160156424,"John, Ruth",F,LOPAILGE,Student,01 Jan 1988
+41,160443810,"John, Silla",F,LOPAILGE,Typist,04 Feb 2003
+42,160444300,"John, Takep",F,LOPAILGE,Student,16 Apr 2002
+43,160133184,"Kar, Rose",F,MARAPU,Household Duties,13 Sep 1988
+44,160444159,"Kombu, Pepena",F,MARAPUL,Student,11 May 2002
+45,160147920,"Kombu, Tangele",F,MARAPUL,Household Duties,01 Jan 1960
+46,160168003,"Kopo, Meflyn",F,MARAPU,Student,01 Jan 1988
+47,160206264,"Kopono, Loiyembo",F,MARAPU,Not Specified,01 Jan 1951
+48,160132814,"Kote, Maria",F,MARAPU,Household Duties,26 Mar 1980
+49,160132979,"Kumbie, Aketa",F,LOPAILGE,Household Duties,26 May 1996
+50,160146935,"Kumbie, Lewa",F,LOPAILGE,Student,01 Jan 2000
+51,160151752,"Kumbie, Lucy",F,LOPAILGE,Student,01 Jan 2000
+52,160151746,"Kumbie, Rakea",F,LOPAILGE,Household Duties,01 Jan 2000
+53,160444493,"Kumbiye, Christina",F,LOPAILGE,Household Duties,16 Jun 2000
+54,160146982,"Kumbiye, Opi",F,LOPAILGE,Household Duties,01 Jan 1960
+55,160169034,"Luke, Bakey",F,LOPAILGE,Household Duties,01 Jan 1982
+56,160136259,"Luke, Grace",F,LOPAILGE,Student,01 Sep 1995
+57,160173001,"Luke, Gracy",F,LOPAILGE,Student,01 Jan 1981
+58,160173002,"Luke, Graider",F,LOPAILGE,Student,01 Jan 2000
+59,160136260,"Luke, Grenda",F,LOPAILGE,Student,03 Apr 1999
+60,160147049,"Luke, Konte",F,LOPAILGE,Household Duties,01 Jan 2000
+61,160133016,"Luke, Natasa",F,LOPAILGE,Household Duties,16 Jul 1992
+62,160203782,"Make, Wendy",F,LOPAILGE,Household Duties,01 Jan 1960
+63,160163491,"Mambo, Palu",F,LOPAILGE,Household Duties,01 Jan 1942
+64,160169050,"Mamian, Agness",F,LOPAILGE,Household Duties,01 Jan 1979
+65,160169117,"Mamina, Akiri",F,LOPAILGE,Household Duties,01 Jan 1987
+66,160165080,"Mana, Poneje",F,MARAPU,Household Duties,01 Jan 1973
+67,160163486,"Manambe, Laki",F,MARAPU,Household Duties,01 Jan 1968
+68,160163190,"Manambe, Meplin",F,MARAPU,Student,01 Jan 1988
+69,160139945,"Manda, Hero",F,LOPAILGE,Household Duties,01 Jan 2000
+70,160147871,"Mane, Moiye",F,MARAPU,Household Duties,01 Jan 2000
+71,160204492,"Mane, Murip",F,MARAPU,Household Duties,01 Jan 1981
+72,160132934,"Mata, Apolyn",F,MARAPU,Sales Women,20 Mar 1999
+73,160163349,"Mata, Buan",F,MARAPU,Household Duties,01 Jan 2000
+74,160169020,"Mata, Erro",F,MARAPU,Household Duties,01 Jan 1972
+75,160152099,"Miriye, Joyce",F,LOPAILGE,Student,01 Jan 1977
+76,160152077,"Miriye, Lucy",F,LOPAILGE,Student,01 Jan 1978
+77,160152134,"Miriye, Pandea",F,LOPAILGE,Household Duties,01 Jan 1962
+78,160152072,"Miriye, Regina",F,LOPAILGE,Agricultural Training,01 Jan 1969
+79,160163379,"Miriye, Tipili",F,LOPAILGE,Household Duties,01 Jan 1900
+80,160152132,"Miriye, Waisame",F,LOPAILGE,Household Duties,01 Jan 1946
+81,160165014,"Muki, Mongri",F,LOPAILGE,Student,01 Jan 1988
+82,160168618,"Mul, Betty",F,LOPAILGE,Household Duties,01 Jan 1976
+83,160165387,"Mul, Kerel",F,LOPAILGE,Household Duties,01 Jan 1978
+84,160165019,"Mul, Koli",F,LOPAILGE,Student,01 Jan 1986
+85,160165021,"Mul, Tenis",F,LOPAILGE,Teacher,01 Jan 1970
+86,160168617,"Muli, Rose",F,LOPAILGE,Household Duties,01 Jan 1978
+87,160204012,"Namani, Ronie",F,MARAPUL,Student,01 Jan 1980
+88,160173179,"Namaye, Kont",F,MARAPUL,Household Duties,01 Jan 1980
+89,160171600,"Namaye, Molina",F,MARAPUL,Household Duties,01 Jan 1987
+90,160172080,"Nelson, Docas",F,LOPAILGE,Doctor,01 Jan 2000
+91,160153308,"Nelson, Karela",F,LOPAILGE,Teacher,01 Jan 1958
+92,25123155,"Nelson, Sabina",F,LOPAILGE,Household Duties,28 Apr 1993
+93,25123156,"Nelson, Sasa",F,LOPAILGE,Student,28 Apr 2004
+94,160204710,"Nindie, Mondike",F,MARAPUL,Household Duties,01 Jan 1954
+95,160165528,"Nindiye, Kepu",F,MARAPUL,Household Duties,01 Jan 1976
+96,160168742,"Nindiye, Lepo",F,MARAPUL,Household Duties,01 Jan 1950
+97,160171589,"Pakoro, Jenet",F,LOPAILGE,Student,01 Jan 1977
+98,160171587,"Pakoro, Sande",F,LOPAILGE,Household Duties,01 Jan 1965
+99,160132921,"Pala, Jennifer",F,LOPAILGE,Sales Women,20 Mar 1999
+100,160165427,"Palda, Jonah",F,LOPAILGE,Household Duties,01 Jan 1971
+101,160443703,"Palus, Morrin",F,LOPAILGE,Student,26 Oct 2003
+102,160163365,"Panguwe, Becky",F,LOPAILGE,Household Duties,01 Jan 2000
+103,160171679,"Panguwe, Mondi",F,LOPAILGE,Household Duties,01 Jan 2000
+104,160171683,"Paru, Tumbulu",F,KOMBU,Household Duties,01 Jan 1969
+105,160146928,"Pea, Pirinda",F,LOPAILGE,Subsistence Farmer,01 Jan 1987
+106,160151509,"Pea, Ponege",F,LOPAILGE,Household Duties,01 Jan 1974
+107,160206397,"Pedro, Rose",F,LOPAILGE,Household Duties,01 Jan 1979
+108,160206291,"Pelgi, Meglin",F,LOPAILGE,Household Duties,01 Jan 1982
+109,160136101,"Pelkai, Sonila",F,ALOWANE,Student,12 Feb 1995
+110,160168727,"Pema, Lepi",F,KOMBU,Household Duties,01 Jan 2000
+111,160203907,"Pena, Toya",F,KOMBU,Household Duties,01 Jan 1974
+112,160156477,"Pengai, Tatu",F,ALOWANE,Student,01 Jan 1988
+113,160151633,"Pep, Kena",F,LOPAILGE,Household Duties,01 Jan 1976
+114,160203769,"Pep, Waipe",F,LOPAILGE,Household Duties,01 Jan 1972
+115,160171726,"Pepo, Kinie",F,LOPAILGE,Household Duties,01 Jan 1960
+116,160169102,"Pepo, Puye",F,LOPAILGE,Household Duties,01 Jan 1977
+117,160171544,"Perel, Wiriambo",F,KOMBU,Household Duties,01 Jan 1970
+118,160201947,"Permar, Tupulaamb",F,KOMBU,Subsistence Farmer,01 Jan 1964
+119,160202126,"Perry, Teres",F,KOMBU,Student,01 Jan 1983
+120,160444469,"Petrus, Anni",F,KOMBU,Nurse,18 Sep 1998
+121,160444411,"Petrus, Elis",F,KOMBU,Household Duties,29 Mar 2001
+122,160201950,"Petrus, Engamb",F,KOMBU,Student,01 Jan 1987
+123,160156461,"Petrus, Kandiye",F,KOMBU,Household Duties,01 Jan 1964
+124,160201951,"Petrus, Maria",F,KOMBU,Housegirl,01 Jan 1989
+125,160203815,"Petrus, Sandy",F,KOMBU,Housegirl,01 Jan 1988
+126,160157472,"Petrus, Toea",F,KOMBU,Student,01 Jan 1989
+127,160132938,"Petrus, Wendi",F,KOMBU,Sales Women,15 Aug 1997
+128,160156463,"Petrus, Wipa",F,KOMBU,Household Duties,01 Jan 1988
+129,160203809,"Piam, Mots",F,KOMBU,Store Keeper,01 Jan 1975
+130,160201946,"Piam, Wan",F,KOMBU,Household Duties,01 Jan 1964
+131,160203813,"Pilamb, Akil",F,ALOWANE,Household Duties,01 Jan 1983
+132,160202125,"Pilamb, Yang",F,ALOWANE,Subsistence Farmer,01 Jan 1980
+133,160172977,"Pildi, Betel",F,LOPAILGE,Student,01 Jan 1988
+134,160172975,"Pildi, Lilen",F,LOPAILGE,Student,01 Jan 1989
+135,160172978,"Pildi, Lina",F,LOPAILGE,Household Duties,01 Jan 1978
+136,160172974,"Pildi, Ruti",F,LOPAILGE,Student,01 Jan 1900
+137,160155913,"Pilimbo, Betty",F,LOPAILGE,Household Duties,01 Jan 1974
+138,160165216,"Pilimbo, Kangunu",F,LOPAILGE,Pastor,01 Jan 1962
+139,160168994,"Pilimbo, Puno",F,LOPAILGE,Household Duties,01 Jan 1963
+140,160151711,"Pilipo, Daisy",F,ALOWANE,Student,01 Jan 1984
+141,160152102,"Pilipo, Glopa",F,ALOWANE,Teacher,01 Jan 1970
+142,160152110,"Pilipo, Herina",F,ALOWANE,Student,01 Jan 1978
+143,160172991,"Pilipo, Kanambo",F,ALOWANE,Household Duties,01 Jan 1971
+144,160168909,"Poke, Rechal",F,LOPAILGE,Student,01 Jan 1988
+145,160171249,"Pokea, Busu",F,LOPAILGE,Household Duties,01 Jan 1970
+146,160169316,"Pokea, Las",F,LOPAILGE,Household Duties,01 Jan 1967
+147,160147941,"Pokea, Lewa",F,LOPAILGE,Household Duties,01 Jan 1985
+148,160148130,"Pokea, Lina",F,LOPAILGE,Household Duties,01 Jan 1974
+149,160151503,"Poki, Pell",F,KOMBU,Household Duties,01 Jan 1980
+150,160203802,"Pokia, Kelara",F,KOMBU,Baby Sitter,01 Jan 1982
+151,160201943,"Pokia, Raikem",F,KOMBU,Household Duties,01 Jan 1980
+152,160165308,"Pokopia, Jackline",F,KOMBU,Household Duties,01 Jan 1975
+153,160165793,"Poli, Maruna",F,LOPAILGE,Household Duties,01 Jan 1973
+154,160444290,"Poli, Rita",F,LOPAILGE,Student,06 Oct 2003
+155,160157374,"Polombiye, Wambri",F,LOPAILGE,Household Duties,01 Jan 1962
+156,160444288,"Pombo, Jullie",F,KOMBU,Student,03 Nov 2001
+157,160133140,"Pombra, Ticky",F,KOMBU,Student,10 Apr 1999
+158,160169389,"Ponege, Jacklyn",F,KOMBU,Student,01 Jan 1986
+159,160169388,"Ponege, Kina",F,KOMBU,Household Duties,01 Jan 1980
+160,160153093,"Pongijame, Aiyele",F,KOMBU,Household Duties,01 Jan 1951
+161,160444494,"Ponje, Betna",F,KOMBU,Household Duties,04 Oct 1998
+162,160206290,"Ponje, Jenet",F,KOMBU,Household Duties,01 Jan 1976
+163,160152057,"Pote, Alis",F,ALOWANE,Household Duties,01 Jan 1980
+164,160206395,"Pote, Anna",F,ALOWANE,Student,01 Jan 1983
+165,160132932,"Pote, Maria",F,ALOWANE,Sales Women,16 Feb 1999
+166,160206376,"Pote, Nonambo",F,ALOWANE,Household Duties,01 Jan 1960
+167,160171422,"Pote, Regina",F,ALOWANE,Household Duties,01 Jan 1975
+168,160165717,"Pu, Teiyam",F,ALOWANE,Household Duties,01 Jan 1973
+169,160169110,"Puka, Josephine",F,ALOWANE,Household Duties,01 Jan 1975
+170,160165719,"Puka, Kuramb",F,ALOWANE,Household Duties,01 Jan 1976
+171,160171545,"Pukimo, Noli",F,ALOWANE,Household Duties,01 Jan 1959
+172,160165621,"Pukumbi, Ezy",F,ALOWANE,Household Duties,01 Jan 1975
+173,160148118,"Pulpia, Gethrine",F,LOPAILGE,Household Duties,01 Jan 1978
+174,160444147,"Pulu, Semilla",F,LOPAILGE,Student,16 Jan 2003
+175,160132917,"Pulupa, Susan",F,LOPAILGE,Sales Women,23 Aug 1996
+176,160171698,"Pure, Kole",F,LOPAILGE,Household Duties,01 Jan 2000
+177,160153478,"Purol, Sumoli",F,LOPAILGE,Household Duties,01 Jan 1969
+178,160136096,"Puroli, Semila",F,LOPAILGE,Student,24 Mar 1999
+179,160133182,"Puroli, Yondo",F,LOPAILGE,Household Duties,12 Apr 1986
+180,160444377,"Puru, Sanitha",F,LOPAILGE,Student,19 Jan 2003
+181,160165608,"Purul, Wala",F,LOPAILGE,Student,01 Jan 1988
+182,160153301,"Pururil, Tilipu",F,LOPAILGE,Household Duties,01 Jan 1973
+183,160165613,"Pus, Dakuma",F,KOMBU,Student,01 Jan 1986
+184,160165314,"Pus, Kaldop",F,KOMBU,Household Duties,01 Jan 1969
+185,160165842,"Pus, Pelda",F,KOMBU,Household Duties,01 Jan 1981
+186,160165286,"Raume, Elly",F,KOMBU,Student,01 Jan 1989
+187,160165111,"Raume, Kulumbu",F,KOMBU,Household Duties,01 Jan 1967
+188,160165039,"Raume, Mis",F,KOMBU,Household Duties,01 Jan 1985
+189,160169175,"Raume, Nancy",F,KOMBU,Student,01 Jan 1979
+190,160167365,"Sap, Betty",F,KOMBU,Household Duties,01 Jan 1986
+191,160171564,"Satua, Ronicca",F,KOMBU,Student,01 Jan 1983
+192,160171705,"Satua, Ruth",F,KOMBU,Student,01 Jan 1975
+193,160171703,"Satua, Wan",F,KOMBU,Household Duties,01 Jan 1960
+194,160165530,"Seng, Seken",F,KOMBU,Household Duties,01 Jan 1982
+195,160168907,"Seng, Welamendanong",F,KOMBU,Household Duties,01 Jan 1965
+196,160203993,"Sent, Kuleko",F,KOMBU,Household Duties,01 Jan 1978
+197,160171478,"Sent, Magaret",F,KOMBU,Household Duties,01 Jan 1986
+198,160171465,"Serekul, Lastina",F,KOMBU,Student,01 Jan 1976
+199,160171443,"Simbil, Waina",F,KOMBU,Household Duties,01 Jan 2000
+200,160152167,"Sipo, Anne",F,KOMBU,Housegirl,01 Jan 1974
+201,160153610,"Sipo, Misais",F,KOMBU,Household Duties,01 Jan 1978
+202,160163381,"Sipo, Steverlyn",F,KOMBU,Housegirl,01 Jan 1974
+203,160168902,"Taka, Magareth",F,LOPAILGE,Household Duties,01 Jan 1977
+204,160165512,"Taka, Makurame",F,LOPAILGE,Household Duties,01 Jan 1975
+205,160165852,"Taka, Mare",F,LOPAILGE,Household Duties,01 Jan 1948
+206,160165766,"Taka, Nombea",F,LOPAILGE,Subsistence Farmer,01 Jan 1976
+207,160165392,"Takune, Yalombo",F,ALOWANE,Household Duties,01 Jan 1966
+208,160151716,"Tenis, Gikamb",F,LOPAILGE,Household Duties,01 Jan 1976
+209,160132955,"Tenis, Lorijoy",F,LOPAILGE,Teacher,25 Sep 1990
+210,160163386,"Tenis, Maria",F,LOPAILGE,Household Duties,01 Jan 1981
+211,160167918,"Tenis, Melinda",F,LOPAILGE,Student,01 Jan 1990
+212,160163388,"Tenis, Monica",F,LOPAILGE,Household Duties,01 Jan 1984
+213,160147987,"Tenis, Pis",F,LOPAILGE,Household Duties,01 Jan 1969
+214,160168730,"Tenis, Prisicila",F,LOPAILGE,Student,01 Jan 1984
+215,160136130,"Tenis, Rita",F,LOPAILGE,Sales Women,06 Mar 1999
+216,160171568,"Terum, Jenefer",F,KOMBU,Household Duties,01 Jan 1983
+217,160203996,"Terum, Kiye",F,KOMBU,Household Duties,01 Jan 1966
+218,160204410,"Terum, Marglyn",F,KOMBU,Student,01 Jan 1988
+219,160204407,"Terum, Maria",F,KOMBU,Household Duties,01 Jan 1966
+220,160171566,"Terum, Rambal",F,KOMBU,Household Duties,01 Jan 1980
+221,160171585,"Timothy, Cathy",F,ALOWANE,Household Duties,01 Jan 1980
+222,25123267,"Timothy, Jerothy",F,ALOWANE,Household Duties,28 Apr 2001
+223,25123268,"Timothy, Rendila",F,ALOWANE,Student,01 Mar 2004
+224,160171619,"Timothy, Ruth",F,ALOWANE,Household Duties,01 Jan 1980
+225,160165838,"Tinge, Luther",F,LOPAILGE,Household Duties,01 Jan 1977
+226,160163369,"Tinge, Peamo",F,LOPAILGE,Household Duties,01 Jan 1968
+227,160153607,"Tinge, Siana",F,LOPAILGE,Student,01 Jan 1989
+228,160157350,"Tuku, Amba",F,LOPAILGE,Household Duties,01 Jan 1959
+229,160156466,"Tuku, Cathy",F,LOPAILGE,Household Duties,01 Jan 1960
+230,160169048,"Tumboiye, Kuku",F,KOMBU,Household Duties,01 Jan 1985
+231,160168006,"Tumboiye, Repo",F,KOMBU,Student,01 Jan 1989
+232,160169109,"Tumboiye, Wini",F,KOMBU,Student,01 Jan 1987
+233,160168157,"Tumboye, Puile",F,KOMBU,Household Duties,01 Jan 1940
+234,160168110,"Ulu, Alice",F,ALOWANE,Household Duties,01 Jan 1970
+235,160147909,"Ulu, Omabo",F,ALOWANE,Household Duties,01 Jan 1960
+236,160151508,"Wako, Janet",F,KOMBU,Household Duties,01 Jan 2000
+237,160136107,"Wako, Mecki",F,KOMBU,Student,18 Mar 1995
+238,160151586,"Wako, Niomi",F,KOMBU,Student,01 Jan 1985
+239,160132904,"Wako, Pilembo",F,KOMBU,Household Duties,01 Mar 1979
+240,160151510,"Wako, Ruth",F,KOMBU,Household Duties,01 Jan 2000
+241,160165595,"Wesely, Hellen",F,MARAPU,Household Duties,01 Jan 1972
+242,160443867,"Wesley, Ester",F,MARAPU,Student,10 May 2003
+243,160444304,"Wesley, Gracelyn",F,MARAPU,Student,17 Mar 2002
+244,160136131,"Wesley, Kepa",F,MARAPU,Sales Women,03 Feb 1996
+245,160132788,"Wesley, Maya",F,MARAPU,Sales Women,04 Dec 1994
+246,160171530,"Yando, Betty",F,KOMBU,Student,01 Jan 1982
+247,160444328,"Yando, Jaylin",F,KOMBU,Student,17 Nov 2003
+248,160443560,"Yando, Lindia",F,KOMBU,Student,20 Nov 2002
+249,160444508,"Yando, Lois",F,KOMBU,Student,01 Dec 1999
+250,160171247,"Yando, Lucy",F,KOMBU,Household Duties,01 Jan 1984
+251,160156446,"Yando, Namba",F,KOMBU,Household Duties,01 Jan 1945
+252,160152131,"Yando, Ruth",F,KOMBU,Household Duties,01 Jan 1970
+253,160171614,"Yaulen, Betty",F,KOMBU,Student,01 Jan 1983
+254,160173030,"Yaulen, Eraimbo",F,KOMBU,Household Duties,01 Jan 1969
+255,160171436,"Yombi, Kolakulu",F,ALOWANE,Household Duties,01 Jan 2000
+256,160173018,"Yombi, Rebeca",F,ALOWANE,Student,01 Jan 2000
+257,160132973,"Yombi, Regina",F,ALOWANE,Sales Women,22 May 1993
+258,160132974,"Yombi, Ria",F,ALOWANE,Sales Women,21 Nov 1995
+259,160133057,"Yombi, Sharoty",F,ALOWANE,Household Duties,21 Dec 1990
+260,160173020,"Yombi, Sherothy",F,ALOWANE,Student,01 Jan 2000
+261,160132920,"Yupe, Frecela",F,KOMBU,Sales Women,25 Apr 1998
+262,160165114,"Yupe, Helezambeth",F,KOMBU,Student,01 Jan 1983
+263,160173066,"Yupe, Kesa",F,KOMBU,Household Duties,01 Jan 2000
+264,160171723,"Yupe, Lus",F,KOMBU,Household Duties,01 Jan 2000
+265,160171499,"Yupe, Monica",F,KOMBU,Household Duties,01 Jan 1964
+266,160164934,"Yupe, Nambili",F,KOMBU,Household Duties,01 Jan 1969
+267,160443995,"Ben, Pis",M,LOPAILGE,Student,21 Aug 2003
+268,160148013,"Ena, Mondo",M,ALOWANE,Aid Post Orderly,01 Jan 2000
+269,160148015,"Ena, Pereli",M,ALOWANE,Panel Beater,01 Jan 2000
+270,160152103,"Enge, Wane",M,ALOWANE,Peace Officer,01 Jan 1968
+271,160173047,"Gini, Davidson",M,LOPAILGE,Subsistence Farmer,01 Jan 1973
+272,160165036,"Gini, Raume",M,LOPAILGE,Subsistence Farmer,01 Jan 1964
+273,160173050,"Gini, Romox",M,LOPAILGE,Subsistence Farmer,01 Jan 1980
+274,160173016,"Gini, Tenis",M,LOPAILGE,Subsistence Farmer,01 Jan 1975
+275,160173007,"Gini, Yombi",M,ALOWANE,Pastor,01 Jan 2000
+276,160147995,"Gonol, Micheal",M,MARAPU,Subsistence Farmer,01 Jan 1976
+277,160171427,"Gonol, Ponege",M,MARAPU,Subsistence Farmer,01 Jan 1977
+278,160147977,"Gonol, Pora",M,MARAPU,Subsistence Farmer,01 Jan 1956
+279,160444099,"Guli, Brendon",M,MARAPU,Student,17 Mar 2001
+280,160206286,"Guli, Desmon",M,MARAPU,Student,01 Jan 1990
+281,160443863,"Guli, Lato",M,MARAPU,Student,11 Jun 2002
+282,160443785,"Jan, Geson",M,LOPAILGE,Subsistence Farmer,21 Sep 2001
+283,160444350,"Jan, Noma",M,LOPAILGE,Student,13 Nov 2001
+284,25123041,"Jane, Joe",M,LOPAILGE,Subsistence Farmer,28 Apr 2004
+285,25123042,"Jeff, Archy",M,LOPAILGE,Student,28 Apr 2004
+286,160444133,"Jeff, Benji",M,LOPAILGE,Student,16 Apr 2001
+287,160444130,"Jeff, Bopi",M,ALOWANE,Student,12 Feb 2002
+288,160147881,"Jeff, Erick",M,LOPAILGE,Subsistence Farmer,01 Jan 1979
+289,25123044,"Jeff, Joseph",M,LOPAILGE,Student,28 Apr 2004
+290,160171234,"Jipa, Jaccak",M,LOPAILGE,Subsistence Farmer,01 Jan 1985
+291,160146836,"John, Gomo",M,LOPAILGE,Subsistence Farmer,01 Jan 2000
+292,160132909,"John, Punga",M,LOPAILGE,Machinist,16 Jul 1996
+293,160133063,"Kalipe, Francis",M,LOPAILGE,Student,16 Feb 1998
+294,160133064,"Kalipe, Only",M,LOPAILGE,Student,29 Mar 1999
+295,160133062,"Kalipe, Peya",M,LOPAILGE,Student,26 May 1997
+296,160132887,"Kalipe, Semmy",M,LOPAILGE,Student,23 Oct 1998
+297,160171244,"Kambo, Pokea",M,LOPAILGE,Teacher,01 Jan 1968
+298,160151604,"Kar, Joshep",M,MARAPU,Subsistence Farmer,01 Jan 1968
+299,160152116,"Kar, Makop",M,MARAPU,Subsistence Farmer,01 Jan 1959
+300,160133186,"Kar, Simon",M,MARAPU,Student,18 Apr 1996
+301,160172998,"Kire, Luke",M,LOPAILGE,Teacher,01 Jan 2000
+302,160152101,"Kombu, Algo",M,MARAPUL,Subsistence Farmer,01 Jan 2000
+303,160444162,"Kombu, Cliford",M,MARAPUL,Student,03 Apr 2001
+304,160147923,"Kombu, Kupo",M,MARAPUL,Subsistence Farmer,01 Jan 1960
+305,160173185,"Kombu, Tano",M,MARAPUL,Subsistence Farmer,01 Jan 1966
+306,160151999,"Kombu, Timinte",M,MARAPUL,Subsistence Farmer,01 Jan 2000
+307,160151654,"Kombu, Toropo",M,MARAPUL,Worker,01 Jan 2000
+308,160168952,"Kopo, Bepi",M,MARAPU,Houseboy,01 Jan 1983
+309,160169367,"Kopo, Frank",M,MARAPU,Student,01 Jan 1985
+310,160206474,"Kopono, Mali",M,MARAPU,Subsistence Farmer,01 Jan 1978
+311,160206475,"Kopono, Pelgaiye",M,MARAPU,Subsistence Farmer,01 Jan 1979
+312,160168040,"Kopono, Pulu",M,MARAPU,Subsistence Farmer,01 Jan 1976
+313,160206288,"Kopono, Tumba",M,MARAPU,Subsistence Farmer,01 Jan 1965
+314,160135969,"Kote, Kein",M,MARAPU,Sales Women,22 Mar 1997
+315,160132815,"Kote, Magrowin",M,MARAPU,Sales Women,09 Mar 1998
+316,160135970,"Kote, Rexson",M,MARAPU,Sales Women,11 Apr 1999
+317,160444257,"Kumbie, Berthor",M,LOPAILGE,Subsistence Farmer,21 Dec 2001
+318,160146933,"Kumbie, Tonny",M,LOPAILGE,Pastor,01 Jan 2000
+319,160444022,"Kumbiye, Kelly",M,LOPAILGE,Student,01 Jul 2003
+320,160443931,"Luke, Emil",M,LOPAILGE,Student,10 Nov 2003
+321,160171618,"Luke, Frank",M,LOPAILGE,Student,04 Dec 1983
+322,160133058,"Luke, Frank",M,LOPAILGE,Student,21 Aug 1997
+323,160173005,"Luke, Grem",M,LOPAILGE,Student,01 Jan 2000
+324,160443879,"Luke, Mcfill",M,LOPAILGE,Subsistence Farmer,14 Oct 2003
+325,25123129,"Luke, Nick",M,LOPAILGE,Student,16 Jul 2003
+326,160204246,"Make, John",M,LOPAILGE,Dentist,01 Jan 1967
+327,160165602,"Make, Lus",M,LOPAILGE,Student,01 Jan 1971
+328,160165718,"Make, Pokopia",M,LOPAILGE,Subsistence Farmer,01 Jan 1978
+329,160169093,"Makep, Nekon",M,LOPAILGE,Subsistence Farmer,01 Jan 1958
+330,160165076,"Mamambuga, Api",M,LOPAILGE,Teacher,01 Jan 1971
+331,160163201,"Mambo, Alo",M,LOPAILGE,Subsistence Farmer,01 Jan 1976
+332,160163195,"Mambo, Andi",M,LOPAILGE,Clerk,01 Jan 1973
+333,160163498,"Mambo, Philip",M,LOPAILGE,Subsistence Farmer,01 Jan 1977
+334,160163384,"Mambo, Steven",M,LOPAILGE,Subsistence Farmer,01 Jan 1986
+335,160169052,"Mamina, Aklo",M,LOPAILGE,Subsistence Farmer,01 Jan 1980
+336,160168010,"Mamina, Anda",M,LOPAILGE,Subsistence Farmer,01 Jan 1986
+337,160169049,"Mamina, John",M,LOPAILGE,Subsistence Farmer,01 Jan 1977
+338,160168007,"Mamina, Kom",M,LOPAILGE,Subsistence Farmer,01 Jan 1980
+339,160132907,"Manda, Micheal",M,MARAPU,Not Specified,14 Mar 1984
+340,160136105,"Manda, Oko",M,MARAPU,Subsistence Farmer,18 Mar 1978
+341,160148036,"Manda, Paul",M,MARAPU,Subsistence Farmer,01 Jan 2000
+342,160147045,"Manda, Tembon",M,MARAPU,Subsistence Farmer,01 Jan 1945
+343,160132908,"Manda, Tolai",M,MARAPU,Sales Women,25 Apr 1988
+344,160132903,"Manda, Wako",M,MARAPU,Subsistence Farmer,17 Sep 1978
+345,160163353,"Mata, Wini",M,MARAPU,Subsistence Farmer,01 Jan 1980
+346,160165169,"Mataniel, Ape",M,MARAPU,Subsistence Farmer,01 Jan 1967
+347,160443590,"Matha, Benzii",M,MARAPU,Subsistence Farmer,24 Apr 2004
+348,160152172,"Miriye, Gilbert",M,LOPAILGE,Soldier,01 Jan 1966
+349,160151994,"Miriye, Max",M,LOPAILGE,Student,01 Jan 1975
+350,160151628,"Miriye, Pilipo",M,LOPAILGE,Pastor,01 Jan 1949
+351,160164943,"Mok, Mul",M,LOPAILGE,Subsistence Farmer,01 Jan 1988
+352,160165596,"Mul, Poli",M,LOPAILGE,Subsistence Farmer,01 Jan 1969
+353,160165788,"Mulu, Apenge",M,LOPAILGE,Subsistence Farmer,01 Jan 1970
+354,160165712,"Mulu, Smith",M,LOPAILGE,Engineer,01 Jan 1949
+355,160153518,"Nelson, Ekeme",M,LOPAILGE,Subsistence Farmer,01 Jan 1985
+356,160153311,"Nelson, Jeff",M,LOPAILGE,Subsistence Farmer,01 Jan 1974
+357,160151594,"Nidiye, Suku",M,MARAPUL,Subsistence Farmer,01 Jan 1950
+358,160173003,"Ninde, Peke",M,MARAPUL,Subsistence Farmer,01 Jan 1939
+359,160204538,"Nindie, Wale",M,MARAPUL,Subsistence Farmer,01 Jan 1972
+360,160169095,"Nindipo, Pola",M,MARAPUL,Subsistence Farmer,01 Jan 1978
+361,160152154,"Nindiye, Emba",M,MARAPUL,Subsistence Farmer,01 Jan 1975
+362,160152156,"Nindiye, Kipulu",M,MARAPUL,Subsistence Farmer,01 Jan 1970
+363,160168977,"Nindiye, Korea",M,MARAPUL,Subsistence Farmer,01 Jan 1980
+364,160204011,"Nindiye, Noke",M,MARAPUL,Subsistence Farmer,01 Jan 1964
+365,160151572,"Pai, Waima",M,LOPAILGE,Subsistence Farmer,01 Jan 1969
+366,160171676,"Paile, Frank",M,LOPAILGE,Worker,01 Jan 2000
+367,160169163,"Paim, Kembo",M,ALOWANE,Subsistence Farmer,01 Jan 1974
+368,160171384,"Paim, Rui",M,LOPAILGE,Subsistence Farmer,01 Jan 1968
+369,160171239,"Pakoro, Iliach",M,LOPAILGE,Student,01 Jan 1979
+370,160169312,"Pakoro, Lin",M,LOPAILGE,Subsistence Farmer,01 Jan 1980
+371,160443782,"Pakson, Semy",M,LOPAILGE,Student,09 Jul 2001
+372,160168049,"Palga- saba, Pandea",M,LOPAILGE,Subsistence Farmer,01 Jan 2000
+373,160168054,"Palma, Soti",M,LOPAILGE,Subsistence Farmer,01 Jan 2000
+374,160153795,"Panguwe, Rendy",M,LOPAILGE,Student,01 Jan 2000
+375,160163505,"Panguwe, Riched",M,LOPAILGE,Student,01 Jan 2000
+376,160171699,"Paru, Joana",M,KOMBU,Student,01 Jan 1984
+377,160165421,"Paru, Ninze",M,KOMBU,Teacher,01 Jan 1967
+378,160171557,"Paru, Petrus",M,KOMBU,Student,01 Jan 1984
+379,160171680,"Paru, Pulu",M,KOMBU,Subsistence Farmer,01 Jan 1960
+380,160153480,"Paulus, Kurume",M,LOPAILGE,Pastor,01 Jan 1970
+381,160153309,"Paulus, Samson",M,LOPAILGE,Student,01 Jan 1984
+382,160153307,"Paulusi, Sam torobena",M,LOPAILGE,Student,01 Jan 1981
+383,160444302,"Paus, John",M,LOPAILGE,Student,09 Nov 2002
+384,160206277,"Pauwe, Tosidil",M,LOPAILGE,Subsistence Farmer,01 Jan 1950
+385,160151741,"Pea, Pilimbo",M,LOPAILGE,Student,01 Jan 1983
+386,160165170,"Peandi, Luke",M,LOPAILGE,Subsistence Farmer,01 Jan 1980
+387,160165324,"Peandi, Siri",M,LOPAILGE,Subsistence Farmer,01 Jan 1968
+388,160136250,"Pedro, Jeral",M,LOPAILGE,Student,15 Mar 1996
+389,160443664,"Peice, Robin",M,LOPAILGE,Student,18 Mar 2002
+390,160207266,"Peke, Lgoraiye",M,LOPAILGE,Subsistence Farmer,01 Jan 1946
+391,160167909,"Pelgai, Fredy",M,LOPAILGE,Store Keeper,01 Jan 2000
+392,160133046,"Pelkai, Martin",M,LOPAILGE,Student,09 Nov 1997
+393,160133047,"Pelkai, Petrus",M,LOPAILGE,Student,27 Apr 1999
+394,160443972,"Pena, Jerry",M,KOMBU,Student,22 May 2003
+395,160173071,"Pena, Kewa",M,KOMBU,Subsistence Farmer,01 Jan 1951
+396,160204004,"Pena, Kuleko",M,KOMBU,Subsistence Farmer,01 Jan 1968
+397,160167913,"Pena, Mike",M,KOMBU,Doctor,01 Jan 1982
+398,160443974,"Pena, Sleck",M,KOMBU,Student,04 Mar 2001
+399,160203818,"Pena, Tai",M,KOMBU,Subsistence Farmer,01 Jan 1975
+400,160157396,"Pengai, David",M,LOPAILGE,Subsistence Farmer,01 Jan 1987
+401,160171366,"Pepo, Doa",M,LOPAILGE,Subsistence Farmer,01 Jan 1987
+402,160171504,"Pepo, Kerowa",M,LOPAILGE,Subsistence Farmer,01 Jan 1984
+403,160444472,"Pepo, Manly",M,LOPAILGE,Student,16 Oct 1998
+404,160444473,"Pepo, Manuel",M,LOPAILGE,Student,20 Sep 2000
+405,160171728,"Pepo, Nick",M,LOPAILGE,Subsistence Farmer,01 Jan 1981
+406,160444067,"Pera, Benson",M,LOPAILGE,Student,24 Jun 2002
+407,160151751,"Pera, Dop",M,LOPAILGE,Subsistence Farmer,01 Jan 1953
+408,160443576,"Pera, Garry",M,LOPAILGE,Student,28 Jan 2004
+409,160173011,"Pera, John",M,LOPAILGE,Pastor,01 Jan 2000
+410,160444466,"Perai, Stanly",M,LOPAILGE,Student,20 Apr 1997
+411,160204249,"Peraka, Lewa",M,LOPAILGE,Subsistence Farmer,01 Jan 1964
+412,160165685,"Perakai, Monda",M,LOPAILGE,Subsistence Farmer,01 Jan 1956
+413,160444352,"Pere, Johnny",M,KOMBU,Student,13 Oct 2002
+414,160203904,"Permar, Kil",M,KOMBU,Self Employed,01 Jan 1966
+415,160146949,"Permar, Tan",M,KOMBU,Student,01 Jan 1982
+416,160203794,"Perry, Kum",M,KOMBU,Self Employed,01 Jan 1968
+417,160203796,"Perry, Tenis",M,KOMBU,Doctor,01 Jan 1956
+418,160167917,"Petrus, Ilambo",M,KOMBU,Subsistence Farmer,01 Jan 2000
+419,160156441,"Petrus, Wanpis",M,KOMBU,Subsistence Farmer,01 Jan 1990
+420,160201944,"Piam, Koim",M,KOMBU,Business man,01 Jan 1959
+421,160201945,"Piam, Tepora",M,KOMBU,Security,01 Jan 1962
+422,160201948,"Pilamb, Aiyong",M,ALOWANE,Security,01 Jan 1956
+423,160201952,"Pilamb, Biang",M,ALOWANE,Subsistence Farmer,01 Jan 1972
+424,160203801,"Pilamb, Manape",M,ALOWANE,Student,01 Jan 1985
+425,160201953,"Pilamb, Mark",M,ALOWANE,Subsistence Farmer,01 Jan 1961
+426,160152135,"Pildiye, Korowi",M,LOPAILGE,Subsistence Farmer,01 Jan 1974
+427,160168900,"Pile, Stenly",M,LOPAILGE,Subsistence Farmer,01 Jan 1980
+428,160165092,"Pilimbo, Andrew",M,LOPAILGE,Student,01 Jan 1987
+429,160168998,"Pilimbo, Philimon",M,LOPAILGE,Student,01 Jan 1984
+430,160151709,"Pilipo, Flexon",M,ALOWANE,Student,01 Jan 1976
+431,160163390,"Pilipo, Lucas",M,ALOWANE,Subsistence Farmer,01 Jan 1967
+432,160151713,"Pilipo, Rex",M,ALOWANE,Student,01 Jan 1985
+433,160152107,"Pilipo, Rueben",M,ALOWANE,Student,01 Jan 1978
+434,160151708,"Pilipo, Wesley",M,ALOWANE,Student,01 Jan 1977
+435,160146962,"Pipa, Dari",M,KOMBU,Subsistence Farmer,01 Jan 1967
+436,160146964,"Pipi, Guli",M,KOMBU,Subsistence Farmer,01 Jan 1969
+437,160146963,"Pipi, Kagupu",M,KOMBU,Subsistence Farmer,01 Jan 1968
+438,160151513,"Pipi, Manica",M,KOMBU,Subsistence Farmer,01 Jan 1968
+439,160151759,"Pius, Alkus",M,KOMBU,Subsistence Farmer,01 Jan 1968
+440,160148234,"Pius, Mai",M,KOMBU,Student,01 Jan 1988
+441,160444070,"Poke, Kelson",M,LOPAILGE,Student,13 Feb 2003
+442,160168997,"Poke, Micheal",M,LOPAILGE,Cleaner,01 Jan 2000
+443,160148123,"Pokea, Simbura",M,LOPAILGE,Subsistence Farmer,01 Jan 1987
+444,160147947,"Pokea, Stennly",M,LOPAILGE,Subsistence Farmer,01 Jan 1984
+445,160151502,"Poki, Paile",M,KOMBU,Subsistence Farmer,01 Jan 1973
+446,160153102,"Pokia, Dembi",M,KOMBU,Driver,01 Jan 1986
+447,160153103,"Pokia, Kelly",M,KOMBU,Student,01 Jan 1985
+448,160152061,"Pokia, Koldop",M,KOMBU,Policeman,01 Jan 1976
+449,160203806,"Pokia, Mambol",M,KOMBU,Crewman,01 Jan 1983
+450,160152062,"Pokia, Pora",M,KOMBU,Subsistence Farmer,01 Jan 1964
+451,160153104,"Pokia, Tende",M,KOMBU,Subsistence Farmer,01 Jan 1965
+452,160146955,"Pol, Opi",M,LOPAILGE,Subsistence Farmer,01 Jan 1969
+453,160157372,"Polombiye, Garu",M,LOPAILGE,Subsistence Farmer,01 Jan 1964
+454,160444286,"Pombo, Peter",M,KOMBU,Student,17 Jun 2003
+455,160146947,"Ponege, Kili",M,KOMBU,Subsistence Farmer,01 Jan 2000
+456,160171533,"Ponege, Yakopa",M,KOMBU,Subsistence Farmer,01 Jan 1952
+457,160171715,"Pongoiye, Nema",M,KOMBU,Subsistence Farmer,01 Jan 1967
+458,160168037,"Pote, Joe",M,ALOWANE,Subsistence Farmer,01 Jan 1976
+459,160444464,"Pote, John",M,ALOWANE,Subsistence Farmer,24 Mar 1994
+460,160206380,"Pote, Mapen",M,ALOWANE,Subsistence Farmer,01 Jan 1980
+461,160168556,"Pote, Nema",M,ALOWANE,Subsistence Farmer,01 Jan 2000
+462,160206379,"Pote, Pembo",M,ALOWANE,Student,01 Jan 1978
+463,160171269,"Pote, Ruben",M,ALOWANE,Subsistence Farmer,01 Jan 1974
+464,160206377,"Pote, Wampis",M,ALOWANE,Subsistence Farmer,01 Jan 1976
+465,160444048,"Pote, Wilson",M,ALOWANE,Student,16 Oct 2003
+466,160168561,"Puke, Andrew",M,ALOWANE,Subsistence Farmer,01 Jan 1982
+467,160173061,"Puke, Temane",M,ALOWANE,Magistrate,01 Jan 2000
+468,160165849,"Pukumbi, Junior",M,ALOWANE,Student,01 Jan 1984
+469,160168044,"Pulimbe, Kilipe",M,LOPAILGE,Subsistence Farmer,01 Jan 1976
+470,160168881,"Pulimbi, Angi",M,LOPAILGE,Pastor,01 Jan 1973
+471,160168879,"Pulmbi, Nonge",M,LOPAILGE,Subsistence Farmer,01 Jan 1958
+472,160148128,"Pulpia, Mithy",M,LOPAILGE,Subsistence Farmer,01 Jan 1989
+473,160171498,"Pulu, Ari",M,LOPAILGE,Subsistence Farmer,01 Jan 1978
+474,160171496,"Pulu, Inock",M,LOPAILGE,Subsistence Farmer,01 Jan 1974
+475,160444150,"Pulu, Nepo",M,LOPAILGE,Student,12 Nov 2001
+476,160168140,"Pulumbi, Mone",M,LOPAILGE,Subsistence Farmer,01 Jan 1962
+477,160203944,"Puringi, Nalenga",M,LOPAILGE,Subsistence Farmer,01 Jan 1961
+478,160203945,"Puringi, Tanke",M,LOPAILGE,Subsistence Farmer,01 Jan 1965
+479,160136095,"Purol, Makop",M,LOPAILGE,Subsistence Farmer,23 Jun 1992
+480,160136094,"Puroli, Mata",M,LOPAILGE,Subsistence Farmer,24 Aug 1986
+481,160204543,"Purul, Tomoye",M,LOPAILGE,Subsistence Farmer,01 Jan 1956
+482,160153304,"Puruli, Kelly",M,LOPAILGE,Subsistence Farmer,01 Jan 2000
+483,160153711,"Puruli, Simon",M,LOPAILGE,Subsistence Farmer,01 Jan 1979
+484,160165283,"Raume, Abraham",M,KOMBU,Student,01 Jan 1987
+485,160171493,"Satua, Jerry",M,KOMBU,Student,01 Jan 1979
+486,160168725,"Seng, Francis",M,KOMBU,Subsistence Farmer,01 Jan 1976
+487,160165690,"Seng, Jacob",M,KOMBU,Student,01 Jan 1973
+488,160171440,"Simbil, John",M,KOMBU,Public Servant,01 Jan 2000
+489,160444308,"Simbil, Miron",M,KOMBU,Student,27 Sep 2001
+490,160152129,"Sipo, Benjimen",M,KOMBU,Student,01 Jan 1980
+491,160153613,"Sipo, James",M,KOMBU,Student,01 Jan 1986
+492,160151613,"Sipo, Stanely",M,KOMBU,Subsistence Farmer,01 Jan 1964
+493,160165391,"Taka, Pinte",M,LOPAILGE,Subsistence Farmer,01 Jan 1973
+494,160165769,"Taka, Walipe",M,LOPAILGE,Subsistence Farmer,01 Jan 2000
+495,160165017,"Taka, Wesely",M,LOPAILGE,Subsistence Farmer,01 Jan 1970
+496,160153747,"Tenis, Benny",M,LOPAILGE,Subsistence Farmer,01 Jan 1978
+497,160136129,"Tenis, Junior",M,LOPAILGE,Sales Women,11 Dec 1995
+498,160443580,"Tenis, Justine",M,LOPAILGE,Subsistence Farmer,26 Apr 2004
+499,160168160,"Tenis, Lewa",M,LOPAILGE,Subsistence Farmer,01 Jan 1982
+500,160132956,"Tenis, Philip",M,LOPAILGE,Caretaker,17 Feb 1992
+501,160133128,"Tenis, Robin",M,LOPAILGE,Student,01 May 1995
+502,160171490,"Terum, Opi",M,KOMBU,Subsistence Farmer,01 Jan 1960
+503,160443989,"Terum, Remci",M,KOMBU,Student,09 Feb 2001
+504,160443988,"Terum, Rogga",M,KOMBU,Student,17 Apr 2002
+505,25123266,"Timothy, Andyson",M,MARAPU,Student,28 Apr 2004
+506,160443641,"Timothy, David",M,MARAPU,Student,24 Apr 2002
+507,160443639,"Timothy, Kelep",M,MARAPU,Student,13 Jul 2003
+508,160165310,"Tinge, Josuwa",M,LOPAILGE,Student,01 Jan 1984
+509,160163371,"Tinge, Luta",M,LOPAILGE,Student,01 Jan 1981
+510,160165605,"Tinge, Philip",M,LOPAILGE,Subsistence Farmer,01 Jan 1976
+511,160153604,"Tinge, Pilip",M,LOPAILGE,Subsistence Farmer,01 Jan 1962
+512,160165609,"Tinge, Samuel",M,LOPAILGE,Subsistence Farmer,01 Jan 1972
+513,160147958,"Toka, Purul",M,LOPAILGE,Subsistence Farmer,01 Jan 1970
+514,160168113,"Tokopa, Gloraiye",M,LOPAILGE,Subsistence Farmer,01 Jan 1978
+515,160171424,"Tokopa, Lekson",M,LOPAILGE,Subsistence Farmer,01 Jan 1984
+516,160171425,"Tokopa, Peterson",M,LOPAILGE,Student,01 Jan 1988
+517,160444485,"Tokopi, Issac",M,LOPAILGE,Pastor,14 Dec 1999
+518,160165307,"Tosey, Make",M,LOPAILGE,Subsistence Farmer,01 Jan 1970
+519,160204242,"Tuku, Dasip",M,LOPAILGE,Subsistence Farmer,01 Jan 1969
+520,160156474,"Tuku, George",M,LOPAILGE,Subsistence Farmer,01 Jan 1980
+521,160204403,"Tuku, Kuleko",M,LOPAILGE,Teacher,01 Jan 1966
+522,160157347,"Tuku, Thomas",M,LOPAILGE,Subsistence Farmer,01 Jan 1954
+523,160206390,"Tuku, Tilto",M,LOPAILGE,Pastor,01 Jan 1956
+524,160204547,"Tuku, Timbil",M,LOPAILGE,Subsistence Farmer,01 Jan 1946
+525,160169047,"Tumboiye, Paul",M,KOMBU,Subsistence Farmer,01 Jan 1983
+526,160168624,"Uiu, Jane",M,ALOWANE,Subsistence Farmer,01 Jan 1967
+527,160147908,"Ulu, Jeff",M,ALOWANE,Subsistence Farmer,01 Jan 1969
+528,160147910,"Ulu, Nelson",M,ALOWANE,Student,01 Jan 1970
+529,160165431,"Wai, Manda",M,LOPAILGE,Subsistence Farmer,01 Jan 1973
+530,160171271,"Waka, Garu",M,LOPAILGE,Subsistence Farmer,01 Jan 1972
+531,160163404,"Waka, Jeffry",M,LOPAILGE,Electrician,05 May 1968
+532,160163401,"Waka, Kot",M,LOPAILGE,Subsistence Farmer,01 Jan 1954
+533,160164939,"Waka, Kuleko",M,LOPAILGE,Student,01 Jan 1979
+534,160164942,"Waka, Mandi",M,LOPAILGE,Student,01 Jan 1950
+535,160132919,"Waka, Same",M,LOPAILGE,Sales Women,20 Oct 1997
+536,160444368,"Waka, Silton",M,LOPAILGE,Student,02 Aug 2002
+537,160165123,"Waka, Tona",M,LOPAILGE,Subsistence Farmer,01 Jan 1952
+538,160132905,"Wako, Simon",M,KOMBU,Housegirl,13 May 1992
+539,160165597,"Wapeke, Takune",M,ALOWANE,Subsistence Farmer,01 Jan 1945
+540,160444510,"Yando, Amos",M,KOMBU,Subsistence Farmer,11 Dec 1990
+541,160444329,"Yando, Jeffery",M,KOMBU,Student,26 Sep 2001
+542,160171528,"Yando, John",M,KOMBU,Subsistence Farmer,01 Jan 1979
+543,160156421,"Yando, Micheal",M,KOMBU,Subsistence Farmer,01 Jan 1970
+544,160156011,"Yando, Robert",M,KOMBU,Subsistence Farmer,01 Jan 1967
+545,160444509,"Yando, Shion",M,KOMBU,Student,06 Nov 2001
+546,160173031,"Yaulen, Weiny",M,KOMBU,Subsistence Farmer,01 Jan 1974
+547,160171536,"Yoke, Jipa",M,LOPAILGE,Subsistence Farmer,01 Jan 1955
+548,160136258,"Yombi, Jayson",M,ALOWANE,Student,21 Aug 1996
+549,160133056,"Yombi, Jeremah",M,ALOWANE,Student,10 Oct 1994
+550,160171447,"Yombi, Jeremiah",M,ALOWANE,Student,01 Jan 2000
+551,160173056,"Yombi, Jerrom",M,ALOWANE,Student,01 Jan 2000
+552,160171441,"Yombi, Petrus",M,ALOWANE,Teacher,01 Jan 2000
+553,160173063,"Yupe, Akop",M,KOMBU,Subsistence Farmer,01 Jan 2000
+554,160171720,"Yupe, John",M,KOMBU,Subsistence Farmer,01 Jan 1986
+555,160171495,"Yupe, Stephen",M,KOMBU,Subsistence Farmer,01 Jan 1952

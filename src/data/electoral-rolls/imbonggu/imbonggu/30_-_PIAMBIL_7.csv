@@ -1,0 +1,849 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160188193,"Abaram, Esta",F,MALGA,Household Duties,01 Jan 1977
+2,160216188,"Afkas, Maklina",F,MALGA,Household Duties,01 Jan 1979
+3,160165371,"Ainjo, Jaronie",F,YUPIPUL,Student,01 Jan 2000
+4,160165370,"Ainjo, Kuku",F,YUPIPUL,Household Duties,01 Jan 2000
+5,160197144,"Akisi, Jeniffer",F,MALGA,Household Duties,11 Jun 1970
+6,160191080,"Akop, Siki",F,MALGA,Household Duties,01 Jan 1965
+7,160195706,"Ambu asiki, Mary",F,MALGA,Household Duties,01 Jan 1976
+8,160440247,"Andia, Catrina",F,YUPIPUL,Typist,08 Sep 2003
+9,160163129,"Andoma, Pingembo",F,YUPIPUL,Household Duties,01 Jan 2000
+10,25123643,"Andopo, Carol",F,YUPIPUL,Student,14 Apr 2000
+11,160182756,"Ane, Bingap",F,MALGA,Sales Women,03 Nov 1978
+12,160184906,"Anis, Lepi",F,MALGA,Household Duties,01 Jan 1969
+13,160155998,"Anjo, Apurel",F,MALGA,Subsistence Farmer,26 Oct 1949
+14,160159078,"Anjo, Buka",F,MALGA,Subsistence Farmer,08 Jul 1981
+15,160155719,"Anjo, Lipa",F,MALGA,Student,02 Oct 1985
+16,160165624,"Anjo, Maria",F,MALGA,Household Duties,01 Jan 2000
+17,160167707,"Anjo, Notel",F,MALGA,Household Duties,01 Jan 1975
+18,160158820,"Anjo, Ropini",F,MALGA,Subsistence Farmer,12 Oct 1945
+19,160167708,"Anjo, Sina",F,MALGA,Household Duties,01 Jan 1984
+20,160204691,"Anna, Simon",F,MALGA,Household Duties,01 Jan 1970
+21,160163130,"Anoma, Bepi",F,MALGA,Doctor,01 Jan 2000
+22,160212678,"Antere, Mandi",F,MALGA,Household Duties,01 Jan 1966
+23,160213716,"Antere, Soti",F,MALGA,Student,01 Jan 1970
+24,160163049,"Apurel, Cris",F,MALGA,Household Duties,01 Jan 1976
+25,160119288,"Apurel, Matane",F,MALGA,Household Duties,25 Mar 1986
+26,160219053,"Apurel, Matani",F,MALGA,Housegirl,01 Jan 1990
+27,160162901,"Apurel, Peny",F,MALGA,Student,01 Jan 1980
+28,160119223,"Arimbi, Nana",F,MALGA,Nurse,05 Jun 1993
+29,160119130,"Artis, Jenny",F,MARAPUL,Subsistence Farmer,13 Apr 1987
+30,160440446,"Artis, Mai",F,MARAPUL,Student,13 Jan 2001
+31,160190848,"Arume, Engambo",F,YUPIPUL,Household Duties,01 Jan 1956
+32,160167709,"Arume, Kaname",F,YUPIPUL,Household Duties,01 Jan 1964
+33,160201908,"Arume, Kawame",F,YUPIPUL,Household Duties,01 Jan 1983
+34,160190842,"Arume, Kolambo",F,YUPIPUL,Household Duties,01 Jan 1976
+35,160193359,"Arume, Kundu",F,YUPIPUL,Household Duties,01 Jan 1972
+36,160189778,"Arume, Melly",F,YUPIPUL,Student,01 Jan 1988
+37,160188681,"Arume, Rosna",F,YUPIPUL,Student,01 Jan 1988
+38,160177646,"Arume, Siye",F,YUPIPUL,Student,01 Jan 1986
+39,160167701,"Balus, Akiri",F,MALGA,Household Duties,01 Jan 1976
+40,160175981,"Balus, Bepi",F,MALGA,Student,13 Jan 1982
+41,160136212,"Benson, Anna",F,MALGA,Pastor,14 Jan 1996
+42,25123657,"Benson, Britney",F,MALGA,Housegirl,16 Mar 2000
+43,160178006,"Benson, Rose",F,MALGA,Household Duties,01 Jan 1980
+44,160171753,"Berem, Laki",F,MALGA,Household Duties,11 Feb 1940
+45,160175809,"Berem, Tokopa",F,MALGA,Household Duties,31 Jan 1969
+46,160155864,"Bopege, Pule",F,MALGA,Household Duties,01 Jan 1965
+47,160196319,"Buka, Mol",F,YUPIPUL,Sales Women,19 Nov 1967
+48,160171760,"Buka, Toea",F,YUPIPUL,Household Duties,12 Jun 1960
+49,160182894,"Dembis, Jennifer",F,MALGA,Student,01 Jan 1986
+50,160183227,"Dembis, Mits",F,MALGA,Household Duties,01 Jan 1956
+51,160215403,"Deni, Grace",F,YUPIPUL,Housegirl,26 Jan 1989
+52,160213754,"Deni, Reacheal",F,YUPIPUL,Household Duties,02 May 1975
+53,160158835,"Denis, Merelin",F,YUPIPUL,Household Duties,30 Nov 1978
+54,160160691,"Diowai, Betty",F,YUPIPUL,Nurse,01 Jan 2000
+55,160162908,"Diowai, Linda",F,YUPIPUL,Typist,01 Jan 2000
+56,160160696,"Diowai, Lucy",F,YUPIPUL,Student,01 Jan 2000
+57,160162736,"Diowai, Tiwi",F,YUPIPUL,Household Duties,01 Jan 2000
+58,160162726,"Dip, Marklyn",F,YUPIPUL,Household Duties,16 Apr 1982
+59,160212752,"Doli, Bepi",F,YUPIPUL,Household Duties,11 Jun 1965
+60,160440260,"Dopoka, Betty",F,YUPIPUL,Student,07 Oct 2003
+61,160440279,"Dopu, Dorothy",F,YUPIPUL,Student,02 Nov 2003
+62,160165641,"Drek, Rose",F,YUPIPUL,Household Duties,01 Jan 1976
+63,160182646,"Dupai, Juddy",F,MALGA,Housegirl,01 Jan 1985
+64,160182963,"Dupai, Lus",F,MALGA,Student,06 Dec 1982
+65,160186979,"Dupai, Mary",F,MALGA,Housegirl,01 Jan 1982
+66,160183041,"Dupai, Missi",F,MALGA,Household Duties,01 Jan 1975
+67,160160180,"Dupai, Ondom",F,MALGA,Household Duties,01 Jan 1962
+68,160182642,"Dupai, Ruthy",F,MALGA,Housegirl,01 Jan 1980
+69,160182872,"Dupai, Wellema",F,MALGA,Housegirl,01 Jan 1985
+70,160182917,"Eas, Mery",F,MALGA,Household Duties,20 Nov 1969
+71,160155954,"Elisa, Frisila",F,YUPIPUL,Household Duties,01 Jan 1968
+72,160194422,"Elpa, Bepi",F,YUPIPUL,Household Duties,01 Jan 1982
+73,160197142,"Eltele, Niningi",F,YUPIPUL,Household Duties,20 Nov 1960
+74,160201913,"Emba, Kaltepo",F,YUPIPUL,Household Duties,01 Jan 1967
+75,160177482,"Emba, Kiniye",F,YUPIPUL,Typist,01 Jan 1987
+76,160177501,"Emba, Kuskus",F,YUPIPUL,Student,01 Jan 1962
+77,160196046,"Emba, Mana",F,YUPIPUL,Household Duties,01 Jan 1940
+78,160173356,"Emli, Namb",F,YUPIPUL,Student,26 Mar 1983
+79,160440350,"Emos, Mila",F,MALGA,Student,18 Mar 2001
+80,160210706,"Enga, Kandiye",F,YUPIPUL,Household Duties,01 Jan 1971
+81,160163156,"Enga, Katerna",F,YUPIPUL,Household Duties,01 Jan 1969
+82,160167605,"Enga, Ruth",F,YUPIPUL,Student,01 Jan 1987
+83,160440697,"Engi, Belinda",F,YUPIPUL,Household Duties,01 Jan 1992
+84,160153565,"Era, Wapola",F,YUPIPUL,Subsistence Farmer,01 Jan 1969
+85,160136348,"Fred, Monica",F,YUPIPUL,Baby Sitter,15 Aug 1998
+86,160180857,"Gabrial, Makambo margeret",F,YUPIPUL,Household Duties,01 Jan 1986
+87,160439929,"Gerald, Bame",F,YUPIPUL,Student,15 Mar 2003
+88,160439935,"Gerald, Jenifer",F,YUPIPUL,Student,20 Apr 2003
+89,160439931,"Gerald, Lelani",F,YUPIPUL,Student,14 Mar 2003
+90,160198491,"Gini, Pule",F,YUPIPUL,Household Duties,01 Jan 1976
+91,160194681,"Goipe, Emiu",F,YUPIPUL,Household Duties,01 Jan 1955
+92,160194809,"Goipe, Kupinipul",F,YUPIPUL,Household Duties,01 Jan 1961
+93,160158927,"Gupe, Kupa",F,YUPIPUL,Not Specified,01 Jan 1968
+94,160162654,"Gupe, Tomab",F,YUPIPUL,Household Duties,01 Jan 1979
+95,160440303,"Jerol, Regina",F,MALGA,Student,23 Jul 2003
+96,25123726,"Joel, Carin",F,MALGA,Student,14 May 2000
+97,25123727,"Joel, Finley",F,MALGA,Student,12 Mar 1999
+98,160119382,"John, Dolly",F,MALGA,Student,13 Jun 1997
+99,160158851,"John, Elem",F,MALGA,Teacher,02 Apr 1972
+100,160162659,"John, Elizabeth",F,MALGA,Student,10 Dec 1980
+101,160162700,"John, Erambo",F,MALGA,Household Duties,12 Mar 1965
+102,160119178,"John, Finley",F,MALGA,Student,12 Apr 1998
+103,160440343,"John, Gebrala",F,MALGA,Student,28 Apr 2001
+104,160119380,"John, Janet",F,MALGA,Teacher,08 Jun 1986
+105,160439940,"John, Jathson",F,MALGA,Student,09 Feb 2000
+106,160139968,"John, Joen",F,MALGA,Student,01 Jan 1988
+107,160153037,"John, Jully",F,MALGA,Household Duties,01 Jan 2000
+108,160159048,"John, Lapi",F,MALGA,Household Duties,08 Mar 1969
+109,160185108,"John, Lenda",F,MALGA,Housegirl,11 Apr 1987
+110,160176247,"John, Lus",F,MALGA,Student,01 Jan 1989
+111,160153644,"John, Malisa",F,MALGA,Student,06 Aug 1987
+112,160169024,"John, Maria",F,MALGA,Household Duties,16 Jul 1971
+113,25123733,"John, Nola",F,MALGA,Student,14 May 2000
+114,160162710,"John, Rebecca",F,MALGA,Student,09 Aug 1984
+115,25123749,"Junior, Esther",F,MALGA,Student,14 Apr 1989
+116,160119156,"Junior, Lineth",F,MALGA,Subsistence Farmer,12 Nov 1989
+117,160440765,"Junjor, Sharow",F,MALGA,Housegirl,19 Feb 2000
+118,160440477,"Kaima, Mona",F,YUPIPUL,Student,14 Aug 2001
+119,160440473,"Kaima, Monica",F,YUPIPUL,Student,17 Sep 2003
+120,160218197,"Kale, Lewa",F,YUPIPUL,Household Duties,01 Jan 1954
+121,160218360,"Kale, Magijeu",F,YUPIPUL,Household Duties,01 Jan 1954
+122,160175835,"Kale, Nopiye",F,YUPIPUL,Household Duties,01 Jan 1938
+123,160165636,"Kale, Tilto",F,YUPIPUL,Household Duties,05 Dec 1979
+124,160196397,"Kamano, Pepa",F,YUPIPUL,Household Duties,01 Jan 2000
+125,160196219,"Kamano, Pulai",F,YUPIPUL,Household Duties,01 Jan 2000
+126,160196209,"Kamano, Rachael",F,YUPIPUL,Household Duties,01 Jan 2000
+127,160182767,"Kanol, Cathy",F,YUPIPUL,Student,05 Nov 1970
+128,160440756,"Kanoli, Bepi",F,YUPIPUL,Household Duties,15 May 2002
+129,160440387,"Karoma, Daina",F,YUPIPUL,Household Duties,14 Aug 2002
+130,160440396,"Karoma, Regina",F,YUPIPUL,Student,16 Dec 2003
+131,160440391,"Kelly, Dodo",F,YUPIPUL,Student,04 Mar 2003
+132,160119195,"Kelly, Dorothy",F,YUPIPUL,Household Duties,16 May 1986
+133,160119352,"Kerema, Lilian",F,YUPIPUL,Teacher,11 Sep 1981
+134,160155772,"Kereme, Ceicelia",F,YUPIPUL,Household Duties,01 Jan 2000
+135,160165743,"Kereme, Jeniffa",F,YUPIPUL,Household Duties,01 Jan 2000
+136,160155821,"Kereme, Kumbie",F,YUPIPUL,Household Duties,01 Jan 2000
+137,160160708,"Kereme, Lillian",F,YUPIPUL,Household Duties,01 Jan 2000
+138,160155961,"Kereme, Mary",F,YUPIPUL,Typist,01 Jan 2000
+139,160197002,"Kereme, Stehnie",F,YUPIPUL,Household Duties,01 Jan 2000
+140,160153045,"Kevin, Hellen",F,YUPIPUL,Student,01 Jan 2000
+141,160139975,"Kevin, Ikome",F,YUPIPUL,Household Duties,01 Jan 2000
+142,160119307,"Kevin, Serah",F,YUPIPUL,Student,26 Mar 1995
+143,160195714,"Kololi, Mata",F,YUPIPUL,Household Duties,01 Jan 2000
+144,160173734,"Kololi, Mits",F,YUPIPUL,Household Duties,01 Jan 1941
+145,160195969,"Kololi, Paleambo",F,YUPIPUL,Household Duties,01 Jan 2000
+146,160195812,"Kolop, Ennd",F,YUPIPUL,Household Duties,19 Oct 1961
+147,160195810,"Kolop, Piokye",F,YUPIPUL,Household Duties,01 Jan 1900
+148,160189798,"Kolopu, Kopeli",F,YUPIPUL,Household Duties,01 Jan 1952
+149,160188202,"Kolopu, Tepoli",F,YUPIPUL,Household Duties,01 Jan 1961
+150,160176018,"Kondowa, Betty",F,YUPIPUL,Not Specified,01 Jan 1980
+151,160176269,"Kondowa, Cathy",F,YUPIPUL,Student,01 Jan 2000
+152,160187639,"Kondowa, Ladi",F,YUPIPUL,Household Duties,01 Jan 2000
+153,160155897,"Kondowa, Maria",F,YUPIPUL,Household Duties,01 Jan 2000
+154,160187634,"Kondowa, Nima",F,YUPIPUL,Household Duties,01 Jan 2000
+155,160187670,"Kondowa, Rose",F,YUPIPUL,Store Keeper,01 Jan 1978
+156,160440543,"Kondowa, Shalome",F,YUPIPUL,Typist,22 Apr 2001
+157,160165372,"Kondowa, Tiki",F,YUPIPUL,Household Duties,01 Jan 1969
+158,160176276,"Kondowa, Wapono",F,YUPIPUL,Household Duties,01 Jan 2000
+159,160155895,"Kondowa, Wino",F,YUPIPUL,Household Duties,01 Jan 2000
+160,160182960,"Kopel, Kola",F,MALGA,Household Duties,01 Jan 2000
+161,160440220,"Kopel, Sharon",F,MALGA,Student,12 Mar 2002
+162,160188240,"Kopele, Tombiye",F,MALGA,Household Duties,01 Jan 1955
+163,160202087,"Koropa, Kenda",F,YUPIPUL,Household Duties,01 Jan 1970
+164,160175881,"Koropa, Luther",F,YUPIPUL,Household Duties,01 Jan 1979
+165,160175888,"Koropa, Mololi",F,YUPIPUL,Household Duties,01 Jan 1940
+166,160173800,"Koropa, Naldi",F,YUPIPUL,Household Duties,01 Jan 1975
+167,160213416,"Koropa, Relrorelro",F,YUPIPUL,Household Duties,26 Sep 1967
+168,160190340,"Koropa, Sina",F,YUPIPUL,Household Duties,01 Jan 1972
+169,160193245,"Kote, Ester",F,YUPIPUL,Student,25 Dec 1983
+170,160193252,"Kote, Nathaca",F,YUPIPUL,Student,18 Sep 1987
+171,160180783,"Kumbie, Anna",F,MALGA,Student,01 Jan 1986
+172,160182870,"Kumbie, Bepi",F,MALGA,Household Duties,01 Jan 2000
+173,160183040,"Kumbie, Hellen",F,MALGA,Household Duties,01 Jan 1978
+174,160188243,"Kumbie, Merolyn",F,MALGA,Household Duties,13 Jul 1979
+175,160186958,"Kumbie, Mona",F,MALGA,Housegirl,01 Jan 2000
+176,160182651,"Kumbie, Namba",F,MALGA,Household Duties,01 Jan 2000
+177,160186982,"Kumbie, Serah",F,MALGA,Household Duties,01 Jan 1973
+178,160197045,"Lenda wanpis, Bepi",F,MALGA,Household Duties,01 Jan 1978
+179,160196159,"Lenga siyopai, Iriname",F,MALGA,Household Duties,01 Jan 1964
+180,160189803,"Lesta, Regina",F,MALGA,Household Duties,01 Jan 1970
+181,160167607,"Lewa, Cathy",F,YUPIPUL,Household Duties,01 Jan 1972
+182,160189964,"Lewa, Philp",F,YUPIPUL,Household Duties,01 Jan 1966
+183,160204503,"Liwa, Jenifer",F,YUPIPUL,Household Duties,01 Jan 1965
+184,160163053,"Liwa, Seron",F,YUPIPUL,Student,04 Jul 1986
+185,160158923,"Liwa, Yarambo",F,YUPIPUL,Typist,29 Jun 1970
+186,160187623,"Lombil, Balino",F,MALGA,Household Duties,01 Jan 2000
+187,160190621,"Lopeke, Kaltepo",F,KOPILNE,Household Duties,01 Jan 1961
+188,160165364,"Lopeke, Kombili",F,KOPILNE,Household Duties,01 Jan 2000
+189,160163126,"Lopeke, Maine",F,KOPILNE,Household Duties,01 Jan 2000
+190,160194668,"Lopeke, Tiye",F,KOPILNE,Household Duties,01 Jan 2000
+191,160213747,"Loraiye, Jennet",F,MALGA,Student,01 Jan 1969
+192,160213741,"Loraiye, Mepili",F,MALGA,Household Duties,01 Jan 1968
+193,160182919,"Loraiye, Yuino",F,MALGA,Household Duties,01 Jan 2000
+194,160440655,"Luke, Damana",F,MALGA,Student,10 Aug 2000
+195,25123778,"Luke, Mary",F,MALGA,Student,16 Mar 2002
+196,160440763,"Luke, Mery",F,MALGA,Household Duties,20 Feb 2003
+197,160159059,"Luke, Miriye",F,MALGA,Household Duties,01 Jan 1963
+198,160440555,"Luke, Sila",F,MALGA,Student,28 Apr 2004
+199,160182798,"Makenge, Mellen",F,MALGA,Housegirl,01 Jan 1986
+200,160176139,"Mano, Belinda",F,YUPIPUL,Student,01 Jan 1987
+201,160195967,"Mano, Carolyn",F,YUPIPUL,Household Duties,01 Jan 2000
+202,160171918,"Mano, Linda",F,YUPIPUL,Student,01 Jan 2000
+203,160119158,"Mano, Stella",F,YUPIPUL,Student,13 May 1998
+204,160176288,"Mano, Susan",F,YUPIPUL,Household Duties,01 Jan 2000
+205,160218151,"Meck, Kathy",F,MALGA,Student,01 Jan 1986
+206,160216650,"Meck, Tiye",F,MALGA,Household Duties,01 Jan 1961
+207,160119387,"Mek, Elly",F,MALGA,Household Duties,12 Nov 1986
+208,160212608,"Mek, Jente",F,MALGA,Student,03 Feb 1976
+209,160155860,"Mek, Kor",F,MALGA,Store Keeper,01 Jan 1975
+210,160158842,"Mek, Maklin",F,MALGA,Household Duties,01 Jan 1970
+211,160213627,"Mek, Mokambo",F,MALGA,Household Duties,04 Jul 1962
+212,160165136,"Mek, Nancy",F,MALGA,Student,08 Mar 1982
+213,160165290,"Mek, Piana",F,MALGA,Student,05 Jul 1980
+214,160158841,"Mek, Rosly",F,MALGA,Household Duties,01 Jan 1980
+215,160158839,"Mek, Siki",F,MALGA,Household Duties,01 Jan 1951
+216,160190709,"Mek, Tagodor",F,MALGA,Student,17 Jan 1990
+217,160189820,"Melpa, Bendet",F,YUPIPUL,Student,06 Sep 1990
+218,160167606,"Melpa, Cathy",F,YUPIPUL,Household Duties,01 Jan 1968
+219,160155795,"Melpa, Kina",F,YUPIPUL,Household Duties,01 Jan 1960
+220,160167616,"Melpa, Kiwa",F,YUPIPUL,Household Duties,01 Jan 1972
+221,160156062,"Melpa, Puldupa",F,YUPIPUL,Household Duties,01 Jan 1980
+222,160155977,"Melpa, Rosa",F,YUPIPUL,Student,01 Jan 1986
+223,160190337,"Melpa, Simbuambo",F,YUPIPUL,Household Duties,01 Jan 2000
+224,160439919,"Mendep, Alpina",F,MALGA,Student,02 Feb 2000
+225,160171790,"Mendep, Dao",F,MALGA,Household Duties,01 Jan 2000
+226,160136353,"Mendep, Dona",F,MALGA,Subsistence Farmer,25 Mar 1996
+227,160136186,"Mendep, Juli",F,MALGA,Subsistence Farmer,04 Apr 1998
+228,160187506,"Mendep, Kumbie",F,MALGA,Household Duties,01 Jan 2000
+229,160440072,"Mendep, Mati",F,MALGA,Student,22 Apr 2003
+230,160160789,"Mendep, Noino",F,MALGA,Household Duties,01 Jan 2000
+231,160439917,"Mendep, Semila",F,MALGA,Student,14 Aug 2000
+232,160440456,"Michael, Belo",F,YUPIPUL,Student,28 Feb 2002
+233,25123803,"Michael, Elizabeth",F,YUPIPUL,Student,14 Mar 2000
+234,160440458,"Michael, Meto",F,YUPIPUL,Student,27 Apr 2001
+235,160440321,"Michael, Topi",F,YUPIPUL,Student,07 May 2001
+236,160204695,"Micheal, Elis",F,YUPIPUL,Household Duties,01 Jan 1980
+237,160119184,"Micheal, Maya",F,YUPIPUL,Subsistence Farmer,09 Nov 1992
+238,25123807,"Micheal, Molin",F,YUPIPUL,Housegirl,12 May 2000
+239,160119137,"Micheal, Naomi",F,MALGA,Student,25 Mar 1998
+240,160136169,"Micheal, Royinna",F,MALGA,Subsistence Farmer,25 Jun 1991
+241,160119138,"Micheal, Silvia",F,MALGA,Student,01 Nov 1997
+242,160136208,"Micheal, Talita",F,MALGA,Sales Women,03 Feb 1994
+243,25123810,"Mike, Sandy",F,MALGA,Student,14 Apr 2004
+244,160180861,"Moka, Grace",F,MALGA,Household Duties,01 Jan 1960
+245,160218949,"Moka, Janet",F,MALGA,Household Duties,01 Jan 1968
+246,160219063,"Moka, Kaka",F,MALGA,Household Duties,01 Jan 1967
+247,160218957,"Moka, Sussan",F,MALGA,Household Duties,01 Jan 1971
+248,160193837,"Moro, Buka",F,YUPIPUL,Household Duties,01 Jan 1900
+249,25141900,"Moses, Christina",F,MALGA,Teacher,13 Jun 2001
+250,160440250,"Moses, Jully",F,MALGA,Household Duties,13 Apr 2001
+251,160165269,"Moses, Rosely",F,MALGA,Household Duties,01 Jan 1980
+252,160182641,"Mospi, Bepi",F,MALGA,Household Duties,06 Dec 1966
+253,160180782,"Mospi, Emly",F,MALGA,Household Duties,01 Jan 1989
+254,160119377,"Moyowa, Racheal",F,YUPIPUL,Self Employed,16 Jul 1983
+255,160165148,"Mulu, Mote",F,YUPIPUL,Household Duties,01 Jan 1980
+256,160176258,"Mulu, Rossana",F,YUPIPUL,Household Duties,01 Jan 1987
+257,160196463,"Muluye, Eli",F,YUPIPUL,Household Duties,14 Nov 1981
+258,160196260,"Muluye, Reses",F,YUPIPUL,Household Duties,01 Jan 1979
+259,160196793,"Muluye, Rosa",F,YUPIPUL,Household Duties,01 Jan 1982
+260,160196769,"Muluye, Wendy",F,YUPIPUL,Student,01 Jan 1983
+261,160209752,"Nakanoli, Kepeleno",F,YUPIPUL,Household Duties,01 Jan 1955
+262,160173721,"Nakanoli, Linne",F,YUPIPUL,Household Duties,01 Jan 1964
+263,160210699,"Nakanoli, Tereno",F,YUPIPUL,Household Duties,01 Jan 1956
+264,160207912,"Namba, Anicca",F,MALGA,Student,01 Jan 1989
+265,160178048,"Namba, Aniye",F,MALGA,Household Duties,01 Jan 1982
+266,160185891,"Namba, Besta",F,MALGA,Student,01 Jan 1983
+267,160182536,"Namba, Elizabeth",F,MALGA,Student,01 Jan 1984
+268,160177864,"Namba, Josica",F,MALGA,Household Duties,01 Jan 2000
+269,160182480,"Namba, Kambani",F,MALGA,Baby Sitter,01 Jan 1984
+270,25083038,"Namba, Kila",F,MALGA,Student,14 May 1999
+271,160180764,"Namba, Kopel",F,MALGA,Subsistence Farmer,01 Jan 1966
+272,160182878,"Namba, Kupila",F,MALGA,Household Duties,01 Jan 1963
+273,160187185,"Namba, Kupinipul",F,MALGA,Household Duties,01 Jan 1962
+274,160217996,"Namba, Melodi",F,MALGA,Subsistence Farmer,01 Jan 2000
+275,160177992,"Namba, Moki",F,MALGA,Household Duties,16 Sep 1974
+276,160206914,"Namba, Monica",F,MALGA,Student,01 Jan 1990
+277,160136359,"Namba, Nami",F,MALGA,Student,29 Jun 1995
+278,160182481,"Namba, Nancy",F,MALGA,Student,01 Jan 1986
+279,160207765,"Namba, Pawene",F,MALGA,Household Duties,01 Jan 1966
+280,160175862,"Namba, Rosa",F,MALGA,Household Duties,01 Jan 2000
+281,160213589,"Namba, Ruth",F,MALGA,Household Duties,01 Jan 1979
+282,160187081,"Namba, Silva",F,MALGA,Teacher,01 Jan 1980
+283,160175856,"Namba, Yuwini",F,MALGA,Household Duties,01 Jan 1963
+284,25083041,"Nathan, Sementha",F,YUPIPUL,Student,17 Apr 2001
+285,160209731,"Naweya, Kola",F,YUPIPUL,Household Duties,01 Jan 1952
+286,160209747,"Naweya, Lineth",F,YUPIPUL,Student,01 Jan 1988
+287,160202097,"Naweya, Tres",F,YUPIPUL,Household Duties,01 Jan 1971
+288,160201925,"Naweya, Yapyame",F,YUPIPUL,Household Duties,01 Jan 1964
+289,160196300,"Nikie, Tembaroi",F,MALGA,Household Duties,01 Apr 1900
+290,160196042,"Nikie, Uruepe",F,MALGA,Subsistence Farmer,01 Oct 1900
+291,160184542,"Ninigi, Janet",F,YUPIPUL,Student,22 Aug 1978
+292,160184537,"Ninigi, Japhany",F,YUPIPUL,Household Duties,01 Jan 2000
+293,160182787,"Ninigi, Jenifar",F,YUPIPUL,Student,01 Jan 2000
+294,160182790,"Ninigi, Joice",F,YUPIPUL,Worker,01 Jan 2000
+295,160184868,"Ninigi, Kerry",F,YUPIPUL,Household Duties,01 Jan 2000
+296,160184865,"Ninigi, Lepo",F,YUPIPUL,Household Duties,01 Jan 2000
+297,160187867,"Ninigi, Nale",F,YUPIPUL,Household Duties,01 Jan 2000
+298,160184882,"Ninigi, Rona",F,YUPIPUL,Student,01 Jan 2000
+299,160184538,"Ninigi, Yara",F,YUPIPUL,Household Duties,01 Jan 2000
+300,160200956,"Nining, Akisi",F,YUPIPUL,Household Duties,01 Jan 1971
+301,160167617,"Nokea, Token",F,YUPIPUL,Household Duties,12 Oct 1961
+302,160188252,"Nokia, Lonika",F,YUPIPUL,Student,09 Dec 1990
+303,25083077,"Norman, Carol",F,MALGA,Household Duties,13 Mar 2000
+304,25083078,"Norman, Cynthia",F,MALGA,Student,13 Apr 1999
+305,160440715,"Palaru, Jona",F,MALGA,Subsistence Farmer,14 Dec 1990
+306,160119331,"Palaru, Konopu",F,MALGA,Subsistence Farmer,14 Mar 1985
+307,160180788,"Pambon, Kurume",F,MALGA,Household Duties,01 Jan 2000
+308,160173199,"Pambon, Lina",F,MALGA,Student,01 Jan 1985
+309,160119154,"Pambono, Pene",F,MALGA,Subsistence Farmer,12 Jul 1996
+310,160136355,"Pane, Goergina",F,YUPIPUL,Subsistence Farmer,12 Jan 1980
+311,160196396,"Papora, Galu",F,YUPIPUL,Household Duties,01 Jan 1957
+312,160440082,"Paul, Carol",F,MALGA,Student,24 Apr 2002
+313,160119345,"Paul, Carolyn",F,MALGA,Student,26 Mar 1999
+314,160213369,"Paul, Elizabeth",F,MALGA,Student,07 Aug 1990
+315,160210186,"Paul, Hewa",F,MALGA,Housegirl,27 Apr 1985
+316,160119078,"Paul, Judy",F,MALGA,Typist,11 Jan 1984
+317,160162715,"Paul, Kina",F,MALGA,Household Duties,01 Jan 1975
+318,160136357,"Paul, Lavina",F,MALGA,Student,13 Mar 1998
+319,160220451,"Paul, Mary",F,MALGA,Student,01 Jan 1980
+320,160207800,"Paul, Monica",F,MALGA,Subsistence Farmer,10 Feb 1980
+321,160136356,"Paul, Regina",F,MALGA,Student,14 Sep 1996
+322,160119079,"Paul, Roselyn",F,MALGA,Student,11 Mar 1996
+323,160220516,"Paul, Veronica",F,MALGA,Household Duties,01 Jan 1951
+324,160213571,"Paul, Yara",F,MALGA,Household Duties,08 Apr 1972
+325,160196100,"Peamo, Rake",F,MALGA,Household Duties,01 Jan 1984
+326,160196103,"Peamo, Rosi",F,MALGA,Housegirl,01 Jan 1979
+327,160153044,"Pepe, Lari",F,MALGA,Household Duties,01 Jan 2000
+328,160139973,"Pepe, Pati",F,MALGA,Nurse,01 Jan 2000
+329,160187616,"Peter, Jekiline",F,MALGA,Household Duties,08 Nov 1967
+330,160119383,"Peter, Joina",F,MALGA,Household Duties,30 Aug 1987
+331,160167278,"Peter, Judith",F,MALGA,Student,01 Jan 1986
+332,160216647,"Peter, Kale",F,MALGA,Household Duties,01 Jan 1984
+333,160196657,"Peter, Kina",F,MALGA,Household Duties,01 Jan 1986
+334,160190323,"Peter, Kina",F,MALGA,Teacher,01 Jan 1981
+335,160119132,"Peter, Lavina",F,MALGA,Student,12 Mar 1998
+336,160165380,"Peter, Lenda",F,MALGA,Household Duties,01 Jan 2000
+337,160197198,"Peter, Moia",F,MALGA,Sales Women,19 Apr 1974
+338,160171770,"Peter, Sumol",F,MALGA,Household Duties,08 Mar 1970
+339,160136363,"Peter, Vinalla",F,MALGA,Student,07 Apr 1999
+340,160169179,"Pilambo, Elis",F,YUPIPUL,Household Duties,01 Jan 2000
+341,160165211,"Poije, Jacklyne",F,YUPIPUL,Student,01 Jan 1985
+342,160165212,"Poije, Merlyne",F,YUPIPUL,Student,01 Jan 1988
+343,160165350,"Poije, Miss",F,YUPIPUL,Household Duties,01 Jan 2000
+344,160167281,"Poije, Tie",F,YUPIPUL,Household Duties,01 Jan 2000
+345,160167282,"Poije, Toea",F,YUPIPUL,Household Duties,01 Jan 2000
+346,160220460,"Pokopia, Bepi",F,MALGA,Household Duties,01 Jan 1959
+347,160218202,"Pokopia, Katorina",F,MALGA,Household Duties,01 Jan 1950
+348,160180780,"Pokopie, Reginna",F,MALGA,Housegirl,01 Jan 1970
+349,25083136,"Poly, Sylvia",F,MALGA,Student,12 May 2000
+350,160185106,"Pora, Andi",F,YUPIPUL,Household Duties,01 Jan 2000
+351,160198747,"Pora, Christina",F,YUPIPUL,Student,06 Jul 1989
+352,160193130,"Pora, Josephine",F,YUPIPUL,Household Duties,01 Jan 1979
+353,160190857,"Pora, Kontep",F,YUPIPUL,Household Duties,01 Jan 2000
+354,160185884,"Pora, Pilke",F,YUPIPUL,Household Duties,01 Jan 1976
+355,160186955,"Pora, Rimba",F,YUPIPUL,Household Duties,01 Jan 1962
+356,160218226,"Pote, Maryline",F,YUPIPUL,Household Duties,01 Jan 1966
+357,160171774,"Pote, Meriline",F,YUPIPUL,Student,01 Jan 1990
+358,160182649,"Pote, Nancy",F,YUPIPUL,Student,10 Mar 1981
+359,160171772,"Pote, Poki",F,YUPIPUL,Household Duties,01 Jan 1968
+360,160218224,"Pote, Poki",F,YUPIPUL,Household Duties,01 Jan 1983
+361,160212584,"Pote, Rake",F,YUPIPUL,Household Duties,16 Nov 1967
+362,160186999,"Pote, Shirley",F,YUPIPUL,Student,01 Jan 2000
+363,160173326,"Poya, Bepi",F,MALGA,Household Duties,01 Jan 1969
+364,160173330,"Poya, Kiniye",F,MALGA,Household Duties,01 Jan 1974
+365,160201454,"Poya, Mombo",F,MALGA,Typist,01 Jan 1975
+366,160175811,"Puiye, Anjoe",F,MALGA,Household Duties,01 Jan 2000
+367,160212508,"Puiye, Lenda",F,MALGA,Household Duties,01 Jan 1978
+368,160171754,"Puiye, Leonie",F,MALGA,Student,01 Jan 1987
+369,160182761,"Puiye, Lina",F,MALGA,Household Duties,01 Jan 2000
+370,160182766,"Puiye, Lyn",F,MALGA,Student,01 Jan 1987
+371,160211352,"Puiye, Pauline",F,MALGA,Household Duties,01 Jan 1982
+372,160440704,"Pulu, Mondi",F,YUPIPUL,Housegirl,28 Aug 1986
+373,25083155,"Ramon, Noel",F,MALGA,Student,12 Apr 2001
+374,160184826,"Rapindi, Mopune",F,YUPIPUL,Household Duties,01 Jan 1982
+375,160212403,"Sanage, Tepatil",F,YUPIPUL,Household Duties,14 Dec 1969
+376,160440394,"Solo, Adasa",F,YUPIPUL,Student,10 Dec 2003
+377,160440444,"Solo, Grace",F,YUPIPUL,Student,28 Jan 2001
+378,160173194,"Sou, Poning",F,MALGA,Household Duties,01 Jan 1987
+379,160187094,"Stanler, Rose",F,MALGA,Household Duties,01 Jan 1975
+380,160190988,"Stanley, Grace",F,MALGA,Student,01 Jan 1984
+381,160190105,"Stanley, Jennifer",F,MALGA,Student,01 Jan 1984
+382,160182731,"Stanley, Josephine",F,MALGA,Baby Sitter,01 Apr 1980
+383,160175802,"Stanley, Regina",F,MALGA,Student,21 Apr 1985
+384,160180541,"Su, Jenneth",F,MALGA,Household Duties,01 Jan 1975
+385,160180892,"Sua, Hellen",F,MALGA,Household Duties,01 Jan 1980
+386,160212684,"Sua, Kangadi",F,MALGA,Household Duties,09 Jan 1956
+387,160187682,"Sua, Lina",F,MALGA,Household Duties,01 Jan 1975
+388,160213605,"Sua, Olik",F,MALGA,Housegirl,01 Jan 1982
+389,160212573,"Sua, Ombang",F,MALGA,Household Duties,01 Jan 1956
+390,160212440,"Sua, Prissila",F,MALGA,Household Duties,01 Jan 1982
+391,160191284,"Sua, Soti",F,MALGA,Student,01 Jan 2000
+392,160209931,"Sua, Wengi",F,MALGA,Household Duties,01 Jan 1986
+393,160169241,"Surall, Agie",F,YUPIPUL,Household Duties,23 Apr 1970
+394,160169249,"Surall, Dally",F,YUPIPUL,Student,13 May 1984
+395,160176239,"Suri, Six",F,YUPIPUL,Student,17 Sep 1980
+396,160193728,"Taiye, Cherolin",F,YUPIPUL,Student,30 Jul 1985
+397,160193124,"Taiye, Late",F,YUPIPUL,Student,01 Jan 1988
+398,160160770,"Taiye, Mek",F,YUPIPUL,Household Duties,31 Dec 1967
+399,160193722,"Taiye, Rechal",F,YUPIPUL,Household Duties,01 Jan 1979
+400,160193129,"Taiye, Sheroty",F,YUPIPUL,Student,01 Jan 1981
+401,160193724,"Taiye, Tarapi",F,YUPIPUL,Household Duties,01 Jan 2000
+402,160182952,"Takune, Buka",F,YUPIPUL,Household Duties,01 Mar 1969
+403,160155792,"Taputeli, Kiminel",F,MALGA,Household Duties,01 Jan 1961
+404,160155799,"Taputeli, Veroni",F,MALGA,Student,01 Jan 1980
+405,160196130,"Taputil, Mote",F,MALGA,Household Duties,01 Jan 1981
+406,160196060,"Tenis, Kui",F,YUPIPUL,Household Duties,01 Jan 1978
+407,160119126,"Tenis, Lyn",F,YUPIPUL,Subsistence Farmer,25 Dec 1987
+408,160136168,"Tenis, Roselyn",F,YUPIPUL,Household Duties,22 May 1988
+409,160200959,"Tenis, Saina",F,YUPIPUL,Household Duties,01 Jan 2000
+410,160440467,"Tenis, Sina",F,YUPIPUL,Student,03 Feb 2001
+411,160209966,"Tope, Wellen",F,YUPIPUL,Household Duties,01 Jan 1968
+412,160159072,"Topo, Leen",F,YUPIPUL,Student,01 Jan 2000
+413,160440711,"Torea, Tita",F,YUPIPUL,Subsistence Farmer,28 Jun 1988
+414,160201055,"Toria, Josephin",F,YUPIPUL,Household Duties,04 Feb 1976
+415,160201054,"Toria, Tres",F,YUPIPUL,Household Duties,01 Jan 1989
+416,160215729,"Tu, Tarapi",F,YUPIPUL,Household Duties,01 Jan 2000
+417,160212516,"Tuwa, Katy",F,YUPIPUL,Housegirl,01 Jan 1987
+418,160211376,"Tuwa, Mokoiamboi",F,YUPIPUL,Household Duties,01 Jan 1961
+419,160213261,"Tuwa, Rami",F,YUPIPUL,Household Duties,01 Jan 1969
+420,160136205,"Tyson, Everlyn",F,YUPIPUL,Subsistence Farmer,11 Jan 1984
+421,160185086,"Tyson, Hellen",F,YUPIPUL,Household Duties,01 Jan 1989
+422,25083399,"Tyson, Kandie",F,YUPIPUL,Student,14 Feb 2000
+423,25083402,"Tyson, Nolin",F,YUPIPUL,Student,14 Mar 2000
+424,160196315,"Ulga, Dalin",F,YUPIPUL,Student,01 Jan 2000
+425,160210201,"Wai, Carthy",F,YUPIPUL,Household Duties,01 Jan 1973
+426,160177527,"Waima, Lopa",F,YUPIPUL,Household Duties,01 Jan 1989
+427,160175858,"Waima, Ponege",F,YUPIPUL,Student,01 Jan 1988
+428,160136361,"Wakailu, Dorothy",F,MALGA,Student,19 Nov 1985
+429,160188292,"Wala, Peni",F,YUPIPUL,Household Duties,01 Jan 1980
+430,160188106,"Wama, Jackline",F,YUPIPUL,Student,01 Jan 1969
+431,160182961,"Wama, Jockelin",F,YUPIPUL,Student,01 Jan 1989
+432,160188624,"Wama, Lewa",F,YUPIPUL,Household Duties,01 Jan 1972
+433,160216249,"Wama, Lewa",F,YUPIPUL,Household Duties,01 Jan 1978
+434,160119355,"Wama, Susan",F,YUPIPUL,Subsistence Farmer,13 Sep 1984
+435,160160169,"Wama, Susani",F,YUPIPUL,Household Duties,01 Jan 1974
+436,160196193,"Wama, Toea",F,YUPIPUL,Household Duties,01 Jan 1974
+437,160187951,"Wama, Wendi",F,YUPIPUL,Household Duties,01 Jan 1967
+438,160189741,"Waning, Waningson jovi",F,YUPIPUL,Student,06 Jan 1990
+439,160160702,"Wanpis, Anna",F,MALGA,Subsistence Farmer,11 Nov 1978
+440,160119343,"Wanpis, Judith",F,MALGA,Student,11 Mar 1998
+441,160440352,"Wanpis, Leah",F,MALGA,Student,17 Nov 1999
+442,160160792,"Wanpis, Lenny",F,MALGA,Household Duties,01 Jan 1968
+443,160196455,"Wanpis, Ruth",F,MALGA,Subsistence Farmer,10 May 1980
+444,160440281,"Wanpis, Stacy",F,MALGA,Student,26 Jan 2001
+445,160155870,"Waru, Simabo",F,YUPIPUL,Sales Women,01 Jan 1972
+446,160440502,"Welsley, Isbella",F,YUPIPUL,Student,11 Jul 2003
+447,160193282,"Will, Toten",F,YUPIPUL,Household Duties,01 Jan 1978
+448,160204147,"Wipesta, Anna",F,YUPIPUL,Household Duties,01 Jan 1977
+449,160440243,"Yako, Jully",F,YUPIPUL,Household Duties,18 Mar 2003
+450,160173320,"Yako, Kurume",F,YUPIPUL,Household Duties,01 Jan 1981
+451,160210182,"Yakop, Rosana",F,MALGA,Household Duties,02 Apr 1970
+452,160195951,"Yakop, Wambi",F,MALGA,Household Duties,01 Jan 1973
+453,160187526,"Yamu, Mombo",F,YUPIPUL,Household Duties,06 Apr 1951
+454,160187291,"Yamu, Mopuna",F,YUPIPUL,Household Duties,06 Jan 1984
+455,160196214,"Yandawai john, Nancy",F,YUPIPUL,Household Duties,01 Jan 1983
+456,160183228,"Yano, Mopune",F,YUPIPUL,Household Duties,01 Jan 1964
+457,160136209,"Yax, Monica",F,MALGA,Subsistence Farmer,10 Oct 1987
+458,160184836,"Yoko, Kiniye",F,YUPIPUL,Household Duties,01 Jan 1975
+459,160177903,"Yombi, Ani",F,MALGA,Household Duties,01 Jan 1988
+460,160180531,"Yombi, Betty",F,MALGA,Household Duties,01 Jan 1956
+461,160156073,"Yombi, Dorothy",F,MALGA,Student,01 Jan 1986
+462,160165297,"Yombi, Ekare",F,MALGA,Household Duties,01 Jan 2000
+463,160440708,"Yombi, Kera",F,MALGA,Student,08 Jul 1992
+464,160156070,"Yombi, Rosely",F,MALGA,Household Duties,01 Jan 1981
+465,160440239,"Yonga, Leonie",F,YUPIPUL,Student,11 Jan 2003
+466,160178029,"Yumba, Bepi",F,YUPIPUL,Household Duties,09 Nov 1960
+467,160187511,"Yumbe, Elen",F,YUPIPUL,Student,10 Feb 1990
+468,160195912,"Yumbe, Kor",F,YUPIPUL,Household Duties,01 Jan 1937
+469,160195930,"Yumbe, Liana",F,YUPIPUL,Household Duties,11 Nov 1982
+470,160196204,"Yumbe, Mepili",F,YUPIPUL,Household Duties,01 Jan 1981
+471,160153590,"Yunumi, Okim kola",F,YUPIPUL,Household Duties,01 Jan 1976
+472,160440683,"Yup, Sonia",F,YUPIPUL,Student,11 Oct 2001
+473,160201236,"Yupe, Jeniffa",F,MARAPUL,Student,01 Jan 1980
+474,160201233,"Yupe, Lewa sera",F,MARAPUL,Student,01 Jan 1988
+475,160175867,"Yupe, Mini",F,MARAPUL,Household Duties,01 Jan 2000
+476,160204506,"Yupe, Mondiye",F,MARAPUL,Household Duties,01 Jan 1978
+477,160119220,"Yupe, Roselyn",F,MARAPUL,Student,08 Dec 1995
+478,160119221,"Yupe, Rosesita",F,MARAPUL,Student,04 Dec 1997
+479,160182643,"Yupe, Ruth",F,MARAPUL,Household Duties,01 Jan 1980
+480,160182648,"Yupe, Sande",F,MARAPUL,Household Duties,01 Jan 1984
+481,160187393,"Yupe, Seron",F,MARAPUL,Household Duties,01 Jan 1966
+482,160203648,"Yupe, Susiliya",F,MARAPUL,Student,01 Jan 1987
+483,160440423,"Yupi, Doti",F,MALGA,Household Duties,06 Jul 2003
+484,25083499,"Yupi, Naomi",F,MALGA,Student,15 Mar 2000
+485,25083501,"Yupi, Racheal",F,MALGA,Household Duties,18 Jun 2000
+486,160136206,"Yupi, Sandra",F,MALGA,Student,12 Mar 1998
+487,160195956,"Yusep, Bunugu",F,YUPIPUL,Household Duties,01 Jan 1982
+488,160194740,"Yusep, Chartrina",F,YUPIPUL,Housegirl,01 Jan 1983
+489,160167755,"Yuwanis, Undino",F,YUPIPUL,Household Duties,01 Jan 1972
+490,160185139,"Alga, Las",M,MALGA,Subsistence Farmer,04 Jun 1975
+491,160188110,"Alga, Was",M,MALGA,Subsistence Farmer,12 Sep 1941
+492,160177510,"Algi, Polo",M,MALGA,Subsistence Farmer,01 Jan 1963
+493,160167697,"Andeyo, Kapolo",M,YUPIPUL,Subsistence Farmer,01 Jan 1985
+494,160153647,"Anjo, Dopo",M,MALGA,Subsistence Farmer,05 Mar 1983
+495,160195946,"Anjo, John",M,MALGA,Subsistence Farmer,01 Jan 1990
+496,160216254,"Annda, Kisip",M,YUPIPUL,Subsistence Farmer,01 Jan 1949
+497,160165156,"Apurel, Baipe",M,MALGA,Subsistence Farmer,01 Jan 1960
+498,160180926,"Apurel, Bembo",M,MALGA,Subsistence Farmer,01 Jan 1969
+499,160219201,"Apurel, Kupepi",M,MALGA,Subsistence Farmer,01 Jan 1961
+500,160119287,"Apurel, Robert",M,MALGA,Student,19 Jun 1984
+501,160219049,"Apurel, Thomas",M,MALGA,Student,01 Jan 1989
+502,160158921,"Apurel, Wanpis",M,MALGA,Subsistence Farmer,01 Jan 1973
+503,160440448,"Artis, Philimon",M,MARAPUL,Student,03 Feb 2002
+504,160169057,"Atega, James",M,YUPIPUL,Subsistence Farmer,03 Jan 1978
+505,160162732,"Bai, Anjo",M,MALGA,Subsistence Farmer,21 Nov 1936
+506,160167451,"Balus, We",M,MALGA,Subsistence Farmer,01 Jan 1975
+507,160178004,"Bembo, Benson",M,MALGA,Subsistence Farmer,01 Jan 1984
+508,160440271,"Benson, Fredy",M,MALGA,Student,07 May 2001
+509,160182639,"Berem, Lucas",M,MALGA,Subsistence Farmer,01 Jan 1970
+510,160160173,"Bill, Mek",M,MALGA,Student,24 Aug 1990
+511,160440721,"Christoper, Wane",M,YUPIPUL,Subsistence Farmer,28 Feb 2004
+512,160173364,"Daipe, Mike",M,MALGA,Not Specified,01 Jan 1978
+513,160119151,"Daipe, Moses",M,MALGA,Subsistence Farmer,13 Mar 1986
+514,160197085,"Dembis, Mike",M,MALGA,Subsistence Farmer,01 Jan 1972
+515,160189956,"Dembis, Moses",M,MALGA,Subsistence Farmer,01 Jan 1981
+516,160190954,"Dembis, Stanley",M,MALGA,Driver,01 Jan 1969
+517,160155847,"Deni, Kengepu",M,MALGA,Subsistence Farmer,22 Feb 1970
+518,160160184,"Denis, Tendepo",M,YUPIPUL,Subsistence Farmer,04 Aug 1964
+519,160217776,"Denis, Tendepo",M,YUPIPUL,Subsistence Farmer,01 Jan 1979
+520,160182734,"Dupi, Bulda",M,MALGA,Subsistence Farmer,06 Feb 1979
+521,160160774,"Dupi, Lukas",M,MALGA,Student,01 Jan 1990
+522,160440351,"Emos, George",M,MALGA,Student,07 Aug 2003
+523,160167454,"Enna, Kopele",M,MALGA,Subsistence Farmer,01 Jan 1986
+524,160190564,"Gepri, Wamb",M,MARAPUL,Subsistence Farmer,04 Jun 1989
+525,160189814,"Gepri, Waruka",M,MARAPUL,Student,01 Dec 1989
+526,160439932,"Gerald, Gerath",M,YUPIPUL,Student,15 Jun 2003
+527,25123677,"Gerald, Nobert",M,YUPIPUL,Student,16 Mar 2000
+528,160440619,"Goden, Elie",M,YUPIPUL,Student,20 Apr 2004
+529,160194651,"Goipe, Simon",M,YUPIPUL,Pastor,16 Jan 1978
+530,160440047,"Honda, Andopo",M,YUPIPUL,Student,10 Aug 2003
+531,160136194,"Ipo, James",M,YUPIPUL,Student,13 Jan 1998
+532,160440609,"Jack, Manu",M,MALGA,Student,20 Apr 2004
+533,25123691,"Jack, Obert",M,MALGA,Student,12 Mar 2000
+534,160162897,"James, Augistine",M,MALGA,Student,12 Sep 1984
+535,160440313,"James, Augustin",M,MALGA,Student,21 May 2003
+536,160119339,"James, Benard",M,YUPIPUL,Student,13 Feb 1997
+537,160440481,"James, Bolo",M,YUPIPUL,Student,19 Feb 2003
+538,160440439,"James, Emanuel",M,YUPIPUL,Student,19 Sep 2000
+539,160155776,"James, Gedion",M,MALGA,Student,01 Jan 2000
+540,160440437,"James, Gibson",M,YUPIPUL,Student,15 Feb 2003
+541,25123704,"James, Jonathan",M,MALGA,Driver,13 Jun 1988
+542,25123708,"James, Nonde",M,MALGA,Household Duties,15 Apr 1998
+543,160440405,"James, Paulson",M,MALGA,Subsistence Farmer,16 Feb 2000
+544,160197143,"James, Pokopia",M,MALGA,Doctor,01 Jan 1964
+545,160440436,"James, Tipo",M,YUPIPUL,Student,15 Aug 2001
+546,25123709,"James, Torel",M,MALGA,Student,15 Apr 2000
+547,25123734,"John, Pearson",M,MALGA,Houseboy,11 Mar 2003
+548,160159070,"John, Tauwele",M,MALGA,Student,14 Apr 1985
+549,160136337,"John, Tipo",M,MALGA,Subsistence Farmer,07 Nov 1983
+550,160182899,"John, Tokopa",M,MALGA,Subsistence Farmer,12 Aug 1968
+551,160162656,"John, Wein",M,MALGA,Student,01 Jan 1979
+552,160160338,"John, Wesley",M,MALGA,Student,01 Apr 1989
+553,160162697,"John, Yaule",M,MALGA,Subsistence Farmer,01 Jan 1961
+554,160440255,"Junior, Jasuah",M,MALGA,Student,04 Jul 2003
+555,25123750,"Junior, Joshua",M,MALGA,Student,13 Apr 1988
+556,160136181,"Kaima, Fred",M,YUPIPUL,Subsistence Farmer,12 Aug 1994
+557,160182528,"Kaima, Gabriel",M,YUPIPUL,Subsistence Farmer,01 Jan 2000
+558,160180859,"Kaima, Lazarus",M,YUPIPUL,Subsistence Farmer,01 Jan 1968
+559,160440793,"Kaima, Naita",M,YUPIPUL,Subsistence Farmer,20 Feb 2003
+560,25123751,"Kaima, Noel",M,YUPIPUL,Security,12 Mar 2004
+561,25123752,"Kaima, Samuel",M,YUPIPUL,Driver,16 Mar 2000
+562,160186986,"Kalpra, Alpis",M,MALGA,Subsistence Farmer,06 Apr 1977
+563,160182645,"Kalpra, Sou",M,YUPIPUL,Subsistence Farmer,02 Jul 1975
+564,160440656,"Kamuge, Jerol",M,YUPIPUL,Student,18 Feb 2003
+565,160215724,"Kana, Tu",M,YUPIPUL,Subsistence Farmer,01 Jan 2000
+566,160207978,"Kapi, Kondis",M,YUPIPUL,Subsistence Farmer,01 Jan 1974
+567,160156084,"Kapolo, Tyson",M,YUPIPUL,Student,01 Jan 1986
+568,160169244,"Karaiye, Junior",M,MALGA,Student,01 Jan 1988
+569,160165628,"Kengepu, Kewa",M,MALGA,Subsistence Farmer,01 Jan 1955
+570,160187671,"Kengepu, Tepatoli",M,YUPIPUL,Subsistence Farmer,01 Jan 1953
+571,25123759,"Kenneth, Gerald",M,YUPIPUL,Student,17 Apr 2001
+572,160213415,"Kenowa, Jackson",M,MALGA,Subsistence Farmer,01 Jan 1986
+573,160213718,"Kenowa, Nickson",M,MALGA,Student,01 Jan 1980
+574,160213414,"Kenowa, William",M,MALGA,Student,01 Jan 1982
+575,160185147,"Kerandi, Mambo",M,YUPIPUL,Peace Officer,01 Jan 1950
+576,160210149,"Kerandi, Tikate",M,YUPIPUL,Subsistence Farmer,01 Jan 1966
+577,160153560,"Kereme, Atson",M,YUPIPUL,Student,01 Jan 1988
+578,160155826,"Kereme, Dally",M,YUPIPUL,Student,01 Jan 2000
+579,160162714,"Kereme, Harvey",M,YUPIPUL,Student,01 Jan 2000
+580,160162729,"Kereme, Ismahel",M,YUPIPUL,Student,01 Jan 2000
+581,160155823,"Kereme, James",M,YUPIPUL,Subsistence Farmer,01 Jan 2000
+582,160160297,"Kereme, Nasmy",M,YUPIPUL,Subsistence Farmer,01 Jan 2000
+583,160198432,"Kereme, Nema",M,YUPIPUL,Subsistence Farmer,01 Jan 2000
+584,160160321,"Kereme, Paul",M,YUPIPUL,Teacher,01 Jan 2000
+585,160167272,"Kiniwi, Kenneth",M,YUPIPUL,Student,01 Jan 1989
+586,25123763,"Kinje, Nathan",M,YUPIPUL,Student,13 Apr 2000
+587,160190343,"Koipa, James",M,YUPIPUL,Subsistence Farmer,01 Jan 2000
+588,25123764,"Koipa, Jeffery",M,YUPIPUL,Student,13 Feb 1999
+589,160191093,"Koipa, Kupu",M,YUPIPUL,Subsistence Farmer,01 Jan 1970
+590,160119336,"Koipa, Samson",M,YUPIPUL,Carpenter,13 Feb 1998
+591,160193184,"Koipa, Siminji",M,YUPIPUL,Subsistence Farmer,01 Jan 1962
+592,25123765,"Koipa, Steward",M,YUPIPUL,Student,15 Mar 1998
+593,160191397,"Koipa, Tiri",M,YUPIPUL,Subsistence Farmer,01 Jan 1936
+594,160136351,"Koipa, Wein",M,YUPIPUL,Cashier,12 Nov 1996
+595,160189828,"Kololi, Kondi",M,YUPIPUL,Subsistence Farmer,01 Jan 1960
+596,160213372,"Kololi, Kondi",M,YUPIPUL,Subsistence Farmer,06 Aug 1965
+597,160180396,"Kololi, Lawi",M,YUPIPUL,Subsistence Farmer,01 Jan 1979
+598,160195979,"Kololi, Lekson",M,YUPIPUL,Student,01 Jan 1983
+599,160180398,"Kololi, Mai",M,YUPIPUL,Subsistence Farmer,01 Jan 1962
+600,160195960,"Kololi, Mano",M,YUPIPUL,Subsistence Farmer,01 Jan 2000
+601,160195952,"Kololi, Manuel",M,YUPIPUL,Student,01 Jan 1986
+602,160178034,"Kololi, Moka",M,YUPIPUL,Business man,01 Jan 1964
+603,160180401,"Kololi, Wake",M,YUPIPUL,Subsistence Farmer,01 Jan 1968
+604,160175865,"Kololi, Wil",M,YUPIPUL,Subsistence Farmer,01 Jan 1975
+605,160177868,"Kololi, Yala",M,YUPIPUL,Subsistence Farmer,01 Jan 1979
+606,160195807,"Kololi, Yopex",M,YUPIPUL,Subsistence Farmer,01 Jan 2000
+607,160213378,"Kondis, Inok",M,YUPIPUL,Subsistence Farmer,01 Jan 1984
+608,160183096,"Kopel, Gerry",M,YUPIPUL,Student,01 Jan 1985
+609,160190338,"Koropa, Yombi",M,YUPIPUL,Subsistence Farmer,01 Jan 1972
+610,160193251,"Kote, Rocher",M,YUPIPUL,Student,01 Jan 1986
+611,160119155,"Kumbie, Donald",M,MALGA,Student,11 Oct 1998
+612,160188709,"Kumbie, Jayson",M,MALGA,Teacher,14 Jun 1977
+613,160182647,"Kumbie, Kopel",M,MALGA,Subsistence Farmer,01 Jan 2000
+614,160187062,"Kumbie, Richie",M,MALGA,Student,11 Oct 1988
+615,160440385,"Kumbiye, Mark",M,MALGA,Subsistence Farmer,23 Nov 2002
+616,160160333,"Kupa, Lewa",M,MALGA,Subsistence Farmer,01 Jan 1980
+617,160182884,"Kupila, Stanley",M,MALGA,Student,01 Jan 1989
+618,160188034,"Kuts, Kupa",M,MALGA,Subsistence Farmer,01 Jan 1943
+619,160185119,"Lombil, Garu",M,MALGA,Subsistence Farmer,01 Jan 1971
+620,160182542,"Lopa, Kewa",M,MALGA,Security,01 Jan 1985
+621,160196456,"Lopa, Wambo",M,MALGA,Subsistence Farmer,01 Dec 1946
+622,160188686,"Lopeke, Tenes",M,KOPILNE,Subsistence Farmer,01 Jan 1980
+623,160215564,"Loraiya, Yupe",M,MALGA,Subsistence Farmer,01 Jan 1966
+624,160177907,"Loraiye, Kolowa",M,MALGA,Subsistence Farmer,01 Jan 1970
+625,25123774,"Loraiye, Numa",M,MALGA,Student,13 Mar 2000
+626,160187948,"Loraiye, Wama",M,MALGA,Subsistence Farmer,01 Jan 1956
+627,160155841,"Luk, Kolowa",M,MALGA,Subsistence Farmer,01 Jan 1960
+628,160440329,"Luke, Flexon",M,MALGA,Subsistence Farmer,19 Oct 2002
+629,160440737,"Luke, Nekiye",M,MALGA,Student,14 Jul 2002
+630,160119276,"Mai, Jack",M,MALGA,Student,01 Dec 1996
+631,160153637,"Makije, Peke kondoli",M,MALGA,Household Duties,01 Jan 1971
+632,160212680,"Mara, Kenowa",M,MALGA,Subsistence Farmer,01 Jan 1965
+633,160171909,"Mara, Mendep",M,MALGA,Not Specified,01 Jan 1966
+634,160213593,"Mek, Bens",M,MALGA,Subsistence Farmer,01 Jan 1983
+635,160177651,"Mek, Dape",M,MALGA,Subsistence Farmer,01 Jan 1970
+636,160213638,"Mek, John",M,MALGA,Subsistence Farmer,24 Aug 1979
+637,160190704,"Mek, Pis",M,MALGA,Student,06 Jan 1990
+638,160440424,"Mek, Rezard",M,MALGA,Student,17 Mar 2003
+639,160158846,"Mek, Roger",M,MALGA,Student,01 Jan 1986
+640,160119112,"Mek, Teru",M,MALGA,Subsistence Farmer,11 Nov 1995
+641,160158951,"Mek, Yando",M,MALGA,Student,11 Apr 1981
+642,160439923,"Mendep, Christoper",M,MALGA,Student,05 Feb 2003
+643,160171793,"Mendep, Luke",M,MALGA,Not Specified,01 Jan 1985
+644,160165254,"Mendep, Mark",M,MALGA,Student,01 Jan 1981
+645,160439994,"Mendep, Mekoni",M,MALGA,Student,15 Aug 2003
+646,160439916,"Mendep, Mika",M,MALGA,Carpenter,14 Mar 2003
+647,160439921,"Mendep, Ope",M,MALGA,Student,02 Feb 2002
+648,160155835,"Mendep, Peter",M,MALGA,Student,01 Jan 1989
+649,160155831,"Mendep, Timothy",M,MALGA,Student,01 Jan 1986
+650,160119136,"Mendep, Win",M,MALGA,Driver,26 Jul 1997
+651,25123808,"Micheal, Raphael",M,MALGA,Household Duties,16 May 2001
+652,25123809,"Mike, Alpha",M,MALGA,Houseboy,14 Apr 2000
+653,160185078,"Moka, Solomon",M,MALGA,Student,01 Jan 1987
+654,160182561,"Mond, Hepi",M,YUPIPUL,Subsistence Farmer,18 Oct 1967
+655,160171768,"Mond, Maikol",M,YUPIPUL,Subsistence Farmer,12 Oct 1965
+656,160440312,"Monda, Job",M,YUPIPUL,Student,21 May 2003
+657,160440073,"Monda, Keneth",M,YUPIPUL,Dentist,01 Mar 2001
+658,160194613,"Monda, Telu",M,YUPIPUL,Subsistence Farmer,19 Nov 1941
+659,160440557,"Mondi, Zalon",M,YUPIPUL,Student,27 Jan 2003
+660,160202090,"Mondu, Mike",M,YUPIPUL,Subsistence Farmer,01 Jan 2000
+661,160215743,"Mongroi, Pora",M,MALGA,Subsistence Farmer,16 Jun 1934
+662,25083025,"Moses, Newman",M,MALGA,Student,13 May 2000
+663,160440643,"Muku, Lemson",M,MALGA,Student,05 Sep 2000
+664,160176252,"Mulu, Anis",M,YUPIPUL,Student,01 Jan 1984
+665,160182541,"Mulu, Jona",M,YUPIPUL,Student,01 Jan 1987
+666,160119348,"Naba, Kondo",M,MALGA,Student,17 Mar 1997
+667,160207803,"Nabma, Lycas",M,MALGA,Student,01 Jan 1989
+668,160190571,"Naia, Ulga",M,YUPIPUL,Subsistence Farmer,01 Jan 2000
+669,160207909,"Namba, Brojon",M,MALGA,Student,01 Jan 1986
+670,160169080,"Namba, Chris",M,MALGA,Subsistence Farmer,01 Jan 1982
+671,160182538,"Namba, James",M,MALGA,Student,01 Jan 1985
+672,160185975,"Namba, Junior",M,MALGA,Student,01 Jan 1989
+673,160187041,"Namba, Kumbeme",M,MALGA,Aid Post Orderly,01 Jan 1966
+674,160207792,"Namba, Luta",M,MALGA,Student,01 Jan 1988
+675,160169029,"Namba, Paulson",M,MALGA,Student,12 Sep 1985
+676,160187187,"Namba, Pora",M,MALGA,Student,01 Jan 1980
+677,160210185,"Namba, Solomon",M,MALGA,Subsistence Farmer,01 Jan 1988
+678,160182533,"Namba, Taiye",M,MALGA,Student,01 Jan 1982
+679,160119349,"Namba, Thomas",M,MALGA,Student,18 May 1998
+680,160191098,"Namba, Toy",M,MALGA,Student,06 Apr 1990
+681,160198909,"Nekeya, Steven",M,MALGA,Student,01 Jan 1979
+682,160213406,"Nike, Komen",M,MALGA,Subsistence Farmer,01 Jan 1970
+683,160197096,"Niki, Kipulu",M,MALGA,Subsistence Farmer,01 Jan 1961
+684,160440378,"Ninge, Mark",M,MALGA,Mechanic,16 Nov 2003
+685,160198505,"Ningi, John",M,YUPIPUL,Driver,01 Jan 1973
+686,160184878,"Ninigi, Denny",M,YUPIPUL,Teacher,01 Jan 2000
+687,160184692,"Ninigi, Kelly",M,YUPIPUL,Student,11 Jun 1985
+688,160184870,"Ninigi, Paul",M,YUPIPUL,Cook,16 Jul 1973
+689,160184694,"Ninigi, Pawa",M,YUPIPUL,Student,01 Jan 2000
+690,160187868,"Ninigi, Sailes",M,YUPIPUL,Student,19 Apr 1981
+691,160198507,"Ninje, Tapatol",M,MALGA,Subsistence Farmer,01 Jan 1951
+692,160173313,"Ninjipa, Puke",M,MALGA,Subsistence Farmer,01 Jan 1979
+693,160155715,"Nizipa, Bopege",M,MALGA,Subsistence Farmer,01 Jan 1963
+694,160160327,"Nizipa, Dupi",M,MALGA,Subsistence Farmer,01 Jan 1962
+695,160176160,"Nizipa, Surall",M,MALGA,Subsistence Farmer,28 Jan 1965
+696,160173190,"Nokea, Robert",M,YUPIPUL,Student,08 Nov 1983
+697,160201322,"Olaye, Paraka",M,MALGA,Subsistence Farmer,01 Jan 1961
+698,160209947,"Ongonda, Nobera",M,MALGA,Subsistence Farmer,01 Jan 1987
+699,160196107,"Opeke, Waema",M,MALGA,Subsistence Farmer,01 Jan 1974
+700,160198957,"Ora, Bill",M,MALGA,Subsistence Farmer,01 Jan 1978
+701,160194609,"Ora, Paul",M,MALGA,Teacher,01 Jan 1960
+702,160119128,"Owa, Steven",M,MALGA,Student,14 Mar 1998
+703,160180791,"Pambon, Luke",M,MALGA,Not Specified,01 Jan 1980
+704,160440705,"Pane, Chris",M,YUPIPUL,Subsistence Farmer,07 May 1988
+705,160190885,"Pangua, Pus",M,MALGA,Subsistence Farmer,14 Jun 1969
+706,160165143,"Parulupu, Pulu",M,MALGA,Subsistence Farmer,12 Aug 1966
+707,160119344,"Paul, Andrew",M,MALGA,Student,29 Aug 1997
+708,160119321,"Paul, Artis",M,MALGA,Sales Women,21 May 1989
+709,160198961,"Paul, Chris",M,MALGA,Subsistence Farmer,01 Jan 1974
+710,160212754,"Paul, David",M,MALGA,Student,06 Apr 1971
+711,160213348,"Paul, Elizah",M,MALGA,Student,28 Nov 1990
+712,25083099,"Paul, Konjol",M,MALGA,Student,14 Apr 2000
+713,160440317,"Paul, Mathew",M,MALGA,Student,19 Jul 2001
+714,25083106,"Paul, Mike",M,MALGA,Student,13 Apr 2000
+715,160213743,"Paul, Nethernial",M,MALGA,Student,01 Jan 1989
+716,160220448,"Paul, Paulson",M,MALGA,Student,01 Jan 1977
+717,160167280,"Paul, Poije",M,MALGA,Subsistence Farmer,01 Jan 2000
+718,160183037,"Paul, Puri",M,MALGA,Subsistence Farmer,01 Jan 1973
+719,160196108,"Pauwa, Opa",M,MALGA,Subsistence Farmer,01 Jan 1961
+720,160195977,"Peamo, Toni",M,MALGA,Subsistence Farmer,01 Jan 1982
+721,160155959,"Peke, Daniel",M,MALGA,Subsistence Farmer,01 Jan 1978
+722,160159080,"Peke, Frances",M,MALGA,Subsistence Farmer,01 Jan 1990
+723,160155771,"Peke, Jack",M,MALGA,Subsistence Farmer,01 Jan 1981
+724,160210162,"Peke, Komon",M,MALGA,Subsistence Farmer,01 Jan 1972
+725,160220454,"Peke, Temba",M,MALGA,Subsistence Farmer,01 Jan 1982
+726,160158853,"Peke, Wambo",M,MALGA,Subsistence Farmer,01 Jan 1956
+727,160156091,"Peke, Willie",M,MALGA,Subsistence Farmer,01 Jan 1988
+728,160175959,"Peke, Yelupa",M,MALGA,Subsistence Farmer,06 Jan 1942
+729,160193426,"Penge, Petrick",M,MALGA,Subsistence Farmer,01 Jan 1980
+730,160119134,"Peter, Aron",M,MALGA,Student,12 Nov 1996
+731,160119385,"Peter, Botman",M,MALGA,Student,13 Jun 1998
+732,160119133,"Peter, Eric",M,MALGA,Sales Women,19 Sep 1998
+733,25083117,"Peter, Flexsen",M,MALGA,Student,13 Mar 2004
+734,160119384,"Peter, Jackson",M,MALGA,Teacher,18 May 1985
+735,160187607,"Peter, Ki",M,MALGA,Subsistence Farmer,20 Dec 1964
+736,160194641,"Peter, Kumbia",M,MALGA,Not Specified,01 Jan 1960
+737,25083119,"Peter, Nathenial",M,MALGA,Student,14 May 2000
+738,160171922,"Peter, Pareka",M,MALGA,Subsistence Farmer,20 Mar 1961
+739,160440339,"Peter, Remson",M,MALGA,Student,01 Oct 2003
+740,160187675,"Pilambo, Nethan",M,YUPIPUL,Student,11 Apr 1990
+741,160195939,"Piltimu, Anjo",M,MALGA,Subsistence Farmer,01 Jan 1972
+742,160196099,"Piltimu, Kera",M,MALGA,Subsistence Farmer,01 Jan 1970
+743,160195976,"Piltimu, Pera",M,MALGA,Subsistence Farmer,01 Jan 1974
+744,160165210,"Poije, Jerry",M,MALGA,Student,01 Jan 1983
+745,160165383,"Poije, Nindipo",M,MALGA,Subsistence Farmer,01 Jan 2000
+746,160155789,"Pokame, Taputeli",M,MALGA,Subsistence Farmer,01 Jan 1952
+747,160119148,"Pokea, Yax",M,MALGA,Subsistence Farmer,12 Mar 1989
+748,160173196,"Pokipia, Buka",M,MALGA,Subsistence Farmer,03 Nov 1978
+749,160210183,"Polite, Kanape",M,MALGA,Subsistence Farmer,01 Jan 1900
+750,160156000,"Politi, Sepis",M,MALGA,Subsistence Farmer,11 Nov 1980
+751,160187757,"Ponki, Wakena",M,MALGA,Subsistence Farmer,01 Jan 1966
+752,160190861,"Pora, Jerry",M,YUPIPUL,Student,04 Jan 1978
+753,160165252,"Pora, Kansol",M,YUPIPUL,Subsistence Farmer,01 Jan 1976
+754,160185882,"Pora, Luke",M,YUPIPUL,Teacher,01 Jan 1971
+755,160171791,"Pora, Maria",M,YUPIPUL,Subsistence Farmer,01 Jan 2000
+756,160185888,"Pora, Namba",M,YUPIPUL,Subsistence Farmer,06 Mar 1986
+757,25083138,"Pora, Vinsent",M,YUPIPUL,Carpenter,16 Jan 2000
+758,160440647,"Porokom, Onda",M,MALGA,Student,04 Aug 2000
+759,160173329,"Poya, Denis",M,YUPIPUL,Subsistence Farmer,01 Jan 1982
+760,160198441,"Puiye, Aruru",M,MALGA,Pastor,04 Jan 1966
+761,160213257,"Puiye, Gate",M,MALGA,Student,01 Jan 1976
+762,160153580,"Puiye, Toya",M,MALGA,Subsistence Farmer,20 Nov 1969
+763,160211351,"Puiye, Wake",M,MALGA,Student,01 Jan 1981
+764,160173726,"Pupu, Yako",M,YUPIPUL,Subsistence Farmer,01 Jan 1989
+765,160182958,"Raramu, Kinje",M,YUPIPUL,Subsistence Farmer,01 Jun 1900
+766,160194785,"Rindiwi, Elton",M,MALGA,Student,01 Jan 2000
+767,160195957,"Rindiwi, Nathan",M,MALGA,Student,01 Jan 2000
+768,160440742,"Simona, Balus",M,MALGA,Driver,07 Jun 2001
+769,160440393,"Solo, Dion",M,YUPIPUL,Student,01 Feb 2002
+770,160440392,"Solo, Don",M,YUPIPUL,Student,07 Nov 2000
+771,160440442,"Solo, Peterson",M,YUPIPUL,Student,11 Feb 2002
+772,160440469,"Solo, Vitus",M,YUPIPUL,Student,17 Mar 2003
+773,160193183,"Sua, Gibson",M,MALGA,Student,04 Sep 1988
+774,160211309,"Sua, Jakop",M,MALGA,Subsistence Farmer,01 Jan 1989
+775,160213602,"Sua, Jerrymaia",M,MALGA,Subsistence Farmer,01 Jan 1984
+776,160165247,"Sua, Puka",M,MALGA,Student,16 Jun 1987
+777,160186005,"Sulda, Dreek",M,MARAPUL,Subsistence Farmer,01 Jan 1971
+778,160206936,"Sulde, Duke",M,MARAPUL,Subsistence Farmer,01 Jan 1980
+779,160204686,"Sulde, Lina",M,MARAPUL,Subsistence Farmer,01 Jan 1969
+780,160212424,"Suluge, Pena",M,MARAPUL,Subsistence Farmer,16 Jul 1962
+781,160169245,"Surall, Steven",M,YUPIPUL,Student,30 Jun 1980
+782,160182717,"Suri, Cent",M,YUPIPUL,Student,17 Aug 1972
+783,160171739,"Suri, Sam",M,YUPIPUL,Student,23 Aug 1972
+784,160169250,"Talopa, Melpa",M,YUPIPUL,Subsistence Farmer,01 Jan 1960
+785,160155797,"Taputeli, Peter",M,MALGA,Subsistence Farmer,01 Jan 1974
+786,160156060,"Taputeli, Suku",M,MALGA,Subsistence Farmer,01 Jan 1970
+787,160196486,"Temboroi, Lukas",M,MALGA,Subsistence Farmer,01 Jan 1971
+788,160119145,"Tendeli, Joel",M,MALGA,Student,15 May 1997
+789,160119308,"Tenis, Gibson",M,YUPIPUL,Subsistence Farmer,11 Aug 1984
+790,25083307,"Tenis, Jeffery",M,YUPIPUL,Student,13 Mar 2000
+791,160440440,"Tenis, Jetro",M,YUPIPUL,Student,11 Dec 2003
+792,160119127,"Tenis, Lipilipi",M,YUPIPUL,Student,25 Jan 1999
+793,160119080,"Tepatoli, Abel",M,MALGA,Student,01 Sep 1998
+794,160182954,"Tepatoli, Appol",M,MALGA,Student,01 Jan 1980
+795,160182948,"Tepatoli, Paul",M,MALGA,Student,01 Jan 1976
+796,160185112,"Tepatoli, Samuel",M,MALGA,Student,01 Jan 1981
+797,160187612,"Tepatoli, Winis",M,MALGA,Teacher,01 Jan 1972
+798,160119143,"Thomas, Gerald",M,YUPIPUL,Student,17 Mar 1999
+799,160440325,"Timbil, Leolyn",M,MALGA,Student,04 Jul 2002
+800,160167554,"Timije, Stephen",M,MALGA,Subsistence Farmer,01 Jan 1968
+801,160440291,"Timinge, Nicksan",M,MALGA,Student,26 Mar 2002
+802,160136225,"Timinje, Issac",M,MALGA,Driver,14 Jul 1996
+803,160210144,"Tokopa, Nathan",M,YUPIPUL,Student,01 Jan 1988
+804,25083357,"Tonny, Jude",M,MALGA,Student,12 Mar 2003
+805,160207786,"Toropo, Namba",M,MALGA,Subsistence Farmer,01 Jan 1961
+806,25083381,"Tu, Kolopa",M,YUPIPUL,Student,15 May 2000
+807,25083384,"Tu, Sedric",M,YUPIPUL,Student,14 Mar 2000
+808,160136193,"Tupi, Rocks",M,MALGA,Sales Women,19 Jun 1998
+809,160136192,"Tupi, Tuksi",M,MALGA,Student,21 Nov 1997
+810,160187517,"Turulano, Kumbie",M,MALGA,Subsistence Farmer,01 Jan 2000
+811,160212668,"Tuwa, Tenis",M,YUPIPUL,Subsistence Farmer,01 Jan 1981
+812,160119360,"Wakailu, Peter",M,MALGA,Student,02 Jan 1998
+813,160119359,"Wakailu, Samson",M,MALGA,Student,16 Feb 1993
+814,160440353,"Wanpis, Kevin",M,YUPIPUL,Student,06 Mar 2000
+815,160211291,"Wareya, Pangu",M,MALGA,Subsistence Farmer,01 Jan 1963
+816,160183006,"Wareya, Pora",M,YUPIPUL,Pastor,01 Jan 2000
+817,160212393,"Wareya, Sel",M,MALGA,Student,01 Jan 1981
+818,160212579,"Wareya, Solo",M,MALGA,Student,01 Jan 1987
+819,160184864,"Wiye, Ninigi",M,YUPIPUL,Subsistence Farmer,01 Jan 2000
+820,160201642,"Yako, Kote",M,YUPIPUL,Security,01 Jan 1965
+821,160160787,"Yako, Luke",M,YUPIPUL,Subsistence Farmer,01 Jan 2000
+822,160440244,"Yako, Tom",M,YUPIPUL,Subsistence Farmer,17 Feb 1995
+823,160195970,"Yakumbu, Peamo",M,MALGA,Subsistence Farmer,01 Jan 1979
+824,160196106,"Yakumbu, Yakop",M,MALGA,Subsistence Farmer,01 Jan 1980
+825,160195813,"Yakumbu, Yusep",M,YUPIPUL,Subsistence Farmer,01 Jan 1969
+826,160158852,"Yalep, Ku",M,MARAPUL,Subsistence Farmer,01 Jan 1975
+827,160156090,"Yalep, Yapa",M,MARAPUL,Subsistence Farmer,12 Dec 1932
+828,160195953,"Yalo, Rindiwi",M,MALGA,Subsistence Farmer,01 Jan 2000
+829,160440666,"Yando, John",M,MARAPUL,Driver,17 Feb 2001
+830,160440665,"Yando, Was",M,MARAPUL,Subsistence Farmer,04 Nov 2002
+831,160119149,"Yax, Keneth",M,MALGA,Sales Women,05 Feb 1999
+832,160165299,"Yombi, Disi",M,MALGA,Pastor,01 Jan 1977
+833,160160318,"Yombi, James",M,MALGA,Student,01 Jan 1979
+834,25083494,"Yombi, Jeff",M,MALGA,Student,14 Mar 2000
+835,160180358,"Yombi, Jerry",M,MALGA,Subsistence Farmer,01 Jan 1981
+836,160155982,"Yombi, Paul",M,MALGA,Student,01 Jan 1981
+837,160207970,"Yopolo, Poly",M,MALGA,Subsistence Farmer,01 Jan 1979
+838,160185123,"Yube, Dupi",M,MALGA,Pastor,01 Jan 1972
+839,160180392,"Yupa, Mulu",M,YUPIPUL,Store Keeper,01 Jan 1969
+840,160182874,"Yupe, Andrew",M,MARAPUL,Subsistence Farmer,01 Jan 1978
+841,160119219,"Yupe, Bata",M,MARAPUL,Student,05 Jul 1993
+842,160440421,"Yupe, Ezikiel",M,MARAPUL,Subsistence Farmer,17 Mar 2001
+843,160204341,"Yupe, Mark",M,MARAPUL,Student,01 Jan 1980
+844,160188222,"Yupe, Nap",M,MARAPUL,Driver,01 Jan 1962
+845,160440422,"Yupe, Philima",M,MARAPUL,Subsistence Farmer,28 Feb 2003
+846,160217762,"Yupe, Puri",M,MARAPUL,Subsistence Farmer,01 Jan 1971
+847,25083498,"Yupi, Elvis",M,MALGA,Student,13 Apr 2004
+848,160171786,"Yupu, Wanpis",M,MALGA,Subsistence Farmer,01 Jan 1966

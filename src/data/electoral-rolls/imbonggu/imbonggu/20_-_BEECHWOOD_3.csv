@@ -1,0 +1,286 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160206362,"Ipo, Daishy",F,KOMOLI,Student,01 Jan 1990
+2,160206357,"Ipo, Elly",F,KOMOLI,Subsistence Farmer,01 Jan 1979
+3,160250378,"Ipo, Faith",F,KOMOLI,Subsistence Farmer,01 Jan 1986
+4,160250527,"Ipo, Freda",F,KOMOLI,Student,01 Jan 1983
+5,160250376,"Ipo, Leoni",F,KOMOLI,Student,01 Jan 1988
+6,160206352,"Ipo, Lisa",F,KOMOLI,Student,01 Jan 1980
+7,160206364,"Ipo, Mona",F,KOMOLI,Subsistence Farmer,01 Jan 1972
+8,160206248,"Ipo, Mopune",F,KOMOLI,Subsistence Farmer,01 Jan 1936
+9,160206356,"Ipo, Niomi",F,KOMOLI,Household Duties,01 Jan 1979
+10,160205098,"Ipo, Ponege",F,KOMOLI,Student,01 Jan 1979
+11,160206355,"Ipo, Pricilla",F,KOMOLI,Student,01 Jan 1988
+12,160206361,"Ipo, Pulbeye",F,KOMOLI,Subsistence Farmer,01 Jan 1940
+13,160206245,"Ipo, Roselyn",F,KOMOLI,Subsistence Farmer,01 Jan 1969
+14,160206387,"Ipo, Sikel",F,KOMOLI,Subsistence Farmer,01 Jan 1965
+15,160206342,"Ipo, Sina",F,KOMOLI,Household Duties,01 Jan 1969
+16,160442876,"Ipo, Sonila",F,KOMOLI,Student,26 Nov 2003
+17,160206242,"Ipo, Tapele",F,KOMOLI,Household Duties,01 Jan 1956
+18,160205096,"Ipo, Wendy",F,KOMOLI,Subsistence Farmer,01 Jan 1970
+19,160206353,"Ipo, Yawini",F,KOMOLI,Student,01 Jan 1984
+20,160252502,"Koniye, Jeniffer",F,KOMOLI,Student,01 Jan 1994
+21,160442881,"Koniye, Salvina",F,KOMOLI,Student,13 Nov 1998
+22,160160236,"Korowi, Ali",F,KOMOLI,Subsistence Farmer,01 Jan 1956
+23,160160073,"Korowi, Angela",F,KOMOLI,Household Duties,01 Jan 1986
+24,160160072,"Korowi, Annet",F,KOMOLI,Household Duties,01 Jan 1988
+25,160128212,"Korowi, Engilla",F,KOMOLI,Student,19 Mar 1999
+26,160252320,"Korowi, Jacky",F,KOMOLI,Student,01 Jan 1989
+27,160160062,"Korowi, Late",F,KOMOLI,Subsistence Farmer,01 Jan 1981
+28,160136562,"Korowi, Luna",F,KOMOLI,Subsistence Farmer,21 Nov 1987
+29,160160075,"Korowi, Mevline",F,KOMOLI,Student,01 Jan 1987
+30,160160071,"Korowi, Noino nancy",F,KOMOLI,Household Duties,01 Jan 1964
+31,160160230,"Korowi, Sheena",F,KOMOLI,Household Duties,01 Jan 1981
+32,160160060,"Korowi, Tipora",F,KOMOLI,Subsistence Farmer,01 Jan 1976
+33,160128091,"Kugumb, Stela",F,KOMOLI,Student,18 Feb 1999
+34,160175585,"Kugumbu, Lily",F,KOMOLI,Subsistence Farmer,01 Jan 1979
+35,160158725,"Kugumbu, Mellen",F,KOMOLI,Subsistence Farmer,01 Jan 1980
+36,160158723,"Kugumbu, Mone",F,KOMOLI,Subsistence Farmer,01 Jan 1950
+37,160160086,"Kugumbu, Nancy",F,KOMOLI,Subsistence Farmer,01 Jan 1979
+38,160158893,"Kugumbu, Noringe",F,KOMOLI,Subsistence Farmer,01 Jan 1967
+39,160158891,"Kugumbu, Shina",F,KOMOLI,Subsistence Farmer,01 Jan 1970
+40,160158727,"Kugumbu, Tiye",F,KOMOLI,Subsistence Farmer,01 Jan 1961
+41,160251777,"Kultiye, Brenda",F,KOMOLI,Subsistence Farmer,01 Jan 1986
+42,160172089,"Kultiye, Catherina",F,KOMOLI,Subsistence Farmer,01 Jan 1977
+43,160442884,"Kultiye, Delma",F,KOMOLI,Nurse,10 Aug 1987
+44,160251771,"Kultiye, Jacklyn",F,KOMOLI,Subsistence Farmer,01 Jan 1989
+45,160168835,"Kultiye, Kate",F,KOMOLI,Student,01 Jan 1980
+46,160175586,"Kultiye, Lelembo",F,KOMOLI,Subsistence Farmer,01 Jan 1950
+47,160172092,"Kultiye, Lewa",F,KOMOLI,Subsistence Farmer,01 Jan 1972
+48,160175588,"Kultiye, Mune",F,KOMOLI,Subsistence Farmer,01 Jan 1961
+49,160172094,"Kultiye, Nomi",F,KOMOLI,Subsistence Farmer,01 Jan 1979
+50,160251787,"Kulumbu, Betty",F,KOMOLI,Subsistence Farmer,01 Jan 1988
+51,160251784,"Kulumbu, Davinna",F,KOMOLI,Student,01 Jan 1992
+52,160252342,"Kulumbu, Evelyn",F,KOMOLI,Subsistence Farmer,01 Jan 1980
+53,160442886,"Kulumbu, Regina",F,KOMOLI,Subsistence Farmer,10 Dec 1998
+54,160442892,"Langai, Elly",F,KOMOLI,Student,16 May 1998
+55,160157368,"Langai, Hellen",F,KOMOLI,Student,01 Jan 1980
+56,160158690,"Langai, Jerry",F,KOMOLI,Subsistence Farmer,01 Jan 1982
+57,160157363,"Langai, Josephine",F,KOMOLI,Subsistence Farmer,01 Jan 1969
+58,160151481,"Langai, Kopo",F,KOMOLI,Subsistence Farmer,01 Jan 1980
+59,160157476,"Langai, Melondy",F,KOMOLI,Student,01 Jan 1984
+60,160157366,"Langai, Mondowa",F,KOMOLI,Subsistence Farmer,01 Jan 1969
+61,160158689,"Langai, Morren",F,KOMOLI,Household Duties,01 Jan 1977
+62,160157474,"Langai, Nira",F,KOMOLI,Student,01 Jan 1989
+63,160157473,"Langai, Roselyn",F,KOMOLI,Student,01 Jan 1980
+64,160158702,"Langai, Sunday",F,KOMOLI,Household Duties,01 Jan 1965
+65,25082335,"Langai, Tangal",F,KOMOLI,Household Duties,28 Apr 1978
+66,160252506,"Merow, Margret",F,KOMOLI,Self Employed,01 Jan 1984
+67,160252337,"Merowa, Agnes",F,KOMOLI,Typist,01 Jan 1985
+68,160160079,"Merowa, Bepi",F,KOMOLI,Subsistence Farmer,01 Jan 1982
+69,160160228,"Merowa, Haidin",F,KOMOLI,Household Duties,01 Jan 1985
+70,160163473,"Merowa, Jenny",F,KOMOLI,Subsistence Farmer,01 Jan 1978
+71,160252336,"Merowa, Jullie",F,KOMOLI,Subsistence Farmer,01 Jan 1985
+72,160160235,"Merowa, Lariame",F,KOMOLI,Subsistence Farmer,01 Jan 1966
+73,160252495,"Merowa, Letty",F,KOMOLI,Household Duties,01 Jan 1982
+74,160252508,"Merowa, Linette",F,KOMOLI,Student,01 Jan 1993
+75,160160077,"Merowa, Mulup",F,KOMOLI,Subsistence Farmer,01 Jan 1967
+76,160160226,"Merowa, Rosa",F,KOMOLI,Subsistence Farmer,01 Jan 1980
+77,160163476,"Merowa, Serah",F,KOMOLI,Student,01 Jan 1989
+78,160252447,"Merowa, Sharon",F,KOMOLI,Student,01 Jan 1992
+79,160160225,"Merowa, Wee",F,KOMOLI,Subsistence Farmer,01 Jan 1979
+80,160160232,"Merowa, Yara",F,KOMOLI,Subsistence Farmer,01 Jan 1960
+81,160136378,"Monda, Cathy",F,KOMOLI,Household Duties,01 Jan 1972
+82,160153513,"Pani, Anna",F,KOMOLI,Subsistence Farmer,01 Jan 1978
+83,160172097,"Pani, Kapa",F,KOMOLI,Subsistence Farmer,01 Jan 1940
+84,160155904,"Pani, Karipa",F,KOMOLI,Subsistence Farmer,01 Jan 1950
+85,160165106,"Pani, Lenneth",F,KOMOLI,Subsistence Farmer,01 Jan 1979
+86,160251794,"Pokeya, Davinna",F,KOMOLI,Subsistence Farmer,01 Jan 1985
+87,160206371,"Pokeya, Mawa",F,KOMOLI,Student,01 Jan 1983
+88,160252375,"Pokeya, Sheroty",F,KOMOLI,Student,01 Jan 1988
+89,160206253,"Pokeya, Tiki",F,KOMOLI,Subsistence Farmer,01 Jan 1960
+90,160160067,"Pokeya, Wereino",F,KOMOLI,Subsistence Farmer,01 Jan 1976
+91,160163466,"Pokeya, Yuwik",F,KOMOLI,Subsistence Farmer,01 Jan 1972
+92,160128219,"Tamo, Elvina",F,KOMOLI,Student,14 Mar 1999
+93,160128223,"Tamo, Gina",F,KOMOLI,Student,18 Sep 1998
+94,160128222,"Tamo, Lily",F,KOMOLI,Student,13 Mar 1997
+95,160128225,"Tamo, Mopunne",F,KOMOLI,Student,16 May 1995
+96,160442932,"Tamo, Natasha",F,KOMOLI,Household Duties,18 Apr 1995
+97,160128215,"Tamo, Nathasia",F,KOMOLI,Household Duties,05 Sep 1996
+98,160128216,"Tamo, Ragina",F,KOMOLI,Student,02 Apr 1995
+99,160128224,"Tamo, Raiya",F,KOMOLI,Household Duties,11 Feb 1999
+100,160252346,"Tamo, Regina",F,KOMOLI,Student,01 Jan 1990
+101,160128226,"Tamo, Sherolly",F,KOMOLI,Student,12 Feb 1997
+102,160163471,"Wagi, Waki",F,KOMOLI,Household Duties,01 Jan 1986
+103,160442939,"Wapea, Amboi",F,KOMOLI,Student,09 Jul 2003
+104,160442940,"Wapea, Dilaila",F,KOMOLI,Student,28 Apr 2004
+105,160442941,"Wapea, Dinanu",F,KOMOLI,Student,06 Jul 2001
+106,160442945,"Wapea, Jessica",F,KOMOLI,Household Duties,04 Dec 1986
+107,160442947,"Wapea, Keleli",F,KOMOLI,Household Duties,13 Jul 1980
+108,160442949,"Wapea, Moke",F,KOMOLI,Subsistence Farmer,13 Jul 1980
+109,160442951,"Wapea, Queen",F,KOMOLI,Subsistence Farmer,09 Oct 1979
+110,160442952,"Wapea, Sharon",F,KOMOLI,Student,16 Oct 2001
+111,25082604,"Wapeya, Elis",F,KOMOLI,Self Employed,28 Apr 1994
+112,160206481,"Wapeya, Larry",F,KOMOLI,Subsistence Farmer,01 Jan 1971
+113,160252373,"Wapeya, Nathasha",F,KOMOLI,Subsistence Farmer,01 Jan 1992
+114,160207421,"Wapeya, Ope",F,KOMOLI,Subsistence Farmer,01 Jan 1942
+115,160252357,"Wapeya, Regina",F,KOMOLI,Subsistence Farmer,01 Jan 1992
+116,160153727,"Wapoi, Apkas",F,KOMOLI,Subsistence Farmer,01 Jan 1979
+117,160442957,"Wapoi, Cathy",F,KOMOLI,Household Duties,14 Nov 1994
+118,160155924,"Wapoi, Kaltepo",F,KOMOLI,Subsistence Farmer,01 Jan 1965
+119,160155918,"Wapoi, Kambeno",F,KOMOLI,Subsistence Farmer,01 Jan 1935
+120,160157328,"Wapoi, Koyome",F,KOMOLI,Subsistence Farmer,01 Jan 1940
+121,160442969,"Yoko, Esther",F,KOMOLI,Student,13 Jul 2000
+122,160158684,"Yoko, Garu",F,KOMOLI,Subsistence Farmer,01 Jan 1946
+123,160157767,"Yoko, Jecko",F,KOMOLI,Household Duties,01 Jan 1977
+124,160158686,"Yoko, Kurume",F,KOMOLI,Subsistence Farmer,01 Jan 1950
+125,160158699,"Yoko, Las",F,KOMOLI,Subsistence Farmer,01 Jan 1978
+126,160158698,"Yoko, Pilge",F,KOMOLI,Subsistence Farmer,01 Jan 1946
+127,160158674,"Yoko, Rose",F,KOMOLI,Subsistence Farmer,01 Jan 1977
+128,160442974,"Yoko, Sandy",F,KOMOLI,Student,04 Jul 2000
+129,160158676,"Yoko, Tenis",F,KOMOLI,Student,01 Jan 1984
+130,160442975,"Yoko, Tracey",F,KOMOLI,Household Duties,12 Aug 1997
+131,160442874,"Ipo, Andoa",M,KOMOLI,Student,09 Jul 1999
+132,160206243,"Ipo, Andrew",M,KOMOLI,Student,01 Jan 1979
+133,160206244,"Ipo, Anjo",M,KOMOLI,Student,01 Jan 1979
+134,160442875,"Ipo, Benedick",M,KOMOLI,Student,15 Aug 1998
+135,160250532,"Ipo, Bonny",M,KOMOLI,Student,01 Jan 1993
+136,160206366,"Ipo, Chambelin",M,KOMOLI,Subsistence Farmer,01 Jan 1978
+137,160206388,"Ipo, Gidieon",M,KOMOLI,Student,01 Jan 1983
+138,160206249,"Ipo, Jacob",M,KOMOLI,Student,01 Jan 1978
+139,160250772,"Ipo, Jaken",M,KOMOLI,Student,01 Jan 1991
+140,160206359,"Ipo, Jan",M,KOMOLI,Student,01 Jan 1986
+141,160206341,"Ipo, Kapi",M,KOMOLI,Subsistence Farmer,01 Jan 1965
+142,160206236,"Ipo, Koyapo",M,KOMOLI,Pastor,01 Jan 1952
+143,160207413,"Ipo, Kundipi",M,KOMOLI,Subsistence Farmer,01 Jan 1952
+144,160206351,"Ipo, Malaki",M,KOMOLI,Student,01 Jan 1986
+145,160206344,"Ipo, Meckey",M,KOMOLI,Student,01 Jan 1979
+146,160156004,"Ipo, Mekeya",M,KOMOLI,Pastor,01 Jan 1950
+147,160250775,"Ipo, Mike",M,KOMOLI,Student,01 Jan 1993
+148,160206354,"Ipo, Nelson",M,KOMOLI,Student,01 Jan 1986
+149,160205100,"Ipo, Pandea",M,KOMOLI,Student,01 Jan 1984
+150,160206240,"Ipo, Paul",M,KOMOLI,Subsistence Farmer,01 Jan 1969
+151,160206238,"Ipo, Peter",M,KOMOLI,Student,01 Jan 1972
+152,160206360,"Ipo, Sent",M,KOMOLI,Subsistence Farmer,01 Jan 1982
+153,160206358,"Ipo, Simon",M,KOMOLI,Subsistence Farmer,01 Jan 1977
+154,160206363,"Ipo, Taksi",M,KOMOLI,Subsistence Farmer,01 Jan 1970
+155,160206349,"Ipo, Taneya",M,KOMOLI,Subsistence Farmer,01 Jan 1935
+156,160207412,"Ipo, Thompson",M,KOMOLI,Student,01 Jan 1986
+157,160206350,"Ipo, Tony",M,KOMOLI,Pastor,01 Jan 1972
+158,160206369,"Ipo, Wanpis",M,KOMOLI,Student,01 Jan 1980
+159,160206343,"Ipo, Winni",M,KOMOLI,Student,01 Jan 1975
+160,160252360,"Koneiye, Andi",M,KOMOLI,Casual Worker,01 Jan 1979
+161,160442880,"Koniye, Charlie",M,KOMOLI,Student,15 Aug 2001
+162,160252503,"Koniye, Mathew",M,KOMOLI,Self Employed,01 Jan 1986
+163,160252504,"Koniye, Owen",M,KOMOLI,Self Employed,01 Jan 1988
+164,160160061,"Korowi, Andrew dokta",M,KOMOLI,Pastor,01 Jan 1977
+165,160160081,"Korowi, Joseph",M,KOMOLI,Subsistence Farmer,01 Jan 1968
+166,160160074,"Korowi, Lesly",M,KOMOLI,Manager,01 Jan 1978
+167,160160063,"Korowi, Markson",M,KOMOLI,Student,01 Jan 1983
+168,160160064,"Korowi, Melvin",M,KOMOLI,Accountant,01 Jan 1975
+169,160160082,"Korowi, Philip",M,KOMOLI,Subsistence Farmer,01 Jan 1976
+170,160160083,"Korowi, Wiwa",M,KOMOLI,Business man,01 Jan 1946
+171,160158892,"Kugumbu, Areka",M,KOMOLI,Student,01 Jan 1980
+172,160158728,"Kugumbu, David",M,KOMOLI,Subsistence Farmer,01 Jan 1979
+173,160168831,"Kugumbu, Kambu",M,KOMOLI,Student,01 Jan 1982
+174,160175583,"Kugumbu, Kote",M,KOMOLI,Subsistence Farmer,01 Jan 1978
+175,160175584,"Kugumbu, Kundipo",M,KOMOLI,Subsistence Farmer,01 Jan 1940
+176,160158890,"Kugumbu, Micheal",M,KOMOLI,Subsistence Farmer,01 Jan 1968
+177,160175572,"Kugumbu, Rex",M,KOMOLI,Subsistence Farmer,01 Jan 1973
+178,160158724,"Kugumbu, Stephen",M,KOMOLI,Subsistence Farmer,01 Jan 1978
+179,160172090,"Kultiye, Abol",M,KOMOLI,Student,01 Jan 1980
+180,160172091,"Kultiye, Albert",M,KOMOLI,Student,01 Jan 1984
+181,160442885,"Kultiye, Joshua",M,KOMOLI,Student,27 Jun 1995
+182,160172095,"Kultiye, Monda",M,KOMOLI,Subsistence Farmer,01 Jan 1980
+183,160172099,"Kultiye, Namba",M,KOMOLI,Subsistence Farmer,01 Jan 1967
+184,160168834,"Kultiye, Pera",M,KOMOLI,Subsistence Farmer,01 Jan 1942
+185,160175587,"Kultiye, Peter",M,KOMOLI,Subsistence Farmer,01 Jan 1976
+186,160165103,"Kultiye, Unde",M,KOMOLI,Subsistence Farmer,01 Jan 1946
+187,160175589,"Kultiye, Yoko",M,KOMOLI,Subsistence Farmer,01 Jan 1972
+188,160251776,"Kulumbu, Areka",M,KOMOLI,Worker,01 Jan 1980
+189,160251783,"Kulumbu, Enoch",M,KOMOLI,Student,01 Jan 1989
+190,160252343,"Kulumbu, Kambu",M,KOMOLI,Subsistence Farmer,01 Jan 1982
+191,160252355,"Kulumbu, Pambo",M,KOMOLI,Subsistence Farmer,01 Jan 1983
+192,160442887,"Kulumbu, Wama",M,KOMOLI,Subsistence Farmer,14 Oct 1996
+193,160442890,"Kupai, John",M,KOMOLI,Accountant,10 Sep 1988
+194,160442891,"Kupai, Samuel",M,KOMOLI,Student,24 Jul 1999
+195,160158680,"Langai, Glowaye",M,KOMOLI,Clerk,01 Jan 1960
+196,160157477,"Langai, Jonah",M,KOMOLI,Salesman,01 Jan 1972
+197,160157478,"Langai, Kila",M,KOMOLI,Student,01 Jan 1978
+198,160157365,"Langai, Maine",M,KOMOLI,Subsistence Farmer,01 Jan 1969
+199,160157479,"Langai, Tiro",M,KOMOLI,Subsistence Farmer,01 Jan 1978
+200,160160227,"Merowa, Andrew",M,KOMOLI,Store Keeper,01 Jan 1979
+201,160160234,"Merowa, Brass",M,KOMOLI,Subsistence Farmer,01 Jan 1981
+202,160442897,"Merowa, Jeffery",M,KOMOLI,Student,02 Apr 2001
+203,160160070,"Merowa, John",M,KOMOLI,Subsistence Farmer,01 Jan 1977
+204,160160231,"Merowa, Lopalo",M,KOMOLI,Subsistence Farmer,01 Jan 1978
+205,160163474,"Merowa, Macklay",M,KOMOLI,Subsistence Farmer,01 Jan 1985
+206,160252505,"Merowa, Mathias",M,KOMOLI,Subsistence Farmer,01 Jan 1980
+207,160252496,"Merowa, Mekely",M,KOMOLI,Self Employed,01 Jan 1985
+208,160160080,"Merowa, Moses",M,KOMOLI,Student,01 Jan 1987
+209,160160223,"Merowa, Opu",M,KOMOLI,Subsistence Farmer,01 Jan 1964
+210,160160233,"Merowa, Peter",M,KOMOLI,Subsistence Farmer,01 Jan 1981
+211,160160224,"Merowa, Pombra",M,KOMOLI,Subsistence Farmer,01 Jan 1968
+212,160252507,"Merowa, Saint",M,KOMOLI,Pastor,01 Jan 1983
+213,160160076,"Merowa, Sent",M,KOMOLI,Pastor,01 Jan 1983
+214,160252448,"Merowa, Timothy",M,KOMOLI,Self Employed,01 Jan 1986
+215,160160078,"Merowa, Wanpis",M,KOMOLI,Student,01 Jan 1986
+216,160172098,"Pani, Diwi",M,KOMOLI,Subsistence Farmer,01 Jan 1959
+217,160153515,"Pani, Elvis",M,KOMOLI,Student,01 Jan 1984
+218,160442918,"Pani, Jacob",M,KOMOLI,Student,11 Sep 1997
+219,160442919,"Pani, Jerry",M,KOMOLI,Student,13 Nov 1997
+220,160165105,"Pani, Waka",M,KOMOLI,Student,01 Jan 1978
+221,160165104,"Pani, Waye",M,KOMOLI,Subsistence Farmer,01 Jan 1940
+222,160442922,"Pokeya, Gilbert",M,KOMOLI,Student,18 Oct 1997
+223,160442923,"Pokeya, Honley",M,KOMOLI,Student,12 Sep 1996
+224,160251793,"Pokeya, John",M,KOMOLI,Subsistence Farmer,01 Jan 1987
+225,160206252,"Pokeya, Kanombo",M,KOMOLI,Subsistence Farmer,01 Jan 1958
+226,160206255,"Pokeya, Kenneth",M,KOMOLI,Student,01 Jan 1982
+227,160207416,"Pokeya, Kenny",M,KOMOLI,Subsistence Farmer,01 Jan 1980
+228,160252368,"Pokeya, Kili",M,KOMOLI,Student,01 Jan 1983
+229,160163464,"Pokeya, Mambu",M,KOMOLI,Subsistence Farmer,01 Jan 1959
+230,160206373,"Pokeya, Namba",M,KOMOLI,Subsistence Farmer,01 Jan 1940
+231,160160068,"Pokeya, Pawa",M,KOMOLI,Student,01 Jan 1986
+232,160251780,"Tamo, Beaster",M,KOMOLI,Student,01 Jan 1992
+233,160128218,"Tamo, Benjamin",M,KOMOLI,Student,16 May 1994
+234,160128221,"Tamo, Charlie",M,KOMOLI,Student,02 Jun 1997
+235,160128217,"Tamo, Demeck",M,KOMOLI,Subsistence Farmer,06 Mar 1997
+236,160251781,"Tamo, Jackson",M,KOMOLI,Student,01 Jan 1985
+237,160128214,"Tamo, Jason",M,KOMOLI,Student,12 Apr 1996
+238,160128213,"Tamo, Jeremiah",M,KOMOLI,Student,16 Feb 1999
+239,160136554,"Tamo, Jim",M,KOMOLI,Subsistence Farmer,06 Aug 1996
+240,160136553,"Tamo, Jonathan",M,KOMOLI,Student,07 Apr 1995
+241,160251790,"Tamo, Leason",M,KOMOLI,Subsistence Farmer,01 Jan 1989
+242,160442931,"Tamo, Manu",M,KOMOLI,Student,23 Apr 1999
+243,160252348,"Tamo, Maya",M,KOMOLI,Student,01 Jan 1990
+244,160128220,"Tamo, Nickson",M,KOMOLI,Student,14 Jan 1995
+245,160136552,"Tamo, Roger",M,KOMOLI,Student,06 May 1995
+246,160252347,"Tamo, Roger",M,KOMOLI,Student,01 Jan 1988
+247,160251782,"Tamo, Solo",M,KOMOLI,Subsistence Farmer,01 Jan 1984
+248,160128227,"Tamo, Tawendo",M,KOMOLI,Student,15 Apr 1999
+249,160158888,"Waki, Emanueal",M,KOMOLI,Student,01 Jan 1980
+250,160160085,"Waki, Willi",M,KOMOLI,Subsistence Farmer,01 Jan 1962
+251,160442938,"Wapea, Alan",M,KOMOLI,Teacher,12 Apr 1995
+252,160442942,"Wapea, Domnic",M,KOMOLI,Driver,24 Dec 1983
+253,160442943,"Wapea, Godfry",M,KOMOLI,Student,13 Oct 1999
+254,160442944,"Wapea, Gordan",M,KOMOLI,Student,21 May 1996
+255,160442946,"Wapea, John",M,KOMOLI,Subsistence Farmer,13 Oct 1968
+256,160442948,"Wapea, Mike",M,KOMOLI,Subsistence Farmer,24 May 1998
+257,160442950,"Wapea, Pora",M,KOMOLI,Subsistence Farmer,17 Sep 1987
+258,160442953,"Wapea, Tepora",M,KOMOLI,Subsistence Farmer,11 Sep 1982
+259,160442954,"Wapea, Timothy",M,KOMOLI,Student,12 Apr 1999
+260,160442955,"Wapea, Titipa",M,KOMOLI,Subsistence Farmer,09 Oct 1959
+261,160206482,"Wapeya, Jackson",M,KOMOLI,Student,01 Jan 1987
+262,160252340,"Wapeya, Jacob",M,KOMOLI,Student,01 Jan 1991
+263,160252341,"Wapeya, Soti",M,KOMOLI,Student,01 Jan 1990
+264,160207263,"Wapeya, Windi",M,KOMOLI,Subsistence Farmer,01 Jan 1977
+265,160442956,"Wapoi, Aissac",M,KOMOLI,Student,12 Nov 1998
+266,160153473,"Wapoi, Danieal",M,KOMOLI,Subsistence Farmer,01 Jan 1965
+267,160153726,"Wapoi, Elijah",M,KOMOLI,Subsistence Farmer,01 Jan 1980
+268,160153734,"Wapoi, Luke",M,KOMOLI,Student,01 Jan 1985
+269,160442958,"Wapoi, Manu",M,KOMOLI,Student,13 Nov 1997
+270,160155922,"Wapoi, Mark",M,KOMOLI,Subsistence Farmer,01 Jan 1961
+271,160153324,"Wapoi, Pugu",M,KOMOLI,Subsistence Farmer,01 Jan 1982
+272,160442970,"Yoko, George",M,KOMOLI,Student,15 May 1998
+273,160157330,"Yoko, Jeff",M,KOMOLI,Teacher,01 Jan 1976
+274,160442971,"Yoko, Kelvin",M,KOMOLI,Teacher,13 Jul 1990
+275,160158678,"Yoko, Kewa",M,KOMOLI,Subsistence Farmer,01 Jan 1970
+276,160157362,"Yoko, Kolopu",M,KOMOLI,Subsistence Farmer,01 Jan 1940
+277,160157329,"Yoko, Mek",M,KOMOLI,Subsistence Farmer,01 Jan 1945
+278,160158685,"Yoko, Moti",M,KOMOLI,Student,01 Jan 1985
+279,160442972,"Yoko, Nathan",M,KOMOLI,Subsistence Farmer,21 Jul 1974
+280,160442973,"Yoko, Nicholas",M,KOMOLI,Student,21 Mar 1998
+281,160128229,"Yoko, Noma",M,KOMOLI,Painter,12 Feb 1994
+282,160157360,"Yoko, Ramond",M,KOMOLI,Student,01 Jan 1980
+283,160157359,"Yoko, Thomas",M,KOMOLI,Subsistence Farmer,01 Jan 1955
+284,160157334,"Yoko, Toapi",M,KOMOLI,Subsistence Farmer,01 Jan 1945
+285,160442976,"Yoko, Willie",M,KOMOLI,Student,05 Nov 2002

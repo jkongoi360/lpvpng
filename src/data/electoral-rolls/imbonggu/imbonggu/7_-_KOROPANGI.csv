@@ -1,0 +1,506 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160237483,"Andoiye, Jenny",F,Koropangi,Worker,01 Jan 1972
+2,160237378,"Andoiye, Maria",F,Koropangi,Subsistence Farmer,01 Jan 1979
+3,160206646,"Anthon, Shalina",F,Koropangi,Household Duties,01 Jan 1976
+4,160237487,"Ape, Rita",F,Koropangi,Subsistence Farmer,01 Jan 1970
+5,160180696,"Ari, Molombo",F,Koropangi,Household Duties,01 Jan 1964
+6,160177541,"Ari, Nino",F,Koropangi,Household Duties,01 Jan 1951
+7,160180691,"Ari, Niomi",F,Koropangi,Household Duties,01 Jan 1983
+8,160180693,"Ari, Roselyn",F,Koropangi,Student,01 Jan 1986
+9,160177542,"Ari, Tawedo",F,Koropangi,Household Duties,01 Jan 1961
+10,160184570,"Buka, Lily",F,Koropangi,Household Duties,01 Jan 1980
+11,25084758,"Daniel, Elizabeth",F,Koropangi,Household Duties,20 May 1974
+12,160133243,"Danny, Grace",F,Koropangi,Student,09 Nov 1996
+13,25087388,"David, Staly",F,Koropangi,Student,20 Dec 2000
+14,160181057,"Don, Jenny",F,Koropangi,Household Duties,01 Jan 1975
+15,160206760,"Donald, Lita",F,Koropangi,Household Duties,01 Jan 1980
+16,160207755,"Garu, Porame",F,Koropangi,Household Duties,01 Jan 1969
+17,25084766,"George, Natasha",F,Koropangi,Pastor,12 Feb 2001
+18,160182848,"Gilbert, Esly",F,Koropangi,Student,01 Jan 1988
+19,160207616,"Gini, Nowa",F,Koropangi,Household Duties,01 Jan 1940
+20,160181135,"Hei, Maria",F,Koropangi,Household Duties,01 Jan 1975
+21,160182577,"Henry, Helly",F,Koropangi,Student,01 Jan 1988
+22,160177973,"Henry, Susan",F,Koropangi,Household Duties,01 Jan 1966
+23,160206545,"Iko, Janet",F,Koropangi,Student,01 Jan 1986
+24,160206654,"Iko, Martha",F,Koropangi,Household Duties,01 Jan 1972
+25,160206500,"Iko, Natil",F,Koropangi,Household Duties,01 Jan 1955
+26,160181132,"Iko, Pauline",F,Koropangi,Household Duties,01 Jan 1981
+27,160206506,"Iko, Tirimo",F,Koropangi,Student,01 Jan 1982
+28,160177753,"Indipine, Bepi",F,Koropangi,Household Duties,01 Jan 1979
+29,25087390,"Indipine, Clare",F,Koropangi,Student,25 Dec 2002
+30,25084770,"Ismiel, Loice",F,Koropangi,Student,15 Oct 2000
+31,25084772,"Iso, Angola",F,Koropangi,Household Duties,29 Nov 2001
+32,160183085,"Jacob, Jenny",F,Koropangi,Teacher,01 Jan 1975
+33,160177562,"James, Grace",F,Koropangi,Household Duties,01 Jan 1979
+34,160207752,"Jecob, Anna",F,Koropangi,Household Duties,01 Jan 1972
+35,25084776,"Jeffery, Jobbina",F,Koropangi,Student,28 Apr 2004
+36,160440501,"Jeremiah, Marie",F,Koropangi,Household Duties,12 Sep 1998
+37,160175750,"Jii, Roselyn",F,Koropangi,Student,01 Jan 1980
+38,160180698,"Jii, Tendelemabo",F,Koropangi,Household Duties,01 Jan 1969
+39,160207362,"Jim, Tagopa",F,Koropangi,Nurse,01 Jan 1973
+40,160182828,"Jimmy, Rachael",F,Koropangi,Household Duties,01 Jan 1979
+41,160180685,"Joe, Wendy",F,Koropangi,Student,01 Jan 1988
+42,160440503,"John, Bahgi",F,Koropangi,Accountant,15 Sep 1997
+43,160241865,"Kale, Annita",F,Koropangi,Subsistence Farmer,01 Jan 1974
+44,160240656,"Kale, Elis",F,Koropangi,Pastor,01 Jan 1975
+45,160237489,"Kale, Keleli",F,Koropangi,Subsistence Farmer,01 Jan 1948
+46,160207285,"Kandipo, Ewa",F,Koropangi,Subsistence Farmer,01 Jan 1978
+47,160207576,"Kariya, Bepi",F,Koropangi,Household Duties,01 Jan 1956
+48,160207369,"Kariya, Rosa",F,Koropangi,Subsistence Farmer,01 Jan 1983
+49,160207367,"Keko, Tuwame",F,Koropangi,Household Duties,01 Jan 1940
+50,160184550,"Kelemambo, Saina",F,Koropangi,Household Duties,01 Jan 1969
+51,160177982,"Kepo, Yapi",F,Koropangi,Household Duties,01 Jan 1971
+52,160209882,"Kera, Ariye",F,Koropangi,Household Duties,01 Jan 1980
+53,160207836,"Kerowa, Misi",F,Koropangi,Household Duties,01 Jan 1968
+54,160177990,"Kerry, Carolyn",F,Koropangi,Student,01 Jan 1988
+55,160240468,"Kewaye, Jenifer",F,Koropangi,Subsistence Farmer,01 Jan 1987
+56,160240662,"Kewaye, Nancy",F,Koropangi,Subsistence Farmer,01 Jan 1962
+57,160181150,"Konjel, Betty",F,Koropangi,Household Duties,01 Jan 1967
+58,160184380,"Konjel, Esther",F,Koropangi,Subsistence Farmer,01 Jan 1987
+59,160184389,"Koroli, Wepoino",F,Koropangi,Household Duties,01 Jan 1960
+60,160182840,"Koropa, Merolyn",F,Koropangi,Student,01 Jan 1981
+61,160206553,"Ku, Rebecca",F,Koropangi,Secretary,01 Jan 1980
+62,160184381,"Kuruwe, Mini",F,Koropangi,Household Duties,01 Jan 1932
+63,160183087,"Lgope, Kepali",F,Koropangi,Household Duties,01 Jan 1946
+64,160207693,"Lgoraiye, Helen",F,Koropangi,Subsistence Farmer,01 Jan 1988
+65,160177547,"Limbiye, Anna",F,Koropangi,Household Duties,01 Jan 1972
+66,160181039,"Lipuli, Onndo",F,Koropangi,Household Duties,01 Jan 1970
+67,160182447,"Lopeke, Etaro",F,Koropangi,Subsistence Farmer,01 Jan 1971
+68,160182448,"Lopeke, Matani",F,Koropangi,Subsistence Farmer,01 Jan 1983
+69,160182663,"Lopeke, Mololi",F,Koropangi,Household Duties,01 Jan 1949
+70,160133244,"Lucas, Gelma",F,Koropangi,Sales Women,10 Dec 1997
+71,160182595,"Lukas, Katrina",F,Koropangi,Household Duties,01 Jan 1985
+72,160207927,"Luke, Jully",F,Koropangi,Subsistence Farmer,01 Jan 1964
+73,25084796,"Luther, Maleah",F,Koropangi,Housegirl,26 Apr 2003
+74,160184560,"Mambo, Jenet",F,Koropangi,Subsistence Farmer,01 Jan 1987
+75,160207821,"Mara, Ambuno",F,Koropangi,Household Duties,01 Jan 1951
+76,160206758,"Mare, Kini",F,Koropangi,Household Duties,01 Jan 1970
+77,160206761,"Mare, Shalina",F,Koropangi,Student,01 Jan 1986
+78,160206770,"Mare, Uriye",F,Koropangi,Student,01 Jan 1984
+79,160207601,"Mendepo, Rondopame",F,Koropangi,Household Duties,01 Jan 1961
+80,160182836,"Michael, Dolly",F,Koropangi,Student,01 Jan 1982
+81,160207584,"Mindil, Walta",F,Koropangi,Household Duties,01 Jan 1951
+82,160206549,"Mini, Kipeme",F,Koropangi,Household Duties,01 Jan 1965
+83,160205208,"Mini, Lewa",F,Koropangi,Household Duties,01 Jan 1983
+84,160207814,"Mokoiye, Wambiri",F,Koropangi,Subsistence Farmer,01 Jan 1990
+85,160177981,"Molo, Ani",F,Koropangi,Household Duties,01 Jan 1978
+86,160177550,"Molombo, Jenny",F,Koropangi,Household Duties,01 Jan 1971
+87,160249255,"Monda, Bevlyn",F,Koropangi,Housegirl,01 Jan 1976
+88,160249745,"Monda, Carthy",F,Koropangi,Subsistence Farmer,01 Jan 1979
+89,160206597,"Monda, Joyce",F,Koropangi,Household Duties,01 Jan 1979
+90,160206535,"Monda, Julie",F,Koropangi,Household Duties,01 Jan 1980
+91,160207581,"Moro, Gethrew",F,Koropangi,Household Duties,01 Jan 1970
+92,160133100,"Moses, Susan",F,Koropangi,Sales Women,01 Jul 1974
+93,160180702,"Nale, Kuku",F,Koropangi,Household Duties,01 Jan 1945
+94,160207932,"Napa, Jully",F,Koropangi,Subsistence Farmer,01 Jan 1983
+95,160181158,"Napa, Lembo",F,Koropangi,Household Duties,01 Jan 1939
+96,160207674,"Napa, Toya",F,Koropangi,Subsistence Farmer,01 Jan 1987
+97,160440646,"Nawea, Blessina",F,Koropangi,Student,10 Jun 1989
+98,160440546,"Naweya, Abigail",F,Koropangi,Student,13 Sep 2002
+99,160184396,"Nema, Dolla",F,Koropangi,Household Duties,01 Jan 1969
+100,160184374,"Nema, Hellen",F,Koropangi,Subsistence Farmer,01 Jan 1988
+101,160184395,"Nema, Koyapo",F,Koropangi,Household Duties,01 Jan 1963
+102,160184478,"Nikolas, Lewa",F,Koropangi,Household Duties,01 Jan 1972
+103,160207848,"Nokop, Robbie",F,Koropangi,Household Duties,01 Jan 1971
+104,160182573,"Nombea, Rebecca",F,Koropangi,Household Duties,01 Jan 1971
+105,160181098,"Nonge, Heni",F,Koropangi,Household Duties,01 Jan 1971
+106,160178136,"Ombo, Becky",F,Koropangi,Student,01 Jan 1984
+107,160177565,"Ombo, Beverly",F,Koropangi,Student,01 Jan 1981
+108,160178133,"Ombo, Karela",F,Koropangi,Household Duties,01 Jan 1964
+109,25084811,"Onda, Meriam",F,Koropangi,Household Duties,16 Jun 1997
+110,25084812,"Opa, Cathy",F,Koropangi,Housegirl,11 Dec 1989
+111,160249723,"Opa, Rebecca",F,Koropangi,Student,09 Aug 1988
+112,160237185,"Opa, Wandeya",F,Koropangi,Subsistence Farmer,01 Jan 1944
+113,160237205,"Pange, Pala",F,Koropangi,Subsistence Farmer,01 Jan 1973
+114,160206664,"Paul, Catherine",F,Koropangi,Household Duties,01 Jan 1979
+115,160182832,"Paulus, Julie",F,Koropangi,Household Duties,01 Jan 1979
+116,160205058,"Pawenda, Amba",F,Koropangi,Household Duties,01 Jan 1950
+117,160177739,"Piele, Daina",F,Koropangi,Student,01 Jan 1989
+118,160177736,"Piele, Wandambo",F,Koropangi,Household Duties,01 Jan 1974
+119,160440608,"Pileru, Malivina",F,Koropangi,Household Duties,07 Apr 1993
+120,160182590,"Pilge, Joana",F,Koropangi,Household Duties,01 Jan 1979
+121,160182736,"Pilge, Kani",F,Koropangi,Household Duties,01 Jan 1969
+122,160177570,"Pilipo, Anna",F,Koropangi,Household Duties,01 Jan 1986
+123,160181107,"Pilipo, Ellin",F,Koropangi,Student,01 Jan 1986
+124,160181170,"Pilipo, Mito",F,Koropangi,Store Keeper,01 Jan 1977
+125,160181166,"Pilipo, Rakea",F,Koropangi,Household Duties,01 Jan 1951
+126,160181168,"Pilipo, Tangodo",F,Koropangi,Household Duties,01 Jan 1962
+127,160181174,"Pilipo, Wan helen",F,Koropangi,Household Duties,01 Jan 1975
+128,160207824,"Pilla, Alice",F,Koropangi,Household Duties,01 Jan 1981
+129,160207777,"Pingirip, Akele",F,Koropangi,Household Duties,01 Jan 1952
+130,160237175,"Polombiye, Jean",F,Koropangi,Subsistence Farmer,01 Jan 1987
+131,160234893,"Polombiye, Jully",F,Koropangi,Subsistence Farmer,01 Jan 1975
+132,160241760,"Polombiye, Saina",F,Koropangi,Subsistence Farmer,01 Jan 1973
+133,160235097,"Polombiye, Toringi",F,Koropangi,Subsistence Farmer,01 Jan 1941
+134,160184532,"Pombo, Judy",F,Koropangi,Subsistence Farmer,01 Jan 1983
+135,160184629,"Pombo, Wee",F,Koropangi,Household Duties,01 Jan 1958
+136,160183065,"Pondo, Ingino",F,Koropangi,Household Duties,01 Jan 1938
+137,160207539,"Pora, Nemo",F,Koropangi,Household Duties,01 Jan 1977
+138,160207590,"Pote, Bepi",F,Koropangi,Household Duties,01 Jan 1960
+139,160181053,"Puiye, Cathy",F,Koropangi,Household Duties,01 Jan 1970
+140,160180547,"Pulkiye, Mary",F,Koropangi,Household Duties,01 Jan 1972
+141,160237287,"Pumbu, Pawa",F,Koropangi,Subsistence Farmer,01 Jan 1968
+142,160237294,"Pumbu, Roina",F,Koropangi,Subsistence Farmer,01 Jan 1987
+143,160237178,"Pure, Josephine",F,Koropangi,Sister,01 Jan 1970
+144,160237273,"Pure, Kay",F,Koropangi,Nurse,01 Jan 1982
+145,160237272,"Pure, Kuku",F,Koropangi,Household Duties,01 Jan 1984
+146,160237415,"Pure, Mito",F,Koropangi,Household Duties,01 Jan 1958
+147,160241878,"Pure, Veronica",F,Koropangi,Student,01 Jan 1987
+148,160250614,"Puruno, Anna",F,Koropangi,Accountant,01 Jan 1984
+149,160133105,"Puruno, Jeniffer",F,Koropangi,Accountant,04 Aug 1979
+150,160250205,"Puruno, Jully",F,Koropangi,Manager,01 Jan 1972
+151,160250591,"Puruno, Landa",F,Koropangi,Subsistence Farmer,01 Jan 1978
+152,160250592,"Puruno, Malinda",F,Koropangi,Student,01 Jan 1992
+153,160250612,"Puruno, Mopune",F,Koropangi,Subsistence Farmer,01 Jan 1965
+154,160250101,"Puruno, Ross",F,Koropangi,Accountant,01 Jan 1983
+155,160180714,"Rami, Pepo",F,Koropangi,Household Duties,01 Jan 1971
+156,25084814,"Rex, Nomie",F,Koropangi,Self Employed,15 Jun 2000
+157,160249610,"Robert, Joysila",F,Koropangi,Student,01 Jan 1993
+158,160249792,"Robert, Popo",F,Koropangi,Subsistence Farmer,01 Jan 1970
+159,160181114,"Robert, Rose",F,Koropangi,Household Duties,01 Jan 1971
+160,160210055,"Sam, Manu",F,Koropangi,Household Duties,01 Jan 1978
+161,160183084,"Samyuel, Pene",F,Koropangi,Household Duties,01 Jan 1969
+162,160181047,"Simon, Elina",F,Koropangi,Banker,01 Jan 1973
+163,160181111,"Simon, Filomina",F,Koropangi,Student,01 Jan 1986
+164,160181049,"Simon, Lavina",F,Koropangi,Student,01 Jan 1988
+165,160181110,"Simon, Lenita",F,Koropangi,Student,01 Jan 1983
+166,160175757,"Steven, Christina",F,Koropangi,Store Keeper,01 Jan 1986
+167,160177970,"Steven, Ruth",F,Koropangi,Household Duties,01 Jan 1971
+168,160237277,"Tapol, Waris",F,Koropangi,Subsistence Farmer,01 Jan 1967
+169,160237276,"Tapoli, Alopambo",F,Koropangi,Subsistence Farmer,01 Jan 1944
+170,160249720,"Tapoli, Maria",F,Koropangi,Subsistence Farmer,01 Jan 1971
+171,160237281,"Tapoli, Pilimbo",F,Koropangi,Subsistence Farmer,01 Jan 1971
+172,160237278,"Tapoli, Regina",F,Koropangi,Subsistence Farmer,01 Jan 1990
+173,160237491,"Tapoli, Robbna",F,Koropangi,Subsistence Farmer,01 Jan 1985
+174,160207745,"Tapure, Rose",F,Koropangi,Household Duties,01 Jan 1982
+175,160249704,"Tawa, Frida",F,Koropangi,Student,01 Jan 1994
+176,160249472,"Tawa, Kondowa",F,Koropangi,Subsistence Farmer,01 Jan 1968
+177,25084817,"Tawa, Melishah",F,Koropangi,Housegirl,29 Nov 2000
+178,160249785,"Tawa, Regina",F,Koropangi,Household Duties,01 Jan 1959
+179,160249802,"Tawa, Roina",F,Koropangi,Subsistence Farmer,01 Jan 1989
+180,160249280,"Tawa, Sisilya",F,Koropangi,Subsistence Farmer,01 Jan 1975
+181,160250103,"Temane, Deborah",F,Koropangi,Manager,01 Jan 1958
+182,160250120,"Temane, Dolly",F,Koropangi,Housegirl,01 Jan 1994
+183,25084818,"Temane, Grace",F,Koropangi,Household Duties,10 Mar 2001
+184,160250094,"Temane, Kina",F,Koropangi,Subsistence Farmer,01 Jan 1980
+185,25084819,"Temane, Lineth",F,Koropangi,Household Duties,08 Jan 2004
+186,160249281,"Temane, Polo",F,Koropangi,Subsistence Farmer,01 Jan 1956
+187,160249769,"Temane, Rosana",F,Koropangi,Subsistence Farmer,01 Jan 1988
+188,160177557,"Teringi, Helen",F,Koropangi,Subsistence Farmer,01 Jan 1981
+189,160180542,"Teringi, Waki",F,Koropangi,Household Duties,01 Jan 1961
+190,160206538,"Terum, Jenny",F,Koropangi,Household Duties,01 Jan 1982
+191,160206530,"Terum, Karome",F,Koropangi,Household Duties,01 Jan 1966
+192,160206531,"Terum, Kondowambo",F,Koropangi,Household Duties,01 Jan 1967
+193,160206537,"Terum, Lilly",F,Koropangi,Student,01 Jan 1979
+194,160206765,"Terum, Maria",F,Koropangi,Teacher,01 Jan 1970
+195,160206533,"Terum, Merolyn",F,Koropangi,Household Duties,01 Jan 1972
+196,160184553,"Thomas, Lyn",F,Koropangi,Household Duties,01 Jan 1971
+197,25084822,"Thomas, Neomi",F,Koropangi,Student,11 Dec 2000
+198,160210048,"Tiri, Wendy",F,Koropangi,Household Duties,01 Jan 1975
+199,160180686,"Tomoiye, Julie",F,Koropangi,Student,01 Jan 1988
+200,160176418,"Tomoiye, Maria",F,Koropangi,Household Duties,01 Jan 1959
+201,160178141,"Tomoiye, Sil",F,Koropangi,Household Duties,01 Jan 1984
+202,160206408,"Topele, Kaka",F,Koropangi,Household Duties,01 Jan 1983
+203,160205214,"Topele, Tawame",F,Koropangi,Household Duties,01 Jan 1960
+204,160207293,"Torigi, Rosely",F,Koropangi,Subsistence Farmer,01 Jan 1990
+205,160207527,"Torigi, Tarapi",F,Koropangi,Household Duties,01 Jan 1954
+206,160207613,"Turi, Mombo",F,Koropangi,Household Duties,01 Jan 1945
+207,160249607,"Unde, Hellen",F,Koropangi,Subsistence Farmer,01 Jan 1965
+208,160250108,"Unde, Josephine",F,Koropangi,Subsistence Farmer,01 Jan 1984
+209,160250113,"Unde, Ruth",F,Koropangi,Subsistence Farmer,01 Jan 1943
+210,160250247,"Unde, Ruth jr",F,Koropangi,Subsistence Farmer,01 Jan 1982
+211,160173594,"Waka, Talopa",F,Koropangi,Household Duties,01 Jan 1951
+212,160207817,"Wake, Piana",F,Koropangi,Household Duties,01 Jan 1984
+213,160177560,"Wambo, Kurume",F,Koropangi,Household Duties,01 Jan 1961
+214,160181123,"Wambo, Merolyn",F,Koropangi,Student,01 Jan 1988
+215,160210050,"Wanege, Alice",F,Koropangi,Household Duties,01 Jan 1982
+216,160209874,"Wanje, Melanie",F,Koropangi,Subsistence Farmer,01 Jan 1959
+217,160207526,"Wanje, Nana",F,Koropangi,Subsistence Farmer,01 Jan 1988
+218,160181138,"Wanpis, Betty",F,Koropangi,Household Duties,01 Jan 1964
+219,160183091,"Wareya, Kuli",F,Koropangi,Household Duties,01 Jan 1900
+220,160207515,"Wini, Lanis",F,Koropangi,Household Duties,01 Jan 1969
+221,160207748,"Yamba, Rake",F,Koropangi,Household Duties,01 Jan 1936
+222,25084831,"Yapo, Maya",F,Koropangi,Student,29 Feb 2004
+223,160206542,"Yawa, Rende",F,Koropangi,Household Duties,01 Jan 1979
+224,160133241,"Yawi, Molina",F,Koropangi,Student,10 Feb 1999
+225,160205057,"Yombi, Anenge anna",F,Koropangi,Household Duties,01 Jan 1979
+226,160205052,"Yombi, Nipili",F,Koropangi,Household Duties,01 Jan 1960
+227,160440538,"Aiyele, Cain",M,Koropangi,Student,03 Mar 2000
+228,25084734,"Aiyele, Junior",M,Koropangi,Subsistence Farmer,12 Aug 1997
+229,160440554,"Aiyele, Kenneth",M,Koropangi,Teacher,26 Apr 1988
+230,25084736,"Aiyele, Micheal",M,Koropangi,Subsistence Farmer,24 Dec 1990
+231,160133253,"Aiyele, Steven",M,Koropangi,Sales Women,08 Sep 1996
+232,160440536,"Aiyele, Wesley",M,Koropangi,Student,24 Jan 1998
+233,160133104,"Akega, Jacob",M,Koropangi,Sales Women,23 Oct 1989
+234,160237387,"Andoiye, Datson",M,Koropangi,Salesman,01 Jan 1984
+235,160237479,"Andoiye, Mark",M,Koropangi,Manager,01 Jan 1971
+236,160237403,"Andoiye, Richie",M,Koropangi,Salesman,15 Oct 1983
+237,160237386,"Andoiye, Steven",M,Koropangi,Accountant,01 Jan 1981
+238,160440591,"Andrew, Jetro",M,Koropangi,Student,18 Jul 1999
+239,160440589,"Andrew, Tawa",M,Koropangi,Subsistence Farmer,19 Nov 1995
+240,160242039,"Ape, Joe",M,Koropangi,Subsistence Farmer,01 Jan 1990
+241,160237390,"Ape, Mone",M,Koropangi,Subsistence Farmer,01 Jan 1964
+242,160133107,"Ape, Tiro",M,Koropangi,Sales Women,17 Mar 1983
+243,160207694,"Ari, Lapi",M,Koropangi,Subsistence Farmer,01 Jan 1939
+244,160181063,"Ari, Limbiye",M,Koropangi,Subsistence Farmer,01 Jan 1959
+245,160181065,"Ari, Nonge",M,Koropangi,Subsistence Farmer,01 Jan 1962
+246,160440529,"Ben, Wilson",M,Koropangi,Student,31 May 1994
+247,160440548,"Benjamin, Benard",M,Koropangi,Subsistence Farmer,04 Dec 1996
+248,25084762,"David, Stallon",M,Koropangi,Student,09 Dec 2002
+249,160181116,"Don, Geston",M,Koropangi,Student,01 Jan 1986
+250,160177539,"Don, Justin",M,Koropangi,Student,01 Jan 1988
+251,160207365,"Garu, Stanly",M,Koropangi,Subsistence Farmer,01 Jan 1985
+252,160209810,"Gini, James",M,Koropangi,Subsistence Farmer,01 Jan 1979
+253,160207698,"Gini, Kerowa",M,Koropangi,Subsistence Farmer,01 Jan 1963
+254,160207837,"Gini, Nokop",M,Koropangi,Subsistence Farmer,01 Jan 1967
+255,160207744,"Gini, Tapure",M,Koropangi,Subsistence Farmer,01 Jan 1981
+256,160207738,"Gini, Wini",M,Koropangi,Supervisor,01 Jan 1963
+257,160177983,"Henry, Inos",M,Koropangi,Student,01 Jan 1985
+258,160206645,"Iko, Ametoli anthon",M,Koropangi,Baker,01 Jan 1968
+259,160206543,"Iko, Harry",M,Koropangi,Student,01 Jan 1979
+260,160206502,"Iko, John",M,Koropangi,Salesman,01 Jan 1970
+261,160206655,"Iko, Yawa",M,Koropangi,Subsistence Farmer,01 Jan 1975
+262,160440532,"Indipine, Jacob",M,Koropangi,Student,01 Nov 2000
+263,160206507,"Ipo, Talopa",M,Koropangi,Subsistence Farmer,01 Jan 1937
+264,160440581,"James, Apol",M,Koropangi,Driver,05 Nov 1998
+265,160440627,"Jeffery, Justin",M,Koropangi,Student,05 Jul 1996
+266,160180701,"Jii, Pepena",M,Koropangi,Student,01 Jan 1989
+267,160207573,"Jim, Devil",M,Koropangi,Subsistence Farmer,01 Jan 1986
+268,160440612,"Joe, Nickles",M,Koropangi,Student,28 May 2002
+269,160177377,"Joe, Wayne",M,Koropangi,Student,01 Jan 1986
+270,160182850,"Kaima, Pilge",M,Koropangi,Subsistence Farmer,01 Jan 1957
+271,160241867,"Kale, Alphonse",M,Koropangi,Student,02 Jun 1993
+272,160180708,"Kale, Dopo steven",M,Koropangi,Electrician,01 Jan 1957
+273,160180706,"Kale, Peipul",M,Koropangi,Mechanic,01 Jan 1980
+274,160240655,"Kale, Pulu lucas",M,Koropangi,Pastor,01 Jan 1972
+275,160237486,"Kale, Stenly",M,Koropangi,Student,01 Jan 1978
+276,160177976,"Kale, Wane wayne",M,Koropangi,Mechanic,01 Jan 1962
+277,160177987,"Kambu, Billy",M,Koropangi,Subsistence Farmer,01 Jan 1982
+278,160182743,"Kambu, Henry ranje",M,Koropangi,Pastor,01 Jan 1956
+279,160182585,"Kambu, Pareka",M,Koropangi,Subsistence Farmer,01 Jan 1984
+280,160205045,"Kambula, Topele michael",M,Koropangi,Subsistence Farmer,01 Jan 1950
+281,160207579,"Kandipo, Moro",M,Koropangi,Subsistence Farmer,01 Jan 1962
+282,160207538,"Kandipo, Pora",M,Koropangi,Subsistence Farmer,01 Jan 1967
+283,160207582,"Kandipo, Tiye",M,Koropangi,Subsistence Farmer,01 Jan 1986
+284,160210053,"Kandiri, Pita",M,Koropangi,Subsistence Farmer,01 Jan 1975
+285,160178144,"Kange, Panda",M,Koropangi,Subsistence Farmer,01 Jan 1956
+286,160207371,"Kariya, Guli",M,Koropangi,Subsistence Farmer,01 Jan 1985
+287,160207368,"Keko, Kariya",M,Koropangi,Subsistence Farmer,01 Jan 1950
+288,160207577,"Keko, Tiri",M,Koropangi,Subsistence Farmer,01 Jan 1954
+289,160207522,"Keko, Wanege",M,Koropangi,Subsistence Farmer,01 Jan 1971
+290,160133266,"Kema, Andrew",M,Koropangi,Teacher,12 May 1958
+291,160133260,"Kema, Jerry",M,Koropangi,Business man,05 Mar 1979
+292,25084778,"Kepenge, Daniel",M,Koropangi,Tradesman,19 Dec 1972
+293,160180948,"Kera, Indipine joe",M,Koropangi,Mechanic,01 Jan 1966
+294,160177746,"Kera, John",M,Koropangi,Security,01 Jan 1954
+295,160181133,"Kera, Ombo",M,Koropangi,Subsistence Farmer,01 Jan 1955
+296,160177749,"Kera, Toimbo",M,Koropangi,Subsistence Farmer,01 Jan 1958
+297,160177559,"Kera, Wambo",M,Koropangi,Subsistence Farmer,01 Jan 1959
+298,160181163,"Kerry, George",M,Koropangi,Subsistence Farmer,01 Jan 1984
+299,160240660,"Kewaiye, Kelly",M,Koropangi,Subsistence Farmer,01 Jan 1956
+300,160240476,"Kewaye, Clancy",M,Koropangi,Pastor,01 Jan 1974
+301,160249473,"Kewaye, Max",M,Koropangi,Salesman,01 Jan 1981
+302,25084780,"Kewaye, Norman",M,Koropangi,Student,15 Aug 1997
+303,160240664,"Kewaye, Philip",M,Koropangi,Salesman,01 Jan 1982
+304,160181153,"Koroli, Namba",M,Koropangi,Subsistence Farmer,01 Jan 1978
+305,160181154,"Koroli, Tonge",M,Koropangi,Subsistence Farmer,01 Jan 1981
+306,160182844,"Koropa, Gipson",M,Koropangi,Student,01 Jan 1988
+307,160182575,"Koropa, Pepena",M,Koropangi,Student,01 Jan 1984
+308,160181117,"Kowa, Indipine",M,Koropangi,Subsistence Farmer,01 Jan 1970
+309,160182839,"Kuli, Nombea",M,Koropangi,Subsistence Farmer,01 Jan 1972
+310,160207833,"Kulimu, Turi",M,Koropangi,Subsistence Farmer,01 Jan 1932
+311,160183232,"Kuruwe, Konjel",M,Koropangi,Clerk,01 Jan 1957
+312,160181139,"Kuruwe, Nema",M,Koropangi,Subsistence Farmer,01 Jan 1949
+313,160183238,"Kuruwe, Tokopi",M,Koropangi,Subsistence Farmer,01 Jan 1976
+314,160184562,"Lgope, Buka",M,Koropangi,Subsistence Farmer,01 Jan 1976
+315,160183089,"Lgope, Jefry",M,Koropangi,Subsistence Farmer,01 Jan 1984
+316,160184724,"Lgope, Pandeya",M,Koropangi,Subsistence Farmer,01 Jan 1980
+317,160207825,"Lgoraiye, Devit",M,Koropangi,Subsistence Farmer,01 Jan 1981
+318,160207826,"Lgoraiye, Nepol",M,Koropangi,Subsistence Farmer,01 Jan 1984
+319,160207690,"Lgoraiye, Pilla",M,Koropangi,Subsistence Farmer,01 Jan 1977
+320,160184503,"Lipuli, Annis",M,Koropangi,Subsistence Farmer,01 Jan 1990
+321,160182670,"Loko, Las",M,Koropangi,Security,01 Jan 1971
+322,160207578,"Lomogo, Kandipo",M,Koropangi,Subsistence Farmer,01 Jan 1964
+323,160182593,"Lopeke, Lukas",M,Koropangi,Subsistence Farmer,01 Jan 1980
+324,160184575,"Lopeke, Nikolas",M,Koropangi,Subsistence Farmer,01 Jan 1968
+325,25084792,"Lucas, Menley",M,Koropangi,Student,08 Oct 2000
+326,25084793,"Luke, Latin",M,Koropangi,Student,10 Aug 1998
+327,160206529,"Magaile, Terum",M,Koropangi,Magistrate,01 Jan 1941
+328,160184506,"Maka, Bembo",M,Koropangi,Subsistence Farmer,01 Jan 1963
+329,160181043,"Maka, Hei",M,Koropangi,Subsistence Farmer,01 Jan 1954
+330,160184358,"Maka, Lipuli",M,Koropangi,Subsistence Farmer,01 Jan 1948
+331,160182454,"Maka, Ltingi",M,Koropangi,Subsistence Farmer,01 Jan 1942
+332,160184559,"Mambo, Pupai",M,Koropangi,Supervisor,01 Jan 1983
+333,160184714,"Mambo, Samyuel",M,Koropangi,Councillor,01 Jan 1960
+334,160209876,"Mapo, Torigi",M,Koropangi,Subsistence Farmer,01 Jan 1940
+335,160207594,"Mapo, Wanje",M,Koropangi,Subsistence Farmer,01 Jan 1932
+336,160206769,"Mare, Anjo donald",M,Koropangi,Driver,01 Jan 1979
+337,25084801,"Max, Joe",M,Koropangi,Unemployed,13 Dec 1998
+338,160440614,"Mek, Joejoe",M,Koropangi,Driver,12 Nov 2001
+339,160207688,"Mendepo, Ratu",M,Koropangi,Subsistence Farmer,01 Jan 1988
+340,160207816,"Mendepo, Wake",M,Koropangi,Subsistence Farmer,01 Jan 1980
+341,160440560,"Mike, Inmanuel",M,Koropangi,Student,31 May 2001
+342,160210054,"Mindil, Tombe",M,Koropangi,Subsistence Farmer,01 Jan 1975
+343,160206551,"Mini, Ku",M,Koropangi,Accountant,01 Jan 1978
+344,160206555,"Mini, Michael",M,Koropangi,Student,01 Jan 1981
+345,160206662,"Mini, Paul",M,Koropangi,Salesman,01 Jan 1974
+346,160206557,"Mini, Robert",M,Koropangi,Student,01 Jan 1985
+347,160207663,"Mokoiye, Bawa",M,Koropangi,Subsistence Farmer,01 Jan 1980
+348,160207662,"Mokoiye, Bome",M,Koropangi,Subsistence Farmer,01 Jan 1975
+349,160207597,"Mokoiye, Papiane",M,Koropangi,Subsistence Farmer,01 Jan 1968
+350,160207598,"Mokoiye, Yando",M,Koropangi,Subsistence Farmer,01 Jan 1971
+351,160249254,"Monda, Joe pis",M,Koropangi,Welder,01 Jan 1969
+352,160249625,"Monda, Tonny",M,Koropangi,Salesman,01 Jan 1978
+353,160173596,"Moro, Moris",M,Koropangi,Student,01 Jan 1990
+354,25084803,"Moses, Tap",M,Koropangi,Student,20 Jun 1989
+355,160206643,"Nakanol, Iko",M,Koropangi,Subsistence Farmer,01 Jan 1938
+356,160207715,"Nanu, Thomas",M,Koropangi,Subsistence Farmer,01 Jan 1981
+357,160178146,"Napa, Jii",M,Koropangi,Subsistence Farmer,01 Jan 1955
+358,160207942,"Napa, Luke",M,Koropangi,Supervisor,01 Jan 1963
+359,160207930,"Napa, Oke",M,Koropangi,Subsistence Farmer,01 Jan 1980
+360,160177379,"Napa, Tomoiye",M,Koropangi,Subsistence Farmer,01 Jan 1945
+361,160206607,"Nawea, Ben",M,Koropangi,Student,01 Jan 1983
+362,160440648,"Nawea, Isreal",M,Koropangi,Student,06 Mar 1991
+363,160133246,"Nawea, Nicky",M,Koropangi,Sales Women,06 Apr 1997
+364,160440603,"Naweiya, Secion",M,Koropangi,Teacher,29 May 1981
+365,160181164,"Nimba, Pilipo",M,Koropangi,Subsistence Farmer,01 Jan 1938
+366,160136234,"Nimbo, Iso",M,Koropangi,Sales Women,15 Jan 1996
+367,160183239,"Nindili, Kumbiye",M,Koropangi,Subsistence Farmer,01 Jan 1946
+368,160184552,"Ninge, Thomas",M,Koropangi,Salesman,01 Jan 1968
+369,160440625,"Niwa, Norwel",M,Koropangi,Student,15 May 2000
+370,160133258,"Nolepo, Nelson",M,Koropangi,Sales Women,03 Nov 1963
+371,160177564,"Ombo, Luke",M,Koropangi,Student,01 Jan 1985
+372,160237187,"Opa, Eron",M,Koropangi,Subsistence Farmer,01 Jan 1985
+373,160249765,"Opa, Luke",M,Koropangi,Driver,18 Aug 1982
+374,160440544,"Palingi, Abel",M,Koropangi,Driver,07 Nov 1995
+375,160440540,"Palingi, Paul",M,Koropangi,Teacher,04 May 1980
+376,160440542,"Palingi, Samuel",M,Koropangi,Driver,10 Jul 1996
+377,160182667,"Panenda, Kelemambo",M,Koropangi,Subsistence Farmer,01 Jan 1967
+378,160237188,"Pange, Simon",M,Koropangi,Carpenter,01 Jan 1949
+379,160184393,"Pani, Rakenda",M,Koropangi,Subsistence Farmer,01 Jan 1936
+380,160182746,"Paru, Altoiye",M,Koropangi,Subsistence Farmer,01 Jan 1961
+381,160440520,"Patrick, Yarks",M,Koropangi,Student,13 Jun 2001
+382,160205059,"Pawenda, Mondo micheal",M,Koropangi,Security,01 Jan 1966
+383,160182829,"Pawenda, Paulus erox",M,Koropangi,Driver,01 Jan 1975
+384,160207697,"Peandi, Gini",M,Koropangi,Subsistence Farmer,01 Jan 1936
+385,160207518,"Peandi, Yamba",M,Koropangi,Subsistence Farmer,01 Jan 1937
+386,160183066,"Pendene, Napa",M,Koropangi,Subsistence Farmer,01 Jan 1938
+387,160207938,"Pendene, Pingirip",M,Koropangi,Subsistence Farmer,01 Jan 1941
+388,160136237,"Pere, James",M,Koropangi,Machinist,19 Mar 1970
+389,160133247,"Pere, Jason",M,Koropangi,Sales Women,05 Dec 1998
+390,160133257,"Pere, Oliver",M,Koropangi,Sales Women,22 Apr 1979
+391,160182576,"Pilge, Mathew",M,Koropangi,Student,01 Jan 1981
+392,160181103,"Pilipo, Ape",M,Koropangi,Student,01 Jan 1980
+393,160181055,"Pilipo, Don",M,Koropangi,Teacher,01 Jan 1956
+394,160177732,"Pilipo, Opis robert",M,Koropangi,Steward,01 Jan 1971
+395,160177572,"Pilipo, Steven",M,Koropangi,Student,01 Jan 1982
+396,160181101,"Pilipo, Thomas",M,Koropangi,Student,01 Jan 1984
+397,160181105,"Pilipo, Thompson",M,Koropangi,Student,01 Jan 1986
+398,160177573,"Pilipo, Tipora simon",M,Koropangi,Mechanic,01 Jan 1961
+399,160207678,"Pingirip, Mark",M,Koropangi,Subsistence Farmer,01 Jan 1984
+400,160207681,"Pingirip, Mathew",M,Koropangi,Subsistence Farmer,01 Jan 1987
+401,160181136,"Pinjele, Wanpis",M,Koropangi,Pastor,01 Jan 1957
+402,160237209,"Polombiye, Kawe",M,Koropangi,Driver,01 Jan 1965
+403,160237296,"Polombiye, Manu",M,Koropangi,Student,01 Jun 1993
+404,160237158,"Polombiye, Nakanol",M,Koropangi,Subsistence Farmer,01 Jan 1983
+405,160241902,"Polombiye, Tom",M,Koropangi,Subsistence Farmer,01 Jan 1980
+406,160180688,"Polopea, Ari",M,Koropangi,Subsistence Farmer,01 Jan 1937
+407,160184509,"Pombo, Tonny",M,Koropangi,Subsistence Farmer,01 Jan 1980
+408,160207287,"Pote, Jose",M,Koropangi,Subsistence Farmer,01 Jan 1984
+409,160207592,"Pote, Pembo",M,Koropangi,Subsistence Farmer,01 Jan 1973
+410,160440566,"Puke, Jacob",M,Koropangi,Student,03 Aug 2001
+411,160237173,"Pumbu, Gideon",M,Koropangi,Student,19 Feb 1994
+412,160237288,"Pumbu, Manuel",M,Koropangi,Student,02 Sep 1993
+413,160206410,"Punini, Yombi",M,Koropangi,Subsistence Farmer,01 Jan 1938
+414,160237176,"Pure, Mek",M,Koropangi   Health Extention Officer 01 Jan 1957,"189     160237430     Pure, Rex                    M        Koropangi   Salesman",01 Jan 1990
+415,160237433,"Pure, Rodney",M,Koropangi,Teacher,01 Jan 1983
+416,160237413,"Pure, Tumba",M,Koropangi,Manager,01 Jan 1960
+417,160133262,"Purre, Pilimbo",M,Koropangi,Machinist,27 Mar 1962
+418,160249713,"Puruno, Ezekel",M,Koropangi,Student,01 Jan 1988
+419,160250221,"Puruno, Gram",M,Koropangi,Student,01 Jan 1986
+420,160246364,"Puruno, Jimmy",M,Koropangi,Driver,01 Jan 1982
+421,160250452,"Puruno, Julus",M,Koropangi,Mechanic,01 Jan 1984
+422,160250608,"Puruno, Kalatoli",M,Koropangi,Subsistence Farmer,01 Jan 1942
+423,160250100,"Puruno, Keven",M,Koropangi,Accountant,01 Jan 1942
+424,160250615,"Puruno, Napa",M,Koropangi,Carpenter,01 Jan 1986
+425,160180715,"Rami, Iko mex",M,Koropangi,Subsistence Farmer,01 Jan 1971
+426,160440637,"Remo, Kane",M,Koropangi,Driver,17 May 1980
+427,160440642,"Remo, Kanebo",M,Koropangi,Subsistence Farmer,25 Jul 1965
+428,160249790,"Robert, Ekai",M,Koropangi,Subsistence Farmer,01 Jan 1969
+429,160249794,"Robert, Jackson",M,Koropangi,Student,01 Jan 1991
+430,160133248,"Sammy, Hosea",M,Koropangi,Sales Women,01 Oct 1998
+431,160440534,"Sammy, Kaya",M,Koropangi,Student,04 Feb 2003
+432,160184717,"Samyuel, Kenedy",M,Koropangi,Subsistence Farmer,01 Jan 1990
+433,160440513,"Simon, Jeremiah",M,Koropangi,Salesman,31 Jan 1988
+434,160177975,"Steven, Only",M,Koropangi,Student,01 Jan 1988
+435,160206660,"Taiye, Mini petrus",M,Koropangi,Subsistence Farmer,01 Jan 1949
+436,160237279,"Tapol, Diwii",M,Koropangi,Security,01 Jan 1968
+437,160440621,"Tapoli, Andy",M,Koropangi,Student,12 Nov 2000
+438,160237396,"Tapoli, Baris",M,Koropangi,Subsistence Farmer,01 Jan 1986
+439,160249195,"Tapoli, Elazah",M,Koropangi,Subsistence Farmer,01 Jan 1966
+440,160241869,"Tapoli, Joel",M,Koropangi,Subsistence Farmer,01 Jan 1985
+441,160440618,"Tapoli, Juniour",M,Koropangi,Student,11 Oct 2003
+442,160241893,"Tapoli, Lambi",M,Koropangi,Magistrate,01 Jan 1941
+443,160440616,"Tapoli, Robert",M,Koropangi,Student,26 Oct 2001
+444,25084816,"Tawa, Jayden",M,Koropangi,Student,05 Oct 2000
+445,160249732,"Tawa, Oke",M,Koropangi,Subsistence Farmer,01 Jan 1967
+446,160249777,"Tawa, Rocha",M,Koropangi,Subsistence Farmer,01 Jan 1994
+447,160249330,"Tawa, Ron",M,Koropangi,Mechanic,01 Jan 1985
+448,160249800,"Tawa, Samson",M,Koropangi,Warder,01 Jan 1952
+449,160249779,"Tawa, Wayne",M,Koropangi,Subsistence Farmer,01 Jan 1972
+450,160249604,"Temane, Brettli",M,Koropangi,Student,01 Jan 1983
+451,160249283,"Temane, Daiye",M,Koropangi,Subsistence Farmer,01 Jan 1949
+452,160249615,"Temane, Denial",M,Koropangi,Teacher,01 Jan 1981
+453,160249617,"Temane, Frincis",M,Koropangi,Mechanic,01 Jan 1987
+454,160249770,"Temane, James",M,Koropangi,Warder,01 Jan 1951
+455,160133110,"Temane, Nande",M,Koropangi,Sales Women,17 Nov 1969
+456,160249603,"Temane, Nathan",M,Koropangi,Manager,01 Jan 1957
+457,25084821,"Temane, Thomas",M,Koropangi,Subsistence Farmer,16 Sep 1979
+458,160249612,"Temane, Tikipi",M,Koropangi,Subsistence Farmer,01 Jan 1900
+459,160249614,"Temane, Wan",M,Koropangi,Subsistence Farmer,01 Jan 1987
+460,160249782,"Temane, Yako",M,Koropangi,Baker,01 Jan 1983
+461,160181128,"Teringi, James",M,Koropangi,Subsistence Farmer,01 Jan 1977
+462,160177556,"Teringi, Pembo",M,Koropangi,Subsistence Farmer,01 Jan 1979
+463,160181118,"Teringi, Simon",M,Koropangi,Student,01 Jan 1984
+464,160206596,"Terum, Monda jomote",M,Koropangi,Driver,01 Jan 1974
+465,160206599,"Terum, Norman",M,Koropangi,Teacher,01 Jan 1976
+466,25084823,"Thomas, Samuel",M,Koropangi,Student,28 Apr 2004
+467,160440522,"Thomas, Samuel",M,Koropangi,Student,19 Jun 2001
+468,160440578,"Thomas, Thomson",M,Koropangi,Pastor,21 Sep 1998
+469,160440634,"Timbi, Philip",M,Koropangi,Subsistence Farmer,09 May 1962
+470,160184513,"Toli, Matin",M,Koropangi,Subsistence Farmer,01 Jan 1980
+471,160175747,"Tomoiye, Nelson",M,Koropangi,Student,01 Jan 1986
+472,160178139,"Tomoiye, Nindipo",M,Koropangi,Subsistence Farmer,01 Jan 1980
+473,160178142,"Tomoiye, Pulkiye",M,Koropangi,Subsistence Farmer,01 Jan 1968
+474,160206406,"Topele, Elep oxsy",M,Koropangi,Student,01 Jan 1973
+475,160206407,"Topele, Korowi",M,Koropangi,Subsistence Farmer,01 Jan 1976
+476,160205031,"Topele, Pareka",M,Koropangi,Student,01 Jan 1980
+477,160207529,"Torigi, Kera",M,Koropangi,Subsistence Farmer,01 Jan 1976
+478,160209883,"Torigi, Tendako",M,Koropangi,Subsistence Farmer,01 Jan 1981
+479,160249606,"Unde, Paulson",M,Koropangi,Driver,01 Jan 1962
+480,160249608,"Unde, Siemon",M,Koropangi,Subsistence Farmer,01 Jan 1969
+481,160249774,"Unde, Tikipi",M,Koropangi,Subsistence Farmer,01 Jan 1900
+482,160207754,"Undi, Garu",M,Koropangi,Peace Officer,01 Jan 1954
+483,160177741,"Waka, Molo micheal",M,Koropangi,Subsistence Farmer,01 Jan 1966
+484,160173595,"Waka, Pena firman",M,Koropangi,Subsistence Farmer,01 Jan 1976
+485,160177978,"Waka, Piele",M,Koropangi,Subsistence Farmer,01 Jan 1962
+486,160177750,"Waka, Tumbura",M,Koropangi,Subsistence Farmer,01 Jan 1971
+487,160177745,"Waka, Wetoli",M,Koropangi,Subsistence Farmer,01 Jan 1984
+488,160181125,"Wambo, Jack",M,Koropangi,Subsistence Farmer,01 Jan 1980
+489,160180546,"Wambo, Stanley",M,Koropangi,Student,01 Jan 1986
+490,160183086,"Wapo, Lgope",M,Koropangi,Subsistence Farmer,01 Jan 1942
+491,160184816,"Wapo, Mambo",M,Koropangi,Subsistence Farmer,01 Jan 1933
+492,160184572,"Wareya, Lopeke",M,Koropangi,Subsistence Farmer,01 Jan 1939
+493,160184627,"Wareya, Pombo",M,Koropangi,Carpenter,01 Jan 1944
+494,160180704,"Wiye, Kale",M,Koropangi,Subsistence Farmer,01 Jan 1938
+495,160175752,"Wiye, Nale",M,Koropangi,Subsistence Farmer,01 Jan 1940
+496,160133271,"Yakili, Luther",M,Koropangi,Sales Women,12 Aug 1979
+497,160207574,"Yamba, Jacob",M,Koropangi,Subsistence Farmer,01 Jan 1960
+498,160207521,"Yamba, Jim",M,Koropangi,Teacher,01 Jan 1956
+499,160207753,"Yamba, Kanombo",M,Koropangi,Subsistence Farmer,01 Jan 1981
+500,160133259,"Yamo, Apurel",M,Koropangi,Not Specified,04 Dec 1978
+501,160440517,"Yamo, Simon",M,Koropangi,Driver,15 Aug 1988
+502,160136239,"Yawi, Rex",M,Koropangi,Sales Women,12 Apr 1971
+503,160205054,"Yombi, Norman",M,Koropangi,Baker,01 Jan 1974
+504,160133265,"Yunugo, Naweya",M,Koropangi,Painter,09 Mar 1961
+505,160136238,"Yupi, Winis",M,Koropangi,Teacher,16 Mar 1976

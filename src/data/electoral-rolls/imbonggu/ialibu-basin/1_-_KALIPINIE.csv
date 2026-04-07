@@ -1,0 +1,887 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,25081415,"Abraham, Jenny",F,Kalipinie,Household Duties,02 Mar 1997
+2,25081423,"Ainjo, Dyian",F,Kalipinie,Unemployed,02 Jan 1999
+3,160226696,"Ainjo, Maria",F,Kalipinie,Subsistence Farmer,02 May 1966
+4,160211259,"Aiye, Jenny",F,Kalipinie,Subsistence Farmer,01 Jan 1972
+5,160212448,"Aiye, Sera",F,Kalipinie,Subsistence Farmer,01 Jan 1980
+6,160215309,"Albert, Ester",F,Kalipinie,Subsistence Farmer,01 Jan 1959
+7,160442657,"Albert, Miriam",F,Kalipinie,Student,06 Jan 1999
+8,160442661,"Albert, Shera",F,Kalipinie,Household Duties,19 Feb 1999
+9,160442665,"Ale, Lucky",F,Kalipinie,Household Duties,28 Apr 1995
+10,160224561,"Alopa, Nale",F,Kalipinie,Subsistence Farmer,12 Jun 1952
+11,160442667,"Ameyo, Andiyema",F,Kalipinie,Subsistence Farmer,19 Jun 1996
+12,160442675,"Ameyo, Maria",F,Kalipinie,Subsistence Farmer,16 Nov 1998
+13,160223811,"Ameyo, Rita",F,Kalipinie,Subsistence Farmer,01 Jan 1989
+14,160215559,"Andela, Keyame",F,Kalipinie,Subsistence Farmer,16 May 1981
+15,160215558,"Andela, Kina",F,Kalipinie,Subsistence Farmer,01 Jan 1960
+16,160216335,"Andela, Tongo",F,Kalipinie,Subsistence Farmer,01 Jan 1955
+17,160126790,"Anjo, Miriam",F,Kalipinie,Student,01 Jan 1998
+18,25081426,"Ape, Roselyn",F,Kalipinie,Self Employed,10 Nov 1985
+19,160225332,"Arekele, Peyaino",F,Kalipinie,Subsistence Farmer,01 Jan 1967
+20,160127964,"Aris, Ruth",F,Kalipinie,Housegirl,03 Jun 1993
+21,160126780,"Bembo, Iuila",F,Kalipinie,Student,22 Feb 1998
+22,160215696,"Bembo, Jacklyn",F,Kalipinie,Subsistence Farmer,15 Jul 1986
+23,160216272,"Bembo, Joicelin",F,Kalipinie,Subsistence Farmer,22 Aug 1983
+24,160211151,"Bembo, Lyn",F,Kalipinie,Subsistence Farmer,04 Nov 1990
+25,160216270,"Bembo, Matilina",F,Kalipinie,Subsistence Farmer,01 Jan 1956
+26,160225378,"Borowa, Paitame",F,Kalipinie,Subsistence Farmer,01 Jan 1940
+27,160225253,"Borowa, Regina",F,Kalipinie,Subsistence Farmer,01 Jan 1976
+28,160221068,"Boti, Harney",F,Kalipinie,Housegirl,19 Apr 1988
+29,160221067,"Boti, Kumbeino",F,Kalipinie,Subsistence Farmer,13 Oct 1966
+30,160217636,"Boti, Maria",F,Kalipinie,Household Duties,07 Sep 1968
+31,160234881,"Boti, Taka",F,Kalipinie,Student,01 Jan 1994
+32,160127966,"Brain, Sandra",F,Kalipinie,Student,03 Feb 1998
+33,160442688,"Buka, Nency",F,Kalipinie,Subsistence Farmer,06 Jun 1999
+34,160215077,"Daiye, Kandiye",F,Kalipinie,Subsistence Farmer,01 Jan 1961
+35,160215343,"Daniel, Alice",F,Kalipinie,Subsistence Farmer,01 Jan 1983
+36,160222624,"Daniel, Helen",F,Kalipinie,Household Duties,12 Aug 1979
+37,160215173,"Daniel, Karo",F,Kalipinie,Subsistence Farmer,01 Jan 1980
+38,160215323,"Daniel, Mona",F,Kalipinie,Subsistence Farmer,01 Jan 1980
+39,160215322,"Daniel, Natina",F,Kalipinie,Subsistence Farmer,01 Jan 1990
+40,160442690,"Daniel, Sharon",F,Kalipinie,Student,19 May 2001
+41,160215594,"Daniel, Yando",F,Kalipinie,Subsistence Farmer,01 Jan 1956
+42,25081442,"David, Neomie",F,Kalipinie,Self Employed,05 Feb 1992
+43,160215305,"Deli, Susan",F,Kalipinie,Subsistence Farmer,01 Jan 1964
+44,160234731,"Dick, Jenny",F,Kalipinie,Household Duties,01 Jan 1963
+45,160137683,"Doa, Steiani",F,Kalipinie,Student,18 May 1997
+46,160222629,"Doa, Tiri",F,Kalipinie,Household Duties,19 Apr 1972
+47,160442692,"Dopo, Delphina",F,Kalipinie,Student,26 Mar 2001
+48,160221053,"Dopo, Lucy",F,Kalipinie,Subsistence Farmer,03 Feb 1976
+49,160442694,"Elia, Lestha",F,Kalipinie,Household Duties,03 Apr 2004
+50,160442696,"Eliza, Mel",F,Kalipinie,Subsistence Farmer,08 Mar 1998
+51,160234849,"Enna, Mary paul",F,Kalipinie,Household Duties,01 Jan 1967
+52,160223882,"Eria, Lisar",F,Kalipinie,Subsistence Farmer,01 Jan 1974
+53,160442698,"Eria, Seselina",F,Kalipinie,Household Duties,06 Mar 1998
+54,160442700,"Erick, Adora",F,Kalipinie,Student,06 Nov 2003
+55,160442702,"Erick, Angela",F,Kalipinie,Household Duties,26 Nov 1996
+56,160222618,"Garu, Holemb",F,Kalipinie,Subsistence Farmer,02 Oct 1954
+57,160222619,"Garu, Josephine",F,Kalipinie,Housegirl,15 Jul 1988
+58,160126957,"Garu, Juli",F,Kalipinie,Household Duties,06 Mar 1980
+59,160219085,"Garu, Rose",F,Kalipinie,Worker,03 Apr 1980
+60,160215262,"Gary, Finny",F,Kalipinie,Subsistence Farmer,27 Mar 1989
+61,160215302,"Gary, Mone",F,Kalipinie,Subsistence Farmer,01 Jan 1954
+62,160442706,"George, Faith",F,Kalipinie,Student,06 Jan 2004
+63,160229596,"George, Helen",F,Kalipinie,Household Duties,01 Jan 1974
+64,160224562,"Glankiye, Tokopambo",F,Kalipinie,Subsistence Farmer,17 Mar 1950
+65,160212464,"Glapi, Alice",F,Kalipinie,Student,03 Apr 1989
+66,160211066,"Glapi, Judy",F,Kalipinie,Student,05 Jun 1984
+67,160211067,"Glapi, Rose",F,Kalipinie,Student,05 Sep 1987
+68,160211065,"Glapi, Yalaino",F,Kalipinie,Subsistence Farmer,13 Dec 1960
+69,160215260,"Goraiye, Mombo",F,Kalipinie,Subsistence Farmer,01 Jan 1951
+70,160442710,"Greg, Magi",F,Kalipinie,Household Duties,29 Jun 1996
+71,160442713,"Greg, Mecklyn",F,Kalipinie,Student,06 May 2002
+72,25081454,"Gulu, Dorica",F,Kalipinie,Unemployed,14 Feb 2004
+73,160217639,"Hebram, Lucianna",F,Kalipinie,Household Duties,09 Apr 1979
+74,25081457,"Ian, Henny",F,Kalipinie,Self Employed,07 Feb 1991
+75,160442715,"Iki, Tresa",F,Kalipinie,Household Duties,28 Apr 2004
+76,25087142,"Ismael, Joice",F,Kalipinie,Unemployed,06 Jan 1997
+77,160442717,"Ismiel, Joyce",F,Kalipinie,Household Duties,11 Apr 1992
+78,160126947,"Issack, Lucy",F,Kalipinie,Housegirl,10 May 1987
+79,160219080,"Itepu, Elly",F,Kalipinie,Subsistence Farmer,04 May 1983
+80,160219081,"Itepu, Robin",F,Kalipinie,Housegirl,10 Sep 1988
+81,160215321,"Iyepu, Meggi",F,Kalipinie,Subsistence Farmer,01 Jan 1963
+82,160218689,"Jack, Avila",F,Kalipinie,Subsistence Farmer,30 Oct 1988
+83,160442719,"Jack, Bunty",F,Kalipinie,Household Duties,08 Sep 2001
+84,160442720,"Jack, Jacholia",F,Kalipinie,Household Duties,06 May 2001
+85,160224568,"Jack, Jacklyn",F,Kalipinie,Student,14 Oct 1988
+86,160224036,"Jack, Mary",F,Kalipinie,Household Duties,06 Jun 1971
+87,160217572,"Jacob, Betty",F,Kalipinie,Household Duties,03 Sep 1986
+88,160230418,"Jacob, Essy",F,Kalipinie,Household Duties,01 Jan 1965
+89,160216343,"James, Frida",F,Kalipinie,Student,09 Jul 1990
+90,160442722,"James, Jessica",F,Kalipinie,Household Duties,21 Mar 1997
+91,160223827,"James, Lucy",F,Kalipinie,Subsistence Farmer,01 Jan 1952
+92,160234885,"James, Pirinda",F,Kalipinie,Student,01 Jan 1986
+93,160223833,"James, Tinna",F,Kalipinie,Subsistence Farmer,01 Jan 1981
+94,25087146,"Jeroc, Lucy",F,Kalipinie,Self Employed,11 Jun 1998
+95,160127967,"Jerry, Rachael",F,Kalipinie,Housegirl,19 Feb 1996
+96,160222637,"John, Atee",F,Kalipinie,Subsistence Farmer,01 Jan 1989
+97,160235634,"John, Josepin",F,Kalipinie,Household Duties,01 Jan 1978
+98,160223818,"John, Kee",F,Kalipinie,Subsistence Farmer,01 Jan 1953
+99,160234850,"John, Mellen",F,Kalipinie,Household Duties,01 Jan 1981
+100,160126767,"John, Merolyn",F,Kalipinie,Household Duties,02 Jan 1997
+101,160223816,"John, Wendi",F,Kalipinie,Subsistence Farmer,01 Jan 1980
+102,160226719,"Juke, Jessica",F,Kalipinie,Subsistence Farmer,28 Oct 1990
+103,160226529,"Juke, Konge",F,Kalipinie,Subsistence Farmer,01 Jan 1963
+104,160442724,"Juke, Roselyn",F,Kalipinie,Student,07 Aug 2001
+105,160229483,"Juke, Stela",F,Kalipinie,Housegirl,01 Jan 1983
+106,160234884,"Julias, Merolin",F,Kalipinie,Student,01 Jan 1983
+107,160234852,"Julias, Sisilia",F,Kalipinie,Household Duties,01 Jan 1982
+108,160230391,"Julius, Cecilia",F,Kalipinie,Household Duties,01 Jan 2000
+109,160442726,"Junior, Jerina",F,Kalipinie,Student,06 Nov 1996
+110,160442729,"Junior, Jerina",F,Kalipinie,Student,19 Jul 2001
+111,160222630,"Junior, Judy",F,Kalipinie,Subsistence Farmer,01 Feb 1983
+112,160226692,"Kaltiye, Kelo",F,Kalipinie,Subsistence Farmer,12 Nov 1987
+113,160226867,"Kaltiye, Kurumaino",F,Kalipinie,Subsistence Farmer,01 Jan 1955
+114,160226320,"Kaltiye, Mary",F,Kalipinie,Subsistence Farmer,16 Sep 1978
+115,160442731,"Kaltiye, Melody",F,Kalipinie,Student,14 Feb 2001
+116,160226690,"Kaltiye, Sandy",F,Kalipinie,Subsistence Farmer,21 Oct 1985
+117,160223836,"Kaltiye, Stepeny",F,Kalipinie,Subsistence Farmer,25 Jul 1990
+118,160222616,"Kambululi, Ester",F,Kalipinie,Subsistence Farmer,20 Jan 1977
+119,160225237,"Kanoli, Morrin",F,Kalipinie,Subsistence Farmer,01 Jan 1970
+120,160226775,"Kanombo, Kondo",F,Kalipinie,Subsistence Farmer,01 Jan 1946
+121,160226301,"Karl, Ruth",F,Kalipinie,Subsistence Farmer,26 Jul 1988
+122,160215713,"Karu, Lewa",F,Kalipinie,Subsistence Farmer,26 May 1987
+123,25081509,"Kawa, Celly",F,Kalipinie,Student,01 Jul 2000
+124,25081513,"Kawa, Lorina",F,Kalipinie,Unemployed,01 May 2001
+125,160136640,"Kelly, Henifa",F,Kalipinie,Subsistence Farmer,11 Mar 1994
+126,160225348,"Kelly, Lani",F,Kalipinie,Subsistence Farmer,07 Sep 1971
+127,160225352,"Kelly, Phenny",F,Kalipinie,Student,09 Apr 1987
+128,160215584,"Kelo, Akeyaino",F,Kalipinie,Subsistence Farmer,01 Jan 1956
+129,160216263,"Kelo, Cathy",F,Kalipinie,Subsistence Farmer,01 Mar 1989
+130,160215586,"Kelo, Monica",F,Kalipinie,Subsistence Farmer,09 Oct 1985
+131,160223829,"Kelo, Peter",F,Kalipinie,Subsistence Farmer,01 Jan 1979
+132,160442735,"Kelolo, Aita",F,Kalipinie,Student,28 Apr 2004
+133,160442738,"Kelolo, Christy",F,Kalipinie,Household Duties,29 Nov 1996
+134,160223889,"Kelolo, Dolly",F,Kalipinie,Subsistence Farmer,14 Jul 1990
+135,160222608,"Kelolo, Sipsey",F,Kalipinie,Subsistence Farmer,01 Jan 1945
+136,160209843,"Kemapu, Maria",F,Kalipinie,Housegirl,12 Oct 1989
+137,160442742,"Kende, Ferman",F,Kalipinie,Subsistence Farmer,21 Feb 1997
+138,160442744,"Kenny, Everlyn",F,Kalipinie,Subsistence Farmer,20 Nov 2000
+139,160223873,"Kepsey, Jenny",F,Kalipinie,Not Specified,01 Jan 1972
+140,160213855,"Kepsey, Mondi",F,Kalipinie,Subsistence Farmer,01 Jan 1970
+141,160442751,"Keredaiye, Maria",F,Kalipinie,Household Duties,14 Jun 1996
+142,160211062,"Kerendaiye, Mangono",F,Kalipinie,Subsistence Farmer,01 Jan 1951
+143,160136469,"Kesco, Jenifer",F,Kalipinie,Household Duties,19 May 1997
+144,160126948,"Kevin, Delna",F,Kalipinie,Housegirl,06 Aug 1996
+145,160442753,"Kewa, Cathy",F,Kalipinie,Household Duties,13 Jan 1999
+146,160226294,"Kewa, Jenifer",F,Kalipinie,Student,15 Feb 1990
+147,160127965,"Kiap, Magaret",F,Kalipinie,Housegirl,02 Nov 1972
+148,25081532,"Koke, Natally",F,Kalipinie,Student,01 Jul 2000
+149,160203660,"Koltopu, Nepuli",F,Kalipinie,Subsistence Farmer,17 May 1970
+150,160225347,"Koltopu, Roslyn",F,Kalipinie,Housegirl,13 Oct 1989
+151,160442755,"Konombo, Kosy",F,Kalipinie,Household Duties,18 Jan 1997
+152,25081542,"Konopu, Serah",F,Kalipinie,Self Employed,28 Apr 2004
+153,160442757,"Konopu, Seridan",F,Kalipinie,Student,06 May 2001
+154,160442759,"Konopu, Shera",F,Kalipinie,Household Duties,25 Mar 1996
+155,160223964,"Kopolo, Anny",F,Kalipinie,Subsistence Farmer,01 Jan 1971
+156,160223963,"Kopolo, Mombo",F,Kalipinie,Subsistence Farmer,01 Jan 1954
+157,160442761,"Koyapo, Cathy",F,Kalipinie,Household Duties,11 Nov 1996
+158,160220613,"Ku, Ambuwape",F,Kalipinie,Subsistence Farmer,09 Jul 1956
+159,160220435,"Ku, Kini",F,Kalipinie,Subsistence Farmer,11 Oct 1977
+160,160225334,"Kule, Maria",F,Kalipinie,Not Specified,25 Jan 1989
+161,25081548,"Kuleko, Ellcy",F,Kalipinie,Unemployed,01 Jul 1979
+162,160226874,"Kumbule, Kola",F,Kalipinie,Subsistence Farmer,09 May 1971
+163,160216367,"Kumbule, Nembo",F,Kalipinie,Subsistence Farmer,01 Jan 1983
+164,160216266,"Kumbule, Toringi",F,Kalipinie,Subsistence Farmer,24 Jun 1980
+165,160126770,"Kumi, Marowa",F,Kalipinie,Subsistence Farmer,03 Feb 1976
+166,160126768,"Kupai, Jenny",F,Kalipinie,Household Duties,02 Mar 1989
+167,160126946,"Lapi, Anna",F,Kalipinie,Housegirl,10 Nov 1992
+168,160136468,"Lelo, Jane",F,Kalipinie,Housegirl,28 Apr 1996
+169,25081554,"Len, Delna",F,Kalipinie,Student,01 Feb 2001
+170,160126771,"Lepi, Kwini",F,Kalipinie,Student,03 Feb 1997
+171,160226713,"Lepi lepi, Kololi",F,Kalipinie,Subsistence Farmer,01 Jan 1960
+172,160226715,"Lepi lepi, Magaret",F,Kalipinie,Subsistence Farmer,04 Jan 1988
+173,160226710,"Lepi lepi, Rosa",F,Kalipinie,Subsistence Farmer,05 Mar 1990
+174,160126772,"Lepilepi, Sambeth",F,Kalipinie,Student,01 Mar 1998
+175,160215310,"Limu, Polina",F,Kalipinie,Subsistence Farmer,13 Feb 1984
+176,160215628,"Limu, Tiye",F,Kalipinie,Subsistence Farmer,13 Oct 1977
+177,160222628,"Liwa, Beverly",F,Kalipinie,Student,17 Apr 1989
+178,160221070,"Liwa, Kundiembo",F,Kalipinie,Subsistence Farmer,04 Jun 1969
+179,160220590,"Liwa, Lilly",F,Kalipinie,Housegirl,01 Jan 2000
+180,160126939,"Liwa, Lioni",F,Kalipinie,Student,05 Mar 1998
+181,160216495,"Liwa, Rehap",F,Kalipinie,Student,06 Oct 1990
+182,160235633,"Liwa, Reyapu",F,Kalipinie,Student,01 Jan 1985
+183,160222621,"Liwa, Tancy",F,Kalipinie,Housegirl,15 Jul 1990
+184,160229597,"Lombil, Lenita",F,Kalipinie,Household Duties,01 Jan 1972
+185,25081559,"Lopeke, Anita",F,Kalipinie,Student,28 Apr 2004
+186,160220905,"Lopeke, Ester",F,Kalipinie,Household Duties,25 Sep 1987
+187,160215290,"Lorema, Karapos",F,Kalipinie,Subsistence Farmer,01 Jan 1961
+188,160126954,"Luther, Maria",F,Kalipinie,Household Duties,11 Feb 1979
+189,160226873,"Mainege, Wangolo ambo",F,Kalipinie,Subsistence Farmer,01 Jan 1900
+190,160220439,"Makinje, Amba",F,Kalipinie,Subsistence Farmer,12 Oct 1982
+191,160219087,"Makinje, Pepo",F,Kalipinie,Subsistence Farmer,30 Jul 1968
+192,160219093,"Makinje, Pure",F,Kalipinie,Subsistence Farmer,04 Jun 1987
+193,160220601,"Mambo, Lofaryn",F,Kalipinie,Student,26 Aug 1989
+194,160220581,"Mambo, Lorina",F,Kalipinie,Student,30 Oct 1987
+195,160219094,"Mambo, Mare",F,Kalipinie,Subsistence Farmer,10 Sep 1984
+196,160212990,"Mambo, Panjipo",F,Kalipinie,Subsistence Farmer,24 Oct 1984
+197,160220580,"Mambo, Pukiri",F,Kalipinie,Household Duties,13 Jul 1961
+198,160216283,"Manda, Andiyame",F,Kalipinie,Subsistence Farmer,01 Jan 1952
+199,160126960,"Manda, Sandra",F,Kalipinie,Household Duties,02 Jan 1995
+200,160442771,"Mandowa, Freda",F,Kalipinie,Household Duties,23 May 1992
+201,25081569,"Manu, Mery",F,Kalipinie,Household Duties,13 Feb 2001
+202,160225252,"Mark, Anita",F,Kalipinie,Subsistence Farmer,01 Jan 1974
+203,160126949,"Mark, Betty",F,Kalipinie,Housegirl,10 Apr 1989
+204,25081574,"Mark, Jennifer",F,Kalipinie,Nurse,28 Apr 2004
+205,160229480,"Mark, Precilla",F,Kalipinie,Household Duties,01 Jan 1983
+206,160230416,"Mark, Russel",F,Kalipinie,Household Duties,01 Jan 1983
+207,160225271,"Mark, Ruth",F,Kalipinie,Household Duties,30 Jan 1988
+208,160442774,"Mark, Sally",F,Kalipinie,Student,29 Apr 1992
+209,25081579,"Mark, Sema",F,Kalipinie,Student,01 Jul 2002
+210,160442776,"Markson, Jama",F,Kalipinie,Household Duties,12 Feb 2004
+211,160442778,"Markson, Lian",F,Kalipinie,Student,23 Apr 2004
+212,160226684,"Marowa, Agnes",F,Kalipinie,Subsistence Farmer,01 Jan 1966
+213,160220584,"Marowa, Anna",F,Kalipinie,Student,15 Dec 1990
+214,160220906,"Marowa, Margaret",F,Kalipinie,Household Duties,14 Feb 1975
+215,160220907,"Mathias, Anita",F,Kalipinie,Subsistence Farmer,17 Jun 1983
+216,160215561,"Membo, Anny",F,Kalipinie,Subsistence Farmer,01 Jan 1972
+217,160442780,"Membo, Grace",F,Kalipinie,Student,13 Nov 2003
+218,160226877,"Mendel, Lyneth",F,Kalipinie,Subsistence Farmer,23 Jun 1987
+219,160226708,"Mendel, Regina",F,Kalipinie,Subsistence Farmer,12 Mar 1990
+220,25081582,"Mendeli, Rebecca",F,Kalipinie,Self Employed,01 May 1990
+221,160127974,"Michael, Everlyn",F,Kalipinie,Housegirl,16 May 1997
+222,160215609,"Mikmik, Mondi",F,Kalipinie,Subsistence Farmer,01 Jul 1983
+223,160215698,"Mikmik, Mukindi",F,Kalipinie,Subsistence Farmer,01 Jan 1948
+224,160442784,"Mini, Lopisi",F,Kalipinie,Household Duties,03 Nov 1996
+225,160216280,"Monda, Paratili",F,Kalipinie,Subsistence Farmer,04 Jun 1971
+226,25081590,"Moses, Lavina",F,Kalipinie,Unemployed,11 Mar 1997
+227,160219084,"Nakanoli, Tolly",F,Kalipinie,Subsistence Farmer,07 Aug 1990
+228,160216622,"Namba, Queen",F,Kalipinie,Subsistence Farmer,01 Jan 1965
+229,160126776,"Namba, Welyn",F,Kalipinie,Student,14 Feb 1998
+230,160216276,"Namba, Wendi",F,Kalipinie,Subsistence Farmer,10 Apr 1988
+231,160213275,"Namba, Wenely",F,Kalipinie,Subsistence Farmer,01 May 1990
+232,160221073,"Nandiye, Matha",F,Kalipinie,Household Duties,16 Feb 1974
+233,25081593,"Nandiye, Regila",F,Kalipinie,Student,16 Feb 2000
+234,160221074,"Nandiye, Regina",F,Kalipinie,Student,29 Apr 1988
+235,160216338,"Natili, Moleino",F,Kalipinie,Not Specified,01 Jan 1950
+236,160218690,"Nick, Margie",F,Kalipinie,Subsistence Farmer,10 Sep 1972
+237,160225360,"Nicklos, Lindia",F,Kalipinie,Subsistence Farmer,15 Jul 1984
+238,25081597,"Nickos, Jaimaima",F,Kalipinie,Student,28 Apr 2004
+239,160226312,"Nindipo, Janet",F,Kalipinie,Subsistence Farmer,21 Dec 1990
+240,160226304,"Nindipo, Jenny",F,Kalipinie,Subsistence Farmer,01 Jan 1961
+241,160226309,"Nindipo, Joina",F,Kalipinie,Subsistence Farmer,13 Feb 1982
+242,160225368,"Nindipo, Judy",F,Kalipinie,Student,27 Apr 1986
+243,160225366,"Nindipo, Toimbo",F,Kalipinie,Subsistence Farmer,01 Jan 1961
+244,160216354,"Nindiye, Kolandi",F,Kalipinie,Subsistence Farmer,06 Nov 1980
+245,160217645,"Nindiye, Wando",F,Kalipinie,Subsistence Farmer,01 Jan 1951
+246,160126783,"Noha, Helisa",F,Kalipinie,Student,25 Aug 1996
+247,160215330,"Noha, Yarambo",F,Kalipinie,Subsistence Farmer,01 Jan 1965
+248,160213842,"Nombea, Malipeme",F,Kalipinie,Subsistence Farmer,01 Jan 1966
+249,160213843,"Nombea, Ropini",F,Kalipinie,Subsistence Farmer,01 Jan 1980
+250,160215328,"Nombeya, Lembo",F,Kalipinie,Subsistence Farmer,01 Jan 1980
+251,160215316,"Nombeya, Liya",F,Kalipinie,Subsistence Farmer,26 May 1971
+252,160215168,"Nombeya, Mepili",F,Kalipinie,Subsistence Farmer,01 Jan 1969
+253,160442799,"Nonda, Meaya",F,Kalipinie,Subsistence Farmer,09 Aug 1972
+254,160442801,"Nonda, Menesia",F,Kalipinie,Student,11 Sep 2003
+255,160226677,"Nopu, Dolly",F,Kalipinie,Subsistence Farmer,01 Jan 1990
+256,160226670,"Nopu, Kirame",F,Kalipinie,Subsistence Farmer,01 Jan 1955
+257,160226866,"Nopu, Kurumano",F,Kalipinie,Subsistence Farmer,01 Jan 1950
+258,160223875,"Nopu, Lucy",F,Kalipinie,Subsistence Farmer,06 Aug 1989
+259,160136474,"Nopu, Lucy",F,Kalipinie,Student,09 Aug 1997
+260,160226671,"Nopu, Miriam",F,Kalipinie,Subsistence Farmer,01 Jan 1986
+261,160226678,"Nopu, Mombo",F,Kalipinie,Subsistence Farmer,01 Jan 1949
+262,160136471,"Nopu, Yupu",F,Kalipinie,Student,15 Mar 1998
+263,160223835,"Nopu, Yupu",F,Kalipinie,Subsistence Farmer,14 May 1990
+264,160218661,"Norma, Landu",F,Kalipinie,Subsistence Farmer,16 Aug 1949
+265,160442808,"Norman, Rachel",F,Kalipinie,Household Duties,10 Nov 1998
+266,25081603,"Obert, Georgina",F,Kalipinie,Unemployed,05 Jul 1989
+267,160442810,"Oko, Halodi",F,Kalipinie,Student,20 Aug 1999
+268,160215599,"Oko, Kondokololi",F,Kalipinie,Subsistence Farmer,01 Jan 1950
+269,160215703,"Oko, Tana",F,Kalipinie,Subsistence Farmer,19 May 1972
+270,160226316,"Ongonda, Pala",F,Kalipinie,Subsistence Farmer,01 Jan 1971
+271,160226303,"Ongonda, Saina",F,Kalipinie,Subsistence Farmer,13 Dec 1986
+272,160226307,"Ongonda, Weya",F,Kalipinie,Subsistence Farmer,31 Oct 1982
+273,160226315,"Ongonda, Yando",F,Kalipinie,Subsistence Farmer,01 Jan 1953
+274,160126766,"Ono, Hana",F,Kalipinie,Subsistence Farmer,10 Mar 1986
+275,160126785,"Opeme, Delma",F,Kalipinie,Student,23 Dec 1996
+276,160126786,"Opeme, Welme",F,Kalipinie,Student,29 Mar 1997
+277,160215555,"Opome, Pukiri",F,Kalipinie,Subsistence Farmer,01 Jan 1969
+278,160215291,"Oru, Kurume",F,Kalipinie,Subsistence Farmer,01 Jan 1961
+279,160211406,"Oru, Palakome",F,Kalipinie,Subsistence Farmer,01 Jan 1966
+280,160225346,"Paiyolo, Kolandi",F,Kalipinie,Subsistence Farmer,02 Sep 1976
+281,160226706,"Paiyolo, Nopu",F,Kalipinie,Subsistence Farmer,01 Jan 1941
+282,160226536,"Pakiril, Jacklyn",F,Kalipinie,Subsistence Farmer,17 May 1981
+283,160225369,"Palite, Roselyn",F,Kalipinie,Subsistence Farmer,01 Jan 1954
+284,25081623,"Pandeya, Amenda",F,Kalipinie,Student,28 Apr 2004
+285,25081627,"Pandeya, Loverin",F,Kalipinie,Unemployed,01 Jul 2001
+286,160215631,"Pateli, Monica",F,Kalipinie,Subsistence Farmer,01 Jan 1961
+287,160442814,"Paul, Angela",F,Kalipinie,Student,23 Apr 1996
+288,160234835,"Paul, Betsiba",F,Kalipinie,Household Duties,01 Jan 1982
+289,160216494,"Paul, Delvie",F,Kalipinie,Student,05 Feb 1989
+290,160217643,"Paul, Jasinta",F,Kalipinie,Student,01 Oct 1990
+291,160219105,"Paul, Josina",F,Kalipinie,Student,03 Oct 1988
+292,160219106,"Paul, Kalina",F,Kalipinie,Student,06 Apr 1990
+293,160235791,"Paul, Lin",F,Kalipinie,Household Duties,01 Jan 1983
+294,160127973,"Paul, Niomi",F,Kalipinie,Student,12 Sep 1997
+295,160234874,"Paul, Silonny",F,Kalipinie,Housegirl,01 Jan 1982
+296,160219104,"Paul, Undembo",F,Kalipinie,Subsistence Farmer,17 Mar 1969
+297,160216600,"Pawa, Kake",F,Kalipinie,Subsistence Farmer,01 Jan 1958
+298,160226673,"Payelo, Taru",F,Kalipinie,Subsistence Farmer,01 Jan 1936
+299,160221064,"Pea, Anjo",F,Kalipinie,Subsistence Farmer,09 Apr 1953
+300,160218688,"Pea, Tenis",F,Kalipinie,Subsistence Farmer,31 Jan 1977
+301,160235638,"Peiman, Mageret",F,Kalipinie,Household Duties,01 Jan 1983
+302,160126792,"Peku, Julli",F,Kalipinie,Household Duties,04 Jun 1986
+303,160229718,"Peku, Pucy",F,Kalipinie,Household Duties,01 Jan 1982
+304,160229568,"Pelge, Lin",F,Kalipinie,Household Duties,01 Jan 1976
+305,160215710,"Pembo, Aiyembo",F,Kalipinie,Subsistence Farmer,06 Sep 1990
+306,160216278,"Pembo, Kaka",F,Kalipinie,Subsistence Farmer,01 Jan 1962
+307,160126791,"Pepena, Betty",F,Kalipinie,Household Duties,02 Feb 1989
+308,160219089,"Pepo, Rosa",F,Kalipinie,Housegirl,03 Oct 1990
+309,25081634,"Pera, Jenny",F,Kalipinie,Student,02 Nov 2001
+310,25081639,"Perial, Maria",F,Kalipinie,Student,16 Apr 2004
+311,25081651,"Peter, Joshina",F,Kalipinie,Student,13 Jun 2002
+312,25081662,"Peter, Zinnah",F,Kalipinie,Student,02 Apr 2000
+313,25081668,"Petrus, Maria",F,Kalipinie,Student,11 Feb 2002
+314,160442816,"Pewi, Jenny",F,Kalipinie,Household Duties,06 May 1996
+315,160216365,"Peyandi, Ester",F,Kalipinie,Subsistence Farmer,01 Jan 1967
+316,160225248,"Philemon, Miriam",F,Kalipinie,Subsistence Farmer,01 Jan 1976
+317,160223809,"Philip, Klara",F,Kalipinie,Subsistence Farmer,01 Jan 1962
+318,25081675,"Philip, Sendra",F,Kalipinie,Unemployed,01 Jul 1979
+319,160224564,"Philip, Susan",F,Kalipinie,Household Duties,13 Sep 1972
+320,160137682,"Pil, Lyn",F,Kalipinie,Housegirl,18 Jul 1990
+321,160235632,"Pilge, Lusy",F,Kalipinie,Student,01 Jan 1985
+322,160216342,"Pilge, Lyn",F,Kalipinie,Student,02 Jan 1990
+323,160234745,"Pilimbo poya, Mageret",F,Kalipinie,Household Duties,01 Jan 1979
+324,160442819,"Pillimbo, Precilla",F,Kalipinie,Household Duties,06 Nov 1996
+325,160222642,"Pindipiye, Becky",F,Kalipinie,Subsistence Farmer,05 Jul 1986
+326,160219099,"Pindipiye, Delvie",F,Kalipinie,Student,19 Jan 1986
+327,160216349,"Pindipiye, Jovina",F,Kalipinie,Student,13 Dec 1990
+328,160219107,"Pindipiye, Kanonoino",F,Kalipinie,Subsistence Farmer,03 Sep 1966
+329,160220914,"Pindipiye, Lalla",F,Kalipinie,Housegirl,16 Mar 1990
+330,160220913,"Pindipiye, Lilly",F,Kalipinie,Housegirl,16 Mar 1990
+331,160221059,"Pindipiye, Pola",F,Kalipinie,Housegirl,19 May 1988
+332,160221060,"Pinje, Mikimiki",F,Kalipinie,Subsistence Farmer,05 Jun 1965
+333,160217641,"Pinje, Watepo",F,Kalipinie,Subsistence Farmer,09 Feb 1979
+334,160215709,"Pora, Wete",F,Kalipinie,Subsistence Farmer,01 Jan 1965
+335,160226869,"Poya, Huksy",F,Kalipinie,Subsistence Farmer,01 Jan 1969
+336,160211407,"Poya, Kumbiyambo",F,Kalipinie,Subsistence Farmer,01 Jan 1970
+337,160211401,"Poya, Lawa",F,Kalipinie,Subsistence Farmer,03 Apr 1951
+338,160213852,"Poya, Lepame",F,Kalipinie,Subsistence Farmer,22 Mar 1980
+339,160211408,"Poya, Mayambo",F,Kalipinie,Subsistence Farmer,01 Jan 1977
+340,160213800,"Poya, Tindi",F,Kalipinie,Subsistence Farmer,01 Jan 1969
+341,160226864,"Poya, Wenis",F,Kalipinie,Subsistence Farmer,08 Apr 1984
+342,160226681,"Poya, Yalambo",F,Kalipinie,Subsistence Farmer,01 Jan 1937
+343,160213854,"Puiye, Anny",F,Kalipinie,Subsistence Farmer,01 Jan 1976
+344,160226675,"Puiye, Joyce",F,Kalipinie,Subsistence Farmer,12 Sep 1983
+345,160213863,"Puiye, Marame",F,Kalipinie,Subsistence Farmer,01 Jan 1973
+346,160226674,"Puiye, Maria",F,Kalipinie,Subsistence Farmer,01 Jan 1950
+347,160442823,"Puiye, Mercy",F,Kalipinie,Student,18 Jul 2001
+348,160213709,"Puiye, Nowame",F,Kalipinie,Subsistence Farmer,01 Jan 1979
+349,160226528,"Puiye, Wari",F,Kalipinie,Subsistence Farmer,01 Jan 1988
+350,160215299,"Pundiki, Bote",F,Kalipinie,Subsistence Farmer,09 Jul 1972
+351,160215625,"Pundiki, Helen",F,Kalipinie,Subsistence Farmer,09 Jul 1979
+352,160222641,"Pundiki, Nandame",F,Kalipinie,Subsistence Farmer,17 May 1968
+353,160221056,"Pundiki, Penga",F,Kalipinie,Subsistence Farmer,19 Nov 1988
+354,160219095,"Pundiki, Rapsa",F,Kalipinie,Subsistence Farmer,12 Oct 1976
+355,160442824,"Pundiki, Selina",F,Kalipinie,Student,16 May 2001
+356,160213833,"Rami, Lucy",F,Kalipinie,Subsistence Farmer,04 Jun 1975
+357,160213839,"Rami, Mane",F,Kalipinie,Subsistence Farmer,01 Jan 1959
+358,160213841,"Rami, Maria",F,Kalipinie,Subsistence Farmer,01 Jan 1970
+359,160215325,"Rami, Noino",F,Kalipinie,Subsistence Farmer,01 Jan 1969
+360,160213834,"Rami, Paci",F,Kalipinie,Not Specified,16 May 1980
+361,160213835,"Rami, Rebecca",F,Kalipinie,Not Specified,11 Dec 1988
+362,160219096,"Rex, Paratil",F,Kalipinie,Subsistence Farmer,16 Dec 1971
+363,160442827,"Robert, Jenny",F,Kalipinie,Student,26 May 1998
+364,160126945,"Robin, Roselyn",F,Kalipinie,Housegirl,25 Oct 1994
+365,25087156,"Rodney, Linna",F,Kalipinie,Unemployed,17 May 1989
+366,25081683,"Rodney, Roncy",F,Kalipinie,Student,01 Jul 2000
+367,160213799,"Rui, Mary",F,Kalipinie,Subsistence Farmer,01 Jan 1974
+368,160213851,"Rui, Piena",F,Kalipinie,Subsistence Farmer,24 Sep 1989
+369,160213844,"Saki, Veronica",F,Kalipinie,Subsistence Farmer,01 Jan 1983
+370,160235790,"Samson, Ansela",F,Kalipinie,Household Duties,01 Jan 1982
+371,160220920,"Scott, Jennifer",F,Kalipinie,Household Duties,16 Mar 1983
+372,160218691,"Scott, Sharon",F,Kalipinie,Household Duties,06 Apr 1988
+373,160215707,"Simon, Henry",F,Kalipinie,Not Specified,01 Jan 1981
+374,160216284,"Simon, Ruth",F,Kalipinie,Subsistence Farmer,01 Jan 1954
+375,160126958,"So, Doris",F,Kalipinie,Household Duties,01 Jan 1996
+376,160235630,"Soti, Depenny",F,Kalipinie,Household Duties,01 Jan 1984
+377,160234838,"Soti, Mark",F,Kalipinie,Housegirl,01 Jan 1984
+378,160234870,"Stephen, Regina",F,Kalipinie,Household Duties,01 Jan 1984
+379,160225268,"Steven, Eki",F,Kalipinie,Subsistence Farmer,09 May 1983
+380,160126955,"Taiye, Morin",F,Kalipinie,Household Duties,05 Feb 1996
+381,160225357,"Talopa, Alice",F,Kalipinie,Subsistence Farmer,06 Oct 1984
+382,160226700,"Talopa, Kurume",F,Kalipinie,Subsistence Farmer,01 Jan 1961
+383,160226546,"Talopa, Maria",F,Kalipinie,Subsistence Farmer,25 Aug 1987
+384,160226545,"Talopa, Paiye",F,Kalipinie,Subsistence Farmer,01 Jan 1980
+385,160215581,"Tamba, Sharon",F,Kalipinie,Subsistence Farmer,10 Jul 1985
+386,25081701,"Tamba, Sharoney",F,Kalipinie,Student,28 Apr 2004
+387,160215722,"Tamba, Tanda",F,Kalipinie,Subsistence Farmer,01 Jan 1958
+388,160220904,"Tame, Jenny",F,Kalipinie,Subsistence Farmer,15 Feb 1990
+389,160216619,"Tame, Naname",F,Kalipinie,Subsistence Farmer,01 Jan 1961
+390,160225242,"Tapuno, Palite",F,Kalipinie,Subsistence Farmer,01 Jan 1951
+391,160215716,"Temane, Joina",F,Kalipinie,Subsistence Farmer,13 Oct 1985
+392,160216267,"Temane, Linna",F,Kalipinie,Not Specified,17 Mar 1982
+393,160216259,"Temane, Pilge",F,Kalipinie,Subsistence Farmer,01 Jan 1954
+394,160126956,"Tendekai, Betty",F,Kalipinie,Household Duties,01 Mar 1990
+395,160442840,"Tenis, Lucy",F,Kalipinie,Household Duties,16 May 1993
+396,160225234,"Tenis, Stella",F,Kalipinie,Subsistence Farmer,01 Jan 1979
+397,160126950,"Teringi, Cathy",F,Kalipinie,Houseboy,03 Apr 1995
+398,25081707,"Thomson, Cristina",F,Kalipinie,Student,01 Jul 2001
+399,160216260,"Tikele, Lepoka",F,Kalipinie,Subsistence Farmer,01 Jan 1971
+400,160230389,"Timbo, Kumbele",F,Kalipinie,Household Duties,01 Jan 1988
+401,160442844,"Tiri, Kewa",F,Kalipinie,Subsistence Farmer,09 Sep 1998
+402,160223880,"Tirimo, Waki",F,Kalipinie,Subsistence Farmer,01 Jan 1969
+403,160220587,"Tom, Temo",F,Kalipinie,Household Duties,16 Sep 1974
+404,25081721,"Tommy, Emolyn",F,Kalipinie,Unemployed,20 Jan 1999
+405,160127968,"Tomson, Anita",F,Kalipinie,Housegirl,11 Nov 1992
+406,160223832,"Tonny, Jenny",F,Kalipinie,Subsistence Farmer,01 Jan 1987
+407,160220910,"Tony, Julie",F,Kalipinie,Household Duties,03 Feb 1978
+408,160215627,"Tony, Merolyn",F,Kalipinie,Cashier,09 Jul 1984
+409,160442846,"Tope, Asia",F,Kalipinie,Household Duties,09 Apr 1985
+410,160216332,"Tope, Malina",F,Kalipinie,Subsistence Farmer,07 Apr 1990
+411,160223830,"Tope, Melendi",F,Kalipinie,Subsistence Farmer,21 Jun 1990
+412,160216614,"Tope, Pipa",F,Kalipinie,Subsistence Farmer,01 Jan 1953
+413,160126781,"Tope, Viela",F,Kalipinie,Student,03 Jan 1998
+414,160207077,"Topora, Kainimbambo",F,Kalipinie,Subsistence Farmer,13 Dec 1948
+415,160211403,"Topora, Kami",F,Kalipinie,Subsistence Farmer,12 Mar 1968
+416,160442848,"Toringi, Lewa",F,Kalipinie,Household Duties,23 Mar 2004
+417,160225356,"Tuku, Ainjo",F,Kalipinie,Subsistence Farmer,03 Oct 1950
+418,160225380,"Tuku, Ambili",F,Kalipinie,Subsistence Farmer,01 Feb 1958
+419,160216123,"Tuku, Kurambo",F,Kalipinie,Subsistence Farmer,07 Jul 1985
+420,160225363,"Tuku, Marlyn",F,Kalipinie,Student,09 Aug 1987
+421,160217573,"Tuku, Mondi",F,Kalipinie,Subsistence Farmer,06 Aug 1980
+422,160224715,"Tuku, Tomambo",F,Kalipinie,Subsistence Farmer,03 Jun 1972
+423,160220589,"Turi, Atenga",F,Kalipinie,Subsistence Farmer,27 Mar 1968
+424,25081739,"Turi, Jerothy",F,Kalipinie,Student,01 Feb 2004
+425,160220603,"Turi, Lenda",F,Kalipinie,Student,06 Apr 1990
+426,160126942,"Turi, Lina",F,Kalipinie,Student,15 Feb 1994
+427,25081746,"Turi, Ropy",F,Kalipinie,Student,01 Feb 2004
+428,160225339,"Undi, Kuli",F,Kalipinie,Subsistence Farmer,01 Jan 1949
+429,160225361,"Undi, Laki",F,Kalipinie,Not Specified,26 Mar 1982
+430,160225342,"Undi, Weki",F,Kalipinie,Subsistence Farmer,19 Aug 1985
+431,160221066,"Unex, Janet",F,Kalipinie,Housegirl,12 Jan 1990
+432,160221065,"Unex, Maria",F,Kalipinie,Subsistence Farmer,12 Mar 1977
+433,160226778,"Unugo, Alice",F,Kalipinie,Store Keeper,01 Jan 1968
+434,160226288,"Unugo, Magy",F,Kalipinie,Worker,01 Jan 1960
+435,160442852,"Uriye, Jessica",F,Kalipinie,Public Servant,17 Sep 1996
+436,160215720,"Uriye, Kurambo",F,Kalipinie,Subsistence Farmer,01 Jan 1955
+437,160442854,"Uriye, Rachael",F,Kalipinie,Subsistence Farmer,08 Nov 1997
+438,160442856,"Uriye, Roselyn",F,Kalipinie,Household Duties,11 Dec 1995
+439,160126769,"Uwa, Betty",F,Kalipinie,Household Duties,01 Jun 1980
+440,160224582,"Wali, Joinah",F,Kalipinie,Student,05 Feb 1988
+441,160224038,"Wali, Kerolyn",F,Kalipinie,Subsistence Farmer,20 Jul 1974
+442,160226871,"Wambea, Nambolowa",F,Kalipinie,Subsistence Farmer,01 Jan 1951
+443,160226682,"Wambea, Puino",F,Kalipinie,Subsistence Farmer,20 Sep 1985
+444,160442861,"Wambia, Kupene",F,Kalipinie,Household Duties,06 Mar 1986
+445,160222639,"Wambiye, Anny",F,Kalipinie,Subsistence Farmer,01 Jan 1986
+446,160126944,"Wambiye, Ester",F,Kalipinie,Student,09 Mar 1998
+447,160212341,"Wambiye, Janet",F,Kalipinie,Student,12 Oct 1989
+448,160126943,"Wambiye, Miriam",F,Kalipinie,Student,11 Mar 1994
+449,160212338,"Wambiye, Nema",F,Kalipinie,Subsistence Farmer,03 Sep 1968
+450,160442862,"Wambri, Daiyan",F,Kalipinie,Household Duties,02 Mar 1993
+451,25081752,"Wanpis, Anna",F,Kalipinie,Unemployed,11 Nov 1990
+452,25081761,"Wanpis, Betty",F,Kalipinie,Unemployed,11 Jan 1992
+453,160226542,"Wapu, Kentili",F,Kalipinie,Subsistence Farmer,01 Jan 1958
+454,160226550,"Wapu, Monica",F,Kalipinie,Subsistence Farmer,03 Mar 1985
+455,160226537,"Wapu, Telly",F,Kalipinie,Subsistence Farmer,15 Jul 1981
+456,25081767,"Wari, Shirley",F,Kalipinie,Student,11 Feb 1998
+457,160126951,"Wason, Glenda",F,Kalipinie,Housegirl,08 Jan 1991
+458,160215314,"Weiye, Ani",F,Kalipinie,Subsistence Farmer,01 Jan 1984
+459,160442863,"Wesley, Norin",F,Kalipinie,Subsistence Farmer,05 Mar 1987
+460,25081779,"Windy, Betty",F,Kalipinie,Self Employed,01 Feb 1987
+461,160126794,"Wine, Deli",F,Kalipinie,Student,02 May 1998
+462,160220908,"Wine, Lewa",F,Kalipinie,Housegirl,09 Oct 1984
+463,160126793,"Wine, Nopi yembo",F,Kalipinie,Student,07 Nov 1996
+464,160226295,"Wine, Ratchael",F,Kalipinie,Student,23 May 1990
+465,160218666,"Wine, Yulino",F,Kalipinie,Subsistence Farmer,04 Jan 1960
+466,160220591,"Yakili, Erepo",F,Kalipinie,Subsistence Farmer,06 Mar 1960
+467,160222626,"Yakili, Peino",F,Kalipinie,Housegirl,05 Mar 1989
+468,160136476,"Yakili, Pilembo",F,Kalipinie,Subsistence Farmer,02 Apr 1970
+469,160220592,"Yakili, Puncy",F,Kalipinie,Housegirl,13 Apr 1986
+470,160222627,"Yakili, Rubie",F,Kalipinie,Subsistence Farmer,12 Oct 1950
+471,160212991,"Yamba, Wanjembo",F,Kalipinie,Subsistence Farmer,01 Jan 1943
+472,160215593,"Yondo, Alopambo",F,Kalipinie,Subsistence Farmer,01 Jan 1961
+473,160442865,"Yondo, Regina",F,Kalipinie,Student,15 Mar 1998
+474,160221054,"Yunugo, Kombili",F,Kalipinie,Subsistence Farmer,06 Sep 1954
+475,160219108,"Yunugo, Matha",F,Kalipinie,Student,11 Mar 1989
+476,160222644,"Yunugo, Tiki",F,Kalipinie,Subsistence Farmer,17 Sep 1968
+477,160220595,"Yunugo, Tiriye",F,Kalipinie,Housegirl,04 May 1982
+478,160222646,"Yunugo, Tiye",F,Kalipinie,Housegirl,06 Jul 1984
+479,25081419,"Ainjo, Albert",M,Kalipinie,Student,05 Jan 2000
+480,160226704,"Ainjo, Luther",M,Kalipinie,Subsistence Farmer,01 Nov 1988
+481,160126774,"Aiye, Jason",M,Kalipinie,Student,16 Feb 1993
+482,160212447,"Aiye, Joel",M,Kalipinie,Subsistence Farmer,01 Jan 1977
+483,160137681,"Aiye, Pawa",M,Kalipinie,Subsistence Farmer,11 Jul 1994
+484,160212996,"Aiye, Tope",M,Kalipinie,Subsistence Farmer,01 Jan 1974
+485,160442659,"Albert, Sande",M,Kalipinie,Student,08 Jan 1997
+486,160212988,"Albert, Simion",M,Kalipinie,Student,15 Jan 1990
+487,160442663,"Albert, Wambri",M,Kalipinie,Fisherman,23 Jun 1992
+488,160234734,"Alopa, Alpo",M,Kalipinie,Student,01 Jan 1992
+489,160442669,"Ameyo, Erick",M,Kalipinie,Subsistence Farmer,26 Feb 1993
+490,160442671,"Ameyo, Erickqueen",M,Kalipinie,Student,24 Feb 2003
+491,160217569,"Ameyo, Kanombo",M,Kalipinie,Subsistence Farmer,15 Nov 1983
+492,160442673,"Ameyo, Kelon",M,Kalipinie,Student,18 Jan 2002
+493,160442677,"Ameyo, Nepo",M,Kalipinie,Subsistence Farmer,23 Nov 2001
+494,160442679,"Ameyo, Poiye",M,Kalipinie,Student,18 Sep 2003
+495,160223814,"Ameyo, Rick",M,Kalipinie,Subsistence Farmer,01 Jan 1985
+496,160223881,"Andela, Eria",M,Kalipinie,Subsistence Farmer,01 Jan 1971
+497,160226716,"Andela, Juke",M,Kalipinie,Pastor,01 Jan 1963
+498,160226702,"Andela, Kule",M,Kalipinie,Subsistence Farmer,01 Jan 1951
+499,160216337,"Andela, Membo",M,Kalipinie,Subsistence Farmer,01 Jan 1970
+500,160223879,"Andela, Tirimo",M,Kalipinie,Not Specified,01 Jan 1966
+501,160216336,"Andela, Tiripi",M,Kalipinie,Subsistence Farmer,08 Sep 1985
+502,160211255,"Andiya, Samson",M,Kalipinie,Subsistence Farmer,14 May 1984
+503,160211256,"Andiya, Samuel",M,Kalipinie,Subsistence Farmer,23 Apr 1987
+504,160126789,"Anjo, Sunday",M,Kalipinie,Student,26 Nov 1997
+505,160126788,"Anjo, Wambri",M,Kalipinie,Student,09 Jan 1996
+506,160127971,"Apol, Bos",M,Kalipinie,Student,10 Apr 1999
+507,160225335,"Arekele, Koyapo",M,Kalipinie,Subsistence Farmer,06 Nov 1986
+508,25081430,"Bembo, Clady",M,Kalipinie,Student,28 Apr 2004
+509,160126778,"Bembo, Ismale",M,Kalipinie,Student,12 Feb 1996
+510,160442684,"Bembo, Poya",M,Kalipinie,Student,22 Nov 2003
+511,160442686,"Bembo, Rami",M,Kalipinie,Student,15 Nov 2003
+512,160126779,"Bembo, Sendrek",M,Kalipinie,Student,18 Feb 1997
+513,160224460,"Borowa, Abraham",M,Kalipinie,Subsistence Farmer,01 Jan 1968
+514,160224463,"Borowa, Luke",M,Kalipinie,Subsistence Farmer,01 Jan 1971
+515,160225245,"Borowa, Mark",M,Kalipinie,Subsistence Farmer,21 Mar 1974
+516,160224461,"Borowa, Mathew",M,Kalipinie,Subsistence Farmer,01 Jan 1971
+517,160218678,"Boti, James",M,Kalipinie,Student,08 Apr 1990
+518,160218662,"Boti, Koke",M,Kalipinie,Subsistence Farmer,04 Oct 1986
+519,160220582,"Boti, Lopeke",M,Kalipinie,Subsistence Farmer,13 Nov 1981
+520,25081434,"Brian, Issac",M,Kalipinie,Student,01 Feb 2001
+521,160215307,"Bune, Albert",M,Kalipinie,Subsistence Farmer,01 Jan 1958
+522,25081438,"Busmarn, Joel",M,Kalipinie,Subsistence Farmer,03 Apr 1998
+523,160213828,"Daniel, Ian",M,Kalipinie,Not Specified,01 Jan 1971
+524,160234730,"Daniel, John",M,Kalipinie,Subsistence Farmer,01 Jan 1970
+525,160215342,"Daniel, Kawa",M,Kalipinie,Subsistence Farmer,01 Jan 1977
+526,160215597,"Daniel, Smith",M,Kalipinie,Not Specified,01 Jan 1974
+527,160126796,"Daniel, Trevor",M,Kalipinie,Student,06 Apr 1999
+528,160211411,"Deli, Daiye",M,Kalipinie,Subsistence Farmer,01 Jan 1963
+529,160218679,"Doa, Jeremiah",M,Kalipinie,Student,01 Dec 1990
+530,160126797,"Dopo, Sammy",M,Kalipinie,Student,05 Jul 1998
+531,160234735,"Enna, Pastor paul",M,Kalipinie,Pastor,01 Jan 1966
+532,160442704,"Erick, Starlon",M,Kalipinie,Student,02 May 2003
+533,25081447,"Firman, Peter",M,Kalipinie,Student,13 Apr 2000
+534,160127975,"Galankiye, Philip",M,Kalipinie,Security,28 Jan 1993
+535,160222607,"Garu, James",M,Kalipinie,Subsistence Farmer,12 Feb 1970
+536,160222620,"Garu, Pilge",M,Kalipinie,Subsistence Farmer,21 May 1967
+537,160220919,"Garu, Scott",M,Kalipinie,Subsistence Farmer,02 Feb 1978
+538,160218664,"Garu, Tom",M,Kalipinie,Driver,03 May 1973
+539,160215261,"Gary, Gift",M,Kalipinie,Subsistence Farmer,11 Jan 1986
+540,25081452,"George, Dell",M,Kalipinie,Student,07 Jul 2000
+541,160212337,"Glankiye, Wambiye",M,Kalipinie,Pastor,09 Jul 1966
+542,160226781,"Glapi, David",M,Kalipinie,Student,04 Jun 1990
+543,160212461,"Glapi, Julius",M,Kalipinie,Worker,16 Aug 1981
+544,160442708,"Greg, Garu",M,Kalipinie,Subsistence Farmer,16 Aug 1992
+545,160211410,"Ipupu, Deli",M,Kalipinie,Subsistence Farmer,01 Jan 1931
+546,160215626,"Jack, Colin",M,Kalipinie,Student,15 Oct 1990
+547,160224709,"Jack, Kenny",M,Kalipinie,Student,03 May 1990
+548,25081465,"James, Joe",M,Kalipinie,Student,11 Dec 1999
+549,160223834,"James, Maichol",M,Kalipinie,Subsistence Farmer,01 Jan 1985
+550,160223828,"James, Skoty",M,Kalipinie,Subsistence Farmer,01 Jan 1989
+551,160221069,"James, Terry",M,Kalipinie,Subsistence Farmer,01 Jan 1977
+552,25081469,"Jeffery, Mathew",M,Kalipinie,Student,02 Oct 1993
+553,25081473,"Jennifer, Ali",M,Kalipinie,Student,23 Feb 2000
+554,25081477,"Jeremiah, Mathew",M,Kalipinie,Student,11 Feb 1999
+555,25081486,"Jess, Peter",M,Kalipinie,Student,02 Nov 1987
+556,25081490,"John, Anda",M,Kalipinie,Student,02 Nov 2000
+557,160223817,"John, Heron",M,Kalipinie,Subsistence Farmer,01 Jan 1986
+558,160226718,"Juke, Markson",M,Kalipinie,Subsistence Farmer,09 Jan 1987
+559,160226676,"Juke, Stanly",M,Kalipinie,Subsistence Farmer,27 Sep 1983
+560,160215562,"Kaime, Kari",M,Kalipinie,Subsistence Farmer,01 Jan 1959
+561,160226697,"Kaltiye, Ale",M,Kalipinie,Subsistence Farmer,08 Mar 1990
+562,160226321,"Kaltiye, Nomo",M,Kalipinie,Subsistence Farmer,19 Jul 1982
+563,160212324,"Kami, Jeffrey",M,Kalipinie,Student,30 Sep 1988
+564,25081496,"Kanambo, Osi",M,Kalipinie,Unemployed,02 Mar 1985
+565,25081501,"Kanange, Blade",M,Kalipinie,Store Keeper,02 Nov 1988
+566,25081504,"Kanoli, Benny",M,Kalipinie,Student,02 May 2001
+567,160226286,"Karl, Pena",M,Kalipinie,Student,01 Jan 1970
+568,160226299,"Karl, Tawendo",M,Kalipinie,Subsistence Farmer,01 Jan 1987
+569,160226305,"Karl, Tukundo",M,Kalipinie,Subsistence Farmer,01 Jan 1982
+570,160442733,"Karu, Jerohmy",M,Kalipinie,Subsistence Farmer,11 Mar 1999
+571,160222634,"Karu, John",M,Kalipinie,Subsistence Farmer,01 Jan 1979
+572,160216360,"Karu, Konopu",M,Kalipinie,Subsistence Farmer,08 May 1981
+573,160216364,"Karu, Pandeya",M,Kalipinie,Subsistence Farmer,11 Apr 1984
+574,160216256,"Karu, Willy",M,Kalipinie,Subsistence Farmer,14 Sep 1990
+575,160126933,"Kelly, Iso",M,Kalipinie,Student,03 Jun 1998
+576,160126934,"Kelly, Jacob",M,Kalipinie,Student,06 Apr 1999
+577,160224033,"Kelly, Norman",M,Kalipinie,Student,12 Oct 1990
+578,160215585,"Kelo, Kuleko",M,Kalipinie,Subsistence Farmer,01 Jan 1973
+579,160126935,"Kelo, Leke",M,Kalipinie,Subsistence Farmer,11 Sep 1993
+580,160216262,"Kelo, Pene",M,Kalipinie,Subsistence Farmer,01 Jan 1976
+581,25081518,"Kelo, Sande",M,Kalipinie,Student,01 Feb 2004
+582,160126952,"Kelolo, Kombuk",M,Kalipinie,Subsistence Farmer,11 Mar 1982
+583,160222609,"Kelolo, Kondowa",M,Kalipinie,Subsistence Farmer,01 Jun 1984
+584,160222610,"Kelolo, Mandowa",M,Kalipinie,Subsistence Farmer,09 Jun 1987
+585,160442740,"Kelolo, Neon",M,Kalipinie,Student,23 Dec 2002
+586,160126937,"Kemapu, Moses",M,Kalipinie,Subsistence Farmer,11 Mar 1997
+587,160126936,"Kemapu, Wanpis",M,Kalipinie,Subsistence Farmer,11 Jun 1992
+588,160126799,"Kenawi, Kande",M,Kalipinie,National Medical,02 Mar 1960
+589,160216604,"Kendo, Ameyo",M,Kalipinie,Subsistence Farmer,01 Jan 1944
+590,160215607,"Kenowa, Mikmik",M,Kalipinie,Subsistence Farmer,01 Jan 1945
+591,160442746,"Kepsi, Charlton",M,Kalipinie,Student,18 Jun 1998
+592,160442748,"Kepsi, Dalton",M,Kalipinie,Student,28 Apr 2004
+593,160211063,"Kerendaiye, Paul",M,Kalipinie,Subsistence Farmer,01 Jan 1974
+594,160215076,"Kerendaiye, Samuel",M,Kalipinie,Subsistence Farmer,17 Aug 1981
+595,160215630,"Kerendaiye, Topu",M,Kalipinie,Subsistence Farmer,01 Jan 1984
+596,25081524,"Kewa, Kewai",M,Kalipinie,Unemployed,01 Feb 1987
+597,160212336,"Koepa, Glankiye",M,Kalipinie,Subsistence Farmer,19 Apr 1956
+598,160217571,"Koepa, Jacob",M,Kalipinie,Salesman,07 Jun 1978
+599,25081527,"Koka, George",M,Kalipinie,Self Employed,07 Feb 1992
+600,160213847,"Koke, Wapu",M,Kalipinie,Subsistence Farmer,01 Jan 1955
+601,160225260,"Koltopu, Gibson",M,Kalipinie,Subsistence Farmer,04 Feb 1987
+602,160221063,"Kombiliteli, Pea",M,Kalipinie,Subsistence Farmer,03 Jun 1949
+603,160226281,"Kondo, Andrew",M,Kalipinie,Student,13 Dec 1986
+604,160215300,"Kondo, Kaipox",M,Kalipinie,Driver,16 Mar 1983
+605,160226293,"Kondo, Mapi",M,Kalipinie,Subsistence Farmer,13 Oct 1980
+606,160226292,"Kondo, Punge",M,Kalipinie,Subsistence Farmer,23 Jul 1976
+607,160226290,"Kondo, Timothy",M,Kalipinie,Driver,16 May 1971
+608,160226780,"Kondo, Tommy",M,Kalipinie,Subsistence Farmer,07 Mar 1973
+609,160226287,"Kondo, Unungo",M,Kalipinie,Computer Operator,01 Jan 1960
+610,160226712,"Kopol, Paul",M,Kalipinie,Subsistence Farmer,03 Sep 1976
+611,160222614,"Kopolo, Billy",M,Kalipinie,Subsistence Farmer,01 Jan 1986
+612,160222612,"Kopolo, Kipu",M,Kalipinie,Subsistence Farmer,01 Jan 1980
+613,160223804,"Kopolo, Philip",M,Kalipinie,Subsistence Farmer,01 Jan 1974
+614,160223807,"Kopolo, Semey",M,Kalipinie,Subsistence Farmer,01 Jan 1989
+615,160222611,"Kopolo, Tembo",M,Kalipinie,Subsistence Farmer,01 Jan 1977
+616,160222613,"Kopolo, Timothy",M,Kalipinie,Subsistence Farmer,01 Jan 1983
+617,160226535,"Koputeli, Jacob",M,Kalipinie,Subsistence Farmer,05 Jun 1981
+618,160226541,"Koputeli, Pakiril",M,Kalipinie,Subsistence Farmer,16 Aug 1976
+619,160226540,"Koputeli, Rodney",M,Kalipinie,Student,21 Mar 1990
+620,160219083,"Ku, Nakanoli",M,Kalipinie,Subsistence Farmer,05 Mar 1979
+621,160218675,"Ku, Talu",M,Kalipinie,Student,09 Jun 1986
+622,160220610,"Ku, Tonny",M,Kalipinie,Student,06 Jul 1980
+623,160442763,"Kule, Michael",M,Kalipinie,Subsistence Farmer,28 Aug 1993
+624,160225359,"Kule, Nicklos",M,Kalipinie,Subsistence Farmer,17 Aug 1981
+625,160221055,"Kulimu, Norma",M,Kalipinie,Subsistence Farmer,03 Oct 1950
+626,160225278,"Kulimu, Tuku",M,Kalipinie,Subsistence Farmer,16 Sep 1951
+627,160136472,"Kumbule, Jackson",M,Kalipinie,Student,21 Apr 1996
+628,160126777,"Kumbule, Seal",M,Kalipinie,Student,01 Apr 1998
+629,160223831,"Kumbule, Tonny",M,Kalipinie,Not Specified,01 Jan 1980
+630,160226878,"Kumi, Marowa",M,Kalipinie,Subsistence Farmer,01 Jan 1960
+631,160215700,"Kumi, Oko",M,Kalipinie,Not Specified,01 Jan 1970
+632,160216289,"Kupu, Andela",M,Kalipinie,Subsistence Farmer,01 Jan 1943
+633,160213856,"Kupu, Pite",M,Kalipinie,Subsistence Farmer,01 Jan 1950
+634,160225336,"Kupu, Undi",M,Kalipinie,Subsistence Farmer,01 Jan 1946
+635,160222638,"Kupu, Yakai",M,Kalipinie,Subsistence Farmer,01 Jan 1959
+636,160216612,"Kuu, Tame",M,Kalipinie,Subsistence Farmer,01 Jan 1959
+637,160216613,"Kuu, Tope",M,Kalipinie,Subsistence Farmer,01 Jan 1951
+638,160211409,"Lainda, Gary",M,Kalipinie,Teacher,01 Jan 1956
+639,160215583,"Langi, Kelo",M,Kalipinie,Subsistence Farmer,01 Jan 1953
+640,160216261,"Langi, Mendeli",M,Kalipinie,Subsistence Farmer,01 Jan 1951
+641,160216626,"Langi, Natil",M,Kalipinie,Subsistence Farmer,01 Jan 1953
+642,160226314,"Langi, Ongonda",M,Kalipinie,Subsistence Farmer,01 Jan 1953
+643,160215717,"Langi, Tamba",M,Kalipinie,Subsistence Farmer,01 Jan 1954
+644,160442765,"Las, Abriham",M,Kalipinie,Student,25 Aug 2000
+645,160442767,"Lene, Rex",M,Kalipinie,Student,18 Sep 1998
+646,160226516,"Lepi lepi, Tusy",M,Kalipinie,Subsistence Farmer,03 Oct 1986
+647,160226714,"Lepi lepi, Yako pos",M,Kalipinie,Subsistence Farmer,27 Dec 1980
+648,160126938,"Limu, Apol",M,Kalipinie,Subsistence Farmer,24 Jan 1997
+649,160215311,"Limu, Apple",M,Kalipinie,Subsistence Farmer,30 Jun 1988
+650,160218525,"Limu, Pen",M,Kalipinie,Subsistence Farmer,03 Jul 1986
+651,160221071,"Liwa, John",M,Kalipinie,Student,15 Mar 1987
+652,160222643,"Liwa, Peke",M,Kalipinie,Student,19 Aug 1990
+653,160137680,"Liwa, Whitee",M,Kalipinie,Student,02 May 1996
+654,160215312,"Lorema, Benjamin",M,Kalipinie,Subsistence Farmer,13 Mar 1986
+655,160215313,"Lorema, Pateli",M,Kalipinie,Subsistence Farmer,01 Jan 1966
+656,160218527,"Lorema, Weiye",M,Kalipinie,Subsistence Farmer,01 Jan 1980
+657,160442769,"Maima, Jeffery",M,Kalipinie,Subsistence Farmer,17 Mar 1996
+658,160215318,"Mainege, Nopu",M,Kalipinie,Not Specified,01 Jan 1947
+659,160226870,"Mainege, Wambea",M,Kalipinie,Subsistence Farmer,01 Jan 1951
+660,160215704,"Mainenge, Nombeya",M,Kalipinie,Subsistence Farmer,01 Jan 1946
+661,160223823,"Mainenge, Ono",M,Kalipinie,Subsistence Farmer,01 Jan 1960
+662,160220921,"Makinje, Liwa",M,Kalipinie,Subsistence Farmer,13 Aug 1964
+663,160218670,"Makinje, Turi",M,Kalipinie,Subsistence Farmer,03 Apr 1966
+664,160224037,"Makinje, Wali",M,Kalipinie,Subsistence Farmer,03 Sep 1971
+665,160229569,"Maleya, Yakili",M,Kalipinie,Subsistence Farmer,01 Jan 1985
+666,160136641,"Mambo, Ismael",M,Kalipinie,Driver,08 Jun 1996
+667,160136642,"Mambo, Stanford",M,Kalipinie,Student,16 Apr 1999
+668,160220602,"Mambo, Wanpis",M,Kalipinie,Student,16 Sep 1990
+669,160137679,"Mandea, Brain",M,Kalipinie,Pastor,02 Apr 1970
+670,160226285,"Manie, Jerry",M,Kalipinie,Subsistence Farmer,22 Jun 1990
+671,25081564,"Manu, Mark",M,Kalipinie,Student,03 Feb 2001
+672,160136477,"Mark, Clive",M,Kalipinie,Student,02 May 1998
+673,160126798,"Mark, Junior",M,Kalipinie,Student,15 Jul 1997
+674,160220586,"Marowa, Joel",M,Kalipinie,Student,16 Sep 1987
+675,160127972,"Mathias, Ismael",M,Kalipinie,Student,12 Jan 1997
+676,160442782,"Membo, Jethro",M,Kalipinie,Student,28 Apr 2004
+677,160229482,"Michael, Kuse",M,Kalipinie,Subsistence Farmer,01 Jan 1975
+678,160215611,"Mikmik, Jackie",M,Kalipinie,Subsistence Farmer,05 Dec 1987
+679,160215610,"Mikmik, Jonny",M,Kalipinie,Subsistence Farmer,12 Feb 1980
+680,160215457,"Mikmik, Tommy",M,Kalipinie,Subsistence Farmer,11 May 1990
+681,160217566,"Monda, Len",M,Kalipinie,Subsistence Farmer,07 Apr 1988
+682,160218526,"Mongea, Aiye",M,Kalipinie,Subsistence Farmer,01 Jan 1951
+683,160222622,"Mongea, Doa",M,Kalipinie,Pastor,16 Mar 1968
+684,160215629,"Mongea, Keredaiye",M,Kalipinie,Subsistence Farmer,01 Jan 1955
+685,160218665,"Mongea, Mathias",M,Kalipinie,Driver,27 Jun 1978
+686,160221057,"Mongea, Paul",M,Kalipinie,Policeman,09 Dec 1967
+687,160221058,"Mongea, Pindipiye",M,Kalipinie,Subsistence Farmer,09 Feb 1962
+688,160442786,"Moses, Manes",M,Kalipinie,Student,16 May 2001
+689,160127970,"Napa, Pil",M,Kalipinie,Farm worker,21 Sep 1930
+690,160511142,"Natil, Tilel",M,Kalipinie,Driver,19 Apr 1990
+691,160216361,"Natili, Bokis",M,Kalipinie,Subsistence Farmer,01 Jan 1976
+692,160216629,"Natili, Guli",M,Kalipinie,Subsistence Farmer,17 May 1983
+693,160215563,"Natili, Paul",M,Kalipinie,Subsistence Farmer,02 Nov 1987
+694,160216355,"Natili, Pora",M,Kalipinie,Subsistence Farmer,01 Jan 1972
+695,160216339,"Natili, Takundo",M,Kalipinie,Subsistence Farmer,01 Jan 1979
+696,160216357,"Natili, Tikele",M,Kalipinie,Subsistence Farmer,01 Jan 1969
+697,160442788,"Nick, Jephonia",M,Kalipinie,Student,03 May 2001
+698,160217657,"Nindiye, Monda",M,Kalipinie,Subsistence Farmer,13 Mar 1976
+699,160216598,"Nindiye, Pawa",M,Kalipinie,Subsistence Farmer,01 Jan 1955
+700,160442791,"Noah, Enock",M,Kalipinie,Student,06 May 1999
+701,160126784,"Noha, Ilaija",M,Kalipinie,Student,28 Nov 1997
+702,160215166,"Noha, Ilaiya",M,Kalipinie,Subsistence Farmer,16 May 1985
+703,160126782,"Nombeya, Arasa",M,Kalipinie,Student,29 Apr 1997
+704,160136475,"Nombeya, Manu",M,Kalipinie,Student,19 Feb 1998
+705,160215317,"Nombeya, Noha",M,Kalipinie,Pastor,01 Jan 1963
+706,160215702,"Nombeya, Peku",M,Kalipinie,Subsistence Farmer,01 Jan 1969
+707,160226319,"Nombeya, Solomon",M,Kalipinie,Subsistence Farmer,05 Apr 1986
+708,160442793,"Nombia, Emmanuel",M,Kalipinie,Student,16 Dec 2003
+709,160442795,"Nonda, Gift",M,Kalipinie,Student,04 Sep 1996
+710,160442797,"Nonda, Marklon",M,Kalipinie,Student,26 May 1996
+711,160216120,"Nonda, Rex",M,Kalipinie,Subsistence Farmer,02 Apr 1969
+712,160136470,"Nopu, Aisak",M,Kalipinie,Student,01 Feb 1998
+713,160226672,"Nopu, Kambu",M,Kalipinie,Subsistence Farmer,01 Jan 1988
+714,160136473,"Nopu, Loko",M,Kalipinie,Student,18 Feb 1996
+715,160126775,"Nopu, Obert",M,Kalipinie,Subsistence Farmer,13 Feb 1996
+716,160213865,"Nopu, Obert",M,Kalipinie,Subsistence Farmer,17 Sep 1988
+717,160442804,"Nopu, Robin",M,Kalipinie,Student,16 May 2003
+718,160213853,"Nopu, Saki",M,Kalipinie,Subsistence Farmer,28 Aug 1980
+719,160442806,"Nopu, Tommy",M,Kalipinie,Subsistence Farmer,24 Sep 2001
+720,160220583,"Norma, Boti",M,Kalipinie,Subsistence Farmer,04 Mar 1965
+721,160218663,"Norma, Marowa",M,Kalipinie,Driver,03 Jun 1969
+722,160225365,"Ongonda, Walimbo",M,Kalipinie,Student,24 Nov 1990
+723,25081609,"Opeme, Dion",M,Kalipinie,Student,28 Apr 2004
+724,25081618,"Opeme, Gedion",M,Kalipinie,Student,20 May 2002
+725,160215301,"Oru, Charlie",M,Kalipinie,Subsistence Farmer,15 Jul 1990
+726,160209842,"Oru, Kemapu",M,Kalipinie,Driver,10 Nov 1962
+727,160442812,"Oru, Nale",M,Kalipinie,Subsistence Farmer,26 Sep 1998
+728,160221072,"Oru, Nandiye",M,Kalipinie,Security,03 May 1971
+729,160220917,"Oru, Wine",M,Kalipinie,Subsistence Farmer,03 Oct 1957
+730,160215711,"Pailta, Karu",M,Kalipinie,Subsistence Farmer,01 Jan 1957
+731,160225241,"Pailta, Palite",M,Kalipinie,Subsistence Farmer,01 Jan 1946
+732,160226694,"Paiyelo, Ainjo",M,Kalipinie,Subsistence Farmer,06 Apr 1960
+733,160223826,"Paiyolo, Nekiye",M,Kalipinie,Subsistence Farmer,01 Jan 1978
+734,160223825,"Paiyolo, Poly",M,Kalipinie,Subsistence Farmer,01 Jan 1971
+735,160223822,"Paiyolo, Wambiye",M,Kalipinie,Subsistence Farmer,01 Jan 1974
+736,160225243,"Palite, Jack",M,Kalipinie,Subsistence Farmer,06 Mar 1986
+737,160225375,"Palite, Kanoli",M,Kalipinie,Subsistence Farmer,01 Jan 1976
+738,160225373,"Palite, Tenis",M,Kalipinie,Subsistence Farmer,23 Oct 1979
+739,160225371,"Palite, Tiye",M,Kalipinie,Subsistence Farmer,01 Jan 1971
+740,160220909,"Palite, Tony",M,Kalipinie,Baker,09 Dec 1977
+741,160213829,"Pambono, Oko",M,Kalipinie,Subsistence Farmer,01 Jan 1940
+742,160216601,"Pawa, Open",M,Kalipinie,Subsistence Farmer,17 Jun 1983
+743,160216602,"Pawa, Profet",M,Kalipinie,Subsistence Farmer,03 Nov 1987
+744,160218924,"Pea, Unex",M,Kalipinie,Subsistence Farmer,30 Dec 1974
+745,160216635,"Pembo, Eri",M,Kalipinie,Subsistence Farmer,05 Jun 1984
+746,160216331,"Pembo, Mark",M,Kalipinie,Subsistence Farmer,09 Apr 1987
+747,160216279,"Pembo, Moses",M,Kalipinie,Subsistence Farmer,07 Mar 1981
+748,160222632,"Pembo, Peter",M,Kalipinie,Not Specified,01 Jan 1977
+749,160219090,"Pepo, Tommy",M,Kalipinie,Subsistence Farmer,06 Jul 1987
+750,160223878,"Peter, Buka",M,Kalipinie,Subsistence Farmer,06 Aug 1984
+751,25081646,"Peter, Johnson",M,Kalipinie,Student,02 Apr 2000
+752,25081657,"Peter, Mark",M,Kalipinie,Driver,11 Dec 1986
+753,160213859,"Peter, Ruben",M,Kalipinie,Subsistence Farmer,17 Jun 1988
+754,160225255,"Philemon, Ami",M,Kalipinie,Subsistence Farmer,01 Jan 1990
+755,160223813,"Philip, Pelix",M,Kalipinie,Subsistence Farmer,01 Jan 1978
+756,160224566,"Philip, Robert",M,Kalipinie,Student,04 May 1989
+757,160220916,"Pinje, Kelly",M,Kalipinie,Student,09 Oct 1990
+758,160217651,"Pinje, Nicky",M,Kalipinie,Subsistence Farmer,30 Dec 1978
+759,160217642,"Pinje, Noel",M,Kalipinie,Student,07 Jun 1989
+760,160220915,"Pinje, Steward",M,Kalipinie,Baker,13 Oct 1982
+761,160221061,"Pinje, Texson",M,Kalipinie,Student,07 May 1984
+762,160216269,"Poya, Bembo",M,Kalipinie,Subsistence Farmer,01 Jan 1952
+763,160220911,"Poya, Mambo",M,Kalipinie,Pastor,16 Nov 1958
+764,160222635,"Poya, Pundiki",M,Kalipinie,Security,16 Mar 1966
+765,160215303,"Poya, Windy",M,Kalipinie,Subsistence Farmer,01 Jan 1979
+766,160211260,"Poya, Yamba",M,Kalipinie,Subsistence Farmer,01 Jan 1939
+767,160226526,"Puiye, Jeffry",M,Kalipinie,Subsistence Farmer,10 Oct 1986
+768,160223872,"Puiye, Kepsey",M,Kalipinie,Not Specified,01 Jan 1970
+769,160442821,"Puiye, Malcom",M,Kalipinie,Student,06 Nov 1998
+770,160226534,"Puiye, Samson",M,Kalipinie,Subsistence Farmer,01 Jan 1981
+771,160219102,"Pundiki, Felix",M,Kalipinie,Subsistence Farmer,09 Apr 1982
+772,160219103,"Pundiki, Kanombo",M,Kalipinie,Subsistence Farmer,03 Feb 1985
+773,160136643,"Pundiki, Timoty",M,Kalipinie,Subsistence Farmer,11 Apr 1993
+774,160226669,"Raliye, Nopu",M,Kalipinie,Subsistence Farmer,01 Jan 1955
+775,160223808,"Raliye, Philip",M,Kalipinie,Driver,01 Jan 1959
+776,160213848,"Rami, Kera",M,Kalipinie,Not Specified,12 Oct 1983
+777,160213837,"Rami, Panjipo",M,Kalipinie,Not Specified,09 Jun 1980
+778,160213797,"Rami, Pindipiye",M,Kalipinie,Subsistence Farmer,26 Jul 1986
+779,160213850,"Rami, Rui",M,Kalipinie,Subsistence Farmer,30 Sep 1990
+780,160126953,"Rimu, Elija",M,Kalipinie,Baker,22 Jun 1980
+781,160126959,"Robert, Justin",M,Kalipinie,Subsistence Farmer,02 Jan 1996
+782,160220437,"Rose, David",M,Kalipinie,Baker,10 Nov 1979
+783,160442828,"Saki, Rackado",M,Kalipinie,Student,12 Nov 2003
+784,25081689,"Saki, Raymond",M,Kalipinie,Student,20 Jul 2000
+785,25081697,"Saki, Ruckson",M,Kalipinie,Student,28 Apr 2004
+786,160126940,"Scot, Jesmine",M,Kalipinie,Student,02 Mar 1997
+787,160215459,"Simon, Cherothy",M,Kalipinie,Subsistence Farmer,01 Jan 1984
+788,160126787,"Simon, Malakai",M,Kalipinie,Student,14 May 1997
+789,160215708,"Simon, Tendeson",M,Kalipinie,Subsistence Farmer,01 Jan 1988
+790,160442830,"Steven, Dion",M,Kalipinie,Student,23 Jun 2001
+791,160226549,"Talopa, Easter",M,Kalipinie,Subsistence Farmer,11 Jun 1974
+792,160226701,"Talopa, Moka",M,Kalipinie,Not Specified,13 May 1977
+793,160226548,"Talopa, Paintipo",M,Kalipinie,Subsistence Farmer,07 Sep 1990
+794,160216275,"Tamba, Ape",M,Kalipinie,Subsistence Farmer,09 Aug 1982
+795,160136465,"Tamba, Benard",M,Kalipinie,Subsistence Farmer,02 Jan 1993
+796,160136466,"Tamba, Pote",M,Kalipinie,Student,20 Mar 1999
+797,160234729,"Tambuli, John pastor",M,Kalipinie,Pastor,01 Jan 1970
+798,160216620,"Tame, Buka",M,Kalipinie,Subsistence Farmer,16 Jan 1983
+799,160234842,"Tame, Kekson",M,Kalipinie,Student,01 Jan 1982
+800,160216288,"Tame, Leksen",M,Kalipinie,Subsistence Farmer,05 Dec 1986
+801,160234890,"Tame, Standly",M,Kalipinie,Student,01 Jan 1983
+802,160442832,"Tame, Timo",M,Kalipinie,Subsistence Farmer,11 Dec 1998
+803,160442834,"Temane, Issack",M,Kalipinie,Student,03 Dec 2000
+804,160442836,"Temane, Nicky",M,Kalipinie,Subsistence Farmer,06 Nov 1997
+805,160215170,"Tende, Daniel",M,Kalipinie,Policeman,01 Jan 1950
+806,160442838,"Tende, Kingi",M,Kalipinie,Student,01 Mar 2001
+807,160216366,"Tende, Kumbule",M,Kalipinie,Not Specified,01 Jan 1950
+808,160216623,"Tende, Pembo",M,Kalipinie,Subsistence Farmer,01 Jan 1960
+809,160216258,"Tende, Peyandi",M,Kalipinie,Subsistence Farmer,01 Jan 1964
+810,160226868,"Tende, Poya",M,Kalipinie,Subsistence Farmer,01 Jan 1937
+811,160215324,"Tende, Rami",M,Kalipinie,Subsistence Farmer,01 Jan 1957
+812,160442842,"Tikel, Akules",M,Kalipinie,Student,18 Mar 2003
+813,25081713,"Tikele, Semion",M,Kalipinie,Student,01 Feb 2004
+814,160224466,"Tiri, Philemon",M,Kalipinie,Subsistence Farmer,01 Jan 1976
+815,160224034,"Tiri, Philip",M,Kalipinie,Policeman,09 Apr 1968
+816,160220588,"Tom, Hayen",M,Kalipinie,Student,05 Oct 1990
+817,160218530,"Tom, Tomson",M,Kalipinie,Student,05 Apr 1990
+818,160218686,"Tomambo, Moses",M,Kalipinie,Subsistence Farmer,04 Mar 1968
+819,160126773,"Tonny, Junoir",M,Kalipinie,Student,16 Jan 1998
+820,25081728,"Tonny, Maia",M,Kalipinie,Student,01 Jun 2001
+821,25081732,"Tonny, Ronen",M,Kalipinie,Student,28 Apr 2004
+822,160216615,"Tope, Kondi",M,Kalipinie,Subsistence Farmer,15 Nov 1980
+823,160216617,"Tope, Orum",M,Kalipinie,Subsistence Farmer,04 Nov 1986
+824,160216616,"Tope, Purum",M,Kalipinie,Subsistence Farmer,08 Sep 1983
+825,160225350,"Topora, Kili",M,Kalipinie,Subsistence Farmer,19 Oct 1958
+826,160212326,"Topora, Koltopu",M,Kalipinie,Subsistence Farmer,03 Sep 1966
+827,160216351,"Toroiye, Nindiye",M,Kalipinie,Subsistence Farmer,01 Jan 1949
+828,160225264,"Tuku, Kelly",M,Kalipinie,Clerk,05 Jun 1968
+829,160224842,"Tungi, Mark",M,Kalipinie,Subsistence Farmer,03 Apr 1984
+830,160225353,"Tungi, Steven",M,Kalipinie,Subsistence Farmer,19 Jul 1980
+831,160126941,"Turi, Jerol",M,Kalipinie,Student,20 May 1997
+832,160220598,"Turi, Rodney",M,Kalipinie,Subsistence Farmer,19 Jun 1985
+833,160220599,"Turi, Wanpis",M,Kalipinie,Student,10 Nov 1988
+834,160511143,"Turu, Mondi essy",M,Kalipinie,Teacher,20 Apr 1994
+835,160223876,"Undi, Kepsey",M,Kalipinie,Policeman,01 Jan 1968
+836,160225340,"Undi, Lombil",M,Kalipinie,Subsistence Farmer,08 Aug 1979
+837,160225259,"Undi, Pewi",M,Kalipinie,Subsistence Farmer,10 Sep 1988
+838,160218925,"Unex, Wanpis",M,Kalipinie,Student,04 Dec 1989
+839,160442850,"Uriye, Haward",M,Kalipinie,Student,16 Aug 2003
+840,160215320,"Uriye, Iyepu",M,Kalipinie,Subsistence Farmer,01 Jan 1967
+841,160215588,"Uriye, Opome",M,Kalipinie,Subsistence Farmer,01 Jan 1965
+842,160216291,"Uriye, Simon",M,Kalipinie,Public Servant,01 Jan 1951
+843,160215460,"Uriye, Tenis",M,Kalipinie,Subsistence Farmer,01 Jan 1977
+844,160224043,"Wainali, Kondo",M,Kalipinie,Subsistence Farmer,01 Jan 1946
+845,160442858,"Waiye, Machiel",M,Kalipinie,Subsistence Farmer,26 Nov 1993
+846,160442859,"Waiye, Scory",M,Kalipinie,Subsistence Farmer,19 Nov 2001
+847,160223812,"Wako, John",M,Kalipinie,Subsistence Farmer,01 Jan 1950
+848,160226521,"Wako, Puiye",M,Kalipinie,Not Specified,01 Jan 1941
+849,160224040,"Wali, Joel",M,Kalipinie,Student,09 Jul 1990
+850,160442860,"Wambia, Charly",M,Kalipinie,Subsistence Farmer,07 Mar 1993
+851,160212467,"Wambiye, Hobert",M,Kalipinie,Student,07 Aug 1986
+852,160136467,"Wambiye, Ismael",M,Kalipinie,Student,08 Jun 1996
+853,160223962,"Wambo, Kopolo",M,Kalipinie,Subsistence Farmer,01 Jan 1951
+854,160226707,"Wambo, Lepilepi",M,Kalipinie,Subsistence Farmer,01 Jan 1960
+855,160226317,"Wapu, Maika",M,Kalipinie,Subsistence Farmer,06 May 1989
+856,160215288,"Weiye, Darren",M,Kalipinie,Subsistence Farmer,12 Dec 1986
+857,160215289,"Weiye, Terry",M,Kalipinie,Subsistence Farmer,15 Aug 1990
+858,160511144,"Wepo, Rodney",M,Kalipinie,Subsistence Farmer,16 Apr 1995
+859,25081773,"Willie, Marn",M,Kalipinie,Student,02 Mar 2000
+860,160226415,"Wine, Aiye",M,Kalipinie,Subsistence Farmer,11 Jul 1990
+861,160218668,"Wine, Ferman",M,Kalipinie,Subsistence Farmer,01 Jan 2000
+862,160126795,"Wine, Jacob",M,Kalipinie,Student,16 Apr 1999
+863,160218667,"Wine, Wakep",M,Kalipinie,Clerk,03 Sep 1981
+864,160225244,"Wiru, Borowa",M,Kalipinie,Subsistence Farmer,01 Jan 1936
+865,160220585,"Wiru, Lorema",M,Kalipinie,Subsistence Farmer,08 Oct 1946
+866,160225344,"Yaile, Buka",M,Kalipinie,Subsistence Farmer,17 Aug 1965
+867,160222640,"Yaile, James",M,Kalipinie,Subsistence Farmer,01 Jan 1950
+868,160223824,"Yakai, Len",M,Kalipinie,Not Specified,01 Jan 1977
+869,160223821,"Yakai, Mark",M,Kalipinie,Subsistence Farmer,01 Jan 1986
+870,160223819,"Yakai, Mathew",M,Kalipinie,Not Specified,01 Jan 1980
+871,160223820,"Yakai, Nita",M,Kalipinie,Subsistence Farmer,01 Jan 1983
+872,160222623,"Yakili, Daniel",M,Kalipinie,Subsistence Farmer,03 Jun 1977
+873,160211064,"Yakili, Glapi",M,Kalipinie,Subsistence Farmer,12 Sep 1957
+874,160220594,"Yakili, Job",M,Kalipinie,Subsistence Farmer,29 Mar 1969
+875,160222625,"Yakili, Junior",M,Kalipinie,Student,30 Aug 1981
+876,160220593,"Yakili, Mark",M,Kalipinie,Subsistence Farmer,16 Sep 1979
+877,160212334,"Yakili, Nick",M,Kalipinie,Subsistence Farmer,13 Oct 1964
+878,160212995,"Yamba, Era",M,Kalipinie,Subsistence Farmer,01 Jan 1970
+879,160211263,"Yamba, Lipu",M,Kalipinie,Subsistence Farmer,01 Jan 1974
+880,160222617,"Yoko, Garu",M,Kalipinie,Subsistence Farmer,24 Aug 1943
+881,160226687,"Yomo, Namba",M,Kalipinie,Subsistence Farmer,01 Jan 1963
+882,160215169,"Yondo, Iki",M,Kalipinie,Subsistence Farmer,01 Jan 1989
+883,160215337,"Yondo, Norman",M,Kalipinie,Subsistence Farmer,01 Jan 1985
+884,160442864,"Yondo, Philimon",M,Kalipinie,Student,28 Apr 2004
+885,160221062,"Yunugo, Bredon",M,Kalipinie,Student,10 Sep 1986
+886,160222645,"Yunugo, Dopo",M,Kalipinie,Subsistence Farmer,19 Dec 1970

@@ -1,0 +1,683 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160187959,"Alson, Ailan",F,POREKEREP,Student,14 Apr 1990
+2,160182993,"Alson, Mary",F,POREKEREP,Household Duties,14 May 1970
+3,160194645,"Alupase, Nancy",F,POREKEREP,Household Duties,01 Jan 1989
+4,160195989,"Alupase, Ruth",F,POREKEREP,Student,01 Jan 1989
+5,160190563,"Ambak, Mary",F,POREKEREP,Household Duties,01 Jan 2000
+6,160193177,"Ambak, Nali",F,POREKEREP,Household Duties,07 Mar 1961
+7,160167695,"Ande, Mone",F,KOMBU,Household Duties,01 Jan 1986
+8,160119257,"Andrew, Jacklyn",F,POREKEREP,Student,03 Jul 1998
+9,160160697,"Andrew, Laresa",F,POREKEREP,Student,10 Apr 1990
+10,160215401,"Andrew, Lina",F,POREKEREP,Household Duties,01 Jan 1970
+11,160440276,"Andrew, Marthy",F,POREKEREP,Student,11 Oct 2002
+12,25123648,"Andrew, Samenta",F,POREKEREP,Student,11 Jan 2000
+13,160213817,"Andrew, Seron",F,POREKEREP,Student,01 Jan 1989
+14,160188286,"Angopa, Kambuwame",F,POREKEREP,Household Duties,01 Jan 1937
+15,160213635,"Aret, Mis",F,POREKEREP,Housegirl,01 Jan 1978
+16,160119199,"Aret, Miss",F,POREKEREP,Subsistence Farmer,01 Mar 1984
+17,160439962,"Aret, Naiomi",F,POREKEREP,Student,15 Feb 2000
+18,160167372,"Aret, Nancy",F,POREKEREP,Household Duties,06 Apr 1980
+19,160175944,"Aret, Ronna",F,POREKEREP,Student,01 Jan 1984
+20,160119200,"Aret, Rota",F,POREKEREP,Subsistence Farmer,02 Sep 1988
+21,160213628,"Aret, Sumoli",F,POREKEREP,Household Duties,01 Jan 1969
+22,160212603,"Aret, Yawini",F,POREKEREP,Household Duties,01 Jan 1967
+23,160160322,"Boiya, Ressol",F,POREKEREP,Household Duties,01 Jan 2000
+24,160160289,"Boiya, Yara",F,POREKEREP,Household Duties,01 Jan 1947
+25,160184984,"Diwi, Anumu",F,POREKEREP,Household Duties,01 Jan 2000
+26,160119203,"Diwi, Dolly",F,POREKEREP,Self Employed,11 Apr 1989
+27,160210169,"Diwi, Dolly",F,POREKEREP,Student,01 Jan 1987
+28,160119204,"Diwi, Maxcilla",F,POREKEREP,Policewomen,08 Jun 1983
+29,160212433,"Diwi, Pene",F,POREKEREP,Household Duties,01 Jan 2000
+30,160165248,"Ekep, Apala",F,KOMBU,Household Duties,01 Jan 1968
+31,160202104,"Ekep, Kolga",F,KOMBU,Household Duties,01 Jan 1964
+32,160218163,"Ekep, Sentra",F,KOMBU,Household Duties,01 Jan 1962
+33,160219051,"Hani, Meriam",F,POREKEREP,Household Duties,01 Jan 1964
+34,160194626,"Inje, Balus",F,POREKEREP,Household Duties,01 Jan 1969
+35,25123700,"James, Anna",F,POREKEREP,Nurse,13 Mar 2000
+36,160440407,"James, Josica",F,POREKEREP,Household Duties,22 Mar 2003
+37,160155778,"James, Magalinda",F,POREKEREP,Student,01 Jan 2000
+38,160440579,"James, Mera",F,POREKEREP,Subsistence Farmer,08 Apr 2004
+39,160169243,"Jasse, Lina",F,POREKEREP,Subsistence Farmer,11 Aug 1969
+40,160440323,"Jeft, Laky",F,POREKEREP,Student,07 Feb 2002
+41,160440785,"Jereka, Jececa",F,POREKEREP,Household Duties,21 Feb 1999
+42,160171737,"John, Betty",F,MARAPUL,Student,01 Jan 1986
+43,160188587,"John, Cathy",F,MARAPUL,Household Duties,09 Jun 1970
+44,160440333,"John, Docas",F,MARAPUL,Student,07 Nov 2001
+45,160206837,"John, Docta",F,MARAPUL,Household Duties,01 Jan 1986
+46,160212681,"John, Doketa",F,MARAPUL,Household Duties,01 Jan 1970
+47,25123731,"John, Dorothy",F,MARAPUL,Student,11 Apr 2004
+48,25123732,"John, Melone",F,MARAPUL,Student,19 Aug 2000
+49,25123738,"Jona, Alison",F,KOMBU,Household Duties,17 May 1997
+50,160136227,"Jona, Alowane",F,KOMBU,Store Keeper,14 Aug 1998
+51,160440620,"Jona, Silvia",F,KOMBU,Student,20 Apr 2004
+52,25123739,"Jona, Sovi",F,KOMBU,Student,11 Sep 2000
+53,160207799,"Jonathan, Everlyn",F,POREKEREP,Manager,11 Feb 1974
+54,160196329,"Juk, Kuin",F,POREKEREP,Housegirl,01 Jan 1984
+55,160440475,"Kaima, Rachael",F,POREKEREP,Teacher,17 Sep 2000
+56,160440460,"Kaima, Seminta",F,POREKEREP,Student,13 Dec 2001
+57,160189752,"Kakeiye, Elis",F,POREKEREP,Housegirl,01 Jan 1982
+58,160189750,"Kakeiye, Mandowa",F,POREKEREP,Household Duties,01 Jan 1966
+59,160136331,"Kalopa, Racheal",F,KOMBU,Student,21 Oct 1997
+60,160119303,"Kalopa, Sharon",F,KOMBU,Student,23 Nov 1986
+61,160194438,"Kalsiah, Roiye",F,POREKEREP,Household Duties,01 Jan 1964
+62,160440712,"Kambane, Pheobe",F,POREKEREP,Household Duties,11 Nov 2003
+63,160184898,"Kana, Lucy",F,MARAPUL,Household Duties,01 Jan 1977
+64,160199823,"Kana, Maria",F,MARAPUL,Household Duties,01 Jan 2000
+65,160216221,"Kana, Mikepo",F,MARAPUL,Household Duties,01 Jan 1989
+66,160165779,"Kana, Tarapi",F,MARAPUL,Household Duties,01 Jan 1970
+67,160136336,"Kane, Maria",F,POREKEREP,Household Duties,06 Oct 1986
+68,160440718,"Kane, Stella",F,POREKEREP,Household Duties,25 Jan 2004
+69,160196308,"Kane, Sula",F,POREKEREP,Household Duties,01 Jan 1980
+70,160190541,"Kane, Yawa",F,POREKEREP,Student,01 Jan 1982
+71,160213381,"Kapi, Dekeno",F,POREKEREP,Household Duties,01 Jan 1972
+72,160189986,"Kapi, Elis",F,POREKEREP,Household Duties,09 Apr 1988
+73,160193278,"Karia, Kome",F,KOMBU,Household Duties,01 Jan 1980
+74,160189789,"Karia, Lopeke",F,KOMBU,Household Duties,01 Jan 1988
+75,25123758,"Kelgai, Cathy",F,MARAPUL,Student,11 Mar 2004
+76,160209970,"Kemapu, Kandiye",F,MARAPUL,Housegirl,01 Jan 1974
+77,160210713,"Kemapu, Kelepo",F,MARAPUL,Household Duties,01 Jan 1957
+78,160119122,"Kemapu, Leita",F,MARAPUL,Subsistence Farmer,01 Dec 1996
+79,160439984,"Kemapu, Lenitha",F,MARAPUL,Student,02 Mar 2002
+80,160439982,"Kemapu, Wali",F,MARAPUL,Student,15 May 2003
+81,160210129,"Kemapu, Wameyambo",F,MARAPUL,Household Duties,01 Jan 1967
+82,160207910,"Kewaiye, Tiki",F,KOMBU,Household Duties,01 Jan 1968
+83,160182998,"Kiluwe, Cecilia",F,KOMBU,Housegirl,01 Jan 1989
+84,160187957,"Kiluwe, Kanna",F,KOMBU,Household Duties,01 Jan 1959
+85,160187638,"Kiluwe, Mellen",F,KOMBU,Student,01 Jan 1987
+86,160185981,"Kiwa, Billa",F,POREKEREP,Household Duties,01 Jan 1984
+87,160186051,"Kiwa, Kekina",F,POREKEREP,Household Duties,01 Jan 1980
+88,160189644,"Kiwa, Maine",F,POREKEREP,Household Duties,01 Jan 1970
+89,160190178,"Kiwa, Nip",F,POREKEREP,Student,01 Jan 1974
+90,160185978,"Kiwa, Olike",F,POREKEREP,Household Duties,01 Jan 1980
+91,160207976,"Kiwa, Omba",F,POREKEREP,Household Duties,02 Nov 1964
+92,160218554,"Kololi, Kina",F,POREKEREP,Household Duties,01 Jan 1979
+93,160190014,"Kololi, Kote",F,POREKEREP,Household Duties,01 Jan 1961
+94,160191291,"Korowa, Jospin",F,KOMBU,Student,06 Feb 1990
+95,160199111,"Korowa, Juli",F,KOMBU,Student,04 Jan 1990
+96,160196323,"Korowa, Sena",F,KOMBU,Sales Women,24 Mar 1960
+97,160165259,"Kuleko, Anna",F,MARAPUL,Household Duties,01 Jan 1963
+98,25123769,"Kuleko, Josephine",F,MARAPUL,Student,14 Apr 2004
+99,160178017,"Kuleko, Kaltepo",F,MARAPUL,Household Duties,01 Jan 1978
+100,160175882,"Kuleko, Kina",F,MARAPUL,Nurse,01 Jan 2000
+101,160175874,"Kuleko, Lucy",F,MARAPUL,Student,01 Jan 2000
+102,160440360,"Kuleko, Mariam",F,MARAPUL,Student,08 Sep 2003
+103,160163114,"Kumbeme, Maniembo",F,POREKEREP,Household Duties,01 Jan 2000
+104,160189996,"Kunj, Enep",F,POREKEREP,Household Duties,01 Jan 1975
+105,160207779,"Kupini, Estha",F,KOMBU,Subsistence Farmer,10 Sep 1983
+106,160207902,"Kupini, Lny",F,KOMBU,Student,02 Nov 1984
+107,160167271,"Kupo, Betty",F,MARAPUL,Household Duties,01 Jan 2000
+108,160165373,"Kupo, Catty",F,MARAPUL,Student,01 Jan 1989
+109,160136195,"Kupo, Melinda",F,MARAPUL,Student,25 Jan 1997
+110,160156089,"Kupul, Rose",F,POREKEREP,Student,01 Jan 2000
+111,160440254,"Kuroye, Kalina",F,POREKEREP,Student,11 May 2001
+112,160440319,"Kuroye, Monica",F,POREKEREP,Student,21 Nov 2001
+113,160209733,"Laki, Jerothy",F,POREKEREP,Household Duties,01 Jan 1971
+114,160184849,"Lepi, Joy",F,KOMBU,Student,22 Mar 1984
+115,160185012,"Lepi, Sheron",F,KOMBU,Student,25 Jul 1980
+116,160193824,"Limbiye, Beilinda",F,KOMBU,Student,27 Jan 1986
+117,160193820,"Limbiye, Jerry",F,KOMBU,Household Duties,01 Jan 1972
+118,160193840,"Limbiye, Shina",F,KOMBU,Student,03 Nov 1982
+119,160191372,"Limbiye, Wena",F,KOMBU,Household Duties,01 Jan 1966
+120,160201896,"Loiye, Kandipi",F,POREKEREP,Household Duties,01 Jan 1969
+121,160182728,"Loiye, Margeret",F,POREKEREP,Household Duties,01 Jan 2000
+122,25123775,"Lucas, Anita",F,KOMBU,Student,11 Feb 2000
+123,160173217,"Lukas, Markret",F,POREKEREP,Household Duties,18 Apr 1980
+124,160440545,"Lulas, Ruth",F,POREKEREP,Nurse,13 Apr 2001
+125,160190875,"Maina, Kuku",F,POREKEREP,Household Duties,06 Sep 1970
+126,160119096,"Maine, Dolly",F,POREKEREP,Student,01 Mar 1998
+127,25123780,"Maine, Kipela",F,POREKEREP,Student,15 Mar 2003
+128,160204499,"Maine, Sheron",F,POREKEREP,Household Duties,01 Jan 1979
+129,160204532,"Maine, Walo",F,POREKEREP,Household Duties,01 Jan 1980
+130,160173802,"Maldi, Toea",F,POREKEREP,Household Duties,01 Jan 1973
+131,160439906,"Mangoro, Faith",F,POREKEREP,Student,15 Jul 2000
+132,160439908,"Mangoro, Hope",F,POREKEREP,Store Keeper,10 Oct 2000
+133,160439904,"Mangoro, Joy",F,POREKEREP,Household Duties,16 Jul 2001
+134,160194674,"Manki, Merilin",F,POREKEREP,Housegirl,01 Jan 1982
+135,160204350,"Mantol, Kwin",F,POREKEREP,Household Duties,01 Jan 1968
+136,160207761,"Mapi, Rosna",F,POREKEREP,Student,01 Jan 1988
+137,160188047,"Mata, Bosi",F,POREKEREP,Household Duties,01 Jan 1967
+138,160187942,"Mata, Daiyembo",F,POREKEREP,Housegirl,01 Jan 1985
+139,160213753,"Mata, Ero",F,POREKEREP,Household Duties,01 Jan 1968
+140,160119251,"Mata, Jopi",F,POREKEREP,Student,13 May 1998
+141,160165403,"Mata, Konopu",F,POREKEREP,Student,01 Jan 1974
+142,160177493,"Mata, Matalina",F,POREKEREP,Student,01 Jan 1980
+143,160196772,"Mata, Regina",F,POREKEREP,Student,22 Mar 1985
+144,160196776,"Mata, Rita",F,POREKEREP,Student,06 Apr 1987
+145,160440011,"Mata, Velida",F,POREKEREP,Student,14 Oct 2000
+146,160440588,"Mathin, Dao",F,POREKEREP,Student,08 Apr 2004
+147,160185165,"Mendeli, Hellen",F,POREKEREP,Household Duties,01 Jan 1978
+148,160167635,"Mom, Mandi",F,POREKEREP,Household Duties,12 Oct 1960
+149,160196301,"Moro, Moke",F,POREKEREP,Household Duties,19 Feb 1980
+150,160153566,"Nema, Anna",F,KOMBU,Student,11 Apr 1982
+151,160191280,"Nema, Bakre",F,KOMBU,Household Duties,09 Nov 1974
+152,160201894,"Nema, Dao",F,KOMBU,Household Duties,01 Jan 1964
+153,160198434,"Nema, Ekare",F,KOMBU,Household Duties,01 Jan 2000
+154,160119166,"Nema, Joen",F,KOMBU,Typist,12 Nov 1997
+155,25083048,"Nema, Joen",F,KOMBU,Student,01 Mar 2000
+156,160201464,"Nema, Konde",F,KOMBU,Household Duties,01 Jan 1982
+157,160198301,"Nema, Lilly",F,KOMBU,Student,01 Jan 1988
+158,160151621,"Nema, Lina",F,KOMBU,Housegirl,01 Jan 1978
+159,160155780,"Nema, Marame",F,KOMBU,Subsistence Farmer,11 Apr 1960
+160,160201470,"Nema, Olopo",F,KOMBU,Household Duties,01 Jan 1969
+161,160185023,"Nema, Pilge",F,KOMBU,Household Duties,01 Jan 1964
+162,160201334,"Nema, Tagele",F,KOMBU,Household Duties,01 Jan 1970
+163,25083051,"Nema, Talita",F,KOMBU,Student,11 Mar 2003
+164,25083056,"Nobert, Diana",F,POREKEREP,Student,02 Mar 1998
+165,25083062,"Noke, Careen",F,MARAPUL,Typist,15 Mar 2000
+166,25083064,"Noke, Jenny",F,MARAPUL,Student,24 Feb 2000
+167,160175968,"Nore, Almut",F,MARAPUL,Student,25 Aug 1980
+168,160180767,"Nore, Lapina",F,MARAPUL,Pastor,14 Dec 1970
+169,160171410,"Nore, Rosely",F,MARAPUL,Student,01 Jan 1979
+170,160189640,"Nore, Roslyn",F,MARAPUL,Household Duties,01 Jan 1984
+171,160183101,"Nore, Royena",F,MARAPUL,Student,01 Jan 1990
+172,160188280,"Ole, Bei",F,POREKEREP,Student,01 Jan 1988
+173,160187873,"Ole, Kanombo",F,POREKEREP,Household Duties,01 Jan 1967
+174,160210133,"Ole, Name",F,POREKEREP,Household Duties,01 Jan 1950
+175,160187874,"Ole, Rei",F,POREKEREP,Student,01 Jan 1988
+176,160188285,"Ole, Tamai",F,POREKEREP,Household Duties,01 Jan 1936
+177,160210703,"Ole, Toli",F,POREKEREP,Household Duties,01 Jan 1955
+178,160119252,"Ombo, Joinah",F,POREKEREP,Typist,16 Dec 1987
+179,160168570,"Ombo, Napene",F,POREKEREP,Household Duties,01 Jan 1960
+180,160136189,"Ombo, Oliva",F,POREKEREP,Student,16 Aug 1998
+181,160119253,"Ombo, Rebecca",F,POREKEREP,Subsistence Farmer,11 Mar 1997
+182,25083090,"Ombo, Ruth",F,POREKEREP,Student,20 Nov 1997
+183,160210451,"Ope, Lina",F,POREKEREP,Housegirl,17 Sep 1980
+184,160212435,"Ope, Paulus",F,POREKEREP,Household Duties,20 Jun 1968
+185,160188263,"Ope, Tarapi",F,POREKEREP,Household Duties,01 Jan 1945
+186,25083111,"Paula, Josephine",F,KOMBU,Student,19 Apr 2000
+187,25083122,"Petrus, Anita",F,KOMBU,Household Duties,14 Feb 2000
+188,160136145,"Petrus, Dorothy",F,KOMBU,Household Duties,18 Jan 1991
+189,160187527,"Petrus, Helen",F,KOMBU,Household Duties,29 May 1970
+190,25087286,"Petrus, Julan",F,KOMBU,Housegirl,16 Apr 2004
+191,160173366,"Petrus, Liyana",F,KOMBU,Student,01 Jan 1990
+192,160173359,"Petrus, Paula",F,KOMBU,Student,01 Jan 1982
+193,160440282,"Petrus, Stela",F,KOMBU,Student,11 Oct 2002
+194,160165250,"Petrus, Yapi",F,KOMBU,Typist,08 Oct 1968
+195,160440768,"Pilimbo, Cynthia",F,POREKEREP,Household Duties,02 Mar 2003
+196,160439951,"Pilimbo, Emolin",F,POREKEREP,Student,15 Aug 2001
+197,160440772,"Pilimbo, Monika",F,POREKEREP,Household Duties,08 May 2003
+198,160440770,"Pilimbo, Rachael",F,POREKEREP,Household Duties,18 Mar 2003
+199,160215733,"Piska, Kor",F,POREKEREP,Household Duties,04 Jul 1973
+200,160440680,"Poka, Sheron",F,POREKEREP,Student,28 Feb 2002
+201,160210697,"Poki, Torono",F,POREKEREP,Household Duties,01 Jan 1980
+202,160219029,"Pot, Baldi",F,POREKEREP,Household Duties,01 Jan 1950
+203,160218221,"Pot, Maria",F,POREKEREP,Household Duties,01 Jan 1975
+204,160216395,"Pot, Rera",F,POREKEREP,Household Duties,01 Jan 1985
+205,160219195,"Puka, Anna",F,POREKEREP,Household Duties,01 Jan 1976
+206,160440569,"Randa, Moreen",F,POREKEREP,Student,28 Feb 2004
+207,160440724,"Ranu, Mathew",F,POREKEREP,Student,28 Apr 2002
+208,160136179,"Rape, Nancy",F,POREKEREP,Household Duties,01 Nov 1990
+209,25083180,"Ricky, Dorin",F,KOMBU,Household Duties,27 Jun 1992
+210,160440779,"Roger, Selina",F,POREKEREP,Housegirl,11 Mar 2003
+211,160195981,"Ronowa pera, Margret",F,POREKEREP,Household Duties,01 Jan 1974
+212,160218213,"Rora, Rosana",F,POREKEREP,Household Duties,01 Jan 2000
+213,25083285,"Solo, Pauline",F,POREKEREP,Student,18 Apr 2000
+214,160185141,"Sutol, Net",F,POREKEREP,Household Duties,01 Jan 1973
+215,160175707,"Suwake, Ten",F,POREKEREP,Household Duties,01 Jan 1960
+216,160195955,"Tagune alupase, Wetty",F,POREKEREP,Household Duties,01 Jan 1970
+217,160193111,"Tanguwe, Agnes",F,KOMBU,Student,01 Jan 1988
+218,160193109,"Tanguwe, Lewa",F,KOMBU,Housegirl,01 Jan 1983
+219,160211348,"Tapondol, Keri",F,POREKEREP,Housegirl,01 Jan 1972
+220,160213409,"Tapondol, Lapindil",F,POREKEREP,Household Duties,01 Jan 1949
+221,160211349,"Tapondol, Miriam",F,POREKEREP,Housegirl,01 Jan 1979
+222,160213411,"Tapondol, Penga",F,POREKEREP,Household Duties,01 Jan 1970
+223,160173361,"Tapu, Cathy",F,KOMBU,Student,01 Jan 1982
+224,160197092,"Tapu, Jullie",F,KOMBU,Household Duties,01 Jan 2000
+225,160180786,"Tapu, Jully",F,KOMBU,Housegirl,01 Jan 1971
+226,160180784,"Tapu, Kuku",F,KOMBU,Household Duties,01 Jan 1969
+227,160119361,"Tapu, Lewa",F,KOMBU,Subsistence Farmer,16 Aug 1976
+228,160180794,"Tapu, Naweye",F,KOMBU,Housegirl,01 Jan 1984
+229,160162718,"Tapu, Yuwini",F,KOMBU,Household Duties,01 Jan 1976
+230,25083295,"Tax, Natani",F,MARAPUL,Student,12 Apr 2000
+231,25083301,"Tax, Niomi",F,MARAPUL,Student,13 Apr 2000
+232,160169407,"Tembon, Piyer",F,POREKEREP,Household Duties,01 Jan 1980
+233,160167625,"Ten, Agthar",F,POREKEREP,Household Duties,01 Jan 1970
+234,160119366,"Terum, Cathy",F,POREKEREP,Subsistence Farmer,12 Jun 1991
+235,160440585,"Terum, Maria",F,POREKEREP,Student,28 Mar 2004
+236,160440366,"Terum, Monica",F,POREKEREP,Nurse,28 Jan 1999
+237,160165837,"Tikipi, Kewambo",F,POREKEREP,Household Duties,01 Jan 1979
+238,160440357,"Timon, Joicelyn",F,KOMBU,Student,11 Dec 2003
+239,160210128,"Tiye, Selly",F,POREKEREP,Household Duties,01 Jan 1970
+240,160440671,"Tonny, Kupa",F,POREKEREP,Typist,13 Sep 1998
+241,25083363,"Tonny, Nomila",F,POREKEREP,Student,16 May 1998
+242,25083366,"Tonny, Sophia",F,POREKEREP,Student,16 Aug 2000
+243,160198893,"Toropo, Anjo",F,KOMBU,Household Duties,01 Jan 1956
+244,160153049,"Toropo, Anna",F,KOMBU,Student,01 Jan 2000
+245,160153047,"Toropo, Kagandi",F,KOMBU,Household Duties,01 Jan 2000
+246,160198965,"Toropo, Konga",F,KOMBU,Household Duties,01 Jan 1987
+247,160440678,"Toropo, Koya",F,KOMBU,Student,11 Feb 2001
+248,160198894,"Toropo, Late",F,KOMBU,Student,01 Jan 1983
+249,160139978,"Toropo, Makame",F,KOMBU,Household Duties,01 Jan 2000
+250,160177371,"Toropo, Mote",F,KOMBU,Student,01 Jan 1986
+251,160155889,"Toropo, Nama",F,KOMBU,Household Duties,01 Jan 1960
+252,160165360,"Undi, Esta",F,KOMBU,Household Duties,01 Jan 2000
+253,160163111,"Undi, Kake",F,KOMBU,Household Duties,01 Jan 2000
+254,160119162,"Undi, Kina",F,KOMBU,Household Duties,13 Dec 1996
+255,160119259,"Undi, Rebecca",F,KOMBU,Subsistence Farmer,01 Jan 1994
+256,160188406,"Undi, Simon",F,KOMBU,Household Duties,01 Jan 2000
+257,160148026,"Undi, Tendike",F,KOMBU,Household Duties,01 Jan 2000
+258,160184853,"Wakena, Ester",F,POREKEREP,Student,19 Oct 1986
+259,160184996,"Wakena, Helen",F,POREKEREP,Household Duties,01 Jan 1979
+260,160185006,"Wakena, Helly",F,POREKEREP,Household Duties,17 May 1985
+261,160160251,"Wakena, Jully",F,POREKEREP,Housegirl,01 Jan 1982
+262,160184990,"Wakena, Liya",F,POREKEREP,Student,01 Sep 1987
+263,160185004,"Wakena, Paitame",F,POREKEREP,Household Duties,01 Jan 1969
+264,160184828,"Wakena, Soti",F,POREKEREP,Student,04 Apr 1984
+265,160187760,"Wakena, Tagondo",F,POREKEREP,Household Duties,01 Jan 1961
+266,160184855,"Wakena, Tangopa",F,POREKEREP,Household Duties,01 Jan 1966
+267,160155819,"Wako, Juli",F,MARAPUL,Household Duties,01 Jan 1977
+268,160219035,"Wako, Runi",F,MARAPUL,Household Duties,01 Jan 1969
+269,160194303,"Wandui, Koime",F,MARAPUL,Household Duties,01 Jan 1981
+270,160119283,"Wane, Kuku",F,MARAPUL,Household Duties,13 Sep 1982
+271,160440563,"Wane, Lilan",F,MARAPUL,Teacher,15 Aug 2001
+272,25083420,"Wane, Linda",F,MARAPUL,Household Duties,27 Jul 1999
+273,160188712,"Wane, Margret",F,MARAPUL,Household Duties,01 Jun 1986
+274,160196291,"Wane, Marry",F,MARAPUL,Subsistence Farmer,20 Sep 1963
+275,160212671,"Wane, Peya",F,MARAPUL,Household Duties,20 Sep 1963
+276,160440706,"Wapi, Jenet",F,MARAPUL,Housegirl,29 Dec 1987
+277,160119175,"Wapi, Natalie",F,MARAPUL,Household Duties,14 Dec 1989
+278,160119375,"Wapu, Goergina",F,POREKEREP,Subsistence Farmer,12 Sep 1990
+279,160213259,"Wapu, Mery",F,POREKEREP,Household Duties,18 Dec 1972
+280,160185217,"Warea, Doris",F,POREKEREP,Student,01 Jan 1990
+281,160185378,"Warea, Mondi",F,POREKEREP,Household Duties,01 Jan 1979
+282,160182799,"Warea, Tolly",F,POREKEREP,Household Duties,01 Jan 1990
+283,160171816,"Waria, Maria",F,MARAPUL,Household Duties,01 Jan 1978
+284,160201215,"Warie, Nency",F,MARAPUL,Student,01 Jan 1982
+285,160213247,"Wenjipa, Likim",F,MARAPUL,Household Duties,01 Jan 1964
+286,160212512,"Wenjipa, Weronika",F,MARAPUL,Housegirl,01 Jan 1985
+287,160440776,"Wesly, Akenambo",F,KOMBU,Household Duties,02 Mar 2003
+288,160136329,"Wesly, Doris",F,KOMBU,Student,28 Sep 1989
+289,160182525,"Wet, Nagu",F,POREKEREP,Household Duties,01 Jan 1958
+290,160119106,"Wet, Shiley",F,POREKEREP,Teacher,15 Feb 1989
+291,160206909,"Yakoma, Wareyame",F,MARAPUL,Household Duties,01 Jan 1967
+292,160194741,"Yusep, Wendi",F,MARAPUL,Housegirl,18 Jun 1983
+293,160176152,"Ago, Alex",M,MARAPUL,Student,22 Aug 1985
+294,160119335,"Ake, Goerge",M,POREKEREP,Pastor,13 Jul 1996
+295,160440613,"Ake, Rachael",M,POREKEREP,Subsistence Farmer,28 Apr 2004
+296,160440294,"Alex, Gramon",M,POREKEREP,Student,19 Mar 2004
+297,25123636,"Alex, Tomele",M,POREKEREP,Self Employed,13 Aug 2000
+298,160190547,"Altu, Ponenge",M,POREKEREP,Subsistence Farmer,01 Jan 1976
+299,160167856,"Ande, John",M,POREKEREP,Subsistence Farmer,01 Jan 1985
+300,160167288,"Ande, Kanda",M,POREKEREP,Subsistence Farmer,01 Jan 1989
+301,160167696,"Ande, Thomas",M,POREKEREP,Subsistence Farmer,01 Jan 2000
+302,160167289,"Ande, Waine",M,POREKEREP,Subsistence Farmer,01 Jan 2000
+303,25123644,"Andrew, Alponse",M,POREKEREP,Student,07 Nov 2003
+304,160119256,"Andrew, Jessy",M,POREKEREP,Self Employed,24 May 1995
+305,25123645,"Andrew, Maron",M,POREKEREP,Crewman,08 Sep 2003
+306,25123646,"Andrew, Melvin",M,POREKEREP,Student,14 Jul 2003
+307,160213824,"Andrew, Rex",M,POREKEREP,Student,01 Jan 1985
+308,160119255,"Andrew, Samson",M,POREKEREP,Electrician,12 Feb 1989
+309,160153664,"Andrew, Tendepo",M,POREKEREP,Student,04 Jan 1987
+310,160188298,"Angopa, Aiye",M,POREKEREP,Subsistence Farmer,01 Jan 1980
+311,160185275,"Angopa, John",M,POREKEREP,Crewman,01 Jan 1979
+312,160188279,"Angopa, Ole",M,POREKEREP,Subsistence Farmer,01 Jan 1961
+313,160188296,"Angopa, Wala",M,POREKEREP,Subsistence Farmer,01 Jan 1976
+314,160159061,"Anjo, Ake",M,POREKEREP,Driver,09 Apr 1979
+315,160440541,"Anju, Benny",M,POREKEREP,Subsistence Farmer,15 Feb 2000
+316,160440539,"Anju, Boima",M,POREKEREP,Health Officer,28 Aug 2002
+317,160440537,"Anju, Pepuli",M,POREKEREP,Student,28 Dec 2003
+318,160163108,"Anumu, Karia",M,POREKEREP,Subsistence Farmer,01 Jan 2000
+319,160163119,"Anumu, Tomano",M,POREKEREP,Student,01 Jan 2000
+320,160163109,"Anumu, Yala",M,POREKEREP,Carpenter,01 Jan 2000
+321,160169260,"Apa, Atega",M,POREKEREP,Subsistence Farmer,17 Jan 1969
+322,160169267,"Apa, Koukera",M,POREKEREP,Subsistence Farmer,21 Jun 1950
+323,25123650,"Apa, Makipe",M,POREKEREP,Student,23 Feb 2000
+324,160146666,"Apa, Mata",M,POREKEREP,Subsistence Farmer,01 Jan 1977
+325,25123651,"Apa, Yopoldo",M,POREKEREP,Student,01 Feb 1999
+326,160440224,"Apa, Yupe",M,POREKEREP,Student,13 Jul 2003
+327,160136174,"Aret, Daniel",M,POREKEREP,Subsistence Farmer,16 Aug 1996
+328,160136175,"Aret, Matten",M,POREKEREP,Student,04 Sep 1998
+329,160440699,"Aret, Melpin",M,POREKEREP,Subsistence Farmer,27 Sep 1989
+330,160213632,"Aret, Samuel",M,POREKEREP,Student,01 Jan 1981
+331,160119201,"Aret, Ten",M,POREKEREP,Subsistence Farmer,11 Jun 1993
+332,160155770,"Bai, Nema",M,POREKEREP,Subsistence Farmer,13 Nov 1962
+333,160440661,"Bere, Kolakula",M,POREKEREP,Salesman,17 Nov 2002
+334,160440662,"Bere, Peter",M,POREKEREP,Pastor,03 Feb 2001
+335,160169025,"Bunungu, Mathew",M,POREKEREP,Subsistence Farmer,01 Jan 1982
+336,160212583,"Cameron, Stanley",M,POREKEREP,Subsistence Farmer,26 Apr 1986
+337,160119152,"Daipe, Damien",M,POREKEREP,Carpenter,12 Feb 1999
+338,160119278,"David, Henry",M,POREKEREP,Student,14 Aug 1992
+339,160182729,"David, John",M,POREKEREP,Driver,01 Jan 1964
+340,160119277,"David, Rodney",M,POREKEREP,Driver,27 Jan 1996
+341,160194412,"David, Wills",M,POREKEREP,Student,01 Jan 1983
+342,160210165,"Diwi, Noke",M,POREKEREP,Student,01 Jan 1985
+343,160212438,"Diwi, Robert",M,POREKEREP,Clerk,01 Jan 1978
+344,160173333,"Enge, Wane",M,MARAPUL,Subsistence Farmer,01 Jan 1978
+345,160119229,"Garu, Abram",M,POREKEREP,Subsistence Farmer,01 Apr 1993
+346,160136182,"Garu, Gabriel",M,POREKEREP,Student,01 Dec 1995
+347,160191128,"Garu, Jack",M,KOMBU,Subsistence Farmer,01 Jan 1974
+348,160193254,"Garu, Luke",M,POREKEREP,Student,01 Jan 1983
+349,160119230,"Garu, Manu",M,POREKEREP,Student,01 Feb 1997
+350,160119228,"Garu, Manuel",M,POREKEREP,Subsistence Farmer,16 Feb 1998
+351,160163102,"Garu, Samuel",M,POREKEREP,Subsistence Farmer,01 Jan 2000
+352,160440316,"George, Andrew",M,MARAPUL,Student,14 Feb 2001
+353,160188610,"Goraiye, Alko",M,POREKEREP,Subsistence Farmer,17 Dec 1964
+354,160218922,"Hani, Stanely",M,POREKEREP,Subsistence Farmer,01 Jan 1968
+355,160201338,"Inje, Aiye",M,POREKEREP,Subsistence Farmer,01 Jan 2000
+356,160440430,"Jerry, Kewa",M,POREKEREP,Subsistence Farmer,16 Jun 2002
+357,160440327,"Jerry, Raton",M,POREKEREP,Student,02 Aug 2002
+358,160439925,"Jim, Jabet",M,POREKEREP,Student,21 Jan 2001
+359,160439927,"Jim, Jammy",M,POREKEREP,Student,15 Aug 2002
+360,25123721,"Jim, Lomex",M,POREKEREP,Student,28 May 1999
+361,160119177,"John, Bradley",M,POREKEREP,Student,14 Sep 1996
+362,160159049,"John, Giris",M,POREKEREP,Subsistence Farmer,08 Apr 1969
+363,160155825,"John, Guli",M,POREKEREP,Manager,26 Apr 1972
+364,160153642,"John, Iltila",M,POREKEREP,Student,12 Apr 1986
+365,160439939,"John, Jairon",M,POREKEREP,Student,25 May 2003
+366,160215404,"John, Mara",M,MARAPUL,Student,05 Mar 1974
+367,160183000,"John, Niningi",M,MARAPUL,Driver,04 Nov 1967
+368,160119379,"John, Norman",M,MARAPUL,Subsistence Farmer,24 Apr 1981
+369,160155837,"John, Pulume",M,MARAPUL,Subsistence Farmer,03 Feb 1962
+370,160213384,"John, Royka",M,MARAPUL,Student,08 Apr 1984
+371,160439942,"John, Ruthjohns",M,MARAPUL,Student,15 Oct 2000
+372,160249616,"John, Steven",M,MARAPUL,Student,01 Jan 1990
+373,25123737,"John, Thomson",M,MARAPUL,Student,11 Feb 2000
+374,160136330,"Kalopa, Lomai",M,KOMBU,Subsistence Farmer,18 Sep 1982
+375,160119304,"Kalopi, Anthony",M,POREKEREP,Student,11 Mar 1989
+376,160158915,"Kana, Paul",M,MARAPUL,Student,01 Jan 1985
+377,160201326,"Kana, Pilimbo",M,MARAPUL,Subsistence Farmer,01 Jan 2000
+378,160158907,"Kana, Suambololi",M,MARAPUL,Subsistence Farmer,01 Jan 1962
+379,160162903,"Kana, Yawa",M,MARAPUL,Subsistence Farmer,01 Jan 1961
+380,160196656,"Kane, Moro",M,POREKEREP,Student,04 Nov 1979
+381,160155900,"Kape, Philip",M,POREKEREP,Subsistence Farmer,01 Jan 1976
+382,160160177,"Kara, Palus",M,POREKEREP,Student,01 Jan 1982
+383,160158959,"Kara, Ware",M,POREKEREP,Subsistence Farmer,01 Jan 1968
+384,160218916,"Karapus, Cent",M,POREKEREP,Subsistence Farmer,01 Jan 1972
+385,160218918,"Karapus, Gebrael",M,POREKEREP,Subsistence Farmer,01 Jan 1954
+386,160219045,"Karapus, Korari",M,POREKEREP,Subsistence Farmer,01 Jan 1964
+387,160201636,"Karia, Nasol",M,KOMBU,Subsistence Farmer,01 Jan 1957
+388,160196543,"Karl, Ema",M,POREKEREP,Worker,01 Jan 1969
+389,160440729,"Karl, Mini",M,POREKEREP,Student,13 Apr 1998
+390,160193192,"Kedikiye, Kambu",M,POREKEREP,Student,01 Jan 2000
+391,160191081,"Kedikiye, Onda",M,POREKEREP,Subsistence Farmer,01 Jan 1979
+392,25123757,"Kelgai, Benson",M,MARAPUL,Student,28 Jan 2000
+393,160439990,"Kemapu, Billy",M,MARAPUL,Subsistence Farmer,02 Feb 2003
+394,160439988,"Kemapu, Garry",M,MARAPUL,Subsistence Farmer,10 Oct 2000
+395,160439896,"Kemapu, Jeromaih",M,MARAPUL,Mechanic,18 Sep 2003
+396,160439986,"Kemapu, Jessy",M,MARAPUL,Student,17 Feb 2003
+397,160439992,"Kemapu, Josul",M,MARAPUL,Subsistence Farmer,20 Jul 2002
+398,160209726,"Kemapu, Peter",M,MARAPUL,Student,01 Jan 1987
+399,160182988,"Kengepu, Kiluwe",M,KOMBU,Worker,01 Jan 1964
+400,160201633,"Kepa, Tax",M,MARAPUL,Subsistence Farmer,01 Jan 1964
+401,160139976,"Kevin, Tonny",M,ALOWANE,Subsistence Farmer,01 Jan 2000
+402,160440429,"Kewa, Abrham",M,POREKEREP,Teacher,04 Jun 2003
+403,160216645,"Kewa, Bensemin",M,POREKEREP,Student,01 Jan 1977
+404,160156072,"Kewa, Clancy",M,POREKEREP,Student,01 Jan 1982
+405,160153656,"Kewa, Joel",M,POREKEREP,Student,01 Jan 1971
+406,160119274,"Kewa, Jonathan",M,POREKEREP,Student,11 Nov 1998
+407,160187408,"Kewa, Kelly",M,POREKEREP,Student,01 Jan 1984
+408,160182962,"Kewa, Nelson",M,POREKEREP,Student,01 Jan 1989
+409,160136343,"Kewa, Thomas",M,POREKEREP,Subsistence Farmer,14 Oct 1987
+410,160119318,"Kewa, Timon",M,POREKEREP,Subsistence Farmer,25 Oct 1981
+411,160187083,"Kewa, Tona",M,POREKEREP,Subsistence Farmer,01 Jan 1977
+412,160218428,"Kewa, Wara",M,POREKEREP,Student,01 Jan 1975
+413,160185140,"Kewa, Willi",M,POREKEREP,Student,01 Jan 1987
+414,160207808,"Kewaiye, Atiki",M,KOMBU,Student,01 Jan 1978
+415,160207058,"Kewaiye, Matoli",M,KOMBU,Mechanic,01 Jan 1972
+416,160207809,"Kewaiye, Moses",M,KOMBU,Student,01 Jan 1988
+417,160207806,"Kewaiye, Tomoiye",M,KOMBU,Subsistence Farmer,01 Jan 1981
+418,160182996,"Kiluwe, Jeremaiah",M,KOMBU,Student,01 Jan 1984
+419,160182992,"Kiluwe, Jonna",M,KOMBU,Student,01 Jan 1980
+420,160440719,"Kim, Paul",M,POREKEREP,Subsistence Farmer,11 Jan 1986
+421,160177887,"Kina, Mandea",M,POREKEREP,Subsistence Farmer,01 Jan 1969
+422,160189745,"Kina, Pareka",M,POREKEREP,Subsistence Farmer,01 Jan 1982
+423,160184970,"Kiwa, Jacob",M,POREKEREP,Driver,01 Jan 1968
+424,160186998,"Kiwa, Kemmis",M,POREKEREP,Subsistence Farmer,01 Jan 1981
+425,160210163,"Kiwa, Mandeye",M,POREKEREP,Subsistence Farmer,13 Jun 1963
+426,160184975,"Kiwa, Michael",M,POREKEREP,Not Specified,01 Jan 1975
+427,160209932,"Kiwa, Pareka",M,POREKEREP,Subsistence Farmer,12 Jun 1960
+428,160209776,"Kiwa, Yakop",M,POREKEREP,Subsistence Farmer,12 Aug 1969
+429,160159081,"Klinton, Tilto",M,POREKEREP,Student,21 Nov 1987
+430,160191287,"Koepa, Nema",M,POREKEREP,Subsistence Farmer,01 Jan 1971
+431,160193178,"Koilo, Kuleko",M,POREKEREP,Subsistence Farmer,01 Jan 1959
+432,160190600,"Koilo, Pora",M,POREKEREP,Subsistence Farmer,01 Jan 2000
+433,160190016,"Kolopa, Karaiye",M,POREKEREP,Subsistence Farmer,01 Jan 1950
+434,160189735,"Kolopa, Koropu",M,POREKEREP,Subsistence Farmer,01 Jan 1982
+435,160191082,"Kompo, Mape",M,POREKEREP,Subsistence Farmer,01 Jan 1960
+436,160199121,"Korowa, Jacob",M,KOMBU,Student,05 Dec 1988
+437,160222118,"Korowa, Nore",M,KOMBU,Subsistence Farmer,01 Jan 1949
+438,160206929,"Korowa, Waiye",M,KOMBU,Subsistence Farmer,01 Jan 1968
+439,160216237,"Korowa, Wakaile",M,KOMBU,Subsistence Farmer,01 Jan 1958
+440,160196325,"Korowa, Wal",M,KOMBU,Subsistence Farmer,19 Feb 1943
+441,160184905,"Koyaiye, Lepi",M,KOMBU,Councillor,01 Jan 1966
+442,160184851,"Koyaiye, Limbiye",M,KOMBU,Pastor,01 Jan 1968
+443,25123768,"Kuleko, Baron",M,MARAPUL,Student,23 Sep 2003
+444,160440359,"Kuleko, Jessy",M,MARAPUL,Student,14 Mar 2001
+445,160160345,"Kuleko, Kelkai",M,MARAPUL,Soldier,01 Jan 1970
+446,160173728,"Kuleko, Kelly",M,MARAPUL,Soldier,01 Jan 2000
+447,160175887,"Kuleko, Noke",M,MARAPUL,Subsistence Farmer,01 Jan 2000
+448,160160780,"Kuleme, John",M,POREKEREP,Subsistence Farmer,13 Jan 1984
+449,160185879,"Kuleme, Kopeya",M,POREKEREP,Baker,11 Aug 1977
+450,160207796,"Kupini, Jonathan",M,KOMBU,Manager,07 Jun 1972
+451,160206906,"Kupini, Peipul",M,KOMBU,Pastor,12 Oct 1979
+452,160207893,"Kupini, Pendene",M,KOMBU,Subsistence Farmer,11 Dec 1983
+453,160193842,"Kupo, Max",M,MARAPUL,Accountant,01 Jan 1936
+454,160119118,"Kupo, Mek",M,MARAPUL,Student,09 Nov 1994
+455,160119302,"Kupo, Nedipo",M,MARAPUL,Student,06 Mar 1988
+456,160119119,"Kupo, Raka",M,MARAPUL,Student,30 Dec 1996
+457,160440454,"Laime, Martin",M,POREKEREP,Student,22 Sep 2000
+458,160440582,"Lepi, Kevin",M,KOMBU,Student,28 Apr 2004
+459,160193821,"Limbiye, Justin",M,KOMBU,Student,07 Dec 1978
+460,160176245,"Loiye, James",M,POREKEREP,Not Specified,01 Jan 2000
+461,160182726,"Loiye, Maine",M,POREKEREP,Subsistence Farmer,01 Jan 2000
+462,160176248,"Loiye, Samuel",M,POREKEREP,Student,01 Jan 2000
+463,160176141,"Loiye, Yamos",M,POREKEREP,Student,01 Jan 1987
+464,160182922,"Loraiye, Lucas",M,POREKEREP,Student,01 Jan 2000
+465,160119174,"Lucas, Grace",M,POREKEREP,Student,13 Feb 1998
+466,160136226,"Lucas, Jim",M,POREKEREP,Driver,14 Jan 1996
+467,160204530,"Maine, Andrew",M,POREKEREP,Subsistence Farmer,01 Jan 1978
+468,25123781,"Maine, Mukiye",M,POREKEREP,Student,12 Jul 2000
+469,160204533,"Maine, Rex",M,POREKEREP,Student,01 Jan 1986
+470,160439898,"Mangoro, Manu",M,POREKEREP,Store Keeper,18 Aug 2001
+471,160439979,"Mangoro, Mayken",M,POREKEREP,Salesman,14 Aug 2003
+472,160439901,"Mangoro, Raden",M,POREKEREP,Salesman,09 Feb 2000
+473,160439977,"Mangoro, Solomon",M,POREKEREP,Carpenter,15 Apr 2001
+474,160440306,"Marson, Cameron",M,POREKEREP,Student,24 Jan 2003
+475,160440478,"Mata, Allan",M,POREKEREP,Self Employed,05 Feb 1986
+476,160196224,"Mata, Jerry",M,POREKEREP,Subsistence Farmer,01 Jan 2000
+477,25123790,"Mata, Nick",M,POREKEREP,Student,18 Jun 2000
+478,160187400,"Mata, Nobert",M,POREKEREP,Student,01 Jan 1987
+479,160440009,"Mata, Timson",M,POREKEREP,Student,04 Oct 2003
+480,160119250,"Mata, Tonny",M,POREKEREP,Driver,13 Jul 1996
+481,25123802,"Melpin, Lolen",M,POREKEREP,Student,03 Jun 1999
+482,160191349,"Membi, Tomsn",M,POREKEREP,Student,01 Jan 1988
+483,160184831,"Mepa, Doa",M,POREKEREP,Subsistence Farmer,01 Jan 1981
+484,160184835,"Mepa, Noel",M,POREKEREP,Student,01 Jan 1987
+485,160185019,"Mepa, Yoko",M,POREKEREP,Subsistence Farmer,01 Jan 1973
+486,160440577,"Mepsi, Korowa",M,POREKEREP,Subsistence Farmer,28 Mar 2004
+487,160440403,"Milas, Maya",M,POREKEREP,Manager,05 Sep 2001
+488,160197231,"Mine, John",M,MARAPUL,Carpenter,01 Jan 1974
+489,160201919,"Miriye, Kop",M,POREKEREP,Student,01 Jan 1978
+490,160207973,"Misikewa, Kewa",M,POREKEREP,Subsistence Farmer,30 Nov 1977
+491,160185266,"Moke mendeli, Bepi",M,POREKEREP,Household Duties,01 Jan 1971
+492,160173214,"Mom, Jane",M,POREKEREP,Student,04 Sep 1980
+493,160198964,"Mom, Mandi",M,POREKEREP,Subsistence Farmer,01 Jan 1972
+494,160177490,"Mom, Pokopiye",M,POREKEREP,Subsistence Farmer,01 Jan 1971
+495,160198897,"Nakanoli, Kuleko",M,MARAPUL,Subsistence Farmer,01 Jan 1961
+496,160216193,"Nap, Alex",M,MARAPUL,Student,01 Jan 1989
+497,160136201,"Nap, Gilbert",M,MARAPUL,Subsistence Farmer,06 Jun 1998
+498,160216234,"Nap, Stenly",M,MARAPUL,Student,01 Jan 1986
+499,25083044,"Nema, Anda",M,KOMBU,Student,27 Aug 2001
+500,160198912,"Nema, Andrew",M,KOMBU,Subsistence Farmer,01 Jan 1967
+501,160153571,"Nema, Apa",M,KOMBU,Subsistence Farmer,01 Jan 2000
+502,160189805,"Nema, Jop",M,KOMBU,Student,06 Jul 1989
+503,160197062,"Nema, Joseph",M,KOMBU,Student,01 Jan 1981
+504,160201466,"Nema, Makop",M,KOMBU,Subsistence Farmer,01 Jan 1969
+505,160196484,"Nema, Norman",M,KOMBU,Subsistence Farmer,01 Jan 2000
+506,160201333,"Nema, Paulos",M,KOMBU,Subsistence Farmer,01 Jan 1972
+507,160185028,"Nema, Sailes",M,KOMBU,Subsistence Farmer,01 Jan 1986
+508,160153559,"Nema, Steven",M,KOMBU,Student,13 Dec 1978
+509,160136217,"Nema, Tapu",M,KOMBU,Subsistence Farmer,18 Aug 1996
+510,160153569,"Nema, Tenge",M,KOMBU,Subsistence Farmer,01 Jan 2000
+511,160151519,"Nema, Tonny",M,KOMBU,Student,01 Jan 1990
+512,160153666,"Nema, Willie",M,KOMBU,Subsistence Farmer,10 May 1980
+513,160440290,"Nembo, Willy",M,POREKEREP,Student,02 Dec 2002
+514,160440256,"Nicky, Pera",M,KOMBU,Student,21 Apr 2001
+515,160207766,"Niye, Kewaiye",M,KOMBU,Subsistence Farmer,01 Jan 1949
+516,160207812,"Niye, Membi",M,POREKEREP,Subsistence Farmer,01 Jan 1955
+517,25083054,"Nobert, Anda",M,POREKEREP,Student,12 May 1997
+518,160440645,"Nobert, Raka",M,POREKEREP,Student,07 Sep 2001
+519,160440261,"Nobert, Samuel",M,POREKEREP,Student,19 Oct 2001
+520,160173750,"Noke, Hickson",M,POREKEREP,Student,01 Jan 1983
+521,160439955,"Noke, Kale",M,POREKEREP,Student,15 Jul 2001
+522,160439961,"Noke, Milas",M,POREKEREP,Student,09 Feb 2000
+523,25083066,"Noke, Nickson",M,POREKEREP,Student,26 Apr 2003
+524,160160656,"Noke, Nokosen",M,POREKEREP,Subsistence Farmer,01 Jan 1967
+525,160182768,"Noma, Eas",M,KOMBU,Subsistence Farmer,29 Oct 1968
+526,160160404,"Noma, Puringi",M,KOMBU,Subsistence Farmer,01 Jan 1943
+527,160176132,"Noma, Tenis",M,KOMBU,Subsistence Farmer,08 Feb 1970
+528,25083072,"Nonge, Pulye",M,POREKEREP,Student,16 May 2003
+529,160440007,"Nonge, Timi",M,POREKEREP,Student,04 Oct 2000
+530,160183092,"Nore, Jackson",M,MARAPUL,Student,01 Jan 2000
+531,160119081,"Nore, Johnson",M,MARAPUL,Mechanic,16 Jun 1996
+532,160136220,"Nore, Lucas",M,MARAPUL,Student,09 Apr 1999
+533,160180771,"Nore, Nati",M,MARAPUL,Student,26 Aug 1980
+534,160168616,"Nore, Opi",M,MARAPUL,Subsistence Farmer,01 Jan 1964
+535,160182879,"Nore, Roda",M,MARAPUL,Student,02 Dec 1990
+536,25083075,"Nore, Samuel",M,MARAPUL,Student,14 Apr 2000
+537,160210135,"Ole, Ninde",M,POREKEREP,Teacher,01 Jan 1963
+538,160187875,"Ole, Richard",M,POREKEREP,Student,01 Jan 1987
+539,25083084,"Omba, Ismael",M,POREKEREP,Student,02 May 2000
+540,160439997,"Omba, Joel",M,POREKEREP,Student,14 Sep 2000
+541,160439998,"Omba, Kepa",M,POREKEREP,Student,29 Dec 2000
+542,160440000,"Omba, Naili",M,POREKEREP,Student,14 Dec 2000
+543,160182895,"Omba, Ninge",M,POREKEREP,Security,01 Jan 1980
+544,160213368,"Omba, Petrus",M,POREKEREP,Student,12 Mar 1978
+545,160440222,"Omba, Puni",M,POREKEREP,Student,11 Jan 2003
+546,25083086,"Omba, Rendy",M,POREKEREP,Student,29 Apr 2000
+547,160440615,"Ombo, Jiambil",M,POREKEREP,Student,28 Apr 2004
+548,25083088,"Ombo, Moses",M,POREKEREP,Student,17 Apr 2000
+549,160119254,"Ombo, Western",M,POREKEREP,Student,01 Jan 1998
+550,160213587,"Opi, Pilimbo",M,POREKEREP,Student,01 Jan 1983
+551,160204507,"Pangua, Goraye",M,POREKEREP,Subsistence Farmer,01 Jan 1948
+552,160194431,"Paraka, Benney",M,POREKEREP,Subsistence Farmer,11 Jun 1975
+553,160187642,"Paraka, James",M,POREKEREP,Doctor,01 Jan 1982
+554,160136321,"Paraka, Joe",M,POREKEREP,Driver,14 Jul 1981
+555,160197122,"Paraka, Kereda",M,POREKEREP,Subsistence Farmer,19 Feb 1962
+556,160187672,"Paraka, Mathew",M,POREKEREP,Subsistence Farmer,01 Jan 1978
+557,160119286,"Paraka, Moris",M,POREKEREP,Student,21 Mar 1987
+558,160197107,"Paraka, Noki",M,POREKEREP,Subsistence Farmer,23 Jun 1976
+559,160175880,"Paraka, Onda",M,POREKEREP,Subsistence Farmer,06 Sep 1982
+560,160187611,"Paraka, Philip",M,POREKEREP,Subsistence Farmer,01 Jan 2000
+561,160187618,"Paraka, Simboi",M,POREKEREP,Subsistence Farmer,01 Jan 2000
+562,160190543,"Paraka, Tamalu",M,POREKEREP,Subsistence Farmer,04 Feb 1967
+563,160162655,"Paraka, Waria",M,POREKEREP,Subsistence Farmer,01 Jan 1964
+564,160165149,"Paru, Jonah",M,KOMBU,Student,16 Sep 1982
+565,160159086,"Paru, Petrus",M,KOMBU,Student,02 Nov 1980
+566,160162737,"Pepena, Ricky",M,KOMBU,Student,07 Apr 1985
+567,160194664,"Pera, Manari",M,KOMBU,Subsistence Farmer,05 Apr 1970
+568,160160683,"Petrus, Andi",M,KOMBU,Student,09 Jun 1988
+569,160187524,"Petrus, Garu",M,KOMBU,Church Worker,10 Nov 1968
+570,160165258,"Petrus, Jenifer",M,KOMBU,Student,09 Jun 1980
+571,160171785,"Petrus, Lawe",M,KOMBU,Student,04 Feb 1973
+572,25083126,"Petrus, Noel",M,KOMBU,Driver,12 Mar 2000
+573,160180793,"Petrus, Robert",M,KOMBU,Student,01 Jan 1986
+574,160440304,"Petrus, Robun",M,KOMBU,Student,28 Apr 2003
+575,160182871,"Petrus, Saimon",M,KOMBU,Student,08 Jul 1982
+576,160160782,"Petrus, Yupe",M,KOMBU,Subsistence Farmer,09 Jun 1960
+577,160163125,"Pilimbo, Brendy",M,POREKEREP,Student,01 Jan 2000
+578,160439947,"Pilimbo, Felix",M,POREKEREP,Student,16 Apr 2001
+579,25083132,"Pilimbo, Melchizedech",M,POREKEREP,Student,22 May 2000
+580,160163106,"Pilimbo, Rasty",M,POREKEREP,Student,01 Jan 2000
+581,160439949,"Pilimbo, Robin",M,POREKEREP,Student,05 Mar 2000
+582,160210139,"Piliwi, Alekou",M,POREKEREP,Teacher,01 Jan 1956
+583,160218216,"Pot, John",M,POREKEREP,Student,01 Jan 1980
+584,160173370,"Pote, Glen",M,POREKEREP,Student,01 Jan 1974
+585,160212431,"Pote, James",M,POREKEREP,Student,06 Oct 1984
+586,25083142,"Pote, Keneth",M,POREKEREP,Student,24 Mar 1998
+587,160119091,"Pote, Mike",M,POREKEREP,Student,18 Jul 1996
+588,160187048,"Pote, Opa",M,POREKEREP,Subsistence Farmer,08 Jan 1963
+589,160171781,"Pote, Peter",M,POREKEREP,Subsistence Farmer,19 Feb 1982
+590,160119218,"Rex, Ila",M,POREKEREP,Student,01 Jan 1997
+591,160440334,"Rex, Rame",M,POREKEREP,Student,11 Mar 2002
+592,160440519,"Rex, Yope",M,POREKEREP,Student,01 Feb 2001
+593,160169060,"Samson, Kupo",M,MARAPUL,Subsistence Farmer,04 Mar 1970
+594,160440741,"Samuel, Konome",M,POREKEREP,Carpenter,14 Mar 1986
+595,160165351,"Samuel, Livae",M,POREKEREP,Student,01 Jan 1984
+596,160155958,"Samuel, Thomas",M,POREKEREP,Subsistence Farmer,04 Jun 1987
+597,160191127,"Tanguwe, Billy",M,KOMBU,Subsistence Farmer,01 Jan 1976
+598,160193119,"Tanguwe, Kerepa",M,KOMBU,Student,01 Jan 1986
+599,160193113,"Tanguwe, Kondi",M,KOMBU,Subsistence Farmer,01 Jan 1977
+600,160193086,"Tanguwe, Tennis",M,KOMBU,Subsistence Farmer,01 Jan 1980
+601,160173195,"Tapu, Amos",M,KOMBU,Student,01 Jan 1980
+602,160155824,"Tapu, Issac",M,KOMBU,Subsistence Farmer,01 Jan 1982
+603,160220463,"Tapu, Luke",M,KOMBU,Subsistence Farmer,01 Jan 1969
+604,160180787,"Tapu, Paul",M,KOMBU,Student,01 Jan 1976
+605,160196882,"Taputak, Biket",M,POREKEREP,Subsistence Farmer,01 Jan 1976
+606,160439964,"Ten, Bobby",M,POREKEREP,Student,15 Feb 2000
+607,160136176,"Terum, Samuel",M,POREKEREP,Driver,27 Dec 1994
+608,160165836,"Terum, Tikipi",M,POREKEREP,Pastor,01 Jan 1973
+609,160440289,"Timon, Bredon",M,KOMBU,Student,11 Mar 2004
+610,160440355,"Timon, Kingston",M,KOMBU,Electrician,14 Jun 2000
+611,160440356,"Timon, Paiye",M,KOMBU,Student,26 Jan 2002
+612,160190616,"Tongela, Kusa",M,POREKEREP,Subsistence Farmer,01 Jan 1956
+613,160190624,"Tongela, Mark",M,POREKEREP,Salesman,01 Jan 1978
+614,160177505,"Toropo, Akson",M,KOMBU,Subsistence Farmer,01 Jan 1957
+615,25083378,"Toropo, David",M,KOMBU,Student,07 Jun 2000
+616,160133082,"Toropo, Elizah",M,KOMBU,Student,14 Feb 1997
+617,160139980,"Toropo, Iki",M,KOMBU,Student,01 Jan 1983
+618,160177489,"Toropo, Jacob",M,KOMBU,Subsistence Farmer,01 Jan 1986
+619,160185961,"Toropo, Kewa",M,KOMBU,Subsistence Farmer,01 Jan 1986
+620,160155878,"Toropo, Paul",M,KOMBU,Subsistence Farmer,01 Jan 1981
+621,160139979,"Toropo, Pilimbo",M,KOMBU,Subsistence Farmer,01 Jan 2000
+622,160136196,"Undi, Junia",M,KOMBU,Student,14 Jun 1997
+623,160188420,"Undi, Mark",M,KOMBU,Student,01 Jan 2000
+624,160119260,"Undi, Thomas",M,KOMBU,Subsistence Farmer,22 Apr 1995
+625,160167628,"Wain, Mowe",M,MARAPUL,Subsistence Farmer,01 Jan 1977
+626,160203643,"Waise, Jude",M,MARAPUL,Subsistence Farmer,01 Jan 1967
+627,160188391,"Wakapu, Tilso",M,MARAPUL,Subsistence Farmer,01 Jan 1941
+628,160184904,"Wakena, Denial",M,POREKEREP,Student,02 Nov 1985
+629,160184902,"Wakena, James",M,POREKEREP,Student,21 Jul 1983
+630,160135968,"Wakena, Norman",M,POREKEREP,Sales Women,21 Feb 1996
+631,160185056,"Wakena, Pawa",M,POREKEREP,Student,10 Mar 1981
+632,160440285,"Wako, Numan",M,MARAPUL,Student,17 Mar 2001
+633,160185076,"Wako, Onga",M,MARAPUL,Subsistence Farmer,01 Jan 1979
+634,160180785,"Wako, Petrus",M,MARAPUL,Subsistence Farmer,01 Jan 1960
+635,160218223,"Wako, Pote",M,MARAPUL,Houseboy,01 Jan 1981
+636,160197006,"Walene, Taine",M,MARAPUL,Subsistence Farmer,01 Jan 2000
+637,160207891,"Walimbo, Kupini",M,MARAPUL,Councillor,01 Jan 1951
+638,160196189,"Walimbu, Puwaka",M,MARAPUL,Subsistence Farmer,07 Aug 1972
+639,160180388,"Wambu, Wesley",M,MARAPUL,Subsistence Farmer,01 Jan 1986
+640,160440065,"Wamis, Roy",M,MARAPUL,Student,10 Oct 2002
+641,160194145,"Wandui, Ape",M,MARAPUL,Subsistence Farmer,01 Jan 1986
+642,160194815,"Wandui, Roberd",M,MARAPUL,Subsistence Farmer,01 Jan 1981
+643,160212564,"Wane, Lock",M,MARAPUL,Subsistence Farmer,29 Jun 1972
+644,25083425,"Wane, Ludwik",M,MARAPUL,Student,18 Feb 2000
+645,160211298,"Wane, Mark",M,MARAPUL,Subsistence Farmer,20 Jun 1978
+646,160173224,"Wane, Pepena",M,MARAPUL,Peace Officer,14 Apr 1964
+647,160136171,"Wane, Puke",M,MARAPUL,Student,03 Jun 1997
+648,160220471,"Wane, Robert",M,MARAPUL,Student,01 Jan 1984
+649,160119188,"Wane, Roger",M,MARAPUL,Subsistence Farmer,06 Jun 1987
+650,160188242,"Wane, Steven",M,MARAPUL,Student,06 Mar 1980
+651,160155883,"Wanpis, Noma",M,MARAPUL,Teacher,14 Apr 1975
+652,160139977,"Wapo, Toropo",M,MARAPUL,Subsistence Farmer,01 Jan 2000
+653,160213243,"Wapu, Femen",M,POREKEREP,Worker,07 May 1968
+654,160136177,"Wapu, Ramsy",M,POREKEREP,Subsistence Farmer,19 Jun 1994
+655,160185382,"Warea, Dosip",M,POREKEREP,Subsistence Farmer,01 Jan 1971
+656,160136188,"Warea, Jackson",M,POREKEREP,Salesman,09 Aug 1984
+657,160194143,"Warea, Jacob",M,POREKEREP,Pastor,01 Jan 1970
+658,160155966,"Warea, James namba",M,POREKEREP,Subsistence Farmer,01 Jan 2000
+659,160160304,"Warea, Tapu",M,POREKEREP,Subsistence Farmer,01 Jan 2000
+660,160194671,"Warea, Yakili",M,POREKEREP,Subsistence Farmer,01 Jan 1970
+661,160119301,"Wesly, Faiton",M,MARAPUL,Student,09 Jul 1998
+662,160119300,"Wesly, Jackson",M,MARAPUL,Student,23 Apr 1988
+663,160119108,"Wet, Agne",M,POREKEREP,Subsistence Farmer,12 Jul 1995
+664,160439970,"Wet, Ekom",M,POREKEREP,Student,10 May 2000
+665,160119107,"Wet, Gift",M,MARAPUL,Subsistence Farmer,17 Jun 1992
+666,160119198,"Wet, Ragon",M,POREKEREP,Student,12 May 1998
+667,160439968,"Wet, Rekon",M,POREKEREP,Student,27 May 2001
+668,160160407,"William, Kalopa",M,MARAPUL,Subsistence Farmer,01 Jan 1969
+669,160184982,"Wiwa, Sutul",M,MARAPUL,Pastor,01 Jan 1970
+670,160160443,"Ya ala, Joe",M,POREKEREP,Student,10 Aug 1979
+671,160207788,"Yakoma, Jacob",M,MARAPUL,Student,01 Jan 1986
+672,160440602,"Yakopa, Yawi",M,POREKEREP,Student,08 Apr 2004
+673,160187001,"Yamba, Alex",M,MARAPUL,Pastor,01 Jan 2000
+674,160440717,"Yande, Josephine",M,POREKEREP,Housegirl,16 Jan 2004
+675,160193135,"Yangon, Garu",M,POREKEREP,Subsistence Farmer,01 Jan 1962
+676,160440283,"Yembi, Peterson",M,MARAPUL,Student,17 Mar 2002
+677,160440258,"Yepu, Kerox",M,POREKEREP,Student,22 Oct 2001
+678,160216242,"Yukar, Afkas",M,POREKEREP,Subsistence Farmer,01 Jan 1979
+679,160202095,"Yukar, Baisu",M,POREKEREP,Subsistence Farmer,01 Jan 1978
+680,160215406,"Yukar, Kella",M,POREKEREP,Student,01 Jan 1988
+681,160216673,"Yukar, Wawa",M,POREKEREP,Subsistence Farmer,01 Jan 1968
+682,160177524,"Yunungo, Kewa",M,MARAPUL,Subsistence Farmer,01 Jan 1962

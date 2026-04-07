@@ -1,0 +1,887 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160234176,"Amon, Hessy",F,Lipite 2,Household Duties,01 Jan 1977
+2,160224732,"Amon, Nanduka kewamo",F,Lipite 2,Household Duties,01 Jan 1965
+3,25082574,"Andrew, Hazel",F,Lipite 1,Student,19 Feb 1999
+4,160218715,"Andrew, Jeniffer mark",F,Bune Nomu,Household Duties,01 Jan 1974
+5,160243816,"Andrew, Jouy",F,Bune Nomu,Student,01 Jan 1984
+6,25082576,"Andrew, Sonia",F,Lipite 1,Student,10 Nov 2003
+7,25082583,"Andrew, Sopia",F,Lipite 2,Student,03 Jun 2000
+8,160229217,"Andy, Napa",F,Bune Nomu,Household Duties,01 Jan 1979
+9,160444870,"Andy, Vero",F,Kolepo,Household Duties,24 Aug 2003
+10,160227796,"Angel, Andrew",F,Bune Nomu,Household Duties,01 Jan 1979
+11,160444804,"Anta, Lavina",F,Yowe,Household Duties,30 Jan 1989
+12,160444868,"Anthon, Shien",F,Pone Lodge,Household Duties,20 Mar 2001
+13,160444837,"Bava, Geneambo",F,Kolepo,Household Duties,22 Nov 1988
+14,160444836,"Bava, Yara ambo",F,Kolepo,Household Duties,06 Sep 2001
+15,160210260,"Ben, Betty",F,Bune Nomu,Household Duties,01 Jan 1958
+16,160243819,"Ben, Cerolyn",F,Bune Nomu,Household Duties,01 Jan 1969
+17,160243820,"Ben, Naku",F,Bune Nomu,Housegirl,01 Jan 1989
+18,160444875,"Benjamin, Zila",F,Kolepo,Household Duties,24 Mar 1989
+19,160244657,"Benneth, Melisha",F,Pone Lodge,Household Duties,01 Jan 1981
+20,160211047,"Benny, Belinda",F,Bune Nomu,Student,01 Jan 1990
+21,160243905,"Benny, Dolly",F,Bune Nomu,Student,01 Jan 1988
+22,160207093,"Benny, Filndah",F,Bune Nomu,Student,01 Jan 1981
+23,160211140,"Benny, Frindah",F,Bune Nomu,Baby Sitter,01 Jan 1975
+24,160243522,"Benny, Mary",F,Lipite 2,Household Duties,01 Jan 1970
+25,160207092,"Benny, Rondah",F,Bune Nomu,Student,01 Jan 1979
+26,160211137,"Benny, Tinge wepo",F,Bune Nomu,Household Duties,01 Jan 1946
+27,160444853,"Bob, Cathy",F,Kiku Lupul,Household Duties,26 May 1989
+28,25082289,"Bob, Lyn",F,Kolepo,Student,09 Apr 1998
+29,160243906,"Brian, Wendy",F,Lipite 2,Teacher,01 Jan 1974
+30,160220934,"Bruce, Beverlynn",F,Bune Nomu,Student,01 Jan 1984
+31,160220778,"Bruce, Cecelia kemadu",F,Bune Nomu,Typist,01 Jan 1959
+32,160229799,"Bruce, Glenda",F,Lipite 2,Household Duties,01 Jan 1979
+33,160229387,"Bruce, Sussie",F,Lipite 2,Household Duties,01 Jan 1978
+34,160218627,"Charlie, Anita",F,Lipite 2,Household Duties,01 Jan 1971
+35,25082584,"Charlie, Christy temane",F,Lipite 2,Self Employed,19 May 1980
+36,160223996,"Charlie, Merry erape",F,Lipite 2,Household Duties,01 Jan 1961
+37,160444821,"Daiya, Joyce",F,Lipite 2,Household Duties,21 Mar 1979
+38,160211059,"Daiye, Celinah",F,Bune Nomu,Student,01 Jan 1990
+39,160204655,"Daiye, Fionna",F,Bune Nomu,Student,01 Jan 1988
+40,160204649,"Daiye, Harrin",F,Bune Nomu,Student,01 Jan 1986
+41,160210839,"Daiye, Monica mai",F,Bune Nomu,Household Duties,01 Jan 1931
+42,160210844,"Daiye, Nancy tepora",F,Bune Nomu,Household Duties,01 Jan 1930
+43,160444824,"Daiye, Pingi",F,Lipite 2,Student,14 Mar 2002
+44,160211054,"Daiye, Pulkiye yamba",F,Bune Nomu,Household Duties,01 Jan 1900
+45,160211056,"Daiye, Tindi",F,Bune Nomu,Baby Sitter,01 Jan 1983
+46,160125838,"Dangstan, Grace",F,Lipite 2,Household Duties,25 Jun 1980
+47,160125631,"Dangstan, Jalyn",F,Lipite 2,Household Duties,17 Aug 1989
+48,160125632,"Dangstan, Jalyn",F,Lipite 2,Household Duties,11 Apr 1987
+49,160125630,"Dangstan, Roslyn",F,Lipite 2,Household Duties,21 Apr 1983
+50,160125841,"Dangstan, Strakolyn",F,Lipite 2,Hairdresser,08 Nov 1985
+51,160444811,"Danly, Amelyn",F,Yowe,Household Duties,18 Jul 1991
+52,25082578,"Dauglas, Nyrell",F,Lipite 1,Household Duties,03 Jul 1992
+53,160444854,"David, Hega",F,Kiku Lupul,Household Duties,29 Jan 1988
+54,160243822,"David, Matina",F,Lipite 2,Household Duties,01 Jan 1982
+55,25082295,"David, Rita keyta",F,Kolepo,Unemployed,07 Aug 1985
+56,160201447,"David, Stella",F,Bune Nomu,Student,01 Jan 1979
+57,160444815,"Daye, Takyn",F,Lipite 2,Student,11 Feb 2003
+58,160126642,"Denley, Emelyn",F,Yowe,Hairdresser,17 Oct 1996
+59,160444895,"Dike, Lilian",F,Bune Nomu,Household Duties,03 Jan 1999
+60,160229719,"Disko, Julian",F,Lipite 1,Household Duties,01 Jan 1979
+61,160220912,"Disko, Julie",F,Lipite 1,Household Duties,01 Jan 1968
+62,160230390,"Disko, Melinda",F,Lipite 1,Household Duties,01 Jan 1979
+63,160230415,"Disko, Pokoimbo",F,Lipite 1,Household Duties,01 Jan 1978
+64,160229481,"Disko, Ponege",F,Lipite 1,Household Duties,01 Jan 1979
+65,160229308,"Docta, Gedion",F,Bune Nomu,Student,01 Jan 1988
+66,160227804,"Dokta, Jenish",F,Bune Nomu,Student,01 Jan 1986
+67,160229268,"Dokta, Kingvulle",F,Bune Nomu,Student,01 Jan 1989
+68,160224656,"Dokta, Ruth tawejo",F,Bune Nomu,Household Duties,01 Jan 1963
+69,160126636,"Duncan, Melody",F,Kolepo,Hairdresser,13 Oct 1978
+70,160125629,"Duncan, Shelinta",F,Kolepo,Student,24 Dec 1995
+71,160444889,"Dunkan, Penga",F,Kolepo,Household Duties,01 Nov 1988
+72,160244556,"Ena, Relyn",F,Lipite 2,Student,01 Jan 1981
+73,25082586,"Ena, Renita",F,Lipite 2,Student,01 Feb 2004
+74,160229392,"Ena, Roslyn",F,Lipite 2,Household Duties,01 Jan 1980
+75,160243821,"Ena, Tenibah",F,Lipite 2,Student,01 Jan 1984
+76,160224800,"Enge, Notty",F,Lipite 2,Household Duties,01 Jan 1954
+77,160243805,"Enge, Rose",F,Lipite 2,Household Duties,01 Jan 1981
+78,160224831,"Enge, Winifred",F,Lipite 2,Student,01 Jan 1987
+79,160224518,"Francis, Dorris",F,Lipite 1,Baby Sitter,01 Jan 1990
+80,160224587,"Francis, Toroli poya",F,Lipite 1,Household Duties,01 Jan 1953
+81,160244684,"Frank, Samarai",F,Lipite 2,Household Duties,01 Jan 1970
+82,160243977,"Fred, Cathy",F,Pone Lodge,Household Duties,01 Jan 1986
+83,25082600,"Fred, Timsi",F,Pone Lodge,Student,09 Apr 2004
+84,25082216,"Gabby, Delma tenge",F,Kiku Lupul,Household Duties,14 Sep 1999
+85,160225289,"Gabriel, Delmah",F,Lipite 1,Student,01 Jan 1983
+86,160225277,"Gebrial, Maria pakena",F,Lipite 1,Household Duties,01 Jan 1935
+87,160125845,"George, Daisy",F,Bune Nomu,Hairdresser,21 Nov 1987
+88,160125844,"George, Lala",F,Bune Nomu,Student,16 Apr 1996
+89,160227788,"George, Lina",F,Bune Nomu,Household Duties,01 Jan 1981
+90,25082581,"George, Stenila",F,Lipite 1,Student,04 Feb 2004
+91,160229273,"George, Stenvill",F,Bune Nomu,Student,01 Jan 1988
+92,160243806,"Glop, Anita",F,Waterfall,Household Duties,01 Jan 1987
+93,160243824,"Glop, Mara",F,Waterfall,Student,01 Jan 1991
+94,160225103,"Ine, July",F,Kiku Lupul,Household Duties,01 Jan 1979
+95,25082601,"Iso, Linneth",F,Pone Lodge,Student,04 Jun 2003
+96,160444899,"Iso, Oyie",F,Pone Lodge,Household Duties,01 Apr 1993
+97,160224911,"Jack, Elly wale",F,Kolepo,Household Duties,01 Jan 1941
+98,160224920,"Jack, Georothy",F,Kolepo,Student,01 Jan 1989
+99,160224925,"Jack, Mopune",F,Kolepo,Student,01 Jan 1990
+100,160126635,"Jackson, Jesinta",F,Bune Nomu,Not Specified,19 Dec 1996
+101,25082223,"Jackson miriye, Miriam",F,Kiku Lupul,Unemployed,07 Aug 1994
+102,25082307,"Jacob, Audrey",F,Kolepo,Student,18 Jun 2003
+103,160126639,"Jacob, Delila",F,Yowe,Student,24 Jan 1994
+104,160444800,"Jacob, Eda",F,Yowe,Student,23 Aug 1999
+105,160126640,"Jacob, Edha",F,Yowe,Self Employed,19 Sep 1997
+106,160139715,"Jacob, Elizaberth",F,Yowe,Sales Women,21 Nov 1990
+107,25082322,"Jacob, Jemimah",F,Kolepo,Student,16 Jun 2003
+108,160204090,"Jacob, Laya nindiye",F,Yowe,Household Duties,01 Jan 1980
+109,160139716,"Jacob, Wendi",F,Yowe,Student,15 Apr 1992
+110,160243495,"Jayjay, Dolly",F,Lipite 1,Student,01 Jan 1990
+111,160244148,"Jayjay, Rebecca",F,Lipite 1,Household Duties,01 Jan 1988
+112,160444838,"Jayson, Miriam",F,Kolepo,Household Duties,13 Nov 1998
+113,25082231,"Jeff undi, Jacklyn",F,Kiku Lupul,Household Duties,10 Sep 1991
+114,160213023,"Jeffery, Mopune puru",F,Kiku Lupul,Household Duties,01 Jan 1985
+115,160244522,"Jeffrey, Anjela",F,Kiku Lupul,Household Duties,01 Jan 1989
+116,160226596,"Jeffry, Jeein",F,Kiku Lupul,Student,01 Jan 1988
+117,160226440,"Jeffry, Stepany",F,Kiku Lupul,Student,01 Jan 1987
+118,160444839,"Job, Dodo",F,Kolepo,Teacher,11 Dec 1999
+119,160444891,"Job, Lenita",F,Kolepo,Teacher,14 Aug 1997
+120,160444863,"Joe, Nancy",F,Lipite 1,Household Duties,21 Dec 1989
+121,160444864,"Joe, Sandy",F,Lipite 1,Student,24 Oct 2001
+122,160444840,"Joe, Shirley",F,Kolepo,Nurse,17 Apr 1998
+123,160213048,"John, Elizaberth",F,Pone Lodge,Household Duties,01 Jan 1941
+124,160444842,"John, Mata",F,Kolepo,Household Duties,21 Jan 1983
+125,160243787,"Johna, Pollyn",F,Pone Lodge,Accountant,01 Jan 1978
+126,160243795,"Joseph, Aki",F,Yowe,Household Duties,01 Jan 1963
+127,160215445,"Joseph, Carolyn",F,Kiku Lupul,Household Duties,01 Jan 1978
+128,160243796,"Joseph, Limbo",F,Yowe,Household Duties,01 Jan 1948
+129,160226433,"Joseph, Veidah",F,Kiku Lupul,Household Duties,01 Jan 1979
+130,160226435,"Joseph, Velinda",F,Kiku Lupul,Student,01 Jan 1988
+131,25082328,"Junior rex, Esla",F,Kolepo,Household Duties,19 Apr 1990
+132,160125633,"Kabani, Cathryn",F,Bune Nomu,Hairdresser,07 Nov 1984
+133,160125842,"Kabani, Jaylyn",F,Bune Nomu,Student,18 Mar 1996
+134,160244683,"Kabani, Magareth",F,Bune Nomu,Household Duties,01 Jan 1982
+135,160125854,"Kabani, Rosa",F,Bune Nomu,Hairdresser,13 Nov 1991
+136,25082608,"Kana, Besiba",F,Pone Lodge,Student,04 Apr 2004
+137,160244655,"Kana, Besidah",F,Pone Lodge,Student,01 Jan 1992
+138,160216067,"Kana, Roselyn",F,Pone Lodge,Household Duties,01 Jan 1973
+139,160444872,"Kana, Sharon",F,Kolepo,Household Duties,01 Dec 2001
+140,160444794,"Kane, Alyn",F,Yowe,Household Duties,28 Dec 1989
+141,160196950,"Kane, Amba katty",F,Yowe,Household Duties,01 Jan 1970
+142,160227954,"Kane, Dapina",F,Yowe,Subsistence Farmer,01 Jan 1982
+143,160222192,"Kane, Janet",F,Yowe,Student,01 Jan 1989
+144,160125820,"Kane, Sharon",F,Yowe,Student,15 Jul 1994
+145,160243980,"Kane, Susan tomoiye",F,Yowe,Household Duties,01 Jan 1970
+146,160224684,"Kanimi, Painjepil",F,Lipite 2,Household Duties,01 Jan 1900
+147,160126632,"Kapi, Helamari",F,Yowe,Student,11 Jan 1997
+148,160198341,"Kapi, Jully taroiye",F,Yowe,Household Duties,01 Jan 1961
+149,160227957,"Kapi, Kali",F,Yowe,Student,01 Jan 1989
+150,160126634,"Kapi, Mari",F,Yowe,Student,23 Jul 1996
+151,160126633,"Kapi, Marima",F,Yowe,Student,21 Apr 1993
+152,160198722,"Kapi, Mary simbu",F,Yowe,Household Duties,01 Jan 1971
+153,160233189,"Kapi, Stella",F,Yowe,Household Duties,01 Jan 1986
+154,160126631,"Kapi, Stennila",F,Yowe,Student,20 Oct 1995
+155,160233197,"Kapi, Zerolyn",F,Yowe,Household Duties,01 Jan 1984
+156,160232665,"Kapi, Zina",F,Yowe,Student,01 Jan 1989
+157,160444817,"Kelly, Delma",F,Bune Nomu,Teacher,25 Nov 1997
+158,160444828,"Kelly, Delma",F,Bune Nomu,Teacher,01 Feb 1989
+159,160139722,"Kelly, Grace",F,Lipite 2,Hairdresser,11 Mar 1997
+160,160125836,"Kelly, Velyn",F,Lipite 2,Student,16 Nov 1997
+161,25082334,"Ken, Everlyn",F,Kolepo,Student,02 Apr 1997
+162,25082343,"Ken, Regina",F,Kolepo,Student,03 Sep 2000
+163,25082349,"Ken, Venesha",F,Kolepo,Student,10 Jun 2002
+164,160125859,"Kenedy, Rose",F,Lipite 2,Hairdresser,14 Jul 1997
+165,160229293,"Kenneth, Besiba",F,Bune Nomu,Student,01 Jan 1988
+166,160444812,"Kenny, Loncy",F,Lipite 2,Household Duties,11 Mar 1991
+167,160197354,"Kera, Konga kapi",F,Yowe,Household Duties,01 Jan 1942
+168,160232279,"Keri, Henny",F,Lipite 2,Household Duties,01 Jan 1977
+169,160232722,"Keri, Kelen",F,Lipite 2,Household Duties,01 Jan 1988
+170,160215074,"Kerry, Reap paitame",F,Bune Nomu,Household Duties,01 Jan 1942
+171,160229664,"Keven, Elva",F,Pone Lodge,Teacher,01 Jan 1979
+172,25082617,"Keven, Rebecca",F,Pone Lodge,Self Employed,01 Apr 1980
+173,160243984,"Kevin, Etel",F,Pone Lodge,Household Duties,01 Jan 1980
+174,160243785,"Kevin, Jenety",F,Pone Lodge,Student,01 Jan 1981
+175,160224589,"Kire, Annita wake",F,Lipite 1,Household Duties,01 Jan 1974
+176,160229634,"Kire, Lanita",F,Lipite 1,Student,01 Jan 1988
+177,160444835,"Kololi, Felinda",F,Kolepo,Student,09 Jul 2003
+178,160444834,"Kololi, Fiolyn",F,Kolepo,Student,19 May 2001
+179,160225218,"Kololi, Nomano",F,Kiku Lupul,Household Duties,01 Jan 1984
+180,160125834,"Korowi, Lush",F,Kolepo,Hairdresser,11 Dec 1987
+181,160243904,"Kote, Maritah",F,Bune Nomu,Household Duties,01 Jan 1955
+182,160444830,"Kote, Nancy",F,Lipite 2,Household Duties,12 Jun 1988
+183,160243812,"Koya, Kieimbo",F,Waterfall,Household Duties,01 Jan 1942
+184,160243675,"Koya, Kuin",F,Waterfall,Household Duties,01 Jan 1989
+185,160232479,"Kuna, Keina",F,Kolepo,Student,01 Jan 1987
+186,160232485,"Kuna, Lenda",F,Kolepo,Household Duties,01 Jan 1976
+187,160218095,"Kuna, Perry",F,Kolepo,Student,01 Jan 1985
+188,160232484,"Kuna, Rebecca",F,Kolepo,Household Duties,01 Jan 2000
+189,160215773,"Kuna, Wipa rui",F,Kolepo,Household Duties,01 Jan 1950
+190,160224278,"Levi, Dolly",F,Kiku Lupul,Student,01 Jan 1985
+191,160225091,"Levi, Matha manus",F,Kiku Lupul,Worker,01 Jan 1970
+192,160211013,"Liye, Enjola",F,Kolepo,Student,01 Jan 1976
+193,160224728,"Liye, Moro jack",F,Kolepo,Household Duties,01 Jan 1938
+194,160212794,"Liye, Polyn",F,Kolepo,Household Duties,01 Jan 1939
+195,160244562,"Lop, Maria",F,Waterfall,Household Duties,01 Jan 1969
+196,160213966,"Luke, Agnes tumun",F,Lipite 2,Secretary,01 Jan 1971
+197,160244558,"Luke, Ruth",F,Lipite 2,Household Duties,01 Jan 1976
+198,160213035,"Lus, Assi kume",F,Kiku Lupul,Household Duties,01 Jan 1976
+199,160125831,"Lus, Dilonea",F,Kiku Lupul,Student,11 Feb 1997
+200,160125830,"Lus, Elina",F,Kiku Lupul,Student,19 Dec 1993
+201,160215519,"Mai, Katty",F,Kiku Lupul,Household Duties,01 Jan 1977
+202,160215518,"Mai, Palame",F,Kiku Lupul,Household Duties,01 Jan 1930
+203,160243521,"Mambo, Estah",F,Kolepo,Student,01 Jan 1990
+204,160234177,"Mambo, Nowelyn",F,Kolepo,Household Duties,01 Jan 1980
+205,160224620,"Mambo, Punde mokoi",F,Kolepo,Household Duties,01 Jan 1948
+206,160210885,"Mano, Alirapu",F,Kiku Lupul,Household Duties,01 Jan 1953
+207,160226430,"Mano, Easther",F,Kiku Lupul,Household Duties,01 Jan 1979
+208,160225186,"Mano, Kondoino",F,Kiku Lupul,Subsistence Farmer,01 Jan 1985
+209,160139720,"Mano, Pamela",F,Kiku Lupul,Nurse,18 Feb 1987
+210,160229207,"Mano, Ruth",F,Bune Nomu,Household Duties,01 Jan 1986
+211,160444887,"Manuel, Olive",F,Kolepo,Household Duties,20 Aug 1989
+212,160227939,"Mark, Eki",F,Yowe,Household Duties,01 Jan 1982
+213,160227950,"Mark, Elvin",F,Yowe,Student,01 Jan 2000
+214,160227594,"Mark, Joyce",F,Lipite 1,Student,01 Jan 1989
+215,25082571,"Mark, Mailen",F,Kongibul,Household Duties,03 Jul 1998
+216,160202273,"Mark, Marget markham",F,Yowe,Household Duties,01 Jan 1979
+217,160444827,"Mark, Maria",F,Bune Nomu,Household Duties,02 Aug 1970
+218,160224704,"Mark, Yuwini korowi",F,Lipite 1,Household Duties,01 Jan 1963
+219,25082239,"Markson, Faith",F,Kiku Lupul,Unemployed,03 Feb 1997
+220,160125851,"Mathew, Julie",F,Bune Nomu,Hairdresser,16 Nov 1989
+221,160444829,"Mathew, Julie",F,Bune Nomu,Household Duties,12 Sep 1996
+222,25082374,"Mathew, Teni",F,Kolepo,Household Duties,10 Jun 1990
+223,160225077,"Max, Roselyn apo",F,Kiku Lupul,Household Duties,01 Jan 1983
+224,160213903,"Max, Wamo loiye",F,Kiku Lupul,Household Duties,01 Jan 1958
+225,160225266,"Mendel, Ali",F,Lipite 1,Student,01 Jan 1982
+226,160224697,"Mendel, Kari kambu mainenge",F,Lipite 1,Household Duties,01 Jan 1939
+227,160225287,"Mendel, Lina niva",F,Lipite 1,Household Duties,01 Jan 1973
+228,160224583,"Mendel, Linneth",F,Lipite 1,Student,01 Jan 1983
+229,160243494,"Mendel, Nigel",F,Lipite 1,Student,01 Jan 1990
+230,160233101,"Mendel, Regina",F,Lipite 1,Household Duties,01 Jan 1989
+231,160225286,"Mendel, Tumili koke",F,Lipite 1,Household Duties,01 Jan 1938
+232,25082625,"Mike, Amenda",F,Pone Lodge,Student,10 Jun 2003
+233,160214014,"Mike, Dina natimbo",F,Pone Lodge,Household Duties,01 Jan 1958
+234,160226283,"Monda, Elly kewalu",F,Lipite 1,Household Duties,01 Jan 1949
+235,160243502,"Monda, Jacklyn",F,Lipite 1,Student,01 Jan 1981
+236,160243503,"Monda, Roslyn",F,Lipite 1,Household Duties,01 Jan 1972
+237,160198872,"Mongo, Yali tari",F,Yowe,Household Duties,01 Jan 1987
+238,160243823,"Napa, Pamela",F,Lipite 2,Student,01 Jan 1987
+239,160211182,"Napa, Pulupa kalenge",F,Lipite 2,Household Duties,01 Jan 1937
+240,160229297,"Napa, Rosemary",F,Lipite 2,Household Duties,01 Jan 1981
+241,160207551,"Napa, Winnie",F,Lipite 2,Student,01 Jan 1973
+242,160444814,"Nasi, Herry",F,Lipite 2,Household Duties,12 Dec 1996
+243,160232798,"Natali, Pile",F,Bune Nomu,Subsistence Farmer,01 Jan 1981
+244,160444806,"Nelson, Kelen",F,Yowe,Student,11 Jan 2000
+245,25082244,"Nema, Lydia",F,Kiku Lupul,Unemployed,10 Jun 1998
+246,160229352,"Nick, Nilton",F,Lipite 2,Student,01 Jan 1989
+247,160244557,"Nick, Perth",F,Lipite 2,Household Duties,01 Jan 1979
+248,160225112,"Nick, Rose ambai",F,Lipite 2,Household Duties,01 Jan 1972
+249,160444798,"Nickson, Robina",F,Yowe,Student,12 Oct 2003
+250,160444810,"Nickson, Sendra",F,Yowe,Student,11 Feb 2001
+251,160444799,"Nickson, Sendrila",F,Yowe,Student,31 Aug 1998
+252,160139711,"Nickson, Sindrelia",F,Yowe,Hairdresser,14 Mar 1990
+253,160229384,"Nipi, Cathy",F,Bune Nomu,Household Duties,01 Jan 1980
+254,160230294,"Nipi, Dolly",F,Bune Nomu,Household Duties,01 Jan 1987
+255,160230289,"Nipi, Melody",F,Bune Nomu,Student,01 Jan 2000
+256,160229385,"Nipi, Miriam",F,Bune Nomu,Household Duties,01 Jan 1981
+257,160125853,"Nipi, Stenvilla",F,Bune Nomu,Student,19 Dec 1998
+258,160230288,"Nipi, Taiye",F,Bune Nomu,Household Duties,01 Jan 1977
+259,160139707,"Nobert, Albeta",F,Kiku Lupul,Student,10 Nov 1997
+260,160210986,"Nobert, Anna yamai",F,Kiku Lupul,Household Duties,01 Jan 1977
+261,25082572,"Nobert, Elain takes",F,Kongibul,Teacher,10 Jun 1990
+262,160444856,"Nobert, Mary",F,Kongibul,Teacher,03 Apr 1999
+263,160226591,"Nobert, Nioma",F,Kiku Lupul,Student,01 Jan 2000
+264,160126626,"Nobert, Nomila",F,Kiku Lupul,Household Duties,14 Jun 1991
+265,160218537,"Noma, Alice",F,Bune Nomu,Student,01 Jan 1980
+266,160217720,"Noma, Atenga porokolaiye",F,Bune Nomu,Household Duties,01 Jan 1952
+267,160218710,"Noma, Hellen",F,Bune Nomu,Student,01 Jan 1987
+268,160217724,"Noma, Lineth",F,Bune Nomu,Student,01 Jan 1983
+269,160218091,"Noma, Olive",F,Bune Nomu,Student,01 Jan 1989
+270,160217722,"Noma, Rebecca",F,Bune Nomu,Student,01 Jan 1981
+271,160224629,"Noma, Tamuteli mai",F,Bune Nomu,Household Duties,01 Jan 1931
+272,160229485,"Nomi, Landy",F,Lipite 1,Student,01 Jan 1989
+273,160217675,"Nomi, Lucy",F,Lipite 1,Student,01 Jan 1984
+274,160229484,"Nomi, Morina",F,Lipite 1,Household Duties,01 Jan 1979
+275,160216110,"Nomi, Pilembo olaiye",F,Lipite 1,Household Duties,01 Jan 1964
+276,160229324,"Norma, Wendy",F,Bune Nomu,Household Duties,01 Jan 1983
+277,160139723,"Norman, Raya",F,Bune Nomu,Hairdresser,18 Sep 1993
+278,160243817,"Norman, Tabitha",F,Bune Nomu,Household Duties,01 Jan 1989
+279,160444869,"Numan, Cathy",F,Kolepo,Household Duties,28 Nov 2000
+280,160444886,"Owen, Sila",F,Kongibul,Pathologist,15 Mar 1988
+281,25082631,"Paiye, Dodo",F,Pone Lodge,Student,10 Apr 2004
+282,160213915,"Paiye, Elvina pinje",F,Pone Lodge,Teacher,01 Jan 1983
+283,25082636,"Paiye, Mopune",F,Pone Lodge,Student,03 Apr 2003
+284,160215434,"Palus, Tuweo ondopatil",F,Kiku Lupul,Household Duties,01 Jan 1961
+285,160215420,"Palus, Velma",F,Kiku Lupul,Student,01 Jan 1980
+286,160243815,"Paul, Henfer",F,Bune Nomu,Household Duties,01 Jan 1970
+287,160204262,"Paul, Jacky apo",F,Kongibul,Household Duties,01 Jan 1984
+288,160232054,"Paul, Linet",F,Lipite 1,Household Duties,01 Jan 1979
+289,160212340,"Paul, Melen tindalu",F,Lipite 1,Household Duties,01 Jan 1967
+290,160125849,"Paul, Moto",F,Bune Nomu,Household Duties,18 Jul 1985
+291,160444832,"Paul, Rolyn",F,Bune Nomu,Household Duties,17 May 1998
+292,160444859,"Paul, Waiti",F,Lipite 2,Student,11 Nov 2003
+293,160204981,"Paulus, Delmah",F,Kiku Lupul,Student,01 Jan 1990
+294,160229685,"Paulus, Resida",F,Kiku Lupul,Student,01 Jan 1989
+295,160220791,"Pawa, Kepambo",F,Lipite 2,Student,01 Jan 1988
+296,160218782,"Pawa, Lepo toropo",F,Lipite 2,Household Duties,01 Jan 1968
+297,160218781,"Pawa, Maria",F,Lipite 2,Subsistence Farmer,01 Jan 1965
+298,160243803,"Pawa, Mayambo",F,Lipite 2,Student,01 Jan 1987
+299,160220787,"Pawa, Wedy",F,Lipite 2,Household Duties,01 Jan 1967
+300,160224893,"Pepena, Dape",F,Kongibul,Student,01 Jan 1987
+301,160244564,"Pepena, Jesica simon",F,Kongibul,Household Duties,01 Jan 1984
+302,160224891,"Pepena, Linah",F,Kongibul,Student,01 Jan 1985
+303,160224905,"Pepena, Simon",F,Kongibul,Student,01 Jan 1981
+304,160216462,"Pepena, Tope limbiye",F,Kongibul,Household Duties,01 Jan 1932
+305,160232089,"Pere, Jesica",F,Kolepo,Household Duties,01 Jan 1980
+306,160232296,"Pere, Jopina",F,Kolepo,Household Duties,01 Jan 1976
+307,160232339,"Pere, Josephine",F,Kolepo,Student,01 Jan 1987
+308,160243809,"Pere, Las korowi",F,Kolepo,Household Duties,01 Jan 1970
+309,160216472,"Pere, Monica awi",F,Kolepo,Household Duties,01 Jan 1946
+310,160216470,"Pere, Nandame kewa",F,Kolepo,Household Duties,01 Jan 1944
+311,160224899,"Peter, Christina keali",F,Kongibul,Household Duties,01 Jan 1973
+312,160198882,"Peter, Manasa",F,Yowe,Student,01 Jan 1990
+313,160444867,"Peter, Melen",F,Pone Lodge,Household Duties,15 Dec 1999
+314,160227075,"Peter, Relyn",F,Kongibul,Student,01 Jan 1989
+315,160198881,"Peter, Wana wambu",F,Yowe,Household Duties,01 Jan 1986
+316,160444888,"Pewi, Jesinta",F,Kongibul,Household Duties,24 Dec 1993
+317,160139710,"Peya, Mackdelyn",F,Yowe,Student,24 Aug 1994
+318,160204082,"Peya, Nema wengembo",F,Yowe,Household Duties,01 Jan 1940
+319,160204831,"Peya, Ponenge",F,Yowe,Student,01 Jan 1979
+320,160444801,"Peya, Rachelyn",F,Yowe,Student,28 Apr 2004
+321,160125628,"Peya, Rezelyn",F,Yowe,Student,13 Feb 1996
+322,160204083,"Peya, Waki",F,Yowe,Student,01 Jan 1981
+323,160210491,"Pile, Cathy wal",F,Kiku Lupul,Household Duties,01 Jan 1974
+324,160139709,"Pile, Nally",F,Kiku Lupul,Hairdresser,11 Jan 1988
+325,160444841,"Pile, Natali",F,Kolepo,Student,28 Dec 2001
+326,160231121,"Pile, Nathasa",F,Kiku Lupul,Household Duties,01 Jan 1974
+327,160126628,"Pile, Nathasa",F,Kiku Lupul,Hairdresser,15 Jun 1991
+328,160126629,"Pile, Rachael",F,Kiku Lupul,Hairdresser,24 Feb 1994
+329,160224771,"Pinje, Ambuape",F,Bune Nomu,Household Duties,01 Jan 1967
+330,160210881,"Pinje, Bolo",F,Kiku Lupul,Household Duties,01 Jan 1976
+331,160213313,"Porowe, Kaite mongea",F,Pone Lodge,Household Duties,01 Jan 1942
+332,160213906,"Porowe, Las",F,Pone Lodge,Student,01 Jan 1986
+333,160243673,"Puki, Regina",F,Bune Nomu,Household Duties,17 Sep 1985
+334,160125843,"Puky, Relindah",F,Bune Nomu,Student,16 Oct 1997
+335,160220918,"Puleke, Kim",F,Lipite 1,Household Duties,01 Jan 1969
+336,160244589,"Pulupia, Lenita wanpis",F,Kolepo,Household Duties,01 Jan 1985
+337,160224739,"Pulupiya, Roapeno kewambo",F,Kolepo,Household Duties,01 Jan 1900
+338,160218713,"Pumbo, Betty robert",F,Kolepo,Household Duties,01 Jan 1979
+339,160243523,"Pumbo, Trevency",F,Kolepo,Student,01 Jan 1985
+340,160197352,"Raramu, Kepu",F,Yowe,Household Duties,01 Jan 1942
+341,160227059,"Rex, Male",F,Kolepo,Household Duties,01 Jan 1980
+342,160215779,"Rex, Maria kewam",F,Kolepo,Household Duties,01 Jan 1970
+343,160215383,"Rex, Rose",F,Kolepo,Student,01 Jan 1989
+344,160224922,"Riepe, Khay",F,Kongibul,Baby Sitter,01 Jan 1985
+345,160224727,"Riepe, Niwi",F,Kongibul,Baby Sitter,01 Jan 1983
+346,25082391,"Riepe, Shirley",F,Kolepo,Student,11 Dec 2003
+347,160243807,"Riepe, Tendo",F,Kongibul,Household Duties,01 Jan 1970
+348,160224938,"Riepe, Tope tende",F,Kongibul,Household Duties,01 Jan 1939
+349,160444892,"Ritha, Dike",F,Bune Nomu,Household Duties,12 Feb 1984
+350,160210432,"Robert, Akiri kirepe",F,Bune Nomu,Household Duties,01 Jan 1943
+351,160227670,"Robert, Anji",F,Yowe,Student,01 Jan 1986
+352,160227966,"Robert, Anta",F,Yowe,Student,01 Jan 1988
+353,160139717,"Robert, Davina",F,Yowe,Student,21 Apr 1994
+354,160125819,"Robert, Elish",F,Yowe,Hairdresser,19 Jan 1987
+355,160126643,"Robert, Gimmary",F,Yowe,Student,24 Nov 1996
+356,160444795,"Robert, Jimary",F,Yowe,Student,22 Mar 1999
+357,160211284,"Robert, Leah",F,Bune Nomu,Student,01 Jan 1988
+358,160203594,"Robert, Lina tendel",F,Yowe,Household Duties,01 Jan 1950
+359,160204832,"Robert, Maiembo toringi",F,Yowe,Household Duties,01 Jan 1932
+360,160204208,"Robert, Pathon",F,Yowe,Student,01 Jan 1990
+361,160202352,"Robert, Priciala",F,Yowe,Student,01 Jan 1987
+362,160126641,"Robert, Shemila",F,Yowe,Student,29 Nov 1992
+363,160444796,"Robert, Sheminta",F,Yowe,Student,16 Jan 2003
+364,160215614,"Rombola, Iki",F,Lipite 1,Typist,01 Jan 1964
+365,160217665,"Rombola, Lapinah",F,Lipite 1,Not Specified,01 Jan 1940
+366,160126637,"Ronny, Sandy",F,Yowe,Hairdresser,18 Nov 1991
+367,160202354,"Roy, Heno",F,Yowe,Household Duties,01 Jan 1952
+368,160198873,"Roy, Joycillin",F,Yowe,Student,01 Jan 1987
+369,160224284,"Ruka, Carrol",F,Kiku Lupul,Household Duties,01 Jan 1980
+370,160225096,"Ruka, Rachael",F,Kiku Lupul,Household Duties,01 Jan 1976
+371,160225094,"Ruka, Wainta warena",F,Kiku Lupul,Household Duties,01 Jan 1965
+372,160224403,"Ruka, Wendo pangoiye",F,Kiku Lupul,Household Duties,01 Jan 1963
+373,160444880,"Saipa, Julius",F,Kolepo,Subsistence Farmer,27 Nov 1996
+374,160444884,"Saipa, Nemo",F,Bune Nomu,Household Duties,10 Dec 1978
+375,160444879,"Saipa, Sendra",F,Bune Nomu,Student,17 Sep 2001
+376,160444878,"Saipa, Taira",F,Bune Nomu,Household Duties,29 Aug 1997
+377,160444882,"Saipa, Tanifa",F,Bune Nomu,Student,01 Jun 2003
+378,160221092,"Saule, Julie",F,Lipite 2,Household Duties,01 Jan 1984
+379,160234172,"Simon, Jenifer",F,Lipite 2,Sister,01 Jan 1988
+380,160232796,"Simon, Kalina",F,Lipite 2,Subsistence Farmer,01 Jan 1989
+381,160234175,"Simon, Kelea",F,Lipite 2,Student,01 Jan 1988
+382,160234171,"Simon, Merolyn",F,Lipite 2,Household Duties,01 Jan 1982
+383,160234169,"Simon, Nendo",F,Lipite 2,Household Duties,01 Jan 1976
+384,160444871,"Smith, Lilly",F,Pone Lodge,Household Duties,23 Feb 1989
+385,160217672,"Soti, Jenny aiye",F,Lipite 1,Household Duties,01 Jan 1978
+386,160229567,"Soti, Lioni",F,Lipite 1,Household Duties,01 Jan 1980
+387,160229751,"Soti, Lisa",F,Bune Nomu,Student,01 Jan 1989
+388,160244150,"Soti, Lisha",F,Lipite 1,Student,01 Jan 1983
+389,160243979,"Stephen, Stepeny",F,Pone Lodge,Household Duties,01 Jan 1973
+390,160243901,"Tai, Brenda",F,Waterfall,Household Duties,01 Jan 1971
+391,160243891,"Tai, Estah",F,Waterfall,Household Duties,01 Jan 1979
+392,160210834,"Taiye, July",F,Kiku Lupul,Household Duties,01 Jan 1973
+393,160210994,"Taiye, Lopambo remo",F,Kiku Lupul,Household Duties,01 Jan 1943
+394,160210252,"Taiye, Mondi",F,Kiku Lupul,Household Duties,01 Jan 1975
+395,160207640,"Taiye, Morin",F,Kiku Lupul,Student,01 Jan 1982
+396,25087209,"Taiye, Naylee",F,Kiku Lupul,Student,10 Apr 2004
+397,160232503,"Taiye, Sandy",F,Kiku Lupul,Household Duties,01 Jan 1989
+398,160139708,"Taiye, Tende",F,Kiku Lupul,Student,16 Apr 1994
+399,160202622,"Tarepela, Kanambo porokolaiye",F,Bune Nomu,Household Duties,01 Jan 1900
+400,160207088,"Tarepela, Malinda",F,Bune Nomu,Student,01 Jan 1983
+401,160444831,"Tarex, Susan",F,Bune Nomu,Household Duties,12 Jan 1999
+402,160224662,"Temane, Joinnah",F,Bune Nomu,Student,01 Jan 1981
+403,160224679,"Temane, Las",F,Bune Nomu,Student,01 Jan 1986
+404,160224789,"Temane, Linah",F,Bune Nomu,Teacher,01 Jan 1977
+405,160224682,"Temane, Pilge kakeiye",F,Bune Nomu,Household Duties,01 Jan 1942
+406,160224786,"Temane, Sarah",F,Bune Nomu,Cashier,01 Jan 1979
+407,160202624,"Temane, Temanbo noil",F,Bune Nomu,Household Duties,01 Jan 1936
+408,160444820,"Temena, Hadassah",F,Lipite 2,Student,14 Nov 2003
+409,25082265,"Tenge, Nopiye",F,Kiku Lupul,Unemployed,05 Apr 1983
+410,160125847,"Tenis, Mopu",F,Bune Nomu,Student,18 Jan 1995
+411,160211051,"Tennis, Dapes kipunge",F,Bune Nomu,Household Duties,01 Jan 1957
+412,160210438,"Teru, Keribalo guteli",F,Bune Nomu,Household Duties,01 Jan 1900
+413,160202518,"Teru, Ruthy",F,Bune Nomu,Household Duties,01 Jan 1974
+414,160207383,"Teru, Yuwini",F,Bune Nomu,Student,01 Jan 1977
+415,160218996,"Tilto, Lopeke",F,Kiku Lupul,Household Duties,01 Jan 1973
+416,160218471,"Tilto, Mone",F,Kiku Lupul,Household Duties,01 Jan 1965
+417,160224416,"Tilto, Puino",F,Kiku Lupul,Household Duties,01 Jan 1970
+418,160225089,"Tilto, Rumbame pudai",F,Kiku Lupul,Household Duties,01 Jan 1951
+419,25082395,"Tom, Julie",F,Kolepo,Student,19 Jan 2004
+420,25082399,"Tom, Philly",F,Kolepo,Student,15 Apr 2000
+421,25082406,"Tom, Vero",F,Kolepo,Student,18 May 1997
+422,160126646,"Tomoiye, Relina",F,Yowe,Hairdresser,17 Aug 1975
+423,160126649,"Tomoiye, Whity",F,Yowe,Housegirl,21 Mar 1992
+424,160444858,"Tony, Lorina",F,Lipite 2,Teacher,12 Dec 1986
+425,160224950,"Tuku, Anna",F,Lipite 2,Student,01 Jan 1984
+426,160225137,"Tuku, Dorothy",F,Lipite 2,Student,01 Jan 1986
+427,160224992,"Tuku, Nema talaiye",F,Lipite 2,Household Duties,01 Jan 1946
+428,160125824,"Tule, Jemaima",F,Kiku Lupul,Student,17 Mar 1996
+429,160125823,"Tule, Jenica",F,Kiku Lupul,Student,13 Feb 1994
+430,160206591,"Tule, Jenny",F,Kiku Lupul,Student,01 Jan 1974
+431,160226593,"Tule, Jesica",F,Kiku Lupul,Household Duties,01 Jan 1979
+432,160210871,"Tule, Kepu nema",F,Kiku Lupul,Household Duties,01 Jan 1947
+433,160226592,"Tule, Korea",F,Kiku Lupul,Student,01 Jan 1989
+434,160125825,"Tule, Sonia",F,Kiku Lupul,Student,19 Apr 1998
+435,160201108,"Tumbulu, Joen",F,Yowe,Household Duties,01 Jan 1962
+436,160198319,"Tumbulu, Kangie kepe",F,Yowe,Subsistence Farmer,01 Jan 1931
+437,160201528,"Tumbulu, Kara doi",F,Yowe,Household Duties,01 Jan 1931
+438,160198315,"Tumbulu, Kepa",F,Yowe,Student,01 Jan 1988
+439,160201109,"Tumbulu, Lenita",F,Yowe,Household Duties,01 Jan 1986
+440,160198886,"Tumbulu, Mone",F,Yowe,Household Duties,01 Jan 1951
+441,160201104,"Tumbulu, Susan",F,Yowe,Student,01 Jan 1985
+442,160204260,"Turksey, Marian mainenge",F,Bune Nomu,Household Duties,01 Jan 1956
+443,25082412,"Tyson, Glenda",F,Kolepo,Student,25 Jul 2003
+444,25082420,"Tyson, Poyem",F,Kolepo,Student,20 Dec 2001
+445,25082423,"Tyson, Ruthy",F,Kolepo,Student,20 Jul 2003
+446,160224414,"Ulkiye, Lia",F,Kiku Lupul,Student,01 Jan 1989
+447,160224290,"Ulkiye, Mande kakule",F,Kiku Lupul,Household Duties,01 Jan 1971
+448,160224412,"Ulkiye, Nomi kewa",F,Kiku Lupul,Household Duties,01 Jan 1975
+449,25082428,"Undi, Anita",F,Kolepo,,19 Jul 2000
+450,160125829,"Undi, Dorica",F,Kiku Lupul,Student,12 Feb 1997
+451,160125827,"Undi, Jane",F,Kiku Lupul,Household Duties,12 May 1991
+452,160213316,"Undi, Jenifer",F,Kiku Lupul,Household Duties,01 Jan 1984
+453,160125828,"Undi, Jenila",F,Kiku Lupul,Not Specified,16 Jul 1994
+454,160215431,"Undi, Lino lepo",F,Kiku Lupul,Household Duties,01 Jan 1967
+455,160243788,"Undi, Rose",F,Kiku Lupul,Household Duties,01 Jan 1984
+456,160225181,"Walawiye, Lumbino welta",F,Kiku Lupul,Household Duties,01 Jan 1945
+457,160210875,"Wane, Racial robert",F,Kiku Lupul,Household Duties,01 Jan 1973
+458,160224417,"Wanis, Cathy yalo",F,Pone Lodge,Household Duties,01 Jan 1973
+459,160229702,"Wanis, Mari",F,Pone Lodge,Household Duties,01 Jan 1978
+460,160125857,"Wanpis, Albetha",F,Bune Nomu,Hairdresser,18 Apr 1993
+461,160243902,"Wanpis, Hellen",F,Bune Nomu,Household Duties,01 Jan 1986
+462,160444894,"Wanpis, Kalina",F,Bune Nomu,Student,04 Feb 2001
+463,160125833,"Wanpis, Leli",F,Kolepo,Houseboy,11 Apr 1986
+464,160444893,"Wanpis, Relila",F,Bune Nomu,Student,06 Jul 2000
+465,160243792,"Wara, Janet",F,Yowe,Household Duties,01 Jan 1992
+466,160243793,"Wara, Linet",F,Yowe,Student,01 Jan 1993
+467,160243981,"Wara, Patrica",F,Yowe,Household Duties,01 Jan 1966
+468,160243791,"Wara, Wari",F,Yowe,Student,01 Jan 1990
+469,160213045,"Warepena, Bepi ire",F,Kiku Lupul,Household Duties,01 Jan 1942
+470,160125817,"Warepena, Lisha",F,Kiku Lupul,Self Employed,15 Feb 1989
+471,160210993,"Warepena, Merolyn",F,Kiku Lupul,Student,01 Jan 1986
+472,160213049,"Warepena, Moiye",F,Kiku Lupul,Household Duties,01 Jan 1970
+473,160126624,"Warepena, Sharon",F,Kiku Lupul,Not Specified,24 May 1995
+474,160125818,"Warepena, Vaison",F,Kiku Lupul,Self Employed,14 Nov 1991
+475,160210483,"Warepena, Wanita",F,Kiku Lupul,Student,01 Jan 1983
+476,160232223,"Wesly, Joycylein",F,Lipite 1,Household Duties,01 Jan 1979
+477,160224989,"Wesly, Linneth kariya",F,Bune Nomu,Household Duties,01 Jan 1979
+478,160202360,"William, Rose gary",F,Yowe,Household Duties,01 Jan 1941
+479,160126644,"Willie, Rita",F,Yowe,Hairdresser,15 Jun 1980
+480,160139718,"Willie, Stacy",F,Yowe,Hairdresser,17 Nov 1987
+481,160215022,"Windi, Lynn makaim",F,Pone Lodge,Household Duties,01 Jan 1976
+482,160227942,"Windi, Melisa",F,Pone Lodge,Household Duties,01 Jan 1980
+483,25082651,"Windi, Mequilda",F,Pone Lodge,Student,16 Apr 2004
+484,160444855,"Wiru, Jemilyn",F,Pone Lodge,Student,01 Feb 2003
+485,160215069,"Yari, Bethalynn",F,Lipite 2,Student,01 Jan 1975
+486,160211393,"Yari, Esther",F,Lipite 2,Student,01 Jan 1989
+487,160215225,"Yari, Kumbiye puringi",F,Lipite 2,Household Duties,01 Jan 1941
+488,160444860,"Yombi, Jopila",F,Lipite 2,Student,02 Jan 2003
+489,160202618,"Aijo, Tarepela",M,Bune Nomu,Worker,01 Jan 1900
+490,160229351,"Ammon, Ruth",M,Lipite 2,Student,01 Jan 1988
+491,160212786,"Amon, Douglas",M,Lipite 2,Student,01 Jan 1989
+492,160444845,"Bava, Jean wood",M,Bune Nomu,Subsistence Farmer,04 Dec 1999
+493,160444846,"Bava, Nathan",M,Bune Nomu,Student,08 Nov 1996
+494,160444844,"Bava, Sharius",M,Kolepo,Subsistence Farmer,19 Apr 1993
+495,160444873,"Benjamin, Londric",M,Kolepo,Student,20 Dec 2003
+496,160444874,"Benjamin, Lonson",M,Kolepo,Student,09 Dec 2001
+497,160207094,"Benny, Gibson",M,Bune Nomu,Student,01 Jan 1983
+498,25082271,"Bob, Ben",M,Kolepo,Student,06 Oct 2000
+499,25082277,"Bob, Jeromy",M,Kolepo,Student,16 Jun 2002
+500,25082283,"Bob, Lenet",M,Kolepo,Student,15 Apr 1999
+501,160444876,"Brian, Azing",M,Kolepo,Student,01 Nov 2003
+502,160444877,"Brian, Bradstone",M,Kolepo,Student,05 Aug 2001
+503,160244685,"Brian, Bredstone",M,Lipite 2,Student,01 Jan 1978
+504,160229801,"Bruce, Dickson",M,Bune Nomu,Teacher,01 Jan 1979
+505,160218786,"Bruce, Gedion",M,Bune Nomu,Student,01 Jan 1986
+506,160230295,"Bruce, Graham",M,Lipite 2,Subsistence Farmer,01 Jan 1978
+507,160220780,"Bruce, Nelson",M,Lipite 2,Student,01 Jan 1986
+508,160221098,"Bruce, Rechard",M,Lipite 2,Self Employed,01 Jan 1982
+509,160221052,"Charlie, Saule",M,Lipite 2,Subsistence Farmer,01 Jan 1983
+510,160444823,"Daiya, Kimron",M,Lipite 2,Student,13 Dec 2003
+511,160444819,"Daiya, Tairon",M,Lipite 2,Student,06 Sep 1999
+512,160210423,"Daiye, Douglas",M,Bune Nomu,Student,01 Jan 1981
+513,160210694,"Daiye, Gabbie",M,Bune Nomu,Salesman,01 Jan 1978
+514,160204657,"Daiye, Kela",M,Bune Nomu,Student,01 Jan 1990
+515,160204654,"Daiye, Puki",M,Bune Nomu,Student,01 Jan 1985
+516,160210686,"Daiye, Steven",M,Bune Nomu,Student,01 Jan 1984
+517,160229231,"Daiye, Vincent",M,Bune Nomu,Student,01 Jan 1989
+518,160125839,"Dangstan, Epy",M,Lipite 2,Subsistence Farmer,11 Nov 1990
+519,160125840,"Dangstan, Petrick",M,Lipite 2,Not Specified,18 Apr 1982
+520,160229405,"David, Tuksy",M,Bune Nomu,Student,01 Jan 1987
+521,160230417,"Disko, Samson",M,Lipite 1,Student,01 Jan 1988
+522,160218623,"Dokta, Douglas",M,Bune Nomu,Student,01 Jan 1988
+523,160229307,"Dokta, Kandiye",M,Bune Nomu,Subsistence Farmer,01 Jan 1978
+524,160224634,"Dokta, Kelly",M,Bune Nomu,Student,01 Jan 1985
+525,160243674,"Dokta, Kurry",M,Bune Nomu,Student,01 Jan 1991
+526,25082301,"Duncan, Pero",M,Kolepo,Student,02 Jan 2004
+527,160126638,"Duncan, Shelton",M,Kolepo,Student,14 Aug 1998
+528,160444851,"Elizah, John",M,Bune Nomu,Subsistence Farmer,12 Feb 1993
+529,160243907,"Ena, Rendy",M,Lipite 2,Student,01 Jan 1988
+530,25082589,"Ena, Tenis",M,Lipite 2,Student,01 Mar 2003
+531,160225129,"Ena, Tuku",M,Lipite 2,Subsistence Farmer,01 Jan 1944
+532,160224995,"Ena, Wesley",M,Lipite 2,Subsistence Farmer,01 Jan 1976
+533,160224829,"Enge, Christopher",M,Lipite 2,Student,01 Jan 1985
+534,160224826,"Enge, Daniel",M,Lipite 2,Student,01 Jan 1979
+535,160224828,"Enge, Jackies",M,Lipite 2,Student,01 Jan 1982
+536,160224517,"Francis, Kennedy",M,Lipite 1,Student,01 Jan 1986
+537,160224611,"Francis, Wesley",M,Bune Nomu,Student,01 Jan 1983
+538,25082596,"Fred, Anthony",M,Pone Lodge,Student,04 Mar 2004
+539,160233098,"Geberiel, Rendy",M,Lipite 1,Student,01 Jan 1988
+540,160233100,"Gebriel, Raydon",M,Lipite 1,Student,01 Jan 1989
+541,25082580,"George, Stanvill",M,Lipite 1,Student,28 Apr 2004
+542,160244561,"Glop, James",M,Waterfall,Subsistence Farmer,01 Jan 1968
+543,160222476,"Henry, Kane",M,Yowe,Subsistence Farmer,01 Jan 1968
+544,160225100,"Ine, Oki",M,Kiku Lupul,Subsistence Farmer,01 Jan 1977
+545,160444896,"Iso, Elton",M,Pone Lodge,Student,05 Apr 2002
+546,25082606,"Iso, Raymond",M,Pone Lodge,Student,04 May 2003
+547,160444897,"Iso, Tenis",M,Pone Lodge,Student,04 Sep 2000
+548,160232571,"Jack, Kongo",M,Kolepo,Student,01 Jan 1987
+549,160234178,"Jack, Manuel",M,Kolepo,Student,01 Jan 1987
+550,160224919,"Jack, Pareka",M,Kolepo,Student,01 Jan 1987
+551,160224918,"Jack, Peddy",M,Kolepo,Student,01 Jan 1985
+552,160224753,"Jack, Tono",M,Kolepo,Student,01 Jan 1988
+553,160139713,"Jackson, Febian",M,Bune Nomu,Student,25 Dec 1998
+554,160444805,"Jackson, Garu",M,Yowe,Student,13 Mar 2001
+555,160444803,"Jackson, Stanton",M,Yowe,Student,22 Mar 2003
+556,160201512,"Jacob, Bredon",M,Yowe,Student,01 Jan 1989
+557,25082314,"Jacob, Callus",M,Kolepo,Student,20 Oct 2003
+558,160227972,"Jacob, Ferman",M,Yowe,Driver,01 Jan 1983
+559,160444865,"Joe, Winta",M,Lipite 1,Student,21 Aug 2003
+560,160213054,"John, Benerth",M,Pone Lodge,Subsistence Farmer,01 Jan 1977
+561,160213936,"John, Johna",M,Pone Lodge,Subsistence Farmer,01 Jan 1974
+562,160444849,"John, Konex",M,Bune Nomu,Subsistence Farmer,16 Oct 1990
+563,160444850,"John, Manuel",M,Bune Nomu,Subsistence Farmer,13 Mar 1985
+564,160212694,"John, Samuel",M,Pone Lodge,Student,01 Jan 1988
+565,160244659,"Jona, Jordan",M,Pone Lodge,Student,01 Jan 1982
+566,160243982,"Joseph, John",M,Yowe,Student,01 Jan 1986
+567,25082610,"Kana, Iti",M,Pone Lodge,Student,10 May 2003
+568,25082614,"Kana, Manu",M,Pone Lodge,Student,09 Apr 2003
+569,160125821,"Kane, Gibson",M,Yowe,Student,21 May 1996
+570,160227662,"Kane, Gibson",M,Yowe,Subsistence Farmer,01 Jan 1980
+571,160222040,"Kane, Nimbo",M,Yowe,Subsistence Farmer,01 Jan 1983
+572,160197349,"Kane, Stanly",M,Yowe,Student,01 Jan 1990
+573,160227961,"Kane, Steflee",M,Yowe,Student,01 Jan 1989
+574,160222044,"Kane, Tomoiye",M,Yowe,Student,01 Jan 1988
+575,160197351,"Kane, Topraz",M,Yowe,Student,01 Jan 1988
+576,160225132,"Kanimi, Able",M,Lipite 2,Student,01 Jan 1981
+577,160224945,"Kanimi, Alpha",M,Lipite 2,Student,01 Jan 1987
+578,160224731,"Kanimi, Amon",M,Lipite 2,Subsistence Farmer,01 Jan 1967
+579,160225115,"Kanimi, David",M,Lipite 2,Driver,01 Jan 1979
+580,160225119,"Kanimi, Nick",M,Lipite 2,Student,01 Jan 1970
+581,160444797,"Kapi, Echilus",M,Yowe,Student,06 May 2003
+582,160197344,"Kapi, Jerry",M,Yowe,Student,01 Jan 1990
+583,160197314,"Kapi, Kopi",M,Bune Nomu,Student,01 Jan 1990
+584,25082442,"Keleke, Seanjay",M,Kongibul,Student,06 Jun 1999
+585,160444816,"Kelly, Jepania",M,Bune Nomu,Student,24 Jun 2001
+586,25082338,"Ken, Kenedy",M,Kolepo,Student,04 Jun 2003
+587,160198717,"Kera, Kapi",M,Yowe,Subsistence Farmer,01 Jan 1967
+588,160223680,"Kera, Samson",M,Bune Nomu,Subsistence Farmer,01 Jan 1985
+589,160232238,"Keri, Kein",M,Lipite 2,Student,01 Jan 1988
+590,160230954,"Keri, Kelvin",M,Lipite 2,Subsistence Farmer,01 Jan 1977
+591,160232721,"Keri, Kennedy",M,Lipite 2,Subsistence Farmer,01 Jan 1979
+592,160232280,"Keri, Kenneth",M,Lipite 2,Student,01 Jan 1988
+593,160230956,"Keri, Keven",M,Lipite 2,Subsistence Farmer,01 Jan 1980
+594,160212788,"Kerry, Luke",M,Lipite 2,Worker,01 Jan 1969
+595,25082621,"Keven, Ryle",M,Pone Lodge,Student,01 Aug 1985
+596,160243978,"Kevin, Tile",M,Pone Lodge,Student,01 Jan 1984
+597,160243504,"Kire, Manuel",M,Lipite 1,Student,01 Jan 1991
+598,160243520,"Kirepe, Pepena",M,Kongibul,Subsistence Farmer,01 Jan 1942
+599,160211287,"Koi, Benny",M,Bune Nomu,Driver,01 Jan 1944
+600,160211399,"Koi, Robert",M,Bune Nomu,Councillor,01 Jan 1939
+601,160207096,"Koi, Tennis",M,Bune Nomu,Barman,01 Jan 1960
+602,160243899,"Koke, Tai",M,Waterfall,Subsistence Farmer,01 Jan 1942
+603,160444843,"Kololi, Solomi",M,Kolepo,Student,19 Jan 2003
+604,160204947,"Koltop, Joel",M,Kolepo,Driver,01 Jan 1979
+605,160224832,"Kombea, Kanimi",M,Lipite 2,Subsistence Farmer,01 Jan 1900
+606,160225014,"Kombea, Riepe",M,Kongibul,Subsistence Farmer,01 Jan 1936
+607,160234168,"Kombea, Simon",M,Lipite 2,Subsistence Farmer,01 Jan 1971
+608,160226387,"Kombea, Walawiye",M,Kiku Lupul,Subsistence Farmer,01 Jan 1943
+609,160227763,"Kombepa, Egypt",M,Lipite 1,Student,01 Jan 1981
+610,160227761,"Kombera, Israel",M,Lipite 1,Subsistence Farmer,01 Jan 1980
+611,160125835,"Korowi, Jeriko",M,Kolepo,Student,18 Feb 1996
+612,25082355,"Korowi, Kelistan",M,Kolepo,Student,10 May 2003
+613,25082210,"Kote, Manuel",M,Bune Nomu,Student,19 Apr 2004
+614,160203634,"Kote, Petro",M,Bune Nomu,Student,01 Jan 1987
+615,160244591,"Koya, Anderson",M,Waterfall,Student,01 Jan 1994
+616,160243676,"Koya, Andy",M,Waterfall,Student,01 Jan 1991
+617,160243898,"Koya, Dick",M,Waterfall,Student,01 Jan 1988
+618,160243813,"Koya, Kone",M,Waterfall,Subsistence Farmer,01 Jan 1979
+619,160215273,"Kulimu, Porowe",M,Pone Lodge,Subsistence Farmer,01 Jan 1930
+620,160217871,"Kuna, Jabert",M,Kolepo,Student,01 Jan 1987
+621,160226934,"Kuna, Phelemon",M,Kolepo,Subsistence Farmer,01 Jan 1975
+622,160215775,"Kuna, Semion",M,Kolepo,Student,01 Jan 1990
+623,160224584,"Lanea, Francis",M,Lipite 1,Worker,01 Jan 1951
+624,160213950,"Lanea, Kerry",M,Lipite 2,Subsistence Farmer,01 Jan 1940
+625,160224711,"Lanea, Mark",M,Lipite 1,Driver,01 Jan 1961
+626,160203659,"Lanea, Mendel",M,Lipite 1,Worker,01 Jan 1937
+627,160226282,"Lanea, Monda",M,Lipite 1,Pastor,01 Jan 1947
+628,160211180,"Lanea, Napa",M,Lipite 2,Subsistence Farmer,01 Jan 1940
+629,160213949,"Lanea, Tonny",M,Lipite 2,Unemployed,01 Jan 1974
+630,160224396,"Levi, Jabert",M,Kiku Lupul,Student,01 Jan 1981
+631,160215052,"Loiye, Lus",M,Kiku Lupul,Subsistence Farmer,01 Jan 1974
+632,160444857,"Loncy, Anorald",M,Pone Lodge,Carpenter,01 Jul 1989
+633,25082360,"Mack, Abram",M,Kolepo,Student,19 Apr 1999
+634,25082364,"Mack, Pedro",M,Kolepo,Student,11 Feb 1999
+635,25082369,"Mack, Tommy",M,Kolepo,Student,16 Apr 1998
+636,160213305,"Mai, Joseph",M,Kiku Lupul,Salesman,01 Jan 1976
+637,160213926,"Mai, Paulus",M,Kiku Lupul,Subsistence Farmer,01 Jan 1964
+638,160126630,"Mambo, Duncan",M,Kolepo,Teacher,18 Apr 1970
+639,160243808,"Mambo, Junior",M,Kolepo,Student,01 Jan 1988
+640,160224797,"Mambo, Lapua",M,Kolepo,Student,01 Jan 1984
+641,160224622,"Mambo, Mona",M,Kolepo,Student,01 Jan 1982
+642,160234189,"Mandel, Norman",M,Bune Nomu,Student,01 Jan 1980
+643,160221076,"Mandikel, Bruce",M,Bune Nomu,Driver,01 Jan 1951
+644,160227940,"Mano, Ismael",M,Kiku Lupul,Student,01 Jan 1989
+645,160125826,"Mano, Joddy",M,Kiku Lupul,Student,08 Nov 1991
+646,160225212,"Mano, Joel",M,Kiku Lupul,Student,01 Jan 1988
+647,160225209,"Mano, Nande",M,Kiku Lupul,Subsistence Farmer,01 Jan 1982
+648,160225073,"Mano, Terry",M,Kiku Lupul,Student,01 Jan 1987
+649,160214015,"Mapame, Max",M,Kiku Lupul,Subsistence Farmer,01 Jan 1956
+650,160233252,"Mark, Kevin",M,Lipite 1,Subsistence Farmer,01 Jan 1978
+651,160224705,"Mark, Newman",M,Lipite 1,Student,01 Jan 1990
+652,160227955,"Mark, Salias",M,Yowe,Subsistence Farmer,01 Jan 1979
+653,160444825,"Mathew, Timba",M,Bune Nomu,Student,21 Nov 2003
+654,160444890,"Mathew, Waiti",M,Kolepo,Student,12 Sep 1999
+655,160225265,"Mendel, Benjamin",M,Lipite 1,Fisherman,01 Jan 1980
+656,160224693,"Mendel, Jay jay",M,Lipite 1,Student,01 Jan 1986
+657,160229513,"Mendel, Naijolyn",M,Lipite 1,Student,01 Jan 1987
+658,160243493,"Mendel, Norman",M,Lipite 1,Student,01 Jan 1991
+659,160229696,"Mike, Junior",M,Pone Lodge,Student,01 Jan 1988
+660,160229700,"Mike, Pakena",M,Pone Lodge,Student,01 Jan 1988
+661,160227946,"Mike, Smith",M,Pone Lodge,Subsistence Farmer,01 Jan 1979
+662,160218669,"Mindili, Puleke",M,Lipite 1,Mechanic,01 Jan 1967
+663,160243497,"Monda, Albert",M,Lipite 1,Student,01 Jan 1983
+664,160244149,"Monda, Andrew",M,Lipite 1,Student,01 Jan 1987
+665,160243496,"Monda, Andron",M,Lipite 1,Student,01 Jan 1987
+666,160203686,"Mongo, Benjamin",M,Yowe,Student,01 Jan 1990
+667,160244559,"Napa, Andy",M,Lipite 2,Student,01 Jan 1984
+668,160212335,"Napa, Paul",M,Lipite 1,Unemployed,01 Jan 1969
+669,160211237,"Napa, Stanley",M,Lipite 2,Student,01 Jan 1978
+670,160125822,"Nelson, Less",M,Yowe,Machinist,01 May 1972
+671,160444813,"Nelson, Nasi",M,Lipite 2,Subsistence Farmer,13 Jan 1987
+672,160224796,"Nemela, Mambo",M,Kolepo,Subsistence Farmer,01 Jan 1946
+673,160224926,"Nemella, Pulupiya",M,Kolepo,Subsistence Farmer,01 Jan 1900
+674,160210743,"Nepe, Tule",M,Kiku Lupul,Subsistence Farmer,01 Jan 1945
+675,160230290,"Nipi, Goso",M,Bune Nomu,Subsistence Farmer,01 Jan 1980
+676,160229749,"Nipi, Jackson",M,Bune Nomu,Student,01 Jan 1988
+677,160229886,"Nipi, Kambani",M,Bune Nomu,Mechanic,01 Jan 1979
+678,160125852,"Nipi, Stenford",M,Bune Nomu,Subsistence Farmer,13 Oct 1994
+679,160139706,"Nobert, Nomson",M,Kiku Lupul,Not Specified,14 Sep 1994
+680,160126627,"Nobert, Norman",M,Kiku Lupul,Not Specified,14 Jun 1995
+681,160218712,"Noma, Andrew",M,Bune Nomu,Teacher,01 Jan 1971
+682,160224631,"Noma, Dokta",M,Bune Nomu,Subsistence Farmer,01 Jan 1961
+683,160217869,"Noma, George",M,Bune Nomu,Teacher,01 Jan 1979
+684,160444818,"Noma, Kayden",M,Bune Nomu,Subsistence Farmer,22 May 2003
+685,160204261,"Noma, Norman",M,Bune Nomu,Student,01 Jan 1986
+686,160218717,"Noma, Paul",M,Bune Nomu,Student,01 Jan 1978
+687,160243528,"Noma, Peroko",M,Bune Nomu,Student,01 Jan 1992
+688,160218624,"Noma, Wambo",M,Bune Nomu,Not Specified,01 Jan 2000
+689,160219184,"Noma, Wanpis",M,Bune Nomu,Subsistence Farmer,01 Jan 1980
+690,160216113,"Nomi, Anthon",M,Lipite 1,Student,01 Jan 1987
+691,160229215,"Norma, Lifton",M,Bune Nomu,Subsistence Farmer,01 Jan 1981
+692,160227819,"Norma, Stenford",M,Bune Nomu,Student,01 Jan 1989
+693,160125855,"Norman, Rocky",M,Bune Nomu,Hairdresser,14 Feb 1999
+694,160444848,"Oki, O'neil",M,Bune Nomu,Student,08 Sep 2003
+695,160243794,"Pange, Joseph",M,Yowe,Subsistence Farmer,01 Jan 1959
+696,160229382,"Pani, Nipi",M,Bune Nomu,Subsistence Farmer,01 Jan 1976
+697,160125850,"Paul, Derick",M,Bune Nomu,Student,14 Jun 1997
+698,160224904,"Paul, Henny peter",M,Kongibul,Household Duties,01 Jan 1972
+699,160243500,"Paul, Jayson",M,Lipite 1,Student,01 Jan 1988
+700,160232225,"Paul, Justin",M,Lipite 1,Student,01 Jan 1989
+701,25082248,"Paulus, Job",M,Kiku Lupul,Subsistence Farmer,10 Dec 1987
+702,160215423,"Paulus, Joe",M,Kiku Lupul,Student,01 Jan 1984
+703,160243804,"Pawa, Anda",M,Lipite 2,Student,01 Jan 1991
+704,160218779,"Pawa, Benny",M,Lipite 2,Not Specified,01 Jan 1963
+705,160218784,"Pawa, Newman",M,Lipite 2,Student,01 Jan 1985
+706,160220797,"Pawa, Rechard",M,Lipite 2,Student,01 Jan 1989
+707,160230286,"Pepena, Dopo",M,Kongibul,Student,01 Jan 1988
+708,160224890,"Pepena, Michael",M,Kongibul,Student,01 Jan 1983
+709,160224822,"Pepena, Paul",M,Kongibul,Salesman,01 Jan 1974
+710,160216464,"Pepena, Peter",M,Kongibul,Subsistence Farmer,01 Jan 1971
+711,25082379,"Pere, Jerry",M,Kolepo,Student,28 Apr 2004
+712,160230804,"Pere, Job",M,Kolepo,Subsistence Farmer,01 Jan 1979
+713,160218535,"Pere, Kaiye",M,Kolepo,Subsistence Farmer,01 Jan 1979
+714,160211388,"Pere, Korowi",M,Kolepo,Student,01 Jan 1990
+715,160218536,"Pere, Mathew",M,Kolepo,Student,01 Jan 1985
+716,160218704,"Pere, Pumbo",M,Kolepo,Subsistence Farmer,01 Jan 1976
+717,160212953,"Pere, Willie",M,Kolepo,Student,01 Jan 1990
+718,160227973,"Pete, Epo",M,Yowe,Student,01 Jan 1988
+719,160126645,"Peter, Eki",M,Yowe,Student,15 Jun 1992
+720,160139719,"Peter, Emmanuel",M,Yowe,Student,18 Apr 1994
+721,160229882,"Peter, Raymond",M,Kongibul,Student,01 Jan 1988
+722,160125832,"Peter, Remson",M,Kongibul,Student,21 Jun 1993
+723,160444807,"Peter, Roma",M,Yowe,Student,14 Feb 2002
+724,160444802,"Peya, Baka",M,Yowe,Student,16 Aug 2003
+725,160206448,"Peya, Mark",M,Yowe,Driver,01 Jan 1976
+726,160204084,"Peya, Nickson",M,Yowe,Student,01 Jan 1987
+727,160232428,"Pile, Nigel",M,Kiku Lupul,Subsistence Farmer,01 Jan 1976
+728,160210882,"Pinje, Mano",M,Kiku Lupul,Subsistence Farmer,01 Jan 1951
+729,160225076,"Pinje, Max",M,Kiku Lupul,Driver,01 Jan 1981
+730,160213065,"Porowe, Johnathan",M,Pone Lodge,Fisherman,01 Jan 1969
+731,160214008,"Porowe, Kevin",M,Pone Lodge,Soldier,01 Jan 1960
+732,160213022,"Porowe, Mike",M,Pone Lodge,Pilot,01 Jan 1962
+733,160214016,"Porowe, Peter",M,Pone Lodge,Subsistence Farmer,01 Jan 1966
+734,160213067,"Porowe, Stephen",M,Pone Lodge,Fisherman,01 Jan 1969
+735,160244658,"Puiye, Wara",M,Yowe,Subsistence Farmer,01 Jan 1964
+736,160224813,"Pulupiya, David",M,Kolepo,Student,01 Jan 1984
+737,160224700,"Pulupiya, Kire",M,Lipite 1,Church Worker,01 Jan 1976
+738,160224794,"Pulupiya, Petrus",M,Kolepo,Student,01 Jan 1976
+739,160224811,"Pulupiya, Wanpis",M,Kolepo,Student,01 Jan 1979
+740,160139721,"Pumbo, Fathon",M,Kolepo,Student,01 Jan 1997
+741,160244563,"Pumbo, Trevor",M,Kolepo,Student,01 Jan 1982
+742,160216445,"Rakelta, Pepena",M,Bune Nomu,Subsistence Farmer,01 Jan 1930
+743,160444847,"Rama, Paulus",M,Kiku Lupul,Subsistence Farmer,07 Apr 1998
+744,160220388,"Rama, Pere",M,Kolepo,Subsistence Farmer,01 Jan 1941
+745,160511147,"Raramu, Jackson",M,Kongibul,Teacher,20 Apr 1995
+746,160210427,"Raramu, Teru",M,Bune Nomu,Worker,01 Jan 1900
+747,160202359,"Raramu, William",M,Yowe,Worker,01 Jan 1942
+748,160225283,"Repono, Gabriel",M,Lipite 1,Manager,01 Jan 1937
+749,160226931,"Rex, Markson",M,Kolepo,Subsistence Farmer,01 Jan 2000
+750,160227092,"Rex, Nathaniel",M,Kolepo,Student,01 Jan 1989
+751,160232487,"Rex, Solo",M,Kolepo,Subsistence Farmer,01 Jan 1982
+752,25087227,"Riepe, Felix",M,Kolepo,Driver,07 Sep 2001
+753,160444866,"Riepe, Manu",M,Kolepo,Student,21 Dec 2000
+754,25082573,"Riepe, Mark",M,Kongibul,Student,20 Apr 1995
+755,160444852,"Rika, John",M,Kiku Lupul,Subsistence Farmer,02 Nov 1971
+756,160225229,"Riol, Ine",M,Kiku Lupul,Subsistence Farmer,01 Jan 1954
+757,160204206,"Robert, Denly",M,Yowe,Student,01 Jan 1990
+758,160201448,"Robert, Jackson",M,Bune Nomu,Student,01 Jan 1986
+759,160204983,"Robert, Jacob",M,Yowe,Butcher,01 Jan 1978
+760,160211443,"Robert, Rex",M,Bune Nomu,Student,01 Jan 1975
+761,160229337,"Robert, Stenford",M,Bune Nomu,Security,01 Jan 1983
+762,160229342,"Robert, Tenis",M,Bune Nomu,Subsistence Farmer,01 Jan 1989
+763,160213919,"Rombola, Fred",M,Pone Lodge,Subsistence Farmer,01 Jan 1981
+764,160244151,"Rombola, Jeromy",M,Lipite 1,Student,01 Jan 1992
+765,160215028,"Rombola, Kana",M,Pone Lodge,Student,01 Jan 1971
+766,160213523,"Rombola, Kingslee",M,Lipite 1,Student,01 Jan 1989
+767,160215641,"Rombola, Nomi",M,Lipite 1,Cook,01 Jan 1961
+768,160216085,"Rombola, Paiye",M,Pone Lodge,Carpenter,01 Jan 1981
+769,160213522,"Rombola, Travor",M,Lipite 1,Student,01 Jan 1987
+770,160225086,"Rombola, Wanis",M,Pone Lodge,Subsistence Farmer,01 Jan 1971
+771,160216685,"Rombola, William",M,Pone Lodge,Security,01 Jan 1974
+772,160139714,"Rombola, Windi",M,Pone Lodge,Councillor,11 Oct 1975
+773,160444809,"Ronny, Roderick",M,Yowe,Student,21 Jul 2001
+774,160444808,"Ronny, Sedrick",M,Yowe,Student,08 Nov 2003
+775,160202356,"Roy, Robin",M,Yowe,Student,01 Jan 1989
+776,160198874,"Roy, Ronny",M,Yowe,Student,01 Jan 1987
+777,160444883,"Saipa, Ismael",M,Bune Nomu,Student,19 Oct 2001
+778,160444881,"Siapa, Jodan",M,Bune Nomu,Student,21 Sep 1998
+779,160234285,"Simon, Jonathan",M,Lipite 2,Subsistence Farmer,01 Jan 1988
+780,160232794,"Simon, Solo",M,Lipite 2,Subsistence Farmer,01 Jan 1988
+781,160243498,"Soti, Lingsten",M,Lipite 1,Student,01 Jan 1986
+782,160243814,"Tai, Nickol",M,Waterfall,Student,01 Jan 1989
+783,160243900,"Tai, Peter",M,Waterfall,Subsistence Farmer,01 Jan 1968
+784,160243892,"Tai, Philemon",M,Waterfall,Student,01 Jan 1988
+785,160243890,"Tai, Silack",M,Waterfall,Teacher,01 Jan 1971
+786,160244560,"Tai, Tukundo",M,Waterfall,Student,01 Jan 1991
+787,160243889,"Tai, Willie",M,Waterfall,Subsistence Farmer,01 Jan 1981
+788,160201511,"Taiye, Bob",M,Kiku Lupul,Student,01 Jan 1990
+789,160211029,"Taiye, David",M,Kiku Lupul,Student,01 Jan 1979
+790,25082253,"Taiye, Jason",M,Kiku Lupul,Self Employed,29 Jul 1995
+791,160212875,"Taiye, Pile",M,Kiku Lupul,Teacher,01 Jan 1971
+792,160210856,"Taiye, Stanley",M,Kiku Lupul,Student,01 Jan 1977
+793,160202272,"Tamu, Peya",M,Yowe,Business man,01 Jan 1937
+794,160201446,"Tamu, Turksey",M,Bune Nomu,Subsistence Farmer,01 Jan 1956
+795,160204258,"Tarepela, Aiye",M,Bune Nomu,Student,01 Jan 1986
+796,160125846,"Tarepela, Mackward",M,Bune Nomu,Student,11 Jun 1997
+797,160204259,"Tarepela, Waiye",M,Bune Nomu,Student,01 Jan 1989
+798,160444826,"Tari, Mark",M,Bune Nomu,Computer Operator,31 Jul 1971
+799,160444885,"Tawenjo, Saipa",M,Bune Nomu,Subsistence Farmer,01 Feb 1979
+800,160244682,"Temane, Ali",M,Bune Nomu,Student,01 Jan 1984
+801,160444822,"Temane, Ara",M,Lipite 2,Student,11 Sep 2001
+802,160224678,"Temane, Charlie",M,Bune Nomu,Teacher,01 Jan 1976
+803,160243818,"Temane, Mathias",M,Bune Nomu,Mechanic,01 Jan 1988
+804,160243903,"Temane, Steward",M,Bune Nomu,Student,01 Jan 1989
+805,160225081,"Tende, Kololi",M,Kiku Lupul,Subsistence Farmer,01 Jan 1942
+806,160212710,"Tende, Taiye",M,Kiku Lupul,Subsistence Farmer,01 Jan 1941
+807,160215449,"Tende, Undi",M,Kiku Lupul,Subsistence Farmer,01 Jan 1941
+808,160213044,"Tende, Warepena",M,Kiku Lupul,Subsistence Farmer,01 Jan 1944
+809,160125848,"Tenis, Benlee",M,Bune Nomu,Student,16 Oct 1998
+810,160229421,"Tenis, Elvina",M,Bune Nomu,Student,01 Jan 1987
+811,160229449,"Tenis, Fredric",M,Bune Nomu,Student,01 Jan 1988
+812,160207100,"Tennis, Nickie",M,Bune Nomu,Student,01 Jan 1990
+813,160210441,"Teru, Ben",M,Bune Nomu,Business man,01 Jan 1954
+814,160210120,"Teru, Kote",M,Bune Nomu,Driver,01 Jan 1950
+815,160229424,"Teru, Lorry",M,Bune Nomu,Subsistence Farmer,01 Jan 1977
+816,160229452,"Teru, Nathan",M,Bune Nomu,Subsistence Farmer,01 Jan 1981
+817,160444833,"Teru, Towes",M,Lipite 2,Student,11 Feb 2003
+818,160218473,"Tilto, Joel",M,Kiku Lupul,Student,01 Jan 1984
+819,160225087,"Tilto, Levi",M,Kiku Lupul,Lawyer,01 Jan 1966
+820,160224507,"Tilto, Ruka",M,Kiku Lupul,Subsistence Farmer,01 Jan 1960
+821,160224405,"Tilto, Ulkiye",M,Kiku Lupul,Subsistence Farmer,01 Jan 1964
+822,160210951,"Tiriye, Daiye",M,Bune Nomu,Driver,01 Jan 1900
+823,160224791,"Tiriye, Noma",M,Bune Nomu,Subsistence Farmer,01 Jan 1900
+824,160211162,"Tiriye, Temane",M,Bune Nomu,Subsistence Farmer,01 Jan 1931
+825,160232578,"Tiye, Dike",M,Bune Nomu,Subsistence Farmer,01 Jan 1988
+826,160444898,"Toloi, Iso",M,Pone Lodge,Subsistence Farmer,04 Dec 1997
+827,160126647,"Tomaiye, Gilford",M,Yowe,Student,28 May 1995
+828,160126648,"Tomoiye, Kila",M,Yowe,Student,16 Nov 1997
+829,160232894,"Tuku, Enoch",M,Lipite 2,Student,01 Jan 1970
+830,160210567,"Tule, Jackson",M,Kiku Lupul,Student,01 Jan 1978
+831,160206595,"Tule, Makson",M,Kiku Lupul,Student,01 Jan 1981
+832,160206589,"Tule, Wane",M,Kiku Lupul,Subsistence Farmer,01 Jan 1971
+833,160201256,"Tumbul, Nelson",M,Yowe,Student,01 Jan 1983
+834,160198720,"Tumbulu, Kuri",M,Yowe,Student,01 Jan 1990
+835,160201106,"Tumbulu, Lein",M,Yowe,Student,01 Jan 1987
+836,160202365,"Tumbulu, Peter",M,Yowe,Subsistence Farmer,01 Jan 1984
+837,160198330,"Tumbulu, Philip",M,Yowe,Subsistence Farmer,01 Jan 1950
+838,160198323,"Tumbulu, Pieson",M,Yowe,Student,01 Jan 1981
+839,160198328,"Tumbulu, Wilson",M,Yowe,Student,01 Jan 1986
+840,160139712,"Turksey, Nindil",M,Bune Nomu,Student,18 Sep 1994
+841,25082415,"Tyson, Kenneth",M,Kolepo,Student,10 Apr 1999
+842,160213019,"Undi, Jeffry",M,Kiku Lupul,Salesman,01 Jan 1987
+843,25082432,"Undi, Joseph",M,Kolepo,Student,14 May 1998
+844,160215044,"Undi, Lawrance",M,Kiku Lupul,Subsistence Farmer,01 Jan 1976
+845,25082437,"Undi, Nathen",M,Kolepo,Student,07 Oct 2003
+846,160215456,"Undi, Stephen",M,Kiku Lupul,Subsistence Farmer,01 Jan 1973
+847,160215034,"Undi, Tenge",M,Kiku Lupul,Subsistence Farmer,01 Jan 1981
+848,160225192,"Walawiye, Nobert",M,Kiku Lupul,Student,01 Jan 1987
+849,160229666,"Walawiye, Peron",M,Kiku Lupul,Student,01 Jan 1988
+850,160225205,"Walawiye, Pewi",M,Kiku Lupul,Student,01 Jan 1989
+851,160220801,"Wamo, Charlie",M,Lipite 2,Subsistence Farmer,01 Jan 1966
+852,160444862,"Wamo, Joe",M,Lipite 1,Driver,21 Oct 1976
+853,160226594,"Wane, Nikton",M,Kiku Lupul,Subsistence Farmer,01 Jan 1987
+854,25082640,"Wanis, Bonsten",M,Pone Lodge,Student,01 May 2003
+855,160229561,"Wanis, Elias",M,Pone Lodge,Student,01 Jan 1987
+856,25082644,"Wanis, Elton",M,Pone Lodge,Student,10 Jun 2003
+857,160244656,"Wanis, Yoke",M,Pone Lodge,Student,01 Jan 1991
+858,160125856,"Wanpis, Albert",M,Bune Nomu,Subsistence Farmer,25 Jul 1990
+859,160125858,"Wanpis, Ferbian",M,Bune Nomu,Student,16 Feb 1993
+860,160139724,"Wanpis, Jareth",M,Bune Nomu,Sales Women,17 Nov 1996
+861,160243789,"Wara, Isack",M,Yowe,Student,01 Jan 1986
+862,160243790,"Wara, Izekiel",M,Yowe,Student,01 Jan 1988
+863,160213938,"Warapena, Nombert",M,Kiku Lupul,Subsistence Farmer,01 Jan 1976
+864,160125816,"Warepena, Ferman",M,Kiku Lupul,Subsistence Farmer,11 Feb 1986
+865,160204086,"Warepena, Gabby",M,Kiku Lupul,Student,01 Jan 1989
+866,160126623,"Warepena, Gibson",M,Kiku Lupul,Carpenter,16 Feb 1992
+867,160212692,"Warepena, John",M,Kiku Lupul,Subsistence Farmer,01 Jan 1973
+868,160226365,"Warepena, Merol",M,Kiku Lupul,Subsistence Farmer,01 Jan 1978
+869,160210480,"Warepena, Nema",M,Kiku Lupul,Subsistence Farmer,01 Jan 1980
+870,160126625,"Warepena, Rickson",M,Kiku Lupul,Not Specified,11 Nov 1997
+871,25082594,"Wesley, Jeremiah",M,Lipite 2,Student,03 Feb 2004
+872,160243501,"Wesly, Westen",M,Lipite 1,Student,01 Jan 1989
+873,160201521,"William, Jebert",M,Yowe,Student,01 Jan 1989
+874,160227673,"William, Jeremiah",M,Yowe,Driver,01 Jan 1981
+875,160201522,"William, Willison",M,Yowe,Subsistence Farmer,01 Jan 1981
+876,25082646,"Windi, Malkom",M,Pone Lodge,Student,10 Sep 2003
+877,160229676,"Windi, Malon",M,Pone Lodge,Student,01 Jan 1989
+878,160125837,"Yala, Dangstan",M,Lipite 2,Teacher,19 Feb 1978
+879,160218720,"Yana, Kuna",M,Kolepo,Subsistence Farmer,01 Jan 1947
+880,160217876,"Yana, Rex",M,Kolepo,Subsistence Farmer,01 Jan 1968
+881,160217664,"Yana, Soti",M,Lipite 1,Driver,01 Jan 1976
+882,160211390,"Yari, Brian",M,Lipite 2,Plumber,01 Jan 1971
+883,160215210,"Yari, Frank",M,Lipite 2,Self Employed,01 Jan 1969
+884,160215223,"Yari, Yombi",M,Lipite 2,Student,01 Jan 1973
+885,160244590,"Yawa, Koya",M,Waterfall,Subsistence Farmer,01 Jan 1968
+886,160444861,"Yombi, Jaydan",M,Lipite 2,Student,12 Jan 2001

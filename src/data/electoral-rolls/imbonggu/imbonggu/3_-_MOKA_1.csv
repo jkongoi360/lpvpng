@@ -1,0 +1,771 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160140036,"Ainjo, Aiyembo",F,Moka 1,Housegirl,01 Jan 1987
+2,160165337,"Ainjo, Baloi",F,Moka 1,Household Duties,01 Jan 1969
+3,160136584,"Ainjo, Dorothy",F,Pulupiri,Not Specified,11 May 1998
+4,160141979,"Ainjo, Eiyembo",F,Moka 1,Housegirl,01 Jan 1986
+5,160123824,"Ainjo, Jacklyn",F,Pulupiri,Household Duties,10 Feb 1999
+6,160167873,"Ainjo, Kainame",F,Moka 1,Household Duties,01 Jan 1969
+7,160163407,"Ainjo, Kepambo",F,Moka 1,Housegirl,01 Jan 1986
+8,160165497,"Ainjo, Memenda",F,Moka 1,Household Duties,01 Jan 1970
+9,160249597,"Aisak, Tiye",F,Moka 1,Subsistence Farmer,01 Jan 1964
+10,160140032,"Aiye, July",F,Moka 1,Household Duties,01 Jan 1975
+11,160140072,"Aiye, Miti",F,Moka 1,Household Duties,01 Jan 1961
+12,160141876,"Akena, Barbara",F,Moka 1,Household Duties,01 Jan 1975
+13,160204172,"Andi, Meyame",F,Moka 1,Household Duties,01 Jan 1972
+14,160246629,"Andi, Monika",F,Moka 1,Household Duties,11 Oct 1987
+15,160160058,"Angima, Jacklyn",F,Moka 1,Student,01 Jan 1985
+16,160206400,"Angima, Ricka",F,Moka 1,Teacher,01 Jan 1968
+17,160206558,"Angima, Sarah",F,Moka 1,Subsistence Farmer,01 Jan 1978
+18,160206559,"Angima, Tony",F,Moka 1,Subsistence Farmer,01 Jan 1980
+19,160157667,"Angima, Venesah",F,Moka 1,Subsistence Farmer,01 Jan 1982
+20,160141992,"Anjo, Docas",F,Moka 1,Teacher,01 Jan 1976
+21,160140071,"Anjo, Kiyame",F,Moka 1,Household Duties,01 Jan 1971
+22,160140070,"Anjo, Miti",F,Moka 1,Household Duties,01 Jan 1945
+23,160136583,"Anjo, Natil",F,Pulupiri,Not Specified,02 Sep 1987
+24,160246635,"Anna kupini, Jeniffer",F,Moka 1,Student,01 Jan 1993
+25,160205273,"Bapa, Jenny",F,Moka 1,Household Duties,01 Jan 1976
+26,160445736,"Bau, Betty",F,Pulupiri,Student,19 Dec 2003
+27,160445737,"Bau, Melen",F,Pulupiri,Student,24 Jul 2002
+28,160246262,"Bau, Melfin",F,Moka 1,Student,01 Jan 1992
+29,160162682,"Bembo, Polina",F,Moka 1,Household Duties,01 Jan 1979
+30,160160670,"Bepi, Cathy",F,Moka 1,Household Duties,01 Jan 1971
+31,160140065,"Bili, Janet",F,Moka 1,Household Duties,01 Jan 1971
+32,160141994,"Billy, Janet",F,Moka 1,Household Duties,01 Jan 1970
+33,160445718,"Buka, Georgina",F,Pulupiri,Household Duties,05 Sep 1994
+34,160249305,"Bune, Resgheal oka",F,Moka 1,Household Duties,01 Jan 1984
+35,25084695,"Danial, Christina",F,Moka 1,Pastor,06 Jun 2001
+36,160246460,"David, Lancy",F,Moka 1,Housegirl,01 Jan 1993
+37,25084697,"Day, Polien",F,Moka 1,Household Duties,08 Jul 1997
+38,160246625,"Dee daiye, Christiena",F,Moka 1,Household Duties,13 Sep 1963
+39,160136591,"Dopo, Porame",F,Moka 1,Not Specified,21 Jul 1972
+40,160165552,"Ena, Ruth",F,Moka 1,Household Duties,01 Jan 1983
+41,160139800,"Era, Akiri",F,Moka 1,Subsistence Farmer,01 Jan 1935
+42,160157571,"Era, Fiona",F,Moka 1,Student,01 Jan 1985
+43,160157659,"Era, Kakale",F,Moka 1,Subsistence Farmer,01 Jan 1956
+44,160157573,"Era, Mervis",F,Moka 1,Household Duties,01 Jan 1969
+45,160139990,"Era, Mini",F,Moka 1,Subsistence Farmer,01 Jan 1935
+46,160157569,"Era, Monda",F,Moka 1,Household Duties,01 Jan 1959
+47,160157574,"Era, Monica",F,Moka 1,Student,01 Jan 1980
+48,160157654,"Era, Tenge",F,Moka 1,Subsistence Farmer,01 Jan 1976
+49,25084700,"Erick, Lovina",F,Moka 1,Household Duties,03 Jun 1999
+50,160445762,"Francis, Susan",F,Pulupiri,Household Duties,17 May 2001
+51,160162813,"Garu, Becky",F,Moka 1,Household Duties,01 Jan 1971
+52,160160096,"Garu, Betty",F,Moka 1,Household Duties,01 Jan 1972
+53,160162803,"Garu, Palenu",F,Moka 1,Household Duties,01 Jan 1966
+54,160162807,"Garu, Pukiri",F,Moka 1,Household Duties,01 Jan 1973
+55,160162825,"Gemo, Wami",F,Moka 1,Household Duties,01 Jan 1965
+56,160162827,"Gemo mendel, Sera kuku",F,Moka 1,Household Duties,01 Jan 1966
+57,160141885,"Gigmai, Akame",F,Moka 1,Subsistence Farmer,01 Jan 1939
+58,160157618,"Gigmai, Dan",F,Moka 1,Subsistence Farmer,01 Jan 1972
+59,160157672,"Gigmai, Nerolyn",F,Moka 1,Household Duties,01 Jan 1982
+60,160163218,"Goraiye, Alice",F,Moka 1,Household Duties,01 Jan 1966
+61,160249298,"Gully, Raechal",F,Moka 1,Household Duties,17 Apr 1980
+62,160445681,"Jack, Jaiclyn",F,Papare,Household Duties,24 Nov 1997
+63,160123862,"Jack, Joiclyn",F,Papare,Household Duties,22 Jul 1992
+64,160445688,"Jackson, Monicka",F,Papare,Student,12 Nov 1997
+65,160140085,"Jacob, Kinie",F,Moka 1,Household Duties,01 Jan 1973
+66,25084703,"James, Dolly",F,Moka 1,Unemployed,04 Aug 1999
+67,160246524,"James, Ellen",F,Moka 1,Household Duties,18 May 1986
+68,25084705,"James, Gracelyn",F,Moka 1,Unemployed,06 Feb 1997
+69,25084775,"James, Jaylien",F,Papare,Student,01 Aug 2001
+70,25084707,"James, Jemilia",F,Moka 1,Student,04 Nov 2002
+71,160246404,"James, Kala",F,Moka 1,Household Duties,14 Jun 1985
+72,160141990,"James, Mapa",F,Moka 1,Household Duties,01 Jan 1980
+73,160246528,"James kondo, Linna",F,Moka 1,Household Duties,19 Jun 1965
+74,160246530,"James kondo, Reichal",F,Moka 1,Student,13 Oct 1993
+75,160246529,"James kondo, Reitoz",F,Moka 1,Student,19 Aug 1991
+76,160207191,"James mendel, Janet",F,Moka 1,Household Duties,01 Jan 1976
+77,160246623,"James pillipo, Kay rume",F,Moka 1,Household Duties,03 Sep 1963
+78,160123830,"Jepora, Gerce",F,Pulupiri,Student,06 Mar 1997
+79,160246515,"Jeypi puiye, Rossmery",F,Moka 1,Household Duties,13 Apr 1979
+80,160249293,"Jim, Luscy",F,Moka 1,Household Duties,14 Sep 1983
+81,160445734,"Joel, Melika",F,Pulupiri,Household Duties,11 Nov 2000
+82,160246988,"John, Bessly",F,Moka 1,Household Duties,21 Sep 1987
+83,160207133,"John mendel, Joy",F,Moka 1,Household Duties,01 Jan 1978
+84,160246476,"Jon kepu, Lucy",F,Moka 1,Household Duties,04 Jul 1993
+85,160445735,"Joseph, Rebecca",F,Pulupiri,Household Duties,25 May 2000
+86,160445686,"Junior, Kuida",F,Papare,Household Duties,02 Jan 1998
+87,160124010,"Kambo, Kerolyn",F,Papare,Household Duties,15 Sep 1989
+88,25084712,"Kampd, Relinta",F,Moka 1,Student,02 May 2002
+89,160124009,"Kanombo, Jully",F,Papare,Household Duties,20 Apr 1985
+90,160140064,"Kanombo, Maria",F,Moka 1,Household Duties,01 Jan 1976
+91,160136587,"Kapal, Jerusha",F,Pulupiri,Not Specified,19 Sep 1993
+92,160206306,"Karaiye, Wambiri",F,Moka 1,Housegirl,01 Jan 1982
+93,160246472,"Karl, Betty",F,Moka 1,Worker,22 Oct 1977
+94,160136590,"Kemapu, Jenny",F,Moka 1,Not Specified,11 Jan 1999
+95,160205069,"Kemapu, Lembo",F,Moka 1,Household Duties,01 Jan 1956
+96,160445680,"Kemapu, Senila",F,Papare,Housegirl,09 Nov 2002
+97,160160480,"Kemapu, Simion",F,Moka 1,Student,01 Jan 1990
+98,160206518,"Kepo, Mapele",F,Moka 1,Household Duties,01 Jan 1976
+99,160159000,"Kepu, Aiyanu",F,Moka 1,Household Duties,01 Jan 2000
+100,160247150,"Kepu, Onne",F,Moka 1,Household Duties,03 Feb 1956
+101,160160644,"Kera mendel, Kambele",F,Moka 1,Household Duties,01 Jan 1954
+102,160140076,"Kes, Lin",F,Moka 1,Household Duties,01 Jan 1973
+103,160160646,"Kewei, Lewa",F,Moka 1,Student,01 Jan 1987
+104,160246459,"Kira, Natil peter",F,Moka 1,Household Duties,01 Jan 1980
+105,160246469,"Kondowa, Momo",F,Moka 1,Household Duties,01 Jan 1962
+106,160445675,"Konopu, Keron",F,Papare,Student,23 Nov 2001
+107,160160052,"Konopu, Noiembo",F,Moka 1,Household Duties,01 Jan 1971
+108,160160795,"Korowa, Elis",F,Moka 1,Household Duties,01 Jan 1972
+109,160163063,"Korowa, Tuwame carolyn",F,Moka 1,Housegirl,01 Jan 1985
+110,160159959,"Korowambo, Glowaiye",F,Moka 1,Household Duties,01 Jan 1939
+111,160160489,"Kowa, Arem",F,Moka 1,Household Duties,01 Jan 1967
+112,160160490,"Kowa, Early mangono",F,Moka 1,Household Duties,01 Jan 1967
+113,160160631,"Kowa, Lilly liviye",F,Moka 1,Household Duties,01 Jan 1972
+114,160205088,"Koyapo, Bepi",F,Moka 1,Household Duties,01 Jan 1968
+115,160206300,"Koyapo, Joslyn",F,Moka 1,Housegirl,01 Jan 1989
+116,160206694,"Koyapo, Nopo",F,Moka 1,Household Duties,01 Jan 1967
+117,160140090,"Kui, Banana",F,Moka 1,Student,01 Jan 1990
+118,160207134,"Kui, Betty",F,Moka 1,Student,01 Jan 1989
+119,160206683,"Kui, Kolombaine",F,Moka 1,Household Duties,01 Jan 1956
+120,160206687,"Kui, Paula",F,Moka 1,Student,01 Jan 1986
+121,160246464,"Kupini, Anna",F,Moka 1,Worker,01 Jan 1987
+122,160139905,"Kupini, Early",F,Moka 1,Housegirl,01 Jan 1990
+123,160246463,"Kupini, Eli",F,Moka 1,Household Duties,01 Jan 1987
+124,160167947,"Kupini, Ipondo",F,Moka 1,Household Duties,01 Jan 1957
+125,160249110,"Kupini, Jelly",F,Moka 1,Student,01 Jan 1992
+126,160136585,"Kupini, Polyn",F,Pulupiri,Not Specified,25 Mar 1999
+127,160163184,"Kuru, Kipeme",F,Moka 1,Household Duties,01 Jan 1982
+128,160167772,"Langi, Kupali",F,Moka 1,Household Duties,01 Jan 1943
+129,160167958,"Langi, Tereno",F,Moka 1,Housegirl,01 Jan 1986
+130,160163068,"Limu, Meyame",F,Moka 1,Household Duties,01 Jan 1970
+131,160246507,"Lip kewei, Lelly",F,Moka 1,Student,19 Jun 1991
+132,160204174,"Lopeke, Komene",F,Moka 1,Household Duties,01 Jan 1972
+133,25084717,"Luck, Elssi",F,Moka 1,Student,28 May 2002
+134,160246408,"Luck, Jenet",F,Moka 1,Household Duties,11 Nov 1986
+135,160445745,"Luckas, Barbra",F,Pulupiri,Student,18 Sep 2002
+136,160445744,"Luckas, Morin",F,Pulupiri,Student,30 Mar 2003
+137,160249320,"Luke, Alice",F,Moka 1,Store Keeper,01 Jan 1966
+138,25084719,"Luke, Elissen",F,Moka 1,Student,06 Jan 2004
+139,160249231,"Luke puiye, Anna",F,Moka 1,Household Duties,01 Jan 1980
+140,160163417,"Lusa, Anna",F,Moka 1,Barman,01 Jan 1972
+141,160249107,"Mai, Lopeke",F,Moka 1,Household Duties,01 Nov 1967
+142,25084722,"Maik, Anita",F,Moka 1,Student,03 Apr 2002
+143,160123817,"Maik, Veronica",F,Pulupiri,Household Duties,09 Nov 1983
+144,160141991,"Mara, Jullie",F,Moka 1,Teacher,01 Jan 1987
+145,160140067,"Mara, Tereno",F,Moka 1,Household Duties,01 Jan 1950
+146,160246266,"Markson kupini, Serah",F,Moka 1,Store Keeper,01 Jan 1988
+147,25084781,"Marowa, Rose",F,Papare,Unemployed,08 Jul 1996
+148,25084724,"Marowa, Stella",F,Moka 1,Student,03 Nov 2000
+149,160246473,"Maski maroa, Ombolu",F,Moka 1,Household Duties,01 Apr 1964
+150,160246510,"Maski maroa, Selly",F,Moka 1,Household Duties,18 Sep 1992
+151,160159947,"Meke, Tangopa",F,Moka 1,Household Duties,01 Jan 1962
+152,160160044,"Mendel, Misi",F,Moka 1,Household Duties,01 Jan 1958
+153,160445733,"Mike, Selinda",F,Pulupiri,Student,28 Feb 2001
+154,25084783,"Mikmik, Nancy",F,Papare,Student,06 Feb 2000
+155,160160048,"Mikmik, Ponege",F,Moka 1,Household Duties,01 Jan 1952
+156,160123858,"Molas, Ally",F,Papare,Household Duties,20 Jul 1989
+157,160165571,"Mona, Kuku",F,Moka 1,Household Duties,01 Jan 1977
+158,160139900,"Monda, Elie",F,Moka 1,Student,01 Jan 1990
+159,160246634,"Monda, Lilly",F,Moka 1,Household Duties,01 Jan 1988
+160,160140052,"Monda, Maine",F,Moka 1,Household Duties,01 Jan 1966
+161,25084726,"Monda, Meriam",F,Moka 1,Student,07 Jun 2002
+162,160249177,"Monda, Nale",F,Moka 1,Subsistence Farmer,01 Jan 1979
+163,160123818,"Monda, Ruth",F,Pulupiri,Student,06 Aug 1996
+164,160249314,"Mondo, Bepy",F,Moka 1,Household Duties,01 Jan 1961
+165,25084727,"Moses, Bessika",F,Moka 1,Student,11 Jul 2002
+166,160165555,"Muku, Glowaiye julian",F,Moka 1,Household Duties,01 Jan 1957
+167,160141981,"Namba, Backy",F,Moka 1,Housegirl,01 Jan 1979
+168,160162979,"Namba, Betty",F,Moka 1,Housegirl,01 Jan 1989
+169,160136586,"Namba, Joick",F,Pulupiri,Not Specified,23 Nov 1995
+170,160162974,"Namba, Mark",F,Moka 1,Household Duties,01 Jan 1963
+171,160136708,"Nangu, Kepu",F,Pulupiri,Not Specified,13 Mar 1970
+172,160246630,"Nema, Jenet",F,Moka 1,Student,18 Nov 1991
+173,160140042,"Nema, Jennet",F,Moka 1,Housegirl,01 Jan 1979
+174,160445748,"Nembo, Dalcy",F,Pulupiri,Student,27 Mar 2004
+175,25084728,"Nembo, Dialcy",F,Moka 1,Student,28 Jun 2003
+176,160445751,"Nembo, Elcy",F,Pulupiri,Student,28 Apr 2004
+177,160162886,"Nembo, Liniet",F,Moka 1,Household Duties,01 Jan 1973
+178,25084729,"Nembo, Milly",F,Moka 1,Student,28 Jun 2002
+179,160162880,"Nembo, Nancy",F,Moka 1,Household Duties,01 Jan 1971
+180,160445750,"Nembo, Selly",F,Pulupiri,Student,26 Nov 2002
+181,25084730,"Nepara, Polyen",F,Moka 1,Student,06 Jan 2003
+182,25084731,"Nepera, Emolyen",F,Moka 1,Student,04 May 2003
+183,160249327,"Neppra, Kethy",F,Moka 1,Household Duties,29 Sep 1988
+184,160160100,"Nige, Kuni",F,Moka 1,Household Duties,01 Jan 1977
+185,160160109,"Nige, Maria dolly",F,Moka 1,Household Duties,01 Jan 1984
+186,160206653,"Ninge, Ria",F,Moka 1,Household Duties,01 Jan 1968
+187,160246512,"Ninge - ck, Lavinna",F,Moka 1,Household Duties,13 Jul 1992
+188,160246442,"Ninge - ck, Soty",F,Moka 1,Household Duties,13 Jul 1992
+189,160246474,"Niye, Kakaime",F,Moka 1,Household Duties,01 Jan 1941
+190,160206680,"Norman, Joice",F,Moka 1,Student,01 Jan 1989
+191,160206399,"Norman, Josephin",F,Moka 1,Student,01 Jan 1990
+192,160141884,"Norman, Topo",F,Moka 1,Household Duties,01 Jan 1953
+193,160162875,"Oke, Makdalina",F,Moka 1,Housegirl,01 Jan 1987
+194,160162874,"Oke, Maria o",F,Moka 1,Housegirl,01 Jan 1987
+195,160246264,"Oke, Oty",F,Moka 1,Student,21 Nov 1992
+196,160140054,"Oki, Ranges",F,Moka 1,Subsistence Farmer,01 Jan 1969
+197,160206524,"Oki, Roselyn",F,Moka 1,Student,01 Jan 1986
+198,160159996,"Opa, Hellen wait",F,Moka 1,Household Duties,01 Jan 1967
+199,160246509,"Opa, Lex kenao",F,Moka 1,Household Duties,01 Jan 1983
+200,25084797,"Oppa, Maita",F,Pulupiri,Student,08 Apr 2000
+201,160249326,"Painte, Appame",F,Moka 1,Household Duties,12 Dec 1970
+202,160123819,"Pala, Christina",F,Pulupiri,Household Duties,02 Apr 1989
+203,160140040,"Pala, Norri",F,Moka 1,Household Duties,01 Jan 1973
+204,160141983,"Pandea, Evelyn",F,Moka 1,Housegirl,01 Jan 1988
+205,160141982,"Pandea, Kola",F,Moka 1,Housegirl,01 Jan 1986
+206,160140058,"Pandea, Kuku",F,Moka 1,Housegirl,01 Jan 1988
+207,160165559,"Pandea, Yoko lina",F,Moka 1,Household Duties,01 Jan 1950
+208,160136707,"Panjipo, Yorokame",F,Pulupiri,Not Specified,13 Sep 1970
+209,160160041,"Pate, Katrina",F,Moka 1,Household Duties,01 Jan 1968
+210,160140062,"Paul, Joice",F,Moka 1,Housegirl,01 Jan 1988
+211,25084798,"Paul, Lidia",F,Pulupiri,Teacher,07 Jul 2003
+212,160160807,"Paul, Linet",F,Moka 1,Housegirl,01 Jan 1984
+213,160123856,"Paul, Rebecca",F,Papare,Student,15 Jun 1994
+214,160246468,"Paul tee, Saphina",F,Moka 1,Household Duties,12 May 1985
+215,160246511,"Pengera, Evalyne",F,Moka 1,Student,16 Jul 1992
+216,160160256,"Pengera, Joina",F,Moka 1,Student,01 Jan 1988
+217,160160638,"Pengera, Lole",F,Moka 1,Household Duties,01 Jan 1967
+218,160445756,"Peter, Anna",F,Pulupiri,Household Duties,02 Feb 1990
+219,160123848,"Peter, Anny",F,Moka 1,Student,04 Jan 1999
+220,160246526,"Peter, Erolyn",F,Moka 1,Student,02 May 1993
+221,25084733,"Peter, Faitch",F,Moka 1,Student,09 Oct 2002
+222,160123845,"Peter, Hakenes",F,Pulupiri,Household Duties,06 Jun 1997
+223,160445755,"Peter, Lucy",F,Pulupiri,Student,20 Dec 2002
+224,160136592,"Peter, Nioma",F,Papare,Not Specified,01 Feb 1997
+225,160445689,"Peter, Niomy",F,Papare,Housegirl,23 Aug 2001
+226,25084735,"Peter, Pennial",F,Moka 1,Student,28 Jun 2000
+227,160249086,"Peter, Resgheal",F,Moka 1,Household Duties,01 Jan 1973
+228,160160003,"Peya, Betty tawendo",F,Moka 1,Housegirl,01 Jan 1984
+229,160160472,"Peyandi, Andoiye",F,Moka 1,Household Duties,01 Jan 1959
+230,160162829,"Peyandi, Lopeke",F,Moka 1,Household Duties,01 Jan 1963
+231,160160114,"Peyandi, Piye",F,Moka 1,Household Duties,01 Jan 1956
+232,160123863,"Philip, Jenny",F,Papare,Household Duties,16 Feb 1988
+233,25084742,"Philip, Semila",F,Moka 1,Student,26 Apr 2000
+234,160445753,"Philip, Semila",F,Pulupiri,Student,27 Mar 2004
+235,25084746,"Philipos, Meriam",F,Moka 1,Student,08 Jun 2002
+236,160445702,"Philipos, Miriham",F,Pulupiri,Household Duties,26 Apr 1998
+237,25084806,"Phillip, Keneme",F,Pulupiri,Student,03 Jun 2000
+238,160249106,"Piele, Yupu",F,Moka 1,Subsistence Farmer,01 Jan 1970
+239,160140043,"Pilge, Molo",F,Moka 1,Household Duties,01 Jan 1960
+240,160139897,"Pilge, Torumu",F,Moka 1,Housegirl,01 Jan 1973
+241,160163261,"Pili, Janet",F,Moka 1,Household Duties,01 Jan 1978
+242,160123829,"Pili, Jenny",F,Pulupiri,Household Duties,09 Jun 1982
+243,160141883,"Pilimon, Nanzy",F,Moka 1,Household Duties,01 Jan 1981
+244,160246462,"Pinje, Elvis",F,Moka 1,Subsistence Farmer,23 May 1988
+245,160249090,"Pinje, Esta",F,Moka 1,Student,01 Jan 1993
+246,160167775,"Pinje, Waru",F,Moka 1,Household Duties,01 Jan 1969
+247,160123851,"Pipo, Maclyn",F,Moka 1,Housegirl,21 Nov 1989
+248,160140039,"Pira, Aiyembo",F,Moka 1,Household Duties,01 Jan 1971
+249,160249093,"Pira tipora, Soti",F,Moka 1,Housegirl,01 Jan 1991
+250,160141880,"Pitimi, Josepin",F,Moka 1,Student,01 Jan 1990
+251,160206757,"Pitimi, Late",F,Moka 1,Student,01 Jan 1988
+252,160139901,"Pitimi, Molupi",F,Moka 1,Household Duties,01 Jan 1940
+253,160206692,"Pitimi, Steveny",F,Moka 1,Student,01 Jan 1987
+254,160249098,"Polina, Buka",F,Moka 1,Household Duties,01 Jan 1978
+255,160162801,"Pombo, Linda",F,Moka 1,Household Duties,01 Jan 1975
+256,160162889,"Pombo, Nancy",F,Moka 1,Household Duties,01 Jan 1973
+257,160157638,"Pombo, Pilembo",F,Moka 1,Household Duties,01 Jan 1939
+258,160249087,"Pora, Liya",F,Moka 1,Household Duties,20 Oct 1990
+259,160162984,"Poya, Era",F,Moka 1,Household Duties,01 Jan 1950
+260,160165548,"Poya, Kololi",F,Moka 1,Household Duties,01 Jan 1952
+261,160162986,"Poya, Nomaino jacklyn",F,Moka 1,Housegirl,01 Jan 1987
+262,160165564,"Poya, Nopie betty",F,Moka 1,Housegirl,01 Jan 1983
+263,160246986,"Pr-monda, Tendambo",F,Moka 1,Household Duties,01 Jan 1973
+264,160167808,"Puiye, Kongenili doris",F,Moka 1,Household Duties,01 Jan 1974
+265,160140033,"Puke, Lina",F,Moka 1,Household Duties,01 Jan 1982
+266,160246628,"Puke, Nopiye",F,Moka 1,Household Duties,01 Jan 1966
+267,160445698,"Puke, Wenly",F,Pulupiri,Student,15 Jul 2002
+268,160123839,"Pulu, Baperah",F,Pulupiri,Student,16 Oct 1994
+269,160206305,"Pulu, Serah",F,Moka 1,Household Duties,01 Jan 1972
+270,160246263,"Pulu yamba, Delma",F,Moka 1,Student,01 Jan 1992
+271,160246535,"Pulu yamba, Melly",F,Moka 1,Student,01 Jan 1992
+272,160136597,"Pupu, Jacicca",F,Papare,Not Specified,21 Apr 1993
+273,160249322,"Pupu, Mata",F,Moka 1,Household Duties,24 Nov 1980
+274,160140037,"Rami, Tatino",F,Moka 1,Household Duties,01 Jan 1963
+275,160123825,"Ramy, Nomy",F,Pulupiri,Student,25 Jun 1994
+276,160136598,"Ray, Polyn",F,Pulupiri,Not Specified,23 Aug 1991
+277,160445712,"Rex, Renolien",F,Pulupiri,Student,17 Sep 2003
+278,160123827,"Rex, Soti",F,Pulupiri,Student,02 Feb 1997
+279,160246513,"Rocky -, Mariya",F,Moka 1,Household Duties,07 Apr 1985
+280,160445677,"Ruben, Lerina",F,Papare,Student,27 Jun 2003
+281,25084755,"Senny, Jelyen",F,Moka 1,Student,28 Apr 2004
+282,160445721,"Simon, Shara",F,Pulupiri,Household Duties,28 Apr 2004
+283,160445709,"Stenly, Linda",F,Pulupiri,Student,21 Dec 1996
+284,160136710,"Steven, Dorothy",F,Pulupiri,Not Specified,14 Mar 1989
+285,160205121,"Steven, Markline",F,Moka 1,Household Duties,01 Jan 1977
+286,25084757,"Sun, Warena",F,Moka 1,Student,27 Jun 2001
+287,160207126,"Taiye, Jeroty",F,Moka 1,Student,01 Jan 1980
+288,160140088,"Taiye, Kerolin",F,Moka 1,Student,01 Jan 1982
+289,160207122,"Taiye, Richael",F,Moka 1,Household Duties,01 Jan 1972
+290,160204182,"Temane, Tambu",F,Moka 1,Household Duties,01 Jan 1960
+291,160206314,"Ten, Everlyn",F,Moka 1,Student,01 Jan 1988
+292,160206310,"Ten, Rose",F,Moka 1,Household Duties,01 Jan 1965
+293,160207194,"Ten, Tiye",F,Moka 1,Household Duties,01 Jan 1962
+294,160123820,"Tendaico, Christina",F,Pulupiri,Household Duties,09 Oct 1993
+295,160247149,"Tendako, Anna",F,Moka 1,Household Duties,02 Feb 1965
+296,160445732,"Tendako, Lien",F,Pulupiri,Housegirl,28 Sep 2002
+297,160445757,"Tendel, Lucia",F,Pulupiri,Student,26 Apr 2004
+298,160160664,"Tendeli, Holi",F,Moka 1,Housegirl,01 Jan 1986
+299,160160663,"Tendeli, Peano",F,Moka 1,Household Duties,01 Jan 1968
+300,160207204,"Tendike, Mondi",F,Moka 1,Household Duties,01 Jan 1973
+301,160123869,"Tennis, Joice",F,Papare,Student,10 Dec 1993
+302,160123834,"Tepora, Ronda",F,Pulupiri,Household Duties,19 May 1992
+303,160139902,"Terema, Susan",F,Moka 1,Household Duties,01 Jan 1975
+304,160123843,"Terigi, Melody",F,Pulupiri,Household Duties,28 Nov 1980
+305,160123842,"Terigi, Polyn",F,Pulupiri,Household Duties,24 Nov 1980
+306,160123840,"Tero, Monica",F,Pulupiri,Household Duties,17 Dec 1990
+307,160140046,"Tesa, Wakiye",F,Moka 1,Household Duties,01 Jan 2000
+308,160140041,"Thomas, Jennifer",F,Moka 1,Student,01 Jan 1988
+309,160160805,"Thomas, Joicelyn",F,Moka 1,Student,01 Jan 1990
+310,160205282,"Thomas, Junior",F,Moka 1,Household Duties,01 Jan 1946
+311,160445716,"Thomas, Malina",F,Pulupiri,Household Duties,21 Nov 1995
+312,160445687,"Thomas, Tanna",F,Papare,Housegirl,25 May 2003
+313,25084789,"Tikate, Mallina",F,Papare,Unemployed,21 Nov 1995
+314,25084763,"Tikate, Rose",F,Moka 1,Student,04 Apr 2002
+315,25084791,"Tikate, Tanna",F,Papare,Unemployed,26 May 2003
+316,160246624,"Tikate bob, Nombea",F,Moka 1,Household Duties,04 Sep 1961
+317,160160054,"Tilipu, Ropini",F,Moka 1,Household Duties,01 Jan 1953
+318,160445671,"Timon, Monny",F,Papare,Student,18 Nov 2002
+319,160445672,"Timon, Ronny",F,Papare,Student,18 Nov 2002
+320,160445727,"Timothy, Frida",F,Pulupiri,Household Duties,20 Nov 2000
+321,160167884,"Tingele, Jacklyn",F,Moka 1,Household Duties,01 Jan 1979
+322,160206998,"Tipo, Maria",F,Moka 1,Household Duties,01 Jan 1974
+323,160140087,"Tipo, Mary",F,Moka 1,Household Duties,01 Jan 1972
+324,160140086,"Tipo, Richael",F,Moka 1,Household Duties,01 Jan 1976
+325,160141879,"Tipo, Tolai",F,Moka 1,Household Duties,01 Jan 1979
+326,160165333,"Tipora, Tangondo",F,Moka 1,Household Duties,01 Jan 1957
+327,160140079,"Tiriye, Peno",F,Moka 1,Household Duties,01 Jan 1973
+328,160140061,"Tiro, Wani",F,Moka 1,Household Duties,01 Jan 1983
+329,160246984,"Toiye, Teness",F,Moka 1,Household Duties,01 Jan 1976
+330,160163168,"Tokopa, Angulame",F,Moka 1,Household Duties,01 Jan 1946
+331,160160148,"Tomba, Kanu",F,Moka 1,Household Duties,01 Jan 1967
+332,160246519,"Tomba, Penny",F,Moka 1,Student,15 Nov 1993
+333,160445682,"Tomba, Raylien",F,Papare,Student,26 Apr 2004
+334,160160004,"Tomba, Rosely",F,Moka 1,Student,01 Jan 1989
+335,160246504,"Tommy, Kerelyn - j",F,Moka 1,Household Duties,24 Nov 1985
+336,160163263,"Tomoiye, Tongi",F,Moka 1,Housegirl,01 Jan 1984
+337,160163225,"Tope, Betty",F,Moka 1,Housegirl,01 Jan 1986
+338,160123844,"Tope, Delma",F,Pulupiri,Student,12 Sep 1991
+339,160445760,"Tope, Grace",F,Pulupiri,Student,29 Mar 2004
+340,160123847,"Tope, Miriam",F,Moka 1,Housegirl,10 Jul 1992
+341,160160669,"Tope, Mombo monica",F,Moka 1,Household Duties,01 Jan 1961
+342,160160141,"Toroli, Angela",F,Moka 1,Household Duties,01 Jan 1974
+343,160204187,"Toropo, Laki",F,Moka 1,Student,01 Jan 1989
+344,160140082,"Toropo, Urembo",F,Moka 1,Household Duties,01 Jan 1946
+345,160123837,"Tumbi, Esta",F,Pulupiri,Household Duties,18 Nov 1979
+346,160159986,"Tungi, Olambo",F,Moka 1,Household Duties,01 Jan 1945
+347,160445695,"Turi, Besta",F,Pulupiri,Student,15 Sep 2002
+348,160167878,"Turi, July",F,Moka 1,Household Duties,01 Jan 1973
+349,160445693,"Turi, Korea",F,Pulupiri,Student,12 Nov 1998
+350,160249109,"Undini, Esta",F,Moka 1,Household Duties,01 Jan 1986
+351,160445690,"Wakena, Jessila",F,Papare,Student,11 Sep 2003
+352,160246406,"Wakena, Josphien",F,Moka 1,Student,12 Feb 1993
+353,160162804,"Wakena, Rosely",F,Moka 1,Student,01 Jan 1990
+354,160162868,"Walume, Ale alice",F,Moka 1,Household Duties,01 Jan 1969
+355,160160799,"Walume, Tomambo agnes",F,Moka 1,Housegirl,01 Jan 1982
+356,160163160,"Wambo, Rema",F,Moka 1,Household Duties,01 Jan 1932
+357,160140081,"Wandi, Miriam",F,Moka 1,Household Duties,01 Jan 1975
+358,160205260,"Wanie, Merolyn",F,Moka 1,Household Duties,01 Jan 1972
+359,160247013,"Wanpis, Samira",F,Moka 1,Household Duties,27 Aug 1989
+360,160141888,"Warea, Jenny",F,Moka 1,Receptionist,01 Jan 1976
+361,160157648,"Warea, Joyna",F,Moka 1,Subsistence Farmer,01 Jan 1983
+362,160157649,"Warea, Judy",F,Moka 1,Student,01 Jan 1984
+363,160157623,"Warea, Kule",F,Moka 1,Subsistence Farmer,01 Jan 1973
+364,160139989,"Warea, Toimbo",F,Moka 1,Subsistence Farmer,01 Jan 1971
+365,160141889,"Warea, Wamiambo",F,Moka 1,Student,01 Jan 1985
+366,160445761,"Wari, Faith",F,Pulupiri,Student,27 Sep 2002
+367,160160151,"Weiye, Kuti",F,Moka 1,Household Duties,01 Jan 1973
+368,160445670,"Werex, Ennila",F,Papare,Student,11 Jun 2001
+369,160445669,"Werex, Soty",F,Papare,Student,19 Dec 2003
+370,25084767,"Wesly, Esta",F,Moka 1,Household Duties,05 Jul 1998
+371,160445701,"Wesly, Steveny",F,Pulupiri,Household Duties,08 Jul 1999
+372,160136595,"Windi, Jesica",F,Papare,Not Specified,05 Oct 1991
+373,160159991,"Windi, Joice toino",F,Moka 1,Household Duties,01 Jan 1976
+374,160249234,"Windi, Kiniye",F,Moka 1,Household Duties,01 Feb 1960
+375,160159990,"Windi, Margret pundeme",F,Moka 1,Housegirl,01 Jan 1987
+376,160159989,"Windi, Molupi",F,Moka 1,Household Duties,01 Jan 1952
+377,25084769,"Yaks, Enna",F,Moka 1,Student,04 Jun 2001
+378,160249091,"Yakumbu, Betty",F,Moka 1,Household Duties,12 Sep 1982
+379,160445725,"Yama, Manus",F,Moka 1,Household Duties,01 Jan 1976
+380,160445723,"Yama, Moly",F,Moka 1,Household Duties,04 Jul 2001
+381,160157629,"Yama, Opambo",F,Moka 1,Household Duties,01 Jan 1938
+382,160445722,"Yama, Sinu",F,Moka 1,Student,20 Nov 2002
+383,160157630,"Yama mendel, Tana",F,Moka 1,Housegirl,01 Jan 1974
+384,160205091,"Yamba, Awape",F,Moka 1,Household Duties,01 Jan 1959
+385,160123841,"Yamba, Kengenambo",F,Pulupiri,Student,20 Nov 1993
+386,160203717,"Yamba, Magoino",F,Moka 1,Household Duties,01 Jan 1936
+387,160207198,"Yamba, Merolyn",F,Moka 1,Housegirl,01 Jan 1984
+388,160207329,"Yando, Marriame",F,Moka 1,Household Duties,01 Jan 1970
+389,160123852,"Yando, Monicca",F,Moka 1,Housegirl,17 Oct 1989
+390,160140060,"Yando, Sedra",F,Moka 1,Household Duties,01 Jan 1971
+391,160246267,"Yando, Sendra",F,Moka 1,Household Duties,28 Nov 1982
+392,160445741,"Yawi, Angolar",F,Pulupiri,Student,28 Nov 2003
+393,160445740,"Yawi, Sioney",F,Pulupiri,Household Duties,23 Nov 2002
+394,160162679,"Yombi, Ondopatili",F,Moka 1,Household Duties,01 Jan 1970
+395,160445713,"Yombi, Reckina",F,Pulupiri,Household Duties,09 Dec 1996
+396,160206308,"Agi, Yamba",M,Moka 1,Subsistence Farmer,01 Jan 1937
+397,160140035,"Ainjo, Aiye",M,Moka 1,Driver,01 Jan 1972
+398,160165347,"Ainjo, Andi",M,Moka 1,Subsistence Farmer,01 Jan 1986
+399,160163410,"Ainjo, Nanu",M,Moka 1,Houseboy,01 Jan 1984
+400,160165344,"Ainjo, Tingele",M,Moka 1,Subsistence Farmer,01 Jan 1976
+401,160168663,"Ainjo, Turi",M,Moka 1,Subsistence Farmer,01 Jan 1971
+402,160249102,"Aisak, Manu",M,Moka 1,Subsistence Farmer,01 Jan 1987
+403,160140069,"Aiye, Anjo",M,Moka 1,Subsistence Farmer,01 Jan 1941
+404,160140075,"Aiye, Billy",M,Moka 1,Subsistence Farmer,01 Jan 1972
+405,160140074,"Aiye, Kelgai",M,Moka 1,Subsistence Farmer,01 Jan 1976
+406,160140073,"Aiye, Lucas",M,Moka 1,Subsistence Farmer,01 Jan 1978
+407,160140068,"Aiye, Ten",M,Moka 1,Subsistence Farmer,01 Jan 1960
+408,160141993,"Aiye, Wesly",M,Moka 1,Student,01 Jan 1989
+409,160246895,"Aiyep, July",M,Moka 1,Subsistence Farmer,13 Jun 1987
+410,160140057,"Angima, Jack",M,Moka 1,Driver,01 Jan 1966
+411,160159954,"Angima, Samson",M,Moka 1,Student,01 Jan 1983
+412,160205120,"Anjo, Andrew",M,Moka 1,Student,01 Jan 1989
+413,160136582,"Anjo, Joe",M,Pulupiri,Not Specified,01 Apr 1997
+414,160140044,"Anjo, Steven",M,Moka 1,Subsistence Farmer,01 Jan 1971
+415,160246438,"Appa, Tapoz",M,Moka 1,Subsistence Farmer,22 Apr 1969
+416,160162883,"Bepi, Apple",M,Moka 1,Houseboy,01 Jan 1989
+417,160445746,"Bepi, Hardward",M,Pulupiri,Student,30 Jul 2001
+418,160445747,"Bepi, John",M,Pulupiri,Student,24 Nov 2000
+419,160123836,"Bepi, Numan",M,Pulupiri,Student,18 Dec 1992
+420,160246437,"Beppy, Miwa",M,Moka 1,Subsistence Farmer,14 Nov 1981
+421,25084692,"Billy, Kine",M,Moka 1,Student,04 Oct 2000
+422,160123868,"Bune, Junior",M,Papare,Student,04 Aug 1994
+423,160445707,"Bune, Junior",M,Pulupiri,Student,30 Nov 2001
+424,160445706,"Bune, Ronny",M,Pulupiri,Student,29 Sep 2003
+425,160249105,"David iendeli, John",M,Moka 1,Subsistence Farmer,01 Jan 1990
+426,160123864,"Emba, Manuel",M,Papare,Student,17 Aug 1992
+427,160158703,"Era, Chalie",M,Moka 1,Student,01 Jan 1983
+428,160157653,"Era, Elke",M,Moka 1,Subsistence Farmer,01 Jan 1972
+429,160157645,"Era, Lopeke",M,Moka 1,Soldier,01 Jan 1951
+430,160139991,"Era, Niningi",M,Moka 1,Pastor,01 Jan 1966
+431,160158704,"Era, Pis",M,Moka 1,Subsistence Farmer,01 Jan 1971
+432,160157655,"Era, Sam",M,Moka 1,Worker,01 Jan 1969
+433,160157650,"Era, Yapi",M,Moka 1,Pastor,01 Jan 1949
+434,160140038,"Garu, Bembo ben",M,Moka 1,Subsistence Farmer,01 Jan 1973
+435,160162816,"Garu, Mole tuku",M,Moka 1,Security,01 Jan 1978
+436,160162798,"Garu, Paul lawa",M,Moka 1,Pastor,01 Jan 1968
+437,160162805,"Garu, Peter",M,Moka 1,Subsistence Farmer,01 Jan 1974
+438,160162802,"Garu, Waiya wakena",M,Moka 1,Subsistence Farmer,01 Jan 1965
+439,160162815,"Garu, Wan man kote",M,Moka 1,Subsistence Farmer,01 Jan 1976
+440,160163332,"Garu, Yombi paul",M,Moka 1,Subsistence Farmer,01 Jan 1968
+441,160160097,"Gemo, Ck nige",M,Moka 1,Subsistence Farmer,01 Jan 1941
+442,160162819,"Gemo, Opambo",M,Moka 1,Subsistence Farmer,01 Jan 1961
+443,160162823,"Gemo, Thomas mari",M,Moka 1,Pastor,01 Jan 1965
+444,160157671,"Gigmai, Vincent",M,Moka 1,Subsistence Farmer,01 Jan 1981
+445,160160089,"Glowaiye, Limbiye",M,Moka 1,Subsistence Farmer,01 Jan 1976
+446,160160038,"Glowaiye, Pate steven",M,Moka 1,Subsistence Farmer,01 Jan 1968
+447,160160249,"Glowaiye, Pengera",M,Moka 1,Subsistence Farmer,01 Jan 1963
+448,160141986,"Glowaiye, Rocky",M,Moka 1,Subsistence Farmer,01 Jan 1983
+449,160160642,"Glowaiye, Tommy tenis",M,Moka 1,Subsistence Farmer,01 Jan 1984
+450,160445730,"Guli, Neithan",M,Pulupiri,Student,14 Aug 2002
+451,25084773,"James, Jackson",M,Papare,Student,03 May 2003
+452,160445739,"James, Jaymon",M,Pulupiri,Student,27 Apr 2004
+453,25084777,"James, Jayson",M,Papare,Student,04 May 2003
+454,160123859,"James, Samuel",M,Papare,Student,21 Oct 1995
+455,160123860,"James, Simion",M,Papare,Student,23 May 1993
+456,25084709,"Jepi, Mila",M,Moka 1,Student,19 Apr 2002
+457,160445728,"Jim, Numan",M,Pulupiri,Student,27 May 2002
+458,160123826,"Kabal, Philip",M,Pulupiri,Student,26 Sep 1991
+459,160165556,"Kakule, Pandea pambo",M,Moka 1,Subsistence Farmer,01 Jan 1946
+460,160165332,"Kakule, Tipora",M,Moka 1,Subsistence Farmer,01 Jan 1951
+461,160249317,"Kandeiye, John",M,Moka 1,Subsistence Farmer,12 Nov 1977
+462,160445685,"Kanombo, Raymon",M,Papare,Student,20 Jul 2003
+463,160445684,"Kanombo, Raynicky",M,Papare,Houseboy,28 Mar 2002
+464,160167871,"Kapal, Ainjo",M,Moka 1,Subsistence Farmer,01 Jan 1950
+465,160167946,"Kapal, Kupini",M,Moka 1,Subsistence Farmer,01 Jan 1939
+466,160163140,"Kapena, Mona jeff",M,Moka 1,Mechanic,01 Jan 1970
+467,160249108,"Kapena, Muku",M,Moka 1,Peace Officer,01 Jan 1962
+468,160167482,"Kapena, Poya paul",M,Moka 1,Subsistence Farmer,01 Jan 1947
+469,160249310,"Karaiye, Prembo ywai",M,Moka 1,Subsistence Farmer,01 Jan 1953
+470,160206304,"Karaiye, Pulu",M,Moka 1,Subsistence Farmer,01 Jan 1970
+471,160246991,"Karaiye, Tumbi",M,Moka 1,Salesman,01 Jan 1968
+472,160205090,"Karaiye, Yando",M,Moka 1,Subsistence Farmer,01 Jan 1969
+473,25084714,"Kari, Benny",M,Moka 1,Student,03 May 2003
+474,160246479,"Karl, Jeremy",M,Moka 1,Student,13 Oct 1992
+475,160445679,"Kemapu, Livai",M,Papare,Houseboy,28 Mar 2004
+476,160207323,"Kemapu, Luke",M,Moka 1,Houseboy,01 Jan 1982
+477,160123866,"Kemapu, Pepena",M,Papare,Student,16 Mar 1995
+478,160123849,"Kemapu, Robita",M,Moka 1,Housegirl,08 Nov 1989
+479,160160158,"Kepu, Pawa",M,Moka 1,Subsistence Farmer,01 Jan 1972
+480,160159003,"Kepu, Saimon",M,Moka 1,Subsistence Farmer,01 Jan 1986
+481,160247151,"Kepu, Toiye",M,Moka 1,Subsistence Farmer,09 Aug 1976
+482,160160046,"Kera, Kewei",M,Moka 1,Subsistence Farmer,01 Jan 1951
+483,160141987,"Kera, Mendel",M,Moka 1,Subsistence Farmer,01 Jan 1956
+484,160205284,"Kereme, Lopeke",M,Moka 1,Subsistence Farmer,01 Jan 1964
+485,160204189,"Kereme, Wini",M,Moka 1,Subsistence Farmer,01 Jan 1988
+486,160160092,"Kewei, Andrew",M,Moka 1,Subsistence Farmer,01 Jan 1988
+487,160160090,"Kewei, Jeffry",M,Moka 1,Teacher,01 Jan 1986
+488,160123854,"Kinde, Gibson",M,Papare,Sales Women,15 Feb 1995
+489,160249311,"Kira, John",M,Moka 1,Subsistence Farmer,01 Jan 1973
+490,160249088,"Kondowa, Pora",M,Moka 1,Subsistence Farmer,21 Nov 1990
+491,160246627,"Kondowa, Wanpis",M,Moka 1,Driver,19 May 1988
+492,160246481,"Konopu, Jeremaiya",M,Moka 1,Student,12 Dec 1991
+493,160445674,"Konopu, Johnah",M,Papare,Student,19 Sep 2003
+494,160123861,"Konopu, Tande",M,Papare,Student,11 Feb 1996
+495,160204930,"Kopele, Kemapu",M,Moka 1,Subsistence Farmer,01 Jan 1957
+496,160160117,"Kowa, Kemapu",M,Moka 1,Subsistence Farmer,01 Jan 1964
+497,160160492,"Kowa, Philip pilto",M,Moka 1,Subsistence Farmer,01 Jan 1974
+498,160206695,"Koyapo, Endy",M,Moka 1,Student,01 Jan 1981
+499,160206667,"Koyapo, Soti",M,Moka 1,Student,01 Jan 1989
+500,160206673,"Kui, Bomai",M,Moka 1,Mechanic,01 Jan 1985
+501,160206685,"Kui, John",M,Moka 1,Subsistence Farmer,01 Jan 1990
+502,160160659,"Kulimu, Wambo",M,Moka 1,Subsistence Farmer,01 Jan 1900
+503,160167949,"Kupini, Iki",M,Moka 1,Carpenter,01 Jan 1981
+504,160249092,"Kupini, Josuha",M,Moka 1,Student,01 Jan 1992
+505,160141980,"Kupini, Markson",M,Moka 1,Student,01 Jan 1987
+506,160163414,"Kupini, Philip",M,Moka 1,Student,01 Jan 1989
+507,160163411,"Kupini, Puke micheal",M,Moka 1,Subsistence Farmer,01 Jan 1980
+508,160167950,"Kupini, Wendo jucken",M,Moka 1,Houseboy,01 Jan 1985
+509,160123832,"Kuru, Dickson",M,Pulupiri,Student,18 Jan 1994
+510,160123833,"Kuru, Gena",M,Pulupiri,Student,26 Apr 1997
+511,160160794,"Kuru, James ombo",M,Moka 1,Houseboy,01 Jan 1982
+512,160163238,"Kuru, Tero terence",M,Moka 1,Houseboy,01 Jan 1986
+513,160160676,"Kuru, Tiro rodny",M,Moka 1,Subsistence Farmer,01 Jan 1973
+514,160162962,"Langi, Pinje",M,Moka 1,Subsistence Farmer,01 Jan 1967
+515,160167805,"Langi, Weto",M,Moka 1,Houseboy,01 Jan 1985
+516,160167776,"Langi, Yakumbu",M,Moka 1,Student,01 Jan 1978
+517,160249104,"Leruku mara, Andi",M,Moka 1,Subsistence Farmer,01 Jan 1977
+518,160123835,"Limu, Pulupiri",M,Pulupiri,Student,29 Apr 1997
+519,160205272,"Lopeke, Sam",M,Moka 1,Subsistence Farmer,01 Jan 1989
+520,160445743,"Luckas, Franch",M,Pulupiri,Student,26 Mar 2004
+521,160246989,"Luke, Felix",M,Moka 1,Student,01 Jan 1989
+522,25084721,"Luke, Tekla",M,Moka 1,Student,01 Feb 1997
+523,160167768,"Lusa, Kewamu",M,Moka 1,Salesman,01 Jan 1973
+524,160246527,"Mack, Jack",M,Moka 1,Driver,20 Sep 1988
+525,160246441,"Mack, Luck",M,Moka 1,Subsistence Farmer,17 Aug 1990
+526,160246440,"Mack, Mathew",M,Moka 1,Student,16 Sep 1992
+527,25084794,"Maik, Wambo",M,Pulupiri,Student,06 Nov 2002
+528,160204170,"Mara, Andi",M,Moka 1,Subsistence Farmer,01 Jan 1969
+529,160205275,"Mara, Jacob",M,Moka 1,Subsistence Farmer,01 Jan 1988
+530,160206449,"Mara, James",M,Moka 1,Subsistence Farmer,01 Jan 1974
+531,160249292,"Mara, Leruku",M,Moka 1,Subsistence Farmer,01 Jan 1940
+532,160139899,"Mara, Tendike",M,Moka 1,Subsistence Farmer,01 Jan 1974
+533,25084723,"Marowa, Bill",M,Moka 1,Student,06 Jul 1998
+534,25084779,"Marowa, Misaken",M,Papare,Student,20 Oct 1994
+535,25084725,"Marwa, Heiden",M,Moka 1,Student,04 Jul 2000
+536,160246478,"Maski maroa, Kari",M,Moka 1,Driver,11 May 1990
+537,160246471,"Maski maroa, Kenneth",M,Moka 1,Student,18 Feb 1992
+538,160123865,"Meck, Roy",M,Papare,Student,14 May 1991
+539,160445726,"Mendel, Yama",M,Moka 1,Pastor,26 Nov 1965
+540,160123821,"Mike, Timothy",M,Pulupiri,Student,01 Feb 1992
+541,160160050,"Mikmik, Tirik",M,Moka 1,Subsistence Farmer,01 Jan 1988
+542,160160093,"Mikmik, Yunu",M,Moka 1,Subsistence Farmer,01 Jan 1984
+543,25084785,"Mikumik, Norman",M,Papare,Student,04 Feb 2004
+544,160206690,"Monda, Dake",M,Moka 1,Student,01 Jan 1989
+545,160445738,"Monda, Jentail",M,Pulupiri,Student,22 Nov 2003
+546,160139904,"Monda, Lio",M,Moka 1,Student,01 Jan 1990
+547,160445729,"Mondo, Aiye",M,Pulupiri,Student,13 Nov 2001
+548,160249315,"Mondo, Joe",M,Moka 1,Student,17 Aug 1991
+549,160445699,"Namba, Habraham",M,Pulupiri,Student,15 Nov 1999
+550,160205132,"Namba, Timothy",M,Moka 1,Student,01 Jan 1990
+551,160162976,"Namba, Undi jack",M,Moka 1,Houseboy,01 Jan 1988
+552,160123816,"Nangu, Mark",M,Pulupiri,Subsistence Farmer,16 Apr 1980
+553,160136596,"Nema, Johnatan",M,Papare,Not Specified,20 Jul 1993
+554,160246631,"Nema, Mux",M,Moka 1,Student,21 Mar 1993
+555,160246470,"Nema, Samuel",M,Moka 1,Student,24 Oct 1989
+556,160140063,"Nema, Semuel",M,Moka 1,Student,01 Jan 1990
+557,160445752,"Nembo, Brandon",M,Pulupiri,Student,30 Aug 2003
+558,160445749,"Nembo, Brendy",M,Pulupiri,Student,29 Sep 2003
+559,160160098,"Nige, James",M,Moka 1,Worker,01 Jan 1977
+560,160162812,"Nige, Nick nigi",M,Moka 1,Student,01 Jan 1990
+561,160206522,"Nimba, Oki",M,Moka 1,Subsistence Farmer,01 Jan 1952
+562,160139898,"Nindie, Mara",M,Moka 1,Subsistence Farmer,01 Jan 1948
+563,160163186,"Nindil, Korowa",M,Moka 1,Subsistence Farmer,01 Jan 1958
+564,160163067,"Nindil, Limu stanely",M,Moka 1,Subsistence Farmer,01 Jan 1968
+565,160162867,"Nindil, Walume kanga",M,Moka 1,Subsistence Farmer,01 Jan 1964
+566,160206652,"Niningi, Ninge",M,Moka 1,Subsistence Farmer,01 Jan 1960
+567,160246475,"Niye, Jepi puiye",M,Moka 1,Worker,07 Dec 1978
+568,160246517,"Niye, Maski maroa",M,Moka 1,Subsistence Farmer,01 Jan 1963
+569,160249313,"Nomi, Mondo",M,Moka 1,Subsistence Farmer,01 Jan 1960
+570,160141985,"Nomi, Pala",M,Moka 1,Subsistence Farmer,01 Jan 1971
+571,160249316,"Nomy, Jim",M,Moka 1,Subsistence Farmer,12 Nov 1964
+572,160123822,"Nomy, Numan",M,Pulupiri,Student,04 Mar 1997
+573,160206515,"Norman, Cain",M,Moka 1,Student,01 Jan 1983
+574,160206678,"Norman, Garry",M,Moka 1,Subsistence Farmer,01 Jan 1984
+575,160140056,"Norman, Junior",M,Moka 1,Student,01 Jan 1986
+576,160162872,"Oke, Mark",M,Moka 1,Subsistence Farmer,01 Jan 1990
+577,160206525,"Oki, Kenneth",M,Moka 1,Student,01 Jan 1988
+578,160206523,"Oki, Mark",M,Moka 1,Student,01 Jan 1985
+579,160159998,"Opa, Lessly emba",M,Moka 1,Subsistence Farmer,01 Jan 1973
+580,160160138,"Opa, Philip pilimbo",M,Moka 1,Worker,01 Jan 1965
+581,25084795,"Oppa, Isso",M,Pulupiri,Accountant,02 Aug 2002
+582,160160056,"Pamba, Kepu",M,Moka 1,Subsistence Farmer,01 Jan 1948
+583,160159988,"Pamba, Windi",M,Moka 1,Subsistence Farmer,01 Jan 1957
+584,160249233,"Pandea, Iki",M,Moka 1,Student,12 Nov 1989
+585,160140051,"Pandea, Monda",M,Moka 1,Subsistence Farmer,01 Jan 1970
+586,160162836,"Pandea, Tipi simon",M,Moka 1,Houseboy,01 Jan 1983
+587,160136705,"Panje, Jennis",M,Pulupiri,Not Specified,06 Oct 1992
+588,160123815,"Panjipo, Ray",M,Pulupiri,Subsistence Farmer,16 Oct 1994
+589,160445708,"Pantipo, Fidless",M,Pulupiri,Student,22 Nov 2002
+590,160445691,"Paul, Essen",M,Papare,Student,27 Apr 2004
+591,160246407,"Paul, Jackson",M,Moka 1,Student,02 Nov 1992
+592,160123855,"Paul, Jastine",M,Papare,Student,10 Mar 1992
+593,25084732,"Paul, Junior",M,Moka 1,Unemployed,06 Apr 1994
+594,160445692,"Paul, Solomon",M,Papare,Student,20 Nov 2003
+595,160249291,"Pauwe, Kepu",M,Moka 1,Subsistence Farmer,01 Jan 1962
+596,160249294,"Pauwe, Tendako",M,Moka 1,Subsistence Farmer,01 Jan 1964
+597,160246265,"Peter, Dannial",M,Moka 1,Student,27 Nov 1989
+598,160246525,"Peter, Eric",M,Moka 1,Student,02 May 1993
+599,160123846,"Peter, Francis",M,Pulupiri,Student,21 Sep 1996
+600,25084800,"Peter, Jacob",M,Pulupiri,Student,22 Jul 2003
+601,160246477,"Peter, Joshua",M,Moka 1,Student,01 Jan 1993
+602,160246461,"Peter, Kristoper",M,Moka 1,Student,09 Apr 1991
+603,160445714,"Peter, Kukule",M,Pulupiri,Student,19 Jun 2000
+604,160160153,"Peya, Niksen nindil",M,Moka 1,Subsistence Farmer,01 Jan 1984
+605,160160149,"Peya, Willy weiye",M,Moka 1,Subsistence Farmer,01 Jan 1971
+606,160160485,"Peyandi, Goerge ningi",M,Moka 1,Subsistence Farmer,01 Jan 1974
+607,160160113,"Peyandi, Mathius nema",M,Moka 1,Pastor,01 Jan 1958
+608,25084738,"Philip, Gepo",M,Moka 1,Student,04 Aug 2000
+609,25084802,"Philip, Isa",M,Pulupiri,Student,07 May 2003
+610,25084804,"Philip, Jacob",M,Pulupiri,Student,06 Nov 2003
+611,25084740,"Philip, Junior",M,Moka 1,Student,03 May 2003
+612,160445754,"Philip, Samuel",M,Pulupiri,Student,24 Nov 2002
+613,25084744,"Philip, Semmy",M,Moka 1,Student,01 Jun 2002
+614,160246990,"Piele, Kiap",M,Moka 1,Student,01 Jan 1991
+615,160249178,"Piele, Tenes",M,Moka 1,Student,01 Jan 1988
+616,160206302,"Pilge, Peya",M,Moka 1,Houseboy,01 Jan 1987
+617,160141989,"Pilge, Thomas",M,Moka 1,Subsistence Farmer,01 Jan 1958
+618,160445720,"Pilly, Iso",M,Pulupiri,Student,06 Aug 2001
+619,160445719,"Pilly, Jacob",M,Pulupiri,Student,06 Aug 2001
+620,160445696,"Pinge, Philimon",M,Pulupiri,Student,02 Mar 2000
+621,160249089,"Pinje, Philipos",M,Moka 1,Subsistence Farmer,15 Jun 1989
+622,160246636,"Pira, Jackson",M,Moka 1,Student,27 Apr 1993
+623,160141882,"Pitimi, Kepo",M,Moka 1,Subsistence Farmer,01 Jan 1972
+624,160141881,"Pitimi, Koyapo",M,Moka 1,Subsistence Farmer,01 Jan 1957
+625,160139903,"Pitimi, Philimon",M,Moka 1,Subsistence Farmer,01 Jan 1978
+626,160140053,"Pitimi, Terema",M,Moka 1,Subsistence Farmer,01 Jan 1974
+627,160206672,"Pitimi, Tony",M,Moka 1,Subsistence Farmer,01 Jan 1987
+628,25084748,"Plya, Raymond",M,Moka 1,Student,08 Sep 2002
+629,160249318,"Pokora, Teringi",M,Moka 1,Subsistence Farmer,01 Jan 1955
+630,160162800,"Pombo, James kondo",M,Moka 1,Subsistence Farmer,01 Jan 1969
+631,160157640,"Pombo, Meke",M,Moka 1,Subsistence Farmer,01 Jan 1959
+632,160246409,"Pombo, Oke",M,Moka 1,Subsistence Farmer,14 Jul 1964
+633,160160250,"Pombo, Wengi",M,Moka 1,Subsistence Farmer,01 Jan 1974
+634,160123814,"Pora, Jim",M,Pulupiri,Electrician,13 Aug 1989
+635,160445705,"Pora, Raymon",M,Pulupiri,Student,28 Apr 2002
+636,160445697,"Pora, Stenly",M,Pulupiri,Houseboy,27 Apr 2002
+637,160249306,"Porra, Rodnny",M,Moka 1,Student,18 Nov 1991
+638,160162988,"Poya, Ena san",M,Moka 1,Subsistence Farmer,01 Jan 1982
+639,160445700,"Puiye, Berry",M,Pulupiri,Student,24 Aug 2000
+640,160249303,"Puiye, Luke",M,Moka 1,Business man,01 Jan 1964
+641,160445703,"Pupu, Assaiah",M,Pulupiri,Student,26 Apr 2004
+642,160249304,"Pupu, Elizah",M,Moka 1,Student,01 Jan 1992
+643,160445704,"Pupu, Jack",M,Pulupiri,Student,23 Nov 2002
+644,25084751,"Pupu, Osea",M,Moka 1,Student,11 Jun 2003
+645,160167806,"Rami, Puiye john",M,Moka 1,Subsistence Farmer,01 Jan 1977
+646,160123828,"Rex, Jackson",M,Pulupiri,Student,17 Feb 1996
+647,25084753,"Rex, Pakule",M,Moka 1,Student,04 Jun 2001
+648,160207130,"Rex, Taiye",M,Moka 1,Subsistence Farmer,01 Jan 1964
+649,160445676,"Ruben, Detai",M,Papare,Student,27 Apr 2004
+650,160445678,"Ruben, Enuel",M,Papare,Student,21 Oct 2002
+651,25084787,"Ruben, Lapei",M,Papare,Student,04 Feb 2003
+652,25084807,"Ruben, Simai",M,Pulupiri,Student,08 Apr 2003
+653,160246521,"St- pate, Charly",M,Moka 1,Student,22 Oct 1990
+654,160246522,"St- pate, Stenly",M,Moka 1,Student,19 Feb 1992
+655,25084809,"Stanley, Samson",M,Pulupiri,Student,02 May 2003
+656,160445711,"Stenly, Maika",M,Pulupiri,Student,24 Oct 1997
+657,160445710,"Stenly, Philimon",M,Pulupiri,Student,20 Mar 1994
+658,160123853,"Tale, Dopo",M,Moka 1,Pastor,07 Oct 1970
+659,160206312,"Ten, Daniel",M,Moka 1,Student,01 Jan 1984
+660,160249307,"Tendako, Neppra",M,Moka 1,Subsistence Farmer,03 Nov 1987
+661,25084759,"Tendako, Nige",M,Moka 1,Student,05 May 2002
+662,160136709,"Tendako, Steven",M,Pulupiri,Not Specified,13 Nov 1982
+663,160249232,"Tendako mara, Joel",M,Moka 1,Houseboy,01 Jan 1989
+664,160123867,"Tende, Bune",M,Papare,Subsistence Farmer,23 Apr 1979
+665,160136706,"Tende, Panjipo",M,Pulupiri,Not Specified,02 Aug 1962
+666,160445758,"Tendel, Amos",M,Pulupiri,Student,20 Apr 2003
+667,160445759,"Tendel, Moses",M,Pulupiri,Student,14 Jul 2002
+668,160140055,"Tendi, Norman",M,Moka 1,Electrician,01 Jan 1951
+669,160205278,"Tendike, Jackubus",M,Moka 1,Subsistence Farmer,01 Jan 1986
+670,160207189,"Tendike, Stanly",M,Moka 1,Student,01 Jan 1987
+671,160123831,"Tepora, Firman",M,Pulupiri,Student,29 Jun 1996
+672,160123838,"Teringi, Andi",M,Pulupiri,Subsistence Farmer,25 Oct 1991
+673,160249319,"Teringi, Molombo",M,Moka 1,Driver,01 Jan 1987
+674,160140047,"Tesa, Akena",M,Moka 1,Subsistence Farmer,01 Jan 1974
+675,160141995,"Tesa, Kes",M,Moka 1,Subsistence Farmer,01 Jan 1972
+676,160140077,"Tesa, Tiks",M,Moka 1,Subsistence Farmer,01 Jan 1977
+677,160140045,"Tesa, Tony",M,Moka 1,Subsistence Farmer,01 Jan 1941
+678,160140048,"Tesa, Wanie",M,Moka 1,Subsistence Farmer,01 Jan 1972
+679,160445717,"Thomas, Huti",M,Pulupiri,Subsistence Farmer,04 Aug 1986
+680,160445731,"Thomas, Max",M,Pulupiri,Student,26 Oct 2002
+681,25084761,"Thomas, Tato",M,Moka 1,Student,18 Nov 2003
+682,160445673,"Tikate, John",M,Papare,Houseboy,14 Jun 2002
+683,160160094,"Tilipu, Konopu",M,Moka 1,Subsistence Farmer,01 Jan 1969
+684,160160155,"Tilipu, Max makijil",M,Moka 1,Subsistence Farmer,01 Jan 1972
+685,160160047,"Tilipu, Mikmik",M,Moka 1,Subsistence Farmer,01 Jan 1950
+686,160160156,"Tilipu, Timon toroli",M,Moka 1,Security,01 Jan 1972
+687,160141878,"Tipo, Steven",M,Moka 1,Councillor,01 Jan 1958
+688,160163259,"Tipora, Buka",M,Moka 1,Houseboy,01 Jan 1986
+689,160249097,"Tipora, Jeff",M,Moka 1,Subsistence Farmer,01 Jan 1989
+690,160249235,"Tipora, Robert",M,Moka 1,Subsistence Farmer,01 Jan 1986
+691,160165335,"Tipora, Tennis",M,Moka 1,Houseboy,01 Jan 1983
+692,160140078,"Tiriye, Thomas",M,Moka 1,Subsistence Farmer,01 Jan 1942
+693,160140080,"Tiriye, Wandi",M,Moka 1,Subsistence Farmer,01 Jan 1973
+694,160163177,"Tokopa, Aiye ramond",M,Moka 1,Houseboy,01 Jan 1986
+695,160205130,"Tokopa, Jacob",M,Moka 1,Houseboy,01 Jan 1989
+696,160163180,"Tokopa, James",M,Moka 1,Houseboy,01 Jan 1989
+697,160246537,"Tokopa, Nollepo",M,Moka 1,Subsistence Farmer,24 Nov 1992
+698,160140059,"Tokopa, Pira peter",M,Moka 1,Subsistence Farmer,01 Jan 1969
+699,160160672,"Tokopa, Warea rex",M,Moka 1,Subsistence Farmer,01 Jan 1980
+700,160163172,"Tokopa, Yando morris",M,Moka 1,Subsistence Farmer,01 Jan 1972
+701,160445683,"Tomba, Kelly",M,Papare,Student,11 Nov 2003
+702,160136594,"Tomba, Philimon",M,Papare,Not Specified,06 Aug 1995
+703,160163325,"Tomoiye, Marowa",M,Moka 1,Houseboy,01 Jan 1983
+704,160141984,"Tomoiye, Pili",M,Moka 1,Houseboy,01 Jan 1971
+705,160123850,"Tope, Josuah",M,Moka 1,Student,14 Mar 1999
+706,160163224,"Tope, Kari",M,Moka 1,Houseboy,01 Jan 1985
+707,160123813,"Tope, Wari",M,Pulupiri,Not Specified,20 Jun 1993
+708,160204180,"Toropo, Elaiza",M,Moka 1,Subsistence Farmer,01 Jan 1986
+709,160140049,"Toropo, Inok",M,Moka 1,Subsistence Farmer,01 Jan 1982
+710,160141877,"Toropo, Iso",M,Moka 1,Subsistence Farmer,01 Jan 1975
+711,160140084,"Toropo, Jacob",M,Moka 1,Subsistence Farmer,01 Jan 1958
+712,160140083,"Toropo, Ombele",M,Moka 1,Subsistence Farmer,01 Jan 1954
+713,160157631,"Tumbulu, Tomba laime",M,Moka 1,Subsistence Farmer,01 Jan 1963
+714,160160633,"Tungi, Opa",M,Moka 1,Subsistence Farmer,01 Jan 1941
+715,160445694,"Turi, Jeremior",M,Pulupiri,Student,30 Dec 1999
+716,160123823,"Turi, Junior",M,Pulupiri,Student,08 Sep 1996
+717,160246506,"Tuwai, Ape",M,Moka 1,Subsistence Farmer,12 Jul 1984
+718,160246516,"Tuwai, Karl",M,Moka 1,Worker,02 Sep 1975
+719,160246505,"Tuwai, Mindil",M,Moka 1,Subsistence Farmer,01 Feb 1980
+720,160246480,"Tuwai, Paul malkom",M,Moka 1,Driver,17 Mar 1977
+721,160246632,"Tuwai, Yapi",M,Moka 1,Subsistence Farmer,19 Jul 1982
+722,160140089,"Umari, Kui",M,Moka 1,Subsistence Farmer,01 Jan 1941
+723,160123857,"Wakena, Timothy",M,Papare,Student,10 Aug 1995
+724,160136588,"Walume, Jerol",M,Pulupiri,Not Specified,26 Aug 1996
+725,160163221,"Wambo, Bili",M,Moka 1,Subsistence Farmer,01 Jan 1972
+726,160160662,"Wambo, Goraiye peter",M,Moka 1,Subsistence Farmer,01 Jan 1963
+727,160162885,"Wambo, Nembo paul",M,Moka 1,Store Keeper,01 Jan 1970
+728,160163216,"Wambo, Pipo",M,Moka 1,Houseboy,01 Jan 1983
+729,160163165,"Wambo, Tendeli",M,Moka 1,Subsistence Farmer,01 Jan 1966
+730,160160666,"Wambo, Tope",M,Moka 1,Subsistence Farmer,01 Jan 1959
+731,160162865,"Wapea, Muku sabbastin",M,Moka 1,Peace Officer,01 Jan 1950
+732,160249323,"Wapeya, Painte",M,Moka 1,Subsistence Farmer,01 Jan 1962
+733,160249321,"Wappiri, Pupu",M,Moka 1,Subsistence Farmer,12 Oct 1967
+734,160157621,"Warea, Cathy",M,Moka 1,Student,01 Jan 1986
+735,160157690,"Warea, Ensthern",M,Moka 1,Student,01 Jan 1987
+736,160157647,"Warea, Patrick",M,Moka 1,Policeman,01 Jan 1975
+737,160141886,"Warea, Pilipo",M,Moka 1,Subsistence Farmer,01 Jan 1972
+738,160141887,"Warea, Wena",M,Moka 1,Student,01 Jan 1985
+739,160204176,"Wele, Temans",M,Moka 1,Subsistence Farmer,01 Jan 1948
+740,25084765,"Wengi, Indk",M,Moka 1,Student,06 Jul 2003
+741,160136593,"Wengi, Wilson",M,Papare,Not Specified,14 Mar 1994
+742,160167785,"Wereko, Namba",M,Moka 1,Pastor,01 Jan 1962
+743,160167779,"Wereko, Rami",M,Moka 1,Subsistence Farmer,01 Jan 1953
+744,160246508,"Windi, Keven",M,Moka 1,Student,23 Aug 1992
+745,160159992,"Windi, Molas toringi",M,Moka 1,Subsistence Farmer,01 Jan 1988
+746,160159993,"Windi, Robert",M,Moka 1,Student,01 Jan 1989
+747,25084771,"Yaks, Joshua",M,Moka 1,Student,05 Jun 2000
+748,160162882,"Yama, Bepi",M,Moka 1,Subsistence Farmer,01 Jan 1967
+749,160160144,"Yama, Gibsen kanombo",M,Moka 1,Subsistence Farmer,01 Jan 1973
+750,160445724,"Yama, Kingsten",M,Moka 1,Student,26 Jun 2000
+751,160204184,"Yama, Toropo",M,Moka 1,Subsistence Farmer,01 Jan 1943
+752,160207313,"Yamba, Bapa ali",M,Moka 1,Accountant,01 Jan 1970
+753,160206309,"Yamba, James",M,Moka 1,Subsistence Farmer,01 Jan 1982
+754,160207183,"Yamba, Senny",M,Moka 1,Houseboy,01 Jan 1973
+755,160246633,"Yamba james, Mapa j",M,Moka 1,Subsistence Farmer,01 Jan 1977
+756,160249095,"Yando, Norman peter",M,Moka 1,Student,01 Jan 1990
+757,160249309,"Yando yamba, Tonny",M,Moka 1,Houseboy,01 Jan 1993
+758,160246985,"Yapa, Pr-monda",M,Moka 1,Pastor,01 Feb 1971
+759,160249297,"Yappa, Gully",M,Moka 1,Subsistence Farmer,14 Feb 1979
+760,160136589,"Yawi, Abram",M,Pulupiri,Not Specified,21 Aug 1990
+761,160445742,"Yawi, Jacob",M,Pulupiri,Driver,22 Aug 2002
+762,160246465,"Yombi, Karl",M,Moka 1,Student,01 Jan 1990
+763,160163292,"Yombi, Mambo",M,Moka 1,Student,01 Jan 1988
+764,160445715,"Yombi, Tai",M,Pulupiri,Student,28 Sep 2003
+765,160205083,"Yombi, Vincent",M,Moka 1,Student,01 Jan 1989
+766,160246405,"Yombi, Wite",M,Moka 1,Subsistence Farmer,29 Mar 1992
+767,160246466,"Yopo, Ellias dee",M,Moka 1,Subsistence Farmer,10 Nov 1983
+768,160246536,"Yopo, James pillipo",M,Moka 1,Subsistence Farmer,01 Jan 1962
+769,160246626,"Yopo, Kondowa",M,Moka 1,Subsistence Farmer,01 Jan 1960
+770,160246467,"Yopo, Paul tee",M,Moka 1,Driver,14 Oct 1984

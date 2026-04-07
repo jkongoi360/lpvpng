@@ -1,0 +1,546 @@
+{
+  "provinceId": "sandaun",
+  "electorates": [
+    {
+      "electorateSlug": "vanimo-green",
+      "llgs": [
+        {
+          "id": "vanimo-green-vanimo-urban",
+          "name": "Vanimo Urban LLG",
+          "electorateSlug": "vanimo-green",
+          "wards": [
+            {
+              "id": "vanimo-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 5563
+            },
+            {
+              "id": "vanimo-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 7455
+            },
+            {
+              "id": "vanimo-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3624
+            }
+          ]
+        },
+        {
+          "id": "vanimo-green-green-river",
+          "name": "Green River LLG",
+          "electorateSlug": "vanimo-green",
+          "wards": [
+            {
+              "id": "green-river-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1500
+            },
+            {
+              "id": "green-river-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2353
+            },
+            {
+              "id": "green-river-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2320
+            },
+            {
+              "id": "green-river-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1730
+            },
+            {
+              "id": "green-river-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1262
+            },
+            {
+              "id": "green-river-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1324
+            },
+            {
+              "id": "green-river-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2334
+            },
+            {
+              "id": "green-river-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1866
+            },
+            {
+              "id": "green-river-w09",
+              "name": "Ward 9",
+              "registeredVoters": 2063
+            },
+            {
+              "id": "green-river-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1610
+            }
+          ]
+        },
+        {
+          "id": "vanimo-green-kilimeri",
+          "name": "Kilimeri LLG",
+          "electorateSlug": "vanimo-green",
+          "wards": [
+            {
+              "id": "kilimeri-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2410
+            },
+            {
+              "id": "kilimeri-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1810
+            },
+            {
+              "id": "kilimeri-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2059
+            },
+            {
+              "id": "kilimeri-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1823
+            },
+            {
+              "id": "kilimeri-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2281
+            },
+            {
+              "id": "kilimeri-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2100
+            },
+            {
+              "id": "kilimeri-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2187
+            },
+            {
+              "id": "kilimeri-w08",
+              "name": "Ward 8",
+              "registeredVoters": 2798
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "nuku",
+      "llgs": [
+        {
+          "id": "nuku-nuku",
+          "name": "Nuku LLG",
+          "electorateSlug": "nuku",
+          "wards": [
+            {
+              "id": "nuku-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3773
+            },
+            {
+              "id": "nuku-w02",
+              "name": "Ward 2",
+              "registeredVoters": 6389
+            },
+            {
+              "id": "nuku-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3039
+            }
+          ]
+        },
+        {
+          "id": "nuku-maimai",
+          "name": "Maimai LLG",
+          "electorateSlug": "nuku",
+          "wards": [
+            {
+              "id": "maimai-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2259
+            },
+            {
+              "id": "maimai-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1088
+            },
+            {
+              "id": "maimai-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2092
+            },
+            {
+              "id": "maimai-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1257
+            },
+            {
+              "id": "maimai-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1277
+            },
+            {
+              "id": "maimai-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1264
+            },
+            {
+              "id": "maimai-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2991
+            },
+            {
+              "id": "maimai-w08",
+              "name": "Ward 8",
+              "registeredVoters": 2032
+            }
+          ]
+        },
+        {
+          "id": "nuku-torricelli",
+          "name": "Torricelli LLG",
+          "electorateSlug": "nuku",
+          "wards": [
+            {
+              "id": "torricelli-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2037
+            },
+            {
+              "id": "torricelli-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2660
+            },
+            {
+              "id": "torricelli-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2167
+            },
+            {
+              "id": "torricelli-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2424
+            },
+            {
+              "id": "torricelli-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1777
+            },
+            {
+              "id": "torricelli-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1318
+            },
+            {
+              "id": "torricelli-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1985
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "aitape-lumi",
+      "llgs": [
+        {
+          "id": "aitape-lumi-aitape-urban",
+          "name": "Aitape Urban LLG",
+          "electorateSlug": "aitape-lumi",
+          "wards": [
+            {
+              "id": "aitape-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 6271
+            },
+            {
+              "id": "aitape-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4915
+            },
+            {
+              "id": "aitape-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3034
+            }
+          ]
+        },
+        {
+          "id": "aitape-lumi-lumi",
+          "name": "Lumi LLG",
+          "electorateSlug": "aitape-lumi",
+          "wards": [
+            {
+              "id": "lumi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1756
+            },
+            {
+              "id": "lumi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1466
+            },
+            {
+              "id": "lumi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2359
+            },
+            {
+              "id": "lumi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2179
+            },
+            {
+              "id": "lumi-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1890
+            },
+            {
+              "id": "lumi-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1591
+            },
+            {
+              "id": "lumi-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1581
+            },
+            {
+              "id": "lumi-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1031
+            },
+            {
+              "id": "lumi-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1512
+            }
+          ]
+        },
+        {
+          "id": "aitape-lumi-west-aitape",
+          "name": "West Aitape LLG",
+          "electorateSlug": "aitape-lumi",
+          "wards": [
+            {
+              "id": "west-aitape-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1445
+            },
+            {
+              "id": "west-aitape-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1321
+            },
+            {
+              "id": "west-aitape-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1553
+            },
+            {
+              "id": "west-aitape-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1482
+            },
+            {
+              "id": "west-aitape-w05",
+              "name": "Ward 5",
+              "registeredVoters": 696
+            },
+            {
+              "id": "west-aitape-w06",
+              "name": "Ward 6",
+              "registeredVoters": 802
+            },
+            {
+              "id": "west-aitape-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1091
+            },
+            {
+              "id": "west-aitape-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1025
+            },
+            {
+              "id": "west-aitape-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1262
+            },
+            {
+              "id": "west-aitape-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1590
+            }
+          ]
+        },
+        {
+          "id": "aitape-lumi-sissano",
+          "name": "Sissano LLG",
+          "electorateSlug": "aitape-lumi",
+          "wards": [
+            {
+              "id": "sissano-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4411
+            },
+            {
+              "id": "sissano-w02",
+              "name": "Ward 2",
+              "registeredVoters": 5092
+            },
+            {
+              "id": "sissano-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4547
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "telefomin",
+      "llgs": [
+        {
+          "id": "telefomin-telefomin",
+          "name": "Telefomin LLG",
+          "electorateSlug": "telefomin",
+          "wards": [
+            {
+              "id": "telefomin-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1667
+            },
+            {
+              "id": "telefomin-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2026
+            },
+            {
+              "id": "telefomin-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2219
+            },
+            {
+              "id": "telefomin-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1799
+            },
+            {
+              "id": "telefomin-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2470
+            },
+            {
+              "id": "telefomin-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1719
+            },
+            {
+              "id": "telefomin-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1683
+            }
+          ]
+        },
+        {
+          "id": "telefomin-oksapmin",
+          "name": "Oksapmin LLG",
+          "electorateSlug": "telefomin",
+          "wards": [
+            {
+              "id": "oksapmin-w01",
+              "name": "Ward 1",
+              "registeredVoters": 910
+            },
+            {
+              "id": "oksapmin-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1413
+            },
+            {
+              "id": "oksapmin-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1555
+            },
+            {
+              "id": "oksapmin-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1108
+            },
+            {
+              "id": "oksapmin-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1365
+            },
+            {
+              "id": "oksapmin-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1072
+            },
+            {
+              "id": "oksapmin-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1545
+            },
+            {
+              "id": "oksapmin-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1904
+            },
+            {
+              "id": "oksapmin-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1409
+            }
+          ]
+        },
+        {
+          "id": "telefomin-tifalmin",
+          "name": "Tifalmin LLG",
+          "electorateSlug": "telefomin",
+          "wards": [
+            {
+              "id": "tifalmin-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2923
+            },
+            {
+              "id": "tifalmin-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2679
+            },
+            {
+              "id": "tifalmin-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1705
+            },
+            {
+              "id": "tifalmin-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2027
+            },
+            {
+              "id": "tifalmin-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1105
+            },
+            {
+              "id": "tifalmin-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2395
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,25082983,"Alu, Josephine",F,Yawalinda,Subsistence Farmer,04 Jun 1980
+2,160245852,"Andrew, Helen",F,Yawalinda,Household Duties,01 Nov 1991
+3,160220966,"Andrew, Hosly",F,Yawalinda,Household Duties,01 Jan 1980
+4,160245850,"Andrew, Jenny",F,Yawalinda,Household Duties,26 Sep 1985
+5,160245723,"Andrew, Jesicca",F,Yawalinda,Household Duties,18 Aug 1990
+6,160245686,"Andrew, Lily",F,Yawalinda,Teacher,28 Sep 1983
+7,160225299,"Andrew, Lowaiye",F,Yawalinda,Household Duties,01 Jan 1959
+8,160220810,"Andrew, Rebecca",F,Yawalinda,Household Duties,01 Jan 1981
+9,160137755,"Andrew, Regina",F,Yawalinda,Student,02 Jan 1999
+10,160209898,"Andrew, Stevenny",F,Yawalinda,Housegirl,01 Jan 1990
+11,160119774,"Andy, Loise",F,Yawalinda,Student,19 Feb 1996
+12,160246399,"Bakua, Bali",F,Yawalinda,Household Duties,24 Nov 1950
+13,160246397,"Bakua, Peky",F,Yawalinda,Housegirl,25 Aug 1989
+14,160446475,"Benny, Cathy",F,Yawalinda,Household Duties,19 Nov 1980
+15,160137754,"Benny, Matina",F,Yawalinda,Household Duties,16 Mar 1983
+16,160119763,"Benny, Resilda",F,Yawalinda,Student,04 Apr 1999
+17,160446536,"Benny, Shelina",F,Yawalinda,Student,04 Aug 2000
+18,160446564,"Brian, Missel",F,Yawalinda,Household Duties,02 Nov 1993
+19,25082985,"Buka, Nata",F,Yawalinda,Student,08 May 2003
+20,160446495,"Christopher, Nomi",F,Yawalinda,Teacher,28 Apr 1998
+21,160446562,"Daniel, Josyllen",F,Yawalinda,Household Duties,29 Apr 1991
+22,160214089,"David, Anna",F,Yawalinda,Household Duties,01 Jan 1966
+23,160215161,"David, Betty",F,Yawalinda,Student,01 Jan 1988
+24,160245691,"David, Kanoli",F,Yawalinda,Household Duties,11 Oct 1969
+25,160209982,"David, Nancy",F,Yawalinda,Student,01 Jan 1990
+26,160245692,"David, Nene",F,Yawalinda,Housegirl,04 Nov 1994
+27,160214090,"David, Verro",F,Yawalinda,Student,01 Jan 1986
+28,160153180,"Doke, Esther",F,Yawalinda,Student,01 Jan 1984
+29,25082987,"Doki, Wari",F,Yawalinda,Household Duties,04 Feb 1960
+30,160245731,"Elias, Alema",F,Yawalinda,Student,18 May 1994
+31,160245729,"Elias, Daisy",F,Yawalinda,Student,26 Sep 1985
+32,160218463,"Elias, Lisa",F,Yawalinda,Student,01 Jan 1988
+33,160219294,"Elias, Ruth",F,Yawalinda,Household Duties,01 Jan 1959
+34,160210015,"Elias, Stella",F,Yawalinda,Student,01 Jan 1990
+35,160119777,"Geny, Sendera",F,Yawalinda,Student,07 Sep 1986
+36,160446565,"George, Joice",F,Yawalinda,Household Duties,15 Jul 1990
+37,160446567,"George, Roselyn",F,Yawalinda,Student,10 Oct 2001
+38,160446569,"George, Salome",F,Yawalinda,Student,01 Feb 1999
+39,160119610,"Gibison, Grace",F,Yawalinda,Household Duties,10 Aug 1984
+40,160252270,"Guli, Alu",F,Yawalinda,Housegirl,11 Feb 1990
+41,25082994,"Ismael, Anita",F,Yawalinda,Subsistence Farmer,11 Jun 1989
+42,160137757,"James, Bepi",F,Yawalinda,Subsistence Farmer,14 Jul 1994
+43,160119787,"James, Dorothy",F,Yawalinda,Subsistence Farmer,06 Feb 1999
+44,160137758,"James, Eki",F,Yawalinda,Subsistence Farmer,14 Feb 1999
+45,160137756,"James, Grace",F,Yawalinda,Student,03 Feb 1999
+46,160119759,"James, Keri",F,Yawalinda,Subsistence Farmer,09 Nov 1991
+47,25082996,"Jayson, Daiyen",F,Yawalinda,Subsistence Farmer,17 Dec 1989
+48,160446538,"Jayson, Jennyfer",F,Yawalinda,Household Duties,26 Apr 1999
+49,160119773,"Jemmy, Christina",F,Yawalinda,Household Duties,11 Feb 1980
+50,160446549,"Jerry, Lucy",F,Yawalinda,Household Duties,04 Sep 1988
+51,160137927,"Joe, Nemi",F,Yawalinda,Household Duties,10 Mar 1983
+52,160446573,"John, Mali",F,Yawalinda,Household Duties,11 Nov 1999
+53,160153170,"John, Shera",F,Yawalinda,Household Duties,01 Jan 1977
+54,160446575,"Joseph, Ray",F,Yawalinda,Household Duties,06 Nov 1998
+55,25082997,"Joshua, Jacklyn",F,Yawalinda,Subsistence Farmer,12 Oct 1989
+56,160119776,"Junior, Stella",F,Yawalinda,Household Duties,02 Aug 1994
+57,160226357,"Kangi, Amenge",F,Yawalinda,Subsistence Farmer,01 Jan 1960
+58,160137763,"Kangi, Jenneth",F,Yawalinda,Subsistence Farmer,16 Aug 1994
+59,160245602,"Kangi, July",F,Yawalinda,Store Keeper,25 Mar 1986
+60,160245601,"Kangi, Lovina",F,Yawalinda,Student,18 Sep 1993
+61,160226361,"Kangi, Sie",F,Yawalinda,Subsistence Farmer,01 Jan 1977
+62,160226362,"Kangi, Tana",F,Yawalinda,Subsistence Farmer,01 Jan 1980
+63,160226347,"Kangi, Yalambo",F,Yawalinda,Subsistence Farmer,01 Jan 1970
+64,160226348,"Kangi, Yando",F,Yawalinda,Subsistence Farmer,01 Jan 1971
+65,25082999,"Kara, Kathy",F,Yawalinda,Self Employed,20 Apr 1990
+66,160226351,"Kelelo, Ano",F,Yawalinda,Subsistence Farmer,01 Jan 1969
+67,160214067,"Kelly, Bepi",F,Yawalinda,Household Duties,01 Jan 1968
+68,160446523,"Kelly, Bonny",F,Yawalinda,Housegirl,07 Oct 1999
+69,160215344,"Kelly, Seni",F,Yawalinda,Student,01 Jan 1989
+70,160446546,"Kepa, Jomentha",F,Yawalinda,Student,20 Aug 2002
+71,160245854,"Kinigi, Heni",F,Yawalinda,Household Duties,28 Nov 1980
+72,160119785,"Koke, Anita",F,Yawalinda,Housegirl,01 Apr 1990
+73,160217974,"Koke, Beky",F,Yawalinda,Teacher,01 Jan 1976
+74,160119778,"Koke, Gereta",F,Yawalinda,Student,06 Jun 1989
+75,160245573,"Koke, Maira",F,Yawalinda,Student,20 Apr 1992
+76,160446571,"Kondi, Rossi",F,Yawalinda,Household Duties,08 Aug 2000
+77,160446555,"Kondowa, Eka",F,Yawalinda,Household Duties,29 Jun 1987
+78,160245864,"Kondowa, Nency",F,Yawalinda,Household Duties,04 Aug 1980
+79,25083003,"Kop, Venah",F,Yawalinda,Subsistence Farmer,20 Oct 1990
+80,25083004,"Kopex, Freeda",F,Yawalinda,Subsistence Farmer,08 Feb 1998
+81,160219213,"Kowi, Dolla",F,Yawalinda,Household Duties,01 Jan 1973
+82,25083005,"Kowi, Fostina",F,Yawalinda,Unemployed,05 May 1988
+83,160220416,"Kowi, Shalina",F,Yawalinda,Student,01 Jan 1989
+84,160210385,"Kowi, Shella",F,Yawalinda,Student,01 Jan 1990
+85,160219214,"Kowi, Shemilla",F,Yawalinda,Student,01 Jan 1988
+86,160246396,"Koyapo, Dorina",F,Yawalinda,Student,04 Nov 1992
+87,160226490,"Koyapo, Dorothy",F,Yawalinda,Student,01 Jan 1989
+88,160246391,"Koyapo, Jerethy",F,Yawalinda,Student,04 Jun 1994
+89,160446525,"Kumbie, Pentensa",F,Yawalinda,Student,25 Nov 2001
+90,160446477,"Kumbie, Pentesa",F,Yawalinda,Student,04 May 2002
+91,160446489,"Kupu, Julu",F,Yawalinda,Housegirl,18 Apr 2002
+92,25083007,"Kupu, Lyn",F,Yawalinda,Subsistence Farmer,14 Oct 1983
+93,160246392,"Landea, Anita",F,Yawalinda,Housegirl,04 Jan 1994
+94,160233190,"Landea, Evelyn",F,Yawalinda,Household Duties,01 Jan 1968
+95,160210381,"Landea, Fidelma",F,Yawalinda,Student,01 Jan 1990
+96,160245696,"Landea, Fiona",F,Yawalinda,Student,02 Oct 1993
+97,160216106,"Landea, Loale",F,Yawalinda,Household Duties,01 Jan 1978
+98,160216551,"Landea, Mako",F,Yawalinda,Household Duties,01 Jan 1970
+99,160245700,"Lawrecnce, Mellen",F,Yawalinda,Household Duties,25 Apr 1969
+100,25087276,"Lawrence, Sarah",F,Yawalinda,Unemployed,11 Sep 1980
+101,160246116,"Lene, Lary",F,Yawalinda,Household Duties,28 Oct 1974
+102,160246402,"Lene, Lepan",F,Yawalinda,Student,30 Oct 1992
+103,160446476,"Lian, Rose",F,Yawalinda,Teacher,28 May 1993
+104,160222426,"Lipu, Lossu",F,Yawalinda,Subsistence Farmer,01 Jan 1966
+105,160245735,"Lipu, Mangalina",F,Yawalinda,Housegirl,29 Nov 1993
+106,160213013,"Lipu, Mol",F,Yawalinda,Subsistence Farmer,01 Jan 1970
+107,160226354,"Lipu, Monica",F,Yawalinda,Subsistence Farmer,01 Jan 1972
+108,160446533,"Lipu, Shelly",F,Yawalinda,Student,01 Jan 1998
+109,160222601,"Lipu, Toya",F,Yawalinda,Student,01 Jan 1988
+110,160446544,"Liten, Rosylen",F,Yawalinda,Household Duties,28 Jan 1990
+111,160214094,"Loke, Noah",F,Yawalinda,Household Duties,01 Jan 1970
+112,160226339,"Lora, Miriam",F,Yawalinda,Subsistence Farmer,01 Jan 1969
+113,160245715,"Mali, Alice",F,Yawalinda,Household Duties,11 Oct 1978
+114,160232493,"Mali, Kaima",F,Yawalinda,Household Duties,01 Jan 1983
+115,160222567,"Mali, Lari",F,Yawalinda,Subsistence Farmer,01 Jan 1959
+116,160222486,"Mali, Margret",F,Yawalinda,Subsistence Farmer,01 Jan 1987
+117,160245716,"Mali, Mundi",F,Yawalinda,Student,20 Dec 1991
+118,160232507,"Mambo, Elly",F,Yawalinda,Student,01 Jan 1989
+119,160137765,"Mambo, Hellen",F,Yawalinda,Household Duties,04 Feb 1997
+120,160220938,"Mambo, Mep",F,Yawalinda,Subsistence Farmer,01 Jan 1984
+121,160137766,"Mambo, Natasa",F,Yawalinda,Student,09 Aug 1998
+122,160245736,"Mambo, Pollyn",F,Yawalinda,Student,10 Sep 1990
+123,160222115,"Mambo, Sarah",F,Yawalinda,Subsistence Farmer,01 Jan 1989
+124,160221955,"Mambo, Sie",F,Yawalinda,Subsistence Farmer,01 Jan 1987
+125,160137926,"Markson, Miriam",F,Yawalinda,Household Duties,20 Aug 1989
+126,25083014,"Marnen, Pola",F,Yawalinda,Student,25 Dec 2000
+127,25083016,"Meck, Margaret",F,Yawalinda,Subsistence Farmer,10 Jul 1999
+128,25083018,"Meck, Margaret",F,Yawalinda,Subsistence Farmer,10 Jun 1999
+129,160226488,"Mendel, Clare",F,Yawalinda,Subsistence Farmer,01 Jan 1982
+130,160232510,"Mendel, Heppi",F,Yawalinda,Household Duties,01 Jan 1983
+131,160226349,"Mendel, Julie",F,Yawalinda,Student,01 Jan 1986
+132,160245579,"Mendel, Talita",F,Yawalinda,Student,06 Apr 1985
+133,160119761,"Mendel, Tingi",F,Yawalinda,Subsistence Farmer,18 Mar 1993
+134,160232511,"Mendel, Tolly",F,Yawalinda,Household Duties,01 Jan 1983
+135,160226496,"Mendeli, Wanisa",F,Yawalinda,Student,01 Jan 1987
+136,160137762,"Miriye, Emolyn",F,Yawalinda,Student,22 Jan 1999
+137,160245737,"Miriye, Evalyn",F,Yawalinda,Housegirl,01 Dec 1986
+138,160226580,"Miriye, Lin",F,Yawalinda,Subsistence Farmer,01 Jan 1982
+139,160137761,"Miriye, Shely",F,Yawalinda,Subsistence Farmer,07 Apr 1996
+140,160222313,"Mirne, Misi",F,Yawalinda,Subsistence Farmer,01 Jan 1963
+141,160446557,"Mosi, Rita",F,Yawalinda,Household Duties,11 Feb 1990
+142,160245720,"Mura, Mone",F,Yawalinda,Housegirl,01 Jan 1970
+143,160219219,"Nande, Amagu",F,Yawalinda,Household Duties,01 Jan 1961
+144,160214998,"Nande, Anna",F,Yawalinda,Teacher,01 Jan 1969
+145,160219209,"Nande, Henny",F,Yawalinda,Household Duties,01 Jan 1978
+146,160218617,"Nande, July",F,Yawalinda,Student,01 Jan 1985
+147,160219274,"Nande, Mageret",F,Yawalinda,Household Duties,01 Jan 1976
+148,160220420,"Nande, Nelly",F,Yawalinda,Household Duties,01 Jan 1976
+149,160245738,"Nande, Susan",F,Yawalinda,Teacher,12 Apr 1984
+150,160214072,"Nane, Lomba",F,Yawalinda,Household Duties,01 Jan 1960
+151,160210383,"Nane, Tenda",F,Yawalinda,Student,01 Jan 1990
+152,160232506,"Nane, Wambiri",F,Yawalinda,Student,01 Jan 1989
+153,25087278,"Nevol, Kessom",F,Yawalinda,Student,02 Jan 2004
+154,160137759,"Nevol, Melros",F,Yawalinda,Student,03 Feb 1999
+155,160226587,"Ningi, Tubulu",F,Yawalinda,Subsistence Farmer,01 Jan 1971
+156,160245596,"Noberth kupe, Tency",F,Yawalinda,Household Duties,07 Mar 1982
+157,160446560,"Norman, Jessica",F,Yawalinda,Household Duties,23 Aug 1989
+158,160119757,"Opa, Cathy",F,Yawalinda,Household Duties,10 Feb 1989
+159,160217699,"Opa, Jeneth",F,Yawalinda,Household Duties,01 Jan 1972
+160,160210382,"Opa, Magalina",F,Yawalinda,Student,01 Jan 1990
+161,160119764,"Opa, Matina",F,Yawalinda,Housegirl,03 May 1998
+162,160215915,"Opa, Wambu",F,Yawalinda,Household Duties,01 Jan 1961
+163,160245740,"Paki, Grace",F,Yawalinda,Household Duties,06 Dec 1974
+164,160222084,"Paki, Judy",F,Yawalinda,Subsistence Farmer,01 Jan 1982
+165,25083027,"Pandea, Pea",F,Yawalinda,Unemployed,18 Dec 1990
+166,160446553,"Paul, Magi",F,Yawalinda,Household Duties,11 Nov 1986
+167,25083030,"Peter, Miller",F,Yawalinda,Student,10 Apr 2000
+168,25083036,"Ponege, Roina",F,Yawalinda,Subsistence Farmer,30 Oct 1991
+169,25083039,"Pora, Cathlyn",F,Yawalinda,Self Employed,19 Dec 1990
+170,160221979,"Pore, Cathy",F,Yawalinda,Teacher,01 Jan 1970
+171,160221959,"Pore, Melli",F,Yawalinda,Subsistence Farmer,01 Jan 1970
+172,160252268,"Puiye, Elcy",F,Yawalinda,Student,17 Feb 1990
+173,160245861,"Puiye, Janet",F,Yawalinda,Household Duties,04 Sep 1961
+174,160219272,"Puiye, Jenny",F,Yawalinda,Household Duties,01 Jan 1942
+175,160119771,"Puiye, Lina",F,Yawalinda,Household Duties,09 Apr 1996
+176,160245698,"Puiye, Lovina",F,Yawalinda,Student,17 Apr 1994
+177,160137929,"Puiye, Malvina",F,Yawalinda,Student,10 Mar 1999
+178,160219216,"Puiye, Monica",F,Yawalinda,Household Duties,01 Jan 1971
+179,160218405,"Ralu, Cathy",F,Yawalinda,Household Duties,01 Jan 1963
+180,160446529,"Ralu, Gina",F,Yawalinda,Household Duties,08 Nov 2002
+181,160218402,"Ralu, Lainame",F,Yawalinda,Household Duties,01 Jan 1966
+182,160245697,"Ralu, Melisa",F,Yawalinda,Household Duties,27 Feb 1983
+183,160245706,"Ralu, Naki",F,Yawalinda,Subsistence Farmer,06 Dec 1993
+184,160245685,"Rambua, Evelyn",F,Yawalinda,Household Duties,01 Jan 1982
+185,160246390,"Rami, Honey",F,Yawalinda,Subsistence Farmer,11 Jun 1992
+186,160119769,"Rami, Lenisa",F,Yawalinda,Student,28 Jul 1998
+187,160221963,"Rami, Maria",F,Yawalinda,Subsistence Farmer,01 Jan 1969
+188,160220813,"Rami, Patelli",F,Yawalinda,Subsistence Farmer,01 Jan 1981
+189,160221977,"Rami, Sharon",F,Yawalinda,Student,01 Jan 1987
+190,160246126,"Rami, Stella",F,Yawalinda,Student,01 Jan 1994
+191,160221961,"Rami, Wambiye",F,Yawalinda,Subsistence Farmer,01 Jan 1969
+192,25083042,"Randy, Weneth",F,Yawalinda,Student,19 Apr 2000
+193,160220482,"Rodney, Ali",F,Yawalinda,Subsistence Farmer,01 Jan 1976
+194,160245717,"Rosu, Buka",F,Yawalinda,Household Duties,24 Oct 1975
+195,160245682,"Rosu, Jennifer",F,Yawalinda,Household Duties,24 Nov 1966
+196,160245858,"Rosu, Leneth",F,Yawalinda,Housegirl,29 Nov 1978
+197,160246130,"Samuel, Merlyn",F,Yawalinda,Household Duties,01 Jan 1982
+198,160446527,"Senis, Gina",F,Yawalinda,Student,05 Aug 2000
+199,160446531,"Senis, Joyen",F,Yawalinda,Student,03 Dec 2002
+200,160245576,"Sepema, Biange",F,Yawalinda,Subsistence Farmer,21 Apr 1986
+201,160245863,"Sepema, Joycelyn",F,Yawalinda,Student,19 Apr 1990
+202,160215179,"Sepma, Elly",F,Yawalinda,Household Duties,01 Jan 1978
+203,160245855,"Sepma, Marine",F,Yawalinda,Housegirl,02 Nov 1983
+204,160446542,"Steven, Sheron",F,Yawalinda,Teacher,15 Aug 1987
+205,160246395,"Tanguwe, Melyn",F,Yawalinda,Student,01 Jan 1994
+206,160246127,"Tapa, Elcy",F,Yawalinda,Student,01 Jan 1990
+207,160220328,"Tom, Angela",F,Yawalinda,Student,01 Jan 1989
+208,160119782,"Tom, Cathony",F,Yawalinda,Student,10 Oct 1997
+209,160220954,"Tom, Wendy",F,Yawalinda,Student,01 Jan 1986
+210,25083047,"Totom, Nene",F,Yawalinda,Unemployed,20 Oct 1990
+211,160119770,"Turi, Melyn",F,Yawalinda,Household Duties,20 Oct 1995
+212,160226332,"Wak, Julie",F,Yawalinda,Subsistence Farmer,01 Jan 1977
+213,160446540,"Wanpis, Wari",F,Yawalinda,Household Duties,10 Apr 1999
+214,25083055,"Wendo, Lolo",F,Yawalinda,Self Employed,12 Apr 1998
+215,160221981,"Wepo, Warua",F,Yawalinda,Subsistence Farmer,01 Jan 1967
+216,160215757,"Weteli, Anna",F,Yawalinda,Household Duties,01 Jan 1988
+217,160214997,"Weteli, Wendi",F,Yawalinda,Household Duties,01 Jan 1961
+218,160119783,"Willie, Esther",F,Yawalinda,Household Duties,02 Jan 1995
+219,160210014,"Yamo, Judy",F,Yawalinda,Student,01 Jan 1990
+220,160222498,"Yamo, Kupini",F,Yawalinda,Subsistence Farmer,01 Jan 1971
+221,160233192,"Yamo, Lucy",F,Yawalinda,Household Duties,01 Jan 1982
+222,160245600,"Yamo, Luvina",F,Yawalinda,Housegirl,28 Jun 1983
+223,160222501,"Yamo, Takis",F,Yawalinda,Subsistence Farmer,01 Jan 1976
+224,160222070,"Yamo, Tenny",F,Yawalinda,Subsistence Farmer,01 Jan 1984
+225,25083061,"Yapali, Mongi",F,Yawalinda,Subsistence Farmer,16 Oct 1996
+226,160213169,"Yombi, Jacklin",F,Yawalinda,Household Duties,01 Jan 1976
+227,160213000,"Yombi, Lawainu",F,Yawalinda,Household Duties,01 Jan 1958
+228,160245847,"Yombi, Mellen",F,Yawalinda,Student,11 Apr 1990
+229,160245865,"Yombi, Merolyn",F,Yawalinda,Store Keeper,06 Oct 1982
+230,160446551,"Yopai, Anita",F,Yawalinda,Household Duties,06 Apr 1989
+231,160245853,"Andrew, Charles",M,Yawalinda,Subsistence Farmer,29 Mar 1978
+232,160220968,"Andrew, Peter",M,Yawalinda,Teacher,01 Jan 1978
+233,160119758,"Andrew, Pundiki",M,Yawalinda,Subsistence Farmer,16 Feb 1975
+234,160220877,"Andrew, Steven",M,Yawalinda,Subsistence Farmer,01 Jan 1988
+235,160220875,"Andrew, Thomas",M,Yawalinda,Subsistence Farmer,01 Jan 1985
+236,160252271,"Andrew, Timothy",M,Yawalinda,Student,17 Apr 1990
+237,160220874,"Andrew, Willy",M,Yawalinda,Subsistence Farmer,01 Jan 1983
+238,160245609,"Bakua, Gedix",M,Yawalinda,Student,20 Jun 1992
+239,160246419,"Bakua, Rale",M,Yawalinda,Subsistence Farmer,25 Apr 1965
+240,25082984,"Borah, Levi",M,Yawalinda,Unemployed,11 Apr 1990
+241,160245607,"Daiye, Sori",M,Yawalinda,Subsistence Farmer,19 Jun 1992
+242,160119762,"Daiye, Timini",M,Yawalinda,Student,05 Jan 1999
+243,160245705,"David, Buly",M,Yawalinda,Subsistence Farmer,19 May 1992
+244,160245703,"David, Moses",M,Yawalinda,Teacher,30 Oct 1978
+245,160119781,"David, Phelimon",M,Yawalinda,Student,03 Nov 1992
+246,160245704,"David, Tonny",M,Yawalinda,Student,17 Aug 1994
+247,160245575,"David, Wama",M,Yawalinda,Student,13 Sep 1990
+248,160245732,"Elias, Allen",M,Yawalinda,Student,17 Apr 1994
+249,160218468,"Elias, Andy",M,Yawalinda,Student,01 Jan 1989
+250,160218461,"Elias, Gemmy",M,Yawalinda,Student,01 Jan 1986
+251,160245730,"Elias, Junior",M,Yawalinda,Student,18 Jun 1993
+252,160245857,"Elias, Lekson",M,Yawalinda,Worker,29 Oct 1980
+253,160245856,"Elias, Rodney",M,Yawalinda,Mechanic,06 Nov 1979
+254,160446521,"Elias, Tiro",M,Yawalinda,Student,05 Dec 1998
+255,25082988,"Emanuel, Fradick",M,Yawalinda,Student,01 Feb 2000
+256,25082991,"Gabriel, Aiya",M,Yawalinda,Student,05 Apr 2004
+257,160245580,"Guli, Habbi",M,Yawalinda,Student,03 Jun 1994
+258,25082992,"Guli, Morgan",M,Yawalinda,Student,11 Mar 2004
+259,160151460,"Guli, Rodney",M,Yawalinda,Subsistence Farmer,01 Jan 1968
+260,160119780,"Guli, Sam",M,Yawalinda,Student,01 Mar 1999
+261,160446512,"John, Jeffery",M,Yawalinda,Student,01 Nov 2003
+262,160446481,"Joshoua, Mone",M,Yawalinda,Household Duties,14 Aug 1970
+263,160446491,"Jude, Meke",M,Yawalinda,Student,24 Nov 2000
+264,160446519,"Kai, Rhelimon",M,Yawalinda,Household Duties,14 Aug 2001
+265,160232508,"Kangi, Kepa",M,Yawalinda,Subsistence Farmer,01 Jan 1979
+266,160245606,"Kapi, Yapali",M,Yawalinda,Student,20 Nov 1994
+267,160446580,"Karaiye, Steven",M,Yawalinda,Welder,03 Aug 1961
+268,160226510,"Kelelo, Daiye",M,Yawalinda,Subsistence Farmer,01 Jan 1959
+269,160210365,"Kelly, John",M,Yawalinda,Student,01 Jan 1990
+270,160245859,"Kelly, Ponege",M,Yawalinda,Student,19 Oct 1994
+271,25087274,"Kepa, Tendo",M,Yawalinda,Student,04 Jan 2004
+272,160226584,"Kiningi, Joseph",M,Yawalinda,Subsistence Farmer,01 Jan 1982
+273,160226585,"Kiningi, Moses",M,Yawalinda,Subsistence Farmer,01 Jan 1987
+274,160245862,"Koa, John",M,Yawalinda,Subsistence Farmer,19 Feb 1980
+275,160446497,"Koke, Miron",M,Yawalinda,Student,11 May 2002
+276,160245574,"Kowi, Ali",M,Yawalinda,Community Health,10 Sep 1976
+277,160446578,"Kowi, Nimo",M,Yawalinda,Student,04 Sep 2002
+278,160225312,"Kule, Andrew",M,Yawalinda,Subsistence Farmer,01 Jan 1956
+279,160446483,"Kule, Joshoua",M,Yawalinda,Subsistence Farmer,14 Apr 1968
+280,160219270,"Kule, Puiye",M,Yawalinda,Subsistence Farmer,01 Jan 1941
+281,160446487,"Kupu, Jackson",M,Yawalinda,Student,25 Nov 1999
+282,160219288,"Landea, Elias",M,Yawalinda,Teacher,01 Jan 1952
+283,160511113,"Landea, Jacob",M,Yawalinda,Student,01 Apr 1995
+284,160216554,"Landea, Koke",M,Yawalinda,Subsistence Farmer,01 Jan 1971
+285,160217971,"Landea, Kupu",M,Yawalinda,Subsistence Farmer,01 Jan 1971
+286,160218466,"Landea, Ralu",M,Yawalinda,Driver,01 Jan 1962
+287,160137928,"Landea, Senis",M,Yawalinda,Student,18 Mar 1999
+288,160245695,"Landea, Stan",M,Yawalinda,Manager,21 Sep 1960
+289,160119775,"Landea, Tero",M,Yawalinda,Student,19 Feb 1998
+290,160245572,"Lawrence, Habbi",M,Yawalinda,Student,28 Sep 1984
+291,160246117,"Lene, Luke",M,Yawalinda,Teacher,01 Jan 1976
+292,160246129,"Lene, Paul",M,Yawalinda,Store Keeper,30 Nov 1987
+293,160222431,"Lipu, Bembo",M,Yawalinda,Subsistence Farmer,01 Jan 1986
+294,160245694,"Lipu, Brian",M,Yawalinda,Student,26 May 1994
+295,160226512,"Lipu, Kumbiye",M,Yawalinda,Subsistence Farmer,01 Jan 1977
+296,160511114,"Lipu, Kumblye",M,Yawalinda,Subsistence Farmer,16 Apr 1980
+297,160223911,"Lipu, Mendel",M,Yawalinda,Subsistence Farmer,01 Jan 1968
+298,160222604,"Lipu, Orum",M,Yawalinda,Subsistence Farmer,01 Jan 1976
+299,160245597,"Lipu, Rex",M,Yawalinda,Subsistence Farmer,14 Sep 1977
+300,160222443,"Lipu, Tenis",M,Yawalinda,Subsistence Farmer,01 Jan 1980
+301,160119786,"Lopi, Gibison",M,Yawalinda,Teacher,06 Aug 1982
+302,160226588,"Lora, Andy",M,Yawalinda,Subsistence Farmer,01 Jan 1974
+303,160226484,"Lora, Kupe",M,Yawalinda,Subsistence Farmer,01 Jan 1981
+304,160153887,"Lungu, Nengi",M,Yawalinda,Subsistence Farmer,01 Jan 1938
+305,25083010,"Mali, Alben",M,Yawalinda,Student,02 Jan 2004
+306,25083012,"Mali, Alben",M,Yawalinda,Student,10 Jun 1990
+307,160222578,"Mali, Alu",M,Yawalinda,Subsistence Farmer,01 Jan 1983
+308,160222579,"Mali, Jacob",M,Yawalinda,Subsistence Farmer,01 Jan 1985
+309,160245598,"Mambo, John klown",M,Yawalinda,Subsistence Farmer,20 Apr 1980
+310,160222113,"Mambo, Kalta",M,Yawalinda,Cook,01 Jan 1974
+311,160222080,"Mambo, Wii",M,Yawalinda,Subsistence Farmer,01 Jan 1981
+312,160221975,"Mape, Doke",M,Yawalinda,Subsistence Farmer,01 Jan 1964
+313,160226333,"Mape, Gary",M,Yawalinda,Subsistence Farmer,01 Jan 1971
+314,160245578,"Mape, Joe",M,Yawalinda,Houseboy,11 Nov 1989
+315,160226491,"Mape, Mendelli",M,Yawalinda,Subsistence Farmer,01 Jan 1955
+316,160226336,"Mape, Wanpis",M,Yawalinda,Subsistence Farmer,01 Jan 1958
+317,160446514,"Mark, Kongo",M,Yawalinda,Student,06 Jun 2000
+318,160252269,"Mele kapi, Elijah",M,Yawalinda,Subsistence Farmer,24 Aug 1990
+319,160226505,"Mendel, Cain",M,Yawalinda,Student,01 Jan 1989
+320,160119760,"Mendel, Kaku",M,Yawalinda,Student,02 Jan 1991
+321,160226331,"Mendel, Kewa",M,Yawalinda,Subsistence Farmer,01 Jan 1981
+322,160245739,"Mendel, Mark koyapo",M,Yawalinda,Subsistence Farmer,11 Jun 1990
+323,160226325,"Mendel, Senis",M,Yawalinda,Teacher,01 Jan 1975
+324,160232509,"Mendel, Simon",M,Yawalinda,Student,01 Jan 1981
+325,160226507,"Mendel, Wesley",M,Yawalinda,Subsistence Farmer,01 Jan 1985
+326,160226345,"Mendel, Yako",M,Yawalinda,Student,01 Jan 1980
+327,160226581,"Miriye, Norman",M,Yawalinda,Subsistence Farmer,01 Jan 1984
+328,160233191,"Miriye, Seni",M,Yawalinda,Subsistence Farmer,01 Jan 1989
+329,160217701,"Muniye, Paki",M,Yawalinda,Subsistence Farmer,01 Jan 1946
+330,160245721,"Mura, Daniel",M,Yawalinda,Mechanic,01 Jan 1984
+331,160245849,"Mura, Jacob",M,Yawalinda,Houseboy,01 Jan 1986
+332,160245684,"Mura, Rambua",M,Yawalinda,Subsistence Farmer,01 Jan 1980
+333,160245722,"Mura, Yapi",M,Yawalinda,Student,01 Jan 1987
+334,160219275,"Nande, Buka",M,Yawalinda,Welder,01 Jan 1975
+335,160219259,"Nande, Jammy",M,Yawalinda,Teacher,01 Jan 1981
+336,160210386,"Nande, Jayson",M,Yawalinda,Student,01 Jan 1990
+337,160209994,"Nande, Jeremaih",M,Yawalinda,Student,01 Jan 1990
+338,160219260,"Nande, Joe",M,Yawalinda,Subsistence Farmer,01 Jan 1983
+339,160511115,"Nande, John",M,Yawalinda,Subsistence Farmer,10 Apr 1979
+340,160218619,"Nande, Josua",M,Yawalinda,Student,01 Jan 1988
+341,160219210,"Nande, Mulu",M,Yawalinda,Carpenter,01 Jan 1978
+342,160219221,"Nande, Paul",M,Yawalinda,Subsistence Farmer,13 May 1973
+343,160215192,"Nane, Willy",M,Yawalinda,Subsistence Farmer,01 Jan 1988
+344,160446502,"Nembo, Helai",M,Yawalinda,Student,04 Apr 2000
+345,160246393,"Nembo, Jonah",M,Yawalinda,Houseboy,12 Jan 1994
+346,160446504,"Nembo, Saki",M,Yawalinda,Student,20 Aug 2001
+347,160222424,"Nengi, Mali",M,Yawalinda,Subsistence Farmer,01 Jan 1957
+348,160222583,"Nengi, Miriye",M,Yawalinda,Subsistence Farmer,01 Jan 1959
+349,160226323,"Nengi, Nevol",M,Yawalinda,Subsistence Farmer,01 Jan 1970
+350,160137760,"Nevol, Jacob",M,Yawalinda,Subsistence Farmer,16 May 1996
+351,160246398,"Nevol, Jepeth",M,Yawalinda,Student,11 Feb 1993
+352,25083024,"Nevol, Melborn",M,Yawalinda,Student,01 Mar 2000
+353,160215962,"Opa, Lemek",M,Yawalinda,Student,01 Jan 1987
+354,160220958,"Paki, Micheal",M,Yawalinda,Subsistence Farmer,01 Jan 1971
+355,160220956,"Paki, Peter",M,Yawalinda,Subsistence Farmer,01 Jan 1985
+356,160446480,"Paul, Shemron",M,Yawalinda,Houseboy,17 Oct 2001
+357,25087280,"Pili, Tolis",M,Yawalinda,Student,10 Apr 2000
+358,160221971,"Pore, Koiamu",M,Yawalinda,Driver,01 Jan 1966
+359,160222077,"Pore, Mambo",M,Yawalinda,Subsistence Farmer,01 Jan 1951
+360,160214071,"Pore, Nane",M,Yawalinda,Subsistence Farmer,01 Jan 1956
+361,160221950,"Pore, Nembo",M,Yawalinda,Subsistence Farmer,01 Jan 1961
+362,160219218,"Puiye, Benjamin",M,Yawalinda,Student,01 Jan 1989
+363,160446508,"Puiye, Natanel",M,Yawalinda,Student,08 Aug 2002
+364,160446506,"Puiye, Stylon",M,Yawalinda,Student,01 Jul 2002
+365,160217947,"Ralu, Gabriel",M,Yawalinda,Student,01 Jan 1989
+366,160245699,"Ralu, Junior",M,Yawalinda,Houseboy,25 Apr 1992
+367,160119779,"Ralu, Kopex",M,Yawalinda,Subsistence Farmer,04 Feb 1999
+368,160137925,"Rami, Daniel",M,Yawalinda,Student,10 Apr 1998
+369,160221956,"Rami, Debi",M,Yawalinda,Pastor,01 Jan 1964
+370,160137924,"Rami, Eliza",M,Yawalinda,Student,07 Feb 1999
+371,160210364,"Rami, Emanuel",M,Yawalinda,Student,01 Jan 1990
+372,160119767,"Rami, Ismael",M,Yawalinda,Student,07 Jan 1999
+373,160245581,"Rami, Israil",M,Yawalinda,Student,04 Jul 1993
+374,160119768,"Rami, Lata",M,Yawalinda,Student,08 Aug 1998
+375,160221958,"Rami, Liten",M,Yawalinda,Subsistence Farmer,01 Jan 1982
+376,160119766,"Rami, Peter",M,Yawalinda,Subsistence Farmer,19 Mar 1973
+377,160221953,"Rami, Turi",M,Yawalinda,Subsistence Farmer,01 Jan 1975
+378,160245846,"Rosu, Lary",M,Yawalinda,Security,20 Nov 1970
+379,160245683,"Rosu, Layson",M,Yawalinda,Student,28 Nov 1976
+380,160245733,"Rosu, Lomba",M,Yawalinda,Houseboy,30 Oct 1981
+381,160245680,"Rosu, Mapupite",M,Yawalinda,Subsistence Farmer,24 Nov 1959
+382,160245728,"Sepema, John",M,Yawalinda,Subsistence Farmer,10 Jun 1970
+383,160246128,"Sipi, Lene",M,Yawalinda,Subsistence Farmer,30 Oct 1958
+384,160446499,"Stan, Floson",M,Yawalinda,Student,11 Jun 2000
+385,160446473,"Steven, Jeremy",M,Yawalinda,Student,06 Jul 1997
+386,160446581,"Steven, Steward",M,Yawalinda,Student,08 Aug 1988
+387,160246394,"Tanguwe, Alberth",M,Yawalinda,Student,04 Nov 1991
+388,160119765,"Tanguwe, Meck",M,Yawalinda,Subsistence Farmer,01 Jan 1998
+389,160246132,"Tapa, Kenny",M,Yawalinda,Subsistence Farmer,01 Jan 1989
+390,160246131,"Tapa, Moses",M,Yawalinda,Driver,01 Jan 1985
+391,160219273,"Tapa, Nande",M,Yawalinda,Subsistence Farmer,01 Jan 1950
+392,160218620,"Tapa, Ralape",M,Yawalinda,Subsistence Farmer,01 Jan 1969
+393,160246115,"Tapa, Samuel",M,Yawalinda,Subsistence Farmer,01 Jan 1980
+394,160246401,"Tapa, Timothy",M,Yawalinda,Student,08 Apr 1992
+395,25083045,"Thomas, Raily",M,Yawalinda,Student,14 Mar 2002
+396,160252267,"Tom, Timon",M,Yawalinda,Student,01 Jan 1985
+397,160215178,"Uru, Sepma",M,Yawalinda,Subsistence Farmer,01 Jan 1956
+398,25083050,"Wanpis, Justine",M,Yawalinda,Student,22 Jan 2004
+399,160226498,"Wanpis, Kondoa",M,Yawalinda,Subsistence Farmer,01 Jan 1983
+400,160226502,"Wanpis, Mosi",M,Yawalinda,Subsistence Farmer,01 Jan 1989
+401,160226500,"Wanpis, Nane",M,Yawalinda,Subsistence Farmer,01 Jan 1986
+402,160215156,"Wepo, David",M,Yawalinda,Aid Post Orderly,01 Jan 1961
+403,160214079,"Wepo, Koa",M,Yawalinda,Subsistence Farmer,01 Jan 1956
+404,160214093,"Wepo, Loke",M,Yawalinda,Subsistence Farmer,01 Jan 1970
+405,160221973,"Wepo, Tom",M,Yawalinda,Subsistence Farmer,01 Jan 1962
+406,160214095,"Wepo, Yombi",M,Yawalinda,Subsistence Farmer,01 Jan 1956
+407,160209993,"Weteli, Abel",M,Yawalinda,Subsistence Farmer,01 Jan 1990
+408,160214078,"Weteli, Nelson",M,Yawalinda,Subsistence Farmer,01 Jan 1988
+409,160446516,"Winterford, Koi",M,Yawalinda,Student,26 Apr 1999
+410,25087283,"Wiru, Opa",M,Yawalinda,Student,02 Mar 2004
+411,160217686,"Yako, Opa",M,Yawalinda,Subsistence Farmer,01 Jan 1956
+412,160215748,"Yako, Tanguwe",M,Yawalinda,Subsistence Farmer,01 Jan 1961
+413,160214996,"Yako, Weteli",M,Yawalinda,Subsistence Farmer,01 Jan 1956
+414,160245599,"Yamo, David",M,Yawalinda,Subsistence Farmer,24 Nov 1971
+415,160222069,"Yamo, Kondi",M,Yawalinda,Subsistence Farmer,01 Jan 1982
+416,160245612,"Yamo k, Christhoper",M,Yawalinda,Student,04 Mar 1987
+417,160246123,"Yamo k, Elian",M,Yawalinda,Teacher,04 Feb 1980
+418,160245613,"Yamo k, Fabian",M,Yawalinda,Teacher,14 Nov 1978
+419,160246125,"Yamo k, Vincent",M,Yawalinda,Student,01 Dec 1985
+420,160245719,"Yombi, Mosi",M,Yawalinda,Houseboy,02 Mar 1994
+421,160245718,"Yombi, Pora",M,Yawalinda,Houseboy,01 Apr 1992
+422,160213172,"Yombi, Yopai",M,Yawalinda,Subsistence Farmer,01 Jan 1986

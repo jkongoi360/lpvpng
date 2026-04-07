@@ -1,0 +1,402 @@
+{
+  "provinceId": "arob",
+  "electorates": [
+    {
+      "electorateSlug": "north-bougainville",
+      "llgs": [
+        {
+          "id": "north-bougainville-buka-urban",
+          "name": "Buka Urban LLG",
+          "electorateSlug": "north-bougainville",
+          "wards": [
+            {
+              "id": "buka-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3468
+            },
+            {
+              "id": "buka-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3074
+            },
+            {
+              "id": "buka-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2639
+            },
+            {
+              "id": "buka-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3105
+            },
+            {
+              "id": "buka-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1918
+            }
+          ]
+        },
+        {
+          "id": "north-bougainville-halia",
+          "name": "Halia LLG",
+          "electorateSlug": "north-bougainville",
+          "wards": [
+            {
+              "id": "halia-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3512
+            },
+            {
+              "id": "halia-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4378
+            },
+            {
+              "id": "halia-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2939
+            },
+            {
+              "id": "halia-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2983
+            }
+          ]
+        },
+        {
+          "id": "north-bougainville-selau-suir",
+          "name": "Selau-Suir LLG",
+          "electorateSlug": "north-bougainville",
+          "wards": [
+            {
+              "id": "selau-suir-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3293
+            },
+            {
+              "id": "selau-suir-w02",
+              "name": "Ward 2",
+              "registeredVoters": 5586
+            },
+            {
+              "id": "selau-suir-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3026
+            }
+          ]
+        },
+        {
+          "id": "north-bougainville-kunua",
+          "name": "Kunua LLG",
+          "electorateSlug": "north-bougainville",
+          "wards": [
+            {
+              "id": "kunua-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3286
+            },
+            {
+              "id": "kunua-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1768
+            },
+            {
+              "id": "kunua-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2695
+            },
+            {
+              "id": "kunua-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1776
+            },
+            {
+              "id": "kunua-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3425
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "central-bougainville",
+      "llgs": [
+        {
+          "id": "central-bougainville-kieta-urban",
+          "name": "Kieta Urban LLG",
+          "electorateSlug": "central-bougainville",
+          "wards": [
+            {
+              "id": "kieta-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2009
+            },
+            {
+              "id": "kieta-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4183
+            },
+            {
+              "id": "kieta-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3263
+            },
+            {
+              "id": "kieta-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3500
+            }
+          ]
+        },
+        {
+          "id": "central-bougainville-wakunai",
+          "name": "Wakunai LLG",
+          "electorateSlug": "central-bougainville",
+          "wards": [
+            {
+              "id": "wakunai-w01",
+              "name": "Ward 1",
+              "registeredVoters": 757
+            },
+            {
+              "id": "wakunai-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1281
+            },
+            {
+              "id": "wakunai-w03",
+              "name": "Ward 3",
+              "registeredVoters": 858
+            },
+            {
+              "id": "wakunai-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1217
+            },
+            {
+              "id": "wakunai-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1141
+            },
+            {
+              "id": "wakunai-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1120
+            },
+            {
+              "id": "wakunai-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1239
+            },
+            {
+              "id": "wakunai-w08",
+              "name": "Ward 8",
+              "registeredVoters": 851
+            },
+            {
+              "id": "wakunai-w09",
+              "name": "Ward 9",
+              "registeredVoters": 775
+            },
+            {
+              "id": "wakunai-w10",
+              "name": "Ward 10",
+              "registeredVoters": 718
+            }
+          ]
+        },
+        {
+          "id": "central-bougainville-panguna",
+          "name": "Panguna LLG",
+          "electorateSlug": "central-bougainville",
+          "wards": [
+            {
+              "id": "panguna-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1898
+            },
+            {
+              "id": "panguna-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1101
+            },
+            {
+              "id": "panguna-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1516
+            },
+            {
+              "id": "panguna-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1754
+            },
+            {
+              "id": "panguna-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1922
+            },
+            {
+              "id": "panguna-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2187
+            }
+          ]
+        },
+        {
+          "id": "central-bougainville-eivo-torau",
+          "name": "Eivo-Torau LLG",
+          "electorateSlug": "central-bougainville",
+          "wards": [
+            {
+              "id": "eivo-torau-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3855
+            },
+            {
+              "id": "eivo-torau-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3334
+            },
+            {
+              "id": "eivo-torau-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2448
+            },
+            {
+              "id": "eivo-torau-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1988
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "south-bougainville",
+      "llgs": [
+        {
+          "id": "south-bougainville-buin",
+          "name": "Buin LLG",
+          "electorateSlug": "south-bougainville",
+          "wards": [
+            {
+              "id": "buin-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1615
+            },
+            {
+              "id": "buin-w02",
+              "name": "Ward 2",
+              "registeredVoters": 925
+            },
+            {
+              "id": "buin-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2151
+            },
+            {
+              "id": "buin-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1572
+            },
+            {
+              "id": "buin-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1807
+            },
+            {
+              "id": "buin-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1318
+            },
+            {
+              "id": "buin-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1814
+            },
+            {
+              "id": "buin-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1094
+            },
+            {
+              "id": "buin-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1632
+            },
+            {
+              "id": "buin-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1427
+            }
+          ]
+        },
+        {
+          "id": "south-bougainville-siwai",
+          "name": "Siwai LLG",
+          "electorateSlug": "south-bougainville",
+          "wards": [
+            {
+              "id": "siwai-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2247
+            },
+            {
+              "id": "siwai-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2311
+            },
+            {
+              "id": "siwai-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2841
+            },
+            {
+              "id": "siwai-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2363
+            },
+            {
+              "id": "siwai-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3273
+            },
+            {
+              "id": "siwai-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2722
+            }
+          ]
+        },
+        {
+          "id": "south-bougainville-banoni-torokina",
+          "name": "Banoni-Torokina LLG",
+          "electorateSlug": "south-bougainville",
+          "wards": [
+            {
+              "id": "banoni-torokina-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2893
+            },
+            {
+              "id": "banoni-torokina-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3330
+            },
+            {
+              "id": "banoni-torokina-w03",
+              "name": "Ward 3",
+              "registeredVoters": 5577
+            },
+            {
+              "id": "banoni-torokina-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2600
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

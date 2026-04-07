@@ -1,0 +1,335 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160124553,"Aluwe, Jamilda",F,KOWANGIL,Student,06 Apr 1997
+2,160445922,"Aluwe, Jemilda",F,KOWANGIL,Student,18 Nov 2000
+3,160124551,"Aluwe, Leah",F,KOWANGIL,Teacher,01 Feb 1991
+4,160124554,"Aluwe, Phiona",F,KOWANGIL,Household Duties,12 Nov 1993
+5,160445802,"Anda, Jenifa",F,KOWANGIL,Student,22 Apr 2004
+6,160249448,"Anda, Mely",F,KOWANGIL,Student,01 Jan 1992
+7,160184762,"Anton, Norin",F,KOWANGIL,Household Duties,01 Jan 2000
+8,160248999,"Arume, Clara",F,KOWANGIL,Student,30 Nov 1985
+9,160248997,"Arume, Ellie",F,KOWANGIL,Housegirl,22 Aug 1978
+10,160250013,"Arume, Kelly",F,KOWANGIL,Household Duties,27 Oct 1971
+11,160248962,"Arume, Maria",F,KOWANGIL,Household Duties,30 Oct 1960
+12,160248996,"Arume, Vero",F,KOWANGIL,Housegirl,16 Sep 1975
+13,160445910,"Buka, Lydia",F,KOWANGIL,Student,17 Apr 2001
+14,160445892,"Francis, Jenny",F,KOWANGIL,Student,03 Jun 2000
+15,160250036,"Ipo, Grace",F,KOWANGIL,Household Duties,19 Sep 1976
+16,160249999,"Ipo, Jenita",F,KOWANGIL,Student,27 May 1993
+17,160250033,"Ipo, Mombo",F,KOWANGIL,Household Duties,01 Jan 1961
+18,160250034,"Ipo, Nancy",F,KOWANGIL,Household Duties,26 Jul 1986
+19,160249000,"Issac, Clare",F,KOWANGIL,Teacher,12 May 1981
+20,160250014,"Issac, Joyceline",F,KOWANGIL,Housegirl,31 Jul 1985
+21,160445852,"Iszekel, Jully",F,KOWANGIL,Household Duties,22 Jul 1989
+22,160124586,"Jack, Emolyn",F,KOWANGIL,Sales Women,08 Jul 1996
+23,160445854,"Jack, Jenny",F,KOWANGIL,Household Duties,20 Jul 1999
+24,160445921,"John, Jemil",F,KOWANGIL,Student,20 Dec 2001
+25,160184766,"John, Monicca",F,KOWANGIL,Student,01 Jan 1990
+26,160210011,"Kaima, Koinambo",F,KOWANGIL,Household Duties,01 Jan 1937
+27,160185220,"Kaima, Rosala",F,KOWANGIL,Subsistence Farmer,01 Jan 1978
+28,160191046,"Kanekane, Teki",F,KOWANGIL,Household Duties,01 Jan 2000
+29,160190815,"Kanombo, Nami",F,KOWANGIL,Subsistence Farmer,01 Jan 1960
+30,160249557,"Karom, Keroline",F,KOWANGIL,Housegirl,24 Aug 1971
+31,160249556,"Karoma, Hellen",F,KOWANGIL,Household Duties,31 Jul 1957
+32,160249034,"Karoma, Lineth",F,KOWANGIL,Student,18 Dec 1986
+33,160249033,"Karoma, Meroline",F,KOWANGIL,Student,16 Aug 1984
+34,160249558,"Karoma, Rose",F,KOWANGIL,Student,27 Apr 1983
+35,160445870,"Kaya, Jenniver",F,KOWANGIL,Household Duties,17 Sep 1996
+36,160249553,"Kepa, Lina",F,KOWANGIL,Student,14 Mar 1985
+37,160249021,"Kepa, Rosey",F,KOWANGIL,Household Duties,19 May 1988
+38,160184922,"Kote, Bepi",F,KOWANGIL,Household Duties,01 Jan 1940
+39,160184636,"Kote, Soti",F,KOWANGIL,Subsistence Farmer,01 Jan 1974
+40,160445830,"Kowa, Loren",F,KOWANGIL,Household Duties,12 Apr 2002
+41,160250007,"Kulumbu, Benis",F,KOWANGIL,Nurse,07 Jun 1962
+42,160249949,"Kulumbu, Bethceba",F,KOWANGIL,Lawyer,06 Oct 1981
+43,160249394,"Kulumbu, Cathy",F,KOWANGIL,Household Duties,06 Aug 1977
+44,160249393,"Kulumbu, Dorothy",F,KOWANGIL,Housegirl,02 Apr 1988
+45,160249942,"Kulumbu, Helice",F,KOWANGIL,Household Duties,03 Apr 1963
+46,160249937,"Kulumbu, Hellen",F,KOWANGIL,Librarian,15 Jul 1967
+47,160248989,"Kulumbu, Jenifer",F,KOWANGIL,Housegirl,01 Feb 1989
+48,160248991,"Kulumbu, Julie",F,KOWANGIL,Household Duties,08 Aug 1975
+49,160248987,"Kulumbu, Kelely",F,KOWANGIL,Household Duties,06 Aug 1963
+50,160250017,"Kulumbu, Kilik",F,KOWANGIL,Household Duties,01 Feb 1956
+51,160250015,"Kulumbu, Mari",F,KOWANGIL,Housegirl,06 Mar 1991
+52,160248988,"Kulumbu, Monica",F,KOWANGIL,Housegirl,04 Aug 1976
+53,160250002,"Kulumbu, Pricilla",F,KOWANGIL,Housegirl,04 May 1987
+54,160249421,"Kulumbu, Rose",F,KOWANGIL,Household Duties,02 Jul 1978
+55,160248993,"Kulumbu, Steicy",F,KOWANGIL,Houseboy,07 Apr 1989
+56,160249392,"Kulumby, Agnes",F,KOWANGIL,Subsistence Farmer,03 Apr 1976
+57,160249002,"Lapi, Wareame",F,KOWANGIL,Household Duties,30 Apr 1958
+58,160249397,"Lazarus, Helly",F,KOWANGIL,Household Duties,03 Feb 1950
+59,160250010,"Lazarus, Jenny",F,KOWANGIL,Housegirl,07 Jun 1979
+60,160248994,"Lazarus, Kumi",F,KOWANGIL,Household Duties,06 Jul 1972
+61,160248995,"Lazarus, Melodi",F,KOWANGIL,Housegirl,07 Nov 1982
+62,160250012,"Lazarus, Rebecca",F,KOWANGIL,Housegirl,06 Jul 1991
+63,160250009,"Lazarus, Toringi",F,KOWANGIL,Household Duties,08 Sep 1970
+64,160445836,"Lewe, Apai",F,KOWANGIL,Student,04 Jun 2002
+65,160445834,"Lewe, Gracely",F,KOWANGIL,Student,03 Feb 2003
+66,160250137,"Mai, Agnes",F,KOWANGIL,Household Duties,28 Jan 1979
+67,160250021,"Mai, Chris",F,KOWANGIL,Household Duties,11 May 1976
+68,160249412,"Mai, Christol",F,KOWANGIL,Student,26 Jun 1993
+69,160250022,"Mai, Elma",F,KOWANGIL,Housegirl,08 Oct 1987
+70,160250024,"Mai, Marya",F,KOWANGIL,Housegirl,01 Jan 1992
+71,160250135,"Mai, Nale",F,KOWANGIL,Household Duties,07 Apr 1953
+72,160250136,"Mai, Ninde",F,KOWANGIL,Housegirl,02 Jul 1988
+73,160445920,"Mai, Sheron",F,KOWANGIL,Subsistence Farmer,27 Sep 1999
+74,160445814,"Maka, Carol",F,KOWANGIL,Household Duties,24 Mar 2001
+75,160445794,"Maka, Easter",F,KOWANGIL,Household Duties,12 Jun 2001
+76,160445820,"Maka, Steina",F,KOWANGIL,Student,11 Feb 2004
+77,160249414,"Mape, Josephin",F,KOWANGIL,Nurse,27 Sep 1979
+78,160250138,"Mape, Veronica",F,KOWANGIL,Teacher,30 Aug 1976
+79,160445907,"Maris, Leneath",F,KOWANGIL,Student,28 Jun 1999
+80,160445884,"Mark, Elly",F,KOWANGIL,Household Duties,16 Aug 1990
+81,160445929,"Melpa, Serah",F,KOWANGIL,Household Duties,16 Oct 2001
+82,160445868,"Mukiye, Judy",F,KOWANGIL,Household Duties,19 Aug 2002
+83,160249468,"Nakanol, Andela",F,KOWANGIL,Household Duties,01 Jan 1971
+84,160249450,"Nakanol, Anna",F,KOWANGIL,Housegirl,01 Jan 1983
+85,160249451,"Nakanol, Grace",F,KOWANGIL,Housegirl,01 Jan 1992
+86,160249433,"Nakanol, Kani",F,KOWANGIL,Housegirl,01 Jan 1980
+87,160249453,"Nakanol, Marry",F,KOWANGIL,Housegirl,01 Jan 1973
+88,160249435,"Nakanol, Nideme",F,KOWANGIL,Household Duties,01 Jan 1973
+89,160249466,"Nakanol, Temambo",F,KOWANGIL,Housegirl,01 Jan 1973
+90,160249348,"Nambo, Rorance",F,KOWANGIL,Household Duties,01 Jan 1982
+91,160249465,"Nema, Blesina",F,KOWANGIL,Housegirl,01 Jan 1991
+92,160249052,"Nema, Christol",F,KOWANGIL,Housegirl,01 Jan 1990
+93,160249471,"Nema, Fidelma",F,KOWANGIL,Housegirl,01 Jan 1987
+94,160249463,"Nema, Marcia",F,KOWANGIL,Household Duties,01 Jan 1960
+95,160249455,"Nema, Molin",F,KOWANGIL,Housegirl,01 Jan 1992
+96,160249449,"Nema, Tracy",F,KOWANGIL,Housegirl,01 Jan 1991
+97,160124548,"Nemi, Julie",F,KOWANGIL,Household Duties,10 Dec 1991
+98,160249408,"Nerega, Nancy",F,KOWANGIL,Housegirl,25 Jul 1986
+99,160249932,"Nerege, Maria",F,KOWANGIL,Household Duties,16 Apr 1950
+100,160250123,"Nerege, Priccila",F,KOWANGIL,Nurse,31 Jul 1979
+101,160249940,"Nerege, Rebbecca",F,KOWANGIL,Housegirl,25 Jul 1978
+102,160249418,"Nerege, Wency",F,KOWANGIL,Teacher,25 Jul 1986
+103,160250084,"Nokopa, Beka",F,KOWANGIL,Household Duties,01 Jan 1940
+104,160250086,"Nokopa, Kolowa",F,KOWANGIL,Housegirl,01 Jan 1990
+105,160249731,"Nomu, Clara",F,KOWANGIL,Household Duties,01 Jan 1975
+106,160249286,"Nomu, Mate",F,KOWANGIL,Household Duties,01 Jan 1963
+107,160445800,"Panjipo, Venesa",F,KOWANGIL,Student,20 Feb 2004
+108,160445908,"Pewi, Tina",F,KOWANGIL,Student,11 May 2001
+109,160445880,"Pilda, Lisah",F,KOWANGIL,Household Duties,12 Mar 1998
+110,160445909,"Pilimbo, Anna",F,KOWANGIL,Household Duties,03 Nov 2003
+111,160249936,"Pilimbo, Bay",F,KOWANGIL,Household Duties,26 Aug 1982
+112,160250025,"Pilimbo, Kengena",F,KOWANGIL,Household Duties,27 Jul 1961
+113,160249424,"Pilimbo, Wari",F,KOWANGIL,Housegirl,26 Sep 1981
+114,160249407,"Rema, Gloria",F,KOWANGIL,Housegirl,24 Feb 1993
+115,160250026,"Rema, Marry",F,KOWANGIL,Teacher,27 Mar 1970
+116,160249415,"Rema, Peisent",F,KOWANGIL,Accountant,25 Aug 1983
+117,160250140,"Rema, Rosa",F,KOWANGIL,Household Duties,25 Aug 1945
+118,160250031,"Rema, Vebena",F,KOWANGIL,Student,27 Jun 1991
+119,160250141,"Remah, Aketa",F,KOWANGIL,Household Duties,25 Apr 1971
+120,160250029,"Remah, Prudance",F,KOWANGIL,Student,30 Apr 1985
+121,160249406,"Resmas, Kata",F,KOWANGIL,Housegirl,27 Jun 1979
+122,160445828,"Samuel, Jenifa",F,KOWANGIL,Household Duties,01 Feb 2002
+123,160445824,"Samuel, Shemila",F,KOWANGIL,Student,14 Apr 2004
+124,160445882,"Simon, Lucy",F,KOWANGIL,Household Duties,28 Aug 1998
+125,160249191,"Tendepane, Angela",F,KOWANGIL,Subsistence Farmer,16 Apr 1984
+126,160249631,"Tendepane, Kake",F,KOWANGIL,Student,11 Jan 1993
+127,160249375,"Tendepane, Laltembo",F,KOWANGIL,Housegirl,01 Jan 1960
+128,160249082,"Tendepane, Madowa",F,KOWANGIL,Student,04 Jun 1990
+129,160249755,"Tendepane, Mopune",F,KOWANGIL,Student,15 Feb 1991
+130,160246855,"Tendepane, Nindiye",F,KOWANGIL,Household Duties,14 Apr 1977
+131,160246854,"Tendepano, Helen",F,KOWANGIL,Household Duties,01 Jan 1968
+132,160247120,"Tendepano, Korambo",F,KOWANGIL,Household Duties,01 Jan 1964
+133,160249754,"Tendepano, Wambiro",F,KOWANGIL,Student,11 Apr 1990
+134,160184518,"Tukondo, Lara",F,KOWANGIL,Household Duties,01 Jan 1949
+135,160445808,"Tuku, Lave",F,KOWANGIL,Household Duties,04 Jun 2002
+136,160190404,"Waiye, Agnes",F,KOWANGIL,Subsistence Farmer,01 Jan 1975
+137,160190222,"Waiye, Kokeambo",F,KOWANGIL,Household Duties,01 Jan 1942
+138,160188144,"Waiye, Monica",F,KOWANGIL,Subsistence Farmer,01 Jan 1976
+139,160445804,"Wake, Drex",F,KOWANGIL,Student,02 Jan 2004
+140,160249037,"Walu, Kewambo",F,KOWANGIL,Household Duties,16 Jul 1971
+141,160445911,"Wanile, Dorothy",F,KOWANGIL,Household Duties,01 Nov 1992
+142,160249042,"Wendo, Agela",F,KOWANGIL,Typist,16 Jul 1973
+143,160248959,"Wendo, Agnes",F,KOWANGIL,Household Duties,16 Sep 1976
+144,160249041,"Wendo, Popenge",F,KOWANGIL,Household Duties,14 Jun 1946
+145,160249531,"Wendo, Rose",F,KOWANGIL,Typist,19 Aug 1971
+146,160249405,"Wendo, Sarina",F,KOWANGIL,Student,30 Jan 1993
+147,160124545,"Yala, Agnes",F,KOWANGIL,Household Duties,06 Apr 1993
+148,160124544,"Yala, Anna",F,KOWANGIL,Subsistence Farmer,04 Feb 1995
+149,160445917,"Yala, Julie",F,KOWANGIL,Household Duties,18 May 1996
+150,160445810,"Yando, Ema",F,KOWANGIL,Household Duties,02 Sep 2001
+151,160445818,"Yando, Jay",F,KOWANGIL,Household Duties,12 Sep 2001
+152,160249203,"Yando, Namba",F,KOWANGIL,Household Duties,01 Jan 1953
+153,160445796,"Yando, Roselyn",F,KOWANGIL,Household Duties,11 Oct 1987
+154,160124556,"Ailaiye, Timothy",M,KOWANGIL,Subsistence Farmer,26 Jun 1994
+155,160124550,"Ala, Aluwe",M,KOWANGIL,Accountant,16 May 1990
+156,160124558,"Aliaiye, John",M,KOWANGIL,Student,28 Apr 1989
+157,160445846,"Altu, Desmond",M,KOWANGIL,Student,16 Jul 2002
+158,160445844,"Altu, Johna",M,KOWANGIL,Student,14 Apr 2003
+159,160445850,"Ambil, Thomas",M,KOWANGIL,Student,20 Aug 2003
+160,160445872,"Andia, Palus",M,KOWANGIL,Student,08 Jun 2000
+161,160445848,"Andrew, Pembo",M,KOWANGIL,Student,23 Apr 2000
+162,160124537,"Andrew, Willie",M,KOWANGIL,Dental Therapist,26 Jul 1994
+163,160209903,"Andrew, Willie",M,KOWANGIL,Student,01 Jan 1980
+164,160184793,"Anton, Peter",M,KOWANGIL,Subsistence Farmer,01 Jan 1975
+165,160445864,"Ape, Ronny",M,KOWANGIL,Subsistence Farmer,18 Sep 2000
+166,160248998,"Arume, Mathew",M,KOWANGIL,Student,18 Aug 1983
+167,160249399,"Arume, Remcy",M,KOWANGIL,Student,18 Sep 1992
+168,160249398,"Arume, Terence",M,KOWANGIL,Accountant,17 Jul 1976
+169,160249432,"Arume, Tuku",M,KOWANGIL,Subsistence Farmer,02 Jan 1969
+170,160249591,"Ayele, John",M,KOWANGIL,Subsistence Farmer,01 Jan 1954
+171,160184921,"Borowa, Kote",M,KOWANGIL,Subsistence Farmer,01 Jan 1939
+172,160445913,"Dennis, Daniel",M,KOWANGIL,Student,04 Jun 2000
+173,160184483,"Ekare, Kara",M,KOWANGIL,Subsistence Farmer,01 Jan 1948
+174,160190823,"Ekare, Kevin",M,KOWANGIL,Policeman,01 Jan 1950
+175,160184517,"Ekare, Tukondo",M,KOWANGIL,Subsistence Farmer,01 Jan 1948
+176,160191075,"Ekare, Willie",M,KOWANGIL,Subsistence Farmer,01 Jan 1969
+177,160445906,"Elias, Junior",M,KOWANGIL,Carpenter,18 Feb 1997
+178,160445875,"Francis, Ronnal",M,KOWANGIL,Subsistence Farmer,06 Apr 2004
+179,160250037,"Ipo, Jay-jay",M,KOWANGIL,Student,10 May 1976
+180,160250035,"Ipo, John",M,KOWANGIL,Student,24 May 1979
+181,160250032,"Ipo, Lucas",M,KOWANGIL,Subsistence Farmer,29 Mar 1950
+182,160249416,"Ipo, Paul",M,KOWANGIL,Mechanic,31 Jul 1982
+183,160249417,"Ipo, Steven",M,KOWANGIL,Student,30 Jun 1984
+184,160249401,"Issac, Ali",M,KOWANGIL,Driver,12 May 1981
+185,160249400,"Issac, Kelly",M,KOWANGIL,Clerk,26 Oct 1958
+186,160249001,"Issacc, James-born",M,KOWANGIL,Houseboy,01 Jan 2000
+187,160445925,"Issacc, Josuah",M,KOWANGIL,Student,18 Oct 2000
+188,160249402,"Issacc, Omeka",M,KOWANGIL,Student,16 Jul 1990
+189,160445918,"Jack, Alfred",M,KOWANGIL,Student,11 May 1998
+190,160137851,"James, Andi",M,KOWANGIL,Student,24 Feb 1999
+191,160445923,"Joe, Jerom",M,KOWANGIL,Student,30 Nov 2000
+192,160445900,"John, Elija",M,KOWANGIL,Student,29 Nov 1999
+193,160445915,"Joseph, Charlie",M,KOWANGIL,Subsistence Farmer,30 Sep 1998
+194,25080522,"Joseph, Wako",M,KOWANGIL,Subsistence Farmer,17 May 1983
+195,160210007,"Kaima, Andrew",M,KOWANGIL,Teacher,01 Jan 1950
+196,160184752,"Kaima, Pius",M,KOWANGIL,Subsistence Farmer,01 Jan 1949
+197,160184749,"Kaima, Waki",M,KOWANGIL,Subsistence Farmer,01 Jan 1948
+198,160210009,"Kaima, Wanis",M,KOWANGIL,Subsistence Farmer,01 Jan 1969
+199,160249726,"Kapal, Palus",M,KOWANGIL,Subsistence Farmer,01 Jan 1987
+200,160445816,"Kapale, Joseph",M,KOWANGIL,Student,29 Apr 2003
+201,160249347,"Kapale, Simon",M,KOWANGIL,Student,01 Jan 1992
+202,160184492,"Kara, Golla",M,KOWANGIL,Subsistence Farmer,01 Jan 1975
+203,160184501,"Kara, Willie",M,KOWANGIL,Student,01 Jan 1978
+204,160249530,"Karoma, Jayson",M,KOWANGIL,Student,24 Mar 1989
+205,160249035,"Karoma, Korea",M,KOWANGIL,Student,28 Jul 1991
+206,160249555,"Karoma, Maris",M,KOWANGIL,Houseboy,15 Mar 1960
+207,160249529,"Karoma, Moses",M,KOWANGIL,Student,06 Jan 1983
+208,160249554,"Kepa, David",M,KOWANGIL,Houseboy,27 Jun 1988
+209,160249528,"Kepa, Jeremy",M,KOWANGIL,Houseboy,18 May 1989
+210,160249022,"Kepa, Jun",M,KOWANGIL,Student,01 Jan 1993
+211,160249527,"Kepa, Junior",M,KOWANGIL,Driver,27 Sep 1986
+212,25080525,"Kepa, Peter",M,KOWANGIL,Subsistence Farmer,24 Nov 1974
+213,160445919,"Kerowa, Manu",M,KOWANGIL,Student,17 Jul 1998
+214,160184643,"Kipe, Buka",M,KOWANGIL,Subsistence Farmer,01 Jan 1973
+215,160184486,"Kipe, Jacob",M,KOWANGIL,Student,01 Jan 1979
+216,160184487,"Kipe, Lackford",M,KOWANGIL,Student,01 Jan 1986
+217,160184799,"Kipe, Moses",M,KOWANGIL,Subsistence Farmer,01 Jan 1969
+218,160184802,"Kipe, Tenis",M,KOWANGIL,Student,01 Jan 1976
+219,160184488,"Kipe, Tommy",M,KOWANGIL,Houseboy,01 Jan 1988
+220,160445898,"Ku, Simon",M,KOWANGIL,,08 Jul 2000
+221,160249420,"Kulumbu, Christopher",M,KOWANGIL,Houseboy,02 Mar 1986
+222,160249934,"Kulumbu, Daniel",M,KOWANGIL,Houseboy,03 Jun 1971
+223,160250018,"Kulumbu, Dicksi",M,KOWANGIL,Houseboy,04 May 1983
+224,160249933,"Kulumbu, Elizah",M,KOWANGIL,Houseboy,02 Mar 1987
+225,160249419,"Kulumbu, Francis",M,KOWANGIL,Houseboy,06 Aug 1976
+226,160250016,"Kulumbu, Francisco",M,KOWANGIL,Houseboy,02 Mar 1993
+227,160250005,"Kulumbu, George",M,KOWANGIL,Houseboy,06 Feb 1991
+228,160250004,"Kulumbu, Jerry",M,KOWANGIL,Houseboy,06 Aug 1985
+229,160249939,"Kulumbu, Joshua",M,KOWANGIL,Student,01 Oct 1985
+230,160249938,"Kulumbu, Kami",M,KOWANGIL,Student,06 Oct 1983
+231,160248990,"Kulumbu, Kennedy",M,KOWANGIL,Houseboy,01 Jan 1972
+232,160248992,"Kulumbu, Kennet",M,KOWANGIL,Houseboy,02 Nov 1991
+233,160249935,"Kulumbu, Kingsley",M,KOWANGIL,Houseboy,05 Apr 1986
+234,160250008,"Kulumbu, Markson",M,KOWANGIL,Houseboy,06 Apr 1988
+235,160250001,"Kulumbu, Rindi",M,KOWANGIL,Houseboy,02 Jun 1983
+236,160250003,"Kulumbu, Robert",M,KOWANGIL,Subsistence Farmer,05 Jun 1973
+237,160250000,"Kulumbu, Stanley",M,KOWANGIL,Houseboy,05 Jun 1981
+238,160249950,"Kulumbu, Thomas",M,KOWANGIL,Subsistence Farmer,03 Sep 1961
+239,160250006,"Kulumbu, Yake",M,KOWANGIL,Subsistence Farmer,02 Mar 1961
+240,25080527,"Lapa, Joseph",M,KOWANGIL,Teacher,04 May 1970
+241,160445912,"Lapi, Ponenge",M,KOWANGIL,Subsistence Farmer,18 Oct 1996
+242,160249423,"Lazarus, Alfred",M,KOWANGIL,Houseboy,07 Aug 1993
+243,160249422,"Lazarus, Mara",M,KOWANGIL,Driver,07 Sep 1983
+244,160250011,"Lazarus, Paul",M,KOWANGIL,Warder,04 Apr 1976
+245,160249396,"Lazarus, Pis",M,KOWANGIL,Houseboy,02 Mar 1981
+246,160249395,"Lazarus, Wapi",M,KOWANGIL,Subsistence Farmer,03 May 1951
+247,160445832,"Lewe, Keneth",M,KOWANGIL,Student,12 Feb 2004
+248,25080531,"Mack, Gordon",M,KOWANGIL,Teacher,09 Jun 1993
+249,160249411,"Mai, Brian",M,KOWANGIL,Student,27 May 1991
+250,160249409,"Mai, Iliva",M,KOWANGIL,Houseboy,20 Mar 1990
+251,160249410,"Mai, Mathew",M,KOWANGIL,Houseboy,03 Aug 1977
+252,160250023,"Mai, Nathan",M,KOWANGIL,Houseboy,01 Dec 1986
+253,160445806,"Maka, Kokolo",M,KOWANGIL,Student,04 Feb 2003
+254,160249413,"Mape, Buneiye",M,KOWANGIL,Subsistence Farmer,27 Jul 1951
+255,160445902,"Maris, Moses",M,KOWANGIL,Subsistence Farmer,06 Nov 1992
+256,160445926,"Mathew, Brain",M,KOWANGIL,Student,17 Aug 2003
+257,160445914,"Mathew, Kingsley",M,KOWANGIL,Subsistence Farmer,15 Apr 2000
+258,160249434,"Nakanol, Gilly",M,KOWANGIL,Houseboy,01 Jan 1990
+259,160249437,"Nakanol, Mark",M,KOWANGIL,Driver,01 Jan 1961
+260,160249467,"Nakanol, Micheal",M,KOWANGIL,Subsistence Farmer,01 Jan 1971
+261,160249469,"Nakanol, Steward",M,KOWANGIL,Subsistence Farmer,01 Jan 2000
+262,160249436,"Nakanol, Tony",M,KOWANGIL,Houseboy,01 Jan 1989
+263,160249452,"Nakanol, Wama",M,KOWANGIL,Houseboy,01 Jan 1981
+264,160249051,"Nema, Billy",M,KOWANGIL,Subsistence Farmer,01 Jan 1985
+265,160250092,"Nema, Danki",M,KOWANGIL,Student,01 Jan 1989
+266,160250232,"Nema, Dupia",M,KOWANGIL,Student,01 Jan 1973
+267,160249454,"Nema, Hitty",M,KOWANGIL,Houseboy,01 Jan 1985
+268,160249050,"Nema, Killi",M,KOWANGIL,Subsistence Farmer,01 Jan 1965
+269,160249470,"Nema, Pembo",M,KOWANGIL,Driver,01 Jan 1966
+270,160249464,"Nema, Raiyan",M,KOWANGIL,Student,01 Jan 1987
+271,160250091,"Nema, Ray",M,KOWANGIL,Subsistence Farmer,01 Jan 1985
+272,160250090,"Nema, Sam aiye",M,KOWANGIL,Self Employed,04 Mar 1961
+273,160249438,"Nema, Semi",M,KOWANGIL,Student,01 Jan 1991
+274,160249941,"Nerege, Perry",M,KOWANGIL,Houseboy,04 Feb 1988
+275,160250122,"Nerege, Vincent",M,KOWANGIL,Student,26 Aug 1991
+276,160250028,"Nerence, Peter",M,KOWANGIL,Subsistence Farmer,30 Jun 1951
+277,25080534,"Niningi, Michael",M,KOWANGIL,Subsistence Farmer,07 Apr 1980
+278,160445894,"Numo, Vinterford",M,KOWANGIL,Student,08 Aug 2000
+279,160445822,"Panjipo, Joel",M,KOWANGIL,Student,12 Jan 2004
+280,160445904,"Peter, Elias",M,KOWANGIL,Student,03 May 1999
+281,160445927,"Peter, Simon",M,KOWANGIL,Fitter Machinist,15 May 1999
+282,160445924,"Peter, Vicent",M,KOWANGIL,Student,20 Sep 2002
+283,160445916,"Petrus, Norman",M,KOWANGIL,Student,03 Jun 1999
+284,160445905,"Pewi, Sedric",M,KOWANGIL,Student,11 Jun 1998
+285,160445856,"Pilida, Jordan",M,KOWANGIL,Student,19 Jun 2000
+286,160445888,"Pilimbo, Lincy",M,KOWANGIL,Student,06 Apr 2004
+287,160445890,"Pilimbo, Norman",M,KOWANGIL,Student,17 Apr 2002
+288,160249425,"Pilimbo, Peter",M,KOWANGIL,Houseboy,27 Jan 1980
+289,160250139,"Pilimbo, Samuel",M,KOWANGIL,Houseboy,26 Mar 1978
+290,25080536,"Pora, Jack",M,KOWANGIL,Subsistence Farmer,15 Apr 1980
+291,160445886,"Pumbo, Daniel",M,KOWANGIL,Subsistence Farmer,07 May 2000
+292,160250027,"Rema, Gerock",M,KOWANGIL,Student,27 Jul 1989
+293,160250142,"Remah, Alonsis",M,KOWANGIL,Teacher,30 Sep 1961
+294,160250030,"Remah, Peter",M,KOWANGIL,Student,27 Jun 1987
+295,160249426,"Resma, Kelely",M,KOWANGIL,Subsistence Farmer,27 May 1941
+296,160248986,"Resmas, Mauwa",M,KOWANGIL,Houseboy,28 Apr 1976
+297,160445862,"Simon, Elizah",M,KOWANGIL,Student,05 Mar 2000
+298,160445858,"Simon, Ray",M,KOWANGIL,Subsistence Farmer,07 Mar 2000
+299,160445840,"Tambi, Dairus",M,KOWANGIL,Student,04 Feb 2002
+300,160445838,"Tambi, Job",M,KOWANGIL,Student,01 Apr 2004
+301,160445842,"Tambi, Livai",M,KOWANGIL,Student,02 Mar 2003
+302,160246645,"Tendepane, David",M,KOWANGIL,Subsistence Farmer,16 Jan 1993
+303,160247107,"Tendepane, Jacob",M,KOWANGIL,Student,14 Mar 1994
+304,160249081,"Tendepane, Pera",M,KOWANGIL,Student,24 Aug 1990
+305,160249275,"Tendepane, Peter",M,KOWANGIL,Teacher,14 Aug 1979
+306,160249374,"Tendepane, Willie",M,KOWANGIL,Worker,01 Jan 1958
+307,160249190,"Tendepano, Kondowa",M,KOWANGIL,Accountant,06 Jul 1982
+308,160250233,"Tinda, Nokopa",M,KOWANGIL,Houseboy,01 Jan 1989
+309,160445896,"Tiro, Addy",M,KOWANGIL,Student,05 May 2000
+310,160445874,"Tomano, Michael",M,KOWANGIL,Student,03 Apr 2004
+311,160445878,"Tombo, Jeremai",M,KOWANGIL,Subsistence Farmer,07 Aug 2003
+312,160445866,"Tombo, Paias",M,KOWANGIL,Subsistence Farmer,18 Sep 2000
+313,160124581,"Tombo, Pilimot",M,KOWANGIL,Store Keeper,08 Apr 1996
+314,160445860,"Tomoiye, Keneth",M,KOWANGIL,Subsistence Farmer,11 Apr 2000
+315,160445826,"Unjo, Samuel",M,KOWANGIL,Subsistence Farmer,16 Apr 1959
+316,160249039,"Walu, Andix",M,KOWANGIL,Carpenter,17 Mar 1978
+317,160249036,"Walu, Ben",M,KOWANGIL,Houseboy,25 Apr 1960
+318,160249038,"Walu, Liwi",M,KOWANGIL,Driver,18 Apr 1976
+319,160249040,"Walu, Tuna",M,KOWANGIL,Worker,02 Apr 1980
+320,160445928,"Wambo, Datil",M,KOWANGIL,Subsistence Farmer,27 Sep 2003
+321,160124577,"Wane, Steward",M,KOWANGIL,Sales Women,16 Apr 1998
+322,160248961,"Wendo, Ismail",M,KOWANGIL,Student,10 Dec 1991
+323,160248960,"Wendo, Kingsley",M,KOWANGIL,Student,27 Aug 1989
+324,160249560,"Wendo, Mathew",M,KOWANGIL,Security,29 Jan 1973
+325,160249532,"Wendo, Tonny",M,KOWANGIL,Clerk,18 Aug 1975
+326,160249559,"Wendo, Wameya",M,KOWANGIL,Subsistence Farmer,13 Jul 1947
+327,160445792,"Yakili, Sire",M,KOWANGIL,Subsistence Farmer,16 Apr 2002
+328,160124549,"Yala, Dene",M,KOWANGIL,Sales Women,04 May 1990
+329,160137843,"Yala, Memo",M,KOWANGIL,Warder,18 Apr 1992
+330,160124552,"Yala, Patrick",M,KOWANGIL,Sales Women,18 Aug 1994
+331,160124546,"Yala, Wane",M,KOWANGIL,Councillor,20 Apr 1997
+332,160249206,"Yando, Solomon",M,KOWANGIL,Student,01 Jan 1990
+333,160445798,"Yando, Solomon",M,KOWANGIL,Student,14 Apr 2001
+334,160445812,"Yawi, Wilson",M,KOWANGIL,Student,04 Feb 2002

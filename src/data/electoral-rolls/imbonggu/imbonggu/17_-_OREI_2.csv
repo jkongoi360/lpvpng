@@ -1,0 +1,735 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160124494,"Abel, Nancy",F,Tawekombu,Household Duties,02 Apr 1986
+2,160240597,"Agopa, Kambuwame",F,Tawekombu,Household Duties,05 Feb 1948
+3,160446490,"Alfred, Anita",F,Orei 2,Household Duties,27 Oct 1992
+4,160209988,"Andile, Mombo",F,Tawekombu,Household Duties,01 Jan 1980
+5,160136615,"Andrew, Quida",F,Orei 2,Household Duties,29 Nov 1995
+6,160124470,"Andy, Angela",F,Orei 2,Household Duties,09 Feb 1992
+7,160124602,"Anton, Joan",F,Orei 2,Student,15 Feb 1999
+8,160207248,"Anton, Joyce",F,Tawekombu,Household Duties,01 Jan 1981
+9,160146665,"Apa, Mondi",F,Tawekombu,Household Duties,01 Jan 1936
+10,160446496,"Apa, Rayap",F,Orei 2,Household Duties,02 Jul 1987
+11,160182451,"Apea, Makaliambo",F,Tawekombu,Household Duties,01 Jan 1961
+12,160446484,"Apol, Pamila",F,Orei 2,Household Duties,14 Jul 1979
+13,160240606,"Arume, Josephine",F,Tawekombu,Student,29 Jan 1993
+14,160240601,"Arume, Tembo",F,Tawekombu,Household Duties,28 Aug 1957
+15,160241059,"Atia, Jenet",F,Tawekombu,Teacher,24 Aug 1979
+16,160240608,"Atiki, Jenet",F,Tawekombu,Household Duties,29 Apr 1978
+17,160124476,"Ben, Jacklyn",F,Orei 2,Household Duties,12 Apr 1996
+18,25084005,"Bill, Domosina",F,Orei 2,Household Duties,02 Oct 1995
+19,160240902,"Billy, Cathy",F,Tawekombu,Household Duties,11 Aug 1979
+20,160207689,"Billy, Nipul",F,Orei 2,Household Duties,01 Jan 1971
+21,25084007,"Braforh, Steveny",F,Orei 2,Household Duties,26 Apr 2001
+22,25084009,"Brian, Ethna",F,Orei 2,Household Duties,28 May 1998
+23,160446522,"Brian, Joselyn",F,Orei 2,Household Duties,10 Sep 2000
+24,160240592,"Buka, Recy",F,Tawekombu,Pastor,23 Apr 1992
+25,160124454,"Collin, Carol",F,Orei 2,Household Duties,22 Mar 1993
+26,160241060,"Dainel, Velma",F,Tawekombu,Student,11 Apr 1993
+27,160241062,"Dainiel, Melin",F,Tawekombu,Household Duties,11 Sep 1975
+28,160136613,"Daniel, Cathy",F,Orei 2,Household Duties,04 May 1978
+29,25084012,"Daniel, Deslin",F,Orei 2,Student,07 Aug 2000
+30,160136614,"Daniel, Neomi",F,Orei 2,Student,03 Mar 1999
+31,160124457,"Danny, Dorothy",F,Orei 2,Household Duties,22 Aug 1982
+32,160184529,"Danny, Dorothy",F,Tawekombu,Household Duties,01 Jan 1976
+33,160446554,"Deke, Neomi",F,Orei 2,Household Duties,27 May 1997
+34,160207462,"Dene, Janet",F,Tawekombu,Subsistence Farmer,01 Jan 1983
+35,160207700,"Dene, Ramuna",F,Tawekombu,Household Duties,01 Jan 1963
+36,25083975,"Done, Barina",F,Komoli,Student,08 Sep 2000
+37,160446528,"Done, Rabina",F,Orei 2,Student,06 Jan 2004
+38,160241055,"Dopo, Anita",F,Tawekombu,Student,27 Aug 1993
+39,160184632,"Dopo, Dorothy",F,Komoli,Household Duties,01 Jan 1970
+40,160241061,"Dopo, Monika",F,Tawekombu,Student,27 Aug 1993
+41,160124474,"Dowa, Lilian",F,Orei 2,Household Duties,03 Feb 1993
+42,160207677,"Elly, Kepolo",F,Komoli,Student,01 Jan 1986
+43,160184631,"Ena, Kombil",F,Komoli,Household Duties,01 Jan 1981
+44,160184667,"Enge, Cathy",F,Orei 2,Household Duties,01 Jan 1972
+45,160184656,"Enge, Josephine",F,Komoli,Household Duties,01 Jan 1968
+46,160184366,"Enge, Lepapuli",F,Komoli,Household Duties,01 Jan 1960
+47,160183079,"Enge, Maria",F,Komoli,Household Duties,01 Jan 1976
+48,160183080,"Enge, Mary",F,Komoli,Student,01 Jan 1987
+49,160184658,"Enge, Ruth",F,Komoli,Household Duties,01 Jan 1980
+50,160124608,"Ferman, Wendy",F,Orei 2,Household Duties,02 May 1993
+51,160207240,"George, Magret",F,Komoli,Household Duties,01 Jan 1980
+52,25084014,"George, Roseline",F,Orei 2,Household Duties,24 Aug 1976
+53,25083963,"George, Rosline",F,Komere Pena,Household Duties,24 Aug 1976
+54,160184573,"Gloiye, Ali",F,Komoli,Household Duties,01 Jan 1966
+55,160184625,"Gloiye, Delma",F,Komoli,Student,01 Jan 1988
+56,160184477,"Gloiye, Freda",F,Komoli,Student,01 Jan 1985
+57,160240600,"Gloiye, Melvin",F,Tawekombu,Household Duties,08 Dec 1991
+58,160241058,"Gloiye, Raylin",F,Tawekombu,Household Duties,30 Jul 1991
+59,160207145,"Greg, Patrisa",F,Komoli,Typist,01 Jan 1978
+60,160240593,"Iko, Jenet",F,Tawekombu,Household Duties,28 Apr 1979
+61,160146815,"Iko, Mecki",F,Tawekombu,Household Duties,01 Jan 1980
+62,160151547,"Indindi, Desmi",F,Tawekombu,Household Duties,01 Jan 1984
+63,160136626,"Inock, Wali",F,Tawekombu,Student,27 Nov 1995
+64,160185922,"Issac, Ester",F,Tawekombu,Household Duties,01 Jan 1984
+65,160240599,"Issac, Tiye",F,Tawekombu,Household Duties,03 Sep 1965
+66,160207566,"James, Agnes",F,Tawekombu,Church Worker,01 Jan 1976
+67,160185563,"James, Cathy",F,Tawekombu,Household Duties,01 Jan 1971
+68,160207143,"James, Daisy",F,Tawekombu,Student,01 Jan 1988
+69,160124603,"James, Faith",F,Orei 2,Student,06 Nov 1997
+70,160124604,"James, Florina",F,Orei 2,Student,01 Feb 1999
+71,160446605,"James, Jelina",F,Orei 2,Student,03 Oct 2003
+72,160124468,"James, Jullie",F,Orei 2,Household Duties,11 Apr 1991
+73,160185324,"James, Lavinia",F,Tawekombu,Student,01 Jan 1984
+74,160185665,"James, Nataisa",F,Tawekombu,Student,01 Jan 1987
+75,160188179,"James, Palakome",F,Tawekombu,Household Duties,01 Jan 1976
+76,160241048,"James, Selina",F,Tawekombu,Household Duties,06 Aug 1991
+77,160185666,"James, Shinda",F,Tawekombu,Student,01 Jan 1988
+78,25084052,"James kinja, Jennifer",F,Tawekombu,Household Duties,15 Sep 1986
+79,160240903,"Jessy, Betty",F,Tawekombu,Household Duties,11 Sep 1977
+80,160207296,"John, Betty",F,Konopuli,Household Duties,01 Jan 1974
+81,25084018,"John, Bevlin",F,Orei 2,Household Duties,02 Apr 1992
+82,25083981,"John, Jogia",F,Komoli,Student,11 May 2001
+83,25084020,"John, Leni",F,Orei 2,Security,09 Apr 1980
+84,160446509,"John, Lonley",F,Orei 2,Student,16 May 2002
+85,160446530,"John, Mishel",F,Orei 2,Household Duties,07 Jun 2000
+86,160184914,"John, Nandame",F,Konopuli,Household Duties,01 Jan 1960
+87,160184758,"John, Pandeya",F,Konopuli,Household Duties,01 Jan 1962
+88,160184757,"John, Pomboli",F,Konopuli,Not Specified,01 Jan 1958
+89,160124605,"Joseph, Dianna",F,Orei 2,Student,07 Mar 1999
+90,25084021,"Joshua, Melisa",F,Orei 2,Household Duties,05 Nov 2000
+91,160241051,"Kale, Nopiye",F,Tawekombu,Household Duties,21 Sep 1949
+92,160185469,"Kambu, Wini",F,Konopuli,Household Duties,01 Jan 1968
+93,160241103,"Kanna, Mondi",F,Kunai,Household Duties,11 Feb 1971
+94,160153429,"Kanombo, Ruth",F,Konopuli,Household Duties,01 Jan 1981
+95,160151389,"Kanombo, Tangopa",F,Konopuli,Household Duties,01 Jan 1954
+96,160146673,"Kanombo, Tiye",F,Konopuli,Household Duties,01 Jan 1966
+97,160188176,"Kanopo, Wino",F,Konopuli,Household Duties,01 Jan 1955
+98,160241260,"Kein, Jenet",F,Kunai,Household Duties,01 Jan 2000
+99,160241078,"Kelly, Soti",F,Upulu,Household Duties,06 Jan 1991
+100,160241046,"Kemapu, Jacklin",F,Tawekombu,Student,11 Aug 1993
+101,160241065,"Kemapu, Kelepo",F,Tawekombu,Household Duties,30 Jan 1963
+102,160241045,"Kemapu, Kerolin",F,Tawekombu,Student,25 Nov 1978
+103,160185448,"Kemapu, Molin",F,Orei 2,Housegirl,01 Jan 1980
+104,160185920,"Kemapu, Tambulu",F,Komoli,Household Duties,01 Jan 1956
+105,160124486,"Kembo, Mombo",F,Tawekombu,Household Duties,17 Nov 1952
+106,160446561,"Keneth, Jenny",F,Orei 2,Household Duties,10 Oct 1994
+107,160446577,"Kepa, Helina",F,Orei 2,Student,08 Apr 2002
+108,160240594,"Kepa, Linna",F,Kunai,Pastor,01 Nov 1975
+109,160241063,"Kepa, Venesa",F,Kunai,Student,24 Jan 1992
+110,160184645,"Kepenge, Kepu",F,Orei 2,Household Duties,01 Jan 1951
+111,160184480,"Kepenge, Rebeca",F,Orei 2,Household Duties,01 Jan 1953
+112,160207943,"Kepolo, Anna",F,Komoli,Household Duties,01 Jan 1956
+113,160207673,"Kepolo, Linet",F,Komoli,Student,01 Jan 1980
+114,160136624,"Kepu, Kelen",F,Tawekombu,Household Duties,02 Jun 1986
+115,160240900,"Kepu, Kellen",F,Tawekombu,Household Duties,23 Apr 1990
+116,160124490,"Kevin, Alice",F,Tawekombu,Household Duties,11 Nov 1978
+117,160241255,"Kewaiye, Matina",F,Kunai,Student,01 Jan 2000
+118,160184482,"Kinjalo, Betty",F,Komoli,Household Duties,01 Jan 1955
+119,160240895,"Kolapi, Lombu",F,Tawekombu,Household Duties,11 Sep 1953
+120,160240897,"Kolapi, Miriam",F,Tawekombu,Household Duties,02 Nov 1985
+121,160240896,"Kolapi, Wanpis",F,Tawekombu,Subsistence Farmer,01 Jan 2000
+122,160185333,"Kolopu, Yakela",F,Komoli,Household Duties,01 Jan 1956
+123,160187201,"Kombeke, Late",F,Komoli,Household Duties,01 Jan 1971
+124,160240596,"Kondawa, Jenet",F,Kunai,Household Duties,22 Jan 1971
+125,160209910,"Kondi, Ruth",F,Orei 2,Household Duties,01 Jan 1979
+126,160185371,"Kote, Kandiye",F,Komoli,Household Duties,01 Jan 1983
+127,160241081,"Koyapo, Melen",F,Upulu,Student,01 Jan 1993
+128,160184913,"Kuiye, Kandiye",F,Komoli,Household Duties,01 Jan 1961
+129,160184806,"Kuiye, Magret",F,Komoli,Student,01 Jan 1987
+130,160210539,"Lamaiye, Meroline",F,Komoli,Housegirl,01 Jan 1987
+131,160210389,"Lamaiye, Nema",F,Komoli,Household Duties,01 Jan 2000
+132,160210356,"Lamaiye, Wari",F,Komoli,Student,01 Jan 1988
+133,160446558,"Late, Stephene",F,Orei 2,Household Duties,17 Nov 1995
+134,25084027,"Lesly, Caroline",F,Orei 2,Household Duties,01 Aug 1989
+135,160185441,"Lewa, Rose",F,Komoli,Household Duties,01 Jan 1975
+136,160188180,"Limbiye, Elizabeth",F,Komoli,Student,01 Jan 1983
+137,160241253,"Limbiye, Liwini",F,Kunai,Student,21 Oct 1997
+138,160188181,"Limbiye, Lynn",F,Komoli,Student,01 Jan 1984
+139,160241252,"Limbiye, Morin",F,Kunai,Student,21 May 1976
+140,160241251,"Limbiye, Wena",F,Kunai,Household Duties,31 Jan 1971
+141,160188177,"Limbiye, Wete",F,Komoli,Household Duties,01 Jan 1966
+142,160241258,"Luke, Christina",F,Komoli,Student,13 Dec 1990
+143,160209886,"Luke, Davina",F,Komoli,Student,01 Jan 1988
+144,160124493,"Luke, Dilaila",F,Tawekombu,Student,15 Dec 1998
+145,160209792,"Luke, Dorothy",F,Komoli,Student,01 Jan 1985
+146,160207312,"Luke, Ipoki",F,Komoli,Household Duties,01 Jan 1972
+147,160124497,"Luke, Jane",F,Tawekombu,Student,10 Dec 1997
+148,160446518,"Luke, Joelyn",F,Orei 2,Student,02 Aug 2002
+149,25084028,"Luke, Maitana",F,Orei 2,Household Duties,01 Sep 1990
+150,160124496,"Luke, Mondi",F,Tawekombu,Household Duties,11 Oct 1972
+151,160446517,"Luke, Valen",F,Orei 2,Household Duties,10 Nov 1998
+152,160207926,"Maguwa, Kandipi",F,Komoli,Household Duties,01 Jan 1900
+153,160246999,"Makage, Hellen",F,Tawekombu,Baby Sitter,25 Sep 1973
+154,160241534,"Makage, Helly",F,Tawekombu,Student,09 Feb 1981
+155,160241250,"Makage, Keleli",F,Tawekombu,Household Duties,31 Jan 1954
+156,160246997,"Makage, Leya",F,Tawekombu,Student,11 Apr 1976
+157,160246995,"Makage, Mala",F,Tawekombu,Student,11 May 1983
+158,160241536,"Makage, Melen",F,Tawekombu,Student,19 Apr 1983
+159,160241246,"Makage, Waki",F,Tawekombu,Household Duties,11 Feb 1955
+160,160209762,"Makaiye, Mopune",F,Komoli,Household Duties,01 Jan 1980
+161,160207922,"Mala, Cathy",F,Komoli,Household Duties,01 Jan 1969
+162,160207849,"Mala, Lavina",F,Komoli,Housegirl,01 Jan 1988
+163,160249300,"Mambo, Kanekane",F,Tawekombu,Household Duties,25 Feb 1963
+164,160249312,"Mambo, Katirina",F,Tawekombu,Household Duties,10 Oct 1981
+165,160249669,"Mambo, Rebecca",F,Tawekombu,Student,24 Nov 1993
+166,160184571,"Mambu, Kellen",F,Komoli,Student,01 Jan 1988
+167,160184719,"Mambu, Pilembo",F,Komoli,Household Duties,01 Jan 1973
+168,160184725,"Mambu, Regina",F,Komoli,Student,01 Jan 1986
+169,160124463,"Mambu, Sophia",F,Orei 2,Student,11 Mar 1999
+170,160250479,"Mapi, Nency",F,Kunai,Student,01 Jan 1983
+171,160250643,"Mapi, Nency",F,Kunai,Household Duties,01 Jan 1971
+172,160250484,"Mapi, Pilge",F,Kunai,Household Duties,12 Nov 1961
+173,160252074,"Mapi, Rammane",F,Kunai,Household Duties,14 Feb 1971
+174,160250480,"Mapi, Rosina",F,Kunai,Student,16 Mar 1991
+175,160250475,"Mapi, Ruthy",F,Kunai,Student,11 Dec 1979
+176,160446584,"Marowa, Stella",F,Orei 2,Subsistence Farmer,03 Oct 2003
+177,160446579,"Marthin, Marin",F,Orei 2,Student,09 Feb 2002
+178,160124466,"Mathew, Lucy",F,Orei 2,Student,11 Jan 1994
+179,160184522,"Mathew, Magdalyn",F,Komoli,Student,01 Jan 1987
+180,160124465,"Mathew, Maria",F,Orei 2,Sales Women,13 Sep 1997
+181,160183063,"Mathew, Mopune",F,Komoli,Household Duties,01 Jan 1972
+182,25084053,"Mathew, Rose",F,Tawekombu,Household Duties,01 Feb 1990
+183,160184391,"Mathew, Theresa",F,Komoli,Household Duties,01 Jan 1986
+184,160249301,"Membi, Kunni",F,Tawekombu,Household Duties,23 Sep 1971
+185,160207308,"Mendeli, Lenet",F,Komoli,Student,01 Jan 1983
+186,160207306,"Mendeli, Sapina",F,Komoli,Household Duties,01 Jan 1970
+187,160207304,"Mendeli, Wameambo",F,Komoli,Household Duties,01 Jan 1966
+188,160249083,"Mepa, Pore",F,Kunai,Household Duties,01 Jan 1951
+189,160247000,"Mepa, Rose",F,Kunai,Household Duties,13 Dec 1975
+190,160249324,"Mepa, Wendi",F,Kunai,Household Duties,14 Apr 1985
+191,25084030,"Michael, Norin",F,Orei 2,Household Duties,05 Jul 1961
+192,25084032,"Michael, Rose",F,Orei 2,Household Duties,04 Dec 1991
+193,160501190,"Michael, Rose",F,Orei 2,Household Duties,06 Aug 1982
+194,160184363,"Michael, Toea",F,Komoli,Household Duties,01 Jan 1975
+195,160446503,"Micheal, Jerothy",F,Orei 2,Student,25 Oct 2003
+196,160501188,"Micheal, Natasha",F,Orei 2,Household Duties,13 Nov 1997
+197,160250626,"Mindili, Monica",F,Tawekombu,Student,01 Jan 1993
+198,160249668,"Mindili, Regina",F,Tawekombu,Student,15 Apr 1981
+199,160250624,"Mindili, Wape",F,Tawekombu,Household Duties,12 Oct 1971
+200,160250623,"Mindily, Bevely",F,Tawekombu,Household Duties,01 Jan 1979
+201,160446583,"Mindli, Stephine",F,Orei 2,Subsistence Farmer,27 Oct 2003
+202,160185346,"Mini, Cathy",F,Komoli,Household Duties,01 Jan 1976
+203,160124453,"Miwa, Antonia",F,Orei 2,Student,29 Aug 1998
+204,160187197,"Miwa, Lucy",F,Komoli,Household Duties,01 Jan 1976
+205,160136617,"Miwa, Ruth",F,Orei 2,Student,15 Apr 1999
+206,25087349,"Miwa, Sandy",F,Komere Pena,Student,05 Apr 2000
+207,160446588,"Mokoiye, Grazen",F,Orei 2,Student,27 Feb 2004
+208,160207953,"Mokoiye, Jenny",F,Komoli,Household Duties,01 Jan 1986
+209,160446590,"Mokoiye, Pamela",F,Orei 2,Student,13 Mar 2001
+210,160209897,"Mokoiye, Tency",F,Komoli,Household Duties,01 Jan 1972
+211,160184919,"Monda, Betty",F,Komoli,Student,01 Jan 1985
+212,160184918,"Monda, Mita",F,Komoli,Household Duties,01 Jan 1970
+213,160210352,"Moro, Bepi",F,Komoli,Household Duties,01 Jan 1959
+214,160210522,"Moro, Lilly",F,Komoli,Student,01 Jan 1988
+215,160446559,"Moses, Lilly",F,Orei 2,Household Duties,16 Dec 1985
+216,160207773,"Mukiye, Awa",F,Komoli,Household Duties,01 Jan 1957
+217,160250485,"Nagu, Pega",F,Tawekombu,Household Duties,08 Apr 1961
+218,160250641,"Nagu, Puke",F,Tawekombu,Household Duties,11 Feb 1974
+219,160124460,"Namine, Stevenie",F,Orei 2,Household Duties,28 Sep 1994
+220,160207396,"Natil, Ramuwane",F,Komere Pena,Household Duties,01 Jan 1951
+221,160251799,"Naweya, Jerothy",F,Upulu,Household Duties,01 Jan 1977
+222,160249974,"Naweya, Kola",F,Upulu,Household Duties,16 Mar 1967
+223,160249975,"Naweya, Linet",F,Upulu,Student,11 Apr 1989
+224,160207399,"Nema, Babrah",F,Komere Pena,Household Duties,01 Jan 1967
+225,160207392,"Nema, Pilge",F,Komere Pena,Household Duties,01 Jan 1950
+226,25087351,"Nema, Rica",F,Komoli,Student,11 Mar 2002
+227,160446526,"Nema, Rinda",F,Orei 2,Student,06 Sep 2000
+228,160446611,"Nickon, Roselyn",F,Orei 2,Household Duties,27 Aug 1999
+229,160124609,"Nikon, Roselyn",F,Orei 2,Household Duties,21 Jun 1994
+230,160136630,"Nindil, Rachael",F,Tawekombu,Household Duties,08 Oct 1993
+231,160182601,"Niningi, Epiame",F,Komere Pena,Household Duties,01 Jan 1976
+232,160182616,"Nolepo, Angela",F,Komere Pena,Student,01 Jan 1988
+233,160207387,"Noma, Kikuluabo",F,Komere Pena,Household Duties,01 Jan 1963
+234,160183208,"Nomondo, Maklyn",F,Komere Pena,Household Duties,01 Jan 1976
+235,160183199,"Nomondo, Paka",F,Komere Pena,Household Duties,01 Jan 1961
+236,160183202,"Nomondo, Puke",F,Komere Pena,Housegirl,01 Jan 1987
+237,160124607,"Nomondo, Regina",F,Orei 2,Student,03 Dec 1997
+238,160207389,"Nopu, Darvina",F,Komere Pena,Housegirl,01 Jan 1988
+239,160207390,"Nopu, Rumbame",F,Komere Pena,Household Duties,01 Jan 1977
+240,160182459,"Nopundul, Ketha",F,Komere Pena,Student,01 Jan 1987
+241,160180997,"Nopundul, Lepuli",F,Komere Pena,Household Duties,01 Jan 1946
+242,160182615,"Nopundul, Lona",F,Komere Pena,Household Duties,01 Jan 1947
+243,160182619,"Nopundul, Nancy",F,Komere Pena,Student,01 Jan 1983
+244,160446612,"Norin, Michael",F,Orei 2,Household Duties,01 Jan 1983
+245,160446532,"Norman, Rachael",F,Orei 2,Household Duties,06 Nov 2000
+246,160209918,"Olaiye, Reti",F,Komoli,Household Duties,01 Jan 1981
+247,160446543,"Olde, Helen",F,Orei 2,Student,02 Aug 2003
+248,160188174,"Opa, Maria",F,Komoli,Household Duties,01 Jan 1952
+249,160250483,"Opme, Penny",F,Tawekombu,Student,21 Apr 1993
+250,160184809,"Opume, Pilembo",F,Komoli,Household Duties,01 Jan 1978
+251,160153430,"Opume, Polin",F,Komoli,Student,01 Jan 1988
+252,160446593,"Paias, Davina",F,Orei 2,Household Duties,23 Apr 1993
+253,25083992,"Pakepo, Mary",F,Komoli,Student,11 Apr 2001
+254,160184383,"Pakepo, Wameambo",F,Komoli,Household Duties,01 Jan 1950
+255,25083970,"Pamili, Fidolin",F,Komere Pena,Student,01 Mar 2000
+256,160185407,"Pamili, Miti",F,Komoli,Household Duties,01 Jan 1980
+257,160184756,"Pandeya, Grace",F,Komoli,Student,01 Jan 1988
+258,160185221,"Pandeya, Semila",F,Komoli,Student,01 Jan 1986
+259,160182596,"Paul, Kandiye",F,Komere Pena,Driver,01 Jan 1971
+260,160136623,"Paulson, Delma",F,Tawekombu,Student,08 Aug 1994
+261,160124482,"Paulson, Diana",F,Tawekombu,Student,02 Jan 1998
+262,160124483,"Paulson, Vero",F,Tawekombu,Teacher,06 Jul 1980
+263,160124459,"Pauwe, Racheal",F,Orei 2,Household Duties,16 Jul 1994
+264,160446600,"Peamo, Abigel",F,Orei 2,Student,06 Apr 2001
+265,160136618,"Pembo, Linet",F,Orei 2,Household Duties,04 Sep 1993
+266,160207395,"Peter, Everlyn",F,Komere Pena,Household Duties,01 Jan 1977
+267,160446614,"Peter, Josephine",F,Orei 2,Household Duties,04 Jul 1999
+268,160446534,"Peter, Monica",F,Orei 2,Household Duties,06 Nov 1998
+269,160207398,"Peya, Ibiri",F,Komere Pena,Household Duties,01 Jan 1931
+270,160182598,"Peya, Jenny",F,Komere Pena,Household Duties,01 Jan 1976
+271,160187703,"Peyamo, Jennifer",F,Komere Pena,Subsistence Farmer,01 Jan 1978
+272,160446492,"Philimon, Alis",F,Orei 2,Household Duties,30 Aug 1997
+273,160124456,"Philip, Lina",F,Orei 2,Household Duties,02 Jul 1987
+274,160124487,"Philip, Tina",F,Tawekombu,Household Duties,16 Dec 1972
+275,160207397,"Pileli, Walta",F,Komere Pena,Household Duties,01 Jan 1980
+276,160446598,"Pilimbo, Jerolyn",F,Orei 2,Student,10 Feb 2003
+277,160187810,"Pilimbo, Kana",F,Komere Pena,Household Duties,01 Jan 1949
+278,160182600,"Pilimbo, Kone",F,Komere Pena,Student,01 Jan 1986
+279,160187701,"Pilimbo, Lani",F,Komere Pena,Housegirl,01 Jan 1982
+280,160187699,"Pilimbo, Lina",F,Komere Pena,Household Duties,01 Jan 1978
+281,160187812,"Pilimbo, Lineth",F,Komere Pena,Housegirl,01 Jan 1982
+282,160185351,"Pilumbo, Picece",F,Orei 2,Household Duties,01 Jan 1963
+283,25084038,"Pokea, Joyce",F,Orei 2,Subsistence Farmer,11 Nov 1979
+284,160124473,"Poki, Mackneil",F,Orei 2,Student,03 Jun 1988
+285,160185440,"Pora, Angela",F,Komoli,Student,01 Jan 1986
+286,160124311,"Pora, Josephine",F,Tawekombu,Household Duties,05 Apr 1990
+287,25084057,"Pora, Medella",F,Tawekombu,Student,09 May 2003
+288,160184808,"Pumbu, Lombu",F,Konopuli,Household Duties,01 Jan 1900
+289,160185565,"Pupu, Anita",F,Konopuli,Household Duties,01 Jan 1976
+290,160185668,"Pupu, Jenny",F,Konopuli,Household Duties,01 Jan 1977
+291,160446610,"Pupu, Sofi",F,Orei 2,Student,10 Aug 2000
+292,25084041,"Pupu, Tracy",F,Orei 2,Student,08 Jun 2000
+293,160446609,"Pupu, Venesa",F,Orei 2,Student,16 Apr 2002
+294,160209923,"Ralea, Kaiye",F,Konopuli,Household Duties,01 Jan 1900
+295,25083998,"Randy, Roina",F,Komoli,Student,01 Jan 2004
+296,25084043,"Rex, Joan",F,Orei 2,Student,14 Apr 2003
+297,25084059,"Robert, Kandiye",F,Tawekombu,Subsistence Farmer,10 Oct 1981
+298,160136619,"Robert, Melisa",F,Orei 2,Household Duties,12 Nov 1994
+299,160185310,"Robin, Elly",F,Konopuli,Household Duties,01 Jan 1976
+300,160446524,"Roger, Jacklyn",F,Orei 2,Household Duties,06 Jan 1998
+301,160446547,"Sales, Antonia",F,Orei 2,Student,06 Aug 2003
+302,160124485,"Samuel, Janet",F,Tawekombu,Household Duties,03 Feb 1978
+303,160446552,"Shara, Yapi",F,Orei 2,Household Duties,14 Oct 1991
+304,160187347,"Simon, Becky",F,Konopuli,Household Duties,01 Jan 1953
+305,160446486,"Simon, Carol",F,Orei 2,Household Duties,10 Feb 1991
+306,160184769,"Simon, Joana",F,Konopuli,Household Duties,01 Jan 1949
+307,160187344,"Simon, Lilly",F,Konopuli,Household Duties,01 Jan 1950
+308,160187345,"Simon, Teresha",F,Konopuli,Household Duties,01 Jan 1953
+309,160446587,"Slavern, Amela",F,Orei 2,Student,03 Apr 2003
+310,160446556,"Soti, Hana",F,Orei 2,Household Duties,18 Oct 1994
+311,160240612,"Steven, Anna",F,Tawekombu,Household Duties,28 Sep 1975
+312,160209809,"Steven, Dodo",F,Komoli,Student,01 Jan 1990
+313,160124610,"Steven, Dorin",F,Orei 2,Engineer,28 Apr 1989
+314,160446576,"Steven, Elvia",F,Orei 2,Student,22 Jul 2003
+315,160207968,"Steven, Maria",F,Komoli,Household Duties,01 Jan 1973
+316,160207956,"Steven, Oino",F,Komoli,Household Duties,01 Jan 1974
+317,160446515,"Suke, Shalome",F,Orei 2,Student,01 Mar 2004
+318,160136625,"Taiye, Poyo",F,Tawekombu,Household Duties,11 Dec 1954
+319,160124488,"Tanguwe, Agnes",F,Tawekombu,Student,01 Apr 1993
+320,160136629,"Tanguwe, Lewa",F,Tawekombu,Student,12 Aug 1992
+321,160207920,"Tanguwe, Yara",F,Komoli,Household Duties,01 Jan 1980
+322,160184915,"Tapoli, Bembo",F,Tawekombu,Household Duties,01 Jan 1952
+323,160184916,"Tapoli, Eli",F,Tawekombu,Student,01 Jan 1983
+324,160148511,"Tapoli, Kwin",F,Tawekombu,Housegirl,01 Jan 1986
+325,160184635,"Tapoli, Torita",F,Tawekombu,Student,01 Jan 1985
+326,160207687,"Tawa, Christina",F,Tawekombu,Household Duties,01 Jan 1974
+327,160207664,"Tawa, Makambo",F,Tawekombu,Household Duties,01 Jan 1966
+328,160207603,"Tende, Los",F,Komoli,Household Duties,01 Jan 1971
+329,160184810,"Tene, Macklin",F,Komoli,Household Duties,01 Jan 1976
+330,160188303,"Tenis, Mollyn",F,Komoli,Household Duties,01 Jan 1981
+331,160148510,"Tennis, Cathy",F,Komoli,Household Duties,01 Jan 1977
+332,160207776,"Tennis, Priscilla",F,Komoli,Household Duties,01 Jan 1976
+333,160185230,"Thomas, Jacky",F,Komoli,Household Duties,01 Jan 1980
+334,25084045,"Thomas, Jessica",F,Orei 2,Student,23 Apr 2001
+335,160207828,"Tiki, Kanganti",F,Komoli,Household Duties,01 Jan 1943
+336,160124475,"Timothy, Melisa",F,Orei 2,Household Duties,09 Dec 1994
+337,160124471,"Timothy, Rose",F,Orei 2,Worker,15 Dec 1992
+338,160184803,"Tira, Kandipi",F,Komoli,Household Duties,01 Jan 1952
+339,160184638,"Tira, Kiame",F,Komoli,Household Duties,01 Jan 1976
+340,160446505,"Tira, Neomiah",F,Orei 2,Household Duties,04 Mar 2001
+341,160185406,"Tira, Rupi",F,Komoli,Household Duties,01 Jan 1946
+342,160209925,"Tombo, Jeneth",F,Komoli,Household Duties,01 Jan 1980
+343,160207940,"Tombo, Jully",F,Komoli,Housegirl,01 Jan 1982
+344,160209920,"Tombo, Lepoka",F,Komoli,Household Duties,01 Jan 1959
+345,160184493,"Tomoiye, Kiniye",F,Komoli,Household Duties,01 Jan 1952
+346,160184377,"Tope, Kololi",F,Komoli,Household Duties,01 Jan 1959
+347,160209992,"Toropo, Maria",F,Komoli,Household Duties,01 Jan 1961
+348,160209991,"Toropo, Wipa",F,Komoli,Household Duties,01 Jan 1939
+349,160207918,"Tuli, Matina",F,Komoli,Household Duties,01 Jan 1976
+350,160184779,"Tumbo, Indindi",F,Komoli,Household Duties,01 Jan 1961
+351,160446494,"Vincent, Stella",F,Orei 2,Household Duties,14 Sep 1994
+352,160446541,"Wala, Stephany",F,Orei 2,Student,03 Nov 2003
+353,160446586,"Wami, Sherolyn",F,Orei 2,Household Duties,23 Aug 1999
+354,160446488,"Wanba, Betty",F,Orei 2,Household Duties,02 Jun 1991
+355,160446535,"Wane, Sila",F,Orei 2,Household Duties,11 Mar 1992
+356,25084067,"Wayne, Grace",F,Tawekombu,Household Duties,05 Feb 1989
+357,25084047,"Wereko, Jackson",F,Orei 2,Household Duties,01 Feb 1995
+358,160185471,"Wereko, Josephine",F,Komoli,Household Duties,01 Jan 1978
+359,160185322,"Wereko, Keleli",F,Komoli,Household Duties,01 Jan 1983
+360,160124451,"Wereko, Malinda",F,Orei 2,Student,05 Jul 1997
+361,25084049,"Wereko, Sylvia",F,Orei 2,Student,05 Jul 2002
+362,160185470,"Wereko, Tultulu",F,Komoli,Household Duties,01 Jan 1967
+363,160124452,"Wesly, Junior",F,Orei 2,Household Duties,04 May 1994
+364,160185313,"Wile, Doli",F,Komoli,Student,01 Jan 1986
+365,160185245,"Wile, Joyce",F,Komoli,Household Duties,01 Jan 1981
+366,160185242,"Wile, Kiniye",F,Komoli,Household Duties,01 Jan 1954
+367,160185243,"Wile, Ponje",F,Komoli,Household Duties,01 Jan 1959
+368,160181141,"Windi, Melen",F,Orei 2,Household Duties,01 Jan 1982
+369,160185345,"Yanje, Beflyn",F,Orei 2,Student,01 Jan 1986
+370,160185335,"Yanje, Eli",F,Orei 2,Household Duties,01 Jan 1980
+371,160185334,"Yanje, Nino",F,Orei 2,Household Duties,01 Jan 1965
+372,160207153,"Yunumi, Josephine",F,Tawekombu,Student,01 Jan 1986
+373,160446613,"Yunumi, Ruth",F,Orei 2,Household Duties,13 May 1993
+374,160207730,"Yunumi, Wandambo",F,Tawekombu,Household Duties,01 Jan 1960
+375,160185323,"Yunungo, Esther",F,Tawekombu,Household Duties,01 Jan 1980
+376,160241064,"Agopa, Aiye",M,Tawekombu,Subsistence Farmer,27 May 1969
+377,160240595,"Agopa, Moris",M,Tawekombu,Subsistence Farmer,08 Sep 1975
+378,160241066,"Agopa, Ole",M,Tawekombu,Subsistence Farmer,21 Nov 1961
+379,160240610,"Agopa, Ulu",M,Tawekombu,Subsistence Farmer,21 Jan 1963
+380,160184777,"Akele, Monda",M,Tawekombu,Subsistence Farmer,01 Jan 1963
+381,160184778,"Akele, Tumbo",M,Tawekombu,Subsistence Farmer,01 Jan 1944
+382,160184812,"Aloma, Benny",M,Tawekombu,Student,01 Jan 1986
+383,160124448,"Anton, Freddie",M,Orei 2,Student,20 Mar 1999
+384,160124449,"Anton, Millan",M,Orei 2,Student,15 Jul 1997
+385,160207716,"Anton, Wayne",M,Tawekombu,Student,01 Jan 1986
+386,160151377,"Apa, Iko",M,Tawekombu,Teacher,01 Jan 1967
+387,160151904,"Apa, Indindi",M,Tawekombu,Subsistence Farmer,01 Jan 1981
+388,160153431,"Apa, Kanombo",M,Tawekombu,Subsistence Farmer,01 Jan 1977
+389,160184371,"Apa, Opume",M,Tawekombu,Church Worker,01 Jan 1969
+390,160151401,"Apa, Toiye",M,Tawekombu,Mechanic,01 Jan 1975
+391,160146816,"Apa, Wane",M,Tawekombu,Student,01 Jan 1986
+392,160184644,"Ape, Kepenge",M,Orei 2,Subsistence Farmer,01 Jan 1949
+393,160184494,"Ape, Kinjalo",M,Orei 2,Subsistence Farmer,01 Jan 1951
+394,160188302,"Ape, Simon",M,Orei 2,Not Specified,01 Jan 1947
+395,160240604,"Arume, Aiye",M,Tawekombu,Carpenter,25 Jan 1983
+396,160446585,"Benjamin, Testeman",M,Orei 2,Subsistence Farmer,13 Apr 2000
+397,160207607,"Billy, Bobby",M,Orei 2,Student,01 Jan 1986
+398,160446594,"Brandican, Pawa",M,Orei 2,Student,14 Aug 2003
+399,160446601,"Daniel, Daren",M,Orei 2,Student,19 Jan 2004
+400,160207841,"Dene, Elvis",M,Tawekombu,Subsistence Farmer,01 Jan 1986
+401,160446566,"Deniel, Semi",M,Orei 2,Student,03 Jul 2000
+402,25083976,"Done, Rajah",M,Komoli,Student,24 Aug 2002
+403,160446511,"Dopo, Micah",M,Orei 2,Student,24 Nov 2003
+404,160446501,"Ena, Ezeckil",M,Orei 2,Student,16 Nov 1999
+405,160240591,"Ena, Steven",M,Tawekombu,Student,11 Nov 1993
+406,160240901,"Ena, Timothy",M,Tawekombu,Student,25 Apr 1991
+407,160184565,"Enge, David",M,Komoli,Student,01 Jan 1985
+408,160184685,"Enge, Ferman",M,Komoli,Student,01 Jan 1987
+409,160184657,"Enge, James",M,Komoli,Student,01 Jan 1985
+410,160183073,"Enge, Kolopu",M,Komoli,Student,01 Jan 1982
+411,160184817,"Enge, Mambu",M,Komoli,Subsistence Farmer,01 Jan 1969
+412,160136620,"Enge, Nathan",M,Orei 2,Sales Women,22 Dec 1994
+413,160184364,"Enge, Paul",M,Komoli,Subsistence Farmer,01 Jan 1934
+414,160184368,"Enge, Tolai",M,Komoli,Subsistence Farmer,01 Jan 1956
+415,160184664,"Enge, Wesley",M,Komoli,Subsistence Farmer,01 Jan 1977
+416,160185350,"Era, Piumbo",M,Komoli,Self Employed,01 Jan 1958
+417,160185231,"Gene, Robin",M,Komoli,Teacher,01 Jan 1971
+418,25083961,"George, Brent",M,Komere Pena,Student,11 Sep 2003
+419,160241057,"Gloiye, Doarson",M,Tawekombu,Student,04 Nov 1993
+420,160184569,"Gloiye, Done",M,Komoli,Teacher,01 Jan 1959
+421,160182594,"Gloiye, Michael",M,Komoli,Student,01 Jan 1987
+422,160240904,"Gloiye, Pareka",M,Tawekombu,Student,28 Apr 1993
+423,160182664,"Gloiye, Randy",M,Komoli,Student,01 Jan 1983
+424,160446545,"Hullu, Peke",M,Orei 2,Student,29 Jan 2003
+425,160151378,"Iko, John",M,Tawekombu,Student,01 Jan 1988
+426,25084016,"Ilo, Sheron",M,Orei 2,Household Duties,01 May 1989
+427,25084051,"Indindi, Beto",M,Tawekombu,Student,30 Jun 2001
+428,160240598,"Issac, Alumbo",M,Tawekombu,Salesman,15 Oct 1982
+429,160241047,"Issac, Jacky",M,Tawekombu,Security,17 May 1992
+430,25083978,"James, Jamin",M,Komoli,Student,01 Jan 2004
+431,25083980,"James, Jasmine",M,Komoli,Student,01 Feb 2000
+432,160185331,"James, Maine",M,Tawekombu,Subsistence Farmer,01 Jan 1986
+433,160185330,"James, Mathew",M,Tawekombu,Subsistence Farmer,01 Jan 1982
+434,160185325,"James, Pamili",M,Tawekombu,Subsistence Farmer,01 Jan 1976
+435,160185564,"James, Sammy moro",M,Tawekombu,Student,01 Jan 1978
+436,160446568,"Jessy, Frewel",M,Orei 2,Student,22 May 1999
+437,160446478,"Jessy, Pedena",M,Orei 2,Student,16 Apr 2000
+438,25083983,"John, Mcrod",M,Komoli,Student,01 Feb 2002
+439,160124606,"Joseph, Samuel",M,Orei 2,Pastor,06 Mar 1991
+440,160210001,"Kalapu, Limbo",M,Konopuli,Subsistence Farmer,01 Jan 1930
+441,160209989,"Kalapu, Toropo",M,Konopuli,Subsistence Farmer,01 Jan 1900
+442,160241052,"Kale, Mapi",M,Tawekombu,Subsistence Farmer,01 Dec 1961
+443,160241056,"Kale, Sales",M,Tawekombu,Subsistence Farmer,11 Sep 1963
+444,160446548,"Kamapu, Gilbert",M,Orei 2,Student,18 Jul 2003
+445,160241249,"Kanombo, Gibson",M,Tawekombu,Student,25 Jan 1993
+446,160241050,"Kanombo, Tomas",M,Orei 2,Student,02 Oct 1982
+447,160241541,"Kanombo, Wanpis",M,Tawekombu,Student,25 Mar 1992
+448,160188175,"Kanopo, Paias",M,Konopuli,Subsistence Farmer,01 Jan 1988
+449,160241104,"Karoma, Buka",M,Orei 2,Pastor,25 Aug 1976
+450,160241043,"Karoma, Kale",M,Tawekombu,Subsistence Farmer,11 May 1939
+451,160250478,"Karoma, Tongi",M,Tawekombu,Subsistence Farmer,01 Jan 1957
+452,160185467,"Kemapu, Issac peke",M,Konopuli,Clerk,01 Jan 1974
+453,160185447,"Kemapu, Jeffrey",M,Konopuli,Driver,01 Jan 1978
+454,160241049,"Kemapu, Peter",M,Konopuli,Student,17 Aug 1989
+455,160185921,"Kemapu, Wini",M,Komoli,Subsistence Farmer,01 Jan 1984
+456,160185468,"Kemapu, Yunungo",M,Komoli,Subsistence Farmer,01 Jan 1976
+457,25083985,"Ken, Kayson",M,Komoli,Student,05 Jul 2001
+458,160446582,"Kepa, Kenide",M,Orei 2,Subsistence Farmer,15 Jul 2003
+459,160240609,"Kepa, Klendi",M,Kunai,Student,11 Apr 1993
+460,160207675,"Kepolo, Albert",M,Komoli,Student,01 Jan 1984
+461,160207934,"Kepolo, Bill",M,Komoli,Student,01 Jan 1982
+462,160446513,"Kepolo, Ken",M,Orei 2,Subsistence Farmer,04 Dec 1979
+463,160124462,"Kepolo, Remond",M,Orei 2,Not Specified,08 Jul 1995
+464,160207928,"Kepolo, Samson",M,Komoli,Student,01 Jan 1977
+465,160240898,"Kerandi, Mambo",M,Kunai,Subsistence Farmer,01 Jan 2000
+466,160240899,"Kerandi, Tikate",M,Kunai,Subsistence Farmer,03 Mar 1969
+467,160184917,"Kerepa, Tapoli",M,Komoli,Subsistence Farmer,01 Jan 1950
+468,160446570,"Kevin, Depis",M,Orei 2,Student,14 Jun 2002
+469,160124491,"Kevin, Jeromaiah",M,Tawekombu,Student,02 Jul 1998
+470,160241244,"Kewaiye, Atiki",M,Kunai,Subsistence Farmer,11 Feb 1976
+471,160241053,"Kewaiye, Keven",M,Kunai,Student,01 Nov 1992
+472,160241259,"Kewaiye, Matoli",M,Kunai,Mechanic,21 Dec 1970
+473,160240890,"Kewaiye, Moses",M,Kunai,Student,01 Jan 2000
+474,160241054,"Kewaiye, Tomoye",M,Kunai,Subsistence Farmer,21 Aug 1972
+475,160240891,"Kewaiye, Yapi",M,Kunai,Student,11 Jul 1981
+476,160185352,"Kolembo, Tendu",M,Komoli,Subsistence Farmer,01 Jan 1967
+477,160185919,"Kolopu, Kemapu",M,Komoli,Subsistence Farmer,01 Jan 1947
+478,160446572,"Kondi, Junior",M,Orei 2,Subsistence Farmer,28 Apr 2004
+479,160241080,"Koyapo, Manuel",M,Upulu,Student,01 Jan 1977
+480,160240906,"Koyapo, Terry",M,Upulu,Student,07 May 1982
+481,160184496,"Kuiye, Martin",M,Komoli,Subsistence Farmer,01 Jan 1981
+482,160184646,"Kuiye, Richard",M,Komoli,Student,01 Jan 1988
+483,160184804,"Kuiye, Sailas",M,Komoli,Student,01 Jan 1984
+484,160209909,"Kuru, Nema",M,Orei 2,Subsistence Farmer,01 Jan 1948
+485,160209978,"Lamaiye, Paul",M,Komoli,Subsistence Farmer,01 Jan 1981
+486,160210518,"Lamaiye, Simon",M,Komoli,Subsistence Farmer,01 Jan 1986
+487,25084023,"Lesley, Mokoive",M,Orei 2,Student,01 Apr 2004
+488,25084025,"Lesley, Ostin",M,Orei 2,Student,01 Jul 2003
+489,160241256,"Limbiye, Jayson",M,Kunai,Student,01 Nov 1993
+490,160241098,"Limbiye, Kenet",M,Kunai,Student,05 Dec 1993
+491,160241543,"Limbiye, Malakai",M,Kunai,Student,11 Jul 1981
+492,160188178,"Limbiye, Penic",M,Komoli,Student,01 Jan 1988
+493,160209899,"Limbo, Korea",M,Komoli,Subsistence Farmer,01 Jan 1977
+494,160210002,"Limbo, Tinoiye",M,Komoli,Subsistence Farmer,01 Jan 1969
+495,160241100,"Luke, Josuah",M,Komoli,Student,29 Jan 1992
+496,160446520,"Luke, Slaven",M,Orei 2,Student,03 May 2002
+497,160241545,"Luke, Steven",M,Komoli,Student,28 Jan 1993
+498,160241093,"Makage, Aita",M,Tawekombu,Subsistence Farmer,01 Oct 1975
+499,160249084,"Makage, Dainel",M,Tawekombu,Mechanic,02 Sep 1971
+500,160241264,"Makage, Jessy",M,Tawekombu,Teacher,04 Aug 1972
+501,160241538,"Makage, Mark",M,Tawekombu,Student,21 Aug 1974
+502,160246996,"Makage, Pindi",M,Tawekombu,Subsistence Farmer,08 Sep 1972
+503,160246998,"Makage, Poki",M,Tawekombu,Driver,01 Jan 2000
+504,160209916,"Makaive, Talias",M,Komoli,Machinist,01 Jan 1977
+505,160209767,"Makaiye, Pundu",M,Komoli,Student,01 Jan 1985
+506,160209917,"Makaiye, Simon",M,Komoli,Student,01 Jan 1987
+507,160184780,"Makinje, Tira",M,Komoli,Subsistence Farmer,01 Jan 1958
+508,160207923,"Mala, Ealwis",M,Komoli,Subsistence Farmer,01 Jan 1984
+509,160207921,"Mala, Mathias",M,Komoli,Subsistence Farmer,01 Jan 1981
+510,160207924,"Mala, Steward",M,Komoli,Subsistence Farmer,01 Jan 1986
+511,160246994,"Mambo, John",M,Tawekombu,Student,01 Jan 1976
+512,160124469,"Mambu, John",M,Orei 2,Warder,04 Apr 1993
+513,160124455,"Mambu, Moses",M,Orei 2,Student,25 Jan 1999
+514,160184723,"Mambu, Smith",M,Komoli,Mechanic,01 Jan 1985
+515,160124464,"Mambu, Vincent",M,Orei 2,Student,02 Feb 1999
+516,160185444,"Mamili, Pora",M,Komoli,Subsistence Farmer,01 Jan 1947
+517,160250640,"Mapi, Jeffery",M,Kunai,Student,01 Jan 1985
+518,160446482,"Mapi, Kal",M,Orei 2,Student,13 Apr 2004
+519,160250639,"Mapi, Kelly",M,Kunai,Student,07 Dec 1976
+520,160250481,"Mapi, Martin",M,Kunai,Student,01 Jan 1984
+521,160249236,"Membi, Melpen",M,Tawekombu,Student,03 Nov 1993
+522,160249302,"Membi, Tomson",M,Tawekombu,Student,11 Sep 1980
+523,160207851,"Mendeli, Philip",M,Komoli,Student,01 Jan 1986
+524,160249237,"Mepa, Dowa",M,Kunai,Pastor,11 Dec 1976
+525,160246993,"Mepa, Jeffery",M,Kunai,Subsistence Farmer,18 Sep 1974
+526,25083965,"Michael, Colln",M,Komere Pena,Subsistence Farmer,01 Feb 1994
+527,160124467,"Michael, Joshua",M,Orei 2,Student,07 Nov 1995
+528,25084002,"Micheal, Calin",M,Konopuli,Self Employed,01 Mar 1991
+529,160249299,"Mindili, Pora",M,Tawekombu,Subsistence Farmer,01 Jan 1977
+530,160250625,"Mindili, Soti",M,Tawekombu,Student,01 Jan 1986
+531,160446597,"Miwa, Brant",M,Orei 2,Student,05 Jan 2000
+532,25084034,"Miwa, Joel",M,Orei 2,Student,09 Oct 1994
+533,25083966,"Miwa, Junior",M,Komere Pena,Student,01 Jan 1990
+534,160446599,"Miwa, Kimoli",M,Orei 2,Student,04 Jun 2003
+535,160207962,"Mokoiye, Anton",M,Komoli,Teacher,01 Jan 1966
+536,160446589,"Mokoiye, Ezrom",M,Orei 2,Student,06 May 2003
+537,160207570,"Mokoiye, Greg pumbo",M,Komoli,Store Keeper,01 Jan 1976
+538,160209807,"Mokoiye, Ilo",M,Komoli,Student,01 Jan 1988
+539,160207718,"Mokoiye, James",M,Komoli,Church Worker,01 Jan 1971
+540,160207146,"Mokoiye, Kanowi benjamin",M,Komoli,Subsistence Farmer,01 Jan 1986
+541,160209895,"Mokoiye, Lambi",M,Komoli,Subsistence Farmer,01 Jan 1937
+542,160209803,"Mokoiye, Lesly",M,Komoli,Student,01 Jan 1984
+543,160446592,"Mokoiye, Melkisadek",M,Orei 2,Student,14 May 2002
+544,160446591,"Mokoiye, Melqiu",M,Orei 2,Student,03 Apr 2000
+545,160209808,"Mokoiye, Steven",M,Komoli,Councillor,01 Jan 1964
+546,160207949,"Mokoiye, Wami",M,Komoli,Student,01 Jan 1988
+547,160446602,"Momondo, Ricky",M,Orei 2,Subsistence Farmer,09 Jun 1992
+548,160184637,"Monda, Ben",M,Komoli,Student,01 Jan 1987
+549,160210353,"Moro, John",M,Komoli,Subsistence Farmer,01 Jan 1978
+550,160210521,"Moro, Markson",M,Komoli,Student,01 Jan 1984
+551,160210519,"Moro, Samson",M,Komoli,Student,01 Jan 1981
+552,160207774,"Mukiye, Tennis",M,Komoli,Student,01 Jan 1974
+553,160250642,"Nagu, Nomen",M,Tawekombu,Student,23 Jan 1993
+554,160180996,"Nandiye, Wane",M,Komere Pena,Security,01 Jan 1966
+555,160249502,"Naweya, Imba",M,Upulu,Student,08 Aug 1977
+556,160245569,"Naweya, Robert",M,Upulu,Student,22 Nov 1981
+557,160249976,"Naweya, Wane",M,Upulu,Student,26 Apr 1979
+558,160124461,"Nema, Brian",M,Orei 2,Student,05 Mar 1999
+559,160207391,"Nema, Devid",M,Komere Pena,Subsistence Farmer,01 Jan 1980
+560,160446563,"Nema, Ezekiel",M,Orei 2,Subsistence Farmer,29 Sep 2001
+561,160207393,"Nema, Kelly",M,Komere Pena,Subsistence Farmer,01 Jan 1983
+562,25084054,"Nema, Ridian",M,Tawekombu,Student,05 Mar 2004
+563,25083989,"Nema, Ryan",M,Komoli,Student,10 Aug 2001
+564,160207394,"Nema, Simon",M,Komere Pena,Subsistence Farmer,01 Jan 1970
+565,160124492,"Nindil, Konjoa",M,Tawekombu,Subsistence Farmer,15 Mar 1999
+566,160136628,"Nindil, Niwi",M,Tawekombu,Sales Women,08 Dec 1979
+567,160136631,"Nindil, Simeon",M,Tawekombu,Sales Women,02 Jan 1999
+568,160249670,"Ninigi, Winson",M,Tawekombu,Student,21 Apr 1993
+569,160182603,"Niningi, Jeremiah",M,Komere Pena,Student,01 Jan 1988
+570,160182602,"Niningi, Philemon",M,Komere Pena,Student,01 Jan 1986
+571,160250477,"Niye, Kepa",M,Kunai,Pastor,05 Mar 1961
+572,160250482,"Niye, Limbiye",M,Kunai,Mechanic,04 Dec 1963
+573,160250476,"Niye, Membi",M,Kunai,Subsistence Farmer,21 Nov 1965
+574,160446479,"Nomondo, Benedict",M,Orei 2,Student,27 Apr 2003
+575,160182597,"Nomondo, Jacobys",M,Komere Pena,Student,01 Jan 1985
+576,160183203,"Nomondo, Kombeke",M,Komere Pena,Student,01 Jan 1986
+577,160183200,"Nomondo, Pais",M,Komere Pena,Student,01 Jan 1983
+578,160183201,"Nomondo, Steven",M,Komere Pena,Student,01 Jan 1984
+579,160124458,"Nopundil, Nipul",M,Orei 2,Self Employed,07 Jun 1992
+580,160182460,"Nopundul, Andy",M,Komere Pena,Carpenter,01 Jan 1974
+581,160180998,"Nopundul, Danny",M,Komere Pena,Salesman,01 Jan 1971
+582,160182458,"Nopundul, Tuna",M,Komere Pena,Student,01 Jan 1986
+583,160180999,"Nopundul, Windy",M,Komere Pena,Subsistence Farmer,01 Jan 1977
+584,160446607,"Numen, Gayson",M,Orei 2,Student,17 Apr 2003
+585,160446603,"Numen, Jessy",M,Orei 2,Student,02 Jan 2004
+586,160251798,"Okolo, Naweya",M,Upulu,Subsistence Farmer,22 Jul 1959
+587,160209766,"Olaiye, Bulu",M,Komoli,Subsistence Farmer,01 Jan 1961
+588,160207915,"Olaiye, Gery",M,Komoli,Subsistence Farmer,01 Jan 1954
+589,160187350,"Opa, Koea",M,Komoli,Subsistence Farmer,01 Jan 1982
+590,160188164,"Opa, Pimo",M,Komoli,Subsistence Farmer,01 Jan 1986
+591,160501189,"Opuma, Oska",M,Orei 2,Student,08 Jul 2003
+592,25083991,"Pakepo, Blesis",M,Komoli,Student,02 Jan 2000
+593,160181152,"Pakepo, Mathew",M,Komoli,Catechist,01 Jan 1957
+594,25084036,"Pakepo, Simon",M,Orei 2,Student,04 Nov 2001
+595,160184387,"Pakepo, Tenis",M,Komoli,Subsistence Farmer,01 Jan 1987
+596,160184402,"Pakepo, Tope",M,Komoli,Subsistence Farmer,01 Jan 1961
+597,25083994,"Pakepo, Trinity",M,Komoli,Student,14 Feb 1999
+598,25083971,"Pamili, Jeremiah",M,Komere Pena,Student,01 Jul 2003
+599,160184785,"Pandeya, Kanowi",M,Komoli,Subsistence Farmer,01 Jan 1988
+600,160184786,"Pandeya, Niningi",M,Komoli,Subsistence Farmer,01 Jan 1969
+601,160185218,"Pandeya, Stanley",M,Komoli,Subsistence Farmer,01 Jan 1979
+602,160184741,"Pandeya, Steward",M,Komoli,Student,01 Jan 1988
+603,160240611,"Pandeya, Tipora",M,Tawekombu,Subsistence Farmer,06 Apr 1974
+604,160182599,"Pani, Yanje",M,Komere Pena,Subsistence Farmer,01 Jan 1964
+605,25084055,"Paulson, Deil",M,Tawekombu,Student,09 Sep 2000
+606,25084056,"Paulson, Derick",M,Tawekombu,Student,09 Jul 2000
+607,160207388,"Pawa, John",M,Komere Pena,Household Duties,01 Jan 1983
+608,160207386,"Peami, Moro",M,Komere Pena,Subsistence Farmer,01 Jan 1948
+609,160210638,"Peami, Thomas",M,Komere Pena,Not Specified,01 Jan 1951
+610,160252072,"Pendence, Makage",M,Tawekombu,Pastor,25 Jan 1941
+611,160446596,"Peya, Mark",M,Orei 2,Farm worker,14 Jan 2004
+612,160183204,"Peya, Michael",M,Komere Pena,Student,01 Jan 1979
+613,160183206,"Peya michael, Andrew",M,Komere Pena,Student,01 Jan 1980
+614,160183205,"Peya michael, Peter",M,Komere Pena,Student,01 Jan 1978
+615,160183207,"Peyamo, Daniel",M,Komere Pena,Subsistence Farmer,01 Jan 1976
+616,160187704,"Peyamo, James",M,Komere Pena,Student,01 Jan 1979
+617,160206328,"Peyamo, Joseph",M,Komere Pena,Pastor,01 Jan 1960
+618,160187706,"Peyamo, Miwa",M,Komere Pena,Subsistence Farmer,01 Jan 1966
+619,160183198,"Peyamo, Nomondo",M,Komere Pena,Subsistence Farmer,01 Jan 1946
+620,160187705,"Peyamo, Philemon",M,Komere Pena,Student,01 Jan 1981
+621,160206625,"Peyamo, Yunumi",M,Komere Pena,Subsistence Farmer,01 Jan 1947
+622,160187811,"Pilimbo, Garu",M,Komere Pena,Subsistence Farmer,01 Jan 1974
+623,160187700,"Pilimbo, Mark",M,Komere Pena,Student,01 Jan 1980
+624,160187702,"Pilimbo, Tenis",M,Komere Pena,Subsistence Farmer,01 Jan 1977
+625,160446604,"Pilimbo, Thomas",M,Orei 2,Student,11 Jul 2000
+626,160182604,"Pilumbo, Pembo",M,Komere Pena,Student,01 Jan 1981
+627,160124472,"Poki, Fredson",M,Orei 2,Student,06 Feb 1999
+628,160250638,"Pokora, Nagu",M,Tawekombu,Subsistence Farmer,30 Apr 1966
+629,160252073,"Pokora, Peter",M,Tawekombu,Church Worker,21 Nov 1953
+630,160252071,"Pokowa, Lopeke",M,Tawekombu,Subsistence Farmer,01 Jan 2000
+631,160207925,"Polga, Monda",M,Komoli,Subsistence Farmer,01 Jan 1930
+632,160181159,"Ponenge, Kepolo",M,Komoli,Subsistence Farmer,01 Jan 1948
+633,160207772,"Ponenge, Mukiye",M,Komoli,Subsistence Farmer,01 Jan 1957
+634,160185445,"Pora, Lewa",M,Komoli,Subsistence Farmer,01 Jan 1980
+635,160185439,"Pora, Willie",M,Komoli,Student,01 Jan 1983
+636,160184641,"Pumbu, Dopo",M,Konopuli,Subsistence Farmer,01 Jan 1967
+637,160184640,"Pumbu, Ena",M,Konopuli,Pastor,01 Jan 1971
+638,160184634,"Pumbu, John",M,Konopuli,Subsistence Farmer,01 Jan 1956
+639,160446498,"Pumbu, Karu",M,Orei 2,Subsistence Farmer,01 Nov 1973
+640,160446608,"Pupu, Augustine",M,Orei 2,Student,14 Mar 2003
+641,160136616,"Pupu, Isaiah",M,Orei 2,Student,27 Mar 1999
+642,25084040,"Pupu, Scott",M,Orei 2,Student,07 Nov 2000
+643,160209922,"Ralea, Peter",M,Konopuli,Subsistence Farmer,01 Jan 1970
+644,160209919,"Ralea, Tombo",M,Konopuli,Subsistence Farmer,01 Jan 1956
+645,160187352,"Rami, Jackson",M,Konopuli,Subsistence Farmer,01 Jan 1988
+646,25083996,"Randy, Robbie",M,Komoli,Student,05 Dec 2003
+647,160124495,"Sailes, Reagan",M,Tawekombu,Student,29 Mar 1999
+648,160184772,"Simon, Fred",M,Konopuli,Not Specified,01 Jan 1978
+649,160184642,"Simon, Rex",M,Konopuli,Student,01 Jan 1979
+650,160207961,"Steven, Joel",M,Komoli,Student,01 Jan 1985
+651,160446550,"Steven, Jona",M,Orei 2,Student,14 Aug 2003
+652,160446574,"Steven, Jorden",M,Orei 2,Student,18 Nov 2002
+653,160207708,"Steven, Timothy",M,Komoli,Student,01 Jan 1983
+654,160136622,"Taiye, Braforh",M,Tawekombu,Teacher,03 May 1989
+655,160124481,"Taiye, Dike",M,Tawekombu,Student,02 May 1995
+656,160124480,"Taiye, Inock",M,Tawekombu,Student,01 Feb 1987
+657,160136621,"Taiye, Kepu",M,Tawekombu,Self Employed,01 Jan 1987
+658,160124312,"Taiye, Lama",M,Tawekombu,Subsistence Farmer,11 Dec 1957
+659,160124477,"Taiye, Luke",M,Tawekombu,Mechanic,02 Jun 1986
+660,160124484,"Taiye, Paulson",M,Tawekombu,Councillor,10 May 1976
+661,160136627,"Taiye, Philip",M,Tawekombu,Dental Therapist,04 Dec 1964
+662,160124478,"Taiye, Samuel",M,Tawekombu,Self Employed,06 Feb 1983
+663,160124479,"Taiye, Thomas",M,Tawekombu,Student,07 Feb 1989
+664,160209924,"Tanguwe, Billy",M,Komoli,Subsistence Farmer,01 Jan 1979
+665,160207939,"Tanguwe, Kerepa",M,Komoli,Subsistence Farmer,01 Jan 1981
+666,160207919,"Tanguwe, Thomas",M,Komoli,Subsistence Farmer,01 Jan 1977
+667,160190644,"Tapoli, Ato",M,Tawekombu,Student,01 Jan 1988
+668,160148512,"Tapoli, Baita",M,Tawekombu,Student,01 Jan 1988
+669,160153857,"Tapoli, Kakeiye",M,Tawekombu,Subsistence Farmer,01 Jan 1982
+670,160190214,"Tapoli, Michael",M,Tawekombu,Student,01 Jan 1986
+671,160184776,"Tapoli, Solomon",M,Tawekombu,Student,01 Jan 1988
+672,160151390,"Tapoli, Tennis",M,Tawekombu,Subsistence Farmer,01 Jan 1976
+673,160146674,"Tapoli, Thomas",M,Tawekombu,Subsistence Farmer,01 Jan 1984
+674,160190215,"Tapoli, Turi",M,Tawekombu,Student,01 Jan 1988
+675,160151391,"Tapoli, Wapi",M,Tawekombu,Subsistence Farmer,01 Jan 1967
+676,160207605,"Tawa, Billy",M,Tawekombu,Clerk,01 Jan 1948
+677,160207600,"Tawa, Tende",M,Tawekombu,Pastor,01 Jan 1972
+678,160151402,"Tawenbo, Kanombo",M,Komoli,Subsistence Farmer,01 Jan 1947
+679,160207467,"Tiki, John",M,Komoli,Welder,01 Jan 1968
+680,160207464,"Tiki, Nema",M,Komoli,Subsistence Farmer,01 Jan 1971
+681,160207297,"Tiki, Pokea",M,Komoli,Subsistence Farmer,01 Jan 1971
+682,160209892,"Tiki, Robert",M,Komoli,Student,01 Jan 1984
+683,160209715,"Tiki, Rockey",M,Komoli,Welder,01 Jan 1977
+684,160185562,"Tira, James",M,Komoli,Accountant,01 Jan 1963
+685,160184639,"Tira, James",M,Komoli,Self Employed,01 Jan 1983
+686,160446507,"Tira, Peter",M,Orei 2,Student,19 Oct 1999
+687,160185667,"Tira, Pupu",M,Komoli,Subsistence Farmer,01 Jan 1966
+688,160184807,"Tira, Simon",M,Komoli,Student,01 Jan 1988
+689,25084062,"Tira, Taites",M,Tawekombu,Subsistence Farmer,19 Feb 1997
+690,160185332,"Tira, Tom",M,Komoli,Subsistence Farmer,01 Jan 1974
+691,160124489,"Tiri, Keven",M,Tawekombu,Painter,19 Dec 1977
+692,160209926,"Tombo, Joel",M,Komoli,Subsistence Farmer,01 Jan 1988
+693,160209921,"Tombo, Luke",M,Komoli,Subsistence Farmer,01 Jan 1977
+694,160184502,"Tomoiye, Kelly",M,Komoli,Not Specified,01 Jan 1984
+695,160181144,"Tomoiye, Robert",M,Komoli,Student,01 Jan 1981
+696,160250637,"Tongi, Steven",M,Tawekombu,Magistrate,26 Apr 1961
+697,160183236,"Tope, Paul",M,Komoli,Subsistence Farmer,01 Jan 1986
+698,160184379,"Tope, Taka",M,Komoli,Subsistence Farmer,01 Jan 1981
+699,160188165,"Topitol, Kanopo",M,Komoli,Subsistence Farmer,01 Jan 1950
+700,160209912,"Toropo, Kondi",M,Komoli,Subsistence Farmer,01 Jan 1978
+701,160209908,"Toropo, Nopu",M,Komoli,Subsistence Farmer,01 Jan 1970
+702,160446537,"Tumbo, Erick",M,Orei 2,Subsistence Farmer,09 Jun 2000
+703,160446539,"Tumbo, Obert",M,Orei 2,Student,06 May 2002
+704,160184765,"Tumbo, Ono",M,Komoli,Self Employed,01 Jan 1985
+705,25084065,"Ulu, Markson",M,Tawekombu,Student,13 Jun 2000
+706,160207853,"Waka, Luke",M,Komoli,Self Employed,01 Jan 1969
+707,160209893,"Waka, Mendeli",M,Komoli,Salesman,01 Jan 1960
+708,160185305,"Wariye, Kambu",M,Komoli,Pastor,01 Jan 1966
+709,160185370,"Wariye, Kote",M,Komoli,Subsistence Farmer,01 Jan 1981
+710,160185446,"Wariye, Mangani",M,Komoli,Subsistence Farmer,01 Jan 1946
+711,160185306,"Wariye, Wereko",M,Komoli,Subsistence Farmer,01 Jan 1957
+712,160185312,"Wile, Pepena",M,Komoli,Subsistence Farmer,01 Jan 1975
+713,160185339,"Wile, Philimon",M,Komoli,Subsistence Farmer,01 Jan 1982
+714,160185244,"Wile, Wesly",M,Komoli,Subsistence Farmer,01 Jan 1986
+715,160210388,"Yakambu, Luke lamaiye",M,Orei 2,Subsistence Farmer,01 Jan 1949
+716,160210369,"Yakambu, Noma",M,Orei 2,Subsistence Farmer,01 Jan 1957
+717,160184495,"Yake, Tomoiye",M,Orei 2,Subsistence Farmer,01 Jan 1948
+718,160185408,"Yakela, Keven",M,Orei 2,Subsistence Farmer,01 Jan 1976
+719,160185409,"Yakela, Mini",M,Orei 2,Subsistence Farmer,01 Jan 1970
+720,160185336,"Yanje, Cain",M,Orei 2,Salesman,01 Jan 1982
+721,160446606,"Yanje, Donald",M,Orei 2,Student,01 Jun 2002
+722,25084000,"Yanje, Kema",M,Komoli,Student,29 Nov 2000
+723,160185246,"Yanje, Kenneth",M,Orei 2,Student,01 Jan 1988
+724,160185344,"Yanje, Pumbo",M,Orei 2,Salesman,01 Jan 1984
+725,160185566,"Yano, Ferman",M,Tawekombu,Teacher,01 Jan 1973
+726,160187349,"Yawaiye, Opa",M,Tawekombu,Subsistence Farmer,01 Jan 1949
+727,160190216,"Yawaiye, Pilimbo",M,Tawekombu,Subsistence Farmer,01 Jan 1946
+728,160209889,"Yombi, John",M,Tawekombu,Student,01 Jan 1984
+729,160209796,"Yombi, Kapa",M,Tawekombu,Carpenter,01 Jan 1979
+730,160209797,"Yombi, Peter",M,Tawekombu,Student,01 Jan 1981
+731,25083973,"Yunumi, Brent",M,Komere Pena,Student,11 Sep 2000
+732,160124450,"Yunumi, Charlie",M,Orei 2,Student,02 Aug 1993
+733,160207154,"Yunumi, George",M,Tawekombu,Subsistence Farmer,01 Jan 1978
+734,160446595,"Yunumi, Kelbon",M,Orei 2,Student,03 Nov 2002

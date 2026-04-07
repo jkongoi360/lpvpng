@@ -1,0 +1,914 @@
+{
+  "provinceId": "madang",
+  "electorates": [
+    {
+      "electorateSlug": "madang",
+      "llgs": [
+        {
+          "id": "madang-madang-urban",
+          "name": "Madang Urban LLG",
+          "electorateSlug": "madang",
+          "wards": [
+            {
+              "id": "madang-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2145
+            },
+            {
+              "id": "madang-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2190
+            },
+            {
+              "id": "madang-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4578
+            },
+            {
+              "id": "madang-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2953
+            },
+            {
+              "id": "madang-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3174
+            }
+          ]
+        },
+        {
+          "id": "madang-north-coast",
+          "name": "North Coast LLG",
+          "electorateSlug": "madang",
+          "wards": [
+            {
+              "id": "north-coast-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2534
+            },
+            {
+              "id": "north-coast-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2236
+            },
+            {
+              "id": "north-coast-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1670
+            },
+            {
+              "id": "north-coast-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1642
+            },
+            {
+              "id": "north-coast-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1472
+            },
+            {
+              "id": "north-coast-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2086
+            },
+            {
+              "id": "north-coast-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1380
+            }
+          ]
+        },
+        {
+          "id": "madang-ambenob",
+          "name": "Ambenob LLG",
+          "electorateSlug": "madang",
+          "wards": [
+            {
+              "id": "ambenob-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1953
+            },
+            {
+              "id": "ambenob-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1296
+            },
+            {
+              "id": "ambenob-w03",
+              "name": "Ward 3",
+              "registeredVoters": 886
+            },
+            {
+              "id": "ambenob-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1641
+            },
+            {
+              "id": "ambenob-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1435
+            },
+            {
+              "id": "ambenob-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1308
+            },
+            {
+              "id": "ambenob-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1227
+            },
+            {
+              "id": "ambenob-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1359
+            },
+            {
+              "id": "ambenob-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1017
+            },
+            {
+              "id": "ambenob-w10",
+              "name": "Ward 10",
+              "registeredVoters": 2277
+            }
+          ]
+        },
+        {
+          "id": "madang-transgogol",
+          "name": "Transgogol LLG",
+          "electorateSlug": "madang",
+          "wards": [
+            {
+              "id": "transgogol-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2071
+            },
+            {
+              "id": "transgogol-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3738
+            },
+            {
+              "id": "transgogol-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4375
+            },
+            {
+              "id": "transgogol-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3680
+            },
+            {
+              "id": "transgogol-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2871
+            }
+          ]
+        },
+        {
+          "id": "madang-sumgilbar",
+          "name": "Sumgilbar LLG",
+          "electorateSlug": "madang",
+          "wards": [
+            {
+              "id": "sumgilbar-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1747
+            },
+            {
+              "id": "sumgilbar-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2112
+            },
+            {
+              "id": "sumgilbar-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1520
+            },
+            {
+              "id": "sumgilbar-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1647
+            },
+            {
+              "id": "sumgilbar-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1618
+            },
+            {
+              "id": "sumgilbar-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1977
+            },
+            {
+              "id": "sumgilbar-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1677
+            },
+            {
+              "id": "sumgilbar-w08",
+              "name": "Ward 8",
+              "registeredVoters": 991
+            },
+            {
+              "id": "sumgilbar-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1571
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "bogia",
+      "llgs": [
+        {
+          "id": "bogia-bogia",
+          "name": "Bogia LLG",
+          "electorateSlug": "bogia",
+          "wards": [
+            {
+              "id": "bogia-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1577
+            },
+            {
+              "id": "bogia-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2417
+            },
+            {
+              "id": "bogia-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2557
+            },
+            {
+              "id": "bogia-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1929
+            },
+            {
+              "id": "bogia-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2226
+            },
+            {
+              "id": "bogia-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2464
+            },
+            {
+              "id": "bogia-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2559
+            },
+            {
+              "id": "bogia-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1617
+            }
+          ]
+        },
+        {
+          "id": "bogia-manam",
+          "name": "Manam LLG",
+          "electorateSlug": "bogia",
+          "wards": [
+            {
+              "id": "manam-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4687
+            },
+            {
+              "id": "manam-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2901
+            },
+            {
+              "id": "manam-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2820
+            },
+            {
+              "id": "manam-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3577
+            }
+          ]
+        },
+        {
+          "id": "bogia-tangu-andarum",
+          "name": "Tangu-Andarum LLG",
+          "electorateSlug": "bogia",
+          "wards": [
+            {
+              "id": "tangu-andarum-w01",
+              "name": "Ward 1",
+              "registeredVoters": 6722
+            },
+            {
+              "id": "tangu-andarum-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4806
+            },
+            {
+              "id": "tangu-andarum-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "middle-ramu",
+      "llgs": [
+        {
+          "id": "middle-ramu-middle-ramu",
+          "name": "Middle Ramu LLG",
+          "electorateSlug": "middle-ramu",
+          "wards": [
+            {
+              "id": "middle-ramu-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1406
+            },
+            {
+              "id": "middle-ramu-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1112
+            },
+            {
+              "id": "middle-ramu-w03",
+              "name": "Ward 3",
+              "registeredVoters": 886
+            },
+            {
+              "id": "middle-ramu-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1380
+            },
+            {
+              "id": "middle-ramu-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1313
+            },
+            {
+              "id": "middle-ramu-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1168
+            },
+            {
+              "id": "middle-ramu-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1521
+            },
+            {
+              "id": "middle-ramu-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1185
+            },
+            {
+              "id": "middle-ramu-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1124
+            },
+            {
+              "id": "middle-ramu-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1703
+            }
+          ]
+        },
+        {
+          "id": "middle-ramu-aiome",
+          "name": "Aiome LLG",
+          "electorateSlug": "middle-ramu",
+          "wards": [
+            {
+              "id": "aiome-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1704
+            },
+            {
+              "id": "aiome-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2399
+            },
+            {
+              "id": "aiome-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1441
+            },
+            {
+              "id": "aiome-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1447
+            },
+            {
+              "id": "aiome-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3517
+            },
+            {
+              "id": "aiome-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2353
+            },
+            {
+              "id": "aiome-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1796
+            }
+          ]
+        },
+        {
+          "id": "middle-ramu-simbai",
+          "name": "Simbai LLG",
+          "electorateSlug": "middle-ramu",
+          "wards": [
+            {
+              "id": "simbai-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1793
+            },
+            {
+              "id": "simbai-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1576
+            },
+            {
+              "id": "simbai-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1375
+            },
+            {
+              "id": "simbai-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1810
+            },
+            {
+              "id": "simbai-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1795
+            },
+            {
+              "id": "simbai-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1735
+            },
+            {
+              "id": "simbai-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1326
+            },
+            {
+              "id": "simbai-w08",
+              "name": "Ward 8",
+              "registeredVoters": 861
+            }
+          ]
+        },
+        {
+          "id": "middle-ramu-josephstaal",
+          "name": "Josephstaal LLG",
+          "electorateSlug": "middle-ramu",
+          "wards": [
+            {
+              "id": "josephstaal-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1638
+            },
+            {
+              "id": "josephstaal-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1105
+            },
+            {
+              "id": "josephstaal-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2183
+            },
+            {
+              "id": "josephstaal-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1372
+            },
+            {
+              "id": "josephstaal-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1286
+            },
+            {
+              "id": "josephstaal-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2063
+            },
+            {
+              "id": "josephstaal-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2222
+            },
+            {
+              "id": "josephstaal-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1156
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "rai-coast",
+      "llgs": [
+        {
+          "id": "rai-coast-rai-coast",
+          "name": "Rai Coast LLG",
+          "electorateSlug": "rai-coast",
+          "wards": [
+            {
+              "id": "rai-coast-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1919
+            },
+            {
+              "id": "rai-coast-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1499
+            },
+            {
+              "id": "rai-coast-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2653
+            },
+            {
+              "id": "rai-coast-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1916
+            },
+            {
+              "id": "rai-coast-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3551
+            },
+            {
+              "id": "rai-coast-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1636
+            }
+          ]
+        },
+        {
+          "id": "rai-coast-nahu-rawa",
+          "name": "Nahu Rawa LLG",
+          "electorateSlug": "rai-coast",
+          "wards": [
+            {
+              "id": "nahu-rawa-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4438
+            },
+            {
+              "id": "nahu-rawa-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2918
+            },
+            {
+              "id": "nahu-rawa-w03",
+              "name": "Ward 3",
+              "registeredVoters": 5637
+            }
+          ]
+        },
+        {
+          "id": "rai-coast-astrolabe-bay",
+          "name": "Astrolabe Bay LLG",
+          "electorateSlug": "rai-coast",
+          "wards": [
+            {
+              "id": "astrolabe-bay-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3605
+            },
+            {
+              "id": "astrolabe-bay-w02",
+              "name": "Ward 2",
+              "registeredVoters": 6179
+            },
+            {
+              "id": "astrolabe-bay-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2885
+            }
+          ]
+        },
+        {
+          "id": "rai-coast-saidor",
+          "name": "Saidor LLG",
+          "electorateSlug": "rai-coast",
+          "wards": [
+            {
+              "id": "saidor-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1798
+            },
+            {
+              "id": "saidor-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1238
+            },
+            {
+              "id": "saidor-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1262
+            },
+            {
+              "id": "saidor-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1469
+            },
+            {
+              "id": "saidor-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1594
+            },
+            {
+              "id": "saidor-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1378
+            },
+            {
+              "id": "saidor-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1616
+            },
+            {
+              "id": "saidor-w08",
+              "name": "Ward 8",
+              "registeredVoters": 2119
+            },
+            {
+              "id": "saidor-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1476
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "sumkar",
+      "llgs": [
+        {
+          "id": "sumkar-sumkar",
+          "name": "Sumkar LLG",
+          "electorateSlug": "sumkar",
+          "wards": [
+            {
+              "id": "sumkar-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1501
+            },
+            {
+              "id": "sumkar-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1952
+            },
+            {
+              "id": "sumkar-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1903
+            },
+            {
+              "id": "sumkar-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2237
+            },
+            {
+              "id": "sumkar-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2041
+            },
+            {
+              "id": "sumkar-w06",
+              "name": "Ward 6",
+              "registeredVoters": 4236
+            },
+            {
+              "id": "sumkar-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2467
+            }
+          ]
+        },
+        {
+          "id": "sumkar-karkar-island",
+          "name": "Karkar Island LLG",
+          "electorateSlug": "sumkar",
+          "wards": [
+            {
+              "id": "karkar-island-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1615
+            },
+            {
+              "id": "karkar-island-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1160
+            },
+            {
+              "id": "karkar-island-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2214
+            },
+            {
+              "id": "karkar-island-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1153
+            },
+            {
+              "id": "karkar-island-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1201
+            },
+            {
+              "id": "karkar-island-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1676
+            },
+            {
+              "id": "karkar-island-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2361
+            },
+            {
+              "id": "karkar-island-w08",
+              "name": "Ward 8",
+              "registeredVoters": 2269
+            },
+            {
+              "id": "karkar-island-w09",
+              "name": "Ward 9",
+              "registeredVoters": 2711
+            },
+            {
+              "id": "karkar-island-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1210
+            }
+          ]
+        },
+        {
+          "id": "sumkar-bagasin",
+          "name": "Bagasin LLG",
+          "electorateSlug": "sumkar",
+          "wards": [
+            {
+              "id": "bagasin-w01",
+              "name": "Ward 1",
+              "registeredVoters": 6900
+            },
+            {
+              "id": "bagasin-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3078
+            },
+            {
+              "id": "bagasin-w03",
+              "name": "Ward 3",
+              "registeredVoters": 5422
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "usino-bundi",
+      "llgs": [
+        {
+          "id": "usino-bundi-usino",
+          "name": "Usino LLG",
+          "electorateSlug": "usino-bundi",
+          "wards": [
+            {
+              "id": "usino-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4149
+            },
+            {
+              "id": "usino-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4702
+            },
+            {
+              "id": "usino-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2583
+            },
+            {
+              "id": "usino-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3076
+            }
+          ]
+        },
+        {
+          "id": "usino-bundi-bundi",
+          "name": "Bundi LLG",
+          "electorateSlug": "usino-bundi",
+          "wards": [
+            {
+              "id": "bundi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2855
+            },
+            {
+              "id": "bundi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2540
+            },
+            {
+              "id": "bundi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2115
+            },
+            {
+              "id": "bundi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1747
+            },
+            {
+              "id": "bundi-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1983
+            },
+            {
+              "id": "bundi-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2735
+            }
+          ]
+        },
+        {
+          "id": "usino-bundi-brahman",
+          "name": "Brahman LLG",
+          "electorateSlug": "usino-bundi",
+          "wards": [
+            {
+              "id": "brahman-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1830
+            },
+            {
+              "id": "brahman-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1825
+            },
+            {
+              "id": "brahman-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1331
+            },
+            {
+              "id": "brahman-w04",
+              "name": "Ward 4",
+              "registeredVoters": 835
+            },
+            {
+              "id": "brahman-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1786
+            },
+            {
+              "id": "brahman-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1856
+            },
+            {
+              "id": "brahman-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1532
+            },
+            {
+              "id": "brahman-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1308
+            },
+            {
+              "id": "brahman-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1506
+            },
+            {
+              "id": "brahman-w10",
+              "name": "Ward 10",
+              "registeredVoters": 759
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

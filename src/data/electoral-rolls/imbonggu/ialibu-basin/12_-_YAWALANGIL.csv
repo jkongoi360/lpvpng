@@ -1,0 +1,513 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160146800,"Aiele, Kuri",F,YAWALANGIL,Subsistence Farmer,01 Jan 2000
+2,160153764,"Aiye, Freda",F,YAWALANGIL,Subsistence Farmer,19 Apr 1982
+3,160146506,"Anjo, Akcri",F,YAWALANGIL,Subsistence Farmer,01 Jan 1978
+4,160142226,"Anjo, Buka",F,YAWALANGIL,Subsistence Farmer,01 Jan 1980
+5,160440894,"Anjo, Desla",F,YAWALANGIL,Household Duties,27 Jan 1999
+6,160142046,"Anjo, Lina",F,YAWALANGIL,Subsistence Farmer,01 Jan 1987
+7,160146878,"Apurle, Mainege",F,YAWALANGIL,Subsistence Farmer,02 Dec 1969
+8,160153053,"Apurle, Mopune",F,YAWALANGIL,Subsistence Farmer,26 Mar 1979
+9,160146909,"Ayia, Naomi",F,KELEMABO,Subsistence Farmer,01 Jan 1974
+10,160440947,"Ben, Helen",F,YAWALANGIL,Household Duties,06 Nov 1986
+11,160441065,"Benjamin, Josphin",F,YAWALANGIL,Household Duties,03 Nov 1996
+12,160441080,"Benjamin, Lean",F,YAWALANGIL,Student,16 Mar 2004
+13,160441063,"Benjamin, Lineth",F,YAWALANGIL,Household Duties,23 May 1996
+14,160440932,"Bennard, Naomi",F,YAWALANGIL,Household Duties,03 Sep 1999
+15,160146656,"Buru, Ale",F,YAWALANGIL,Subsistence Farmer,01 Jan 1957
+16,160146559,"Daiye, Ageambo",F,YAWALANGIL,Subsistence Farmer,01 Jan 1977
+17,160146196,"Daiye, Chimbiambo",F,YAWALANGIL,Subsistence Farmer,01 Jan 1975
+18,160155762,"Daiye, Rita",F,YAWALANGIL,Subsistence Farmer,05 Oct 1986
+19,160440918,"Damel, Joyclyn",F,YAWALANGIL,Household Duties,28 Feb 1997
+20,25084375,"David, Nora",F,KELEMABO,Student,14 Jun 1982
+21,160142017,"George, Mary",F,YAWALANGIL,Household Duties,01 Jan 1976
+22,160441106,"Gibson, Everlyn",F,YAWALANGIL,Household Duties,01 May 1993
+23,160146316,"Glorai, Male",F,KELEMABO,Subsistence Farmer,01 Jan 1957
+24,160153541,"Goraiye, Betty",F,YAWALANGIL,Student,05 Jun 1989
+25,160148574,"Goraiye, Malle",F,YAWALANGIL,Subsistence Farmer,02 May 1965
+26,160155730,"Haiele, Rake",F,YAWALANGIL,Subsistence Farmer,11 Dec 1976
+27,160441084,"Iso, Heni",F,YAWALANGIL,Student,11 Feb 2004
+28,160441074,"Jackson, Sonea",F,YAWALANGIL,Farm worker,17 Sep 1995
+29,160146639,"James, Tomo",F,YAWALANGIL,Subsistence Farmer,01 Jan 1982
+30,160441108,"Jeckson, Soniya",F,YAWALANGIL,Household Duties,17 Mar 1998
+31,25084412,"Jefery, Cintia",F,YAWALANGIL,Teacher,03 Sep 1994
+32,160153081,"Joe, Delman",F,YAWALANGIL,Student,12 Feb 1989
+33,160121796,"Joe, Jemimah",F,KELEMABO,Sales Women,01 Jan 1997
+34,160153552,"Joe, Margert",F,YAWALANGIL,Teacher,02 Nov 1975
+35,160153079,"Joe, Mirriam",F,YAWALANGIL,Subsistence Farmer,11 Dec 1973
+36,160441059,"Joe, Shemila",F,YAWALANGIL,Student,13 Dec 2003
+37,160121788,"Joe, Stepheni",F,KELEMABO,Not Specified,05 Jul 1995
+38,160148717,"Joe, Thrassa",F,YAWALANGIL,Household Duties,01 Dec 1971
+39,160121787,"Joe, Tracy",F,KELEMABO,Sales Women,05 Jul 1995
+40,160155735,"John, Betty",F,YAWALANGIL,Subsistence Farmer,05 Nov 1973
+41,160153769,"John, Chimbu ambo",F,YAWALANGIL,Subsistence Farmer,06 Oct 1974
+42,160440920,"John, Hellen",F,YAWALANGIL,Household Duties,26 Jan 1980
+43,160143788,"John, Joan",F,YAWALANGIL,Student,01 Jan 1989
+44,160148171,"John, Rosa",F,YAWALANGIL,Household Duties,01 Jan 1976
+45,160155764,"Kake, Mary",F,YAWALANGIL,Subsistence Farmer,09 Oct 1971
+46,160146797,"Kamamu, Kepu",F,YAWALANGIL,Subsistence Farmer,01 Jan 1967
+47,160146924,"Kapale, Lin",F,YAWALANGIL,Subsistence Farmer,01 Jan 1945
+48,160146198,"Kapale, Makepo",F,YAWALANGIL,Student,01 Jan 1986
+49,160153758,"Kapale, Mine",F,YAWALANGIL,Subsistence Farmer,12 Dec 1965
+50,160148549,"Kareme, Kewale",F,YAWALANGIL,Subsistence Farmer,07 Nov 1954
+51,160153772,"Kareme, Nancy",F,YAWALANGIL,Subsistence Farmer,01 Jan 1985
+52,160146384,"Kareme, Rube",F,YAWALANGIL,Subsistence Farmer,01 Jan 1983
+53,160146919,"Kareme, Tolai",F,YAWALANGIL,Student,01 Jan 1989
+54,160148551,"Kareme, Toya",F,YAWALANGIL,Student,01 Feb 1989
+55,160148571,"Karoma, Ramaino",F,YAWALANGIL,Subsistence Farmer,21 May 1968
+56,160146564,"Karoma, Uno",F,KELEMABO,Subsistence Farmer,01 Jan 1967
+57,25084418,"Ken, Joanna",F,YAWALANGIL,Unemployed,19 Jul 1997
+58,160153532,"Kenneth, Betha",F,YAWALANGIL,Subsistence Farmer,10 Nov 1978
+59,160441031,"Kepas, Josphin",F,YAWALANGIL,Teacher,09 Nov 1997
+60,160121784,"Kepo, Dorcas",F,KELEMABO,Sales Women,01 Jan 1993
+61,160146222,"Kepo, Josephine",F,YAWALANGIL,Student,01 Jan 2000
+62,160155749,"Kepo, Josepine",F,YAWALANGIL,Student,17 Aug 1988
+63,160148714,"Kepo, Thressa",F,YAWALANGIL,Household Duties,24 Jun 1973
+64,160148569,"Kerepa, Cathy",F,YAWALANGIL,Subsistence Farmer,10 Nov 1974
+65,160153531,"Kerepa, Helen",F,YAWALANGIL,Subsistence Farmer,09 Aug 1979
+66,160155750,"Kevin, Helen",F,YAWALANGIL,Student,10 Dec 1987
+67,160153522,"Kevin, Joccey",F,YAWALANGIL,Household Duties,13 Dec 1975
+68,160146224,"Kevin, Upi",F,YAWALANGIL,Student,01 Jan 1987
+69,160142352,"Kingi, Pereame",F,YAWALANGIL,Household Duties,01 Jan 1956
+70,160146813,"Kipulu, Engambo",F,YAWALANGIL,Subsistence Farmer,01 Jan 1958
+71,160148552,"Koke, Linnah",F,YAWALANGIL,Subsistence Farmer,01 Jan 1976
+72,160121902,"Koke, Malphi",F,YAWALANGIL,Sales Women,01 Jan 1997
+73,160155738,"Koke, Roselyn",F,YAWALANGIL,Student,12 May 1987
+74,160153771,"Koke, Yaile",F,YAWALANGIL,Subsistence Farmer,05 Aug 1972
+75,160441135,"Kolopine, Sambeth",F,YAWALANGIL,Household Duties,03 Jul 1998
+76,160146651,"Kongo-oie, Wendo",F,YAWALANGIL,Subsistence Farmer,01 Jan 1956
+77,160148577,"Kongoi, Roni",F,YAWALANGIL,Subsistence Farmer,16 Mar 1967
+78,160146744,"Korol, Anna",F,YAWALANGIL,Student,01 Jan 1989
+79,160146747,"Korol, Susan",F,YAWALANGIL,Subsistence Farmer,01 Jan 1974
+80,160148715,"Koroli, Pore",F,YAWALANGIL,Subsistence Farmer,14 Dec 1962
+81,160148716,"Koroli, Susan",F,YAWALANGIL,Subsistence Farmer,14 Oct 1979
+82,160148570,"Koya, Buneambo",F,YAWALANGIL,Subsistence Farmer,20 Feb 1976
+83,160146918,"Koya, Kuli",F,KELEMABO,Subsistence Farmer,01 Jan 1961
+84,160153537,"Koya, Kuli",F,YAWALANGIL,Subsistence Farmer,07 Jan 1970
+85,160136388,"Koya, Malina",F,KELEMABO,Sales Women,01 Jan 1993
+86,160153543,"Koya, Merolyn",F,YAWALANGIL,Student,24 Dec 1990
+87,160153536,"Koya, Miriyame",F,YAWALANGIL,Subsistence Farmer,17 Aug 1967
+88,160146315,"Kupini, Ambr",F,YAWALANGIL,Subsistence Farmer,01 Jan 1945
+89,160146727,"Kupini, Esta",F,KELEMABO,Subsistence Farmer,01 Jan 1983
+90,160146905,"Kupini, Heli",F,KELEMABO,Student,01 Jan 1985
+91,160146524,"Kupini, Jacinja",F,YAWALANGIL,Student,01 Jan 1989
+92,160153055,"Kupini, Kalatoli",F,YAWALANGIL,Subsistence Farmer,12 Oct 1971
+93,160146764,"Kupini, Kendame",F,YAWALANGIL,Subsistence Farmer,01 Jan 1985
+94,160146725,"Kupini, Lin",F,KELEMABO,Subsistence Farmer,01 Jan 1984
+95,160142460,"Kupini, Peni",F,YAWALANGIL,Worker,01 Jan 1967
+96,160148497,"Kupini, Rino",F,KELEMABO,Subsistence Farmer,01 Jan 1957
+97,160146722,"Kupini, Wileli",F,KELEMABO,Subsistence Farmer,01 Jan 1957
+98,25084382,"Las, Margret",F,KELEMABO,Subsistence Farmer,16 Nov 1972
+99,25084384,"Las, Mary",F,KELEMABO,Subsistence Farmer,22 Sep 1972
+100,160148709,"Lombaiye, Rundu",F,YAWALANGIL,Subsistence Farmer,01 Jan 1955
+101,160146788,"Lopake, Mano",F,YAWALANGIL,Subsistence Farmer,01 Jan 1982
+102,160155733,"Lowaiye, Irrimandi",F,YAWALANGIL,Subsistence Farmer,12 Jun 1942
+103,160148544,"Lowaiye, Maria",F,YAWALANGIL,Subsistence Farmer,05 Nov 1982
+104,160122053,"Lucas, Dorothy",F,KOMULU,Household Duties,01 Jan 1991
+105,160441142,"Lukeson, Maria",F,KOMULU,Subsistence Farmer,04 Sep 2001
+106,160146552,"Mambo, Paulina",F,YAWALANGIL,Household Duties,01 Jan 1987
+107,160441076,"Mark, Moli",F,YAWALANGIL,Student,07 Jun 1999
+108,160122058,"Mark, Rocie",F,KELEMABO,Household Duties,25 Sep 1990
+109,160440945,"Mark, Rosi",F,YAWALANGIL,Household Duties,17 Nov 1989
+110,160441012,"Martin, Evelyn",F,YAWALANGIL,Household Duties,17 Sep 1999
+111,160441071,"Mathew, Faith",F,YAWALANGIL,Student,03 Mar 2004
+112,160148507,"Mathew, Kellen",F,KELEMABO,Typist,01 Jan 1971
+113,160153203,"Matoli, Lilly",F,YAWALANGIL,Subsistence Farmer,13 Dec 1979
+114,160155731,"Meck, Janny",F,YAWALANGIL,Household Duties,01 Oct 1976
+115,160441042,"Michael, Kepalyn",F,YAWALANGIL,Student,13 Dec 2003
+116,160441046,"Michael, Mayalyn",F,YAWALANGIL,Student,01 Mar 2004
+117,160143772,"Michael, Mecklyn",F,YAWALANGIL,Student,01 Jan 1987
+118,160155741,"Michael, Norin",F,YAWALANGIL,Subsistence Farmer,08 Nov 1982
+119,160143771,"Michael, Sarah",F,YAWALANGIL,Household Duties,01 Jan 1968
+120,25084434,"Mike, Rhonda",F,YAWALANGIL,Unemployed,24 Dec 1981
+121,160153777,"Mone, Bepi",F,YAWALANGIL,Subsistence Farmer,01 Jan 1961
+122,160121799,"Mone, Jacklyn",F,KELEMABO,National Medical,26 Jun 1991
+123,160153778,"Mone, June",F,YAWALANGIL,Subsistence Farmer,01 Jan 1982
+124,160148706,"Mone, Lewa",F,YAWALANGIL,Student,17 Jul 1981
+125,160121979,"Mone, Lineth",F,KOPILINE,Student,01 Jan 1993
+126,160148708,"Mone, Sotty",F,YAWALANGIL,Student,15 Jun 1989
+127,160153600,"Mukindi, Jenny",F,YAWALANGIL,Subsistence Farmer,11 Nov 1986
+128,25084438,"Nala, Maria",F,YAWALANGIL,Subsistence Farmer,17 Sep 1980
+129,160122052,"Namba, Annica",F,KOPILINE,Student,01 Jan 1997
+130,160146922,"Namba, Monila",F,YAWALANGIL,Student,01 Jan 1990
+131,160146732,"Namba, Paweno",F,KELEMABO,Subsistence Farmer,01 Jan 1961
+132,160153523,"Nande, Yuwini",F,YAWALANGIL,Subsistence Farmer,14 Feb 1947
+133,160155734,"Nandie, Andoli",F,YAWALANGIL,Subsistence Farmer,09 Oct 1961
+134,160148545,"Nandie, Anna",F,YAWALANGIL,Student,05 Nov 1982
+135,160148546,"Nandie, Julie",F,YAWALANGIL,Student,06 Nov 1985
+136,25084444,"Neckcy, Joyce",F,YAWALANGIL,Subsistence Farmer,11 Jul 1984
+137,25084446,"Neckcy, Julie",F,YAWALANGIL,Unemployed,12 Jan 1997
+138,160142224,"Nema, Mareme",F,KELEMABO,Subsistence Farmer,01 Jan 1953
+139,160153076,"Nema, Ruth",F,YAWALANGIL,Household Duties,01 Jan 1986
+140,160153749,"Noipo, Marry",F,YAWALANGIL,Subsistence Farmer,12 Oct 1974
+141,160441033,"Noipo, Sera",F,YAWALANGIL,Student,10 Apr 2003
+142,160155737,"Noman, Veila",F,YAWALANGIL,Household Duties,14 May 1989
+143,160121973,"Nopul, Edvina",F,KOPILINE,Not Specified,07 Mar 1998
+144,160121972,"Nopul, Lench",F,KOPILINE,Student,01 Jan 1994
+145,160148504,"Nopul, Lineth",F,KELEMABO,Student,01 Jan 1985
+146,160146914,"Nopul, Oni",F,KELEMABO,Subsistence Farmer,01 Jan 1941
+147,160121795,"Nopul, Stella",F,KELEMABO,Sales Women,01 Jan 1997
+148,160441129,"Norman, Ehma",F,YAWALANGIL,Household Duties,17 Sep 2000
+149,160441127,"Norman, Nancy",F,YAWALANGIL,Subsistence Farmer,03 Mar 1999
+150,25084459,"Normqn, Roina",F,YAWALANGIL,Household Duties,12 Jan 1989
+151,160146807,"Notoi, Hagen ambo",F,KELEMABO,Subsistence Farmer,01 Jan 1974
+152,160146648,"Paul, Buka",F,YAWALANGIL,Subsistence Farmer,01 Jan 1959
+153,160441144,"Paul, Mercy",F,YAWALANGIL,Student,05 Sep 2003
+154,160441146,"Paul, Norin",F,YAWALANGIL,Subsistence Farmer,15 Mar 1994
+155,160146730,"Paul, Rosey",F,KELEMABO,Subsistence Farmer,01 Jan 1980
+156,160148713,"Pele, Cathy",F,YAWALANGIL,Household Duties,23 Oct 1979
+157,160121978,"Pembo, Lian",F,KOPILINE,Student,01 Jan 1998
+158,160153083,"Pembo, Lynnet",F,YAWALANGIL,Household Duties,12 Feb 1952
+159,160146907,"Pepul, Anita",F,KELEMABO,Sister,01 Jan 1977
+160,160151705,"Pera, Ruru",F,YAWALANGIL,Household Duties,01 Jan 1964
+161,160441102,"Philimon, Grace",F,YAWALANGIL,Nurse,12 Nov 1995
+162,160148563,"Philip, Maria",F,YAWALANGIL,Teacher,15 Sep 1969
+163,160136384,"Philip, Nichol",F,KELEMABO,Sales Women,01 Jan 1995
+164,160153774,"Pinje, Macklyn",F,YAWALANGIL,Student,12 May 1985
+165,160153773,"Pinje, Monica",F,YAWALANGIL,Subsistence Farmer,01 Jan 1978
+166,160146565,"Poki, Anna",F,YAWALANGIL,Subsistence Farmer,01 Jan 1969
+167,160148542,"Poki, Apelge",F,YAWALANGIL,Household Duties,25 Nov 1969
+168,160146739,"Poki, Maya",F,YAWALANGIL,Subsistence Farmer,01 Jan 1969
+169,160148558,"Pora, Jenny",F,YAWALANGIL,Subsistence Farmer,01 Jan 1974
+170,160441117,"Pote, Evelyn",F,YAWALANGIL,Student,11 Jan 2002
+171,160153602,"Pote, Kristina",F,YAWALANGIL,Subsistence Farmer,12 Jun 1960
+172,160121791,"Pote, Recheal",F,KELEMABO,Sales Women,01 Jan 1995
+173,160441119,"Pote, Sobina",F,YAWALANGIL,Student,06 Nov 2002
+174,160148533,"Pote, Wanu",F,YAWALANGIL,Not Specified,10 Nov 1965
+175,160155729,"Ray, Regina",F,YAWALANGIL,Typist,11 Sep 1965
+176,160441096,"Rex, Florance",F,YAWALANGIL,Student,07 Nov 2002
+177,160441094,"Rex, Joice",F,YAWALANGIL,Student,07 Apr 2004
+178,160148498,"Rex, Judy",F,KELEMABO,Subsistence Farmer,01 Jan 1974
+179,160146728,"Rex, Kuku",F,KELEMABO,Subsistence Farmer,01 Jan 1975
+180,160441098,"Rex, Polina",F,YAWALANGIL,Subsistence Farmer,08 Dec 1998
+181,160441090,"Rex, Rigi",F,YAWALANGIL,Student,03 Jun 2000
+182,160146908,"Ricky, Lin",F,KELEMABO,Subsistence Farmer,01 Jan 1982
+183,160146201,"Roape, July",F,YAWALANGIL,Subsistence Farmer,01 Jan 2000
+184,160155760,"Roape, Ponili",F,YAWALANGIL,Subsistence Farmer,01 Jan 1955
+185,160136390,"Robert, Elly",F,KELEMABO,Painter,01 Jan 1993
+186,160142120,"Robert, Rose",F,YAWALANGIL,Household Duties,01 Jan 1982
+187,160441131,"Ruben, Beli",F,YAWALANGIL,Household Duties,16 Mar 1999
+188,25084462,"Saki, Saginah",F,YAWALANGIL,Student,19 Apr 1990
+189,160153525,"Samson, Arike",F,YAWALANGIL,Household Duties,26 Jan 1972
+190,25084388,"Simon, Helen",F,KELEMABO,Unemployed,09 Oct 1999
+191,160148555,"Simon, Helen",F,YAWALANGIL,Household Duties,17 Apr 1986
+192,160136389,"Simon, Josephin",F,KELEMABO,Teacher,01 Jan 1989
+193,25084390,"Simon, Lyn",F,KELEMABO,Unemployed,18 Aug 1992
+194,160441056,"Simon, Velyn",F,YAWALANGIL,Student,06 Feb 2001
+195,160441054,"Simon, Vema",F,YAWALANGIL,Student,12 Sep 2003
+196,25084465,"Solomon, Lina",F,YAWALANGIL,Subsistence Farmer,11 Feb 1990
+197,160148535,"Taina, Fatty",F,YAWALANGIL,Student,16 Nov 1986
+198,160441022,"Taiye, Nala",F,YAWALANGIL,Household Duties,17 Nov 1997
+199,160146803,"Tange, Ambo",F,KELEMABO,Teacher,01 Jan 1977
+200,25084469,"Tapu, Inomuru",F,YAWALANGIL,Household Duties,19 Aug 1963
+201,160146737,"Tatius, Ania",F,KELEMABO,Subsistence Farmer,01 Jan 1963
+202,160146736,"Tatius, Anita",F,KELEMABO,Subsistence Farmer,01 Jan 1957
+203,160153768,"Tendeku, Maria",F,YAWALANGIL,Subsistence Farmer,11 Oct 1971
+204,160153598,"Tennis, Hennet",F,YAWALANGIL,Household Duties,01 Jan 1979
+205,160146560,"Term, Rebecca",F,YAWALANGIL,Student,01 Jan 1988
+206,160155747,"Teru, Judy",F,YAWALANGIL,Subsistence Farmer,12 Nov 1979
+207,160155746,"Teru, Liye",F,YAWALANGIL,Subsistence Farmer,01 Jan 1960
+208,160153783,"Teru, Rebecca",F,YAWALANGIL,Student,09 Nov 1988
+209,160148564,"Thomas, Jullie",F,YAWALANGIL,Household Duties,14 Oct 1975
+210,160148581,"Thompsy, Elly",F,YAWALANGIL,Household Duties,16 Sep 1977
+211,160153068,"Thompsy, Estha",F,YAWALANGIL,Teacher,16 Oct 1976
+212,160441113,"Tina, Carol",F,YAWALANGIL,Student,07 Mar 2000
+213,160441115,"Tina, Everlyn",F,YAWALANGIL,Student,28 Feb 2001
+214,160441111,"Tina, Kristina",F,YAWALANGIL,Household Duties,26 Mar 1978
+215,160146221,"Titoo, Pele",F,YAWALANGIL,Driver,01 Jan 1957
+216,160441017,"Titus, Asita",F,YAWALANGIL,Student,03 Nov 2001
+217,160155742,"Toimbo, Anna",F,YAWALANGIL,Subsistence Farmer,11 Mar 1980
+218,25084470,"Tom, Benjila",F,YAWALANGIL,Unemployed,26 Jul 1993
+219,160146202,"Tongela, Henita",F,YAWALANGIL,Student,01 Jan 1979
+220,160146877,"Tongela, Hennita",F,YAWALANGIL,Student,25 Feb 1988
+221,160146875,"Tongela, Joy",F,YAWALANGIL,Student,24 Feb 1988
+222,160146563,"Tongela, Kusa",F,KELEMABO,Subsistence Farmer,01 Jan 1943
+223,160148565,"Tony, Josephine",F,YAWALANGIL,Household Duties,01 Jan 1973
+224,160153761,"Waki, Anna",F,YAWALANGIL,Student,30 Jan 1987
+225,160155732,"Waki, Linna",F,YAWALANGIL,Subsistence Farmer,10 Oct 1980
+226,160148540,"Waki, Misas",F,YAWALANGIL,Subsistence Farmer,10 Dec 1957
+227,160148541,"Waki, Noiro",F,YAWALANGIL,Subsistence Farmer,04 Dec 1976
+228,160121975,"Waki, Pollina",F,KOPILINE,Student,01 Jan 1997
+229,160121846,"Wanpis, Lineth",F,KOPILINE,Household Duties,01 Jan 1993
+230,160441026,"Wapea, Julie",F,YAWALANGIL,Nurse,17 Apr 1998
+231,160146378,"Wapugu, Peni",F,KELEMABO,Subsistence Farmer,01 Jan 1984
+232,160441038,"Wapungu, Cecelia",F,YAWALANGIL,Student,01 Oct 1999
+233,160138467,"Wapungu, Everlyn",F,KOPILINE,Not Specified,01 Jan 1996
+234,160155758,"Wapungu, Kino",F,YAWALANGIL,Subsistence Farmer,01 Jan 1965
+235,160153527,"Wapungu, Rosa",F,YAWALANGIL,Student,14 Mar 1990
+236,160441036,"Wapungu, Sera",F,YAWALANGIL,Student,29 Mar 2004
+237,160146785,"Wendo, Evenlly",F,YAWALANGIL,Student,01 Jan 1984
+238,160146653,"Wendo, Kewale",F,YAWALANGIL,Subsistence Farmer,01 Jan 1957
+239,160441138,"Willie, Lucy",F,YAWALANGIL,Subsistence Farmer,15 May 2001
+240,160142222,"Yako, Ambo",F,KOPILINE,Subsistence Farmer,01 Jan 1970
+241,160138468,"Yako, Kaka",F,KOPILINE,Household Duties,01 Jan 1978
+242,160148711,"Yala, Elise",F,YAWALANGIL,Subsistence Farmer,01 Jan 1975
+243,160138346,"Yala, Jayan",F,KELEMABO,Student,01 Jan 1996
+244,160440879,"Yala, Joiceca",F,YAWALANGIL,Student,22 Oct 1999
+245,160153784,"Yala, Josica",F,YAWALANGIL,Student,15 Apr 1990
+246,160146799,"Yamba, Grace",F,YAWALANGIL,Student,01 Jan 1973
+247,160146660,"Yamba, Temane",F,YAWALANGIL,Subsistence Farmer,01 Jan 1947
+248,160153780,"Yawi, Josephine",F,YAWALANGIL,Subsistence Farmer,01 Jan 1973
+249,160146798,"Yunu, Priscilla",F,YAWALANGIL,Subsistence Farmer,01 Jan 1974
+250,160136382,"Aiyele, Meck",M,KELEMABO,Welder,01 Jan 1978
+251,160153239,"Akel, Wilson",M,YAWALANGIL,Student,01 Jan 1980
+252,25084396,"Alfred, Dayric",M,YAWALANGIL,Student,28 Apr 2001
+253,25084398,"Allan, Jimalgen",M,YAWALANGIL,Student,04 Mar 1992
+254,160146521,"Anjo, Ake",M,YAWALANGIL,Driver,01 Jan 2000
+255,160146637,"Anjo, Dopo",M,YAWALANGIL,Student,01 Jan 1982
+256,160146638,"Anjo, Felix",M,YAWALANGIL,Subsistence Farmer,01 Jan 1982
+257,160441040,"Anjo, Jerry",M,YAWALANGIL,Student,11 Sep 2000
+258,160146809,"Anjo, Kewale",M,YAWALANGIL,Subsistence Farmer,01 Jan 1961
+259,25084401,"Anjo, Sotti",M,YAWALANGIL,Subsistence Farmer,10 Jul 1991
+260,160146382,"Anjo, Wanpis",M,YAWALANGIL,Subsistence Farmer,01 Jan 1973
+261,160146746,"Apurel, Otto",M,YAWALANGIL,Worker,01 Jan 1979
+262,160146881,"Apurle, Luke",M,YAWALANGIL,Fitter Machinist,24 Dec 1978
+263,160146879,"Apurle, Tange",M,YAWALANGIL,Not Specified,12 Sep 1977
+264,160142220,"Apurle, Tange",M,KELEMABO,Subsistence Farmer,01 Jan 1974
+265,160121842,"Ari, Kombeke",M,KOPILINE,Student,04 Jan 1998
+266,160146522,"Aruru, Jonathan",M,YAWALANGIL,Pastor,01 Jan 1981
+267,160146808,"Bai, Anjo",M,KOPILINE,Subsistence Farmer,01 Jan 1945
+268,160146380,"Bai, Nema",M,KELEMABO,Subsistence Farmer,01 Jan 1954
+269,160142459,"Ben, Nandoma",M,YAWALANGIL,Subsistence Farmer,01 Jan 1983
+270,25084403,"Benard, Torea",M,YAWALANGIL,Student,13 Jul 1999
+271,160142668,"Benjamin, James",M,YAWALANGIL,Student,01 Jan 1990
+272,160143782,"Benjamin, Philip",M,YAWALANGIL,Student,01 Jan 1989
+273,25084405,"Benson, Maria",M,YAWALANGIL,Subsistence Farmer,11 Jan 1982
+274,25084407,"Bone, Justin",M,YAWALANGIL,Subsistence Farmer,11 Oct 1986
+275,160121976,"Buru, Kolopine",M,KOPILINE,Subsistence Farmer,01 Jan 1993
+276,160441133,"Buru, Ruben",M,YAWALANGIL,Student,12 Nov 2001
+277,160441140,"Buru, Stanley",M,YAWALANGIL,Subsistence Farmer,28 Jan 1998
+278,160146193,"Buru, Willy",M,YAWALANGIL,Student,01 Jan 1984
+279,160138129,"Docketa, Junior",M,YAWALANGIL,Sales Women,01 Jan 1998
+280,160138128,"Docketa, Timothy",M,YAWALANGIL,Painter,01 Jan 1991
+281,160146526,"Docta, Tonny",M,YAWALANGIL,Student,01 Jan 1989
+282,25084409,"Fred, Levai",M,YAWALANGIL,Student,24 Oct 1993
+283,160121801,"Gibson, Bennony",M,KELEMABO,Sales Women,15 Nov 1995
+284,160136392,"Gibson, Pil",M,KELEMABO,Sales Women,03 Jun 1993
+285,160121800,"Gibson, Ricky",M,KELEMABO,Sales Women,14 Mar 1991
+286,160146612,"Gloria, Undi",M,KELEMABO,Student,01 Jan 1985
+287,160153545,"Goraiye, Windy",M,YAWALANGIL,Student,11 Nov 1990
+288,160153754,"Haiele, Meck",M,YAWALANGIL,Welder,13 Dec 1970
+289,160148537,"Haiele, Ray",M,YAWALANGIL,Salesman,16 May 1966
+290,160441007,"Harike, Erri",M,YAWALANGIL,Security,17 Mar 1982
+291,160441125,"Ielupe, Joshua",M,YAWALANGIL,Student,01 Jun 2003
+292,160153775,"Imbi, Michael",M,YAWALANGIL,Subsistence Farmer,02 Aug 1979
+293,160148557,"Imbi, Pora",M,YAWALANGIL,Worker,01 Jan 1971
+294,160153776,"Imbi, Toimbo",M,YAWALANGIL,Subsistence Farmer,14 Feb 1977
+295,160146920,"Imi, Ambel",M,YAWALANGIL,Student,01 Jan 1988
+296,25084411,"James, Gideon",M,YAWALANGIL,Teacher,28 Apr 1993
+297,160121794,"Joe, Derol",M,KELEMABO,Sales Women,01 Jan 1997
+298,160146872,"Joe, Joash",M,YAWALANGIL,Student,10 Feb 1989
+299,160136391,"Joe, Joe",M,KELEMABO,Student,26 Jul 1996
+300,160121798,"Joe, Joel",M,KELEMABO,Sales Women,01 Jan 1993
+301,160121785,"Joe, Junior",M,KELEMABO,Dental Therapist,01 Jan 1990
+302,160136383,"Joe, Ostin",M,KELEMABO,Sales Women,01 Jan 1995
+303,25084414,"John, Rose",M,YAWALANGIL,Housegirl,16 Nov 1996
+304,160122055,"Jonathan, Junior",M,KOMULU,Student,01 Jan 1998
+305,160148559,"Joseph, Elizah",M,YAWALANGIL,Student,09 Dec 1985
+306,160146611,"Joseph, Kindeq",M,YAWALANGIL,Subsistence Farmer,01 Jan 2000
+307,160148704,"Joseph, Tonny",M,YAWALANGIL,Student,25 Apr 1989
+308,25084416,"Justin, Haggai",M,YAWALANGIL,Student,25 Jun 1994
+309,160441009,"Kaloma, Harike",M,YAWALANGIL,Plumber,07 Nov 1974
+310,160146199,"Kamamu, Turi",M,YAWALANGIL,Driver,01 Jan 1965
+311,160146197,"Kapale, Ben",M,YAWALANGIL,Subsistence Farmer,01 Jan 1971
+312,160441121,"Kapale, Jerry",M,YAWALANGIL,Student,07 Sep 2003
+313,160153759,"Kapale, Makep",M,YAWALANGIL,Student,10 Nov 1986
+314,160148539,"Kapale, Meck",M,YAWALANGIL,Student,14 Nov 1989
+315,160122012,"Kapale, Ronny",M,KELEMABO,Subsistence Farmer,01 Jan 1993
+316,160441123,"Kapale, Tonny",M,YAWALANGIL,Student,05 Jul 1999
+317,160153770,"Kareme, Koke",M,YAWALANGIL,Subsistence Farmer,02 May 1970
+318,160155736,"Kareme, Noman",M,YAWALANGIL,Carpenter,17 Mar 1980
+319,160153544,"Karoma, Goraiye",M,YAWALANGIL,Subsistence Farmer,27 Jul 1961
+320,160148532,"Kasindi, Pote",M,YAWALANGIL,Subsistence Farmer,15 Aug 1956
+321,160148534,"Kasindi, Taina",M,YAWALANGIL,Subsistence Farmer,02 Sep 1949
+322,160153521,"Kawa, Koroli",M,YAWALANGIL,Subsistence Farmer,10 Dec 1964
+323,25084377,"Ken, Mathias",M,KELEMABO,Unemployed,03 Nov 1982
+324,25084379,"Ken, Rolen",M,KELEMABO,Subsistence Farmer,11 Feb 1986
+325,160441061,"Kepo, Nelson",M,YAWALANGIL,Student,28 Mar 2001
+326,160121783,"Kepo, Wilson",M,KELEMABO,Sales Women,01 Jan 1992
+327,160146810,"Kepulu, Damon",M,YAWALANGIL,Student,01 Jan 1983
+328,25084420,"Kera, Marakai",M,YAWALANGIL,Student,14 Apr 2004
+329,160153529,"Kerepa, John",M,YAWALANGIL,Subsistence Farmer,05 May 1982
+330,160153530,"Kerepa, Moses",M,YAWALANGIL,Subsistence Farmer,12 Jun 1966
+331,160148561,"Kevin, Assa",M,YAWALANGIL,Student,25 Dec 1989
+332,160146527,"Kevin, Mara",M,YAWALANGIL,Student,01 Jan 2000
+333,160146179,"Kewa, William",M,YAWALANGIL,Pastor,01 Jan 1977
+334,160146812,"Kipulu, Ben",M,YAWALANGIL,Subsistence Farmer,01 Jan 2000
+335,160146558,"Kipulu, Mara",M,YAWALANGIL,Subsistence Farmer,01 Jan 1962
+336,160146811,"Kipulu, Moris",M,YAWALANGIL,Student,01 Jan 1980
+337,160148547,"Koenba, John",M,YAWALANGIL,Subsistence Farmer,05 Nov 1970
+338,160153767,"Koenba, Tendeku",M,YAWALANGIL,Subsistence Farmer,06 Oct 1969
+339,160153756,"Koenda, Kapale",M,YAWALANGIL,Subsistence Farmer,02 Nov 1947
+340,160441052,"Koke, Asick",M,YAWALANGIL,Student,27 Apr 2004
+341,160148553,"Koke, Justin",M,YAWALANGIL,Student,01 Jan 1987
+342,25084422,"Kola, Nathan",M,YAWALANGIL,Subsistence Farmer,20 Feb 1997
+343,160146657,"Kolawale, Peter",M,YAWALANGIL,Subsistence Farmer,01 Jan 1973
+344,160146659,"Komolo, Yamba",M,YAWALANGIL,Subsistence Farmer,01 Jan 1943
+345,160148560,"Kongoi, Joe",M,YAWALANGIL,Teacher,01 Jan 1971
+346,160155751,"Kongoi, John",M,YAWALANGIL,Student,16 Jan 1977
+347,160148718,"Kongoi, Kevin",M,YAWALANGIL,Worker,11 Nov 1973
+348,160153547,"Kongoi, Matoli",M,YAWALANGIL,Subsistence Farmer,01 May 1977
+349,160155754,"Kongoi, Philip",M,YAWALANGIL,Teacher,10 Oct 1970
+350,160441100,"Koya, Alpons",M,YAWALANGIL,Student,06 Mar 2001
+351,160121793,"Koya, Ezekiel",M,KELEMABO,Salesman,01 Jan 1992
+352,160136386,"Koya, Jero",M,KELEMABO,Factory Worker,01 Jan 1994
+353,160148572,"Koya, Jim",M,YAWALANGIL,Student,18 Jun 1983
+354,160146561,"Koya, Jona",M,KOPILINE,Student,01 Jan 1984
+355,160153540,"Koya, Jonah",M,YAWALANGIL,Student,25 May 1987
+356,160136387,"Koya, Manu",M,KELEMABO,Sales Women,01 Jan 1998
+357,160146195,"Koya, Simon",M,YAWALANGIL,Subsistence Farmer,01 Jan 1977
+358,160153538,"Koya, Simon",M,YAWALANGIL,Driver,23 Oct 1980
+359,160121792,"Koya, Wilson",M,KELEMABO,Sales Women,01 Jan 1994
+360,25084424,"Koyalo, Anda",M,YAWALANGIL,Farm worker,09 Dec 1989
+361,160146723,"Kulpini, Pepuk",M,KELEMABO,Pastor,01 Jan 1982
+362,160148499,"Kupini, Ayia",M,KELEMABO,Pastor,01 Jan 1961
+363,160146904,"Kupini, Jebet",M,KELEMABO,Student,01 Jan 1990
+364,160153057,"Kupini, Martin",M,YAWALANGIL,Student,12 Feb 1987
+365,160146763,"Kupini, Muni",M,YAWALANGIL,Subsistence Farmer,01 Jan 1984
+366,160146903,"Kupini, Nick",M,KELEMABO,Student,01 Jan 1989
+367,160146721,"Kupini, Paul",M,KELEMABO,Driver,01 Jan 1981
+368,160146724,"Kupini, Pawa",M,KELEMABO,Subsistence Farmer,01 Jan 1987
+369,160121904,"Kupini, Pendene",M,KOMULU,Painter,01 Jan 1985
+370,160146726,"Kupini, Priscilla",M,KELEMABO,Subsistence Farmer,01 Jan 1983
+371,160146720,"Kupini, Rex",M,YAWALANGIL,Subsistence Farmer,01 Jan 1977
+372,160146906,"Kupini, Walimbo",M,KELEMABO,Subsistence Farmer,01 Jan 1980
+373,25084386,"Las, Samson",M,KELEMABO,Subsistence Farmer,23 Jan 1970
+374,160148705,"Lombaiye, Mone",M,YAWALANGIL,Subsistence Farmer,01 Jan 1951
+375,160155743,"Lombaiye, Yawi",M,YAWALANGIL,Subsistence Farmer,01 Jan 1958
+376,160146740,"Lowaie, Patric",M,YAWALANGIL,Subsistence Farmer,01 Jan 1988
+377,160148543,"Lowaiye, Aiye",M,YAWALANGIL,Subsistence Farmer,04 Dec 1980
+378,160441073,"Mark, Joshua",M,YAWALANGIL,Student,09 Mar 2004
+379,25084426,"Mendeli, Saki",M,YAWALANGIL,Unemployed,03 Mar 2004
+380,25084428,"Mike, Jackson",M,YAWALANGIL,Student,26 Nov 2002
+381,25084430,"Mike, Maxson",M,YAWALANGIL,Student,15 May 2000
+382,25084432,"Mike, Rendy",M,YAWALANGIL,Student,20 Oct 2001
+383,160441067,"Mone, Wanpis",M,YAWALANGIL,Subsistence Farmer,10 Dec 1989
+384,160153779,"Mone, Wapea",M,YAWALANGIL,Student,12 Jan 1986
+385,160153751,"Mukindi, David",M,YAWALANGIL,Subsistence Farmer,18 Sep 1983
+386,160148567,"Mukindi, Kake",M,YAWALANGIL,Subsistence Farmer,02 Dec 1968
+387,160153750,"Mukindi, Kevin",M,YAWALANGIL,Subsistence Farmer,25 Dec 1980
+388,160153601,"Mukindi, Mano",M,YAWALANGIL,Subsistence Farmer,19 Aug 1967
+389,160153748,"Mukindi, Noipo",M,YAWALANGIL,Subsistence Farmer,24 Oct 1971
+390,25084436,"Naba, James",M,YAWALANGIL,Subsistence Farmer,28 Apr 1998
+391,160146590,"Namba, Lucas",M,KOMULU,Student,01 Jan 1983
+392,160146589,"Namba, Luta",M,KOMULU,Student,01 Jan 1985
+393,160146178,"Nande, Ambi",M,YAWALANGIL,Subsistence Farmer,01 Jan 1987
+394,160148562,"Nande, Enock",M,YAWALANGIL,Student,01 May 1988
+395,160155753,"Nande, Taiye",M,YAWALANGIL,Student,12 Oct 1986
+396,160155755,"Nande, Toiye",M,YAWALANGIL,Student,02 Nov 1982
+397,160153765,"Nandie, Ape",M,YAWALANGIL,Subsistence Farmer,12 May 1971
+398,160153766,"Nandie, Kasu",M,YAWALANGIL,Student,18 May 1976
+399,25084440,"Nandie, Sem",M,YAWALANGIL,Student,07 Jun 1984
+400,160146921,"Nanoe, Ambi",M,YAWALANGIL,Student,01 Jan 1989
+401,25084442,"Navo, Mike",M,YAWALANGIL,Student,11 Oct 1980
+402,25084448,"Neckcy, Reminton",M,YAWALANGIL,Unemployed,01 Feb 1995
+403,25087370,"Necky, Robert",M,YAWALANGIL,Subsistence Farmer,16 Mar 1998
+404,160146508,"Nema, Julie",M,YAWALANGIL,Student,01 Jan 1987
+405,160122011,"Nema, Junior",M,KOMULU,Student,01 Jan 1995
+406,160142223,"Nema, Steven",M,KELEMABO,Student,01 Jan 1987
+407,160146381,"Nema, Willi",M,KELEMABO,Student,01 Jan 1983
+408,25084454,"Nickson, Nickford",M,YAWALANGIL,Student,06 Dec 2000
+409,160153762,"Ninde, Poki",M,YAWALANGIL,Driver,02 Dec 1967
+410,160138465,"Noipo, Manuel",M,KOPILINE,Student,01 Feb 1998
+411,25084456,"Noloi, Oiye",M,YAWALANGIL,Subsistence Farmer,05 May 1967
+412,160121971,"Nopul, Billy",M,KOPILINE,Student,04 Jun 1994
+413,160441020,"Nopul, Dani",M,YAWALANGIL,Student,17 Apr 2004
+414,160138466,"Nopul, David",M,KOPILINE,Student,02 Jan 1996
+415,160148502,"Nopul, Jacob",M,KELEMABO,Student,01 Jan 1981
+416,160148503,"Nopul, Noah",M,KELEMABO,Student,01 Jan 1987
+417,160146733,"Nopul, Nomen",M,KELEMABO,Student,01 Jan 1983
+418,160148501,"Nopul, Robert",M,KELEMABO,Student,01 Jan 1985
+419,160511132,"Papara, Toya",M,YAWALANGIL,Teacher,18 Apr 2002
+420,160146734,"Pepe, Tongela",M,KELEMABO,Subsistence Farmer,01 Jan 1939
+421,160146769,"Philip, Ame",M,YAWALANGIL,Subsistence Farmer,01 Jan 1977
+422,160441058,"Philip, Aris",M,YAWALANGIL,Student,26 Jul 2001
+423,160121786,"Philip, Ity",M,KELEMABO,Dental Therapist,01 Jan 1993
+424,160155739,"Pinje, Moses",M,YAWALANGIL,Student,17 Sep 1981
+425,160148554,"Pinje, Simon",M,YAWALANGIL,Subsistence Farmer,13 Sep 1979
+426,160146791,"Pondo, Giluwe",M,YAWALANGIL,Subsistence Farmer,01 Jan 2000
+427,160146190,"Pondo, Mek",M,YAWALANGIL,Subsistence Farmer,01 Jan 1979
+428,160142528,"Pora, Mendepo",M,YAWALANGIL,Subsistence Farmer,01 Jan 1980
+429,25084461,"Pora, Pais",M,YAWALANGIL,Driver,10 May 2003
+430,160138131,"Pora, Sinai",M,YAWALANGIL,Economist,03 Apr 1994
+431,160121790,"Pote, Peter",M,KELEMABO,Sales Women,01 Jan 1994
+432,160153603,"Pote, Yala",M,YAWALANGIL,Pastor,12 Dec 1962
+433,160155727,"Pote, Yunu",M,YAWALANGIL,Mechanic,04 Aug 1960
+434,160146523,"Puiye, Korowi",M,YAWALANGIL,Subsistence Farmer,01 Jan 1975
+435,160146793,"Pulakata, Kolgawale",M,YAWALANGIL,Subsistence Farmer,01 Jan 1945
+436,160153051,"Puwawe, Apurle",M,YAWALANGIL,Subsistence Farmer,26 Jan 1966
+437,160146192,"Puwawe, Buru",M,YAWALANGIL,Subsistence Farmer,01 Jan 1954
+438,160121974,"Puwawe, Buru",M,KOPILINE,Subsistence Farmer,01 Jan 1963
+439,160121789,"Ray, Daniel",M,KELEMABO,Sales Women,01 Jan 1993
+440,160441088,"Rex, Jonethan",M,YAWALANGIL,Student,07 Nov 2001
+441,160441092,"Rex, Manley",M,YAWALANGIL,Student,05 Jul 2001
+442,160121847,"Rex, Nathan",M,KELEMABO,Sales Women,01 Jan 1996
+443,160121905,"Rex, Steward",M,KOMULU,Worker,01 Jan 1995
+444,160441015,"Roapa, Jeckson",M,YAWALANGIL,Student,17 Apr 2004
+445,160155761,"Roape, Daiye",M,YAWALANGIL,Subsistence Farmer,15 Dec 1978
+446,160153528,"Roape, Korowi",M,YAWALANGIL,Student,21 May 1989
+447,160146661,"Roape, Korowi",M,YAWALANGIL,Subsistence Farmer,01 Jan 1979
+448,160146796,"Roape, Poneli",M,YAWALANGIL,Subsistence Farmer,01 Jan 1975
+449,160146795,"Robert, Roape",M,YAWALANGIL,Subsistence Farmer,01 Jan 1983
+450,160146792,"Rowape, Daiye",M,YAWALANGIL,Subsistence Farmer,01 Jan 1977
+451,160138347,"Samson, Albert",M,KOMULU,Student,01 Jan 1997
+452,160122054,"Samson, Richard",M,KOMULU,Student,01 Jan 1997
+453,160153534,"Sikipiye, Kenneth",M,YAWALANGIL,Subsistence Farmer,01 Mar 1970
+454,25084463,"Simon, Norman",M,YAWALANGIL,Student,16 Apr 2004
+455,25084467,"Sukondo, Elai",M,YAWALANGIL,Subsistence Farmer,24 Jan 2000
+456,160136385,"Taina, Pake",M,KELEMABO,Teacher,01 Jan 1986
+457,160155728,"Taina, Pake",M,YAWALANGIL,Student,14 Oct 1979
+458,160146802,"Tatius, John",M,YAWALANGIL,Student,01 Jan 2000
+459,160146738,"Tatius, John",M,KELEMABO,Student,01 Jan 1988
+460,160143766,"Tene, Kum",M,YAWALANGIL,Subsistence Farmer,01 Jan 1981
+461,160121987,"Teringi, Rebecca",M,KELEMABO,Student,12 Feb 1997
+462,160138130,"Teru, Jeffery",M,YAWALANGIL,Sales Women,01 Jan 1992
+463,160146742,"Teru, Jeffery",M,YAWALANGIL,Student,01 Jan 1989
+464,160153782,"Teru, Jeffery",M,YAWALANGIL,Student,06 Apr 1986
+465,160121802,"Teru, Jetro",M,KELEMABO,Student,13 Mar 1992
+466,160121903,"Teru, Joel",M,YAWALANGIL,Student,01 Jan 1995
+467,160121803,"Teru, John",M,KELEMABO,Warder,12 Apr 1985
+468,160148710,"Teru, John",M,YAWALANGIL,Student,17 Nov 1984
+469,160153785,"Tildo, Kepo",M,YAWALANGIL,Pastor,16 Oct 1971
+470,160148712,"Tildo, Pele",M,YAWALANGIL,Financial Officer,05 Dec 1969
+471,160146766,"Titus, Paul",M,YAWALANGIL,Subsistence Farmer,01 Jan 1982
+472,160146566,"Tiutus, Nipa",M,YAWALANGIL,Subsistence Farmer,01 Jan 1974
+473,160142458,"Toea, Puie",M,YAWALANGIL,Subsistence Farmer,01 Jan 1981
+474,25084392,"Tom, Benjo",M,KELEMABO,Student,01 Nov 2001
+475,160122002,"Tom, Joseph",M,KELEMABO,Subsistence Farmer,16 Mar 1993
+476,160153084,"Tongela, Eso",M,YAWALANGIL,Student,23 Nov 1987
+477,160146917,"Tongela, Mathew",M,KELEMABO,Accountant,01 Jan 1973
+478,160153082,"Tongela, Pembo",M,YAWALANGIL,Student,02 Oct 1980
+479,160151841,"Tongela, Sadrick",M,YAWALANGIL,Student,12 Feb 1987
+480,160121980,"Tongela, Solomon",M,KOPILINE,Student,04 Jul 1995
+481,160146735,"Tongela, Tano",M,KELEMABO,Subsistence Farmer,01 Jan 1959
+482,160155752,"Toringi, Nande",M,YAWALANGIL,Subsistence Farmer,12 Oct 1944
+483,160146911,"Toringi, Nopuli",M,KELEMABO,Subsistence Farmer,01 Jan 1953
+484,160148500,"Toringi, Tatius",M,KELEMABO,Subsistence Farmer,01 Jan 1969
+485,160146912,"Toropo, Namba",M,KELEMABO,Subsistence Farmer,01 Jan 1954
+486,160155756,"Toropo, Tonny",M,YAWALANGIL,Machinist,09 Oct 1969
+487,160146223,"Toyomb, Kewale",M,YAWALANGIL,Subsistence Farmer,01 Jan 1985
+488,25084394,"Turi, Wilfred",M,KELEMABO,Store Keeper,02 Jan 1977
+489,160441104,"Waki, Asic",M,YAWALANGIL,Student,27 Jul 1999
+490,160441086,"Walimbo, Junior",M,YAWALANGIL,Student,01 Jul 2001
+491,160146759,"Walimbo, Kupini",M,YAWALANGIL,Councillor,01 Jan 1941
+492,160153781,"Wapea, Teru",M,YAWALANGIL,Subsistence Farmer,01 Jan 1952
+493,160155748,"Wapea, Yala",M,YAWALANGIL,Subsistence Farmer,01 Jan 1973
+494,160142221,"Wapugu, Joel",M,KELEMABO,Student,01 Jan 1983
+495,160146804,"Wapugu, Tom",M,KOPILINE,Subsistence Farmer,01 Jan 1971
+496,160146805,"Wapugu, Yaki",M,KELEMABO,Subsistence Farmer,01 Jan 1968
+497,160146806,"Wapugu, Yako",M,KOPILINE,Subsistence Farmer,01 Jan 1959
+498,160155759,"Wapungu, Joel",M,YAWALANGIL,Student,15 Jul 1985
+499,160511134,"Warea, Rex",M,YAWALANGIL,Student,12 Apr 2002
+500,160122013,"Wendo, Benjamin",M,KOPILINE,Not Specified,01 Jan 1991
+501,160146786,"Wendo, Steven",M,YAWALANGIL,Student,01 Jan 1989
+502,160146188,"Wendo, Tomano",M,YAWALANGIL,Student,01 Jan 1984
+503,160121900,"Wendo, Wilson",M,YAWALANGIL,Not Specified,01 Jan 1993
+504,160441050,"Yala, Jayson",M,YAWALANGIL,Student,13 Jun 2001
+505,160441048,"Yala, Joden",M,YAWALANGIL,Student,09 Nov 2003
+506,160146741,"Yamba, Abel",M,YAWALANGIL,Student,01 Jan 1981
+507,160146794,"Yamba, Benjamin",M,YAWALANGIL,Student,01 Jan 1983
+508,160146194,"Yamba, John",M,YAWALANGIL,Accountant,01 Jan 1974
+509,25084472,"Yando, Jackson",M,YAWALANGIL,Salesman,14 Dec 1985
+510,160155757,"Yangiwai, Wapungu",M,YAWALANGIL,Subsistence Farmer,01 Jan 1959
+511,160155744,"Yawi, Kepas",M,YAWALANGIL,Welder,11 Feb 1983
+512,25084473,"Yawi, Nancy",M,YAWALANGIL,Household Duties,16 Sep 1972

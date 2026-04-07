@@ -1,0 +1,765 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160401732,"Adape, Yapu",F,USA,Household Duties,01 Jan 1960
+2,160499218,"Akopa, Rosa",F,USA,Household Duties,11 Sep 1994
+3,160370486,"Alex, Dorrin",F,USA,Household Duties,01 Jan 1900
+4,160294076,"Alton, Semima",F,USA,Household Duties,09 Aug 1988
+5,160401973,"Amorana, Nogosi",F,USA,Household Duties,01 Jan 1955
+6,160385528,"Anson, Cathrin",F,USA,Household Duties,16 Aug 1974
+7,160366589,"Ape, Dolly",F,USA,Sister,01 Jan 1983
+8,160366973,"Ape, Josina",F,USA,Housegirl,01 Jan 1984
+9,160398062,"Ape, Komborame",F,USA,Household Duties,20 Feb 1971
+10,160366591,"Ape, Lovina",F,USA,Student,01 Jan 1989
+11,160293888,"Apuda, Polina",F,USA,Household Duties,12 May 1959
+12,160372227,"Bala, Josephine",F,USA,Housegirl,01 Jan 1991
+13,160377991,"Bala, Porame",F,USA,Household Duties,01 Jan 1979
+14,160366255,"Bale, Stevenny",F,USA,Household Duties,01 Jan 1980
+15,160366625,"Ben, Bervely",F,USA,Student,01 Jan 1991
+16,160367418,"Ben, Daisy",F,USA,Student,01 Jan 1990
+17,160366942,"Ben, Dorrise",F,USA,Student,01 Jan 1992
+18,160398026,"Berapu, Anna",F,USA,Household Duties,03 Apr 1974
+19,160397961,"Berapu, Lidia",F,USA,Student,16 Jul 1981
+20,160379868,"Berry, Dorrise",F,USA,Household Duties,12 Sep 1956
+21,160379866,"Berry, Jenneth",F,USA,Household Duties,03 Apr 1957
+22,160380337,"Berry, Jennila",F,USA,Student,07 Aug 1994
+23,160380412,"Berry, Louise",F,USA,Student,04 May 1989
+24,160380344,"Berry, Poulyn",F,USA,Dentist,12 Oct 1955
+25,160397950,"Biru, Besa",F,USA,Household Duties,01 Jan 1959
+26,160397951,"Biru, Betty",F,USA,Household Duties,01 Jan 1981
+27,160369878,"Bob, Jayfat",F,USA,Household Duties,01 Jan 1978
+28,160369901,"Bob, Jayfrina",F,USA,Household Duties,01 Jan 1980
+29,160369906,"Bob, Racheal",F,USA,Student,01 Jan 1994
+30,160399357,"Boso, Alegame susana",F,USA,Subsistence Farmer,01 Jan 1974
+31,160399352,"Boso, Epeyapi",F,USA,Subsistence Farmer,01 Jan 1969
+32,160399329,"Boso, Ogenogo",F,USA,Household Duties,01 Jan 1980
+33,160399351,"Boso, Yamare",F,USA,Household Duties,08 May 1938
+34,160380346,"Bredon, Delma",F,USA,Household Duties,02 Apr 1979
+35,160379869,"Bredon, Hotilda",F,USA,Teacher,06 Jul 1978
+36,160380345,"Bredon, Merry",F,USA,Household Duties,15 Mar 1981
+37,160385525,"Brus, Jenny",F,USA,Household Duties,12 Feb 1974
+38,160386143,"Brus, Luthia",F,USA,Household Duties,13 Apr 1975
+39,160367370,"Buka rali, Mealna",F,USA,Household Duties,01 Jan 1986
+40,160372210,"Daniel, Nelyn",F,USA,Student,01 Jan 1994
+41,160293885,"Daniel, Reri",F,USA,Household Duties,29 Jul 1970
+42,160379283,"David, Anna",F,USA,Housegirl,01 Jan 1985
+43,160499222,"David, Regina",F,USA,Household Duties,01 Jan 1990
+44,160379363,"Denny, Jocelyn",F,USA,Student,01 Jan 1995
+45,160379854,"Dia, Apo",F,USA,Household Duties,01 Jan 2000
+46,160499224,"Diaya, Lyn",F,USA,Household Duties,10 Oct 1988
+47,160293887,"Dilik, Lyn",F,USA,Household Duties,04 Jul 1978
+48,160294084,"Dilik, Pokeame",F,USA,Household Duties,12 Sep 1956
+49,160398699,"Domnic, Lina",F,USA,Household Duties,01 Jan 1976
+50,160379359,"Domnic, Melvin",F,USA,Student,01 Jan 1994
+51,160385555,"Elvis, Joicelyn",F,USA,Household Duties,17 Aug 1982
+52,160399906,"Epa, Esther",F,USA,Household Duties,01 Jan 1967
+53,160499225,"Eskimo, Ambai",F,USA,Household Duties,01 Jan 1990
+54,160367345,"Etapa, Lyn",F,USA,Student,01 Jan 1990
+55,160499226,"Felix, Dyan",F,USA,Household Duties,01 Jan 1989
+56,160398068,"Ferman, Bapi",F,USA,Household Duties,23 Jul 1968
+57,160499227,"Fobian, Judy",F,USA,Household Duties,22 Oct 1984
+58,160499228,"Fobian, Linneth",F,USA,Household Duties,17 Nov 1986
+59,160499229,"Fobian, Salvina",F,USA,Student,26 Aug 2001
+60,160506767,"George, Bendeth",F,USA,Student,11 Feb 2000
+61,160499232,"Golhee, Sospin",F,USA,Household Duties,10 May 1986
+62,160499234,"Haron, Melyn",F,USA,Student,28 Nov 2002
+63,160499235,"Hayson, Freeda",F,USA,Household Duties,24 Dec 1998
+64,160499236,"Henry, Sahsah",F,USA,Student,04 Sep 2000
+65,160366962,"Hosman, Betelyn",F,USA,Housegirl,01 Jan 1990
+66,160366960,"Hosman, Dolly",F,USA,Housegirl,01 Jan 1985
+67,160366959,"Hosman, Norin",F,USA,Household Duties,01 Jan 1973
+68,160366961,"Hosman, Sepo",F,USA,Housegirl,01 Jan 1988
+69,160398877,"Inesi, Eyapala",F,USA,Household Duties,01 Jan 1965
+70,160499237,"Ipisa, Barara",F,USA,Household Duties,01 Jan 1987
+71,160285002,"Ipuna, Bulu",F,USA,Household Duties,01 Jan 1962
+72,160499240,"Ipuna, Jenny",F,USA,Household Duties,03 Feb 2003
+73,160506770,"Ipuna, Jessy",F,USA,Household Duties,01 Jan 2000
+74,160499241,"Ipuna, Mila",F,USA,Household Duties,01 Jan 2001
+75,160399803,"Iralu, July",F,USA,Student,01 Jan 1986
+76,160506784,"Iralu, Karis",F,USA,Household Duties,01 Feb 1984
+77,160506786,"Iralu, Nomi",F,USA,Household Duties,02 Jan 1987
+78,160431021,"Irigu, Nambonogo",F,USA,Household Duties,21 Sep 1964
+79,160285006,"Iripata, Nogobali",F,USA,Household Duties,01 Jan 1967
+80,160285012,"Irugu, Nondopeame",F,USA,Student,01 Jan 1989
+81,160293883,"Isima, Waenogo",F,USA,Household Duties,10 Jan 1965
+82,160499244,"Iso, Lindia",F,USA,Household Duties,22 Jun 1998
+83,160294062,"Ita, Dyna",F,USA,Household Duties,10 May 1973
+84,160294251,"Jacob, Alice",F,USA,Household Duties,02 Jul 1995
+85,160499245,"Jacob, Meila",F,USA,Household Duties,12 Apr 1995
+86,160499246,"Jacob, Noammy",F,USA,Household Duties,05 Dec 1993
+87,160398003,"James, Kalape",F,USA,Household Duties,14 Jan 1961
+88,160398064,"James, Nogosi",F,USA,Household Duties,26 May 1982
+89,160398366,"James, Norin",F,USA,Student,12 Aug 1989
+90,160398005,"James, Ratame",F,USA,Household Duties,08 May 1956
+91,160400957,"James, Rose",F,USA,Household Duties,01 Jan 1972
+92,160285022,"Japhet, Xinna",F,USA,Household Duties,01 Jan 1981
+93,160499247,"Jeffery, Cathy",F,USA,Household Duties,01 Jan 1996
+94,160398073,"Jeffrey, Meape",F,USA,Household Duties,20 Nov 1981
+95,160398074,"Jeffrey, Pendepe",F,USA,Household Duties,23 Aug 1984
+96,160499248,"Jeremiah, Sainame",F,USA,Household Duties,01 Jan 1994
+97,160369905,"Jerry, Margret",F,USA,Household Duties,01 Jan 1980
+98,160285023,"Jerry, Semila",F,USA,Sales Women,24 Apr 1995
+99,160399496,"Jim, Elly",F,USA,Household Duties,17 Oct 1973
+100,160285025,"Jim, Liu",F,USA,Household Duties,01 Jan 1971
+101,160285026,"Jim, Mairian",F,USA,Student,01 Jan 1990
+102,160285027,"Jim, Sis",F,USA,Household Duties,01 Jan 1968
+103,160499249,"Joel, Ipon",F,USA,Student,28 Apr 2003
+104,160285030,"Joeslyn, Mathew",F,USA,Student,05 Jun 1989
+105,160398387,"Joesph, Serolin",F,USA,Student,01 Jan 1985
+106,160399242,"Joesph, Seron",F,USA,Housegirl,01 Jan 1987
+107,160499250,"John, Anna",F,USA,Household Duties,28 Apr 1978
+108,160398914,"John, Margret",F,USA,Household Duties,22 Nov 1972
+109,160379282,"John, Selinda",F,USA,Household Duties,01 Jan 1989
+110,160499252,"Jordick, Christy",F,USA,Teacher,04 Dec 1992
+111,160294030,"Junior, Merolyn",F,USA,Household Duties,08 May 1995
+112,160399451,"Kabali, Yulu",F,USA,Household Duties,01 Jan 1970
+113,160381780,"Kagu, Joanson",F,USA,Student,01 Jan 1992
+114,160399354,"Kagu, Joyen",F,USA,Household Duties,01 Jan 1978
+115,160370633,"Kagu, Jully",F,USA,Household Duties,01 Jan 1981
+116,160369911,"Kagu, Kellen",F,USA,Household Duties,01 Jan 1945
+117,160370635,"Kagu, Serly",F,USA,Household Duties,01 Jan 1969
+118,160369904,"Kagu, Yapi",F,USA,Household Duties,01 Jan 1946
+119,160506811,"Kakapo, Nanawe",F,USA,Cook,20 May 1969
+120,160506814,"Kakupa, Rana",F,USA,Plumber,07 Apr 1960
+121,160499256,"Kalando, Docas",F,USA,Household Duties,11 Nov 1954
+122,160380341,"Kamaka, Anna",F,USA,Housegirl,01 Jan 1987
+123,160380340,"Kamaka, Monicka",F,USA,Household Duties,01 Jan 1989
+124,160380334,"Kamaka, Temma",F,USA,Household Duties,01 Jan 1985
+125,160506815,"Katapaina, Mechanzier",F,USA,Self Employed,16 Mar 2000
+126,160397991,"Kawi, Lepoka",F,USA,Household Duties,08 Jun 1979
+127,160294259,"Kebonaki, Bulu",F,USA,Household Duties,08 Feb 1936
+128,160499258,"Kency, Rachael",F,USA,Accountant,09 Dec 1994
+129,160379859,"Keneth, Babra",F,USA,Subsistence Farmer,03 Jun 1985
+130,160506820,"Kennedy, Grace",F,USA,Doctor,10 Oct 2000
+131,160398909,"Kennet, Julie",F,USA,Housegirl,01 Jan 1987
+132,160398906,"Kennet, Maluenu",F,USA,Household Duties,01 Jan 1973
+133,160399364,"Kenoa, Mape",F,USA,Household Duties,01 Jan 1952
+134,160400952,"Kenoa, Padapame",F,USA,Household Duties,16 Aug 1948
+135,160400947,"Kenoa, Serah",F,USA,Student,13 Aug 1985
+136,160506824,"Ket, Esther",F,USA,Accountant,11 Sep 2003
+137,160374672,"Kete, Clara",F,USA,Housegirl,01 Jan 1990
+138,160366616,"Kete, Yambare",F,USA,Household Duties,01 Jan 1961
+139,160399839,"Keven, Alice",F,USA,Household Duties,17 Aug 1978
+140,160366954,"Kevien, Melrose",F,USA,Housegirl,01 Jan 1994
+141,160367416,"Kevin, Jossfat",F,USA,Household Duties,01 Jan 1981
+142,160366600,"Kevin, Justin",F,USA,Nurse,01 Jan 1980
+143,160399235,"Kirapeasi, Margret",F,USA,Household Duties,19 Apr 1970
+144,160506828,"Koliapa, Nangme",F,USA,Store Keeper,08 Apr 1996
+145,160379888,"Komberea, Bitres",F,USA,Household Duties,01 Jan 1987
+146,160399791,"Komberea, Uri",F,USA,Household Duties,01 Jan 1961
+147,160499259,"Kotapu, Essina",F,USA,Student,28 Apr 2004
+148,160499260,"Kotapu, Marry",F,USA,Household Duties,01 Jan 1989
+149,160499262,"Kotapu, Rayon",F,USA,Student,28 May 2000
+150,160506836,"Kumbura, Peaule",F,USA,Pastor,20 Mar 1969
+151,160506840,"Kunia, Floria",F,USA,Student,01 Mar 2000
+152,160506844,"Kuron, Nomy",F,USA,Cook,07 Aug 2000
+153,160431020,"Kuta, Noami",F,USA,Household Duties,28 Apr 1974
+154,160367437,"Kuta, Rosa",F,USA,Student,01 Jan 1993
+155,160398725,"Limu, Boso",F,USA,Household Duties,01 Jan 1964
+156,160367363,"Limu, Emma",F,USA,Household Duties,01 Jan 1989
+157,160399256,"Limu, Lilly",F,USA,Student,01 Jan 1981
+158,160367438,"Limu, Sito",F,USA,Household Duties,01 Jan 1987
+159,160400396,"Loke, Aire",F,USA,Household Duties,01 Jan 1945
+160,160385558,"Loko, Anna",F,USA,Subsistence Farmer,15 Sep 1976
+161,160385526,"Loko, Mirriam",F,USA,Household Duties,01 Oct 1974
+162,160385556,"Loko, Ruthi",F,USA,Student,10 Nov 1990
+163,160284894,"Lombo, Kaga",F,USA,Subsistence Farmer,01 Jan 1980
+164,160284895,"Lope, Bali",F,USA,Household Duties,01 Jan 1959
+165,160284897,"Lope, Kurame",F,USA,Student,10 Oct 1988
+166,160285052,"Lope, Rumbe",F,USA,Student,08 Mar 1987
+167,160378005,"Lucas, Belly",F,USA,Housegirl,01 Jan 1989
+168,160379379,"Lucas, Mirriam",F,USA,Household Duties,01 Jan 1972
+169,160399424,"Lukas, Marian",F,USA,Household Duties,14 Dec 1976
+170,160379853,"Luther, Regina",F,USA,Housegirl,01 Jan 1988
+171,160499265,"Mailson, Cathy",F,USA,Household Duties,11 Nov 1989
+172,160499266,"Mailson, Stella",F,USA,Household Duties,20 Aug 1989
+173,160431010,"Malipu, Aireana",F,USA,Household Duties,03 Apr 1947
+174,160398381,"Malu, Jennifa",F,USA,Housegirl,01 Jan 1985
+175,160399306,"Malu, Jona",F,USA,Housegirl,23 Sep 1987
+176,160294262,"Malu, Judy",F,USA,Household Duties,27 Jun 1983
+177,160399350,"Malu, Paiyanu",F,USA,Household Duties,16 Aug 1971
+178,160506855,"Manda, Midyel",F,USA,Student,02 Aug 2000
+179,160506860,"Manuel, Betty",F,USA,Household Duties,01 Jan 1998
+180,160506864,"Manuel, Jolina",F,USA,Household Duties,02 Jun 2002
+181,160366595,"Mapuna, Alice",F,USA,Nurse,01 Jan 1988
+182,160366613,"Mapuna, Ipanu",F,USA,Housegirl,01 Jan 1989
+183,160366594,"Mapuna, Watamenogo",F,USA,Household Duties,01 Jan 1987
+184,160397995,"Mark, Lucy",F,USA,Household Duties,06 Apr 1978
+185,160398913,"Mark, Lyn",F,USA,Household Duties,01 Jan 1974
+186,160367376,"Mark, Pandeame",F,USA,Household Duties,01 Jan 1980
+187,160499268,"Maron, Junian",F,USA,Student,01 Jan 1997
+188,160499269,"Martin, Sevelyna",F,USA,Household Duties,27 Jul 1993
+189,160499270,"Martin six, Ipamori",F,USA,Student,16 Nov 2002
+190,160293889,"Mathias, Sailen",F,USA,Household Duties,10 Nov 1996
+191,160390764,"Max, Jossica",F,USA,Household Duties,18 Sep 1977
+192,160506866,"Max, Rebbaca",F,USA,Nurse,28 Apr 1993
+193,160294066,"Maya, Prisilia",F,USA,Household Duties,11 Jul 1985
+194,160380335,"Megere, Mageret",F,USA,Household Duties,01 Jan 1976
+195,160366947,"Mendapua, Akina",F,USA,Student,01 Jan 1990
+196,160366981,"Mendapua, Florence",F,USA,Household Duties,01 Jan 1968
+197,160367338,"Mendapua, Jordan",F,USA,Household Duties,01 Jan 1960
+198,160506876,"Mendapua, Roselyn",F,USA,Household Duties,16 Jun 1970
+199,160398004,"Mike, Ratu",F,USA,Household Duties,15 Dec 1978
+200,160506882,"Monda, Stella",F,USA,Household Duties,03 Apr 1989
+201,160506887,"Mondopua, Monica",F,USA,Teacher,07 Mar 2001
+202,160385544,"Moses, Jeneth",F,USA,Household Duties,13 Jul 1985
+203,160294257,"Muali, Yawanu",F,USA,Not Specified,01 May 1943
+204,160431024,"Naki, Danstan",F,USA,Teacher,15 Jun 1983
+205,160294079,"Naki, Kopinu",F,USA,Household Duties,14 Dec 1942
+206,160401968,"Nande, Jesoph",F,USA,Subsistence Farmer,01 Jan 1987
+207,160400383,"Nande, Pulunu",F,USA,Household Duties,01 Jan 1970
+208,160366610,"Nandepa, Veronika",F,USA,Sister,01 Jan 1985
+209,160398007,"Nandoma, Elisi",F,USA,Household Duties,01 Jan 1970
+210,160397940,"Nandoma, Pilambo",F,USA,Household Duties,01 Jan 1940
+211,160397855,"Nandoma, Sona",F,USA,Student,01 Jan 1987
+212,160397854,"Nandoma, Susan",F,USA,Housegirl,01 Jan 1982
+213,160499271,"Napian, Jerothy",F,USA,Teacher,10 Jun 1993
+214,160499272,"Nathan, Pricila",F,USA,Household Duties,01 Jan 2001
+215,160293892,"Natian, Angela",F,USA,Household Duties,05 Dec 1988
+216,160397939,"Naya, Amalanogo",F,USA,Household Duties,01 Jan 1942
+217,160499273,"Nelson, Dorothy",F,USA,Household Duties,17 Oct 1990
+218,160294083,"Nepi, Wape",F,USA,Household Duties,15 Mar 1967
+219,160506892,"Ondo, Macklyn",F,USA,Student,21 Jun 1990
+220,160398911,"Ondo, Susan",F,USA,Household Duties,01 Jan 1978
+221,160398010,"Orape, Sarah",F,USA,Student,01 Jan 1987
+222,160506896,"Pai, Yalange",F,USA,Teacher,23 Jul 1987
+223,160366619,"Pakene, Aluba",F,USA,Student,01 Jan 1987
+224,160367424,"Pakene, Anna",F,USA,Sister,01 Jan 1987
+225,160366952,"Pakene, Ester",F,USA,Teacher,01 Jan 1969
+226,160367339,"Pakene, Poranu",F,USA,Nurse,01 Jan 1986
+227,160366977,"Pala, Alice",F,USA,Household Duties,01 Jan 1990
+228,160366274,"Pala, Selina",F,USA,Household Duties,01 Jan 1981
+229,160366254,"Pale, Annita",F,USA,Student,01 Jan 1993
+230,160366592,"Pale, July",F,USA,Household Duties,01 Jan 1978
+231,160366266,"Pale, Rambuame",F,USA,Household Duties,01 Jan 1975
+232,160366609,"Pale, Senis",F,USA,Household Duties,01 Jan 1990
+233,160367352,"Papu, Jeffery",F,USA,Subsistence Farmer,01 Jan 1980
+234,160367351,"Papu, Monika",F,USA,Household Duties,01 Jan 1962
+235,160367432,"Papu, Tolai",F,USA,Household Duties,01 Jan 1968
+236,160397969,"Pasalo, Inagi",F,USA,Student,26 Dec 1989
+237,160370093,"Pasalo, Lindea",F,USA,Household Duties,01 Jan 1967
+238,160397997,"Pasalo, Mayanu",F,USA,Household Duties,27 Feb 1939
+239,160499274,"Paul, Elis",F,USA,Household Duties,20 Feb 1994
+240,160366957,"Paul, Jacklyn",F,USA,Student,01 Jan 1990
+241,160369912,"Paul, Maria",F,USA,Household Duties,01 Jan 1952
+242,160366249,"Paul, Meki",F,USA,Housegirl,01 Jan 1990
+243,160366967,"Paul, Monpi",F,USA,Student,01 Jan 1988
+244,160366976,"Pauwe, Grace",F,USA,Household Duties,01 Jan 1981
+245,160366975,"Pauwe, Susan",F,USA,Teacher,01 Jan 1980
+246,160400946,"Pebiean, Carthy",F,USA,Household Duties,01 Jan 1976
+247,160294082,"Pepe, Nandame",F,USA,Household Duties,11 Jan 1960
+248,160363959,"Peter, Agnes",F,USA,Teacher,01 Jan 1981
+249,160399239,"Peter, Alice",F,USA,Student,23 Nov 1988
+250,160364799,"Peter, Lucy",F,USA,Student,01 Jan 1983
+251,160398951,"Peter, Milred",F,USA,Student,06 Jul 1987
+252,160364807,"Peter, Sliver",F,USA,Student,01 Jan 1980
+253,160293726,"Peter, Unis",F,USA,Sales Women,16 Oct 1996
+254,160397955,"Petrick, Anna",F,USA,Housegirl,01 Jan 1964
+255,160397849,"Petrick, Beapi",F,USA,Household Duties,01 Jan 1966
+256,160397953,"Petrick, Cathy",F,USA,Housegirl,01 Jan 1986
+257,160397954,"Petrick, Katrina",F,USA,Housegirl,01 Jan 1989
+258,160397852,"Petrus, Justina",F,USA,Household Duties,01 Jan 1970
+259,160399236,"Philip, Miriam",F,USA,Household Duties,08 Mar 1979
+260,160366264,"Pilai, Jaylina",F,USA,Teacher,01 Jan 1983
+261,160366974,"Pilai, Jessy",F,USA,Household Duties,01 Jan 1983
+262,160366263,"Pilai, Kina",F,USA,Accountant,01 Jan 1982
+263,160366602,"Pilai, Tere",F,USA,Household Duties,01 Jan 1984
+264,160431025,"Pirape, Pelapei",F,USA,Household Duties,30 Jan 1940
+265,160506900,"Polopa, Rombin",F,USA,Fisherman,14 Aug 1993
+266,160398016,"Pombsi, Mondonogo",F,USA,Household Duties,01 Jan 1940
+267,160400405,"Pondo, Christina",F,USA,Household Duties,01 Jan 1969
+268,160366955,"Ralama, Kelea",F,USA,Household Duties,01 Jan 1966
+269,160366247,"Ralama, Linna",F,USA,Book Keeper,01 Jan 1979
+270,160366268,"Ralama, Morin paul",F,USA,Household Duties,01 Jan 1985
+271,160366258,"Ralama, Solina",F,USA,Housegirl,01 Jan 1988
+272,160366256,"Ralama, Wata",F,USA,Household Duties,01 Jan 1963
+273,160399902,"Rali, Imanogo",F,USA,Household Duties,01 Jan 1968
+274,160398712,"Ramani, Lopame",F,USA,Household Duties,01 Jan 1957
+275,160398714,"Ramani, Seapora",F,USA,Student,01 Jan 1981
+276,160386516,"Rana, Betty",F,USA,Household Duties,14 Jul 1976
+277,160294075,"Rasta, Merian",F,USA,Household Duties,01 Oct 1985
+278,160400386,"Ratalua, Linet",F,USA,Household Duties,01 Jan 1970
+279,160499276,"Rati, Gloria",F,USA,Teacher,23 Jul 1993
+280,160367353,"Rati, Judy",F,USA,Student,01 Jan 1994
+281,160367361,"Rati, Julian",F,USA,Student,01 Jan 1992
+282,160397998,"Rati, Meato",F,USA,Household Duties,10 Sep 1978
+283,160499280,"Raymond, Terolyn",F,USA,Teacher,16 Aug 1997
+284,160398871,"Rex, Early",F,USA,Household Duties,01 Jan 1974
+285,160398872,"Rex, Janet",F,USA,Household Duties,01 Jan 1961
+286,160293747,"Rex, Pauline",F,USA,Household Duties,12 Nov 1984
+287,160499281,"Rex, Replisa",F,USA,Student,19 Aug 1989
+288,160499282,"Riartin six, Ruthy",F,USA,Student,27 Jul 2003
+289,160399795,"Rim, Masanu",F,USA,Household Duties,01 Jan 1958
+290,160399794,"Rim, Pokeame",F,USA,Household Duties,15 Sep 1961
+291,160398027,"Rina, Inusi",F,USA,Household Duties,25 Oct 1954
+292,160499287,"Robert, Beka",F,USA,Sales Women,28 Jan 1985
+293,160399489,"Robert, Efelyn",F,USA,Household Duties,26 Aug 1976
+294,160499288,"Robert, Judy",F,USA,Teacher,10 Nov 1994
+295,160506906,"Robert, Mispha",F,USA,Household Duties,02 Feb 1981
+296,160499290,"Robert, Mispher",F,USA,Household Duties,15 Aug 1994
+297,160499291,"Robin, Janet",F,USA,Household Duties,19 Jun 1996
+298,160379362,"Roland, Sila",F,USA,Student,01 Jan 1991
+299,160398000,"Rondo, Morin",F,USA,Household Duties,28 Nov 1982
+300,160399978,"Ropa, Momo",F,USA,Household Duties,01 Jan 1960
+301,160379862,"Ropasi, Lame",F,USA,Household Duties,01 Jan 1941
+302,160499297,"Ruben, Ronika",F,USA,Student,16 Feb 2003
+303,160499298,"Ruben, Rose",F,USA,Household Duties,11 Mar 1988
+304,160381806,"Rulu, Bervelyn",F,USA,Household Duties,01 Jan 1958
+305,160383500,"Rulu, Lessley",F,USA,Gardener,01 Jan 1962
+306,160371916,"Rulu, Nancy",F,USA,Household Duties,01 Jan 1987
+307,160399251,"Samon, Rubame",F,USA,Household Duties,01 Jan 1964
+308,160372207,"Samuel, Melyn",F,USA,Subsistence Farmer,21 Jul 1978
+309,160370096,"Samuel, Roslyn",F,USA,Household Duties,01 Jan 1982
+310,160401132,"Sarupa, Judy",F,USA,Household Duties,01 Jan 1972
+311,160397966,"Sasin, Dorothy",F,USA,Household Duties,29 Jul 1976
+312,160385538,"Sawande, Roselyn",F,USA,Housegirl,10 Jul 1978
+313,160367427,"Siki, Chimbu saina",F,USA,Household Duties,01 Jan 1969
+314,160367430,"Siki, Clodia",F,USA,Student,01 Jan 1994
+315,160367344,"Siki, Doris",F,USA,Student,01 Jan 1994
+316,160399833,"Simon, Chin",F,USA,Household Duties,20 Jun 1980
+317,160379163,"Simon, Jeniffer",F,USA,Housegirl,01 Jan 1989
+318,160372208,"Simon, Juke",F,USA,Household Duties,01 Jan 1979
+319,160377988,"Simon, Lyns",F,USA,Student,01 Jan 1995
+320,160294263,"Soli, Marklina",F,USA,Household Duties,20 Oct 1985
+321,160399854,"Stanley, Nadame",F,USA,Household Duties,01 Jan 1976
+322,160370487,"Stephen, Pita",F,USA,Household Duties,01 Jan 1986
+323,160399910,"Stiven, Hupanogo",F,USA,Household Duties,01 Jan 1967
+324,160399336,"Stiven, Regina",F,USA,Subsistence Farmer,01 Jan 1986
+325,160506913,"Sumbi, Merolyn",F,USA,Subsistence Farmer,28 Apr 2004
+326,160506916,"Sumbil, Essy",F,USA,Farm worker,11 Apr 2002
+327,160499302,"Sumbili, Leahm",F,USA,Household Duties,19 Oct 1982
+328,160499304,"Sumbili, Sarah",F,USA,Housegirl,15 Sep 1985
+329,160499305,"Sumbili, Yawanu",F,USA,Household Duties,04 Nov 1977
+330,160506923,"Sunbil, Saiomi",F,USA,Student,04 Jun 2000
+331,160367373,"Tami, Martina",F,USA,Household Duties,01 Jan 1970
+332,160398014,"Tapa, Akonu",F,USA,Household Duties,01 Jan 1956
+333,160398011,"Tapa, Merolyin",F,USA,Household Duties,01 Jan 1981
+334,160397943,"Tapa, Polyna",F,USA,Student,01 Jan 1979
+335,160397945,"Tapa, Wareame",F,USA,Household Duties,01 Jan 1979
+336,160398008,"Tapa, Yala",F,USA,Household Duties,01 Jan 1937
+337,160399488,"Tim, Anna",F,USA,Household Duties,01 Jan 1971
+338,160399286,"Tim, Esther",F,USA,Student,29 May 1988
+339,160386141,"Tim, Rossa",F,USA,Student,15 Mar 1990
+340,160379949,"Timothy, Anna",F,USA,Household Duties,01 Jan 1964
+341,160379951,"Timothy, Macklyn",F,USA,Household Duties,01 Jan 1987
+342,160380333,"Turi, Cathy",F,USA,Household Duties,01 Jan 1972
+343,160380332,"Turi, Imurose",F,USA,Housegirl,01 Jan 1993
+344,160380338,"Turi, Nandame",F,USA,Household Duties,01 Jan 1975
+345,160499306,"Umba, Marry",F,USA,Household Duties,28 Apr 2004
+346,160398065,"Umba, Orenu",F,USA,Student,13 Jun 1987
+347,160398066,"Umba, Tina",F,USA,Household Duties,15 Nov 1989
+348,160398915,"Uni, Lineth",F,USA,Household Duties,17 Mar 1974
+349,160506937,"Wapa, Belinda",F,USA,Student,04 Jun 1999
+350,160506940,"Wapa, Josephine",F,USA,Subsistence Farmer,01 Jan 1970
+351,160400387,"Wape, Polyina",F,USA,Housegirl,01 Jan 1967
+352,160398023,"Warea, Bapora",F,USA,Household Duties,01 Jan 1981
+353,160398070,"Waria, Maria",F,USA,Household Duties,25 Oct 1974
+354,160431345,"Wasu, Jenneth",F,USA,Household Duties,14 Sep 1986
+355,160398009,"Wesly, Ruth",F,USA,Student,01 Jan 1987
+356,160397942,"Wesly, Weleta",F,USA,Household Duties,01 Jan 1967
+357,160384329,"Willy, Sila",F,USA,Household Duties,19 Feb 1981
+358,160401720,"Yama, Kandipenogo",F,USA,Household Duties,01 Jan 1960
+359,160399988,"Yama, Lusanu",F,USA,Household Duties,01 Jan 1958
+360,160399990,"Yama, Nara",F,USA,Housegirl,01 Jan 1989
+361,160399981,"Yama, Peter",F,USA,Subsistence Farmer,01 Jan 1989
+362,160399991,"Yama, Udipa",F,USA,Housegirl,01 Jan 1990
+363,160293727,"Yano, Japhilda",F,USA,Sales Women,25 Mar 1996
+364,160499310,"Yapi, Freeda",F,USA,Household Duties,28 Feb 1998
+365,160390768,"Yapua, Dokas",F,USA,Student,25 Jun 1994
+366,160390765,"Yapua, Elisa",F,USA,Student,04 Feb 1992
+367,160390767,"Yapua, Joice",F,USA,Student,15 Jul 1995
+368,160386579,"Yapua, Sela",F,USA,Student,05 Apr 1995
+369,160387007,"Yapua, Teresa",F,USA,Household Duties,03 Mar 1985
+370,160399233,"Yapua, Yalano",F,USA,Subsistence Farmer,13 Sep 1957
+371,160399247,"Yasa, Maria",F,USA,Household Duties,01 Jan 1983
+372,160399246,"Yasa, Mayame",F,USA,Household Duties,01 Jan 1976
+373,160401977,"Yasi, Miseala",F,USA,Housegirl,01 Jan 1984
+374,160401975,"Yasi, Rosa",F,USA,Household Duties,01 Jan 1939
+375,160399853,"Yomagae, Epeame",F,USA,Housegirl,01 Jan 1981
+376,160401138,"Yomagae, Maria",F,USA,Household Duties,01 Jan 1948
+377,160283647,"Yomo, Betty",F,USA,Student,01 Jan 1988
+378,160283649,"Yomo, Mirriam",F,USA,Student,01 Jan 1979
+379,160283651,"Yomo, Rutu",F,USA,Household Duties,01 Jan 1966
+380,160400385,"Adape, Benane",M,USA,Subsistence Farmer,01 Jan 1962
+381,160401966,"Adape, Nande",M,USA,Subsistence Farmer,01 Jan 1959
+382,160401969,"Adape, Ratalua",M,USA,Subsistence Farmer,01 Jan 1965
+383,160399977,"Adape, Ropa",M,USA,Subsistence Farmer,01 Jan 1956
+384,160401719,"Adape, Yama",M,USA,Subsistence Farmer,01 Jan 1955
+385,160506747,"Agurapo, Ranaue",M,USA,Driver,29 Mar 2000
+386,160293886,"Aina, Onde",M,USA,Sales Women,23 Jun 1960
+387,160499217,"Akopa, Joel",M,USA,Subsistence Farmer,12 Oct 1981
+388,160499219,"Akopa, Senedy",M,USA,Student,19 May 2000
+389,160506749,"Alo, Subili",M,USA,Teacher,05 Feb 2004
+390,160431017,"Alumba, Lope",M,USA,Councillor,06 Dec 1939
+391,160294080,"Amarea, Pirape",M,USA,Councillor,20 Sep 1943
+392,160499220,"Ambai, Robert",M,USA,Subsistence Farmer,08 Dec 1991
+393,160499221,"Ambai, Robin",M,USA,Subsistence Farmer,27 Jan 1997
+394,160401972,"Amorana, Naya",M,USA,Subsistence Farmer,01 Jan 1954
+395,160400391,"Amorana, Thom",M,USA,Student,01 Jan 1984
+396,160506754,"Andrew, Ranan",M,USA,Self Employed,28 Apr 2004
+397,160506756,"Andrew, Senis",M,USA,Subsistence Farmer,03 Dec 1999
+398,160506759,"Andrew, Steven",M,USA,Policeman,19 Feb 1993
+399,160366968,"Ape, Greg",M,USA,Subsistence Farmer,01 Jan 1979
+400,160366606,"Ape, Moses",M,USA,Driver,01 Jan 1984
+401,160366964,"Ape, Sayson",M,USA,Teacher,01 Jan 1985
+402,160366262,"Ape, Wakia",M,USA,Subsistence Farmer,01 Jan 1978
+403,160399264,"Apuda, Dilicks",M,USA,Subsistence Farmer,01 Jan 1970
+404,160398884,"Apuda, Porapai",M,USA,Household Duties,01 Jan 1944
+405,160397964,"Apunda, Mark",M,USA,Subsistence Farmer,20 Sep 1977
+406,160370091,"Aria, Tami",M,USA,Subsistence Farmer,01 Jan 1980
+407,160398396,"Aru, Yasa",M,USA,Subsistence Farmer,01 Jan 1962
+408,160399429,"Bala, Daniel",M,USA,Student,02 Jan 1988
+409,160399232,"Bala, Komea",M,USA,Subsistence Farmer,03 Dec 1984
+410,160366271,"Bale, Greg",M,USA,Subsistence Farmer,01 Jan 1980
+411,160366971,"Bale, Johns",M,USA,Student,01 Jan 1984
+412,160366622,"Ben, Junior",M,USA,Student,01 Jan 1990
+413,160385540,"Berapu, Benny",M,USA,Student,16 May 1988
+414,160387001,"Berapu, Kenny",M,USA,Student,13 Feb 1994
+415,160379858,"Berry, Breddon",M,USA,Driver,12 Jan 1980
+416,160379952,"Berry, Jeffery",M,USA,Student,12 Sep 1983
+417,160399327,"Boso, Kagu",M,USA,Driver,20 Apr 1966
+418,160399355,"Boso, Kuta",M,USA,Subsistence Farmer,01 Jan 1983
+419,160399897,"Boso, Nakisi",M,USA,Subsistence Farmer,15 Aug 1976
+420,160399895,"Boso, Rulu",M,USA,Subsistence Farmer,15 Sep 1968
+421,160384332,"Brus, George",M,USA,Student,11 Mar 1991
+422,160387005,"Brus, Yamex",M,USA,Student,10 Nov 1993
+423,160369880,"Buka rali, Solomon",M,USA,Student,01 Jan 1992
+424,160379887,"David, Haipenson",M,USA,Houseboy,01 Jan 1983
+425,160383296,"David, Jully",M,USA,Household Duties,10 Oct 1978
+426,160499223,"David, Somi",M,USA,Student,01 Jan 2000
+427,160293890,"Dickson, Jules",M,USA,Student,03 Jan 1997
+428,160294081,"Dii, Pepe",M,USA,Sales Women,28 Jul 1965
+429,160294255,"Eka, Ipuna",M,USA,Not Specified,03 Apr 1940
+430,160294256,"Eka, Subili",M,USA,Sales Women,05 Feb 1940
+431,160506763,"Eka yomo, Six",M,USA,Teacher,16 Jun 1985
+432,160399905,"Epa, James",M,USA,Evangelist,18 Apr 1968
+433,160367372,"Epa, Jerfet",M,USA,Subsistence Farmer,01 Jan 1956
+434,160367371,"Epa, Jossofat",M,USA,Subsistence Farmer,01 Jan 1946
+435,160367449,"Epa, Yari",M,USA,Student,01 Jan 1990
+436,160398069,"Ferman, Bata",M,USA,Student,28 Dec 1989
+437,160499230,"Golhee, Augustine",M,USA,Student,15 Feb 1999
+438,160499231,"Golhee, Malakai",M,USA,Subsistence Farmer,21 Sep 1996
+439,160499233,"Golhee, Surumba",M,USA,Student,01 Jan 2002
+440,160366252,"Hosman, Ralama",M,USA,Student,01 Jan 1983
+441,160398879,"Inesi, Mark",M,USA,Student,01 Jan 1980
+442,160398878,"Inesi, Samuel",M,USA,Student,01 Jan 1976
+443,160499238,"Ipuna, Embel",M,USA,Student,23 Apr 1998
+444,160499239,"Ipuna, Embel",M,USA,Student,01 Jan 1998
+445,160294258,"Ipuna, Jacob",M,USA,Sales Women,10 Aug 1987
+446,160285003,"Ipuna, Jacob",M,USA,Student,01 Jan 1989
+447,160506775,"Ipuna, Jonathan",M,USA,Student,01 Apr 2000
+448,160431016,"Ipuna, Liuai",M,USA,Sales Women,03 Nov 1989
+449,160431015,"Ipuna, Manda",M,USA,Sales Women,30 Nov 1985
+450,160285004,"Ipuna, Manda",M,USA,Student,01 Jan 1986
+451,160499242,"Ipuna, Paul",M,USA,Subsistence Farmer,17 Apr 1990
+452,160506778,"Ipuna, Rendepo",M,USA,Student,03 Feb 2000
+453,160499243,"Ipuna, Simion",M,USA,Student,14 Mar 2000
+454,160285005,"Ipuna, Yako",M,USA,Student,01 Jan 1987
+455,160506781,"Iralu, Andy",M,USA,Student,05 Jun 2000
+456,160399804,"Iralu, Manuel",M,USA,Student,01 Jan 1987
+457,160293821,"Iralu, Martin",M,USA,Sales Women,15 Dec 1983
+458,160506789,"Iralu, Oxcely",M,USA,Student,01 Jan 2003
+459,160506792,"Iralu, Rala",M,USA,Student,01 Feb 2002
+460,160506796,"Iralu, Rendepo",M,USA,Student,01 Jan 2001
+461,160399799,"Iralu, Sarupa",M,USA,Subsistence Farmer,01 Jan 1972
+462,160506800,"Iralu, Sima",M,USA,Student,06 Jan 2000
+463,160293822,"Iralu, Thomas",M,USA,Sales Women,11 Dec 1980
+464,160399849,"Iralu, Tonny",M,USA,Student,01 Jan 1982
+465,160506803,"Iralu, Wali",M,USA,Student,02 Feb 2000
+466,160506807,"Iralu, Waria",M,USA,Student,06 Jun 2000
+467,160294265,"Irigu, Daniel",M,USA,Sales Women,01 May 1977
+468,160431022,"Irugu, Alton",M,USA,Sales Women,17 Mar 1983
+469,160285007,"Irugu, Alupa",M,USA,Subsistence Farmer,01 Jan 1967
+470,160285008,"Irugu, Awa",M,USA,Subsistence Farmer,01 Jan 1968
+471,160285009,"Irugu, Daniel",M,USA,Subsistence Farmer,01 Jan 1969
+472,160285010,"Irugu, Lagiape",M,USA,Student,08 Sep 1990
+473,160294266,"Irugu, Rasta",M,USA,Sales Women,11 Aug 1980
+474,160285013,"Irugu, Undipa",M,USA,Subsistence Farmer,01 Jan 1970
+475,160367422,"James, Mando",M,USA,Subsistence Farmer,01 Jan 1986
+476,160398367,"James, Mata",M,USA,Subsistence Farmer,07 Feb 1966
+477,160366950,"James, Pakena",M,USA,Subsistence Farmer,01 Jan 1969
+478,160366949,"James, Tape",M,USA,Subsistence Farmer,01 Jan 1976
+479,160398076,"Jeffrey, Abraham",M,USA,Student,28 Mar 1989
+480,160398067,"Jeffrey, Lakepea",M,USA,Student,21 Oct 1982
+481,160398075,"Jeffrey, Samuel",M,USA,Student,01 Jan 1990
+482,160285024,"Jim, Jimma",M,USA,Sales Women,05 Feb 1991
+483,160285028,"Jim, Waiene",M,USA,Student,01 Jan 1988
+484,160285029,"Jim, William",M,USA,Student,01 Jan 1986
+485,160294252,"Jkuku, Japedy",M,USA,Sales Women,02 Jun 1998
+486,160294063,"Jkuku, Jaykay",M,USA,Student,02 Apr 1999
+487,160294061,"Jkuku, Philicks",M,USA,Student,03 Mar 1997
+488,160378004,"John, Gilbert",M,USA,Subsistence Farmer,01 Jan 1988
+489,160379281,"John, Heni",M,USA,Houseboy,01 Jan 1987
+490,160499251,"Jordick, Brian",M,USA,Student,14 Sep 2000
+491,160499253,"Jumamun, Bullyboy",M,USA,Subsistence Farmer,16 Apr 1995
+492,160379285,"Kabali, Emos",M,USA,Houseboy,01 Jan 1989
+493,160379864,"Kabali, Joshua",M,USA,Subsistence Farmer,01 Jan 1986
+494,160379865,"Kabali, Manuel",M,USA,Houseboy,01 Jan 1994
+495,160431023,"Kabita, Naki",M,USA,Sales Women,08 Oct 1940
+496,160366612,"Kadekade, Semi",M,USA,Subsistence Farmer,01 Jan 1977
+497,160366611,"Kadekade, Vincent",M,USA,Teacher,01 Jan 1976
+498,160399498,"Kago, Dun",M,USA,Subsistence Farmer,17 Dec 1975
+499,160399495,"Kago, Jim",M,USA,Security,19 Sep 1970
+500,160399500,"Kago, Rana",M,USA,Security,01 Jan 1978
+501,160381808,"Kagu, Jayson",M,USA,Student,01 Jan 1993
+502,160499254,"Kalando, Andy",M,USA,Subsistence Farmer,01 Jan 1992
+503,160499255,"Kalando, David",M,USA,Subsistence Farmer,01 Jan 1971
+504,160499257,"Kalando, Robert",M,USA,Subsistence Farmer,01 Jan 1999
+505,160294253,"Kate, Lote",M,USA,Sales Women,05 Sep 1935
+506,160398390,"Kennet, Andita",M,USA,Student,01 Jan 1984
+507,160380410,"Kenneth, Era",M,USA,Student,10 Oct 1990
+508,160399447,"Kenoa, Isacc",M,USA,Subsistence Farmer,13 May 1987
+509,160399339,"Kenoa, Kamaka",M,USA,Security,01 Jan 1976
+510,160399443,"Kenoa, Mark",M,USA,Security,01 Jan 1976
+511,160399914,"Kenoa, Megere",M,USA,Driver,01 Jan 1978
+512,160399916,"Kenoa, Papora",M,USA,Subsistence Farmer,01 Jan 1978
+513,160399789,"Kenoa, Pawa",M,USA,Student,01 Jan 1980
+514,160399365,"Kenoa, Turi",M,USA,Subsistence Farmer,15 Nov 1969
+515,160366963,"Kete, Allen",M,USA,Student,01 Jan 1985
+516,160374671,"Kete, Sotie",M,USA,Student,01 Jan 1988
+517,160366267,"Kevien, Stiward",M,USA,Student,01 Jan 1985
+518,160399237,"Kirapeasi, Paul",M,USA,Student,05 Nov 1986
+519,160399430,"Kirapeasi, Topten",M,USA,Student,17 Jul 1984
+520,160380336,"Komberea, Dia",M,USA,Subsistence Farmer,01 Jan 1970
+521,160399363,"Komberea, Kenoa",M,USA,Subsistence Farmer,01 Jan 1952
+522,160379889,"Komberea, Vincent",M,USA,Student,01 Jan 1989
+523,160293893,"Komea, Josh",M,USA,Sales Women,02 Nov 1998
+524,160506832,"Konia, Pitz",M,USA,Student,28 Apr 2004
+525,160499261,"Kotapu, Raymond",M,USA,Student,30 Dec 2003
+526,160397992,"Lakiyawa, Logo",M,USA,Policeman,01 Oct 1954
+527,160400958,"Lakiyawa, Maderepa",M,USA,Subsistence Farmer,01 Jan 1954
+528,160367358,"Limu, Samson",M,USA,Student,01 Jan 1992
+529,160399422,"Logo, Ansen",M,USA,Subsistence Farmer,04 May 1977
+530,160499263,"Loke, Eskimo",M,USA,Driver,26 Apr 2004
+531,160400398,"Loke, Ipisa",M,USA,Student,01 Jan 1981
+532,160499264,"Loke, Yapi",M,USA,Subsistence Farmer,07 Sep 1998
+533,160383297,"Loko, Elvis",M,USA,Student,06 Jul 1980
+534,160384328,"Loko, Willy",M,USA,Subsistence Farmer,12 Apr 1979
+535,160284896,"Lope, Epo",M,USA,Student,03 May 1989
+536,160431018,"Lope, Mathew",M,USA,Sales Women,10 Feb 1985
+537,160284898,"Lope, Mathew wando",M,USA,Subsistence Farmer,01 Jan 1980
+538,160431019,"Lope, Philimon",M,USA,Sales Women,14 Mar 1985
+539,160284899,"Lope, Raita",M,USA,Student,07 Jul 1988
+540,160285051,"Lope, Robbin",M,USA,Student,05 Oct 1990
+541,160294260,"Lope, Robin",M,USA,Sales Women,03 Nov 1983
+542,160293884,"Lope, Soli",M,USA,Sales Women,16 May 1981
+543,160294261,"Lope, Tale",M,USA,Sales Women,14 Nov 1987
+544,160285053,"Lora, Malupa",M,USA,Houseboy,06 Feb 1980
+545,160294254,"Lote, Erick",M,USA,Sales Women,15 Jul 1983
+546,160294065,"Lote, Jacob",M,USA,Sales Women,27 Feb 1981
+547,160431013,"Lote, Suminae",M,USA,Sales Women,19 Feb 1985
+548,160431014,"Lote, Wesakado",M,USA,Sales Women,11 Nov 1988
+549,160399893,"Lubi, Boso",M,USA,Subsistence Farmer,06 Apr 1931
+550,160367415,"Madlena, Rete",M,USA,Subsistence Farmer,01 Jan 1978
+551,160366620,"Magani, Ben",M,USA,Doctor,01 Jan 1978
+552,160397695,"Mali, Bob",M,USA,Subsistence Farmer,01 Jan 1965
+553,160397996,"Malipu, Pasalo",M,USA,Subsistence Farmer,01 Dec 1935
+554,160399504,"Malu, Limu",M,USA,Student,16 May 1985
+555,160398001,"Managia, Ape",M,USA,Subsistence Farmer,10 Apr 1961
+556,160366260,"Managia, Paul",M,USA,Subsistence Farmer,01 Jan 1976
+557,160506846,"Manda, Ismael",M,USA,Student,28 Apr 2004
+558,160506850,"Manda, Iso",M,USA,Student,01 Jul 2000
+559,160366598,"Mapuna, Kombea",M,USA,Student,01 Jan 1990
+560,160366597,"Mapuna, Nana",M,USA,Salesman,01 Jan 1989
+561,160366978,"Mapuna, Rati",M,USA,Student,01 Jan 1991
+562,160399455,"Mara, Kadipia",M,USA,Security,16 Dec 1978
+563,160399793,"Mara, Kigi",M,USA,Subsistence Farmer,01 Jan 1964
+564,160399835,"Mara, Paiala",M,USA,Subsistence Farmer,01 Jan 1974
+565,160399423,"Mark, Eric",M,USA,Student,07 Mar 1988
+566,160379366,"Mark, Eron",M,USA,Student,01 Jan 1991
+567,160379380,"Mark, Henry",M,USA,Student,01 Jan 1989
+568,160379367,"Mark, Sorom",M,USA,Student,01 Jan 1994
+569,160499267,"Maron, Alo",M,USA,Student,01 Jan 1999
+570,160431348,"Maron, Fidlis",M,USA,Salesman,23 Aug 1981
+571,160293891,"Maron, Junior",M,USA,Sales Women,20 Mar 1998
+572,160294037,"Maron, Tonny",M,USA,Sales Women,15 Oct 1996
+573,160366276,"Mata, Ape",M,USA,Subsistence Farmer,01 Jan 1966
+574,160385546,"Max, Ameyaki",M,USA,Student,29 Mar 1994
+575,160386508,"Max, Naithan",M,USA,Student,28 Mar 1993
+576,160506871,"Mendapua, Damian",M,USA,Student,02 Jun 2000
+577,160398002,"Muta, James",M,USA,Subsistence Farmer,10 Jun 1952
+578,160294078,"Naki, Soty",M,USA,Sales Women,28 Mar 1987
+579,160293872,"Nande, Willson",M,USA,Sales Women,11 Oct 1997
+580,160366615,"Nandepa, Rapula",M,USA,Subsistence Farmer,01 Jan 1983
+581,160366601,"Nandepa, Tonny",M,USA,Student,01 Jan 1994
+582,160397844,"Nandoma, Moxcy",M,USA,Student,01 Jan 1985
+583,160397843,"Nandomo, Smith",M,USA,Teacher,01 Jan 1966
+584,160431012,"Napian, Liuai",M,USA,Sales Women,02 Nov 1997
+585,160397853,"Naya, Kanboat",M,USA,Subsistence Farmer,01 Jan 1940
+586,160397990,"Naya, Nelson",M,USA,Student,01 Jan 1981
+587,160398025,"Naya, Pentony",M,USA,Student,01 Jan 2000
+588,160366956,"Nemaiya, Ralama",M,USA,Student,01 Jan 1989
+589,160397949,"Nepe, Rea",M,USA,Subsistence Farmer,01 Jan 1985
+590,160398015,"Nepe, Yole",M,USA,Subsistence Farmer,01 Jan 1986
+591,160431027,"Nepi, Joel",M,USA,Student,12 Dec 1985
+592,160398393,"Ondo, Joseph",M,USA,Subsistence Farmer,01 Jan 1977
+593,160398380,"Ondo, Kennet",M,USA,Subsistence Farmer,01 Jan 1945
+594,160399501,"Ondo, Sawande",M,USA,Worker,19 Nov 1964
+595,160398718,"Orena, Pilai",M,USA,Subsistence Farmer,01 Jan 1966
+596,160367417,"Pakene, Jim",M,USA,Student,01 Jan 1984
+597,160366270,"Pale, Greg",M,USA,Student,01 Jan 1988
+598,160366608,"Pale, Sami",M,USA,Student,01 Jan 1988
+599,160366265,"Pale, Zerethy",M,USA,Houseboy,01 Jan 1988
+600,160367420,"Papu, Jayson",M,USA,Subsistence Farmer,01 Jan 1965
+601,160366980,"Papu, Peter king",M,USA,Subsistence Farmer,01 Jan 1980
+602,160397968,"Pasalo, Kuta",M,USA,Gardener,06 Sep 1984
+603,160294036,"Pasalo, Nepi",M,USA,Not Specified,02 May 1963
+604,160397967,"Pasalo, Rati",M,USA,Gardener,05 Feb 1976
+605,160397999,"Pasalo, Rondo",M,USA,Gardener,06 Aug 1979
+606,160366259,"Paul, Luke",M,USA,Student,01 Jan 1986
+607,160366251,"Paul, Picipai",M,USA,Houseboy,01 Jan 1993
+608,160398072,"Perea, Epape",M,USA,Subsistence Farmer,27 Apr 1979
+609,160364070,"Peter, Justin",M,USA,Student,01 Jan 1994
+610,160399238,"Peter, Wareame",M,USA,Household Duties,21 Nov 1971
+611,160398019,"Petrick, Luwis",M,USA,Student,01 Jan 1988
+612,160398018,"Petrick, Mack",M,USA,Student,01 Jan 1981
+613,160398017,"Petrick, Mathew",M,USA,Student,01 Jan 1989
+614,160397956,"Petrick, Tosiba",M,USA,Student,01 Jan 1984
+615,160294077,"Philip, Keven",M,USA,Sales Women,03 Sep 1986
+616,160366603,"Pilai, Ekerepa",M,USA,Subsistence Farmer,01 Jan 1985
+617,160398720,"Pilai, Ekerepasi",M,USA,Subsistence Farmer,01 Jan 1978
+618,160398719,"Pilai, Kina",M,USA,Household Duties,01 Jan 1968
+619,160431026,"Pirape, Benny",M,USA,Driver,11 Nov 1980
+620,160398949,"Pita, Yapua",M,USA,Not Specified,01 Mar 1900
+621,160506903,"Polopea, Kema",M,USA,Subsistence Farmer,12 Oct 1993
+622,160397848,"Pombosi, Petrick",M,USA,Pastor,01 Jan 1964
+623,160400406,"Pondo, Palus",M,USA,Student,01 Jan 1987
+624,160402109,"Pondo, Ruben",M,USA,Student,01 Jan 1981
+625,160294031,"Punua, Maron",M,USA,Sales Women,17 Sep 1956
+626,160431011,"Rakupae, Napian",M,USA,Teacher,10 Feb 1980
+627,160399260,"Rakupai, Apuda",M,USA,Subsistence Farmer,01 Jan 1939
+628,160499275,"Rakupai, Maxton",M,USA,Subsistence Farmer,14 May 1997
+629,160397774,"Ralama, Bean",M,USA,Teacher,01 Jan 1963
+630,160366257,"Ralama, Kennedy",M,USA,Student,01 Jan 1986
+631,160397834,"Ralama, Kete",M,USA,Subsistence Farmer,01 Jan 1962
+632,160397832,"Ralama, Kevien",M,USA,Magistrate,01 Jan 1970
+633,160397833,"Ralama, Paul",M,USA,Subsistence Farmer,01 Jan 1964
+634,160397835,"Ralama, Peter",M,USA,Subsistence Farmer,01 Jan 1980
+635,160397773,"Ralama, Walea",M,USA,Subsistence Farmer,01 Jan 1961
+636,160399900,"Rali, Buka",M,USA,Subsistence Farmer,01 Jan 1967
+637,160399332,"Rali, Ruben",M,USA,Student,01 Jan 1987
+638,160398874,"Ramani, David",M,USA,Student,01 Jan 1982
+639,160399254,"Ramani, Nadepa",M,USA,Subsistence Farmer,01 Jan 1959
+640,160399361,"Randala, Bob",M,USA,Subsistence Farmer,16 Jul 1972
+641,160399362,"Randala, Jerry",M,USA,Subsistence Farmer,01 Jan 1974
+642,160399908,"Randala, Yala",M,USA,Worker,01 Jan 1966
+643,160367434,"Rati, Junior",M,USA,Subsistence Farmer,01 Jan 1991
+644,160499277,"Ratu, Diaya",M,USA,Subsistence Farmer,01 Jan 1990
+645,160499278,"Ratu, Felix",M,USA,Driver,01 Jan 1994
+646,160499279,"Ratu, Jeremiah",M,USA,Subsistence Farmer,01 Jan 1986
+647,160398870,"Rege, Rex",M,USA,Subsistence Farmer,01 Jan 1970
+648,160399428,"Remosi, Bala",M,USA,Subsistence Farmer,02 Sep 1968
+649,160398920,"Remosi, Danny",M,USA,Student,19 Aug 1981
+650,160399427,"Remosi, Eki",M,USA,Subsistence Farmer,24 Jun 1983
+651,160398899,"Remosi, John randa",M,USA,Subsistence Farmer,13 Jul 1989
+652,160398900,"Remosi, Lukas",M,USA,Subsistence Farmer,25 Oct 1973
+653,160399426,"Remosi, Rolan",M,USA,Pastor,11 Nov 1988
+654,160399425,"Remosi, Samuel",M,USA,Security,15 Dec 1975
+655,160398890,"Rex, Anton",M,USA,Student,01 Jan 1987
+656,160399259,"Rex, Berry",M,USA,Student,01 Jan 1984
+657,160398887,"Rex, Henerry",M,USA,Student,01 Jan 1979
+658,160398881,"Rex, Nathan",M,USA,Student,01 Jan 1979
+659,160398889,"Rex, William",M,USA,Student,01 Jan 1984
+660,160397957,"Rigena, Warea",M,USA,Subsistence Farmer,01 Jan 1971
+661,160499283,"Rikina, Haron",M,USA,Student,29 Dec 1999
+662,160499284,"Rikina, Hayson",M,USA,Student,03 Jun 1998
+663,160499285,"Rikina, Kelda",M,USA,Student,28 Apr 2002
+664,160499286,"Rikina, Raymond",M,USA,Teacher,14 Jul 1995
+665,160397962,"Rim, Kawi",M,USA,Driver,06 Jan 1970
+666,160401129,"Rim, Vincent",M,USA,Councillor,15 Feb 1968
+667,160397965,"Rina, Ame",M,USA,Gardener,10 Mar 1974
+668,160499289,"Robert, Junior",M,USA,Student,01 Jan 2000
+669,160386999,"Robert, Lae ben",M,USA,Student,04 May 1994
+670,160385539,"Robert, Lemeck",M,USA,Student,12 Mar 1993
+671,160397847,"Rogo, Biru",M,USA,Subsistence Farmer,01 Jan 1940
+672,160397946,"Rogo, Nepe",M,USA,Subsistence Farmer,01 Jan 1940
+673,160397952,"Rogo, Pombosi",M,USA,Subsistence Farmer,01 Jan 1937
+674,160397850,"Rogo, Yalasi",M,USA,Subsistence Farmer,01 Jan 1931
+675,160401134,"Rogo, Yomagae",M,USA,Subsistence Farmer,01 Jan 1945
+676,160377993,"Roland, Denny",M,USA,Student,01 Jan 1993
+677,160377992,"Roland, Joseph",M,USA,Student,01 Jan 1989
+678,160400395,"Romo, Loke",M,USA,Subsistence Farmer,01 Jan 1949
+679,160499292,"Romo, Nelson",M,USA,Nurse,23 Aug 1986
+680,160400404,"Romo, Pondo",M,USA,Subsistence Farmer,01 Jan 1949
+681,160401729,"Ropa, Loame",M,USA,Subsistence Farmer,01 Jan 1985
+682,160401731,"Ropa, Max",M,USA,Student,01 Jan 1989
+683,160399979,"Ropa, Niana",M,USA,Student,01 Jan 1984
+684,160499293,"Ropa, Open",M,USA,Subsistence Farmer,01 Jan 1996
+685,160499294,"Ropa, Samuel",M,USA,Subsistence Farmer,20 Feb 1994
+686,160499295,"Ropa, Solomon",M,USA,Student,25 Apr 2003
+687,160379857,"Ropasi, Berry",M,USA,Doctor,19 Mar 1972
+688,160380411,"Ropasi, Timothy",M,USA,Subsistence Farmer,01 Jan 1954
+689,160499296,"Ruben, Rodney",M,USA,Student,27 Sep 2003
+690,160372212,"Rulu, Christopher",M,USA,Student,01 Jan 1990
+691,160499299,"Sama, Wilson",M,USA,Subsistence Farmer,01 Jan 1997
+692,160399252,"Samon, Max",M,USA,Student,01 Jan 1986
+693,160506908,"Sarupa, Alo",M,USA,Student,06 Dec 2000
+694,160398028,"Sasin, Pala",M,USA,Student,03 Jun 1982
+695,160398030,"Sasin, Puawe",M,USA,Gardener,12 Aug 1978
+696,160366273,"Sasin, Rickson",M,USA,Driver,01 Jan 1977
+697,160367414,"Sasin, Yaki",M,USA,Student,01 Jan 1993
+698,160386131,"Sawande, Fobian",M,USA,Student,10 Nov 1991
+699,160386133,"Sawande, Pakea",M,USA,Student,08 Feb 1994
+700,160367367,"Siki, George",M,USA,Subsistence Farmer,01 Jan 1969
+701,160400948,"Simon, Bill",M,USA,Student,16 Jul 1990
+702,160400949,"Simon, David",M,USA,Subsistence Farmer,01 Jan 1980
+703,160399832,"Simon, Francis",M,USA,Subsistence Farmer,01 Jan 1987
+704,160379161,"Simon, Mathias",M,USA,Student,01 Jan 1988
+705,160364809,"Stanley, Andrew",M,USA,Driver,01 Jan 1980
+706,160364808,"Stanley, Ira",M,USA,Driver,01 Jan 1978
+707,160364071,"Stanley, Jonnathan",M,USA,Student,01 Jan 1985
+708,160364052,"Stanley, Willson",M,USA,Student,01 Jan 1990
+709,160369885,"Stephen, Nandea",M,USA,Student,01 Jan 1993
+710,160499300,"Sumbili, Fobian",M,USA,Student,24 Feb 1982
+711,160499301,"Sumbili, Kotapu",M,USA,Subsistence Farmer,10 Jul 1980
+712,160499303,"Sumbili, Norman",M,USA,Subsistence Farmer,03 Mar 1989
+713,160506920,"Sumbli, Senis",M,USA,Student,01 Sep 2000
+714,160367450,"Tami, Nickless",M,USA,Subsistence Farmer,01 Jan 1986
+715,160293871,"Tapa, Gibson",M,USA,Sales Women,14 Apr 1978
+716,160397846,"Tapa, Jacob",M,USA,Forest Officer,01 Jan 1977
+717,160398013,"Tapa, Jesly",M,USA,Student,01 Jan 1984
+718,160431346,"Tapa, Juda",M,USA,Sales Women,15 Jan 1976
+719,160293633,"Tapa, Natian",M,USA,Not Specified,04 Dec 1985
+720,160294032,"Tapa, Nick",M,USA,Sales Women,12 Nov 1986
+721,160397944,"Tapa, Orape",M,USA,Subsistence Farmer,01 Jan 1958
+722,160398012,"Tapa, Peter",M,USA,Student,01 Jan 1984
+723,160397845,"Tapa, Wesly",M,USA,Subsistence Farmer,01 Jan 1975
+724,160506927,"Thomas, Ogie",M,USA,Student,01 Jun 2000
+725,160385547,"Tim, Jasua",M,USA,Student,10 Nov 1991
+726,160386518,"Tim, Johnson",M,USA,Student,18 Aug 1994
+727,160379861,"Timothy, Ati",M,USA,Houseboy,01 Jan 1984
+728,160379860,"Timothy, Lenneth",M,USA,Subsistence Farmer,01 Jan 1982
+729,160380339,"Turi, Calfer",M,USA,Houseboy,01 Jan 1984
+730,160379856,"Turi, Ismael",M,USA,Houseboy,01 Jan 1994
+731,160294034,"Umba, Tobias",M,USA,Sales Women,10 Nov 1982
+732,160506931,"Viki, George",M,USA,Student,01 Feb 2000
+733,160506933,"Wabi, Ranamo",M,USA,Farm worker,12 Jun 1985
+734,160400388,"Wape, Ame",M,USA,Subsistence Farmer,01 Jan 1974
+735,160398376,"Wape, Kama",M,USA,Salesman,01 Jan 1964
+736,160400390,"Wape, Kone",M,USA,Nurse,01 Jan 1984
+737,160398377,"Wape, Waria",M,USA,Manager,26 Jan 1970
+738,160397958,"Warea, Roman",M,USA,Student,01 Jan 1986
+739,160398024,"Yalasi, James",M,USA,Student,01 Jan 1981
+740,160397851,"Yalasi, Petrus",M,USA,Subsistence Farmer,01 Jan 1974
+741,160400381,"Yama, Isu",M,USA,Subsistence Farmer,01 Jan 1985
+742,160499307,"Yama, Kuta",M,USA,Subsistence Farmer,12 Jul 1998
+743,160401963,"Yama, Loame",M,USA,Subsistence Farmer,01 Jan 1956
+744,160499308,"Yama, Philimon",M,USA,Student,10 Nov 1999
+745,160294033,"Yama, Robin",M,USA,Sales Women,15 Apr 1996
+746,160499309,"Yama, Warea",M,USA,Subsistence Farmer,01 Jan 1996
+747,160397963,"Yamisa, Kadekade",M,USA,Subsistence Farmer,07 Aug 1960
+748,160379164,"Yano, Daniel",M,USA,Electrician,01 Jan 1973
+749,160398403,"Yano, Domnic",M,USA,Electrician,01 Jan 1974
+750,160399250,"Yano, Samon",M,USA,Pastor,01 Jan 1962
+751,160390766,"Yapua, Abram",M,USA,Subsistence Farmer,14 Feb 1990
+752,160390769,"Yapua, Esakiel",M,USA,Student,04 Sep 1994
+753,160399234,"Yapua, Kirapeasi",M,USA,Councillor,29 Oct 1961
+754,160399240,"Yapua, Max",M,USA,Pastor,01 Jan 1969
+755,160398950,"Yapua, Peter",M,USA,Church Worker,02 Dec 1969
+756,160399287,"Yapua, Robert",M,USA,Subsistence Farmer,01 Jan 1974
+757,160399487,"Yapua, Tim",M,USA,Bricklayer,20 Mar 1969
+758,160399248,"Yasa, Samuel",M,USA,Student,01 Jan 1986
+759,160401976,"Yasi, Anderson",M,USA,Student,01 Jan 1981
+760,160400394,"Yasi, Jeffry",M,USA,Student,01 Jan 1986
+761,160399807,"Yomagae, Agi",M,USA,Subsistence Farmer,01 Jan 1971
+762,160401140,"Yomagae, Samon",M,USA,Student,01 Jan 1974
+763,160283648,"Yomo, Marthin",M,USA,Teacher,01 Jan 1975
+764,160283650,"Yomo, Robert",M,USA,Student,01 Jan 1982

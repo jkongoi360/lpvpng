@@ -1,0 +1,429 @@
+{
+  "provinceId": "hela",
+  "electorates": [
+    {
+      "electorateSlug": "tari-pori",
+      "llgs": [
+        {
+          "id": "tari-pori-tari-urban",
+          "name": "Tari Urban LLG",
+          "electorateSlug": "tari-pori",
+          "wards": [
+            {
+              "id": "tari-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 5285
+            },
+            {
+              "id": "tari-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3943
+            },
+            {
+              "id": "tari-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 6031
+            }
+          ]
+        },
+        {
+          "id": "tari-pori-tari-rural",
+          "name": "Tari Rural LLG",
+          "electorateSlug": "tari-pori",
+          "wards": [
+            {
+              "id": "tari-rural-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2795
+            },
+            {
+              "id": "tari-rural-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4311
+            },
+            {
+              "id": "tari-rural-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2204
+            },
+            {
+              "id": "tari-rural-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2355
+            },
+            {
+              "id": "tari-rural-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3580
+            }
+          ]
+        },
+        {
+          "id": "tari-pori-pori",
+          "name": "Pori LLG",
+          "electorateSlug": "tari-pori",
+          "wards": [
+            {
+              "id": "pori-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1743
+            },
+            {
+              "id": "pori-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1180
+            },
+            {
+              "id": "pori-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1452
+            },
+            {
+              "id": "pori-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2164
+            },
+            {
+              "id": "pori-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2769
+            },
+            {
+              "id": "pori-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1564
+            },
+            {
+              "id": "pori-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1671
+            },
+            {
+              "id": "pori-w08",
+              "name": "Ward 8",
+              "registeredVoters": 2783
+            }
+          ]
+        },
+        {
+          "id": "tari-pori-tagali",
+          "name": "Tagali LLG",
+          "electorateSlug": "tari-pori",
+          "wards": [
+            {
+              "id": "tagali-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2620
+            },
+            {
+              "id": "tagali-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2969
+            },
+            {
+              "id": "tagali-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2907
+            },
+            {
+              "id": "tagali-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2290
+            },
+            {
+              "id": "tagali-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1310
+            },
+            {
+              "id": "tagali-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2570
+            }
+          ]
+        },
+        {
+          "id": "tari-pori-hayapuga",
+          "name": "Hayapuga LLG",
+          "electorateSlug": "tari-pori",
+          "wards": [
+            {
+              "id": "hayapuga-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3541
+            },
+            {
+              "id": "hayapuga-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4952
+            },
+            {
+              "id": "hayapuga-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2254
+            },
+            {
+              "id": "hayapuga-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3713
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "koroba-kopiago",
+      "llgs": [
+        {
+          "id": "koroba-kopiago-koroba",
+          "name": "Koroba LLG",
+          "electorateSlug": "koroba-kopiago",
+          "wards": [
+            {
+              "id": "koroba-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2813
+            },
+            {
+              "id": "koroba-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2800
+            },
+            {
+              "id": "koroba-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4863
+            },
+            {
+              "id": "koroba-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2906
+            }
+          ]
+        },
+        {
+          "id": "koroba-kopiago-kopiago",
+          "name": "Kopiago LLG",
+          "electorateSlug": "koroba-kopiago",
+          "wards": [
+            {
+              "id": "kopiago-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3107
+            },
+            {
+              "id": "kopiago-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3657
+            },
+            {
+              "id": "kopiago-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2896
+            },
+            {
+              "id": "kopiago-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2100
+            },
+            {
+              "id": "kopiago-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2734
+            },
+            {
+              "id": "kopiago-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2314
+            }
+          ]
+        },
+        {
+          "id": "koroba-kopiago-haiuwi",
+          "name": "Haiuwi LLG",
+          "electorateSlug": "koroba-kopiago",
+          "wards": [
+            {
+              "id": "haiuwi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1360
+            },
+            {
+              "id": "haiuwi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1754
+            },
+            {
+              "id": "haiuwi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1139
+            },
+            {
+              "id": "haiuwi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1717
+            },
+            {
+              "id": "haiuwi-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1481
+            },
+            {
+              "id": "haiuwi-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1098
+            },
+            {
+              "id": "haiuwi-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1013
+            },
+            {
+              "id": "haiuwi-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1899
+            },
+            {
+              "id": "haiuwi-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1794
+            },
+            {
+              "id": "haiuwi-w10",
+              "name": "Ward 10",
+              "registeredVoters": 814
+            }
+          ]
+        },
+        {
+          "id": "koroba-kopiago-paiela",
+          "name": "Paiela LLG",
+          "electorateSlug": "koroba-kopiago",
+          "wards": [
+            {
+              "id": "paiela-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3036
+            },
+            {
+              "id": "paiela-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1732
+            },
+            {
+              "id": "paiela-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2158
+            },
+            {
+              "id": "paiela-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2401
+            },
+            {
+              "id": "paiela-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1820
+            },
+            {
+              "id": "paiela-w06",
+              "name": "Ward 6",
+              "registeredVoters": 3578
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "komo-margarima",
+      "llgs": [
+        {
+          "id": "komo-margarima-komo",
+          "name": "Komo LLG",
+          "electorateSlug": "komo-margarima",
+          "wards": [
+            {
+              "id": "komo-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2781
+            },
+            {
+              "id": "komo-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3417
+            },
+            {
+              "id": "komo-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2261
+            },
+            {
+              "id": "komo-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2552
+            },
+            {
+              "id": "komo-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3480
+            },
+            {
+              "id": "komo-w06",
+              "name": "Ward 6",
+              "registeredVoters": 4114
+            }
+          ]
+        },
+        {
+          "id": "komo-margarima-margarima",
+          "name": "Margarima LLG",
+          "electorateSlug": "komo-margarima",
+          "wards": [
+            {
+              "id": "margarima-w01",
+              "name": "Ward 1",
+              "registeredVoters": 6233
+            },
+            {
+              "id": "margarima-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4116
+            },
+            {
+              "id": "margarima-w03",
+              "name": "Ward 3",
+              "registeredVoters": 5672
+            }
+          ]
+        },
+        {
+          "id": "komo-margarima-north-komo",
+          "name": "North Komo LLG",
+          "electorateSlug": "komo-margarima",
+          "wards": [
+            {
+              "id": "north-komo-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4711
+            },
+            {
+              "id": "north-komo-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4482
+            },
+            {
+              "id": "north-komo-w03",
+              "name": "Ward 3",
+              "registeredVoters": 5013
+            },
+            {
+              "id": "north-komo-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2328
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

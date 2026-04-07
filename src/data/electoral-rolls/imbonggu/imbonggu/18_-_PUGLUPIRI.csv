@@ -1,0 +1,347 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160250061,"Anda, Grace",F,NONDIPIRI,Student,01 Jan 1988
+2,160249447,"Anda, Kaloi",F,NONDIPIRI,Household Duties,01 Jan 2000
+3,25080452,"Anda, Keri",F,KOMAKUL,Household Duties,06 Aug 1979
+4,160249643,"Anda, Lina",F,KOMAKUL,Subsistence Farmer,06 Jul 1986
+5,160247114,"Anda, Mini",F,KOMAKUL,Subsistence Farmer,01 Jan 1962
+6,160210008,"Andrew, Margret",F,KOMAKUL,Household Duties,01 Jan 1965
+7,160124539,"Ape, Morrin",F,POKAL,Student,16 Aug 1989
+8,160124568,"Apurel, Lewa",F,POKAL,Subsistence Farmer,01 Aug 1998
+9,160249592,"Ayele, Pongi",F,KOMAKUL,Household Duties,01 Jan 1961
+10,25080459,"Benjiman, Morin",F,KOMAKUL,,17 Aug 2000
+11,160124569,"Benny, Balati",F,POKAL,Student,16 Apr 1999
+12,160184801,"Buka, Etna",F,KOMAKUL,Household Duties,01 Jan 1974
+13,160187552,"David, Sussan",F,KOMAKUL,Household Duties,01 Jan 1973
+14,160209907,"Dominic, Pileme",F,KOMAKUL,Household Duties,01 Jan 1971
+15,160184500,"Gola, Sapina",F,KOMAKUL,Household Duties,01 Jan 1976
+16,160249590,"Guli, Jenny",F,KOMAKUL,Household Duties,01 Jan 1974
+17,160210359,"Indindi, Tenis",F,KOMAKUL,Household Duties,01 Jan 1971
+18,25080466,"Jackson, Joytee",F,KOMAKUL,Household Duties,03 Jul 1995
+19,160124573,"James, Babara",F,POKAL,Student,02 Feb 1998
+20,25080554,"James, Rachael",F,POKAL,Household Duties,18 Sep 1989
+21,160187343,"John, Gumi",F,KOMAKUL,Household Duties,01 Jan 1962
+22,160249345,"Kapale, Bepi",F,KOMAKUL,Household Duties,01 Jan 1980
+23,160249594,"Kapale, Bonny",F,KOMAKUL,Household Duties,01 Jan 1969
+24,160249346,"Kapale, Wavina",F,KOMAKUL,Student,01 Jan 1990
+25,160184491,"Kara, Aile",F,KOMAKUL,Household Duties,01 Jan 1949
+26,160210351,"Kara, Kina",F,KOMAKUL,Housegirl,01 Jan 1977
+27,160124532,"Kaya, Jennifer",F,POKAL,Household Duties,04 Sep 1988
+28,25087086,"Keleli, Anita",F,KOMAKUL,Housegirl,16 May 2001
+29,160184771,"Kelly, Hester",F,KOMAKUL,Household Duties,01 Jan 1975
+30,160190825,"Kevin, Bepi",F,KOMAKUL,Household Duties,01 Jan 1951
+31,160190826,"Kevin, Lynda",F,KOMAKUL,Housegirl,01 Jan 1975
+32,160191074,"Kevin, Mellen",F,KOMAKUL,Student,01 Jan 1985
+33,160184775,"Kipe, Manga",F,KOMAKUL,Household Duties,01 Jan 1947
+34,160210367,"Kondi, Mellen",F,KOMAKUL,Not Specified,01 Jan 1967
+35,160210535,"Kondi, Puke",F,KOMAKUL,Household Duties,01 Jan 1964
+36,160249654,"Koneye, Racheal",F,KOMAKUL,Household Duties,01 Jan 1964
+37,160124542,"Koropa, Dorothy",F,POKAL,Sales Women,27 Sep 1989
+38,160124541,"Ku, Aiyembo",F,POKAL,Housegirl,31 May 1989
+39,160184798,"Kundiye, Betty",F,KOMAKUL,Housegirl,01 Jan 1981
+40,25080561,"Kurume, Kupe",F,POKAL,Subsistence Farmer,18 Oct 1965
+41,160124535,"Latrus, Jenny",F,POKAL,Household Duties,23 Jul 1980
+42,160188301,"Levi, Ronda",F,KOMAKUL,Household Duties,01 Jan 1977
+43,160209987,"Luke, Elina",F,KOMAKUL,Subsistence Farmer,01 Jan 1986
+44,160191055,"Luke, Joycelyn",F,KOMAKUL,Household Duties,01 Jan 1977
+45,160209901,"Luke, Natili",F,KOMAKUL,Household Duties,01 Jan 1969
+46,25080545,"Mack, Pas",F,POKA,Household Duties,16 Oct 1981
+47,160249757,"Maka, Kiniye",F,KOMAKUL,Household Duties,01 Jan 1956
+48,160249658,"Maka, Komon",F,KOMAKUL,Subsistence Farmer,04 Aug 1962
+49,160247124,"Maka, Lilly",F,KOMAKUL,Household Duties,02 May 1968
+50,160249186,"Maka, Puri",F,KOMAKUL,Household Duties,01 Jan 1952
+51,25080567,"Mamina, Janet",F,POKAL,Household Duties,16 Apr 1980
+52,160124524,"Mark, Kanambo",F,KOMAKUL,Household Duties,15 Jun 1988
+53,25087088,"Max, Sharon",F,KOMAKUL,Household Duties,01 Mar 1990
+54,160249285,"Mek, Daina",F,KOMAKUL,Store Keeper,01 Jan 1982
+55,160249727,"Mek, Pamela",F,KOMAKUL,Housegirl,01 Jan 1986
+56,160184768,"Melo, Kerolyn",F,KOMAKUL,Housegirl,01 Jan 1976
+57,160190228,"Melo, Ramami",F,KOMAKUL,Household Duties,01 Jan 1948
+58,160249372,"Mendano, Branda",F,KOMAKUL,Household Duties,01 Jan 1980
+59,160249370,"Mendano, Cathy",F,KOMAKUL,Household Duties,01 Jan 1958
+60,160249652,"Mendano, Easter",F,KOMAKUL,Student,02 Jul 1984
+61,160247117,"Mendano, Senny",F,KOMAKUL,Household Duties,08 Jun 1981
+62,160249644,"Mendano, Simon",F,KOMAKUL,Driver,12 Jun 1979
+63,160190818,"Michael, Hellen",F,KOMAKUL,Household Duties,01 Jan 1973
+64,160184781,"Mingileli, Buneambo",F,KOMAKUL,Household Duties,01 Jan 1936
+65,160249265,"Mondo, Anet",F,KOMAKUL,Student,09 Jun 1995
+66,160190409,"Mondo, Hellen",F,KOMAKUL,Household Duties,01 Jan 1977
+67,160249264,"Mondo, Janet",F,KOMAKUL,Household Duties,01 Jan 1982
+68,160247031,"Mondo, Lucy",F,KOMAKUL,Student,24 Apr 1990
+69,160249263,"Mondo, Rebeca",F,KOMAKUL,Household Duties,01 Jan 1974
+70,160247012,"Mondo, Vaile",F,KOMAKUL,Student,04 Jan 1993
+71,160184800,"Moses, Waine",F,KOMAKUL,Household Duties,01 Jan 1970
+72,160190812,"Muku, Dolly",F,KOMAKUL,Subsistence Farmer,01 Jan 2000
+73,160249728,"Nambo, Tupiame",F,KOMAKUL,Household Duties,01 Jan 1972
+74,160249349,"Nambo, Vivian",F,KOMAKUL,Housegirl,01 Jan 1986
+75,160210370,"Nandiye, Merelyn",F,KOMAKUL,Subsistence Farmer,01 Jan 1975
+76,160210360,"Nandiye, Nancy",F,KOMAKUL,Teacher,01 Jan 1966
+77,160193229,"Nandiye, Pene",F,KOMAKUL,Household Duties,01 Jan 1970
+78,25080541,"Nemey, Florien",F,NONDIPIRI,Student,28 Dec 2003
+79,160210536,"Nimu, Alice",F,KOMAKUL,Store Keeper,01 Jan 1976
+80,160210533,"Nimu, Kupele",F,KOMAKUL,Subsistence Farmer,01 Jan 1980
+81,160210531,"Nimu, Nema",F,KOMAKUL,Household Duties,01 Jan 1946
+82,160210532,"Nimu, Saina",F,KOMAKUL,Household Duties,01 Jan 1974
+83,160190079,"Noa, Joy",F,KOMAKUL,Student,01 Jan 1989
+84,160188122,"Noa, Wika",F,KOMAKUL,Household Duties,01 Jan 1967
+85,25080581,"Noma, Wiruambi",F,POKAL,Household Duties,13 May 1959
+86,160249288,"Nomu, Monica",F,KOMAKUL,Household Duties,01 Jan 2000
+87,160249287,"Nomu, Veronica",F,KOMAKUL,Household Duties,01 Jan 2000
+88,25080496,"Ombel, Roselyn",F,KOMAKUL,Household Duties,19 Oct 1979
+89,160124563,"Pajipo, Everlyn",F,POKAL,Subsistence Farmer,16 Feb 1998
+90,160193138,"Pala, Mangoino",F,KOMAKUL,Household Duties,01 Jan 1946
+91,160193143,"Pala, Soti",F,KOMAKUL,Subsistence Farmer,01 Jan 2000
+92,160210380,"Pandea, Christina",F,KOMAKUL,Subsistence Farmer,01 Jan 1981
+93,160209983,"Pandea, Molupi",F,KOMAKUL,Household Duties,01 Jan 1941
+94,160210003,"Pandea, Pricilla",F,KOMAKUL,Subsistence Farmer,01 Jan 1983
+95,160124575,"Panjipo, Venesa",F,POKAL,Student,11 Apr 1999
+96,160184489,"Paul, Niomy",F,KOMAKUL,Household Duties,01 Jan 1963
+97,160210529,"Peipul, Monicca",F,KOMAKUL,Household Duties,01 Jan 1942
+98,25080500,"Peter, Kerol",F,KOMAKUL,Student,23 Apr 2004
+99,160184794,"Peter, Kuku",F,KOMAKUL,Household Duties,01 Jan 2000
+100,160124561,"Peter, Nancy",F,POKAL,Student,13 Jul 1996
+101,25080503,"Peter, Nickol",F,KOMAKUL,Student,28 Apr 2004
+102,25080507,"Peter, Tina",F,KOMAKUL,Student,03 Apr 2000
+103,160193165,"Piele, Mellen",F,KOMAKUL,Household Duties,01 Jan 1975
+104,160124584,"Pili, Joseph",F,POKAL,Sales Women,24 Jun 1996
+105,160185227,"Pius, Jenny",F,KOMAKUL,Household Duties,01 Jan 1960
+106,160137844,"Polinne, Dene",F,POKAL,Household Duties,15 Apr 1992
+107,160190424,"Pora, Anna",F,KOMAKUL,Household Duties,01 Jan 1973
+108,160190808,"Puiye, Leksen",F,KOMAKUL,Household Duties,01 Jan 1966
+109,25080597,"Pumbo, Margret",F,POKAL,Subsistence Farmer,10 Jan 1993
+110,25080599,"Pumbo, Morrin",F,POKAL,Household Duties,15 Apr 1995
+111,160124538,"Robert, Etta",F,POKAL,Store Keeper,24 Jun 1998
+112,160137841,"Robert, Rita",F,POKAL,Student,20 Feb 1989
+113,160249361,"Simon, Pauline",F,KOMAKUL,Clerk,04 Aug 1972
+114,160209985,"Simon, Vero",F,KOMAKUL,Household Duties,01 Jan 1980
+115,160190732,"Steven, Lembo",F,KOMAKUL,Household Duties,01 Jan 1940
+116,160190804,"Steven, Sussan",F,KOMAKUL,Household Duties,01 Jan 1978
+117,160191063,"Tanguwe, Lumburuli",F,KOMAKUL,Subsistence Farmer,01 Jan 1948
+118,160190426,"Teneni, Lina",F,KOMAKUL,Household Duties,01 Jan 1971
+119,160191072,"Teru, Maku",F,KOMAKUL,Subsistence Farmer,01 Jan 1979
+120,160124557,"Timothy, Dolly",F,POKAL,Housegirl,17 May 1996
+121,160190226,"Tiripi, Starlyn",F,KOMAKUL,Student,01 Jan 1986
+122,160137855,"Tiro, Silla",F,POKAL,Student,03 Aug 1998
+123,160191047,"Tiro, Wani",F,KOMAKUL,Household Duties,01 Jan 1976
+124,25080544,"Tiso, Marlin",F,NONDIPIRI,Household Duties,07 Aug 1989
+125,160190213,"Toembo, Alopambo",F,KOMAKUL,Household Duties,01 Jan 2000
+126,160190408,"Toembo, Mondo",F,KOMAKUL,Subsistence Farmer,01 Jan 1974
+127,160190400,"Toembo, Natili",F,KOMAKUL,Subsistence Farmer,01 Jan 1983
+128,160190671,"Toembo, Norin",F,KOMAKUL,Household Duties,01 Jan 1970
+129,160190411,"Toembo, Temo",F,KOMAKUL,Subsistence Farmer,01 Jan 1980
+130,160190406,"Toembo, Wee",F,KOMAKUL,Household Duties,01 Jan 1950
+131,160124585,"Tomolye, Lavi",F,POKAL,Student,17 Sep 1998
+132,160190822,"Tukondo, Lewa",F,KOMAKUL,Student,01 Jan 1986
+133,160185249,"Tuku, Anna",F,KOMAKUL,Household Duties,01 Jan 1973
+134,160193140,"Tunda, Lilly",F,KOMAKUL,Subsistence Farmer,01 Jan 1980
+135,160193139,"Tunda, Mopune",F,KOMAKUL,Subsistence Farmer,01 Jan 1977
+136,160193232,"Tunda, Pile",F,KOMAKUL,Household Duties,01 Jan 1946
+137,160124531,"Turi, Marklin",F,POKAL,Household Duties,28 Jul 1989
+138,160210391,"Ulu, Mopune",F,KOMAKUL,Subsistence Farmer,01 Jan 1978
+139,160210392,"Ulu, Ronda",F,KOMAKUL,Subsistence Farmer,01 Jan 1983
+140,160249202,"Wake, Nancy",F,KOMAKUL,Household Duties,01 Jan 1977
+141,160249201,"Wake, Obelambo",F,KOMAKUL,Household Duties,01 Jan 1969
+142,160249222,"Wake, Wancy",F,KOMAKUL,Household Duties,01 Jan 1980
+143,160250059,"Wakena, Giwa",F,NONDIPIRI,Housegirl,01 Jan 1993
+144,160250089,"Wakena, Jenet",F,NONDIPIRI,Household Duties,01 Jan 1973
+145,160250234,"Wakena, Linet",F,NONDIPIRI,Household Duties,01 Jan 2000
+146,160250087,"Wakena, Natily",F,NONDIPIRI,Household Duties,01 Jan 1950
+147,160249446,"Wakena, Selina",F,NONDIPIRI,Household Duties,01 Jan 1986
+148,160250235,"Wakena, Silvia",F,NONDIPIRI,Housegirl,01 Jan 1988
+149,160185226,"Waki, Linnet",F,KOMAKUL,Subsistence Farmer,01 Jan 1979
+150,160185224,"Waki, Puke",F,KOMAKUL,Household Duties,01 Jan 1960
+151,160249725,"Wane, Anita",F,KOMAKUL,Household Duties,01 Jan 1982
+152,160124547,"Wane, Lucy",F,POKAL,Teacher,09 Aug 1993
+153,160249342,"Wane, Mopune",F,KOMAKUL,Household Duties,01 Jan 1984
+154,160249343,"Wane, Sonla",F,KOMAKUL,Student,01 Jan 1984
+155,160124578,"Wane, Stevini",F,POKAL,Student,16 Apr 1998
+156,160209904,"Wanis, Linnet",F,KOMAKUL,Household Duties,01 Jan 1970
+157,160247146,"Wanis, Rebeca",F,KOMAKUL,Student,01 Jan 1984
+158,160249200,"Wanis, Rosa",F,KOMAKUL,Household Duties,01 Jan 1962
+159,160247145,"Wanis, Ruth",F,KOMAKUL,Student,01 Jan 1987
+160,160247147,"Wanis, Shelly",F,KOMAKUL,Student,01 Jan 1986
+161,160193153,"Wapuiye, Brenda",F,KOMAKUL,Subsistence Farmer,01 Jan 1989
+162,160191068,"Wapuiye, Walo",F,KOMAKUL,Household Duties,01 Jan 1965
+163,160124572,"Wet, Leran",F,POKAL,Student,01 Feb 1999
+164,160191077,"Willie, Maria",F,KOMAKUL,Household Duties,01 Jan 1970
+165,160184740,"Willson, Rebecca",F,KOMAKUL,Household Duties,01 Jan 1979
+166,160210514,"Yakili, Kapuruambo",F,KOMAKUL,Household Duties,01 Jan 1900
+167,160210525,"Yakili, Mandai",F,KOMAKUL,Household Duties,01 Jan 1950
+168,160210515,"Yakili, Ombel",F,KOMAKUL,Subsistence Farmer,01 Jan 2000
+169,160210523,"Yakili, Pilembo",F,KOMAKUL,Household Duties,01 Jan 1940
+170,160249205,"Yando, Sabina",F,KOMAKUL,Household Duties,01 Jan 2000
+171,160137852,"Yando, Sophine",F,POKAL,Student,16 Apr 1999
+172,160187341,"Yari, Monicca",F,KOMAKUL,Housegirl,01 Jan 1976
+173,160190080,"Yombi, Kerambo",F,KOMAKUL,Household Duties,01 Jan 1931
+174,160184789,"Yombono, Pupambo",F,KOMAKUL,Household Duties,01 Jan 1931
+175,160247113,"Anda, Alex",M,KOMAKUL,Subsistence Farmer,16 Dec 1959
+176,160250060,"Anda, Benjamin",M,NONDIPIRI,Student,01 Jan 1986
+177,160247115,"Anda, Max",M,KOMAKUL,Student,20 Jul 1991
+178,160249368,"Anda, Pili",M,KOMAKUL,Subsistence Farmer,16 May 1988
+179,25080455,"Anda, Sam",M,KOMAKUL,Subsistence Farmer,01 Feb 1969
+180,25080548,"Andia, Kaya",M,POKAL,Subsistence Farmer,15 May 1994
+181,160124543,"Andia, Palus",M,POKAL,Student,25 Jul 1989
+182,160124579,"Andia, Rembo",M,POKAL,Student,20 Mar 1998
+183,160137854,"Ape, Robin",M,POKAL,Student,18 Apr 1997
+184,160124567,"Apurel, Jeffery",M,POKAL,Student,12 Jun 1998
+185,160137850,"Apurel, Predy",M,POKAL,Student,02 Jan 1999
+186,25080551,"Epea, Tiro",M,POKAL,Subsistence Farmer,10 Oct 1971
+187,25080465,"Ferman, Peter",M,KOMAKUL,Driver,05 Aug 1976
+188,160210537,"Gini, Nandiye",M,KOMAKUL,Subsistence Farmer,01 Jan 1930
+189,160209976,"Gini, Nimu",M,KOMAKUL,Magistrate,01 Jan 1945
+190,160247125,"John, Torol",M,KOMAKUL,Driver,22 Apr 1978
+191,160209906,"Kaima, Dominic",M,KOMAKUL,Subsistence Farmer,01 Jan 1967
+192,160191042,"Kanombo, Robert",M,KOMAKUL,Subsistence Farmer,01 Jan 1979
+193,25080469,"Kapale, Firman",M,KOMAKUL,Subsistence Farmer,11 Mar 1967
+194,25080472,"Kapale, Junior",M,KOMAKUL,Subsistence Farmer,06 Feb 1995
+195,160124533,"Karaleli, Mukiye",M,POKAL,Subsistence Farmer,24 Aug 1970
+196,25080558,"Karaleli, Noam",M,POKAL,Subsistence Farmer,01 Mar 1959
+197,25080479,"Keleli, Benjiman",M,KOMAKUL,Self Employed,28 Apr 2004
+198,25080482,"Keleli, Opa",M,KOMAKUL,Salesman,06 Aug 1986
+199,25080485,"Keleli, Steven",M,KOMAKUL,Unemployed,18 Aug 1946
+200,25080488,"Keleli, Tenis",M,KOMAKUL,Self Employed,06 Sep 1994
+201,160247148,"Kepa, Kenny",M,KOMAKUL,Subsistence Farmer,02 Feb 1986
+202,160249653,"Koneye, Palus",M,KOMAKUL,Subsistence Farmer,01 Jan 1952
+203,160184764,"Kote, Luke",M,KOMAKUL,Subsistence Farmer,01 Jan 1975
+204,160184782,"Kupiaye, Tuku",M,KOMAKUL,Subsistence Farmer,01 Jan 1972
+205,25080565,"Kurume, Pumbo",M,POKAL,Subsistence Farmer,15 Nov 1964
+206,160187342,"Lomboi, John",M,KOMAKUL,Subsistence Farmer,01 Jan 1961
+207,160191066,"Lumburuli, Andi",M,KOMAKUL,Subsistence Farmer,01 Jan 1977
+208,160249657,"Maka, Guli",M,KOMAKUL,Store Keeper,08 Jun 1968
+209,160247122,"Maka, Mondo",M,KOMAKUL,Teacher,01 Jan 1961
+210,160249632,"Maka, Simon",M,KOMAKUL,Subsistence Farmer,04 Aug 1960
+211,160247123,"Maka, Wane",M,KOMAKUL,Clerk,02 Apr 1963
+212,160190733,"Makipe, Miti",M,KOMAKUL,Subsistence Farmer,01 Jan 1950
+213,160190801,"Makipe, Steven",M,KOMAKUL,Subsistence Farmer,01 Jan 1949
+214,160184738,"Maniye, Wene",M,KOMAKUL,Subsistence Farmer,01 Jan 1900
+215,25080515,"Mara, Mathew",M,KOMKUL,Councillor,01 Aug 1981
+216,25080569,"Mara, Pilimbopokal",M,POKAL,Security,01 Jan 1971
+217,25080573,"Mara, Wanpis",M,POKAL,Driver,15 Oct 1976
+218,160249595,"Mek, Augustine",M,KOMAKUL,Student,01 Jan 1987
+219,160188154,"Melo, David",M,KOMAKUL,Subsistence Farmer,01 Jan 1969
+220,160184770,"Melo, Kelly",M,KOMAKUL,Plumber,01 Jan 1971
+221,160184797,"Melo, Kudiye",M,KOMAKUL,Houseboy,01 Jan 1979
+222,160187348,"Melo, Max",M,KOMAKUL,Student,01 Jan 1983
+223,160188150,"Melo, Noa",M,KOMAKUL,Subsistence Farmer,01 Jan 1966
+224,160187346,"Melo, Pawa",M,KOMAKUL,Houseboy,01 Jan 1979
+225,160247116,"Mendano, Anderson",M,KOMAKUL,Engineer,16 Aug 1981
+226,160249646,"Mendano, Dickson",M,KOMAKUL,Geologist,19 May 1983
+227,160124565,"Mindil, James",M,POKAL,Salesman,01 Apr 1997
+228,160124566,"Mindil, Kandi",M,POKAL,Store Keeper,08 Apr 1999
+229,160193144,"Moke, Wintoiye",M,KOMAKUL,Subsistence Farmer,01 Jan 1946
+230,160249121,"Mondo, Junior",M,KOMAKUL,Student,04 Feb 1994
+231,25080575,"Mukindi, Jack",M,POKAL,Subsistence Farmer,03 Oct 1969
+232,160191301,"Muku, James",M,KOMAKUL,Subsistence Farmer,01 Jan 1980
+233,160190809,"Muku, Kanekane",M,KOMAKUL,Subsistence Farmer,01 Jan 1968
+234,160191195,"Muku, Kepema",M,KOMAKUL,Subsistence Farmer,01 Jan 2000
+235,160191073,"Muku, Puiye",M,KOMAKUL,Subsistence Farmer,01 Jan 1963
+236,160191298,"Muku, Thomas",M,KOMAKUL,Subsistence Farmer,01 Jan 2000
+237,160191299,"Muku, Tiro",M,KOMAKUL,Subsistence Farmer,01 Jan 1975
+238,160193163,"Mupi, Toembo",M,KOMAKUL,Subsistence Farmer,01 Jan 1949
+239,160210371,"Nandiye, Indindi",M,KOMAKUL,Subsistence Farmer,01 Jan 1970
+240,160209999,"Nandiye, Jason",M,KOMAKUL,Student,01 Jan 1985
+241,160210361,"Nandiye, Justine",M,KOMAKUL,Student,01 Jan 1987
+242,160209998,"Nandiye, Max",M,KOMAKUL,Subsistence Farmer,01 Jan 1965
+243,160209996,"Nandiye, Ropini",M,KOMAKUL,Subsistence Farmer,01 Jan 1950
+244,160210534,"Nimu, Kondi",M,KOMAKUL,Subsistence Farmer,01 Jan 1964
+245,160209981,"Nimu, Pera",M,KOMAKUL,Subsistence Farmer,01 Jan 1984
+246,160137847,"Ninigi, Depe",M,POKAL,Student,18 Apr 1999
+247,160137846,"Niningi, Joe",M,POKAL,Subsistence Farmer,19 Jun 1997
+248,160190078,"Noa, Naeten",M,KOMAKUL,Student,01 Jan 1988
+249,160250085,"Nokopa, Jerry",M,NONDIPIRI,Subsistence Farmer,01 Jan 1986
+250,160124580,"Noma, Alex",M,POKAL,Student,16 May 1997
+251,25080578,"Noma, Simi",M,POKAL,Subsistence Farmer,22 Apr 2004
+252,160249290,"Nomu, Jackson",M,KOMAKUL,Subsistence Farmer,01 Jan 1990
+253,160249289,"Nomu, James",M,KOMAKUL,Subsistence Farmer,01 Jan 2000
+254,160249353,"Nomu, Jessy",M,KOMAKUL,Subsistence Farmer,01 Jan 1984
+255,160247143,"Nomu, Joshua",M,KOMAKUL,Subsistence Farmer,01 Jan 1993
+256,160249352,"Nomu, Ombel",M,KOMAKUL,Subsistence Farmer,01 Jan 1960
+257,25080493,"Nomu, Steven",M,KOMAKUL,Subsistence Farmer,06 Aug 1971
+258,160249351,"Nomu, Toambo",M,KOMAKUL,Subsistence Farmer,01 Jan 1962
+259,160184754,"Numbo, Mingileli",M,KOMAKUL,Subsistence Farmer,01 Jan 1931
+260,160193231,"Numbo, Tunda",M,KOMAKUL,Subsistence Farmer,01 Jan 1945
+261,25080584,"Numo, Jurgen",M,POKAL,Subsistence Farmer,01 Jan 1969
+262,160124562,"Pajipo, Steward",M,POKAL,Sales Women,20 Jul 1997
+263,160137842,"Palgeiye, Yala",M,POKAL,Subsistence Farmer,04 Apr 1989
+264,160210000,"Pandea, Andrew",M,KOMAKUL,Subsistence Farmer,01 Jan 1973
+265,160210379,"Pandea, Elvis",M,KOMAKUL,Subsistence Farmer,01 Jan 1976
+266,160210376,"Pandea, Paul",M,KOMAKUL,Subsistence Farmer,01 Jan 1970
+267,160209900,"Pandea, Simon",M,KOMAKUL,Subsistence Farmer,01 Jan 1979
+268,160124576,"Panjipo, Richard",M,POKAL,Subsistence Farmer,04 Jun 1997
+269,160124574,"Panjipo, Tom",M,POKAL,Sales Women,24 Jun 1997
+270,160184481,"Paul, Clency",M,KOMAKUL,Student,01 Jan 1981
+271,160184490,"Paul, Kennet",M,KOMAKUL,Student,01 Jan 1984
+272,25080588,"Pili, Cletus",M,POKAL,Subsistence Farmer,01 Jan 1964
+273,25080591,"Pili, Jordan",M,POKAL,Student,01 Feb 1998
+274,25080594,"Pondopea, Tombo",M,POKAL,Magistrate,01 Jan 1972
+275,160137845,"Pora, Andras",M,POKAL,Student,18 Sep 1997
+276,160124536,"Pora, Elijah",M,POKAL,Student,26 Mar 1998
+277,25080518,"Pora, Stanley",M,KOMKUL,Self Employed,06 Aug 1992
+278,25080509,"Pora, Ted",M,KOMAKUL,Student,28 Apr 2004
+279,160190415,"Romba, Puiye",M,KOMAKUL,Subsistence Farmer,01 Jan 1961
+280,160137853,"Rot, Win",M,POKAL,Not Specified,14 Jun 1998
+281,160249261,"Simon, Henry",M,KOMAKUL,Student,04 Aug 1992
+282,160249362,"Simon, Tommy",M,KOMAKUL,Student,04 Feb 1990
+283,25080512,"Steven, Jersey",M,KOMAKUL,Subsistence Farmer,08 Dec 1992
+284,160249350,"Taket, Nomu",M,KOMAKUL,Subsistence Farmer,01 Jan 1964
+285,160193141,"Tanguwe, Pala",M,KOMAKUL,Subsistence Farmer,01 Jan 1945
+286,160137849,"Terema, Rommy",M,POKAL,,10 Jun 1999
+287,160124564,"Terema, Ronny",M,POKAL,Student,14 Apr 1998
+288,160193155,"Teru, Piele",M,KOMAKUL,Subsistence Farmer,01 Jan 1973
+289,160190225,"Tiripi, Cliff",M,KOMAKUL,Student,01 Jan 1979
+290,160188145,"Tiripi, Sydney",M,KOMAKUL,Houseboy,01 Jan 1976
+291,160124582,"Tomoiye, Kenneth",M,POKAL,Sales Women,30 May 1997
+292,160124583,"Tomoiye, Vintta",M,POKAL,Sales Women,15 Jul 1998
+293,160247024,"Torol, Supi",M,KOMAKUL,Subsistence Farmer,14 Dec 1972
+294,25080602,"Toropo, Francis",M,POKAL,Subsistence Farmer,25 Jun 1973
+295,160190792,"Tuka, Mambo",M,KOMAKUL,Pastor,01 Jan 1949
+296,160191198,"Tukondo, James",M,KOMAKUL,Student,01 Jan 1980
+297,160191199,"Tukondo, Kera",M,KOMAKUL,Student,01 Jan 1989
+298,160210527,"Tukondo, Michael",M,KOMAKUL,Subsistence Farmer,01 Jan 1972
+299,160190819,"Tukondo, Wari",M,KOMAKUL,Houseboy,01 Jan 1977
+300,160193239,"Tunda, Jona",M,KOMAKUL,Subsistence Farmer,01 Jan 1985
+301,160193237,"Tunda, Niningi",M,KOMAKUL,Subsistence Farmer,01 Jan 1975
+302,160124534,"Ulgeiye, Taka",M,POKAL,Student,26 Mar 1997
+303,160209974,"Ulu, Wandi",M,KOMAKUL,Student,01 Jan 1986
+304,160210517,"Ulu, Windi",M,KOMAKUL,Subsistence Farmer,01 Jan 1975
+305,160190413,"Waiye, Pora",M,KOMAKUL,Subsistence Farmer,01 Jan 1972
+306,160190425,"Waiye, Teneni",M,KOMAKUL,Subsistence Farmer,01 Jan 1970
+307,160249221,"Wake, Kawalo",M,KOMAKUL,Subsistence Farmer,01 Jan 1952
+308,160249445,"Wakena, Geromy",M,NONDIPIRI,Subsistence Farmer,01 Jan 1977
+309,160250236,"Wakena, Jack",M,NONDIPIRI,Subsistence Farmer,01 Jan 1988
+310,160249444,"Wakena, Kumbe",M,NONDIPIRI,Subsistence Farmer,01 Jan 1941
+311,160250088,"Wakena, Mathew",M,NONDIPIRI,Subsistence Farmer,01 Jan 1971
+312,160124560,"Wambo, Deman",M,POKAL,Student,10 Feb 1997
+313,160137848,"Wambo, Puru",M,POKAL,,25 Jun 1999
+314,25087095,"Wane, Simon",M,POKAL,Subsistence Farmer,16 Feb 1980
+315,160124540,"Wane, Steven",M,POKAL,Store Keeper,03 Jun 1989
+316,25080609,"Wane, Turi",M,POKAL,Subsistence Farmer,14 Apr 1994
+317,160247144,"Wanis, John",M,KOMAKUL,Driver,01 Jan 1957
+318,160193161,"Wapuiye, Max",M,KOMAKUL,Subsistence Farmer,01 Jan 1986
+319,160184787,"Wene, Amodoli",M,KOMAKUL,Subsistence Farmer,01 Jan 1983
+320,160184742,"Wene, Niye",M,KOMAKUL,Subsistence Farmer,01 Jan 1986
+321,160184784,"Wene, Yando",M,KOMAKUL,Subsistence Farmer,01 Jan 1979
+322,160124570,"Wet, Enoch",M,POKAL,Student,01 Jul 1997
+323,160124571,"Wet, Francis",M,POKAL,Student,12 Jun 1999
+324,160190787,"Willie, Benary",M,KOMAKUL,Houseboy,01 Jan 1988
+325,160190789,"Willie, Dickson",M,KOMAKUL,Houseboy,01 Jan 1989
+326,160184761,"Wiyo, Anton",M,KOMAKUL,Subsistence Farmer,01 Jan 1940
+327,160210524,"Yakili, Ulu",M,KOMAKUL,Subsistence Farmer,01 Jan 1949
+328,160210005,"Yakumbu, Luke",M,KOMAKUL,Subsistence Farmer,01 Jan 1968
+329,160210375,"Yakumbu, Pandea",M,KOMAKUL,Subsistence Farmer,01 Jan 1940
+330,160124701,"Yakupus, Willie",M,POKAL,Subsistence Farmer,25 Apr 1989
+331,160249223,"Yando, Michael",M,KOMAKUL,Subsistence Farmer,01 Jan 1981
+332,160249224,"Yando, Philmeon",M,KOMAKUL,Subsistence Farmer,01 Jan 1986
+333,160249204,"Yando, Robert",M,KOMAKUL,Auditor,01 Jan 1985
+334,160190081,"Yari, Levi",M,KOMAKUL,Subsistence Farmer,01 Jan 1973
+335,160124555,"Yawa, Boks",M,POKAL,Subsistence Farmer,30 Sep 1996
+336,160124702,"Yawa, Gabriel",M,POKAL,Subsistence Farmer,27 Feb 1964
+337,160190814,"Yawa, Kanombo",M,KOMAKUL,Subsistence Farmer,01 Jan 1948
+338,160124703,"Yawa, Niwi",M,POKAL,Carpenter,14 Mar 1972
+339,160124559,"Yawa, Pora",M,POKAL,Subsistence Farmer,24 Jun 1987
+340,160187340,"Yombi, Delex",M,KOMAKUL,Driver,01 Jan 1973
+341,160184774,"Yombi, Kipe",M,KOMAKUL,Subsistence Farmer,01 Jan 1946
+342,160190227,"Yombi, Melo",M,KOMAKUL,Subsistence Farmer,01 Jan 1947
+343,160184733,"Yombono, Andrew",M,KOMAKUL,Subsistence Farmer,01 Jan 1979
+344,160184745,"Yombono, Nipulu",M,KOMAKUL,Subsistence Farmer,01 Jan 1979
+345,160184735,"Yombono, Turi",M,KOMAKUL,Subsistence Farmer,01 Jan 1982
+346,160184791,"Yombono, Willson",M,KOMAKUL,Store Keeper,01 Jan 1978

@@ -1,0 +1,965 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160219276,"Aiye, Makal",F,YOMBI 2,Subsistence Farmer,01 Jan 1970
+2,160219277,"Aiye, Nandame",F,YOMBI 2,Subsistence Farmer,01 Jan 1975
+3,160219283,"Aiye, Roslyn",F,YOMBI 2,Subsistence Farmer,01 Jan 1987
+4,160217859,"Aiyele, Kiniye",F,YOMBI 2,Subsistence Farmer,01 Jan 1989
+5,160217800,"Aiyele, Malino roto",F,YOMBI 2,Subsistence Farmer,01 Jan 1951
+6,160128688,"Aiyele, Maria",F,YOMBI 2,Subsistence Farmer,14 Jan 1998
+7,160217857,"Aiyele, Sera",F,YOMBI 2,Subsistence Farmer,01 Jan 1988
+8,160225314,"Akena, Pricilla",F,YOMBI 2,Subsistence Farmer,01 Jan 1980
+9,160212998,"Albert, Dona",F,YOMBI 2,Subsistence Farmer,01 Jan 1975
+10,160215966,"Alo, Hanita",F,YOMBI 2,Subsistence Farmer,01 Jan 1978
+11,160244411,"Alo, Jenny",F,IOMBI PENA,Subsistence Farmer,01 Jan 1979
+12,25085357,"Alpha, Lala",F,YOMBI 2,Household Duties,14 May 1999
+13,25085361,"Alyele, Sula",F,YOMBI 2,Unemployed,01 Jun 2003
+14,25085363,"Alyele, Wendi",F,YOMBI 2,Unemployed,10 May 1997
+15,160250796,"Andopotil, Ambo",F,YOMBI 2,Subsistence Farmer,01 Jan 1980
+16,160220722,"Andopotil, Dorin",F,YOMBI 2,Student,01 Jan 1980
+17,160220944,"Andrew, Betty",F,YOMBI 2,Subsistence Farmer,01 Jan 1963
+18,25085365,"Andrew, Julie",F,YOMBI 2,Unemployed,13 Jun 1992
+19,160128492,"Andrew, Mickhal",F,YOMBI 2,Student,06 Jul 1994
+20,25085367,"Andrew, Tecal",F,YOMBI 2,Student,16 Sep 2003
+21,160244255,"Andrew, Wiruambo",F,IOMBI PENA,Subsistence Farmer,01 Jan 1994
+22,160216523,"Anekale, Marta",F,YOMBI 2,Subsistence Farmer,01 Jan 1987
+23,160216521,"Anekale, Nurupil",F,YOMBI 2,Subsistence Farmer,01 Jan 1972
+24,160217967,"Ape, Lavina",F,YOMBI 2,Subsistence Farmer,01 Jan 1987
+25,160138319,"Apel, Venesa",F,YOMBI 2,Teacher,24 Nov 1994
+26,160128695,"Ben, Emolyn",F,KULI,Student,03 Jul 1998
+27,160439175,"Ben, Helvita",F,YOMBI 2,Student,18 Apr 2003
+28,160217959,"Ben, Petty mendel",F,YOMBI 2,Subsistence Farmer,01 Jan 1986
+29,25087440,"Benard, Rose",F,YOMBI 2,Household Duties,10 Oct 1998
+30,160439216,"Benet, Magret",F,YOMBI 2,Student,11 Sep 1998
+31,160439150,"Benet, Regina",F,YOMBI 2,Subsistence Farmer,01 Apr 1998
+32,25085373,"Billy, Biyanga",F,YOMBI 2,Student,01 Jan 2003
+33,160216419,"Billy, Mapele",F,YOMBI 2,Subsistence Farmer,01 Jan 1978
+34,160245767,"Billy, Seron",F,YOMBI 2,Student,01 Jan 1992
+35,160245768,"Billy, Serothy",F,YOMBI 2,Student,01 Jan 1994
+36,160439135,"Brandy, Royna",F,YOMBI 2,Household Duties,10 Nov 1996
+37,160241780,"Brendy, Fiora",F,KARULU,Subsistence Farmer,01 Jan 1984
+38,160439207,"Buka, Delina",F,YOMBI 2,Student,11 May 2003
+39,160220868,"Buka, Janet",F,YOMBI 2,Subsistence Farmer,01 Jan 1975
+40,160216552,"Buru, Lucy",F,YOMBI 2,Student,01 Jan 1984
+41,160217707,"Buru, Maria",F,YOMBI 2,Subsistence Farmer,01 Jan 1971
+42,160244253,"Buru, Ruthy",F,WANEP,Student,01 Jan 1994
+43,160244257,"Buru, Susi",F,WANEP,Student,01 Jan 1991
+44,160439201,"Charles, Rose",F,YOMBI 2,Accountant,02 Mar 1996
+45,160128491,"Charlie, Esther",F,YOMBI 2,Student,09 Apr 1998
+46,160250318,"Charlie, Estherlyn",F,YOMBI 2,Student,01 Jan 1994
+47,160216426,"Charlie, Serah",F,YOMBI 2,Worker,01 Jan 1977
+48,160439223,"Daniel, Anna",F,YOMBI 2,Student,05 Sep 2002
+49,160220720,"Daniel, Jullie",F,YOMBI 2,Subsistence Farmer,01 Jan 1981
+50,160439154,"Daniel, Merolyn",F,YOMBI 2,Student,05 Aug 1995
+51,160128665,"Daniel, Niomi",F,YOMBI 2,Student,08 Nov 1996
+52,160220941,"Daniel, Ruth",F,YOMBI 2,Subsistence Farmer,01 Jan 1974
+53,25087444,"Daniel, Tresa",F,YOMBI 2,Student,15 Jun 2003
+54,160224176,"Daye, Evelyne",F,YOMBI 2,Subsistence Farmer,01 Jan 1975
+55,160138326,"Depes, Lin",F,YOMBI 2,Student,16 Jun 1998
+56,160221968,"Depes, Nati",F,YOMBI 2,Subsistence Farmer,01 Jan 1970
+57,160439155,"Dias, Norin",F,YOMBI 2,Student,12 Feb 2004
+58,160244413,"Dias, Susan",F,WANEP,Subsistence Farmer,01 Jan 1981
+59,160222112,"Dias, Wendy",F,YOMBI 2,Subsistence Farmer,01 Jan 1973
+60,160128708,"Domas, Estha",F,KULI,Student,16 May 1996
+61,160217949,"Domas, Joslyn",F,YOMBI 2,Subsistence Farmer,01 Jan 1973
+62,160217950,"Domas, Ruth",F,YOMBI 2,Subsistence Farmer,01 Jan 1975
+63,25085385,"Dopo, Christina",F,YOMBI 2,Student,02 Mar 2003
+64,25085387,"Dopo, Chrstol",F,YOMBI 2,Student,12 Feb 2004
+65,160439174,"Dopo, Delma",F,YOMBI 2,Student,10 Nov 2000
+66,160128690,"Dopo, Ethna",F,YOMBI 2,Student,17 Aug 1997
+67,160244418,"Dopo, Grace",F,IOMBI PENA,Subsistence Farmer,01 Jan 1986
+68,160439177,"Dopo, Jayan",F,YOMBI 2,Student,17 Aug 2001
+69,160220500,"Dot, Carolyn",F,YOMBI 2,Subsistence Farmer,01 Jan 1980
+70,160128666,"Dot, Diolyn",F,YOMBI 2,Student,12 Sep 1998
+71,160225150,"Dupi, Topel",F,YOMBI 2,Subsistence Farmer,01 Jan 1973
+72,160128698,"Elvis, Emma",F,KULI,Student,09 Sep 1995
+73,160215181,"Elvis, Enet",F,YOMBI 2,Subsistence Farmer,01 Jan 1983
+74,160128699,"Elvis, Nicole",F,KULI,Student,12 Aug 1998
+75,25085388,"Elvis, Sherrie",F,YOMBI 2,Driver,09 Dec 1975
+76,160222091,"Ena, Jenny",F,YOMBI 2,Subsistence Farmer,01 Jan 1974
+77,160220878,"Ena, Marklyn",F,YOMBI 2,Subsistence Farmer,01 Jan 1987
+78,160222090,"Ena, Misi",F,YOMBI 2,Subsistence Farmer,01 Jan 1962
+79,160220811,"Ena, Rachael",F,YOMBI 2,Student,01 Jan 1986
+80,160220406,"Ena, Wetane",F,YOMBI 2,Subsistence Farmer,01 Jan 1962
+81,160439132,"Firman, Veidah",F,YOMBI 2,Student,10 Nov 2002
+82,160215158,"Firmin, Rachael",F,YOMBI 2,Subsistence Farmer,01 Jan 1985
+83,160220483,"Garu, Gippi",F,YOMBI 2,Subsistence Farmer,01 Jan 1949
+84,160220957,"Garu, Ruth",F,YOMBI 2,Subsistence Farmer,01 Jan 1976
+85,25085393,"Gideon, Elis",F,YOMBI 2,Student,01 Jan 2004
+86,160128661,"Gideon, Selina",F,YOMBI 2,Subsistence Farmer,02 Oct 1997
+87,160128694,"Glaime, Lapi",F,KULI,Subsistence Farmer,06 Oct 1997
+88,160128670,"Guli, Grace",F,YOMBI 2,Subsistence Farmer,21 Nov 1984
+89,160245766,"Hapa, Lineth",F,MAPE,Subsistence Farmer,01 Jan 1983
+90,160241787,"Honly, Menu",F,KARULU,Subsistence Farmer,01 Jan 1990
+91,25085395,"Ike, Mercy",F,YOMBI 2,Household Duties,13 Sep 2002
+92,160220945,"Imbi, Balinong",F,YOMBI 2,Subsistence Farmer,01 Jan 1965
+93,160221962,"Imbi, Nandame",F,YOMBI 2,Subsistence Farmer,01 Jan 1977
+94,160244244,"Ipi, Meri",F,WANEP,Subsistence Farmer,01 Jan 1982
+95,160220872,"Iya, Akatil",F,YOMBI 2,Subsistence Farmer,01 Jan 1953
+96,160210816,"Iya, Helen",F,YOMBI 2,Student,01 Jan 1990
+97,160220502,"Iya, Jacklyn",F,YOMBI 2,Student,01 Jan 1989
+98,160220405,"Iya, Marta",F,YOMBI 2,Subsistence Farmer,01 Jan 1986
+99,25085398,"Jackson, Seron",F,YOMBI 2,Unemployed,14 Jul 2001
+100,160232513,"James, Freeda",F,YOMBI 2,Student,01 Jan 1990
+101,160220812,"James, Jeniffer",F,YOMBI 2,Student,01 Jan 1987
+102,160220948,"James, Jip",F,YOMBI 2,Subsistence Farmer,01 Jan 1969
+103,160215194,"James, Joyce",F,YOMBI 2,Teacher,01 Jan 1958
+104,160213011,"James, Lea",F,YOMBI 2,Subsistence Farmer,01 Jan 1965
+105,160216423,"James, Metelyn",F,YOMBI 2,Student,01 Jan 1989
+106,160217811,"James, Metenda",F,YOMBI 2,Student,01 Jan 1988
+107,160244242,"James, Nancy",F,IOMBI PENA,Subsistence Farmer,01 Jan 1991
+108,160219280,"James, Rachael",F,YOMBI 2,Subsistence Farmer,01 Jan 1978
+109,160213012,"James, Rachael",F,YOMBI 2,Student,01 Jan 1985
+110,160220949,"James, Serah",F,YOMBI 2,Subsistence Farmer,01 Jan 1976
+111,160220864,"James, Sopi",F,YOMBI 2,Subsistence Farmer,01 Jan 1987
+112,160216527,"James, Tande",F,YOMBI 2,Household Duties,01 Jan 1972
+113,160232512,"James, Terry",F,YOMBI 2,Student,01 Jan 1989
+114,160221952,"James, Tiwi",F,YOMBI 2,Subsistence Farmer,01 Jan 1963
+115,160216429,"Jeff, Honof",F,YOMBI 2,Subsistence Farmer,01 Jan 1962
+116,160216557,"Jeff, Shirley",F,YOMBI 2,Subsistence Farmer,01 Jan 1989
+117,160128494,"Jeff, Vero",F,YOMBI 2,Student,10 Oct 1998
+118,160232541,"Jeff, Vicky",F,YOMBI 2,Student,01 Jan 1988
+119,160139514,"Jeremaiah, Bethzida",F,KULI,Teacher,30 Mar 1998
+120,25085402,"Jeromy, Lucy",F,YOMBI 2,Unemployed,22 May 1999
+121,160214993,"Jerry, Betty",F,YOMBI 2,Subsistence Farmer,01 Jan 1984
+122,160439148,"Jetro, Jullie",F,YOMBI 2,Subsistence Farmer,03 Nov 1997
+123,160220412,"Jim, Barbra",F,YOMBI 2,Subsistence Farmer,01 Jan 1983
+124,160128693,"Jim, Betty",F,KULI,Student,19 Mar 1998
+125,160220404,"Jim, Carolyn",F,YOMBI 2,Subsistence Farmer,01 Jan 1969
+126,160223914,"Jim, Melondy",F,YOMBI 2,Subsistence Farmer,01 Jan 1974
+127,25085405,"Jim, Sentralin",F,YOMBI 2,Student,02 Oct 1995
+128,160244249,"Jim, Stecy",F,IOMBI PENA,Student,10 Dec 1993
+129,160226513,"Jim, Wala",F,YOMBI 2,Subsistence Farmer,01 Jan 1951
+130,160250700,"Jimmy, Okeno",F,KARULU,Subsistence Farmer,01 Jan 1977
+131,25085406,"Jimmy, Vennesa",F,YOMBI 2,Student,04 Oct 2003
+132,160439230,"Joe, Elis",F,YOMBI 2,Household Duties,07 Aug 1994
+133,160221976,"Joe, Nondiambo",F,YOMBI 2,Subsistence Farmer,01 Jan 1972
+134,25085408,"Joe, Olive",F,YOMBI 2,Student,19 Apr 2004
+135,160439119,"Joe, Omelin",F,YOMBI 2,Student,10 Oct 2001
+136,160439196,"Joel, Matina",F,YOMBI 2,Clerk,15 Jun 1997
+137,160244251,"John, Anna",F,IOMBI PENA,Subsistence Farmer,01 Jan 1993
+138,25085409,"John, Annota",F,YOMBI 2,Student,01 Jan 2004
+139,160210830,"John, Katrina",F,YOMBI 2,Subsistence Farmer,01 Jan 2000
+140,160244247,"John, Mathalin",F,IOMBI PENA,Subsistence Farmer,01 Jan 1991
+141,25085411,"John, Meklin",F,YOMBI 2,Student,18 Jun 2003
+142,160215912,"John, Morin",F,YOMBI 2,Teacher,01 Jan 1976
+143,160215911,"John, Pokoi",F,YOMBI 2,Subsistence Farmer,01 Jan 1972
+144,160220951,"John, Pukusi",F,YOMBI 2,Subsistence Farmer,01 Jan 1976
+145,160148257,"John, Rebecca",F,YOMBI 2,Subsistence Farmer,01 Jan 1986
+146,25085412,"John, Sylvia",F,YOMBI 2,Student,08 Aug 2003
+147,160139515,"John, Synthia",F,KULI,Subsistence Farmer,08 Oct 1994
+148,160439140,"Join, Jullian",F,YOMBI 2,Subsistence Farmer,02 Jul 1994
+149,160148052,"Jona, Theresa",F,YOMBI 2,Subsistence Farmer,01 Jan 1987
+150,160244252,"Jonathan, Ambo",F,WANEP,Subsistence Farmer,01 Jan 1991
+151,160222076,"Kadiki, Perekaiambo",F,YOMBI 2,Subsistence Farmer,01 Jan 1961
+152,160217803,"Kalta, Jenet",F,YOMBI 2,Subsistence Farmer,01 Jan 1967
+153,160128704,"Kalta, Tasi",F,KULI,Subsistence Farmer,08 Dec 1991
+154,160250797,"Kana, Cathy",F,MAPE,Subsistence Farmer,01 Jan 1979
+155,25087448,"Kana, Joan",F,YOMBI 2,Student,01 Jan 2004
+156,160148639,"Kana, Magaret",F,YOMBI 2,Worker,01 Jan 1985
+157,160217809,"Kana, Nonge",F,YOMBI 2,Subsistence Farmer,01 Jan 1966
+158,160148640,"Kana, Serah",F,YOMBI 2,Student,01 Jan 1980
+159,160224181,"Kanekane, Tenis",F,YOMBI 2,Subsistence Farmer,01 Jan 1987
+160,160151867,"Kanekane, Wambo",F,YOMBI 2,Subsistence Farmer,01 Jan 1968
+161,160151351,"Kanombo, Kelen",F,YOMBI 2,Student,01 Jan 1988
+162,160226601,"Kanombo, Lina",F,YOMBI 2,Subsistence Farmer,01 Jan 1976
+163,160220329,"Kape, Jenny",F,YOMBI 2,Subsistence Farmer,01 Jan 1961
+164,160217962,"Kara, Margret",F,YOMBI 2,Subsistence Farmer,01 Jan 1979
+165,160217697,"Karia, Mina",F,YOMBI 2,Subsistence Farmer,01 Jan 1976
+166,160214091,"Karu, Arupi",F,YOMBI 2,Subsistence Farmer,01 Jan 1952
+167,160128706,"Karu, Evelyn",F,KULI,Student,24 Mar 1997
+168,160215195,"Karu, Toli",F,YOMBI 2,Subsistence Farmer,01 Jan 1943
+169,25085416,"Katepa, Fenta",F,YOMBI 2,Subsistence Farmer,27 May 1991
+170,160210942,"Katepa, Jobina",F,YOMBI 2,Subsistence Farmer,01 Jan 1990
+171,160220866,"Katepa, Liname",F,YOMBI 2,Subsistence Farmer,01 Jan 1971
+172,160226346,"Keleli, Kolambo",F,YOMBI 2,Subsistence Farmer,01 Jan 1946
+173,160218455,"Kelema, Waine",F,YOMBI 2,Subsistence Farmer,01 Jan 1944
+174,160439159,"Kenedy, Silvia",F,YOMBI 2,Subsistence Farmer,09 Nov 1998
+175,160244416,"Keneth, Rose",F,WANEP,Subsistence Farmer,01 Jan 1994
+176,160250320,"Kepa, Lineth",F,MAPE,Student,01 Jan 1988
+177,160244243,"Kepa, Morin",F,WANEP,Subsistence Farmer,01 Jan 1978
+178,160250319,"Kepa, Nipambo",F,MAPE,Subsistence Farmer,01 Jan 1978
+179,160250690,"Kewa, Rose",F,YOMBI 2,Subsistence Farmer,01 Jan 1991
+180,160215351,"Keya, Mopune",F,YOMBI 2,Subsistence Farmer,01 Jan 1983
+181,160217945,"Kiniwi, Akeke",F,YOMBI 2,Subsistence Farmer,01 Jan 1970
+182,25085417,"Kiniwi, Alice",F,YOMBI 2,Student,01 Jan 2004
+183,160244240,"Kiniwi, Joicika",F,IOMBI PENA,Student,01 Jan 1994
+184,25085418,"Kiniwi, Joina",F,YOMBI 2,Student,01 Jan 2004
+185,160148290,"Kiniwi, Pilembo",F,YOMBI 2,Subsistence Farmer,01 Jan 1964
+186,160218401,"Kiniwi, Yuno",F,YOMBI 2,Subsistence Farmer,01 Jan 1971
+187,160214082,"Kire, Ongenongo",F,YOMBI 2,Subsistence Farmer,01 Jan 1955
+188,160222499,"Kire, Ruthy",F,YOMBI 2,Subsistence Farmer,01 Jan 1988
+189,160222071,"Kire, Tennis",F,YOMBI 2,Subsistence Farmer,01 Jan 1979
+190,160151340,"Kisopa, Nakanol",F,YOMBI 2,Subsistence Farmer,01 Jan 1977
+191,160225303,"Kisopa, Opokauwe",F,YOMBI 2,Subsistence Farmer,01 Jan 1956
+192,160146693,"Kisopa, Rose",F,YOMBI 2,Subsistence Farmer,01 Jan 1980
+193,160250703,"Koi, Puri",F,KARULU,Household Duties,01 Jan 1971
+194,160216410,"Kolakulu, Mombo",F,YOMBI 2,Subsistence Farmer,01 Jan 1969
+195,160220481,"Kolakulu, Soti",F,YOMBI 2,Subsistence Farmer,01 Jan 1987
+196,160217793,"Kolakulu, Tana",F,YOMBI 2,Subsistence Farmer,01 Jan 1972
+197,160213015,"Konjil, Kurume",F,YOMBI 2,Subsistence Farmer,01 Jan 1954
+198,160222602,"Konjil, Sussie",F,YOMBI 2,Subsistence Farmer,01 Jan 1985
+199,160225326,"Kopu, Jip",F,YOMBI 2,Subsistence Farmer,01 Jan 1963
+200,160148265,"Kopu, Merolyn",F,YOMBI 2,Subsistence Farmer,01 Jan 1988
+201,160153153,"Kot, Nancy",F,YOMBI 2,Subsistence Farmer,01 Jan 1981
+202,160232546,"Kote, Karol",F,YOMBI 2,Student,01 Jan 1990
+203,160218397,"Kote, Mombo",F,YOMBI 2,Subsistence Farmer,01 Jan 1970
+204,160213002,"Koyapo, Binale",F,YOMBI 2,Subsistence Farmer,01 Jan 1963
+205,160218265,"Kupu, Jacklyn",F,YOMBI 2,Subsistence Farmer,01 Jan 1979
+206,160233194,"Kurupu, Agnes",F,YOMBI 2,Student,01 Jan 1988
+207,160218267,"Kurupu, Betty",F,YOMBI 2,Subsistence Farmer,01 Jan 1986
+208,160232497,"Kurupu, Jenet",F,YOMBI 2,Student,01 Jan 1990
+209,160139676,"Kurupu, Merap",F,KULI,Student,01 Apr 1999
+210,160218266,"Kurupu, Nale",F,YOMBI 2,Subsistence Farmer,01 Jan 1961
+211,160217785,"Kurupu, Rosa",F,YOMBI 2,Subsistence Farmer,01 Jan 1983
+212,160217688,"Kurupu, Tagaye",F,YOMBI 2,Subsistence Farmer,01 Jan 1957
+213,160218262,"Kurupu, Wopa",F,YOMBI 2,Subsistence Farmer,01 Jan 1960
+214,160217955,"Kuruwambi, Elly",F,YOMBI 2,Subsistence Farmer,01 Jan 1964
+215,160220939,"Langi, Josephine",F,YOMBI 2,Subsistence Farmer,01 Jan 1983
+216,160221983,"Langi, Turulu",F,YOMBI 2,Subsistence Farmer,01 Jan 1976
+217,160220961,"Lapuya, Marta",F,YOMBI 2,Subsistence Farmer,01 Jan 1981
+218,160148416,"Lembo, Janiffer",F,YOMBI 2,Subsistence Farmer,01 Jan 1984
+219,160224169,"Lembo, Mary",F,YOMBI 2,Subsistence Farmer,01 Jan 1982
+220,160224189,"Lembo, Nande",F,YOMBI 2,Subsistence Farmer,01 Jan 1980
+221,160224173,"Lembo, Serah",F,YOMBI 2,Subsistence Farmer,01 Jan 1987
+222,160224168,"Lembo, Yapi",F,YOMBI 2,Subsistence Farmer,01 Jan 1970
+223,160138321,"Liwa, Dorothy",F,YOMBI 2,Student,22 Nov 1998
+224,160219222,"Liwa, Jeniffer",F,YOMBI 2,Subsistence Farmer,01 Jan 1970
+225,160214069,"Liye, Lina",F,YOMBI 2,Subsistence Farmer,01 Jan 1967
+226,160217682,"Lombil, Nandame",F,YOMBI 2,Subsistence Farmer,01 Jan 1970
+227,160217683,"Lombil, Pende grace",F,YOMBI 2,Student,01 Jan 1990
+228,160220410,"Lopeke, Mombo",F,YOMBI 2,Subsistence Farmer,01 Jan 1954
+229,160220414,"Lopeke, Roti",F,YOMBI 2,Student,01 Jan 1988
+230,160439125,"Lopere, Ruth",F,YOMBI 2,Student,27 Aug 2001
+231,160225296,"Lucas, Lewa",F,YOMBI 2,Subsistence Farmer,01 Jan 1985
+232,160221924,"Luke, Julie",F,YOMBI 2,Subsistence Farmer,01 Jan 1972
+233,160219291,"Lumbi, Ali",F,YOMBI 2,Subsistence Farmer,01 Jan 1979
+234,160153135,"Lumbi, Roname",F,YOMBI 2,Subsistence Farmer,01 Jan 1945
+235,160214994,"Lus, Evelin",F,YOMBI 2,Subsistence Farmer,01 Jan 1986
+236,160439179,"Lus, Merolyn",F,YOMBI 2,Subsistence Farmer,20 Feb 1994
+237,160226503,"Manabi, Mesa",F,YOMBI 2,Sister,01 Jan 1957
+238,160241786,"Manambi, Lorina",F,KARULU,Household Duties,01 Jan 1984
+239,160217782,"Mande, Christina max",F,YOMBI 2,Subsistence Farmer,01 Jan 1975
+240,160241804,"Mande, Nancy",F,YOMBI 2,Household Duties,01 Jan 1985
+241,160233195,"Mande, Sandra",F,YOMBI 2,Student,01 Jan 1990
+242,160217856,"Mano, Encila",F,YOMBI 2,Subsistence Farmer,01 Jan 1988
+243,25085423,"Manu, Jerothy",F,YOMBI 2,Unemployed,06 Dec 1995
+244,160439117,"Manu, Laflin",F,YOMBI 2,Subsistence Farmer,08 Nov 1999
+245,25085424,"Mara, Cathy",F,YOMBI 2,Student,29 Jul 2003
+246,25085425,"Mara, Merolyne",F,YOMBI 2,Household Duties,12 Apr 1998
+247,160216108,"Mark, Acy",F,YOMBI 2,Subsistence Farmer,01 Jan 1982
+248,160250696,"Mark, Tala",F,KARULU,Subsistence Farmer,01 Jan 1990
+249,160439127,"Max, Danla",F,YOMBI 2,Student,24 Feb 2000
+250,160138324,"Meck, Joyce",F,YOMBI 2,Student,22 Mar 1998
+251,160148210,"Meck, Melepa",F,YOMBI 2,Subsistence Farmer,01 Jan 1983
+252,160232499,"Mek, Jenny",F,YOMBI 2,Household Duties,01 Jan 1983
+253,160245765,"Mek, Menu",F,MAPE,Subsistence Farmer,01 Jan 1991
+254,160216421,"Mek, Susan",F,YOMBI 2,Subsistence Farmer,01 Jan 1985
+255,160212997,"Mek, Wambiye",F,YOMBI 2,Subsistence Farmer,01 Jan 1966
+256,160212999,"Mek, Wendy",F,YOMBI 2,Student,01 Jan 1989
+257,160148418,"Melpa, Elly",F,YOMBI 2,Subsistence Farmer,01 Jan 1975
+258,160245595,"Melpa, Evelyn",F,YOMBI 2,Student,01 Jan 1992
+259,160224174,"Melpa, Punge",F,YOMBI 2,Subsistence Farmer,01 Jan 1969
+260,160214074,"Mendel, Korowambo",F,YOMBI 2,Subsistence Farmer,01 Jan 1950
+261,160215159,"Mendel, Wendy",F,YOMBI 2,Student,01 Jan 1978
+262,25085428,"Mero, Meriam",F,YOMBI 2,Unemployed,05 Oct 1997
+263,160241700,"Mero, Merolyn",F,IOMBI PENA,Student,01 Jan 1993
+264,160214999,"Mero, Monika",F,YOMBI 2,Subsistence Farmer,01 Jan 1986
+265,160214062,"Mero, Sam",F,YOMBI 2,Subsistence Farmer,01 Jan 1985
+266,160439180,"Mero, Semila",F,YOMBI 2,Student,25 Jul 2002
+267,160216538,"Michael, Lima",F,YOMBI 2,Subsistence Farmer,01 Jan 1977
+268,160216407,"Michael, Maria",F,YOMBI 2,Subsistence Farmer,01 Jan 1973
+269,160216520,"Micheal, Selinda",F,YOMBI 2,Subsistence Farmer,01 Jan 1986
+270,25085430,"Mick, Jossica",F,YOMBI 2,Household Duties,12 May 2001
+271,160215979,"Mike, Breda",F,YOMBI 2,Subsistence Farmer,01 Jan 1978
+272,25085431,"Mini, Wesly",F,YOMBI 2,Student,12 Apr 2004
+273,25085432,"Moke, Ruth",F,YOMBI 2,Student,01 Mar 2004
+274,160250721,"Mona, Bundi",F,YOMBI 2,Subsistence Farmer,01 Jan 1992
+275,160128486,"Moses, Benenet",F,YOMBI 2,Subsistence Farmer,30 May 1993
+276,160224178,"Moses, Carolin",F,YOMBI 2,Subsistence Farmer,01 Jan 1980
+277,160216533,"Moses, Cathy",F,YOMBI 2,Subsistence Farmer,01 Jan 1978
+278,160245764,"Moses, Flora",F,MAPE,Subsistence Farmer,01 Jan 1991
+279,25085433,"Moses, Kina",F,YOMBI 2,Household Duties,20 Nov 1997
+280,160439157,"Moses, Melin",F,YOMBI 2,Student,08 Nov 2002
+281,160221926,"Naka, Repaleme",F,YOMBI 2,Subsistence Farmer,01 Jan 1959
+282,160151828,"Nale, Evelin",F,YOMBI 2,Subsistence Farmer,01 Jan 1984
+283,160151826,"Nale, Tagaiye",F,YOMBI 2,Subsistence Farmer,01 Jan 1950
+284,160225148,"Nandiye, Anna",F,YOMBI 2,Subsistence Farmer,01 Jan 1976
+285,160128664,"Nandiye, Estherlyn",F,YOMBI 2,Student,05 Jun 1997
+286,160217969,"Nandiye, Mati",F,YOMBI 2,Student,01 Jan 1983
+287,160218408,"Nandiye, Ondom",F,YOMBI 2,Subsistence Farmer,01 Jan 1967
+288,160224183,"Napiye, Anna",F,YOMBI 2,Subsistence Farmer,01 Jan 1976
+289,160224184,"Napiye, Ester",F,YOMBI 2,Student,01 Jan 1988
+290,160224192,"Napiye, Magret",F,YOMBI 2,Subsistence Farmer,01 Jan 1978
+291,160212823,"Napiye, Niu",F,YOMBI 2,Subsistence Farmer,01 Jan 1990
+292,25085434,"Neli, Sendra",F,YOMBI 2,Subsistence Farmer,14 Aug 1996
+293,160128658,"Nelson, Roselyn",F,YOMBI 2,Subsistence Farmer,11 Mar 1995
+294,160220718,"Nepe, Koniye",F,YOMBI 2,Subsistence Farmer,01 Jan 1957
+295,25085435,"Nickson, Joy",F,YOMBI 2,Unemployed,05 Oct 1999
+296,160148310,"Nil, Padeta",F,YOMBI 2,Subsistence Farmer,01 Jan 1944
+297,160223909,"Ninge, Perepoambo",F,YOMBI 2,Subsistence Farmer,01 Jan 1955
+298,160225301,"Ninge, Queen",F,YOMBI 2,Subsistence Farmer,01 Jan 1965
+299,160222439,"Ninge, Ritha",F,YOMBI 2,Subsistence Farmer,01 Jan 1984
+300,160128674,"Ninge, Ronila",F,YOMBI 2,Student,20 Jan 1998
+301,160148060,"Ninge, Toponambo",F,YOMBI 2,Pastor,01 Jan 1979
+302,160244417,"Nirol, Elvis",F,IOMBI PENA,Student,01 Jan 1990
+303,160224179,"Nokera, Iron",F,YOMBI 2,Subsistence Farmer,01 Jan 1982
+304,160225145,"Nokera, Pukiri",F,YOMBI 2,Subsistence Farmer,01 Jan 1963
+305,160224347,"Nokera, Toea",F,YOMBI 2,Subsistence Farmer,01 Jan 1984
+306,160232540,"Noloi, Carolyn",F,YOMBI 2,Student,01 Jan 1988
+307,160216542,"Noloi, Ten",F,YOMBI 2,Subsistence Farmer,01 Jan 1971
+308,160128485,"Nomi, Stephine",F,YOMBI 2,Student,02 Feb 1998
+309,160232514,"Nondofa, Peky",F,YOMBI 2,Student,01 Jan 1990
+310,160220331,"Nondopa, Christena",F,YOMBI 2,Subsistence Farmer,01 Jan 1989
+311,160218460,"Nondopa, Egume",F,YOMBI 2,Subsistence Farmer,01 Jan 1974
+312,160439212,"Nondopa, Ethna",F,YOMBI 2,Student,19 May 2002
+313,160220716,"Nondopa, Mopune",F,YOMBI 2,Subsistence Farmer,01 Jan 1970
+314,160232539,"Nondopa, Regina",F,YOMBI 2,Student,01 Jan 1990
+315,160245763,"Norman, Usino",F,MAPE,Subsistence Farmer,01 Jan 1990
+316,160227665,"Olaiye, Pity",F,YOMBI 2,Student,01 Jan 1988
+317,160220419,"Olaye, Jullian",F,YOMBI 2,Student,01 Jan 1988
+318,160220418,"Olaye, Lineth",F,YOMBI 2,Subsistence Farmer,01 Jan 1967
+319,160250701,"Olaye, Soti",F,KARULU,Student,01 Jan 1993
+320,160439128,"Oleye, Jackinda",F,YOMBI 2,Student,08 Sep 2000
+321,160218399,"Omi, Grace",F,YOMBI 2,Subsistence Farmer,01 Jan 1968
+322,160217943,"Omi, Helen",F,YOMBI 2,Subsistence Farmer,01 Jan 1976
+323,160218396,"Omi, Jobi",F,YOMBI 2,Subsistence Farmer,01 Jan 1988
+324,160128487,"Omi, Joycelyn",F,YOMBI 2,Student,19 Oct 1997
+325,160218400,"Omi, Juli",F,YOMBI 2,Subsistence Farmer,01 Jan 1970
+326,160227667,"Omi, Pile",F,YOMBI 2,Subsistence Farmer,01 Jan 1974
+327,160218470,"Omi, Radio",F,YOMBI 2,Subsistence Farmer,01 Jan 1976
+328,160218390,"Omi, Steveni",F,YOMBI 2,Subsistence Farmer,01 Jan 1968
+329,160218271,"Omi, Walia",F,YOMBI 2,Subsistence Farmer,01 Jan 1967
+330,160218395,"Omi, Wenta",F,YOMBI 2,Subsistence Farmer,01 Jan 1988
+331,160215957,"Opel, Koniye",F,YOMBI 2,Subsistence Farmer,01 Jan 1964
+332,25085438,"Opele, Rutune",F,YOMBI 2,Student,01 Jan 2004
+333,160225302,"Paka, Pilel",F,YOMBI 2,Sister,01 Jan 1979
+334,160217700,"Papanda, Carolyn",F,YOMBI 2,Student,01 Jan 1988
+335,160227669,"Papanda, Lapi",F,YOMBI 2,Student,01 Jan 1990
+336,160215959,"Papanda, Moiye",F,YOMBI 2,Subsistence Farmer,01 Jan 1966
+337,160439218,"Papunda, Melrose",F,YOMBI 2,Student,04 Mar 2001
+338,160241781,"Patel, Anita",F,KARULU,Student,01 Jan 1993
+339,160225317,"Patel, Nopiye",F,YOMBI 2,Subsistence Farmer,01 Jan 1966
+340,160244420,"Patrick, Joyclyn",F,WANEP,Subsistence Farmer,01 Jan 1991
+341,160439142,"Patrick, Malis",F,YOMBI 2,Subsistence Farmer,20 Nov 1997
+342,160245594,"Paul, Agnes",F,KARULU,Student,01 Jan 1992
+343,25085439,"Paul, Anna",F,YOMBI 2,Student,20 Sep 2003
+344,160128700,"Paul, Jenny",F,KULI,Subsistence Farmer,12 Dec 1976
+345,160250802,"Paul, Leya",F,KARULU,Subsistence Farmer,01 Jan 1972
+346,160215187,"Paul, Lina",F,YOMBI 2,Subsistence Farmer,01 Jan 1979
+347,160224345,"Paul, Lucy",F,YOMBI 2,Subsistence Farmer,01 Jan 1971
+348,160128701,"Paul, Mini",F,KULI,Subsistence Farmer,24 Jul 1992
+349,160227490,"Paul, Nancy",F,YOMBI 2,Household Duties,01 Jan 1985
+350,160128702,"Paul, Sophia",F,KULI,Student,07 Mar 1995
+351,25085441,"Paul, Sopian",F,YOMBI 2,Student,18 May 1995
+352,160218393,"Paul, Tema",F,YOMBI 2,Subsistence Farmer,01 Jan 1979
+353,160222074,"Pawa, Lin",F,YOMBI 2,Subsistence Farmer,01 Jan 1985
+354,160439215,"Pawa, Mecklin",F,YOMBI 2,Student,02 Mar 2003
+355,160128710,"Peandi, Jopina",F,KULI,Student,21 May 1998
+356,160128709,"Peandi, Sophia",F,KULI,Student,02 Jul 1995
+357,160244419,"Pena, Sama",F,WANEP,Subsistence Farmer,01 Jan 1991
+358,160219285,"Pera, Pena",F,YOMBI 2,Subsistence Farmer,01 Jan 1969
+359,160227494,"Pera, Roina",F,YOMBI 2,Student,01 Jan 1989
+360,160439176,"Peter, Joina",F,YOMBI 2,Student,13 Oct 2000
+361,160439118,"Peter, Linda",F,YOMBI 2,Subsistence Farmer,14 Apr 1999
+362,160439209,"Petrous, Joima",F,YOMBI 2,Student,19 Mar 2002
+363,25085442,"Petrous, Nato",F,YOMBI 2,Student,20 Feb 2004
+364,160439208,"Petrous, Sementa",F,YOMBI 2,Student,01 Jan 2004
+365,160250313,"Petrus, Joicida",F,YOMBI 2,Student,01 Jan 1994
+366,160219258,"Petrus, Wendy",F,YOMBI 2,Subsistence Farmer,01 Jan 1974
+367,160217694,"Peyndi, Juli",F,YOMBI 2,Subsistence Farmer,01 Jan 1974
+368,160220713,"Philimbo, Ronda",F,YOMBI 2,Subsistence Farmer,01 Jan 1974
+369,160214061,"Philip, Dokta",F,YOMBI 2,Subsistence Farmer,01 Jan 1963
+370,160216424,"Philip, Enima",F,YOMBI 2,Subsistence Farmer,01 Jan 1977
+371,160216529,"Philip, Helen",F,YOMBI 2,Subsistence Farmer,01 Jan 1967
+372,160439168,"Philip, Joyna",F,YOMBI 2,Household Duties,22 Oct 1998
+373,160214060,"Philip, Maria",F,YOMBI 2,Subsistence Farmer,01 Jan 1961
+374,160217813,"Philip, Moiye",F,YOMBI 2,Subsistence Farmer,01 Jan 1971
+375,25085443,"Philip, Ninie",F,YOMBI 2,Student,03 Apr 2004
+376,160148072,"Philip, Open",F,YOMBI 2,Student,01 Jan 1990
+377,160250689,"Philip, Roggi",F,YOMBI 2,Subsistence Farmer,01 Jan 1992
+378,160138330,"Philip, Sikaina",F,YOMBI 2,Student,31 Dec 1997
+379,160250687,"Philip, Steveni",F,YOMBI 2,Student,01 Jan 1994
+380,160218458,"Philipo, Alopambo",F,YOMBI 2,Household Duties,01 Jan 1965
+381,160218264,"Philipo, Awiliambo",F,YOMBI 2,Household Duties,01 Jan 1966
+382,160244415,"Philipo, Open",F,WANEP,Student,01 Jan 1993
+383,25085445,"Philop, Stacy",F,YOMBI 2,Student,05 Feb 2004
+384,160218278,"Pilimbo, Amba",F,YOMBI 2,Subsistence Farmer,01 Jan 1966
+385,160128497,"Pilimbo, Hellen",F,WANEP,Subsistence Farmer,18 Mar 1981
+386,160217806,"Pilimbo, Marlin",F,YOMBI 2,Subsistence Farmer,01 Jan 1990
+387,160210813,"Pilimbo, Mopune",F,YOMBI 2,Subsistence Farmer,01 Jan 1990
+388,160220953,"Pilimbo, Nenno",F,YOMBI 2,Subsistence Farmer,01 Jan 1956
+389,160244250,"Pilimbo, Racheal",F,IOMBI PENA,Student,16 Apr 1994
+390,160250702,"Pira, Jean",F,YOMBI 2,Student,01 Jan 1993
+391,160252265,"Pira, Josica",F,YOMBI 2,Housegirl,01 Jan 1992
+392,160227960,"Pira, Joyce",F,YOMBI 2,Student,01 Jan 1990
+393,160217702,"Pira, Juli",F,YOMBI 2,Subsistence Farmer,01 Jan 1970
+394,160148279,"Poki, Kinje",F,YOMBI 2,Subsistence Farmer,01 Jan 1969
+395,25085447,"Pol, Lenitha",F,YOMBI 2,Student,15 Jan 2000
+396,25085448,"Pol, Veronica",F,YOMBI 2,Student,17 Jun 2000
+397,160220504,"Polondi, Jobina",F,YOMBI 2,Pastor,01 Jan 1980
+398,160219261,"Polondi, Palga",F,YOMBI 2,Subsistence Farmer,01 Jan 1955
+399,160220397,"Polondi, Wai",F,YOMBI 2,Subsistence Farmer,01 Jan 1982
+400,160439198,"Ponege, Melen",F,YOMBI 2,Pastor,12 Jun 1999
+401,160219289,"Pora, Lina",F,YOMBI 2,Subsistence Farmer,01 Jan 1984
+402,160215971,"Punda, Lilly kandie",F,YOMBI 2,Subsistence Farmer,01 Jan 1988
+403,160215968,"Punda, Tangorom",F,YOMBI 2,Subsistence Farmer,01 Jan 1945
+404,160138320,"Puno, Jenneth",F,YOMBI 2,Subsistence Farmer,11 Nov 1996
+405,160250324,"Rami, Roslyn",F,KARULU,Student,01 Jan 1990
+406,160250321,"Rami, Ruth",F,KARULU,Household Duties,01 Jan 1972
+407,160220399,"Rex, Betty",F,YOMBI 2,Subsistence Farmer,01 Jan 1979
+408,160439188,"Rex, Nakita",F,YOMBI 2,Student,28 Sep 2001
+409,160148287,"Richard, Clancy",F,YOMBI 2,Student,01 Jan 1988
+410,160439171,"Richard, Maya",F,YOMBI 2,Student,20 Sep 2002
+411,160148146,"Richard, Sandy",F,YOMBI 2,Subsistence Farmer,01 Jan 1972
+412,160148285,"Richard, Teni",F,YOMBI 2,Subsistence Farmer,01 Jan 1978
+413,160151676,"Robert, Jenet",F,YOMBI 2,Subsistence Farmer,01 Jan 1978
+414,160128483,"Robert, Lucy",F,YOMBI 2,Subsistence Farmer,15 Mar 1997
+415,160128667,"Robert, Torolyn",F,YOMBI 2,Subsistence Farmer,22 Jun 1991
+416,160439169,"Robin, Lavina",F,YOMBI 2,Accountant,15 Apr 1996
+417,25085449,"Ronnie, Mopisis",F,YOMBI 2,Student,01 Jan 2004
+418,160439161,"Ronol, Jullie",F,YOMBI 2,Subsistence Farmer,09 Oct 1995
+419,160217942,"Ronol, Rachel",F,YOMBI 2,Subsistence Farmer,01 Jan 1971
+420,160439162,"Sailas, Stephine",F,YOMBI 2,Subsistence Farmer,04 Mar 1994
+421,25085451,"Saimon, Wendi",F,YOMBI 2,Student,01 Jan 2004
+422,160439147,"Samson, Molina",F,YOMBI 2,Student,20 May 2003
+423,160217789,"Samson, Nale",F,YOMBI 2,Subsistence Farmer,01 Jan 1970
+424,160128660,"Samuel, Desma",F,YOMBI 2,Subsistence Farmer,21 Jun 1996
+425,160244407,"Samuel, Penny",F,WANEP,Subsistence Farmer,01 Jan 1990
+426,160439160,"Simon, Leni",F,YOMBI 2,Subsistence Farmer,18 Sep 2000
+427,160217934,"Simon, Nancy",F,YOMBI 2,Subsistence Farmer,01 Jan 1978
+428,160138323,"Simon, Racheal",F,YOMBI 2,Subsistence Farmer,17 Sep 1976
+429,160218273,"Stanley, Christena",F,YOMBI 2,Subsistence Farmer,01 Jan 1953
+430,160217687,"Stanley, Diana",F,YOMBI 2,Subsistence Farmer,01 Jan 1973
+431,160244239,"Stanley, Glenda",F,IOMBI PENA,Student,01 Jan 1994
+432,160218275,"Stanley, Janet",F,YOMBI 2,Subsistence Farmer,01 Jan 1989
+433,160218279,"Stanley, Lucy",F,YOMBI 2,Subsistence Farmer,01 Jan 1989
+434,160218274,"Stanley, Norin",F,YOMBI 2,Subsistence Farmer,01 Jan 1965
+435,160439172,"Steven, Delca",F,YOMBI 2,Student,20 Feb 2004
+436,160439193,"Steven, Grace",F,YOMBI 2,Household Duties,20 Sep 1999
+437,160217692,"Sun ena, Cathy",F,YOMBI 2,Subsistence Farmer,01 Jan 1954
+438,160128679,"Sunny, Maria",F,YOMBI 2,Subsistence Farmer,17 Sep 1990
+439,160218444,"Suri, Betty",F,YOMBI 2,Subsistence Farmer,01 Jan 1966
+440,160218407,"Suri, Doresa",F,YOMBI 2,Student,01 Jan 1988
+441,160250688,"Suri, Melisa",F,YOMBI 2,Student,01 Jan 1993
+442,160439204,"Taiue, Carol",F,YOMBI 2,Student,19 Aug 2003
+443,160439121,"Taiye, Anita",F,YOMBI 2,Subsistence Farmer,10 Mar 1995
+444,160219267,"Taiye, Easter",F,YOMBI 2,Subsistence Farmer,01 Jan 1980
+445,25085454,"Taiye, Flose",F,YOMBI 2,Student,14 Oct 2003
+446,160219262,"Taiye, Lina",F,YOMBI 2,Subsistence Farmer,01 Jan 1979
+447,160128659,"Taiye, Mercy",F,YOMBI 2,Subsistence Farmer,22 Aug 1996
+448,160220494,"Tamu, Anjo",F,YOMBI 2,Subsistence Farmer,01 Jan 1945
+449,160148428,"Tamu, Cathy",F,YOMBI 2,Student,01 Jan 1981
+450,160148425,"Tamu, Lanis",F,YOMBI 2,Subsistence Farmer,01 Jan 1979
+451,160148268,"Tamu, Ruth",F,YOMBI 2,Subsistence Farmer,01 Jan 1981
+452,160217868,"Tanda, Noiye",F,YOMBI 2,Subsistence Farmer,01 Jan 1950
+453,160217790,"Tanda, Susan",F,YOMBI 2,Subsistence Farmer,01 Jan 1971
+454,160128696,"Tande, Emma",F,KULI,Student,17 Jul 1997
+455,160217788,"Tande, Esta",F,YOMBI 2,Subsistence Farmer,01 Jan 1989
+456,160217781,"Tande, Haiee",F,YOMBI 2,Subsistence Farmer,01 Jan 1985
+457,160439197,"Tande, Mercy",F,YOMBI 2,Student,09 Jun 2002
+458,160217795,"Tande, Mullet",F,YOMBI 2,Subsistence Farmer,01 Jan 1976
+459,25085455,"Tande, Nathaneol",F,YOMBI 2,Student,15 Apr 2004
+460,160250506,"Tande, Neli",F,KARULU,Household Duties,01 Jan 1983
+461,160225319,"Tande, Ole",F,YOMBI 2,Subsistence Farmer,01 Jan 1978
+462,160214995,"Tapol, Bath",F,YOMBI 2,Cleaner,01 Jan 1945
+463,160214083,"Tapol, Kilinda",F,YOMBI 2,Student,01 Jan 1986
+464,160213174,"Tapol, Wamene",F,YOMBI 2,Subsistence Farmer,01 Jan 1960
+465,160138334,"Tasin, Anitha",F,WANEP,Student,13 Nov 1998
+466,160218618,"Tasin, Jenny",F,YOMBI 2,Subsistence Farmer,01 Jan 1970
+467,160218440,"Tawa, Kiniye",F,YOMBI 2,Subsistence Farmer,01 Jan 1963
+468,160148282,"Tawa, Wee",F,YOMBI 2,Subsistence Farmer,01 Jan 1976
+469,160128705,"Tawa, Wendy",F,KULI,Subsistence Farmer,24 May 1965
+470,160439184,"Teka, Belly",F,YOMBI 2,Student,17 Aug 2002
+471,160216547,"Teka, Elly",F,YOMBI 2,Subsistence Farmer,01 Jan 1985
+472,160226338,"Teka, Judi",F,YOMBI 2,Subsistence Farmer,01 Jan 1973
+473,160128678,"Teka, Lucy",F,YOMBI 2,Student,27 Mar 1998
+474,160128677,"Teka, Moru",F,YOMBI 2,Household Duties,03 Mar 1994
+475,160128692,"Tendeku, Lovelyn",F,YOMBI 2,Subsistence Farmer,08 Jul 1998
+476,160439191,"Tendeku, Zabert",F,YOMBI 2,Teacher,21 Mar 1999
+477,160244258,"Tennis, Elvin",F,IOMBI PENA,Student,01 Jan 1993
+478,160216420,"Tennis, Jenny",F,YOMBI 2,Subsistence Farmer,01 Jan 1982
+479,160439133,"Tennis, Joshpin",F,YOMBI 2,Student,04 Aug 2000
+480,160244421,"Tennis, Rosa",F,IOMBI PENA,Subsistence Farmer,01 Jan 1991
+481,160233187,"Tepra, Lina",F,YOMBI 2,Household Duties,01 Jan 1981
+482,160225307,"Tepra, Pollin",F,YOMBI 2,Subsistence Farmer,01 Jan 1989
+483,160146699,"Tepra, Ruth",F,YOMBI 2,Subsistence Farmer,01 Jan 1986
+484,160225141,"Tepra, Walo",F,YOMBI 2,Subsistence Farmer,01 Jan 1975
+485,160224344,"Tikipiye, Jayen",F,YOMBI 2,Student,01 Jan 1980
+486,160225146,"Tikipiye, Kepu",F,YOMBI 2,Subsistence Farmer,01 Jan 1960
+487,160128496,"Timo, Teron",F,WANEP,Subsistence Farmer,16 Feb 1994
+488,160128668,"Timothy, Jenneth",F,YOMBI 2,Household Duties,14 Jul 1988
+489,160439167,"Timothy, Sharon",F,YOMBI 2,Worker,18 Oct 1995
+490,160221969,"Tinoga, Cathy albert",F,YOMBI 2,Sister,01 Jan 1974
+491,160250693,"Tinoga, Cathylo",F,MAPE,Subsistence Farmer,01 Jan 1988
+492,160128715,"Tirim, Cathy",F,KULI,Subsistence Farmer,07 Nov 1993
+493,160244254,"Toimbo, Jerol",F,WANEP,Student,01 Jan 1992
+494,160220323,"Toimbo, Mandal",F,YOMBI 2,Subsistence Farmer,01 Jan 1967
+495,160220322,"Toimbo, Napile",F,YOMBI 2,Subsistence Farmer,01 Jan 1943
+496,160210810,"Toiye, Fiona",F,YOMBI 2,Student,01 Jan 1990
+497,160218445,"Toiye, Julie",F,YOMBI 2,Worker,01 Jan 1967
+498,160439222,"Toiye, Shree",F,YOMBI 2,Student,09 Nov 2000
+499,160215984,"Tommy, Dapina",F,YOMBI 2,Subsistence Farmer,01 Jan 1986
+500,160250798,"Tony, Ambo",F,MAPE,Subsistence Farmer,01 Jan 1990
+501,160220860,"Tope, Elly",F,YOMBI 2,Subsistence Farmer,01 Jan 1960
+502,160217708,"Toringi, Kombil",F,YOMBI 2,Subsistence Farmer,01 Jan 1946
+503,160217690,"Tumbo, Ani",F,YOMBI 2,Subsistence Farmer,01 Jan 1986
+504,160244409,"Tumbo, Doli",F,IOMBI PENA,Student,01 Jan 1992
+505,160439122,"Tumbo, Las",F,YOMBI 2,Student,01 Feb 2001
+506,160217940,"Tumbo, Rureno",F,YOMBI 2,Subsistence Farmer,01 Jan 1951
+507,160439131,"Tuwa, Loise",F,YOMBI 2,Student,12 Apr 2002
+508,160226363,"Tuwa, Nonge",F,YOMBI 2,Subsistence Farmer,01 Jan 1971
+509,160128697,"Ule, Melili",F,KULI,Student,17 Oct 1998
+510,160217957,"Ule, Mindiliambo",F,YOMBI 2,Subsistence Farmer,01 Jan 1947
+511,160139673,"Ule, Mondi",F,KULI,Subsistence Farmer,26 Nov 1970
+512,25085458,"Ule, Wita",F,YOMBI 2,Student,14 Jan 2004
+513,160218454,"Waka, Veronica",F,YOMBI 2,Subsistence Farmer,01 Jan 1974
+514,160226353,"Wane, Agnes",F,YOMBI 2,Subsistence Farmer,01 Jan 1973
+515,160148223,"Wane, Betty",F,YOMBI 2,Subsistence Farmer,01 Jan 1988
+516,160220727,"Wane, Cimbiye",F,YOMBI 2,Subsistence Farmer,01 Jan 1954
+517,160233186,"Wane, Grace",F,YOMBI 2,Student,01 Jan 1989
+518,160225310,"Wane, Lavana",F,YOMBI 2,Student,01 Jan 1985
+519,160148403,"Wane, Levana",F,YOMBI 2,Student,01 Jan 1988
+520,160250799,"Wangi, Meri",F,YOMBI 2,Subsistence Farmer,01 Jan 1990
+521,160225139,"Wangi, Winis",F,YOMBI 2,Subsistence Farmer,01 Jan 1973
+522,160222114,"Wanpis, Helen",F,YOMBI 2,Subsistence Farmer,01 Jan 1979
+523,160148061,"Wanpis, Hellen",F,YOMBI 2,Subsistence Farmer,01 Jan 1980
+524,160218276,"Wanpis, Runa",F,YOMBI 2,Subsistence Farmer,01 Jan 1986
+525,160224165,"Wapea, Eli",F,YOMBI 2,Subsistence Farmer,01 Jan 1971
+526,160215965,"Warap, Kurupame",F,YOMBI 2,Subsistence Farmer,01 Jan 1950
+527,160215970,"Wax, Kuku kanekane",F,YOMBI 2,Subsistence Farmer,01 Jan 1979
+528,160128655,"Wee, Tia",F,YOMBI 2,Household Duties,18 Aug 1987
+529,160219271,"Wepo, Wipa",F,YOMBI 2,Subsistence Farmer,01 Jan 1961
+530,160148070,"Wesley, Kanomo",F,YOMBI 2,Subsistence Farmer,01 Jan 1986
+531,160220326,"Wesley, Melisa",F,YOMBI 2,Subsistence Farmer,01 Jan 1988
+532,160221967,"Wesley, Ruth",F,YOMBI 2,Subsistence Farmer,01 Jan 1969
+533,160244256,"Wex, Frida",F,IOMBI PENA,Subsistence Farmer,01 Jan 1991
+534,160128671,"Willie, Lavina",F,YOMBI 2,Subsistence Farmer,03 Jun 1992
+535,160215759,"Yando, Betty",F,YOMBI 2,Subsistence Farmer,01 Jan 1973
+536,160218450,"Yoko, Mombe",F,YOMBI 2,Subsistence Farmer,01 Jan 1959
+537,160218442,"Yoko, Uweme",F,YOMBI 2,Subsistence Farmer,01 Jan 1956
+538,160222603,"Yunas, Monica",F,YOMBI 2,Subsistence Farmer,01 Jan 1984
+539,160250698,"Yunungo, Regina",F,KARULU,Student,01 Jan 1993
+540,160219268,"Yunungo, Ruta",F,YOMBI 2,Subsistence Farmer,01 Jan 1956
+541,160219282,"Aiye, Benjie",M,YOMBI 2,Subsistence Farmer,01 Jan 1982
+542,160128482,"Aiye, Ellison",M,YOMBI 2,Student,03 Oct 1996
+543,160219281,"Aiye, James",M,YOMBI 2,Subsistence Farmer,01 Jan 1979
+544,160218449,"Aiye, Robert",M,YOMBI 2,Subsistence Farmer,01 Jan 1988
+545,160217864,"Aiyele, Alo",M,YOMBI 2,Subsistence Farmer,01 Jan 1977
+546,160217961,"Aiyele, Kalta",M,YOMBI 2,Subsistence Farmer,01 Jan 1966
+547,160216412,"Aiyele, Kara",M,YOMBI 2,Subsistence Farmer,01 Jan 1974
+548,160217963,"Aiyele, Mano",M,YOMBI 2,Subsistence Farmer,01 Jan 1977
+549,160217705,"Aiyele, Mek",M,YOMBI 2,Subsistence Farmer,01 Jan 1976
+550,160217704,"Aiyele, Paul",M,YOMBI 2,Subsistence Farmer,01 Jan 1979
+551,160439120,"Aiyele, Peter",M,YOMBI 2,Driver,02 Oct 1995
+552,160217804,"Aiyele, Tenis",M,YOMBI 2,Subsistence Farmer,01 Jan 1980
+553,25085354,"Ake, David",M,YOMBI 2,Student,09 Dec 2003
+554,160439130,"Allen, Gilbert",M,YOMBI 2,Student,28 Sep 2002
+555,25085359,"Alyele, Barabas",M,YOMBI 2,Student,11 Feb 1970
+556,160250314,"Andia, Rami",M,KARULU,Subsistence Farmer,01 Jan 1965
+557,160220721,"Andopotil, Robert",M,YOMBI 2,Subsistence Farmer,01 Jan 1977
+558,160250692,"Andopotol, Kewa",M,YOMBI 2,Subsistence Farmer,01 Jan 1980
+559,160439224,"Andrew, Manuel",M,YOMBI 2,Student,06 Mar 2003
+560,160439225,"Andrew, Penuel",M,YOMBI 2,Student,15 Jun 2001
+561,160217952,"Anekale, Mention tande",M,YOMBI 2,Subsistence Farmer,01 Jan 1974
+562,160217797,"Anekale, Micheal",M,YOMBI 2,Subsistence Farmer,01 Jan 1977
+563,160217956,"Anekale, Peter",M,YOMBI 2,Subsistence Farmer,01 Jan 1989
+564,160217786,"Anekale, Steven",M,YOMBI 2,Subsistence Farmer,01 Jan 1987
+565,160439200,"Anekale, Willie",M,YOMBI 2,Student,27 Aug 1994
+566,25085369,"Apel, Fibean",M,YOMBI 2,Student,18 Apr 2004
+567,160250699,"Arumbi, Jimmy",M,KARULU,Security,01 Jan 1972
+568,160214070,"Arumbi, Karl taka",M,YOMBI 2,Subsistence Farmer,01 Jan 1983
+569,160215758,"Arumbi, Keya",M,YOMBI 2,Security,01 Jan 1977
+570,160219220,"Arumbi, Liwa seki",M,YOMBI 2,Subsistence Farmer,01 Jan 1962
+571,160215352,"Arumbi, Liye",M,YOMBI 2,Subsistence Farmer,01 Jan 1963
+572,160220417,"Arumbi, Olaye",M,YOMBI 2,Subsistence Farmer,01 Jan 1959
+573,160439190,"Ben, Brendon",M,YOMBI 2,Student,24 Jul 1996
+574,160439158,"Billy, Mayron",M,YOMBI 2,Subsistence Farmer,09 Jan 2000
+575,25085375,"Buka, Otti",M,YOMBI 2,Student,09 Feb 2004
+576,160217973,"Buru, Benjie",M,YOMBI 2,Student,01 Jan 1988
+577,160217972,"Buru, Bernard",M,YOMBI 2,Student,01 Jan 1986
+578,160439217,"Buru, Clent",M,YOMBI 2,Student,10 May 2001
+579,25085377,"Buru, Nathan",M,YOMBI 2,Student,12 May 2003
+580,160250801,"Charlie, Esekaia",M,YOMBI 2,Student,01 Jan 1991
+581,160439163,"Charlie, Herison",M,YOMBI 2,Student,11 Aug 2000
+582,160216431,"Charlie, Junior esikel",M,YOMBI 2,Student,01 Jan 1988
+583,25085379,"Daniel, Damen",M,YOMBI 2,Student,18 Jul 2003
+584,25085381,"Daniel, Junior",M,YOMBI 2,Student,15 Apr 2003
+585,160439181,"Daniel, Junior",M,YOMBI 2,Student,27 Sep 2001
+586,160223912,"Dick, Konjil",M,YOMBI 2,Subsistence Farmer,01 Jan 1946
+587,160223907,"Dick, Ninge",M,YOMBI 2,Subsistence Farmer,01 Jan 1946
+588,160439189,"Dopo, Chris",M,YOMBI 2,Student,27 Sep 2001
+589,160148198,"Dopo, Punda",M,YOMBI 2,Subsistence Farmer,01 Jan 1940
+590,160511102,"Dopo, Robert",M,YOMBI 2,Student,11 Aug 2001
+591,160216544,"Dopo, Ule",M,YOMBI 2,Subsistence Farmer,01 Jan 1944
+592,160128689,"Dopo, Winchbert",M,YOMBI 2,Student,08 Nov 1990
+593,160153290,"Eka, Kombil",M,YOMBI 2,Subsistence Farmer,01 Jan 1937
+594,160220409,"Eke, Lopeke",M,YOMBI 2,Subsistence Farmer,01 Jan 1947
+595,160219215,"Eke, Wepo",M,YOMBI 2,Subsistence Farmer,01 Jan 1956
+596,160220411,"Eke, Yunungo",M,YOMBI 2,Subsistence Farmer,01 Jan 1944
+597,160439192,"Elvis, C'kay",M,YOMBI 2,Subsistence Farmer,25 May 1996
+598,160439183,"Elvis, Watone",M,YOMBI 2,Student,21 Apr 2002
+599,160233193,"Ena, Ila",M,YOMBI 2,Student,01 Jan 1990
+600,160128672,"Ena, Max",M,YOMBI 2,Student,16 Feb 1998
+601,160250312,"Firmin, Gordan",M,KARULU,Student,01 Jan 1990
+602,25085391,"Friman, Gibson",M,YOMBI 2,Student,29 Aug 2003
+603,160222088,"Garu, Cain",M,YOMBI 2,Subsistence Farmer,01 Jan 1985
+604,160220965,"Garu, Luke",M,YOMBI 2,Subsistence Farmer,01 Jan 1977
+605,160222087,"Garu, Martin",M,YOMBI 2,Student,01 Jan 1988
+606,160128703,"Imbi, Jackson",M,KULI,Student,21 May 1996
+607,160220413,"Iya, Alex wari",M,YOMBI 2,Subsistence Farmer,01 Jan 1988
+608,160128673,"Iya, Jopab",M,YOMBI 2,Student,15 Apr 1999
+609,160220334,"Iya, Simon",M,YOMBI 2,Student,01 Jan 1987
+610,160233196,"James, Erick",M,YOMBI 2,Subsistence Farmer,01 Jan 1990
+611,160215000,"James, Honly",M,YOMBI 2,Student,01 Jan 1988
+612,160241778,"James, Iso",M,YOMBI 2,Student,01 Jan 1994
+613,160439220,"James, Jayson",M,YOMBI 2,Student,05 Aug 2002
+614,160241790,"James, Jopab",M,KARULU,Student,01 Jan 1980
+615,160439221,"James, Kelep",M,YOMBI 2,Student,06 Apr 2000
+616,160439116,"James, Lesley",M,YOMBI 2,Student,10 Sep 2002
+617,160232495,"James, Livai",M,YOMBI 2,Student,01 Jan 1990
+618,160215162,"James, Nicky",M,YOMBI 2,Student,01 Jan 1982
+619,160232494,"James, Patrick",M,YOMBI 2,Student,01 Jan 1988
+620,160220497,"James, Tom",M,YOMBI 2,Subsistence Farmer,01 Jan 1989
+621,160216556,"Jeff, Ronnie",M,YOMBI 2,Student,01 Jan 1982
+622,160244408,"Jim, Jebedy",M,IOMBI PENA,Student,01 Jan 1993
+623,160244248,"Jim, Jebilon",M,IOMBI PENA,Student,16 Aug 1993
+624,25085404,"Jim, Jimson",M,YOMBI 2,Student,02 May 2003
+625,160220815,"Joe, Coniullus",M,YOMBI 2,Subsistence Farmer,01 Jan 1986
+626,160220861,"Joe, Jeremaiah",M,YOMBI 2,Subsistence Farmer,01 Jan 1989
+627,25085407,"Joe, Jordan",M,YOMBI 2,Student,28 Apr 2004
+628,160128691,"Joe, Manu",M,YOMBI 2,Subsistence Farmer,22 Dec 1995
+629,160439206,"John, Exodes",M,YOMBI 2,Worker,10 May 1999
+630,160232501,"John, Iso",M,YOMBI 2,Student,01 Jan 1989
+631,25085410,"John, Joel",M,YOMBI 2,Student,04 Feb 2004
+632,25085413,"Jonah, Johnston",M,YOMBI 2,Student,02 Mar 2004
+633,25085414,"Joseph, Steven",M,YOMBI 2,Subsistence Farmer,12 Jun 1978
+634,160232504,"Kadiki, Daniel",M,YOMBI 2,Subsistence Farmer,01 Jan 1988
+635,160232544,"Kadiki, Joseph",M,YOMBI 2,Subsistence Farmer,01 Jan 1990
+636,160250165,"Kadiki, Kelly",M,KARULU,Student,01 Jan 1980
+637,160232543,"Kadiki, Pareka",M,YOMBI 2,Student,01 Jan 1986
+638,160439115,"Kalta, Dusntan",M,YOMBI 2,Student,09 Mar 2004
+639,160139674,"Kalta, Jaydie",M,KULI,Student,13 Jul 1996
+640,160226599,"Kalta, Kanombo",M,YOMBI 2,Subsistence Farmer,01 Jan 1959
+641,160244410,"Kalta, Matusella",M,IOMBI PENA,Student,01 Jan 1993
+642,160220719,"Kambiye, Andopotil",M,YOMBI 2,Subsistence Farmer,01 Jan 1984
+643,160220711,"Kambiyekera, Lambi",M,YOMBI 2,Subsistence Farmer,01 Jan 1965
+644,160151869,"Kambiyekera, Nil",M,YOMBI 2,Subsistence Farmer,01 Jan 1938
+645,160217968,"Kana, Gidion",M,YOMBI 2,Student,01 Jan 1988
+646,160439166,"Kana, Hesman",M,YOMBI 2,Student,19 Apr 2001
+647,160218409,"Kana, Simon",M,YOMBI 2,Electrician,01 Jan 1978
+648,160224190,"Kanekane, Diko",M,YOMBI 2,Subsistence Farmer,01 Jan 1982
+649,160225149,"Kanekane, Dupi",M,YOMBI 2,Subsistence Farmer,01 Jan 1974
+650,160224191,"Kanekane, Mathew",M,YOMBI 2,Subsistence Farmer,01 Jan 1984
+651,160226600,"Kanekane, Nandiye",M,YOMBI 2,Forest Officer,01 Jan 1971
+652,160224182,"Kanekane, Napiye",M,YOMBI 2,Subsistence Farmer,01 Jan 1977
+653,160220867,"Kanombo, Buka",M,YOMBI 2,Subsistence Farmer,01 Jan 1976
+654,160220499,"Kanombo, Dot",M,YOMBI 2,Subsistence Farmer,01 Jan 1975
+655,160211123,"Kanombo, Iki",M,YOMBI 2,Subsistence Farmer,01 Jan 1990
+656,160225152,"Kanombo, Kola",M,YOMBI 2,Subsistence Farmer,01 Jan 1981
+657,160241777,"Kanombo, Neli",M,YOMBI 2,Student,01 Jan 1993
+658,160214988,"Karu, Albert",M,YOMBI 2,Subsistence Farmer,01 Jan 1968
+659,160213176,"Karu, Glaime",M,YOMBI 2,Subsistence Farmer,01 Jan 1987
+660,160214992,"Karu, Lus",M,YOMBI 2,Subsistence Farmer,01 Jan 1982
+661,160214059,"Karu, Mero",M,YOMBI 2,Subsistence Farmer,01 Jan 1977
+662,160213173,"Karu, Toiye",M,YOMBI 2,Subsistence Farmer,01 Jan 1985
+663,160439202,"Katepa, Abert",M,YOMBI 2,Student,28 Sep 2002
+664,160226359,"Keleli, Jim",M,YOMBI 2,Subsistence Farmer,01 Jan 1983
+665,160226343,"Keleli, Manabi",M,YOMBI 2,Teacher,01 Jan 1952
+666,160225315,"Keleli, Patil",M,YOMBI 2,Subsistence Farmer,01 Jan 1964
+667,160225304,"Keleli, Tande",M,YOMBI 2,Pastor,01 Jan 1974
+668,160226501,"Keleli, Teka",M,YOMBI 2,Subsistence Farmer,01 Jan 1975
+669,160218469,"Kelema, Omi",M,YOMBI 2,Subsistence Farmer,01 Jan 1955
+670,160148284,"Kelema, Richard",M,YOMBI 2,Subsistence Farmer,01 Jan 1968
+671,160439182,"Kire, Brian",M,YOMBI 2,Student,02 Apr 2002
+672,160223908,"Kire, Dopo",M,YOMBI 2,Subsistence Farmer,01 Jan 1984
+673,160223910,"Kire, Jim",M,YOMBI 2,Worker,01 Jan 1972
+674,160222432,"Kire, Mara",M,YOMBI 2,Subsistence Farmer,01 Jan 1987
+675,160222600,"Kire, Yunas",M,YOMBI 2,Subsistence Farmer,01 Jan 1981
+676,160210802,"Kisopa, Akambo",M,YOMBI 2,Student,01 Jan 1990
+677,160439203,"Kisopa, Kilton",M,YOMBI 2,Student,16 Jun 2002
+678,25085419,"Kisopa, Kison",M,YOMBI 2,Student,17 Nov 2003
+679,160225142,"Kisopa, Timo",M,YOMBI 2,Subsistence Farmer,01 Jan 1982
+680,160225143,"Kisopa, Torombena",M,YOMBI 2,Subsistence Farmer,01 Jan 1987
+681,160226352,"Koi, Ninge",M,YOMBI 2,Subsistence Farmer,01 Jan 1963
+682,160128676,"Koi, Seri",M,YOMBI 2,Student,17 May 1998
+683,160241779,"Koi, Vinsen",M,KARULU,Student,01 Jan 1992
+684,160224175,"Koke, Kanekane",M,YOMBI 2,Subsistence Farmer,01 Jan 1948
+685,25087450,"Kolakulu, Danny",M,YOMBI 2,Student,11 Apr 2004
+686,160128707,"Kolakulu, Noel",M,KULI,Student,06 Aug 1997
+687,160221970,"Kolakulu, Norman",M,YOMBI 2,Subsistence Farmer,01 Jan 1985
+688,160225313,"Kombil, Akena",M,YOMBI 2,Subsistence Farmer,01 Jan 1977
+689,160128669,"Kombil, Guli",M,YOMBI 2,Subsistence Farmer,17 Sep 1973
+690,160225300,"Kombil, Lucas",M,YOMBI 2,Subsistence Farmer,01 Jan 1982
+691,160226509,"Kombil, Tuwa",M,YOMBI 2,Pastor,01 Jan 1959
+692,160226514,"Kombil, Wane",M,YOMBI 2,Subsistence Farmer,01 Jan 1964
+693,160153289,"Koneya, Keleli",M,YOMBI 2,Subsistence Farmer,01 Jan 1937
+694,160223906,"Konjil, Kot",M,YOMBI 2,Subsistence Farmer,01 Jan 1982
+695,160439156,"Kot, Andrew",M,YOMBI 2,Subsistence Farmer,06 Sep 2000
+696,160218403,"Kot, Philip",M,YOMBI 2,Subsistence Farmer,01 Jan 1984
+697,160217948,"Kot, Samuel",M,YOMBI 2,Subsistence Farmer,01 Jan 1979
+698,160218398,"Kote, Able",M,YOMBI 2,Student,01 Jan 1988
+699,160232545,"Kote, Robin",M,YOMBI 2,Student,01 Jan 1989
+700,160439228,"Kote, Stanvil",M,YOMBI 2,Student,19 Jun 2002
+701,160220491,"Kultiki, Iya",M,YOMBI 2,Subsistence Farmer,01 Jan 1950
+702,160220967,"Kultiki, Sun ena",M,YOMBI 2,Magistrate,01 Jan 1956
+703,160220869,"Kumbulde, Katepa",M,YOMBI 2,Subsistence Farmer,01 Jan 1956
+704,160220717,"Kunumbiye, Nepe mano",M,YOMBI 2,Subsistence Farmer,01 Jan 1958
+705,160128714,"Kurupu, Alphonse",M,KULI,Subsistence Farmer,11 Nov 1996
+706,160218270,"Kurupu, Joseph",M,YOMBI 2,Subsistence Farmer,01 Jan 1987
+707,160232496,"Kurupu, Mick",M,YOMBI 2,Student,01 Jan 1985
+708,160218269,"Kurupu, Simon",M,YOMBI 2,Subsistence Farmer,01 Jan 1983
+709,160218268,"Kurupu, Wanpis",M,YOMBI 2,Subsistence Farmer,01 Jan 1985
+710,160439143,"Kuruwabi, Maya",M,YOMBI 2,Student,02 Sep 2002
+711,160439149,"Kuruwabi, Peterson",M,YOMBI 2,Student,28 Mar 2000
+712,160244246,"Kuruwambi, Jetro",M,IOMBI PENA,Student,01 Jan 1993
+713,160216550,"Lama, Buru",M,YOMBI 2,Worker,01 Jan 1957
+714,160216105,"Lama, John",M,YOMBI 2,Manager,01 Jan 1967
+715,160218261,"Lama, Kurupu",M,YOMBI 2,Subsistence Farmer,01 Jan 1965
+716,160218406,"Lama, Nandiye",M,YOMBI 2,Subsistence Farmer,01 Jan 1954
+717,160215914,"Lama, Papanda",M,YOMBI 2,Subsistence Farmer,01 Jan 1960
+718,160217938,"Lama, Stanley",M,YOMBI 2,Subsistence Farmer,01 Jan 1951
+719,160220712,"Lambi, Philimbo",M,YOMBI 2,Driver,01 Jan 1970
+720,160220714,"Lambi, Rex",M,YOMBI 2,Subsistence Farmer,01 Jan 1970
+721,160220943,"Langi, Andrew",M,YOMBI 2,Pastor,01 Jan 1960
+722,160220940,"Langi, Daniel",M,YOMBI 2,Subsistence Farmer,01 Jan 1967
+723,160221951,"Langi, James",M,YOMBI 2,Pastor,01 Jan 1957
+724,160222083,"Langi, Mali",M,YOMBI 2,Subsistence Farmer,01 Jan 1981
+725,160222082,"Langi, Patrick",M,YOMBI 2,Subsistence Farmer,01 Jan 1978
+726,25085421,"Lapuya, Amon",M,YOMBI 2,Student,15 Dec 2003
+727,160213001,"Lawa, Koyapo",M,YOMBI 2,Subsistence Farmer,01 Jan 1955
+728,160214989,"Lawa, Mek",M,YOMBI 2,Subsistence Farmer,01 Jan 1957
+729,160224171,"Lembo, Tenis",M,YOMBI 2,Subsistence Farmer,01 Jan 1977
+730,160222085,"Lepos, Albert tinoga",M,YOMBI 2,Teacher,01 Jan 1973
+731,160128495,"Limu, Mark",M,WANEP,Teacher,06 Oct 1987
+732,25085422,"Liwa, Smith",M,YOMBI 2,Student,12 Jun 2001
+733,160216441,"Lombil, Hapa",M,YOMBI 2,Subsistence Farmer,01 Jan 1979
+734,160216534,"Lombil, Meck",M,YOMBI 2,Driver,01 Jan 1979
+735,160216439,"Lombil, Moses",M,YOMBI 2,Subsistence Farmer,01 Jan 1972
+736,160250311,"Lopeke, Steven",M,KARULU,Student,01 Jan 1991
+737,160220332,"Lopeke, Sunny",M,YOMBI 2,Student,01 Jan 1985
+738,160218459,"Lumbi, Nondopa",M,YOMBI 2,Subsistence Farmer,01 Jan 1964
+739,160218392,"Lumbi, Paul",M,YOMBI 2,Subsistence Farmer,01 Jan 1963
+740,160217814,"Makinjil, Lombil",M,YOMBI 2,Subsistence Farmer,01 Jan 1951
+741,160226506,"Manabi, Bendick",M,YOMBI 2,Student,01 Jan 1988
+742,160226504,"Manabi, Brendi",M,YOMBI 2,Student,01 Jan 1986
+743,160250695,"Manambi, Beneth",M,KARULU,Student,01 Jan 1991
+744,160220814,"Mara, Joe",M,YOMBI 2,Subsistence Farmer,01 Jan 1963
+745,160139672,"Mark, Jeremy",M,KULI,Student,15 Jul 1996
+746,25085426,"Mark, Maije",M,YOMBI 2,Student,10 Dec 2003
+747,160439134,"Meck, Odrick",M,YOMBI 2,Student,14 Feb 2002
+748,160241791,"Mek, Anderson",M,KARULU,Student,01 Jan 1992
+749,160220725,"Mekambe, Wane",M,YOMBI 2,Subsistence Farmer,01 Jan 1950
+750,160214088,"Mendel, Firmin",M,YOMBI 2,Subsistence Farmer,01 Jan 1962
+751,160214075,"Mendel, James namba",M,YOMBI 2,Driver,01 Jan 1955
+752,160215197,"Mendel, Willie",M,YOMBI 2,Subsistence Farmer,01 Jan 1987
+753,160439199,"Mex, Charles",M,YOMBI 2,Farm worker,29 Jul 1995
+754,160232498,"Michael, Adam",M,YOMBI 2,Student,01 Jan 1990
+755,160439186,"Michael, Nelson",M,YOMBI 2,Student,05 Apr 2004
+756,160232500,"Michael, Steward",M,YOMBI 2,Student,01 Jan 1989
+757,160128490,"Micheal, Maika",M,YOMBI 2,Student,11 Oct 1995
+758,25085429,"Micheal, Vincent",M,YOMBI 2,Student,12 Feb 2004
+759,160217810,"Mindil, James",M,YOMBI 2,Driver,01 Jan 1964
+760,160218410,"Mindil, Kana",M,YOMBI 2,Worker,01 Jan 1956
+761,160217944,"Mindil, Kiniwi",M,YOMBI 2,Subsistence Farmer,01 Jan 1955
+762,160216528,"Mindil, Philip",M,YOMBI 2,Subsistence Farmer,01 Jan 1966
+763,160148211,"Mongo, Opel",M,YOMBI 2,Worker,01 Jan 1969
+764,160222075,"Naka, Wanpis",M,YOMBI 2,Subsistence Farmer,01 Jan 1977
+765,160146684,"Nale, Allen",M,YOMBI 2,Subsistence Farmer,01 Jan 1982
+766,160146685,"Nale, Jacob",M,YOMBI 2,Subsistence Farmer,01 Jan 1981
+767,160241789,"Namba, Nanu",M,KARULU,Student,01 Jan 1990
+768,160217965,"Nandiye, Johnathan",M,YOMBI 2,Subsistence Farmer,01 Jan 1980
+769,160128663,"Nandiye, Joshua",M,YOMBI 2,Student,03 Sep 1994
+770,160217964,"Nandiye, Pena charles",M,YOMBI 2,Subsistence Farmer,01 Jan 1976
+771,160250803,"Napiye, Joel",M,YOMBI 2,Student,01 Jan 1992
+772,160222079,"Nawi, Langi",M,YOMBI 2,Pastor,01 Jan 1942
+773,160220963,"Nede, Yombono",M,YOMBI 2,Subsistence Farmer,01 Jan 1943
+774,160250694,"Ninge, Bob",M,KARULU,Student,01 Jan 1990
+775,160222497,"Ninge, Philip",M,YOMBI 2,Student,01 Jan 1976
+776,160217794,"Niningi, Aiyele",M,YOMBI 2,Subsistence Farmer,01 Jan 1964
+777,160220942,"Niningi, Imbi",M,YOMBI 2,Subsistence Farmer,01 Jan 1952
+778,160222072,"Niningi, Naka",M,YOMBI 2,Subsistence Farmer,01 Jan 1952
+779,160216553,"Niningi, Toringi",M,YOMBI 2,Subsistence Farmer,01 Jan 1943
+780,25085436,"Nodopa, Pure",M,YOMBI 2,Student,09 Aug 2003
+781,160222500,"Noimbo, Kadiki",M,YOMBI 2,Subsistence Farmer,01 Jan 1954
+782,160225325,"Nokera, Daye",M,YOMBI 2,Subsistence Farmer,01 Jan 1973
+783,160225144,"Nokera, Epeya",M,YOMBI 2,Subsistence Farmer,01 Jan 1981
+784,160151863,"Nokera, John kopu",M,YOMBI 2,Subsistence Farmer,01 Jan 1966
+785,160224177,"Nokera, Moses",M,YOMBI 2,Subsistence Farmer,01 Jan 1975
+786,160439136,"Nomi, Japeth",M,YOMBI 2,Student,10 Aug 1999
+787,160216406,"Nomi, Michael",M,YOMBI 2,Manager,01 Jan 1962
+788,160218462,"Nondopa, Hapa",M,YOMBI 2,Student,01 Jan 1987
+789,160439211,"Nondopa, Jona",M,YOMBI 2,Student,20 Apr 2003
+790,160439213,"Nondopa, Joshua",M,YOMBI 2,Student,09 Aug 2000
+791,160128662,"Nondopa, Lucas",M,YOMBI 2,Student,16 Jul 1994
+792,160227965,"Olaiye, Jack",M,YOMBI 2,Subsistence Farmer,01 Jan 1990
+793,160439138,"Omi, Kenedy",M,YOMBI 2,Subsistence Farmer,10 Feb 1996
+794,160218394,"Omi, Keneth",M,YOMBI 2,Subsistence Farmer,01 Jan 1986
+795,160128488,"Omi, Nickol",M,YOMBI 2,Student,13 Sep 1992
+796,160138328,"Omi, Wari",M,YOMBI 2,Student,18 May 1994
+797,160439139,"Omi, Winti",M,YOMBI 2,Driver,10 Mar 1997
+798,160216536,"Opel, Tim",M,YOMBI 2,Student,01 Jan 1988
+799,160216404,"Opel, Tony",M,YOMBI 2,Subsistence Farmer,01 Jan 1985
+800,160138332,"Opele, Able",M,YOMBI 2,Student,12 Oct 1995
+801,160128493,"Opele, Dickson",M,YOMBI 2,Student,06 Nov 1992
+802,160219266,"Opileye, Polondi",M,YOMBI 2,Subsistence Farmer,01 Jan 1952
+803,160217791,"Orokoye, Kolakulu",M,YOMBI 2,Subsistence Farmer,01 Jan 1947
+804,160151824,"Pandeye, Wane",M,YOMBI 2,Subsistence Farmer,01 Jan 1951
+805,160245761,"Papanda, Junior",M,YOMBI 2,Student,01 Jan 1994
+806,160215960,"Papanda, Puno",M,YOMBI 2,Student,01 Jan 1987
+807,160439219,"Papunda, Malakai",M,YOMBI 2,Student,10 Sep 1999
+808,160225318,"Patel, Amos",M,YOMBI 2,Student,01 Jan 1989
+809,160250800,"Paul, Benson",M,KARULU,Subsistence Farmer,01 Jan 1986
+810,160250691,"Paul, Joe",M,KARULU,Student,01 Jan 1989
+811,25085440,"Paul, Junior",M,YOMBI 2,Student,12 Jul 2002
+812,160439214,"Paul, Nema",M,YOMBI 2,Student,04 Jul 2001
+813,160128680,"Paul, Teylor",M,YOMBI 2,Student,04 Aug 1996
+814,160138333,"Pera, Stephen",M,YOMBI 2,Student,22 Apr 1996
+815,160222078,"Perep, Dias",M,YOMBI 2,Subsistence Farmer,01 Jan 1969
+816,160215749,"Perepo, Luke",M,YOMBI 2,Subsistence Farmer,01 Jan 1971
+817,160222073,"Perepo, Pawa",M,YOMBI 2,Subsistence Farmer,01 Jan 1973
+818,160215963,"Perepo, Pira",M,YOMBI 2,Subsistence Farmer,01 Jan 1962
+819,160439126,"Peter, Lopeke",M,YOMBI 2,Student,28 Apr 2001
+820,160219212,"Petrus, Fred",M,YOMBI 2,Student,01 Jan 1987
+821,160219211,"Petrus, Gidion",M,YOMBI 2,Student,01 Jan 1985
+822,160244412,"Petrus, Manu",M,WANEP,Student,01 Jan 1990
+823,160439165,"Philip, Samuel",M,YOMBI 2,Student,14 May 1999
+824,160138329,"Philip, Semmy",M,YOMBI 2,Student,04 Jul 1995
+825,160227967,"Philip, Simon",M,YOMBI 2,Student,01 Jan 1990
+826,25085444,"Philip, Siron",M,YOMBI 2,Student,14 Jul 1999
+827,160216532,"Philip, Solo",M,YOMBI 2,Student,01 Jan 1990
+828,160439164,"Philip, Steve",M,YOMBI 2,Student,09 Sep 2002
+829,160227668,"Philip, Tendeku",M,YOMBI 2,Student,01 Jan 1988
+830,160218465,"Philipo, Kupu",M,YOMBI 2,Farm worker,01 Jan 1976
+831,160439141,"Pilimbo, Alget",M,YOMBI 2,Student,09 Mar 2004
+832,160128711,"Pilimbo, Alpha",M,KULI,Student,07 Nov 1997
+833,160220724,"Pilimbo, Andrew",M,YOMBI 2,Subsistence Farmer,01 Jan 1988
+834,160220489,"Pilimbo, Daniel",M,YOMBI 2,Teacher,01 Jan 1979
+835,25085446,"Pilimbo, Finley",M,YOMBI 2,Student,09 Apr 2004
+836,160220490,"Pilimbo, John pilimbo",M,YOMBI 2,Subsistence Farmer,01 Jan 1982
+837,160439152,"Pilimbo, Omiga",M,YOMBI 2,Student,12 May 1999
+838,160220403,"Pilimbo, Stanley",M,YOMBI 2,Subsistence Farmer,01 Jan 1985
+839,160244422,"Poi, Abram",M,IOMBI PENA,Student,01 Jan 1993
+840,160128489,"Poki, Daniel",M,YOMBI 2,Student,10 Aug 1996
+841,160219117,"Polondi, Petrus",M,YOMBI 2,Worker,01 Jan 1969
+842,160439114,"Pope, Jacky",M,YOMBI 2,Subsistence Farmer,09 Jan 1999
+843,160217691,"Puiye, Domas",M,YOMBI 2,Subsistence Farmer,01 Jan 1972
+844,160218272,"Puiye, Kuruwambi",M,YOMBI 2,Subsistence Farmer,01 Jan 1959
+845,160217693,"Puiye, Peyadi",M,YOMBI 2,Subsistence Farmer,01 Jan 1971
+846,160218277,"Puiye, Pilimbo",M,YOMBI 2,Subsistence Farmer,01 Jan 1963
+847,160217941,"Puiye, Ronol",M,YOMBI 2,Subsistence Farmer,01 Jan 1969
+848,160148190,"Puiye, Sun ena",M,YOMBI 2,Subsistence Farmer,01 Jan 1958
+849,160220955,"Pulgi, Garu",M,YOMBI 2,Subsistence Farmer,01 Jan 1945
+850,160151675,"Punda, Robert",M,YOMBI 2,Subsistence Farmer,01 Jan 1976
+851,160215969,"Punda, Wax wee",M,YOMBI 2,Subsistence Farmer,01 Jan 1978
+852,160216540,"Pure, Billy",M,YOMBI 2,Subsistence Farmer,01 Jan 1967
+853,160216559,"Pure, Charlie",M,YOMBI 2,Driver,01 Jan 1968
+854,160216428,"Pure, Jeff kone",M,YOMBI 2,Manager,01 Jan 1964
+855,160148217,"Pure, John",M,YOMBI 2,Manager,01 Jan 1968
+856,160215978,"Pure, Mike",M,YOMBI 2,Driver,01 Jan 1977
+857,160225140,"Pure, Paka",M,YOMBI 2,Missionary,01 Jan 1971
+858,160225305,"Pure, Tepra",M,YOMBI 2,Driver,01 Jan 1972
+859,160225297,"Pure, Wangi",M,YOMBI 2,Subsistence Farmer,01 Jan 1967
+860,160250323,"Rami, Joshua",M,KARULU,Student,01 Jan 1990
+861,160250322,"Rami, Timothy",M,KARULU,Subsistence Farmer,01 Jan 1988
+862,160221974,"Raramu, Paul pilimbo",M,YOMBI 2,Subsistence Farmer,01 Jan 1951
+863,160138331,"Richard, Andy",M,YOMBI 2,Student,29 Dec 1997
+864,160439137,"Richard, Sedrick",M,YOMBI 2,Driver,09 Feb 1998
+865,160439185,"Robert, Gift",M,YOMBI 2,Student,21 Jun 2003
+866,25085450,"Saimon, Carmon",M,YOMBI 2,Student,06 Feb 2004
+867,160128712,"Samson, Japeth",M,KULI,Student,15 Jun 1995
+868,160128713,"Samson, Sammy",M,KULI,Student,21 Feb 1998
+869,160217939,"Stanley, Glen",M,YOMBI 2,Subsistence Farmer,01 Jan 1987
+870,160244238,"Stanley, Lama",M,IOMBI PENA,Student,01 Jan 1993
+871,25085452,"Steven, Lenon",M,YOMBI 2,Student,14 Jun 2003
+872,160439194,"Steven, Manuel",M,YOMBI 2,Student,14 Jul 2000
+873,160220407,"Sun, Mark ena",M,YOMBI 2,Subsistence Farmer,01 Jan 1984
+874,25085453,"Taiye, Benley",M,YOMBI 2,Student,20 Oct 2003
+875,160217951,"Tanda, Samson",M,YOMBI 2,Subsistence Farmer,01 Jan 1966
+876,160227956,"Tande, Charles",M,YOMBI 2,Student,01 Jan 1990
+877,160216525,"Tande, Felix",M,YOMBI 2,Subsistence Farmer,01 Jan 1989
+878,160439195,"Tande, Jeremiah",M,YOMBI 2,Student,13 Apr 2002
+879,160210814,"Tande, Nathaneol",M,YOMBI 2,Student,01 Jan 1990
+880,25085456,"Tande, Wine",M,YOMBI 2,Student,04 Nov 1998
+881,160138322,"Tapol, Andrew",M,YOMBI 2,Student,05 Jan 1997
+882,160213010,"Tapol, James",M,YOMBI 2,Subsistence Farmer,01 Jan 1964
+883,160250697,"Tapol, Jeffery",M,KARULU,Student,01 Jan 1993
+884,160241788,"Tapol, Jepet",M,KARULU,Subsistence Farmer,01 Jan 1990
+885,160213175,"Tapoli, Paul",M,YOMBI 2,Subsistence Farmer,01 Jan 1961
+886,160219257,"Tasin, Abel",M,YOMBI 2,Student,01 Jan 1986
+887,160232542,"Tasin, Kain",M,YOMBI 2,Student,01 Jan 1990
+888,160218263,"Tawa, Graham waka",M,YOMBI 2,Subsistence Farmer,01 Jan 1970
+889,160151771,"Tawa, Poki",M,YOMBI 2,Subsistence Farmer,01 Jan 1962
+890,25085457,"Teka, Brian",M,YOMBI 2,Student,04 May 2003
+891,160244414,"Tennis, John",M,IOMBI PENA,Student,01 Jan 1993
+892,160225306,"Tepra, Norman",M,YOMBI 2,Subsistence Farmer,01 Jan 1988
+893,160245762,"Tepra, Numan",M,YOMBI 2,Student,01 Jan 1994
+894,160217935,"Terum, Tumbo",M,YOMBI 2,Subsistence Farmer,01 Jan 1964
+895,160224188,"Tikipiye, Paul",M,YOMBI 2,Subsistence Farmer,01 Jan 1969
+896,160224349,"Tikipiye, Timothy",M,YOMBI 2,Student,01 Jan 1977
+897,160221965,"Toimbo, Wesley",M,YOMBI 2,Worker,01 Jan 1967
+898,160153133,"Tokopai, Lumbi",M,YOMBI 2,Subsistence Farmer,01 Jan 1940
+899,160148313,"Tokopai, Wakane",M,YOMBI 2,Subsistence Farmer,01 Jan 1932
+900,160221980,"Tope, Joe",M,YOMBI 2,Student,01 Jan 1987
+901,160221972,"Tope, Tommy",M,YOMBI 2,Student,01 Jan 1988
+902,160148050,"Toringi, Jona",M,YOMBI 2,Subsistence Farmer,01 Jan 1985
+903,160215913,"Toringi, Karia",M,YOMBI 2,Subsistence Farmer,01 Jan 1974
+904,160217685,"Toringi, Mark",M,YOMBI 2,Subsistence Farmer,01 Jan 1972
+905,160214063,"Tuku, Jerry",M,YOMBI 2,Subsistence Farmer,01 Jan 1972
+906,160214990,"Tuku, Philip",M,YOMBI 2,Policeman,01 Jan 1964
+907,160439151,"Tumbo, Anet",M,YOMBI 2,Student,15 Apr 2001
+908,160128654,"Tumbo, Bernard",M,YOMBI 2,Student,07 Aug 1995
+909,160227672,"Tumbo, Tirim",M,YOMBI 2,Student,01 Jan 1989
+910,160128675,"Tuwa, Ismael",M,YOMBI 2,Student,01 Oct 1998
+911,160225323,"Tuwanga, Wapea",M,YOMBI 2,Subsistence Farmer,01 Jan 1950
+912,160225308,"Tuwango, Kisopa",M,YOMBI 2,Subsistence Farmer,01 Jan 1951
+913,160217966,"Ule, Ape",M,YOMBI 2,Subsistence Farmer,01 Jan 1986
+914,160217807,"Ule, Ben yombim",M,YOMBI 2,Self Employed,01 Jan 1974
+915,160216548,"Ule, John",M,YOMBI 2,Subsistence Farmer,01 Jan 1988
+916,160216546,"Ule, Teka",M,YOMBI 2,Subsistence Farmer,01 Jan 1985
+917,160148176,"Undi, Kelema",M,YOMBI 2,Subsistence Farmer,01 Jan 1942
+918,160218467,"Wakane, Kote",M,YOMBI 2,Subsistence Farmer,01 Jan 1960
+919,160218621,"Wakane, Pora",M,YOMBI 2,Subsistence Farmer,01 Jan 1957
+920,160439170,"Wakane, Taiye",M,YOMBI 2,Mechanic,10 Oct 1989
+921,160219263,"Wakane, Toiye",M,YOMBI 2,Soldier,01 Jan 1968
+922,160215155,"Wala, Karu",M,YOMBI 2,Subsistence Farmer,01 Jan 1944
+923,160233188,"Wala, Kewa",M,YOMBI 2,Subsistence Farmer,01 Jan 1968
+924,160139675,"Waliya, Tawa",M,KULI,Engineer,21 Dec 1958
+925,160151463,"Wane, Daniel",M,YOMBI 2,Subsistence Farmer,01 Jan 1983
+926,160138325,"Wane, Gifthy",M,YOMBI 2,Student,15 May 1996
+927,160146682,"Wane, Moses",M,YOMBI 2,Subsistence Farmer,01 Jan 1989
+928,160151327,"Wane, Posin",M,YOMBI 2,Subsistence Farmer,01 Jan 1985
+929,160146568,"Wane, Stanely",M,YOMBI 2,Subsistence Farmer,01 Jan 1990
+930,160210647,"Wangi, Junior",M,YOMBI 2,Student,01 Jan 1990
+931,25085459,"Wanpis, Mecklid",M,YOMBI 2,Student,12 May 2002
+932,160439178,"Wanpis, Nickson",M,YOMBI 2,Student,20 Mar 2000
+933,160225322,"Wapea, Ake",M,YOMBI 2,Subsistence Farmer,01 Jan 1983
+934,160225321,"Wapea, Mona",M,YOMBI 2,Subsistence Farmer,01 Jan 1981
+935,160225324,"Wapea, Steven wetoli",M,YOMBI 2,Subsistence Farmer,01 Jan 1978
+936,160439226,"Wapeya, Eliza",M,YOMBI 2,Student,19 Jul 2002
+937,160220946,"Warane, Nale",M,YOMBI 2,Subsistence Farmer,01 Jan 1957
+938,160214068,"Warap, Elvis",M,YOMBI 2,Subsistence Farmer,01 Jan 1976
+939,160214073,"Warap, Paul poi",M,YOMBI 2,Subsistence Farmer,01 Jan 1977
+940,160214066,"Warap, Yando",M,YOMBI 2,Subsistence Farmer,01 Jan 1965
+941,160439145,"Wesley, Gabie",M,YOMBI 2,Teacher,16 Apr 1995
+942,160439144,"Wesley, Ismael",M,YOMBI 2,Student,20 Sep 1999
+943,160210829,"Wesley, Junior",M,YOMBI 2,Subsistence Farmer,01 Jan 1990
+944,160220960,"Wesley, Lapuya",M,YOMBI 2,Subsistence Farmer,01 Jan 1967
+945,160439146,"Wesley, Raymond",M,YOMBI 2,Student,19 May 1999
+946,160210806,"Wesley, Yean",M,YOMBI 2,Subsistence Farmer,01 Jan 1990
+947,160139677,"Wesly, Jeffery",M,KULI,Student,02 Aug 1995
+948,160439187,"Wex, Kili",M,YOMBI 2,Student,13 Jun 2001
+949,160219293,"Weyap, Jacob tasin",M,YOMBI 2,Subsistence Farmer,01 Jan 1959
+950,160220964,"Yobono, James",M,YOMBI 2,Subsistence Farmer,01 Jan 1967
+951,160220498,"Yobono, Mondopa",M,YOMBI 2,Subsistence Farmer,01 Jan 1971
+952,160218447,"Yoko, Aiye",M,YOMBI 2,Subsistence Farmer,01 Jan 1957
+953,160219286,"Yoko, Charlie",M,YOMBI 2,Subsistence Farmer,01 Jan 1971
+954,160221957,"Yoko, Depes",M,YOMBI 2,Subsistence Farmer,01 Jan 1966
+955,160218437,"Yoko, Ipi",M,YOMBI 2,Subsistence Farmer,01 Jan 1977
+956,160220862,"Yoko, Kape",M,YOMBI 2,Subsistence Farmer,01 Jan 1957
+957,160218439,"Yoko, Pera",M,YOMBI 2,Subsistence Farmer,01 Jan 1961
+958,160218451,"Yoko, Suri",M,YOMBI 2,Security,01 Jan 1971
+959,160221978,"Yoko, Tope",M,YOMBI 2,Subsistence Farmer,01 Jan 1957
+960,160224164,"Yolg, Lembo",M,YOMBI 2,Subsistence Farmer,01 Jan 1969
+961,160224186,"Yolg, Tikipiye",M,YOMBI 2,Aid Post Orderly,01 Jan 1955
+962,160224170,"Yolo, Melpa",M,YOMBI 2,Subsistence Farmer,01 Jan 1970
+963,160227674,"Yunungo, Tennis",M,YOMBI 2,Student,01 Jan 1990
+964,160219269,"Yunungo, Wanpis",M,YOMBI 2,Student,01 Jan 1988

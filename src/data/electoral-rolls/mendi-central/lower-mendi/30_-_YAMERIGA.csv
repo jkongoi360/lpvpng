@@ -1,0 +1,328 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160494531,"Alphonse, Oskah",F,YAMERIGA,Student,10 Oct 2003
+2,160397748,"Anala, Bepi",F,MAMBU YALU,Household Duties,01 Jan 1980
+3,160431608,"Andape, Wesila",F,YAMERIGA,Household Duties,12 Jul 1988
+4,160398893,"Andrew, Anna",F,MAMBU YALU,Household Duties,01 Jan 1983
+5,160381793,"Aria, Lucy tami",F,MAMBU YALU,Student,01 Jan 1991
+6,160381798,"Aria, Makani tami",F,MAMBU YALU,Household Duties,01 Jan 1974
+7,160398703,"Ate, Osi sicellia",F,MAMBU YALU,Household Duties,01 Jan 1970
+8,160289915,"Benly, Berth",F,YALU,Household Duties,10 Jul 1989
+9,160494379,"Bobten, Jacklyn",F,YAMERIGA,Household Duties,19 Oct 1992
+10,160365389,"Bolo, Rebecca",F,MAMBU YALU,Household Duties,01 Jan 1970
+11,160290967,"Danny, Roselyn",F,YALU,Magistrate,18 Apr 1981
+12,160431583,"Diaya, Kumapi",F,YAMERIGA,Household Duties,11 Dec 1969
+13,160494382,"Dickson, Justina",F,YAMERIGA,Household Duties,03 Apr 2003
+14,160364057,"Ellis mone, Kunua",F,MAMBU YALU,Household Duties,15 Jun 1982
+15,160400724,"Epa, Ramu ame",F,MAMBU YALU,Household Duties,01 Jan 1968
+16,160399474,"Eta, Doris",F,MAMBU YALU,Household Duties,01 Jan 1979
+17,160398947,"Eta, Lyn",F,MAMBU YALU,Student,01 Jan 1988
+18,160398383,"Eta, Muriame",F,MAMBU YALU,Household Duties,01 Jan 1978
+19,160399269,"Eta, Nancy",F,MAMBU YALU,Housegirl,01 Jan 1990
+20,160494384,"Gibson, Davinah",F,YAMERIGA,Student,28 Jan 2004
+21,160494385,"Gibson, Lauren",F,YAMERIGA,Student,20 Jan 2004
+22,160364055,"Hellen m, Kunua",F,MAMBU YALU,Household Duties,28 Sep 1977
+23,160364056,"Herlis mone, Kunua",F,MAMBU YALU,Household Duties,08 Sep 1982
+24,160378530,"Heron, Helly",F,MAMBU YALU,Household Duties,01 Jan 1972
+25,160364086,"Itsu, Wendy",F,MAMBU YALU,Household Duties,08 Jul 1978
+26,160398894,"Itusi, Kareame",F,MAMBU YALU,Household Duties,01 Jan 1974
+27,160290942,"Jack, Morin",F,YAMERIGA,Household Duties,17 Sep 1989
+28,160400401,"John, Ketty",F,MAMBU YALU,Household Duties,01 Jan 1976
+29,160506366,"Julie, Kama",F,YAMERIGA,Self Employed,01 Sep 1991
+30,160401965,"Kalado, Docas",F,MAMBU YALU,Household Duties,01 Jan 1972
+31,160399944,"Kalando, Vero",F,MAMBU YALU,Household Duties,01 Jan 1974
+32,160379181,"Kera mugu, Anna",F,MAMBU YALU,Household Duties,01 Jan 1979
+33,160379924,"Komberea, Annta eta",F,MAMBU YALU,Household Duties,01 Jan 1974
+34,160370920,"Komberea, Duni",F,MAMBU YALU,Household Duties,01 Jan 1962
+35,160379925,"Komberea, Epekone peter",F,MAMBU YALU,Household Duties,01 Jan 1986
+36,160379926,"Komberea, Esta eta",F,MAMBU YALU,Household Duties,01 Jan 1990
+37,160378517,"Komberea, Josica joel",F,MAMBU YALU,Student,01 Jan 1994
+38,160379923,"Komberea, Junita peter",F,MAMBU YALU,Subsistence Farmer,01 Jan 1984
+39,160370921,"Komberea, Mary peter",F,MAMBU YALU,Household Duties,01 Jan 1969
+40,160363951,"Komberea, Morin eta",F,MAMBU YALU,Student,01 Jan 1995
+41,160378523,"Komberea, Roselyn eta",F,MAMBU YALU,Household Duties,01 Jan 1989
+42,160379272,"Komberea, Salyn eta",F,MAMBU YALU,Student,01 Jan 1993
+43,160378518,"Komberea, Yokala",F,MAMBU YALU,Household Duties,01 Jan 1960
+44,160397296,"Kunua, Oropame",F,MAMBU YALU,Household Duties,01 Jan 1962
+45,160506370,"Kuta, Junita",F,YAMERIGA,Student,04 Jun 2003
+46,160400384,"Laina, Norin",F,MAMBU YALU,Household Duties,01 Jan 1978
+47,160494395,"Maina, Ameda",F,YAMERIGA,Student,01 Feb 1999
+48,160399928,"Makuru, Lakepeame",F,MAMBU YALU,Housegirl,01 Jan 1978
+49,160494396,"Malaka, Joewenna",F,YAMERIGA,Student,02 Feb 2004
+50,160494397,"Malakai, Jemima",F,YAMERIGA,Student,01 Oct 2002
+51,160494398,"Malakai, Jeron",F,YAMERIGA,Student,27 Aug 2001
+52,160366943,"Mari, Ake m",F,MAMBU YALU,Household Duties,01 Jan 1960
+53,160366979,"Mari, Bellyn b",F,MAMBU YALU,Student,01 Jan 1989
+54,160366599,"Mari, Christina m",F,MAMBU YALU,Household Duties,01 Jan 1987
+55,160366972,"Mari, Everlyn b",F,MAMBU YALU,Student,01 Jan 1987
+56,160366953,"Mari, Joslyn m",F,MAMBU YALU,Household Duties,01 Jan 1984
+57,160366623,"Mari, Malinu t",F,MAMBU YALU,Household Duties,01 Jan 1978
+58,160366596,"Mari, Margeret",F,MAMBU YALU,Household Duties,01 Jan 1974
+59,160367423,"Mari, Merolyn",F,MAMBU YALU,Student,01 Jan 2000
+60,160367340,"Mari, Napisu",F,MAMBU YALU,Student,01 Jan 1989
+61,160366590,"Mari, Nelly b",F,MAMBU YALU,Student,01 Jan 1989
+62,160366261,"Mari, Ruth b",F,MAMBU YALU,Student,01 Jan 1980
+63,160366604,"Mari, Yarali",F,MAMBU YALU,Household Duties,01 Jan 1972
+64,160366970,"Mari, Yokame",F,MAMBU YALU,Household Duties,01 Jan 1976
+65,160399942,"Mark, Dyan",F,MAMBU YALU,Student,10 Apr 1988
+66,160290970,"Mark, Paulyn",F,YALU,Household Duties,19 Mar 1989
+67,160289916,"Mark, Susan",F,YALU,Household Duties,01 Nov 1987
+68,160397313,"Masa, Juli",F,MAMBU YALU,Student,01 Jan 1988
+69,160365414,"Misi oyali, Jennet",F,MAMBU YALU,Household Duties,01 Jan 1980
+70,160494402,"Moris, Paulyn",F,YAMERIGA,Student,04 Jan 2004
+71,160506388,"Nancy, Dickson",F,YAMERIGA,Self Employed,17 Jul 1997
+72,160494404,"Nelson, Deliah",F,YAMERIGA,Student,15 Jun 2003
+73,160290962,"Nelson, Dipendrah",F,YAMERIGA,Student,04 Jul 1997
+74,160494405,"Nelson, Isabella",F,YAMERIGA,Student,15 Apr 2004
+75,160365413,"Nelson, Sledy",F,MAMBU YALU,Student,20 Feb 1991
+76,160365390,"Nelson, Steveny",F,MAMBU YALU,Student,10 Mar 1994
+77,160494406,"Nick, Awanda",F,YAMERIGA,Student,08 Dec 2001
+78,160494407,"Nick, Lenny",F,YAMERIGA,Student,16 Mar 2004
+79,160506392,"Nick, Migalyn",F,YAMERIGA,Unemployed,28 Apr 2004
+80,160365397,"Oyali, Alendanu",F,MAMBU YALU,Subsistence Farmer,01 Jan 1980
+81,160397752,"Oyali, Hellen",F,MAMBU YALU,Household Duties,01 Jan 1967
+82,160402866,"Oyali, Lyn",F,MAMBU YALU,Household Duties,01 Jan 1979
+83,160365392,"Oyali, Rita",F,MAMBU YALU,Subsistence Farmer,01 Jan 1962
+84,160365410,"Oyali, Vero",F,MAMBU YALU,Student,01 Jan 1989
+85,160366239,"Oyali, Wendy",F,MAMBU YALU,Student,01 Jan 2000
+86,160401974,"Oyali, Wini",F,MAMBU YALU,Housegirl,01 Jan 1978
+87,160402114,"Pagesa, Misis",F,MAMBU YALU,Household Duties,01 Jan 1980
+88,160400718,"Palu, Opame",F,MAMBU YALU,Household Duties,01 Jan 1978
+89,160290997,"Pandea, Wini",F,YAMERIGA,Student,20 Jul 1996
+90,160398722,"Pare, Evelyn",F,MAMBU YALU,Housegirl,01 Jan 1986
+91,160494411,"Paul, Esster",F,YAMERIGA,Household Duties,09 Oct 1979
+92,160401159,"Peawe, Rebecca raitame",F,MAMBU YALU,Household Duties,01 Jan 1971
+93,160494413,"Peter, Stacy",F,YAMERIGA,Student,10 Jun 2003
+94,160506407,"Philip, Melponia",F,YAMERIGA,Unemployed,28 Apr 2004
+95,160290973,"Pokea, Norin",F,YALU,Household Duties,10 Mar 1993
+96,160397298,"Puka, Nogosi",F,MAMBU YALU,Household Duties,01 Jan 1961
+97,160494417,"Puri, Ezrah",F,YAMERIGA,Household Duties,10 Mar 2004
+98,160379186,"Puri, Prisilla",F,MAMBU YALU,Student,01 Jan 1994
+99,160399377,"Rala, Alice",F,MAMBU YALU,Household Duties,01 Jan 1978
+100,160366269,"Ralipa, Linnet emos",F,MAMBU YALU,Household Duties,03 Jul 1983
+101,160364826,"Ralipa, Magret n",F,MAMBU YALU,Subsistence Farmer,10 Jun 1979
+102,160366246,"Ralipa, Norin",F,MAMBU YALU,Household Duties,13 Mar 1980
+103,160364054,"Ralipa, Peame",F,MAMBU YALU,Subsistence Farmer,29 Aug 1979
+104,160366248,"Ralipa, Rakua",F,MAMBU YALU,Household Duties,04 Jun 1960
+105,160364800,"Rambialo, Hellen john",F,MAMBU YALU,Subsistence Farmer,10 Jun 1975
+106,160363960,"Rambialo, Hellen p",F,MAMBU YALU,Subsistence Farmer,06 Aug 1987
+107,160364796,"Rambialo, Monica",F,MAMBU YALU,Household Duties,06 Feb 1982
+108,160364795,"Rambialo, Pakename",F,MAMBU YALU,Subsistence Farmer,09 Jun 1982
+109,160398957,"Reketapa, Paulyn",F,MAMBU YALU,Household Duties,01 Jan 1977
+110,160379278,"Remosi, Anna rala",F,MAMBU YALU,Household Duties,01 Jan 1973
+111,160400730,"Remosi, Betty",F,MAMBU YALU,Household Duties,01 Jan 1974
+112,160379277,"Remosi, Jennet mathew",F,MAMBU YALU,Household Duties,01 Jan 1972
+113,160379942,"Remosi, Lency rala",F,MAMBU YALU,Household Duties,01 Jan 1972
+114,160379190,"Remosi, Lyn rala",F,MAMBU YALU,Household Duties,01 Jan 1972
+115,160379941,"Remosi, Norin rala",F,MAMBU YALU,Household Duties,01 Jan 1982
+116,160378544,"Remosi, Sobath rutu",F,MAMBU YALU,Household Duties,01 Jan 1982
+117,160379275,"Remosi, Yalunogo yare",F,MAMBU YALU,Student,01 Jan 1992
+118,160379276,"Remosi, Yapi rala",F,MAMBU YALU,Household Duties,01 Jan 1978
+119,160399459,"Roka, Loeame",F,MAMBU YALU,Household Duties,01 Jan 1979
+120,160506431,"Roki, Jocelyn",F,YAMERIGA,Self Employed,28 Apr 2004
+121,160506434,"Ruben, Jellyn",F,YAMERIGA,Unemployed,16 May 1993
+122,160494428,"Ruben, Ketty",F,YAMERIGA,Household Duties,11 Oct 1996
+123,160506435,"Ruta, Ronda",F,YAMERIGA,Unemployed,28 Apr 2004
+124,160431601,"Senan, Belesina",F,YAMERIGA,Student,14 Dec 1995
+125,160494432,"Senan, Jessica",F,YAMERIGA,Household Duties,03 Apr 2004
+126,160506441,"Seni, Morin",F,YAMERIGA,Self Employed,15 Feb 1983
+127,160364074,"Serah mone, Kunua",F,MAMBU YALU,Household Duties,17 Mar 1986
+128,160494442,"Simon, Lyann",F,YAMERIGA,Student,09 Jan 2004
+129,160494446,"Simon, Sandy",F,YAMERIGA,Household Duties,18 Oct 1999
+130,160494449,"Smith, Freda",F,YAMERIGA,Household Duties,12 Oct 1991
+131,160506449,"Solomon, Solona",F,YAMERIGA,Unemployed,28 Apr 2004
+132,160494455,"Soty, Tari",F,YAMERIGA,Household Duties,06 Apr 1989
+133,160401632,"Suayo, Regina",F,MAMBU YALU,Household Duties,01 Jan 1974
+134,160399919,"Tami, Lili",F,MAMBU YALU,Household Duties,01 Jan 1974
+135,160506450,"Thomas, Nandame",F,YAMERIGA,Self Employed,03 Mar 1983
+136,160378535,"Umbima, Gimame alex",F,MAMBU YALU,Subsistence Farmer,02 Jun 1989
+137,160378536,"Umbima, Mala",F,MAMBU YALU,Subsistence Farmer,02 May 1967
+138,160290959,"Umbima, Porame",F,YAMERIGA,Household Duties,29 Aug 1968
+139,160380327,"Umbima, Repename",F,MAMBU YALU,Subsistence Farmer,05 Mar 1983
+140,160398401,"Umbima, Tame",F,MAMBU YALU,Household Duties,01 Jan 1972
+141,160398702,"Umbima, Theresa",F,MAMBU YALU,Household Duties,01 Jan 1973
+142,160399253,"Undipa, Hellen mayanu",F,MAMBU YALU,Household Duties,01 Jan 1974
+143,160501123,"Undipa, Jemba",F,YAMERIGA,Student,10 Jan 2003
+144,160378521,"Uruwalu, Belina paul",F,MAMBU YALU,Household Duties,01 Jan 1980
+145,160379931,"Uruwalu, Betty andy",F,MAMBU YALU,Household Duties,01 Jan 1983
+146,160378528,"Uruwalu, Jully philip",F,MAMBU YALU,Student,01 Jan 1994
+147,160378522,"Uruwalu, Magret paul",F,MAMBU YALU,Household Duties,01 Jan 1969
+148,160379933,"Uruwalu, Ruth philip",F,MAMBU YALU,Household Duties,01 Jan 1985
+149,160379927,"Uruwalu, Susan",F,MAMBU YALU,Household Duties,01 Jan 1975
+150,160494470,"Wakia, Porame",F,YAMERIGA,Household Duties,11 Sep 1972
+151,160494473,"Walex, Joeylyn",F,YAMERIGA,Household Duties,02 Oct 1998
+152,160398394,"Wami, Yoberenu",F,MAMBU YALU,Household Duties,01 Jan 1958
+153,160378542,"Wangi, Anna",F,MAMBU YALU,Subsistence Farmer,01 Jan 1962
+154,160400869,"Wangi, Betty",F,MAMBU YALU,Household Duties,01 Jan 1969
+155,160400729,"Wangi, Merian",F,MAMBU YALU,Housegirl,01 Jan 2000
+156,160381790,"Wangi, Nancy senan",F,MAMBU YALU,Subsistence Farmer,10 Aug 1978
+157,160378533,"Warea, Nancy",F,MAMBU YALU,Household Duties,01 Jan 1979
+158,160399244,"Wayapa, Nogosi",F,MAMBU YALU,Household Duties,01 Jan 1959
+159,160370466,"Wepa, Alice lucas",F,MAMBU YALU,Household Duties,01 Jan 1974
+160,160370464,"Wepa, Apasi dii",F,MAMBU YALU,Subsistence Farmer,01 Jan 1954
+161,160370095,"Wepa, Jennet",F,MAMBU YALU,Household Duties,01 Jan 1984
+162,160367355,"Wepa, Jossica",F,MAMBU YALU,Household Duties,01 Jan 1972
+163,160366945,"Wepa, Mata",F,MAMBU YALU,Household Duties,01 Jan 1969
+164,160367975,"Wepa, Poname g",F,MAMBU YALU,Household Duties,01 Jan 1980
+165,160366948,"Wepa, Rame yapasi",F,MAMBU YALU,Student,01 Jan 1982
+166,160367444,"Wepa, Salian",F,MAMBU YALU,Student,01 Jan 1989
+167,160367377,"Wepa, Serah",F,MAMBU YALU,Student,01 Jan 1994
+168,160290995,"Yako, Serah",F,YALU,Student,11 Apr 1994
+169,160290947,"Yonaki, Bepi",F,YAMERIGA,Household Duties,19 Apr 1984
+170,160289920,"Alupa, Moris",M,YAMERIGA,Subsistence Farmer,25 Oct 1978
+171,160290957,"Alupa, Solo",M,YAMERIGA,Student,21 Jan 1995
+172,160506350,"Ange, Asii",M,YAMERIGA,Student,10 Nov 2000
+173,160506355,"Arudu, Mose",M,YAMERIGA,Housegirl,09 Jun 2000
+174,160289921,"Ate, Kama",M,YAMERIGA,Subsistence Farmer,29 Jan 1981
+175,160398936,"Bill, Saimon",M,MAMBU YALU,Subsistence Farmer,01 Jan 1980
+176,160399388,"Buka, Nicolas",M,MAMBU YALU,Student,14 Mar 1989
+177,160397754,"Buka, Tami",M,MAMBU YALU,Subsistence Farmer,01 Jan 1970
+178,160398713,"Diaya, Kera",M,MAMBU YALU,Subsistence Farmer,01 Jan 1979
+179,160398715,"Diaya, Yapi",M,MAMBU YALU,Subsistence Farmer,01 Jan 1978
+180,160494380,"Dickson, Abel",M,YAMERIGA,Student,03 Aug 2003
+181,160494381,"Dickson, Justin",M,YAMERIGA,Student,06 Jan 2004
+182,160399225,"Eta, Alo",M,MAMBU YALU,Student,01 Jan 1989
+183,160398959,"Eta, Joel",M,MAMBU YALU,Pastor,01 Jan 1969
+184,160431584,"Ewa, Warea",M,YAMERIGA,Pastor,17 Feb 1973
+185,160364827,"Frandy, Ralipa",M,MAMBU YALU,Subsistence Farmer,01 Jan 1978
+186,160506357,"Gerry, Walapape",M,YAMERIGA,Self Employed,28 Apr 2004
+187,160290968,"Gibson, Simon",M,YALU,Student,13 Jun 1990
+188,160494386,"Gibson, Sumri",M,YAMERIGA,Aid Post Orderly,06 Aug 2003
+189,160379947,"Itus, Mone eka",M,MAMBU YALU,Student,03 Apr 1991
+190,160379945,"Itusi, David yasi",M,MAMBU YALU,Student,06 Mar 1994
+191,160379280,"Itusi, Dick eka",M,MAMBU YALU,Subsistence Farmer,03 Feb 1988
+192,160379946,"Itusi, Peter",M,MAMBU YALU,Subsistence Farmer,04 Aug 1985
+193,160363958,"Itusi, Pole roka",M,MAMBU YALU,Subsistence Farmer,08 Feb 1974
+194,160364084,"Itusi, Roka",M,MAMBU YALU,Subsistence Farmer,02 May 1949
+195,160398723,"Itusi, Yasi",M,MAMBU YALU,Subsistence Farmer,01 Jan 1964
+196,160494387,"Joe, Franky",M,YAMERIGA,Student,10 Jan 2004
+197,160506361,"Joe, Indua",M,YAMERIGA,Councillor,28 Apr 2004
+198,160290961,"Joe, Prince",M,YAMERIGA,Student,02 Mar 1996
+199,160289918,"Joe, Salia",M,YAMERIGA,Student,19 May 1997
+200,160494388,"Joel, Carlos",M,YAMERIGA,Student,04 Jun 2003
+201,160506364,"Joel, Jerico",M,YAMERIGA,Unemployed,28 Apr 2004
+202,160289917,"Kandi, Kopolo",M,YAMERIGA,Subsistence Farmer,16 Jan 1965
+203,160398940,"Komberea, Eta",M,MAMBU YALU,Subsistence Farmer,01 Jan 1938
+204,160379944,"Komberea, Moses eta",M,MAMBU YALU,Subsistence Farmer,01 Jan 1982
+205,160398942,"Komberea, Pundu",M,MAMBU YALU,Teacher,01 Jan 1967
+206,160378520,"Komberea, Solomon eta",M,MAMBU YALU,Student,01 Jan 1994
+207,160379273,"Komberea, Warry eta",M,MAMBU YALU,Student,01 Jan 1994
+208,160400715,"Kunua, Kimbita",M,MAMBU YALU,Subsistence Farmer,01 Jan 1976
+209,160494389,"Lapua, Haika",M,YAMERIGA,Student,10 Nov 2001
+210,160494390,"Lapua, Issac",M,YAMERIGA,Student,09 Nov 2003
+211,160494391,"Lapua, Maika",M,YAMERIGA,Student,22 Sep 1999
+212,160494392,"Lucas, Dolly",M,YAMERIGA,Student,03 Jan 1998
+213,160494393,"Lucas, George",M,YAMERIGA,Student,16 Aug 2001
+214,160494394,"Lukas, Soty",M,YAMERIGA,Student,03 Aug 1998
+215,160399927,"Makuru, Rala",M,MAMBU YALU,Subsistence Farmer,01 Jan 1976
+216,160399924,"Makuru, Rapula",M,MAMBU YALU,Subsistence Farmer,01 Jan 1969
+217,160399382,"Makuru, Rerane",M,MAMBU YALU,Subsistence Farmer,16 Apr 1984
+218,160506374,"Malakai, Jetro",M,YAMERIGA,Unemployed,28 Aug 1999
+219,160366272,"Mari, Solo philip",M,MAMBU YALU,Student,01 Jan 1994
+220,160366614,"Mari, Soty moken",M,MAMBU YALU,Student,01 Jan 1994
+221,160366618,"Mari, Utu",M,MAMBU YALU,Subsistence Farmer,01 Jan 1982
+222,160366621,"Mari, Willson",M,MAMBU YALU,Student,01 Jan 1989
+223,160367341,"Mari, Yandi",M,MAMBU YALU,Subsistence Farmer,01 Jan 1987
+224,160400725,"Mark, Dickson",M,MAMBU YALU,Student,01 Jan 1986
+225,160506377,"Mark, Jerry",M,YAMERIGA,Unemployed,28 Apr 2004
+226,160397312,"Masa, Kennet",M,MAMBU YALU,Student,01 Jan 1986
+227,160506381,"Mathew, Glan",M,YAMERIGA,Unemployed,28 Apr 2004
+228,160506385,"Mathew, Remosi",M,YAMERIGA,Unemployed,21 Mar 2004
+229,160398711,"Michael, Lesta",M,MAMBU YALU,Student,01 Jan 1983
+230,160379934,"Michael, Ruben",M,MAMBU YALU,Student,01 Jan 1987
+231,160290951,"Moses, Peterson",M,YAMERIGA,Student,08 Jul 1993
+232,160400737,"Moya, Mark",M,MAMBU YALU,Subsistence Farmer,01 Jan 1962
+233,160370901,"Moya, Uru walu",M,MAMBU YALU,Subsistence Farmer,01 Jan 1939
+234,160494403,"Naina, Jemmiry",M,YAMERIGA,Student,10 Nov 2001
+235,160365400,"Nelson, Bobi",M,MAMBU YALU,Student,01 Jan 1987
+236,160494408,"Nick, Steward",M,YAMERIGA,Student,10 Jan 2004
+237,160506395,"Nick, Wali",M,YAMERIGA,Unemployed,28 Apr 2004
+238,160506399,"Nicwas, Alfonia",M,YAMERIGA,Student,28 Apr 2004
+239,160506404,"Nolepa, Robin",M,YAMERIGA,Self Employed,28 Apr 2003
+240,160399980,"Oyali, Kapi",M,MAMBU YALU,Councillor,01 Jan 1969
+241,160366240,"Oyali, Ken",M,MAMBU YALU,Subsistence Farmer,01 Jan 1989
+242,160398902,"Oyali, Misi nicklas",M,MAMBU YALU,Worker,01 Jan 1968
+243,160401967,"Oyali, Moris",M,MAMBU YALU,Student,01 Jan 1974
+244,160290950,"Oyali, Noah",M,YAMERIGA,Student,03 Apr 1995
+245,160402108,"Oyali, Pipi",M,MAMBU YALU,Student,01 Jan 1973
+246,160365391,"Oyali, Richard",M,MAMBU YALU,Student,01 Jan 1987
+247,160401970,"Oyali, Samuel",M,MAMBU YALU,Subsistence Farmer,01 Jan 1979
+248,160365396,"Oyali, Stanley",M,MAMBU YALU,Student,18 Apr 1987
+249,160400399,"Oyali, Suayo",M,MAMBU YALU,Subsistence Farmer,01 Jan 1965
+250,160400392,"Oyali, Supita",M,MAMBU YALU,Subsistence Farmer,01 Jan 1982
+251,160401971,"Oyali, Yags",M,MAMBU YALU,Manager,01 Jan 1973
+252,160494409,"Paipa, Wata",M,YAMERIGA,Subsistence Farmer,11 Oct 1976
+253,160290996,"Pandea, Dickson",M,YAMERIGA,Subsistence Farmer,24 Dec 1976
+254,160398873,"Pare, John",M,MAMBU YALU,Subsistence Farmer,01 Jan 1979
+255,160398876,"Pare, Nimo",M,MAMBU YALU,Student,01 Jan 1979
+256,160399470,"Peter, Ropa",M,MAMBU YALU,Student,01 Jan 1990
+257,160494414,"Philip, Bennict",M,YAMERIGA,Student,01 Feb 2004
+258,160494415,"Philip, Bepo",M,YAMERIGA,Student,11 Mar 2003
+259,160506409,"Philip, Solopi",M,YAMERIGA,Unemployed,28 Apr 2004
+260,160506413,"Pima, Ralipa",M,YAMERIGA,Student,11 Apr 2003
+261,160506415,"Pirifi, Maxwell",M,YAMERIGA,Student,11 Dec 1999
+262,160506419,"Pirifi, Pamba",M,YAMERIGA,Student,10 Dec 2003
+263,160506420,"Pirifi, Pasu",M,YAMERIGA,Student,28 Apr 2004
+264,160506423,"Pirifi, Ryon",M,YAMERIGA,Student,10 Nov 2000
+265,160290966,"Pugupiya, Danny",M,YALU,Pastor,15 Jul 1973
+266,160366253,"Ralipa, Bob",M,MAMBU YALU,Subsistence Farmer,02 Jan 1987
+267,160366958,"Ralipa, Buu malepe",M,MAMBU YALU,Subsistence Farmer,28 Jun 1984
+268,160366966,"Ralipa, Emas",M,MAMBU YALU,Subsistence Farmer,06 Feb 1979
+269,160401634,"Ralipa, Nande mairon",M,MAMBU YALU,Teacher,01 Jan 1969
+270,160366250,"Ralipa, Peuy",M,MAMBU YALU,Teacher,07 May 1989
+271,160290954,"Ralipa, Velly",M,YAMERIGA,Student,04 Jun 1995
+272,160364058,"Rambialo, Yako",M,MAMBU YALU,Subsistence Farmer,06 Mar 1964
+273,160506426,"Rati, Kadex",M,YAMERIGA,Unemployed,07 Jul 2000
+274,160379274,"Remosi, Mex yare",M,MAMBU YALU,Student,01 Jan 1990
+275,160399311,"Remosi, Rutu",M,MAMBU YALU,Subsistence Farmer,01 Jan 1959
+276,160378546,"Remosi, Soty rala",M,MAMBU YALU,Subsistence Farmer,01 Jan 1986
+277,160399434,"Roka, Aku",M,MAMBU YALU,Subsistence Farmer,01 Jan 1984
+278,160399458,"Roka, Dupia",M,MAMBU YALU,Subsistence Farmer,01 Jan 1971
+279,160494423,"Roka, Wamene",M,YAMERIGA,Student,22 Sep 2003
+280,160494424,"Rombala, Limo",M,YAMERIGA,Student,15 Jan 2004
+281,160400409,"Ruria, Ignes",M,MAMBU YALU,Student,01 Jan 1984
+282,160397302,"Rutu, Anala",M,MAMBU YALU,Subsistence Farmer,10 Jul 1984
+283,160397322,"Rutu, Paul",M,MAMBU YALU,Student,01 Jan 1988
+284,160506438,"Senan, Dima",M,YAMERIGA,Unemployed,28 Apr 2004
+285,160494430,"Senan, Etty",M,YAMERIGA,Student,08 Jan 2004
+286,160494437,"Senan, Lebon",M,YAMERIGA,Student,24 Feb 2004
+287,160506445,"Simon, Mijack",M,YAMERIGA,Unemployed,28 Apr 2004
+288,160290948,"Supi, Warepa",M,YAMERIGA,Subsistence Farmer,02 Nov 1962
+289,160494458,"Thomas, Soty",M,YAMERIGA,Student,11 Oct 2000
+290,160494462,"Tomas, Francis",M,YAMERIGA,Student,18 Jan 2004
+291,160399245,"Umbia, Lapua",M,MAMBU YALU,Subsistence Farmer,01 Jan 1962
+292,160380328,"Umbia, Rigi alex",M,MAMBU YALU,Subsistence Farmer,03 Jun 1987
+293,160398701,"Umbima, Alex",M,MAMBU YALU,Student,01 Jan 1976
+294,160494468,"Undipa, Saki",M,YAMERIGA,Student,01 Apr 2003
+295,160378525,"Uruwalu, Erica mark",M,MAMBU YALU,Subsistence Farmer,01 Jan 1985
+296,160378527,"Uruwalu, Joel philip",M,MAMBU YALU,Houseboy,01 Jan 1991
+297,160378526,"Uruwalu, Philip",M,MAMBU YALU,Subsistence Farmer,01 Jan 1962
+298,160379180,"Uruwalu, Pokea",M,MAMBU YALU,Subsistence Farmer,01 Jan 1982
+299,160379930,"Uruwalu, Yana mark",M,MAMBU YALU,Subsistence Farmer,01 Jan 1989
+300,160398392,"Wami, Mathew",M,MAMBU YALU,Student,01 Jan 1978
+301,160431607,"Wami, Philimon",M,YAMERIGA,Student,19 Oct 1994
+302,160290941,"Wami, Sylvester",M,YAMERIGA,Student,16 Dec 1998
+303,160398908,"Wami, Yangi",M,MAMBU YALU,Subsistence Farmer,01 Jan 1972
+304,160379937,"Wangi, Benard senan",M,MAMBU YALU,Subsistence Farmer,28 Jul 1986
+305,160378539,"Wangi, Benly mark",M,MAMBU YALU,Student,26 Jun 1993
+306,160379188,"Wangi, Jessy mark",M,MAMBU YALU,Student,26 Apr 1990
+307,160378541,"Wangi, Joel senan",M,MAMBU YALU,Subsistence Farmer,08 Jun 1987
+308,160379939,"Wangi, Junia senan",M,MAMBU YALU,Subsistence Farmer,13 Jun 1981
+309,160402113,"Wangi, Maina",M,MAMBU YALU,Household Duties,01 Jan 1979
+310,160400726,"Wangi, Sesan",M,MAMBU YALU,Pastor,01 Jan 1968
+311,160431586,"Wara, Sothy",M,YAMERIGA,Student,03 Jul 1984
+312,160290960,"Warepa, David",M,YAMERIGA,Subsistence Farmer,02 Aug 1982
+313,160379183,"Wayapa, Lason",M,MAMBU YALU,Student,01 Jan 1994
+314,160398397,"Wayapa, Rake",M,MAMBU YALU,Subsistence Farmer,01 Jan 1973
+315,160367421,"Wepa, Brain",M,MAMBU YALU,Student,01 Jan 1987
+316,160367375,"Wepa, Gidon dii",M,MAMBU YALU,Subsistence Farmer,01 Jan 1980
+317,160370465,"Wepa, Lucas dii",M,MAMBU YALU,Subsistence Farmer,01 Jan 1970
+318,160366617,"Wepa, Mark dii",M,MAMBU YALU,Subsistence Farmer,01 Jan 1979
+319,160367369,"Wepa, Sotie lucas",M,MAMBU YALU,Student,01 Jan 1988
+320,160506455,"Yamake, Yawa",M,YAMERIGA,Student,11 Mar 2004
+321,160399479,"Yare, Ambeama",M,MAMBU YALU,Not Specified,01 Jan 1989
+322,160399476,"Yare, Rimba",M,MAMBU YALU,Student,01 Jan 1983
+323,160290971,"Yasi, Bill",M,YALU,Student,11 Oct 1997
+324,160506457,"Yawake, Frida",M,YAMERIGA,Student,12 May 2002
+325,160506460,"Yawake, Jacob",M,YAMERIGA,Student,28 Apr 2004
+326,160506467,"Yawake, Lapima",M,YAMERIGA,Student,13 Apr 2003
+327,160494477,"Zuayo, Daiman",M,YAMERIGA,Houseboy,09 Jul 2000

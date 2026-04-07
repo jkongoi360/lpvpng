@@ -1,0 +1,2625 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160135931,"Abol, Melo",F,Lumbi,Household Duties,26 Sep 1995
+2,160135936,"Abol, Merolyn",F,Lumbi,Household Duties,02 Nov 1996
+3,160191374,"Akande, Yanue",F,Lumbi,Household Duties,10 Nov 1954
+4,160197106,"Albert, Jannet",F,Lumbi,Household Duties,01 Jan 1969
+5,160439055,"Albert, Jeneth",F,Lumbi,Subsistence Farmer,06 Mar 1987
+6,25081104,"Albert, Joyclin",F,Lumbi,Student,19 Oct 2001
+7,25081108,"Albert, Marlyn",F,Lumbi,Nurse,17 Nov 1988
+8,160237239,"Alembo, Cathy",F,Lumbi,Subsistence Farmer,04 Mar 1980
+9,160241853,"Alembo, Everlyn",F,Lumbi,Subsistence Farmer,13 Mar 1982
+10,160193810,"Alembo, Poronogo",F,Lumbi,Subsistence Farmer,08 Jul 1946
+11,160235999,"Alembo, Roselyn",F,Lumbi,Subsistence Farmer,10 Oct 1980
+12,160196494,"Alert igipia, Cathy",F,Lumbi,Student,01 Jan 1986
+13,160438826,"Alex, Audry",F,Lumbi,Student,04 Mar 2004
+14,160439094,"Alex, Joyice",F,Lumbi,Student,09 Mar 2004
+15,160202101,"Alex, Lepan",F,Lumbi,Household Duties,01 Jan 1970
+16,25081116,"Alex, Lucy",F,Lumbi,Household Duties,21 Apr 1992
+17,160216018,"Alex, Poka",F,Lumbi,Household Duties,01 Jan 1947
+18,25081121,"Alex, Rosen",F,Lumbi,Student,16 Jun 2000
+19,25081126,"Alex, Simbuambai",F,Lumbi,Household Duties,04 Apr 1990
+20,160235992,"Alex iti, Rose",F,Lumbi,Household Duties,19 Dec 1982
+21,160218564,"Alex kak, Idyjo",F,Lumbi,Student,01 Jan 1990
+22,160189736,"Alex wasi, Joclyn",F,Lumbi,Student,01 Jan 1983
+23,160190699,"Alex wasi, Lucy",F,Lumbi,Household Duties,01 Jan 1976
+24,160193812,"Alombo, Omame",F,Lumbi,Subsistence Farmer,04 Mar 1976
+25,160235955,"Alop, Bepi",F,Lumbi,Household Duties,01 Jan 1968
+26,160193868,"Alphones, Nancy",F,Lumbi,Household Duties,05 Jul 1956
+27,25081134,"Alphonse, Gracelyn",F,Lumbi,Student,07 Jan 2001
+28,160135829,"Alphonse, Jenet",F,Lumbi,Household Duties,06 Jan 1993
+29,160438723,"Ambros, Gelma",F,Lumbi,Student,01 Jan 2002
+30,160235880,"Amos, Cindy",F,Lumbi,Student,01 Jan 1994
+31,160235881,"Amos, Margaret",F,Lumbi,Household Duties,01 Jan 1965
+32,160156066,"Amos, Namme",F,Lumbi,Household Duties,01 Jan 1978
+33,160156065,"Amos, Rosa",F,Lumbi,Household Duties,01 Jan 1966
+34,160235686,"Amos, Terrin",F,Lumbi,Student,01 Jan 1994
+35,160133572,"Anda, Beggi",F,Lumbi,Household Duties,07 Mar 1993
+36,25081141,"Andapiri, Wesi",F,Lumbi,Household Duties,12 Nov 1990
+37,160162734,"Andono, Deplame",F,Lumbi,Household Duties,03 May 1966
+38,160176263,"Andrew, Ake",F,Lumbi,Household Duties,01 Jan 1977
+39,160438711,"Andrew, Bevelyn",F,Lumbi,Student,05 Jun 2000
+40,160238569,"Andrew, Christy",F,Lumbi,Housegirl,05 Jul 1986
+41,160438720,"Andrew, Deple",F,Lumbi,Household Duties,11 May 1999
+42,160438710,"Andrew, Javelyn",F,Lumbi,Student,06 May 2003
+43,160438722,"Andrew, Jemmy",F,Lumbi,Household Duties,04 Aug 2000
+44,160171797,"Andrew, Lucy",F,Lumbi,Household Duties,01 Jan 1979
+45,160236035,"Andrew, Polin",F,Lumbi,Subsistence Farmer,01 Jan 1988
+46,25081145,"Andrew, Rothen",F,Lumbi,Housegirl,12 May 1985
+47,25081148,"Andrew, Ruth",F,Lumbi,Household Duties,28 Apr 2004
+48,160438721,"Andrew, Samenta",F,Lumbi,Household Duties,05 Jul 2002
+49,25081152,"Andrew, Selina",F,Lumbi,Student,10 Sep 1999
+50,160133616,"Andrew, Susilea",F,Lumbi,Household Duties,07 Nov 1984
+51,160165249,"Andrew laiya, Jannet",F,Lumbi,Household Duties,15 Apr 1988
+52,25081155,"Andrian, Susan",F,Lumbi,Household Duties,22 Sep 1997
+53,160162892,"Anis, Rachael",F,Lumbi,Household Duties,15 Feb 1975
+54,160211360,"Anisu, Josephine",F,Lumbi,Student,16 Feb 1990
+55,25081158,"Anisu, Merian",F,Lumbi,Household Duties,05 May 1998
+56,25081161,"Anisu, Odolyn",F,Lumbi,Student,01 Jan 2000
+57,160211350,"Anisu, Wasi",F,Lumbi,Household Duties,29 Nov 1950
+58,160235498,"Ank, Alop",F,Lumbi,Subsistence Farmer,01 Jan 1961
+59,160438972,"Ank, Amelyn",F,Lumbi,Student,06 Mar 2004
+60,160438976,"Ank, Japhet",F,Lumbi,Student,11 Feb 2004
+61,25081174,"Ank, Jemma",F,Lumbi,Household Duties,12 Jan 1977
+62,160237037,"Ank, Jenny",F,Lumbi,Student,01 Jan 1981
+63,160236024,"Ank, Julian",F,Lumbi,Student,01 Jan 1988
+64,160237020,"Ank, Kang",F,Lumbi,Subsistence Farmer,01 Jan 1971
+65,160438974,"Ank, Kundi",F,Lumbi,Student,24 Feb 2004
+66,160237024,"Ank, Lome",F,Lumbi,Subsistence Farmer,01 Jan 1985
+67,160236019,"Ank, Nelly",F,Lumbi,Household Duties,01 Jan 1971
+68,25081190,"Ank, Pamela",F,Lumbi,Typist,12 Jul 1970
+69,160236021,"Ank, Precilla",F,Lumbi,Student,01 Jan 1979
+70,160237023,"Ank, Racheal",F,Lumbi,Student,01 Jan 1994
+71,160237022,"Ank, Ross",F,Lumbi,Student,01 Jan 1984
+72,160236020,"Ank, Tolim",F,Lumbi,Household Duties,01 Jan 1966
+73,160237019,"Ank, Tupiam",F,Lumbi,Subsistence Farmer,01 Jan 1963
+74,160133403,"Anton, Serah",F,Lumbi,Teacher,11 Apr 1997
+75,160187051,"Apea, Angomo",F,Lumbi,Household Duties,28 Jun 1952
+76,160186980,"Apea, Cathy",F,Lumbi,Student,29 Oct 1986
+77,160218124,"Apeya, Malinda",F,Lumbi,Student,01 Jan 1989
+78,160219052,"Apeya, Ruth",F,Lumbi,Household Duties,01 Jan 1966
+79,160162709,"Apo, Wesangi",F,Lumbi,Household Duties,01 Jan 1955
+80,160439068,"Aron, Carol",F,Lumbi,Student,01 Mar 1999
+81,160235886,"Aron, Dim",F,Lumbi,Household Duties,01 Jan 1960
+82,160235887,"Aron, Konica",F,Lumbi,Student,01 Jan 1986
+83,160235388,"Aron, Oroyame",F,Lumbi,Subsistence Farmer,01 Jan 1974
+84,160235368,"Aron, Precilla",F,Lumbi,Student,01 Jan 1990
+85,160235885,"Aron, Rumbame",F,Lumbi,Household Duties,01 Jan 1976
+86,160237558,"Asapo, Nakalame",F,Lumbi,Household Duties,16 Mar 1974
+87,160153658,"Asaro, Pore",F,Lumbi,Household Duties,01 Jan 1969
+88,160438929,"Assac, Apolonia",F,Lumbi,Student,15 Jul 1989
+89,160238565,"Asupa, Josephine",F,Lumbi,Household Duties,01 Jan 1984
+90,160175937,"Augustine, Christina",F,Lumbi,Household Duties,13 Jun 1974
+91,160196156,"Awey, Meriam",F,Lumbi,Household Duties,09 Jun 1970
+92,160195907,"Awey, Nomi",F,Lumbi,Household Duties,07 Aug 1987
+93,160196171,"Awey, Pikasa",F,Lumbi,Household Duties,09 Oct 1984
+94,160438670,"Banabas, Rose",F,Lumbi,Household Duties,12 Mar 1987
+95,160133580,"Bapi, Stepheny",F,Lumbi,Student,14 Sep 1997
+96,160438824,"Basiba, Lowen",F,Lumbi,Student,02 Sep 2002
+97,160438873,"Basira, Sedera",F,Lumbi,Household Duties,04 Nov 1998
+98,160219060,"Baspiya ako, Maclina",F,Lumbi,Household Duties,01 Jan 1957
+99,160235944,"Beleke, Joyce",F,Lumbi,Housegirl,03 Sep 1992
+100,160218227,"Beleke, Nisimi",F,Lumbi,Household Duties,01 Jan 1972
+101,160219042,"Beleke, Theresa",F,Lumbi,Household Duties,01 Jan 1971
+102,160155972,"Bembo, Rose",F,Lumbi,Subsistence Farmer,01 Jan 1980
+103,160191088,"Ben, Regina",F,Lumbi,Student,01 Jan 1982
+104,160439016,"Ben, Rosa",F,Lumbi,Household Duties,06 Mar 2004
+105,160438792,"Ben, Roselyn",F,Lumbi,Household Duties,08 Apr 2004
+106,160438904,"Ben yasi, Doris",F,Lumbi,Teacher,04 Feb 2004
+107,160215744,"Benard, Anna",F,Lumbi,Household Duties,01 Jan 1973
+108,160133584,"Benard, Marry",F,Lumbi,Household Duties,08 Jun 1989
+109,160139309,"Benny, Jud",F,Lumbi,Student,18 May 1998
+110,160133594,"Benowi, Nancy",F,Lumbi,Student,01 Sep 1996
+111,160210171,"Benson, Babbra",F,Lumbi,Subsistence Farmer,01 Jan 1980
+112,160133597,"Benson, Getrine",F,Lumbi,Student,21 Aug 1996
+113,160238567,"Benson, Kipone",F,Lumbi,Student,01 Jan 1993
+114,160188611,"Benson, Nancy",F,Lumbi,Household Duties,09 Dec 1973
+115,160210449,"Bepi, Dorothy",F,Lumbi,Subsistence Farmer,01 Jan 1988
+116,160171792,"Bepi, Jannet",F,Lumbi,Household Duties,18 Apr 1976
+117,160210541,"Bepi, Julie",F,Lumbi,Subsistence Farmer,01 Jan 1982
+118,160212436,"Bepi, Maria",F,Lumbi,Subsistence Farmer,01 Jan 1979
+119,160185980,"Bepi, Nado",F,Lumbi,Household Duties,01 Jan 1969
+120,160212423,"Bepi, Pomunu",F,Lumbi,Subsistence Farmer,01 Jan 1977
+121,160182479,"Binowi, Nancy",F,Lumbi,Household Duties,01 Jan 1972
+122,160139362,"Bob, Joan",F,Lumbi,Household Duties,30 Mar 1992
+123,160190838,"Boby, Jenifa",F,Lumbi,Subsistence Farmer,01 Jan 1987
+124,160236037,"Boli, Esther",F,Lumbi,Household Duties,01 Jan 1960
+125,160438716,"Boli, Gibili",F,Lumbi,Household Duties,02 Apr 1997
+126,160173379,"Boli, Joan",F,Lumbi,Subsistence Farmer,01 Jan 1980
+127,160173378,"Boli, Marian",F,Lumbi,Household Duties,01 Jan 1952
+128,160236987,"Boli, Marian",F,Lumbi,Student,01 Jan 1990
+129,160438719,"Boli, Meckdola",F,Lumbi,Household Duties,04 May 1997
+130,160438707,"Boli, Merol",F,Lumbi,Student,04 Aug 1997
+131,160173345,"Boli, Roselyn",F,Lumbi,Household Duties,01 Jan 1965
+132,160438717,"Boli, Salot",F,Lumbi,Household Duties,07 Jul 1997
+133,160438718,"Boli, Toya",F,Lumbi,Household Duties,06 May 1985
+134,160438764,"Boni, Selina",F,Lumbi,Household Duties,03 Mar 1993
+135,160239129,"Brendon, Lucy",F,Lumbi,Household Duties,24 Mar 1987
+136,160438773,"Brian, Lincey",F,Lumbi,Teacher,03 Jun 1992
+137,160194670,"Buka, Esther",F,Lumbi,Household Duties,01 Jan 1974
+138,160209946,"Buka, Evelyn",F,Lumbi,Student,23 Feb 1989
+139,160196299,"Buka, Frida",F,Lumbi,Subsistence Farmer,01 Jan 1986
+140,160162739,"Buka, Meato",F,Lumbi,Subsistence Farmer,01 Jan 1981
+141,160133561,"Buka, Steveny",F,Lumbi,Student,03 Jun 1992
+142,160194199,"Bushman, Nancy",F,Lumbi,Student,06 Mar 1989
+143,160194195,"Bushman, Nepi",F,Lumbi,Household Duties,05 Jun 1956
+144,160153576,"Byran, Magaret",F,Lumbi,Household Duties,05 Mar 1966
+145,160438776,"Cain, Melisa",F,Lumbi,Household Duties,03 Dec 1994
+146,160438775,"Cain, Nomie",F,Lumbi,Household Duties,08 Sep 1996
+147,160438907,"Charles, Lusi",F,Lumbi,Household Duties,08 Feb 2004
+148,160217987,"Chris, Josphina",F,Lumbi,Student,01 Jan 1989
+149,160216638,"Chris, Meriam",F,Lumbi,Household Duties,01 Jan 1980
+150,25081210,"Christol, Joshua",F,Lumbi,Student,05 Jul 2000
+151,25081213,"Clement, Zina",F,Lumbi,Household Duties,27 Apr 2000
+152,160169065,"Clement, Zina",F,Lumbi,Household Duties,13 Jun 1980
+153,25081218,"Clitus, Eli",F,Lumbi,Subsistence Farmer,05 Jun 1994
+154,160438827,"Damien, Jane",F,Lumbi,Household Duties,28 Apr 2000
+155,160202109,"Dansten, Dana",F,Lumbi,Household Duties,01 Jan 1951
+156,160217615,"Dansten, Lutina",F,Lumbi,Household Duties,01 Jan 1984
+157,160133610,"David, Alina",F,Lumbi,Student,06 May 1997
+158,160194033,"David, Anna",F,Lumbi,Household Duties,07 May 1965
+159,160155716,"David, Becky",F,Lumbi,Household Duties,01 Jan 1959
+160,160438785,"David, Cathdine",F,Lumbi,Household Duties,28 Apr 2004
+161,160235383,"David, Christina",F,Lumbi,Student,01 Jan 1994
+162,160158962,"David, Delma",F,Lumbi,Student,01 Jan 1976
+163,160158836,"David, Donna",F,Lumbi,Student,01 Jan 1985
+164,160158966,"David, Jenny",F,Lumbi,Subsistence Farmer,01 Jan 1980
+165,160133609,"David, Judy",F,Lumbi,Student,11 Mar 1995
+166,160133611,"David, Less",F,Lumbi,Student,04 Nov 1998
+167,160160178,"David, Lucy",F,Lumbi,Subsistence Farmer,01 Jan 1978
+168,160158961,"David, Miss",F,Lumbi,Household Duties,01 Jan 1958
+169,160175803,"David, Nakolame",F,Lumbi,Household Duties,17 Feb 1963
+170,160237013,"David, Nancy",F,Lumbi,Household Duties,01 Jan 1984
+171,160165296,"David, Nelly",F,Lumbi,Student,01 Jan 1988
+172,160182920,"David, Nerolie",F,Lumbi,Household Duties,01 Jan 1958
+173,25081227,"David, Nika",F,Lumbi,Student,16 Feb 2001
+174,160165295,"David, Nora",F,Lumbi,Student,01 Jan 1988
+175,160235688,"David, Pore",F,Lumbi,Household Duties,01 Jan 1960
+176,25081231,"David, Solina",F,Lumbi,Student,01 Nov 2000
+177,25081237,"David, Winsten",F,Lumbi,Student,16 Sep 2002
+178,160139492,"Demox, Soana",F,Lumbi,Household Duties,06 Mar 1985
+179,160194657,"Dickson, Misis",F,Lumbi,Subsistence Farmer,01 Jan 1980
+180,160194152,"Dickson, Roselyn",F,Lumbi,Student,01 Jan 1985
+181,160194658,"Dickson, Sopuname",F,Lumbi,Subsistence Farmer,01 Jan 1980
+182,160133570,"Dickson, Stella",F,Lumbi,Household Duties,14 Jun 1994
+183,25081246,"Dixson, Judy",F,Lumbi,Subsistence Farmer,12 Oct 1978
+184,25081248,"Don, Donnah",F,Lumbi,Household Duties,17 Aug 1985
+185,160194210,"Don, Freda",F,Lumbi,Household Duties,04 May 1976
+186,25081251,"Don, Lenny",F,Lumbi,Student,20 Sep 2003
+187,25081255,"Don, Venina",F,Lumbi,Student,28 Jun 1996
+188,160190566,"Donald, Lin jona",F,Lumbi,Household Duties,01 Jan 1979
+189,160438781,"Donald, Romilda",F,Lumbi,Student,07 Jun 2001
+190,160193356,"Donald, Roselyn",F,Lumbi,Household Duties,01 Jan 1974
+191,160438916,"Donald, Venesha",F,Lumbi,Student,04 Jan 2001
+192,25081264,"Donald warea, Jeffinia",F,Lumbi,Teacher,03 Aug 1999
+193,25081268,"Donald warea, Romelin",F,Lumbi,Student,28 Apr 2004
+194,160438780,"Donarld, Romilyn",F,Lumbi,Student,13 Apr 2000
+195,160439072,"Dunstan, Rose",F,Lumbi,Student,06 Feb 2004
+196,160196946,"Eapu, Reken",F,Lumbi,Household Duties,07 Sep 1968
+197,160196263,"Eapu, Wari",F,Lumbi,Household Duties,05 May 1977
+198,160133621,"Elevis, Rosly",F,Lumbi,Household Duties,05 Jun 1984
+199,160236052,"Elijah, Grace",F,Lumbi,Household Duties,01 Jan 1985
+200,160188251,"Elizah, Anna",F,Lumbi,Household Duties,01 Jan 1987
+201,25081276,"Elizah, Eponi",F,Lumbi,Student,08 Sep 2001
+202,160193713,"Elizah, Julie",F,Lumbi,Household Duties,04 Aug 1967
+203,25081288,"Elizah, Monica",F,Lumbi,Student,01 Jan 1995
+204,160160779,"Elizah, Roselyn",F,Lumbi,Household Duties,24 May 1970
+205,25081292,"Embisi, Lora",F,Lumbi,Household Duties,08 Feb 1971
+206,160194321,"Embros, Gloria",F,Lumbi,Household Duties,09 Sep 1958
+207,160194312,"Embros, Mary",F,Lumbi,Household Duties,08 Mar 1960
+208,160194313,"Embros, Pelma",F,Lumbi,Student,10 Oct 1985
+209,160194200,"Embros, Poyame",F,Lumbi,Household Duties,08 Jun 1973
+210,160237539,"Endrick, Roselyn",F,Lumbi,Household Duties,15 Aug 1984
+211,25081301,"Enga, Joycelin",F,Lumbi,Subsistence Farmer,18 Apr 1992
+212,160183210,"Enos, Lepi",F,Lumbi,Household Duties,01 Jan 1954
+213,160438730,"Epa, Epela",F,Lumbi,Student,03 May 2002
+214,160193715,"Epata, Hellda",F,Lumbi,Household Duties,09 Mar 1976
+215,160193808,"Epata, Wapenda",F,Lumbi,Household Duties,09 Jun 1947
+216,160235386,"Epowa, Lusmary",F,Lumbi,Subsistence Farmer,01 Jan 1950
+217,160156076,"Epowa, Martha",F,Lumbi,Subsistence Farmer,01 Jan 1980
+218,160169418,"Epowa, Mirian",F,Lumbi,Student,01 Jan 1988
+219,160235689,"Epowa, Retame",F,Lumbi,Household Duties,01 Jan 1985
+220,160155985,"Epowa, Wesi",F,Lumbi,Household Duties,01 Jan 1967
+221,160190682,"Eric, Betty",F,Lumbi,Student,01 Jan 1990
+222,160194434,"Eric, Jennifa",F,Lumbi,Student,01 Jan 1983
+223,160194430,"Eric, Rosa",F,Lumbi,Household Duties,01 Jan 1969
+224,160133537,"Erick, Alice",F,Lumbi,Student,15 Feb 1996
+225,160139358,"Erick, Heldas",F,Lumbi,Student,03 Jul 1998
+226,160139357,"Erick, Jacklyn",F,Lumbi,Household Duties,17 Aug 1987
+227,160438757,"Erick, Jasmine",F,Lumbi,Student,09 Feb 2000
+228,160133628,"Eugine, Everlyn",F,Lumbi,Household Duties,24 May 1992
+229,160190549,"Feilix, Cealin",F,Lumbi,Household Duties,01 Jan 1949
+230,160193199,"Feilix, Linda",F,Lumbi,Student,01 Jan 1980
+231,160133538,"Felix, Julian",F,Lumbi,Household Duties,26 Sep 1991
+232,160438754,"Felix, Julian",F,Lumbi,Household Duties,24 Jan 1990
+233,160240326,"Fidelis, Naealyn",F,Lumbi,Household Duties,20 May 1987
+234,160133511,"Firman, Yangnu",F,Lumbi,Household Duties,19 Jul 1990
+235,160236010,"Francis, Gele",F,Lumbi,Household Duties,01 Jan 1979
+236,160236045,"Francis, Jema",F,Lumbi,Household Duties,01 Jan 1986
+237,25081302,"Francis, Jennifer",F,Lumbi,Household Duties,13 Dec 1975
+238,160236011,"Francis, Mary",F,Lumbi,Teacher,01 Jan 1984
+239,160237029,"Francis, Nancy",F,Lumbi,Household Duties,01 Jan 1970
+240,160236044,"Francis, Pemila",F,Lumbi,Clerk,01 Jan 1972
+241,160236040,"Francis, Pomai",F,Lumbi,Student,01 Jan 1994
+242,160235672,"Francis, Selang",F,Lumbi,Student,01 Jan 1983
+243,160162646,"Frank, Dolly",F,Lumbi,Student,01 Jan 1988
+244,160162899,"Frank, Evelyn",F,Lumbi,Household Duties,01 Jan 1983
+245,160133617,"Frank, Meloani",F,Lumbi,Student,15 Aug 1997
+246,160162650,"Frank, Mutu",F,Lumbi,Household Duties,01 Jan 1947
+247,160438661,"Frank, Rowena",F,Lumbi,Student,16 May 2003
+248,160194634,"Frank, Susan",F,Lumbi,Household Duties,01 Jan 1963
+249,160235960,"Frank, Wari",F,Lumbi,Student,01 Jan 1982
+250,160236990,"Fred, Jenny",F,Lumbi,Household Duties,01 Jan 1986
+251,25081311,"Freda, Tom",F,Lumbi,Teacher,12 Apr 1989
+252,160167296,"Gabriel, Julie",F,Lumbi,Student,07 Jun 1984
+253,160194047,"Gabriel, Puname",F,Lumbi,Subsistence Farmer,06 Jun 1953
+254,160194046,"Gabriel, Wanue",F,Lumbi,Household Duties,07 Jun 1954
+255,160439005,"Gapi, Dalrose",F,Lumbi,Student,13 Jan 2004
+256,160165729,"Gapi, Dorika",F,Lumbi,Subsistence Farmer,01 Jan 1988
+257,160196243,"Gapi, Elisa",F,Lumbi,Subsistence Farmer,01 Jan 1982
+258,160196398,"Gapi, Hellen",F,Lumbi,Subsistence Farmer,01 Jan 1988
+259,25081315,"Gapi, Kuni",F,Lumbi,Subsistence Farmer,12 Oct 1980
+260,160196988,"Gapi, Tame",F,Lumbi,Subsistence Farmer,01 Jan 1977
+261,160190702,"Gapi, Wagi",F,Lumbi,Household Duties,01 Jan 1980
+262,160438918,"Gargam, Ruth",F,Lumbi,Household Duties,17 Feb 1991
+263,25081325,"George iria, Dela",F,Lumbi,Student,18 Feb 2000
+264,160241970,"Gerry, Malin",F,Lumbi,Household Duties,11 Oct 1970
+265,160171777,"Gerry, Saina",F,Lumbi,Household Duties,01 Jan 1971
+266,160237242,"Gerry, Tama",F,Lumbi,Subsistence Farmer,12 Apr 1974
+267,160237642,"Gibson, Elai",F,Lumbi,Household Duties,01 Jan 1980
+268,160193757,"Gibson, Hunu",F,Lumbi,Household Duties,08 Mar 1966
+269,160176253,"Gibson, Joylyn",F,Lumbi,Subsistence Farmer,01 Jan 1982
+270,160237641,"Gibson, Morin",F,Lumbi,Household Duties,01 Jan 1975
+271,160238741,"Gideon, Grace",F,Lumbi,Household Duties,01 Aug 1979
+272,160165262,"Gimea, Magret",F,Lumbi,Household Duties,01 Jan 1961
+273,160171643,"Gimea, Ramo",F,Lumbi,Household Duties,01 Jan 1956
+274,160187396,"Glan, Cathy",F,Lumbi,Sister,01 Jan 1967
+275,25081328,"Glen, Asinta",F,Lumbi,Self Employed,28 Feb 2004
+276,160438772,"Gordon, Jessica",F,Lumbi,Student,05 Mar 1996
+277,160438788,"Howard, Sylvia",F,Lumbi,Clerk,26 Oct 1994
+278,25081343,"Hulumi, Babarra",F,Lumbi,Household Duties,01 Apr 1995
+279,160191141,"Ietabia, Anna",F,Lumbi,Household Duties,08 Mar 1979
+280,160216021,"Igipia, Cerry",F,Lumbi,Student,01 Jan 1988
+281,160215267,"Igipia, Jaclin",F,Lumbi,Student,01 Jan 1977
+282,160218125,"Ima bereke, Mary",F,Lumbi,Household Duties,01 Jan 1981
+283,160133513,"Ingipa, Enny",F,Lumbi,Household Duties,13 Feb 1989
+284,160133515,"Ingipa, Jenny",F,Lumbi,Student,20 Nov 1991
+285,160195913,"Inipa, Ipunu",F,Lumbi,Household Duties,06 Mar 1937
+286,160194662,"Inipa, Ombuwape",F,Lumbi,Household Duties,09 Oct 1976
+287,160194795,"Inipa, Pirape",F,Lumbi,Household Duties,08 Sep 1975
+288,160196201,"Inipa, Yol",F,Lumbi,Subsistence Farmer,06 Jun 1937
+289,160175949,"Inos, Natasha",F,Lumbi,Student,27 Apr 1989
+290,25081347,"Ipisa, Simbu",F,Lumbi,Subsistence Farmer,19 May 1980
+291,160194306,"Ipu, Bepi",F,Lumbi,Household Duties,03 Mar 1967
+292,160194318,"Ipu, Irimendi",F,Lumbi,Household Duties,05 Jul 1968
+293,160194319,"Ipu, Lora",F,Lumbi,Teacher,06 Mar 1980
+294,160153033,"Ipu, Pricila",F,Lumbi,Student,06 Mar 1985
+295,160194305,"Ipu, Rose",F,Lumbi,Household Duties,07 Jul 1965
+296,160133579,"Irea, Merolyn",F,Lumbi,Household Duties,10 Sep 1987
+297,160187949,"Iria, Kenger",F,Lumbi,Household Duties,01 Jan 1938
+298,160182557,"Iroke, Akri",F,Lumbi,Household Duties,27 Feb 1952
+299,160182629,"Iroke, Sarah",F,Lumbi,Student,15 Jul 1986
+300,160193764,"Iropu, Malinda",F,Lumbi,Household Duties,09 Jun 1958
+301,160236999,"Isacc, Jacklyn",F,Lumbi,Household Duties,05 May 1985
+302,160439007,"Isacc, Presilda",F,Lumbi,Student,15 Feb 2004
+303,160139310,"Ismael, Serah",F,Lumbi,Household Duties,22 Mar 1994
+304,160237033,"Issac, Nancy",F,Lumbi,Household Duties,01 Jan 1979
+305,25081361,"Issack, Ablonia",F,Lumbi,Household Duties,13 Dec 2000
+306,160194189,"Iven, Noreen",F,Lumbi,Subsistence Farmer,04 Mar 1976
+307,160194191,"Iven, Rebecca",F,Lumbi,Household Duties,09 Apr 1951
+308,160237638,"Jack, Bevilin",F,Lumbi,Student,16 Mar 1993
+309,160190828,"Jack, Christina",F,Lumbi,Subsistence Farmer,01 Jan 1980
+310,160237015,"Jack, Evelyn",F,Lumbi,Household Duties,01 Jan 1982
+311,160438682,"Jack, Flarah",F,Lumbi,Subsistence Farmer,06 Jun 2000
+312,160438678,"Jack, Grace",F,Lumbi,Student,02 Aug 2003
+313,160194194,"Jack, Hellen",F,Lumbi,Household Duties,09 Aug 1966
+314,160167551,"Jack, Jeniffer",F,Lumbi,Subsistence Farmer,01 Jan 1985
+315,160160412,"Jack, Molina",F,Lumbi,Household Duties,01 Jan 1976
+316,160438681,"Jack, Molipa",F,Lumbi,Subsistence Farmer,02 Jun 2000
+317,160191002,"Jack, Pangis",F,Lumbi,Household Duties,01 Jan 1948
+318,160160414,"Jack, Susanna",F,Lumbi,Household Duties,01 Jan 1973
+319,160135929,"Jack, Susii",F,Lumbi,Student,16 Jul 1998
+320,160237637,"Jack, Tressa",F,Lumbi,Household Duties,03 Apr 1981
+321,160191142,"Jack, Walis",F,Lumbi,Household Duties,01 Jan 1950
+322,160238583,"Jack, Wari",F,Lumbi,Household Duties,01 Jan 1984
+323,160173349,"Jackson, Magret",F,Lumbi,Household Duties,01 Jan 1970
+324,25081365,"Jackson, Malyn",F,Lumbi,Self Employed,15 Mar 1999
+325,25081369,"Jackson, Rachael",F,Lumbi,Household Duties,12 Jul 1983
+326,160438668,"Jackson, Rachael",F,Lumbi,Household Duties,23 Jan 1993
+327,25081371,"Jackson trick, Jennifer",F,Lumbi,Household Duties,09 Sep 1984
+328,160165758,"Jacob, Agnes",F,Lumbi,Household Duties,01 Jan 1976
+329,160135948,"Jacob, Esther",F,Lumbi,Household Duties,26 Apr 1995
+330,160133401,"Jacob, Florynn",F,Lumbi,Teacher,27 Mar 1993
+331,160194203,"Jacob, Gathruth",F,Lumbi,Household Duties,09 Mar 1936
+332,160438658,"Jacob, Jobina",F,Lumbi,Student,18 Sep 2002
+333,160236013,"Jacob, Roslyn",F,Lumbi,Household Duties,01 Jan 1979
+334,160165379,"James, Celin",F,Lumbi,Household Duties,07 Jul 1969
+335,160438913,"James, Freda",F,Lumbi,Teacher,18 Dec 1980
+336,160193720,"James, Itipugu",F,Lumbi,Subsistence Farmer,01 Jan 1958
+337,160439059,"James, Jacklyn",F,Lumbi,Household Duties,05 Jan 1990
+338,160438704,"James, Jina",F,Lumbi,Student,03 May 2003
+339,160193814,"James, Magret",F,Lumbi,Household Duties,01 Jan 1970
+340,160438697,"James, Mical",F,Lumbi,Student,11 Aug 1999
+341,25081381,"James, Moreen",F,Lumbi,Self Employed,27 Mar 2001
+342,160155969,"James, Salian",F,Lumbi,Subsistence Farmer,01 Jan 1982
+343,160135939,"James, Talita",F,Lumbi,Household Duties,30 May 1995
+344,160135859,"James, Wapu",F,Lumbi,Teacher,28 Oct 1985
+345,25081384,"Japet, Abigel",F,Lumbi,Student,13 Sep 2003
+346,25081387,"Japet, Selly eron",F,Lumbi,Household Duties,24 Mar 1996
+347,25081390,"Jarus, Sharin",F,Lumbi,Household Duties,16 Jun 2002
+348,160438724,"Jepeth, Abigirl",F,Lumbi,Student,02 Sep 2002
+349,160438725,"Jepeth, Tuama",F,Lumbi,Student,02 Sep 2001
+350,25081394,"Jepth, Phien ank",F,Lumbi,Student,23 Feb 2003
+351,25081396,"Jepthlyn, Joel ank",F,Lumbi,Student,28 Apr 2004
+352,160160397,"Jerry, Jacklyn",F,Lumbi,Student,01 Jan 1988
+353,160158926,"Jerry, Marymarklyn",F,Lumbi,Student,01 Jan 1988
+354,160135947,"Jerry, Merol",F,Lumbi,Sales Women,28 Nov 1998
+355,160175742,"Jerry, Nancy",F,Lumbi,Household Duties,01 Jan 1970
+356,25081401,"Jethro, Jenny",F,Lumbi,Subsistence Farmer,26 Oct 2003
+357,160139367,"Jip, Bethane",F,Lumbi,Student,10 Apr 1996
+358,160153669,"Job, Rekape",F,Lumbi,Household Duties,05 Jul 1966
+359,160236138,"Joel, Marianne",F,Lumbi,Worker,01 Jan 1984
+360,160438978,"Joel, Rossilla",F,Lumbi,Household Duties,15 Mar 1997
+361,25081404,"Joel ank, Deliliah",F,Lumbi,Student,19 Jan 2001
+362,25081409,"Joel ank, Merian",F,Lumbi,Self Employed,23 Nov 1979
+363,160194806,"John, Boli",F,Lumbi,Household Duties,07 Jun 1966
+364,160438820,"John, Bridgeth",F,Lumbi,Student,01 Mar 2003
+365,160190172,"John, Celly",F,Lumbi,Student,01 Jan 1986
+366,160182949,"John, Cicillia",F,Lumbi,Student,16 Mar 1986
+367,160438800,"John, Ebonie",F,Lumbi,Student,08 Mar 2003
+368,160189638,"John, Epelin",F,Lumbi,Household Duties,01 Jan 1967
+369,160238758,"John, Hupiri",F,Lumbi,Household Duties,19 Aug 1962
+370,160133577,"John, Joyce",F,Lumbi,Household Duties,03 Sep 1980
+371,160439052,"John, Justina",F,Lumbi,Student,21 Feb 2004
+372,160183011,"John, Lucy",F,Lumbi,Household Duties,04 Feb 1962
+373,160194802,"John, Maria",F,Lumbi,Household Duties,07 Mar 1946
+374,160185105,"John, Mariana",F,Lumbi,Household Duties,27 Apr 1953
+375,160182955,"John, Mary",F,Lumbi,Household Duties,01 Jan 1970
+376,160185138,"John, Monicca",F,Lumbi,Household Duties,01 Jan 1971
+377,160182956,"John, Nancy",F,Lumbi,Household Duties,14 Jun 1953
+378,160173365,"John, Norin",F,Lumbi,Household Duties,21 Oct 1971
+379,160438818,"John, Normila",F,Lumbi,Student,09 Apr 2000
+380,160235504,"John, Racheal",F,Lumbi,Student,01 Jan 1991
+381,160238568,"John, Ruth",F,Lumbi,Student,01 Jan 1992
+382,160183048,"John, Sali",F,Lumbi,Student,24 Jul 1989
+383,160438790,"John, Sandra",F,Lumbi,Student,09 Nov 2002
+384,160213603,"John, Susan",F,Lumbi,Subsistence Farmer,01 Jan 1981
+385,160182902,"John, Thressa",F,Lumbi,Household Duties,10 Feb 1968
+386,25081424,"Jona, Atex",F,Lumbi,Housegirl,11 Jul 1998
+387,160237634,"Jonathan, Akepi",F,Lumbi,Household Duties,01 Jan 1970
+388,160196982,"Jonathan, Cathy",F,Lumbi,Librarian,01 Jan 1953
+389,160196889,"Jonathan, Diana",F,Lumbi,Household Duties,01 Jan 1969
+390,160196390,"Jonathan, Esther",F,Lumbi,Household Duties,01 Jan 1977
+391,160196892,"Jonathan, Janet",F,Lumbi,Household Duties,01 Jan 1976
+392,160160439,"Jonathan, Leisa",F,Lumbi,Student,01 Jan 1988
+393,160135953,"Jonathan, Noreen",F,Lumbi,Household Duties,20 Apr 1995
+394,160196385,"Jonathan, Roselyn",F,Lumbi,Household Duties,01 Jan 1957
+395,160197134,"Jonathan, Roselyn kas",F,Lumbi,Household Duties,01 Jan 1974
+396,160196888,"Jonathan, Seiby",F,Lumbi,Subsistence Farmer,01 Jan 1984
+397,160139483,"Jonathan, Sonia",F,Lumbi,Student,28 Apr 1998
+398,160196983,"Jonathan, Stella",F,Lumbi,Household Duties,01 Jan 1969
+399,25081440,"Jonnathan, Catherine",F,Lumbi,Student,14 Dec 2002
+400,25081443,"Jonnathan, Emma",F,Lumbi,Student,22 Jul 2001
+401,25081446,"Jonnathan, Jonika",F,Lumbi,Student,13 Apr 2003
+402,160155815,"Joseph, Heapi",F,Lumbi,Subsistence Farmer,01 Jan 1988
+403,160237541,"Joseph, Jabet",F,Lumbi,Student,13 May 1991
+404,160238753,"Joseph, Kariame",F,Lumbi,Household Duties,04 Dec 1980
+405,160193767,"Joseph, Lina",F,Lumbi,Household Duties,01 Jan 1969
+406,160160317,"Joseph, Mary",F,Lumbi,Subsistence Farmer,01 Jan 1981
+407,160237549,"Joseph, Pelma",F,Lumbi,Student,01 Jan 1984
+408,160191004,"Joseph, Regi",F,Lumbi,Subsistence Farmer,01 Jan 1986
+409,160133555,"Joseph, Silvia",F,Lumbi,Household Duties,20 Mar 1999
+410,160193716,"Joseph kopi, Polina",F,Lumbi,Subsistence Farmer,01 Jan 1983
+411,25081458,"Joseph tisa, Mizel",F,Lumbi,Student,13 Jan 2000
+412,25087140,"Josheph, Lavina",F,Lumbi,Self Employed,16 Apr 2001
+413,25087144,"Josheph, Malin",F,Lumbi,Subsistence Farmer,24 May 1996
+414,160193911,"Joshua, Anna",F,Lumbi,Subsistence Farmer,01 Jan 1980
+415,160237603,"Joshua, Belinda",F,Lumbi,Household Duties,03 Jul 1983
+416,160160698,"Joshua, Everlyn",F,Lumbi,Subsistence Farmer,01 Jan 1979
+417,160139351,"Jud, Rose",F,Lumbi,Household Duties,23 Jul 1991
+418,160191096,"Jude, Gathnissa",F,Lumbi,Household Duties,01 Jan 1977
+419,160191286,"Jude, Roselyn boli",F,Lumbi,Household Duties,01 Jan 1950
+420,25081472,"Justin, Salestina",F,Lumbi,Student,17 Sep 2000
+421,160139359,"Kabenaki, Hellie",F,Lumbi,Household Duties,21 Jan 1997
+422,160133388,"Kabenaki, Jaki",F,Lumbi,Student,21 Feb 1998
+423,160133389,"Kabenaki, Porea",F,Lumbi,Teacher,21 Jul 1981
+424,160220528,"Kak, Jasinta",F,Lumbi,Teacher,01 Jan 1969
+425,160193849,"Kalando, Gloria",F,Lumbi,Subsistence Farmer,07 Jun 1959
+426,160194208,"Kalando, Jesica",F,Lumbi,Student,05 Jun 1986
+427,160193850,"Kalando, Morin",F,Lumbi,Household Duties,09 Jul 1983
+428,160194053,"Kapi, Nata",F,Lumbi,Subsistence Farmer,04 Sep 1932
+429,160195704,"Kapo, Beli",F,Lumbi,Subsistence Farmer,01 Jan 1978
+430,25081479,"Kapo, Betany",F,Lumbi,Self Employed,09 Sep 2000
+431,160237002,"Kapo, Cathy",F,Lumbi,Housegirl,15 Oct 1998
+432,160133552,"Kapo, Cynthia",F,Lumbi,Student,29 May 1996
+433,160196061,"Kapo, Ellie",F,Lumbi,Subsistence Farmer,01 Jan 1983
+434,160237003,"Kapo, Jabet",F,Lumbi,Housegirl,09 Mar 1999
+435,160238757,"Kapo, Sintha",F,Lumbi,Student,12 Mar 1994
+436,160237589,"Kapu, Merolyn",F,Lumbi,Household Duties,01 Jan 1976
+437,160196259,"Kapumal, Martin",F,Lumbi,Household Duties,09 Mar 1935
+438,160235384,"Karagi, Josepha",F,Lumbi,Student,01 Jan 1983
+439,160235385,"Karagi, Mcdala",F,Lumbi,Student,01 Jan 1982
+440,160156061,"Karangi, Katherine",F,Lumbi,Student,01 Jan 1982
+441,160169273,"Karangi, Kelien",F,Lumbi,Student,01 Jan 1988
+442,160156063,"Karangi, Lydia",F,Lumbi,Household Duties,01 Jan 1962
+443,160155787,"Karangi, Nunna",F,Lumbi,Household Duties,01 Jan 1959
+444,160235896,"Karapus, Ipiyame",F,Lumbi,Household Duties,01 Jan 1953
+445,160215735,"Karapus, Met",F,Lumbi,Household Duties,01 Jan 1936
+446,160216030,"Karapus, Poreya",F,Lumbi,Household Duties,01 Jan 1935
+447,160236054,"Karapus, Rosa",F,Lumbi,Subsistence Farmer,01 Jan 1985
+448,160216032,"Karapus, Rotuwame",F,Lumbi,Household Duties,01 Jan 1936
+449,160139363,"Karis, Anna",F,Lumbi,Household Duties,14 May 1994
+450,160155813,"Karis, Tal",F,Lumbi,Subsistence Farmer,01 Jan 1978
+451,160133583,"Karle, Joanna",F,Lumbi,Household Duties,06 Sep 1988
+452,25081484,"Karle, Jonah",F,Lumbi,Household Duties,17 Mar 1988
+453,160171911,"Kas, Julie",F,Lumbi,Household Duties,17 Dec 1971
+454,160133603,"Kefa, Susan",F,Lumbi,Student,16 Nov 1996
+455,160165775,"Keisi, Evelyn",F,Lumbi,Household Duties,01 Jan 1956
+456,160169066,"Keisi, Mulien",F,Lumbi,Household Duties,01 Jan 1974
+457,160195910,"Kela, Marian",F,Lumbi,Household Duties,01 Jan 1977
+458,160187410,"Kenger, Emma",F,Lumbi,Student,01 Jan 1980
+459,25081489,"Kenger, Helen",F,Lumbi,Household Duties,25 Jan 1979
+460,160133535,"Kenger, Lina",F,Lumbi,Household Duties,06 Feb 1984
+461,25081494,"Kenger, Mitchell",F,Lumbi,Teacher,16 Oct 1974
+462,160217991,"Kenno, Cathrina",F,Lumbi,Household Duties,01 Jan 1987
+463,25081503,"Keno, Liya",F,Lumbi,Household Duties,22 Mar 1989
+464,25081508,"Keno, Rachael",F,Lumbi,Subsistence Farmer,18 Sep 1999
+465,25081517,"Keno, Wilma",F,Lumbi,Student,02 Oct 1996
+466,160133586,"Kep, Christine",F,Lumbi,Teacher,28 May 1991
+467,160160339,"Ker, Margret",F,Lumbi,Household Duties,26 Jul 1972
+468,160217995,"Kereme, Ambelyame",F,Lumbi,Household Duties,01 Jan 1934
+469,160241670,"Kereme, Delma nala",F,Lumbi,Student,01 Jan 1986
+470,160241990,"Kereme, Doris nala",F,Lumbi,Student,01 Jan 1988
+471,160241984,"Kereme, Elma nala",F,Lumbi,Student,01 Jan 1991
+472,160241688,"Kereme, Lavina",F,Lumbi,Household Duties,01 Jan 1984
+473,160218159,"Kereme, Leame",F,Lumbi,Household Duties,01 Jan 1968
+474,160241669,"Kereme, Rombo shirley",F,Lumbi,Household Duties,01 Jan 1975
+475,160241686,"Kereme, Salina",F,Lumbi,Household Duties,01 Jan 1980
+476,160241687,"Kereme, Stepanie",F,Lumbi,Household Duties,01 Jan 1982
+477,160438911,"Keris, Helen",F,Lumbi,Student,04 Jan 2001
+478,160237546,"Kevin, Apala",F,Lumbi,Household Duties,06 Jul 1989
+479,160160189,"Kevin, Nelly",F,Lumbi,Household Duties,01 Jan 1979
+480,160241978,"Kevin, Ono",F,Lumbi,Household Duties,01 Jan 1985
+481,160139320,"Kevin, Rowi",F,Lumbi,Student,03 Apr 1998
+482,160182880,"Kewa, Betty",F,Lumbi,Store Keeper,01 Jan 1975
+483,160182876,"Kewa, Rumbe",F,Lumbi,Household Duties,01 Jan 1967
+484,160160328,"Kialape, Mongome",F,Lumbi,Household Duties,01 Jan 1946
+485,160160159,"Kialape, Tangi",F,Lumbi,Household Duties,01 Jan 1948
+486,160438660,"Kills, Adora",F,Lumbi,Student,09 Nov 2003
+487,160235387,"Kills, Betty",F,Lumbi,Student,01 Jan 1988
+488,160235692,"Kills, Mulan",F,Lumbi,Household Duties,01 Jan 1975
+489,160235883,"Kills, Sina",F,Lumbi,Household Duties,01 Jan 1968
+490,160216179,"Kina, Werit",F,Lumbi,Household Duties,01 Jan 1975
+491,160165853,"Kingi, Nancy",F,Lumbi,Household Duties,01 Jan 1973
+492,160220525,"Kipua, Freda",F,Lumbi,Household Duties,01 Jan 1979
+493,160220449,"Kipua, Loran",F,Lumbi,Student,01 Jan 1982
+494,160190336,"Kipua, Paulla",F,Lumbi,Household Duties,01 Jan 1937
+495,160133519,"Kiru, Alice",F,Lumbi,Student,27 Dec 1996
+496,160220519,"Kiru, Liean",F,Lumbi,Household Duties,01 Jan 1979
+497,160220458,"Kiru, Martina",F,Lumbi,Household Duties,01 Jan 1938
+498,160178035,"Kiru, Noreeen pombere",F,Lumbi,Household Duties,01 Jan 1981
+499,160133516,"Kiru, Stepheny",F,Lumbi,Student,21 Sep 1993
+500,160139352,"Kiru, Stephina",F,Lumbi,Student,26 Dec 1998
+501,160241960,"Koke, Mata",F,Lumbi,Household Duties,11 Feb 1986
+502,160241665,"Koke, Pono",F,Lumbi,Household Duties,13 Sep 1960
+503,160241962,"Koke, Selina",F,Lumbi,Student,03 Apr 1993
+504,160241961,"Koke, Soti",F,Lumbi,Housegirl,14 Mar 1989
+505,160182990,"Kolot, Aipa",F,Lumbi,Household Duties,01 Jan 1971
+506,160139318,"Kolot, Cathy",F,Lumbi,Student,02 Nov 1998
+507,160155879,"Kolot, Marklina",F,Lumbi,Household Duties,01 Jan 1961
+508,160187631,"Kolot, Tina",F,Lumbi,Subsistence Farmer,01 Jan 1981
+509,160135957,"Komenaik, Adesa",F,Lumbi,Sales Women,09 Aug 1996
+510,160133593,"Komenaki, Hup",F,Lumbi,Student,23 Feb 1997
+511,160135956,"Komisa, Anna",F,Lumbi,Sales Women,15 Jul 1997
+512,160165261,"Kondun, Jennifer",F,Lumbi,Student,15 Dec 1980
+513,160171789,"Kondun, Kelo",F,Lumbi,Household Duties,16 Mar 1944
+514,160184973,"Kongo, Anna",F,Lumbi,Household Duties,01 Jan 1971
+515,160167631,"Kongo, Ati",F,Lumbi,Student,31 Mar 1984
+516,160139365,"Kongo, Joice",F,Lumbi,Student,05 Sep 1995
+517,160186996,"Kongo, Krisa",F,Lumbi,Household Duties,01 Jan 1953
+518,160133565,"Kongo, Linkay",F,Lumbi,Student,27 Nov 1994
+519,25081540,"Kongo, Palima",F,Lumbi,Household Duties,13 Jun 2000
+520,160196208,"Kongo, Palima",F,Lumbi,Subsistence Farmer,01 Jan 1985
+521,160133571,"Kongo, Shillena",F,Lumbi,Student,04 Feb 1999
+522,160184976,"Kongo, Shirley",F,Lumbi,Student,01 Jan 1981
+523,160196167,"Kongo, Susan",F,Lumbi,Subsistence Farmer,01 Jan 1978
+524,160180760,"Kongo, Wali",F,Lumbi,Household Duties,01 Jan 1973
+525,160195755,"Kongo, Wendy",F,Lumbi,Subsistence Farmer,01 Jan 1987
+526,160133573,"Kopeap, Dorris",F,Lumbi,Household Duties,02 Nov 1990
+527,160186972,"Kopeap, Roselyn",F,Lumbi,Household Duties,01 Jan 1972
+528,160169170,"Kopeap, Saina",F,Lumbi,Household Duties,01 Jan 1972
+529,25081546,"Kopeap, Stella",F,Lumbi,Household Duties,28 Sep 1992
+530,160133393,"Kopi, Nati",F,Lumbi,Subsistence Farmer,21 Feb 1998
+531,160133394,"Kopi, Nono",F,Lumbi,Student,22 Apr 1997
+532,160218579,"Kopi, Roda",F,Lumbi,Household Duties,01 Jan 1980
+533,160216646,"Kopi, Waleme",F,Lumbi,Household Duties,01 Jan 1937
+534,160438942,"Kot, Agera",F,Lumbi,Student,28 Apr 2004
+535,160160648,"Kot, Josephine",F,Lumbi,Household Duties,22 Oct 1970
+536,160438651,"Kot, Lewa",F,Lumbi,Household Duties,28 Mar 1983
+537,160438941,"Kot, Puts",F,Lumbi,Student,17 Jan 2004
+538,160133581,"Kot, Rachael",F,Lumbi,Student,03 Sep 1997
+539,160133591,"Kotpina, Lavina",F,Lumbi,Student,20 Mar 1998
+540,160215723,"Kotpina, Wari",F,Lumbi,Student,01 Jan 1982
+541,160216245,"Kotpina pee, Molu",F,Lumbi,Household Duties,01 Jan 1960
+542,160158832,"Kuku, Melpina",F,Lumbi,Subsistence Farmer,05 Jul 1986
+543,160153504,"Kuku, Noreen",F,Lumbi,Household Duties,10 Sep 1947
+544,160217621,"Kuku, Sara",F,Lumbi,Household Duties,01 Jan 1971
+545,160195942,"Kumdi, Sopmeli",F,Lumbi,Household Duties,01 Jan 1948
+546,160219193,"Kuna, Aelinda",F,Lumbi,Household Duties,01 Jan 1968
+547,160219034,"Kuna, Burami",F,Lumbi,Household Duties,01 Jan 1963
+548,160218218,"Kuna, Conica",F,Lumbi,Household Duties,01 Jan 1969
+549,160176023,"Kuni, Anna",F,Lumbi,Household Duties,01 Jan 1978
+550,160216065,"Kuni, Kotpina pee",F,Lumbi,Student,01 Jan 1980
+551,160195705,"Kunis, Noreen",F,Lumbi,Household Duties,04 Mar 1976
+552,160438863,"Kup, Arin",F,Lumbi,Student,08 May 2002
+553,25081563,"Kupu, Alien",F,Lumbi,Student,13 Jun 1997
+554,160215413,"Kupu, Ipyame",F,Lumbi,Household Duties,01 Jan 1980
+555,160183218,"Kuskus, Evelyn",F,Lumbi,Household Duties,01 Jan 1978
+556,160175955,"Kuskus, Lero",F,Lumbi,Household Duties,01 Jan 1980
+557,160438946,"Kusot, Sainatha",F,Lumbi,Student,16 Jan 2004
+558,160438944,"Kusot, Stacy",F,Lumbi,Student,23 Jan 2004
+559,160238749,"Kutu, Dora",F,Lumbi,Household Duties,19 Oct 1989
+560,160133536,"Laiya, Quina",F,Lumbi,Student,19 Nov 1998
+561,160165398,"Laiya, Singel kope",F,Lumbi,Household Duties,30 Sep 1957
+562,160237640,"Lapa, Jeniffa",F,Lumbi,Student,01 Jan 1993
+563,160173367,"Lapa, Joscina",F,Lumbi,Household Duties,17 Apr 1972
+564,160135930,"Lapa, Nowmi",F,Lumbi,Household Duties,12 Sep 1994
+565,160218429,"Lapoa, Ealina",F,Lumbi,Household Duties,01 Jan 1969
+566,160218147,"Lapoa, Jocsina",F,Lumbi,Student,01 Jan 1988
+567,160218578,"Lapoa, Keleyen",F,Lumbi,Household Duties,01 Jan 1939
+568,25081585,"Lapoa, Keuan",F,Lumbi,Household Duties,30 Jul 1937
+569,160218153,"Lapoa, Linne",F,Lumbi,Household Duties,01 Jan 1979
+570,25081591,"Lapoa, Setruth",F,Lumbi,Household Duties,13 May 1946
+571,25081596,"Lapoa, Wesa",F,Lumbi,Subsistence Farmer,15 Oct 1971
+572,160235995,"Lawrence, Anna",F,Lumbi,Household Duties,03 Mar 1984
+573,160188402,"Leneth, Greace",F,Lumbi,Student,01 Jan 1989
+574,160438816,"Leneth, Neli",F,Lumbi,Household Duties,03 Apr 2004
+575,160188400,"Leneth, Nelly",F,Lumbi,Household Duties,01 Jan 1988
+576,160188632,"Leneth, Rosmary",F,Lumbi,Household Duties,01 Jan 1953
+577,160215725,"Leo, Mary",F,Lumbi,Household Duties,01 Jan 1970
+578,160194325,"Leon, Betty",F,Lumbi,Student,06 Mar 1988
+579,160194330,"Leon, Bolina",F,Lumbi,Household Duties,02 May 1987
+580,160194323,"Leon, Jenny",F,Lumbi,Household Duties,06 Jul 1978
+581,160194327,"Leon, Regina",F,Lumbi,Subsistence Farmer,08 Jul 1954
+582,160194214,"Leon, Serah",F,Lumbi,Household Duties,06 Mar 1976
+583,160194814,"Lernerth, Haila",F,Lumbi,Student,01 Jan 1986
+584,160194642,"Lernerth, Hamunu",F,Lumbi,Subsistence Farmer,01 Jan 1978
+585,160194788,"Lernerth, Norin",F,Lumbi,Subsistence Farmer,01 Jan 1981
+586,160194816,"Lernerth, Pembi",F,Lumbi,Subsistence Farmer,01 Jan 1988
+587,160194682,"Lernerth, Regsol",F,Lumbi,Student,01 Jan 1982
+588,160194812,"Lernerth, Sosina",F,Lumbi,Student,01 Jan 1985
+589,160240327,"Lesly, Helen",F,Lumbi,Housegirl,13 Dec 1984
+590,160133568,"Lesly, Keslyn",F,Lumbi,Student,27 May 1996
+591,160135937,"Levi, Melisa",F,Lumbi,Household Duties,14 Dec 1996
+592,160438742,"Lian, Samuel",F,Lumbi,Household Duties,08 Apr 1978
+593,160187039,"Lina, Lipiren",F,Lumbi,Household Duties,01 Jan 1951
+594,160183111,"Lina, Pore",F,Lumbi,Household Duties,01 Jan 1960
+595,160182977,"Liwa, Grace",F,Lumbi,Student,01 Jan 1980
+596,160187603,"Liwa, Marrien",F,Lumbi,Student,01 Jan 1982
+597,25081608,"Liwa, Merian",F,Lumbi,Household Duties,12 Jan 1993
+598,160186975,"Liwa, Saina",F,Lumbi,Household Duties,01 Jan 1975
+599,160194309,"Londiya, Maci",F,Lumbi,Household Duties,07 Jul 1976
+600,160194316,"Londiya, Meriam",F,Lumbi,Household Duties,06 Jun 1986
+601,160194308,"Londiya, Monica",F,Lumbi,Household Duties,03 Mar 1972
+602,160190554,"Lorance, Fransis",F,Lumbi,Household Duties,01 Jan 1942
+603,160190690,"Lorance, Madona",F,Lumbi,Student,01 Jan 1989
+604,160193361,"Lorance, Marthina",F,Lumbi,Household Duties,01 Jan 1971
+605,160438841,"Lorence, Emma",F,Lumbi,Student,05 Jan 2004
+606,160160710,"Lorence, Marian",F,Lumbi,Subsistence Farmer,01 Jan 1982
+607,160439012,"Luke, Carol",F,Lumbi,Student,30 Nov 1999
+608,160185883,"Luke, Daisy",F,Lumbi,Student,21 Jun 1988
+609,160133562,"Luke, Dalsy",F,Lumbi,Student,27 Aug 1997
+610,160189998,"Luke, Dianna",F,Lumbi,Student,01 Jan 1990
+611,160186959,"Luke, Jannet",F,Lumbi,Household Duties,30 Apr 1959
+612,160193189,"Luke, Julie",F,Lumbi,Household Duties,01 Jan 1950
+613,160438882,"Luke, Magaret",F,Lumbi,Household Duties,04 Apr 2004
+614,160237249,"Luke, Margaret",F,Lumbi,Household Duties,19 Jul 1971
+615,25081613,"Luke, Mella",F,Lumbi,Subsistence Farmer,07 Nov 1997
+616,160196391,"Luke, Mella",F,Lumbi,Subsistence Farmer,01 Jan 1981
+617,160189993,"Luke, Rose",F,Lumbi,Household Duties,01 Jan 1984
+618,160439009,"Luke, Sila",F,Lumbi,Student,22 Apr 2004
+619,160185892,"Luke, Teng",F,Lumbi,Household Duties,01 Jan 1983
+620,160185890,"Luke, Tulpi",F,Lumbi,Household Duties,01 Jan 1950
+621,160182650,"Luke, Wape",F,Lumbi,Household Duties,29 Feb 1956
+622,160173376,"Luther, Rose",F,Lumbi,Household Duties,01 Jan 1971
+623,160236050,"Maip, Joan",F,Lumbi,Subsistence Farmer,01 Jan 1990
+624,160235892,"Maip, Kambenu",F,Lumbi,Household Duties,01 Jan 1979
+625,160218550,"Maipu, Cathy",F,Lumbi,Household Duties,01 Jan 1974
+626,160218834,"Maipu, Hellen",F,Lumbi,Household Duties,01 Jan 1978
+627,160133602,"Maipu, Judi",F,Lumbi,Student,10 Feb 1998
+628,160165646,"Malaki, Delma",F,Lumbi,Subsistence Farmer,01 Jan 1979
+629,160219023,"Malaki, Esther",F,Lumbi,Household Duties,01 Jan 1980
+630,160160306,"Malaki, Jenifa",F,Lumbi,Subsistence Farmer,01 Jan 1985
+631,160438774,"Malaki, Myrah",F,Lumbi,Student,28 Apr 2004
+632,160165854,"Malaki, Puguna mayoren",F,Lumbi,Subsistence Farmer,01 Jan 1978
+633,160438784,"Malcolm, Georgina",F,Lumbi,Student,06 Apr 1998
+634,160183224,"Mali, Betty",F,Lumbi,Household Duties,01 Jan 1974
+635,160182875,"Mali, Sande",F,Lumbi,Household Duties,01 Jan 1970
+636,160216027,"Malipa, Cynthia",F,Lumbi,Household Duties,01 Jan 1973
+637,160213987,"Malipa, Dorothy",F,Lumbi,Student,01 Jan 1982
+638,160215738,"Malipa, Evelyn",F,Lumbi,Household Duties,01 Jan 1971
+639,160216037,"Malipa, Freda",F,Lumbi,Student,01 Jan 1985
+640,160213983,"Malipa, Lilly",F,Lumbi,Teacher,01 Jan 1978
+641,160235876,"Manaki, Maria",F,Lumbi,Household Duties,01 Jan 1986
+642,160167370,"Mandanaki, Anna",F,Lumbi,Household Duties,01 Jan 1977
+643,160194650,"Mandanaki, Dolly",F,Lumbi,Subsistence Farmer,01 Jan 1987
+644,160194648,"Mandanaki, Mary",F,Lumbi,Household Duties,01 Jan 1964
+645,160194665,"Mandanaki, Mospim",F,Lumbi,Household Duties,01 Jan 1955
+646,160196191,"Mandawe, Marklina",F,Lumbi,Subsistence Farmer,01 Jan 1982
+647,160196272,"Mandawe, Nogosi",F,Lumbi,Household Duties,01 Jan 1956
+648,25081626,"Manuel, Cathy",F,Lumbi,Household Duties,17 Jun 1989
+649,160193861,"Mapame, Cathy",F,Lumbi,Student,05 Jun 1989
+650,160193859,"Mapame, Helen",F,Lumbi,Household Duties,02 Mar 1952
+651,160193852,"Mapame, Moludanu",F,Lumbi,Household Duties,04 May 1950
+652,160133622,"Mapi, Rita",F,Lumbi,Student,06 Jul 1995
+653,160133601,"Mapu, Miriam",F,Lumbi,Student,29 Jan 1998
+654,160155783,"Marin, Margret",F,Lumbi,Household Duties,20 Apr 1969
+655,160158949,"Mark, Dorika",F,Lumbi,Household Duties,01 Jan 1975
+656,160237633,"Mark, Jacklyn",F,Lumbi,Household Duties,01 Jan 1984
+657,160193923,"Mark, Maclina",F,Lumbi,Household Duties,07 May 1985
+658,160169219,"Mark, Saina",F,Lumbi,Household Duties,01 Jan 1968
+659,25081638,"Marphy, Gloria",F,Lumbi,Student,16 Sep 2000
+660,25081644,"Marry, Ank",F,Lumbi,Household Duties,20 Jan 1976
+661,160196893,"Martin, Cathy",F,Lumbi,Household Duties,01 Jan 1969
+662,160139308,"Martin, Christina",F,Lumbi,Student,15 Jan 1999
+663,160133549,"Martin, Everlyn",F,Lumbi,Student,03 Apr 1999
+664,160197035,"Martin, Joyce",F,Lumbi,Household Duties,01 Jan 1970
+665,160235882,"Martin, Mangain",F,Lumbi,Subsistence Farmer,01 Jan 1985
+666,160240317,"Martin, Ole",F,Lumbi,Household Duties,20 Nov 1985
+667,160185895,"Martin, Pusame",F,Lumbi,Household Duties,01 Jan 1969
+668,160135944,"Martin, Sendra",F,Lumbi,Sales Women,14 Aug 1998
+669,160438850,"Matha, Yuanis",F,Lumbi,Household Duties,03 Apr 2004
+670,160171764,"Mathew, Cathy",F,Lumbi,Household Duties,01 Jan 1980
+671,160196116,"Mathew, Janet",F,Lumbi,Subsistence Farmer,01 Jan 1979
+672,160235957,"Mathew, Jefita",F,Lumbi,Student,01 Jan 1992
+673,160160295,"Mathew, Lidiya",F,Lumbi,Subsistence Farmer,01 Jan 1983
+674,25081655,"Mathew, Lin",F,Lumbi,Household Duties,10 Feb 1995
+675,160196265,"Mathew, Lin",F,Lumbi,Subsistence Farmer,01 Jan 1978
+676,25081661,"Mathew, Malinda",F,Lumbi,Student,06 Jun 1992
+677,160439002,"Mathew, Malindah",F,Lumbi,Student,12 Feb 2004
+678,160165782,"Mathew, Maria",F,Lumbi,Household Duties,01 Jan 1965
+679,160236998,"Mathew, Marthina",F,Lumbi,Student,19 Mar 1991
+680,160235381,"Mathew, Mary",F,Lumbi,Household Duties,01 Jan 1975
+681,160501157,"Mathew, Matildah",F,Lumbi,Student,15 Feb 2004
+682,160162893,"Mathew, Norin",F,Lumbi,Household Duties,01 Jan 1970
+683,160176035,"Mathew, Omolame",F,Lumbi,Household Duties,17 Sep 1964
+684,160133567,"Mathew, Sheron",F,Lumbi,Student,21 Mar 1999
+685,160163058,"Mathew, Terin",F,Lumbi,Household Duties,01 Jan 1969
+686,160438999,"Mathew, Tina",F,Lumbi,Student,07 Feb 2000
+687,160135843,"Mathew, Wend",F,Lumbi,Household Duties,09 Feb 1972
+688,160438859,"Maunel, Gena",F,Lumbi,Household Duties,15 May 1998
+689,25081676,"Max, Joslyn",F,Lumbi,Student,11 Jun 1993
+690,160217769,"Mayo punguna, Veronica",F,Lumbi,Household Duties,01 Jan 1940
+691,160187394,"Meage, Steven",F,Lumbi,Household Duties,01 Jan 1982
+692,160159067,"Meap, Wari",F,Lumbi,Subsistence Farmer,01 Jan 1978
+693,160209781,"Melborne, Jacklin",F,Lumbi,Subsistence Farmer,01 Jan 1980
+694,160213573,"Melborne, Mageret",F,Lumbi,Teacher,01 Jan 1977
+695,160191147,"Merpasi, Doris",F,Lumbi,Subsistence Farmer,01 Jan 1970
+696,160191137,"Merpasi, Ruth",F,Lumbi,Household Duties,01 Jan 1961
+697,160139360,"Mesack, Doris",F,Lumbi,Student,21 Feb 1999
+698,160189740,"Metame, Maria",F,Lumbi,Household Duties,01 Jan 1969
+699,160189641,"Metame, Susan",F,Lumbi,Household Duties,01 Jan 1971
+700,160169198,"Mex, Muage",F,Lumbi,Subsistence Farmer,01 Jan 1979
+701,160196885,"Mex, Rosa",F,Lumbi,Subsistence Farmer,01 Jan 1988
+702,160237601,"Meyame, Maria",F,Lumbi,Household Duties,16 Mar 1935
+703,160438767,"Michael, Jenny",F,Lumbi,Household Duties,07 Mar 1990
+704,160158848,"Michael, Lynda",F,Lumbi,Household Duties,21 Jun 1975
+705,25081684,"Michael, Nickolyn",F,Lumbi,Student,28 Jan 2002
+706,160169235,"Michael, Roselyn",F,Lumbi,Household Duties,01 Jan 1969
+707,160188615,"Micheal, Dona",F,Lumbi,Household Duties,01 Jan 1984
+708,160194441,"Micheal, Jenifa",F,Lumbi,Household Duties,01 Jan 1982
+709,160188616,"Micheal, Monica",F,Lumbi,Household Duties,01 Jan 1957
+710,160188238,"Micheal, Norreen",F,Lumbi,Household Duties,01 Jan 1956
+711,160213273,"Mindi, Eloni",F,Lumbi,Subsistence Farmer,01 Jan 1988
+712,160160709,"Mindi, Martha",F,Lumbi,Subsistence Farmer,01 Jan 1981
+713,160212682,"Mindi, Nohmi",F,Lumbi,Subsistence Farmer,01 Jan 1988
+714,160209953,"Mindi, Rose",F,Lumbi,Student,01 Jan 1988
+715,160213266,"Mindi, Saina",F,Lumbi,Subsistence Farmer,01 Jan 1983
+716,160188027,"Moga, Riesa",F,Lumbi,Household Duties,01 Jan 1966
+717,160438909,"Moga, Soti",F,Lumbi,Student,08 May 2001
+718,160218152,"Mokomne, Angela",F,Lumbi,Household Duties,01 Jan 1953
+719,160216239,"Mokomne, Josephine",F,Lumbi,Student,01 Jan 1988
+720,160216654,"Mokomne, Kerolyn",F,Lumbi,Household Duties,01 Jan 1962
+721,160216026,"Mokomne, Malipa",F,Lumbi,Subsistence Farmer,01 Jan 1953
+722,160213590,"Mokomne, Maria",F,Lumbi,Household Duties,17 Mar 1965
+723,160218138,"Mokomne, Monk",F,Lumbi,Household Duties,01 Jan 1949
+724,160173225,"Mokomne, Poline",F,Lumbi,Student,15 Jan 1981
+725,160173222,"Mokomne, Sussie",F,Lumbi,Household Duties,30 Aug 1977
+726,160216233,"Mokomne, Timbanong",F,Lumbi,Subsistence Farmer,01 Jan 1984
+727,160216181,"Mokomne, Wari",F,Lumbi,Household Duties,01 Jan 1968
+728,160237009,"Molosi, Christina",F,Lumbi,Household Duties,01 Jan 1970
+729,160237010,"Molosi, Epenong",F,Lumbi,Subsistence Farmer,01 Jan 1990
+730,160213631,"Molu, Julie",F,Lumbi,Student,07 Oct 1980
+731,160187946,"Molu, Mako",F,Lumbi,Student,01 Jan 1986
+732,160187295,"Molu, Margret",F,Lumbi,Household Duties,01 Jan 1973
+733,160213637,"Molu, Shirley",F,Lumbi,Student,07 Oct 1981
+734,160185128,"Molu, Wendy",F,Lumbi,Household Duties,01 Jan 1983
+735,160241683,"Momoni, Angeline david",F,Lumbi,Student,01 Jan 1992
+736,160239123,"Momoni, Caroline david",F,Lumbi,Household Duties,01 Jan 1965
+737,160240339,"Momoni, Don perekep",F,Lumbi,Household Duties,01 Jan 1982
+738,160240323,"Momoni, Evoa david",F,Lumbi,Household Duties,01 Jan 1956
+739,160240316,"Momoni, Julie david",F,Lumbi,Household Duties,01 Jan 1991
+740,160241671,"Momoni, Lyna koi",F,Lumbi,Household Duties,01 Jan 1987
+741,160240340,"Momoni, Marilyn perekeap",F,Lumbi,Household Duties,01 Jan 1989
+742,160239121,"Momoni, Melvina perekeap",F,Lumbi,Subsistence Farmer,01 Jan 1982
+743,160241696,"Momoni, Nancy david",F,Lumbi,Subsistence Farmer,01 Jan 1986
+744,160239122,"Momoni, Neroline david",F,Lumbi,Household Duties,01 Jan 1958
+745,160241699,"Momoni, Stella david",F,Lumbi,Household Duties,01 Jan 1962
+746,160165731,"Mone, Jenny",F,Lumbi,Subsistence Farmer,01 Jan 1988
+747,160216240,"Mone, Mageret",F,Lumbi,Household Duties,01 Jan 1964
+748,160216060,"Mone, Regina",F,Lumbi,Student,01 Jan 1987
+749,160133512,"Monga, Noreen",F,Lumbi,Student,14 May 1993
+750,160133507,"Monga, Racheal",F,Lumbi,Student,28 Nov 1990
+751,160194193,"Moropsi, Rendewe",F,Lumbi,Household Duties,04 Aug 1955
+752,25081706,"Moses, Estherlyn",F,Lumbi,Student,21 May 2003
+753,160139481,"Moses, Hellen",F,Lumbi,Household Duties,17 Nov 1992
+754,160162907,"Moses, Jenifa",F,Lumbi,Subsistence Farmer,01 Jan 1983
+755,160193926,"Moses, Julie",F,Lumbi,Household Duties,06 Jul 1965
+756,160193835,"Moses, Lora",F,Lumbi,Student,07 Aug 1987
+757,160193928,"Moses, Maclina",F,Lumbi,Household Duties,06 Jun 1954
+758,160238579,"Moses, Mary",F,Lumbi,Household Duties,11 Sep 1978
+759,25081712,"Moses, Moris",F,Lumbi,Student,19 Apr 2001
+760,160162862,"Moses, Rebecca",F,Lumbi,Household Duties,14 Mar 1967
+761,160135858,"Moses, Roselyn",F,Lumbi,Household Duties,05 Dec 1981
+762,160217773,"Moya, Ablonnia",F,Lumbi,Student,01 Jan 1987
+763,160201327,"Moya, Agnes brice",F,Lumbi,Student,01 Jan 1982
+764,160218839,"Moya, Amilda",F,Lumbi,Student,01 Jan 1986
+765,160173338,"Moya, Arin brice",F,Lumbi,Household Duties,01 Jan 1976
+766,160173725,"Moya, Arinweki",F,Lumbi,Nurse,01 Jan 1971
+767,160177492,"Moya, Babara alex",F,Lumbi,Teacher,01 Jan 1976
+768,160139323,"Moya, Doris",F,Lumbi,Student,21 Jul 1988
+769,160139322,"Moya, Easther",F,Lumbi,Accountant,29 Dec 1992
+770,160200958,"Moya, Elizabeth ben",F,Lumbi,Household Duties,01 Jan 1959
+771,160139321,"Moya, Evelyn",F,Lumbi,Household Duties,27 Nov 1985
+772,160438897,"Moya, Goloria",F,Lumbi,Student,04 Aug 2001
+773,160199123,"Moya, Hellen",F,Lumbi,Household Duties,01 Jan 1958
+774,160177487,"Moya, Hieldas",F,Lumbi,Student,01 Jan 1980
+775,160139325,"Moya, Jacklyn",F,Lumbi,Household Duties,13 May 1993
+776,160139356,"Moya, Jane",F,Lumbi,Student,22 Apr 1993
+777,160199109,"Moya, Jenina charles",F,Lumbi,Household Duties,01 Jan 1984
+778,160199118,"Moya, Jenny kopea",F,Lumbi,Household Duties,01 Jan 1974
+779,160139327,"Moya, Joice",F,Lumbi,Accountant,21 Jun 1989
+780,160197213,"Moya, Judith simon",F,Lumbi,Teacher,01 Jan 1965
+781,160173324,"Moya, Keleya malaki",F,Lumbi,Household Duties,01 Jan 1976
+782,160199116,"Moya, Kristina ben",F,Lumbi,Student,01 Jan 1986
+783,160177498,"Moya, Mageret philip",F,Lumbi,Accountant,01 Jan 1970
+784,160198479,"Moya, Maria george",F,Lumbi,Household Duties,01 Jan 1970
+785,160175854,"Moya, Mariam simon",F,Lumbi,Household Duties,01 Jan 1976
+786,160133505,"Moya, Meckelah",F,Lumbi,Student,08 Feb 1998
+787,160198492,"Moya, Nancy brice",F,Lumbi,Household Duties,01 Jan 1983
+788,160133631,"Moya, Odrrie",F,Lumbi,Student,04 Oct 1996
+789,160177526,"Moya, Polina simon",F,Lumbi,Household Duties,01 Jan 1977
+790,160139324,"Moya, Rechael",F,Lumbi,Student,25 Nov 1994
+791,160173331,"Moya, Regina brice",F,Lumbi,Household Duties,01 Jan 1950
+792,160139328,"Moya, Saina",F,Lumbi,Student,19 Mar 1996
+793,160201915,"Moya, Theresa philip",F,Lumbi,Household Duties,01 Jan 1966
+794,160235879,"Munia, Justin",F,Lumbi,Household Duties,16 Aug 1985
+795,160176145,"Naikisi, Rose",F,Lumbi,Household Duties,01 Jan 1970
+796,160235506,"Naiknaik, Elly",F,Lumbi,Student,01 Jan 1990
+797,160213608,"Naiknaik, Judy",F,Lumbi,Student,15 Jun 1987
+798,160211364,"Naiknaik, Soren",F,Lumbi,Household Duties,21 Jan 1962
+799,160197219,"Nakisi, Mageret",F,Lumbi,Household Duties,01 Jan 1967
+800,160183211,"Nala, Linnet",F,Lumbi,Household Duties,01 Jan 1986
+801,160236043,"Nande, Lina",F,Lumbi,Household Duties,01 Jan 1983
+802,160438871,"Nande, Sheron",F,Lumbi,Household Duties,08 Jun 1994
+803,160139306,"Nando, Marklin",F,Lumbi,Sales Women,16 Mar 1999
+804,160133587,"Nando, Nancy",F,Lumbi,Sales Women,25 May 1998
+805,160135959,"Nason, Marklina",F,Lumbi,Sales Women,06 Sep 1997
+806,160135945,"Nathan, Tina",F,Lumbi,Sales Women,26 Sep 1998
+807,160171807,"Nathan boss, Josphine",F,Lumbi,Subsistence Farmer,01 Jan 1980
+808,160193717,"Nathan boss, Josphine",F,Lumbi,Household Duties,01 Jan 1970
+809,160171806,"Nathan boss, Mary",F,Lumbi,Household Duties,01 Jan 1969
+810,160165813,"Nathan tila, Freda",F,Lumbi,Household Duties,01 Jan 1974
+811,160160704,"Negeta, Pulunu",F,Lumbi,Subsistence Farmer,01 Jan 1979
+812,160160171,"Neit, Kospame",F,Lumbi,Subsistence Farmer,01 Jan 1987
+813,160209938,"Nelson, Cathy",F,Lumbi,Household Duties,15 May 1980
+814,160173216,"Nelson, Karen",F,Lumbi,Student,27 May 1985
+815,160212437,"Nelson, Malin",F,Lumbi,Household Duties,07 Mar 1972
+816,160139366,"Nelson, Marlin",F,Lumbi,Household Duties,11 Mar 1990
+817,25081733,"Nelson, Marlyn",F,Lumbi,Household Duties,30 Apr 1995
+818,160211310,"Nelson, Mary",F,Lumbi,Household Duties,12 Jun 1974
+819,160209935,"Nelson, Nana",F,Lumbi,Student,14 Mar 1982
+820,160210448,"Nelson, Selina",F,Lumbi,Student,26 Apr 1984
+821,25081763,"Nelson, Silvia",F,Lumbi,Household Duties,29 Dec 1987
+822,160438822,"Nepi, Susan",F,Lumbi,Household Duties,03 Aug 1980
+823,160197036,"Nickson, Pombrame jambat",F,Lumbi,Household Duties,01 Jan 1972
+824,160133397,"Nime, Patricia",F,Lumbi,Household Duties,12 Aug 1985
+825,160237556,"Nisimi, Esther",F,Lumbi,Household Duties,15 Aug 1981
+826,160439022,"Noah, Cathrine",F,Lumbi,Teacher,12 Jun 1996
+827,160439014,"Noah, Goen",F,Lumbi,Household Duties,05 Aug 1989
+828,160439025,"Noah, Jacklyn",F,Lumbi,Student,12 Mar 2004
+829,160238750,"Noah, Roselyn",F,Lumbi,Household Duties,16 Oct 1986
+830,160195749,"Noaha, Sanna",F,Lumbi,Subsistence Farmer,01 Jan 1984
+831,160219065,"Nodisu, Lora",F,Lumbi,Household Duties,01 Jan 1960
+832,160218955,"Nodisu, Maria",F,Lumbi,Household Duties,01 Jan 1968
+833,160218134,"Nole, Epope",F,Lumbi,Household Duties,01 Jan 1970
+834,160241995,"Nole, Kutupame",F,Lumbi,Household Duties,01 Jan 1980
+835,160241676,"Nole wisu, Julian",F,Lumbi,Subsistence Farmer,01 Jan 1985
+836,160241996,"Nole wisu, Racheal",F,Lumbi,Household Duties,01 Jan 1990
+837,160219062,"Nole wisu, Yuku",F,Lumbi,Household Duties,01 Jan 1937
+838,160235675,"Nomo, Betty",F,Lumbi,Household Duties,01 Jan 1978
+839,160133624,"Nomo, Mathar",F,Lumbi,Subsistence Farmer,06 Apr 1998
+840,160210319,"Nono, Betty",F,Lumbi,Subsistence Farmer,01 Jan 1980
+841,160209782,"Nono, Jacklyn",F,Lumbi,Subsistence Farmer,01 Jan 1986
+842,160209937,"Nono, Kerename",F,Lumbi,Subsistence Farmer,01 Jan 1977
+843,160213625,"Nono, Nogosi",F,Lumbi,Subsistence Farmer,01 Jan 1984
+844,25081771,"Norbert, Morin",F,Lumbi,Self Employed,19 May 2001
+845,25081776,"Norman, Wali",F,Lumbi,Subsistence Farmer,16 May 2000
+846,160171741,"Nosum, Anita",F,Lumbi,Household Duties,01 Jan 1974
+847,160241667,"Nosum, Maria",F,Lumbi,Household Duties,01 Jan 1990
+848,160241668,"Nosum, Prisen",F,Lumbi,Household Duties,01 Jan 1982
+849,160196492,"Oati, Meigea",F,Lumbi,Household Duties,07 Jul 1980
+850,160438736,"Obert, Natasa",F,Lumbi,Household Duties,23 May 1996
+851,160133525,"Okane, Betty",F,Lumbi,Student,17 Sep 1995
+852,160194317,"Okane, Damaris",F,Lumbi,Household Duties,03 Jun 1966
+853,160133528,"Okane, Keri",F,Lumbi,Household Duties,29 Nov 1993
+854,160194048,"Okane, Kristina",F,Lumbi,Student,03 Sep 1989
+855,160139355,"Okane, Poeam",F,Lumbi,Household Duties,28 Jun 1982
+856,160133524,"Okane, Ruth",F,Lumbi,Student,17 May 1994
+857,160182640,"Olap, Niru",F,Lumbi,Household Duties,07 Oct 1931
+858,160176135,"Olap, Roinu",F,Lumbi,Household Duties,14 Dec 1932
+859,160241983,"Olumbi, Jenny",F,Lumbi,Housegirl,02 Mar 1968
+860,160217975,"Olumbi, Maria",F,Lumbi,Household Duties,01 Jan 1954
+861,160241854,"Olumbi, Susana",F,Lumbi,Housegirl,17 May 1981
+862,160193769,"Ombalo, Kepyame",F,Lumbi,Household Duties,06 Jul 1981
+863,160193709,"Ombalo, Meriam",F,Lumbi,Household Duties,08 Jul 1966
+864,160173309,"Omul, Kanneya",F,Lumbi,Household Duties,01 Jan 1968
+865,160190567,"Onarop, Martin",F,Lumbi,Household Duties,01 Jan 1967
+866,160194213,"Onde, Celian",F,Lumbi,Household Duties,04 Nov 1987
+867,160216054,"Onde, Irame",F,Lumbi,Household Duties,01 Jan 1951
+868,160439066,"Onde, Racheal",F,Lumbi,Subsistence Farmer,23 Nov 1997
+869,160194051,"Ondeyasi, Ampalo",F,Lumbi,Household Duties,06 Mar 1948
+870,160194205,"Ondeyasi, Andene",F,Lumbi,Household Duties,09 Aug 1949
+871,160160349,"Onea, Koyado",F,Lumbi,Student,21 Oct 1989
+872,160158964,"Onea, Lyn",F,Lumbi,Student,16 Feb 1983
+873,160162711,"Onea, Martina",F,Lumbi,Household Duties,14 Jun 1950
+874,160165303,"Onge, Doli",F,Lumbi,Subsistence Farmer,01 Jan 1988
+875,160218917,"Onge, Esther",F,Lumbi,Household Duties,01 Jan 1977
+876,160169189,"Onge, Goine",F,Lumbi,Household Duties,01 Jan 1978
+877,160187392,"Onge, Hapenda",F,Lumbi,Household Duties,01 Jan 1989
+878,160165145,"Onge, Lina",F,Lumbi,Household Duties,01 Jan 1971
+879,160236051,"Onge, Lucy",F,Lumbi,Household Duties,01 Jan 1979
+880,160175733,"Onge, Paroame",F,Lumbi,Household Duties,01 Jan 1967
+881,160133390,"Onge, Pricela",F,Lumbi,Household Duties,21 Jun 1981
+882,160218117,"Onge, Priscila",F,Lumbi,Household Duties,01 Jan 1978
+883,160133546,"Onge, Ruth",F,Lumbi,Student,21 Feb 1997
+884,160169188,"Onge, Wape",F,Lumbi,Household Duties,01 Jan 1971
+885,160241982,"Ore, Everlyn",F,Lumbi,Household Duties,16 Jan 1981
+886,160238581,"Ore, Maria",F,Lumbi,Household Duties,01 Mar 1982
+887,160135922,"Ore, Marry",F,Lumbi,Household Duties,17 Jan 1993
+888,160241963,"Ore, Theresa",F,Lumbi,Household Duties,15 Nov 1994
+889,160158856,"Oro, Ali",F,Lumbi,Household Duties,15 Apr 1963
+890,160135954,"Oro, Emma",F,Lumbi,Sales Women,13 Dec 1998
+891,160135862,"Oro, Freeda",F,Lumbi,Sales Women,21 Jul 1995
+892,160196395,"Oro, Mandali",F,Lumbi,Household Duties,01 Jan 1960
+893,160160190,"Oro, Mary",F,Lumbi,Household Duties,12 Dec 1960
+894,160237545,"Otte, Helli",F,Lumbi,Household Duties,15 Jul 1969
+895,160238584,"Otte, Miriam",F,Lumbi,Student,13 Nov 1994
+896,160237561,"Owes polope, Ruth",F,Lumbi,Household Duties,13 Jul 1983
+897,160193848,"Pala, Rubie",F,Lumbi,Household Duties,06 May 1987
+898,160173354,"Pamda, Jenny",F,Lumbi,Student,03 Nov 1981
+899,160169191,"Pamda, Kusa",F,Lumbi,Household Duties,13 Jun 1964
+900,160196333,"Papa, Sali",F,Lumbi,Teacher,01 Jan 1978
+901,160133623,"Pape, Brenda",F,Lumbi,Student,06 Nov 1997
+902,160236031,"Pape, Dorina",F,Lumbi,Student,01 Jan 1989
+903,160190542,"Pape, Enjalica",F,Lumbi,Student,01 Jan 1983
+904,160171813,"Pape, Karen",F,Lumbi,Household Duties,01 Jan 1971
+905,160196334,"Pape, Lilian",F,Lumbi,Student,01 Jan 1980
+906,25081787,"Pape, Lilly",F,Lumbi,Teacher,09 Aug 1987
+907,160196328,"Pape, Maria",F,Lumbi,Household Duties,01 Jan 1970
+908,160190886,"Pape, Ruth",F,Lumbi,Household Duties,01 Jan 1974
+909,160194419,"Pape, Valintina",F,Lumbi,Student,01 Jan 1981
+910,160187608,"Papenaiki, Jembeth",F,Lumbi,Household Duties,01 Jan 1976
+911,160235997,"Papu, Josephine",F,Lumbi,Household Duties,01 Jan 1990
+912,160236056,"Papu, Nandame",F,Lumbi,Household Duties,01 Jan 1972
+913,160187407,"Papu, Rekinogo",F,Lumbi,Household Duties,01 Jan 1966
+914,160188111,"Papu, Rotu",F,Lumbi,Household Duties,01 Jan 1961
+915,160438901,"Papua, Susie",F,Lumbi,Student,01 Apr 2002
+916,160159058,"Paraka, Lapren",F,Lumbi,Household Duties,07 Dec 1971
+917,160183109,"Pat, Belisi",F,Lumbi,Household Duties,01 Jan 1957
+918,160160393,"Pat, Ete",F,Lumbi,Subsistence Farmer,01 Jan 1988
+919,160165780,"Pat, Ipname",F,Lumbi,Household Duties,01 Jan 1948
+920,160159084,"Pat, Kamberen",F,Lumbi,Household Duties,01 Jan 1960
+921,160169085,"Pat, Marala",F,Lumbi,Household Duties,01 Jan 1978
+922,160169252,"Pat, Norin",F,Lumbi,Subsistence Farmer,01 Jan 1987
+923,160190537,"Patric, Esther",F,Lumbi,Student,01 Jan 1985
+924,160194411,"Patric, Josphine",F,Lumbi,Household Duties,01 Jan 1968
+925,160133407,"Patrick, Regina",F,Lumbi,Typist,08 Nov 1992
+926,25081802,"Patrisha, Tim",F,Lumbi,Household Duties,21 Oct 1984
+927,160438689,"Paul, Alowen",F,Lumbi,Student,05 May 2002
+928,160438691,"Paul, Daula",F,Lumbi,Student,10 Jun 2003
+929,160187610,"Paul, Doris",F,Lumbi,Household Duties,01 Jan 1974
+930,160438690,"Paul, Enolda",F,Lumbi,Student,04 May 2001
+931,160135842,"Paul, Jennifer",F,Lumbi,Household Duties,02 Nov 1979
+932,160213264,"Paul, Jessie",F,Lumbi,Subsistence Farmer,01 Jan 1981
+933,160211357,"Paul, Joice",F,Lumbi,Subsistence Farmer,01 Jan 1982
+934,160194050,"Paul, Julie",F,Lumbi,Household Duties,05 Aug 1963
+935,160180770,"Paul, Malin",F,Lumbi,Household Duties,01 Jan 1968
+936,160195985,"Paul, Mary",F,Lumbi,Household Duties,01 Jan 1970
+937,160133574,"Paul, Nancy",F,Lumbi,Household Duties,03 Jun 1989
+938,160241852,"Paul, Regina",F,Lumbi,Household Duties,03 Jan 1967
+939,160438875,"Paul, Seron",F,Lumbi,Household Duties,08 Apr 1997
+940,160438662,"Paul, Sheron",F,Lumbi,Household Duties,06 Mar 1981
+941,25081880,"Peke, Lavinia",F,Lumbi,Household Duties,25 Jul 1990
+942,25081886,"Peke, Monica",F,Lumbi,Student,21 Jan 2000
+943,160133398,"Peke, Ruth",F,Lumbi,Household Duties,28 May 1994
+944,160153572,"Pem, Lina",F,Lumbi,Subsistence Farmer,01 Jan 1982
+945,160158942,"Pem, Serah",F,Lumbi,Household Duties,01 Jan 1971
+946,160196465,"Pembinakisi, Maria",F,Lumbi,Household Duties,04 May 1976
+947,160196122,"Pembinakisi, Serah",F,Lumbi,Household Duties,06 Jun 1946
+948,160196964,"Pembiya, Mogorolu",F,Lumbi,Household Duties,05 Apr 1943
+949,160196233,"Pembiya, Theresa",F,Lumbi,Household Duties,03 Mar 1958
+950,25081889,"Pemo, Jeptelin",F,Lumbi,Subsistence Farmer,13 Oct 2000
+951,160196232,"Pereke, Dina",F,Lumbi,Student,01 Jan 1978
+952,160196778,"Pereke, Epiwari",F,Lumbi,Subsistence Farmer,01 Jan 1988
+953,160133541,"Perekeap, Cathy",F,Lumbi,Household Duties,16 Feb 1998
+954,160133545,"Perekeap, Londa",F,Lumbi,Student,16 Apr 1997
+955,160133544,"Perekeap, Reta",F,Lumbi,Student,13 Jan 1998
+956,160182571,"Perekiap, Barbara",F,Lumbi,Household Duties,01 Jan 1983
+957,160183216,"Perekiap, Eape",F,Lumbi,Household Duties,01 Jan 1938
+958,160183219,"Perekiap, Mendi",F,Lumbi,Household Duties,01 Jan 1936
+959,160183105,"Perekiap, Walmi",F,Lumbi,Household Duties,01 Jan 1985
+960,160183107,"Perekiap, Wariame",F,Lumbi,Household Duties,01 Jan 1989
+961,160438805,"Pesii, Stella",F,Lumbi,Household Duties,06 Feb 1992
+962,160187061,"Peso, Kope",F,Lumbi,Household Duties,22 Feb 1957
+963,160196210,"Peter, Alice",F,Lumbi,Household Duties,04 Apr 1968
+964,160193806,"Peter, Betty",F,Lumbi,Household Duties,06 Jun 1985
+965,160237596,"Peter, Christina",F,Lumbi,Household Duties,01 Jul 1972
+966,160196941,"Peter, Freda",F,Lumbi,Household Duties,03 Mar 1986
+967,160210314,"Peter, Henny",F,Lumbi,Household Duties,29 Jul 1973
+968,160193807,"Peter, Jenny",F,Lumbi,Subsistence Farmer,01 Jan 1983
+969,160235996,"Peter, Konica",F,Lumbi,Household Duties,15 Feb 1992
+970,160190707,"Peter, Nogosi",F,Lumbi,Household Duties,01 Jan 1951
+971,160438664,"Peter, Stella",F,Lumbi,Student,08 Sep 2003
+972,160158854,"Peter, Susan",F,Lumbi,Subsistence Farmer,01 Jan 1981
+973,160438865,"Peter, Susan",F,Lumbi,Student,06 Nov 2001
+974,25081914,"Peter, Theresa",F,Lumbi,Household Duties,04 May 1955
+975,25081937,"Peter te, Margret",F,Lumbi,Subsistence Farmer,11 Oct 1997
+976,160238745,"Peterson, Marie",F,Lumbi,Household Duties,19 Oct 1979
+977,160165754,"Peterwane, Pollyn",F,Lumbi,Typist,01 Jan 1973
+978,160193829,"Peyaepe, Grace",F,Lumbi,Household Duties,06 Jul 1986
+979,160160721,"Peyowa, Biresi",F,Lumbi,Household Duties,01 Jan 1969
+980,160217767,"Phielu, Mageret",F,Lumbi,Household Duties,01 Jan 1950
+981,160218829,"Phielu, Sindarala",F,Lumbi,Student,01 Jan 1987
+982,25081949,"Philimon, Pricelia",F,Lumbi,Subsistence Farmer,05 Mar 1996
+983,160438777,"Philip, Browin",F,Lumbi,Student,11 Apr 2000
+984,160190559,"Philip, Conica",F,Lumbi,Household Duties,01 Jan 1972
+985,160139371,"Philip, Evelyn",F,Lumbi,Teacher,27 Nov 1986
+986,160133405,"Philip, Georgina",F,Lumbi,Student,20 Mar 1999
+987,160438749,"Philip, Georgina",F,Lumbi,Student,23 Jan 1999
+988,160438806,"Philip, Korina",F,Lumbi,Student,04 Mar 2000
+989,160190700,"Philip, Rachael",F,Lumbi,Student,01 Jan 1987
+990,160438807,"Philip, Regina",F,Lumbi,Student,06 Mar 2004
+991,160438779,"Philip, Shekina",F,Lumbi,Student,08 Sep 2003
+992,160190894,"Philip, Warien",F,Lumbi,Household Duties,01 Jan 1986
+993,160190557,"Philip, Wombua theresa",F,Lumbi,Household Duties,01 Jan 1962
+994,25081957,"Phoenix ank, Julie",F,Lumbi,Clerk,11 Nov 1990
+995,160195816,"Pima, Esta",F,Lumbi,Subsistence Farmer,01 Jan 1988
+996,160184977,"Pipi, Judy",F,Lumbi,Student,01 Jan 1983
+997,160180761,"Pipi, Wendy",F,Lumbi,Household Duties,01 Jan 1972
+998,160139314,"Pisipi, Jenifa",F,Lumbi,Household Duties,20 Feb 1990
+999,160133392,"Pokea, Anna",F,Lumbi,Household Duties,22 Mar 1997
+1000,160133391,"Pokea, Susan",F,Lumbi,Household Duties,21 Mar 1998
+1001,160212504,"Pokea, Yawini",F,Lumbi,Subsistence Farmer,01 Jan 1933
+1002,160191362,"Polo, Rosa",F,Lumbi,Student,03 May 1986
+1003,160196945,"Pombrame tale, Margret",F,Lumbi,Subsistence Farmer,01 Jan 1979
+1004,160197008,"Pomunu, Porame",F,Lumbi,Subsistence Farmer,01 Jan 1978
+1005,160237026,"Pondopis, Sandra",F,Lumbi,Student,01 Jan 1989
+1006,160187668,"Pondpis, Joscinna",F,Lumbi,Household Duties,16 Jan 1972
+1007,160216255,"Pone, Joan",F,Lumbi,Household Duties,01 Jan 1978
+1008,160139305,"Ponopis, Sherolyn",F,Lumbi,Sales Women,27 Nov 1989
+1009,160235895,"Pope, Dolly",F,Lumbi,Household Duties,01 Jan 1962
+1010,160438758,"Posu, Monica",F,Lumbi,Household Duties,08 Feb 1982
+1011,25081959,"Poyam, Kot elizah",F,Lumbi,Student,23 Jan 2003
+1012,25081967,"Ptere, Velentina",F,Lumbi,Accountant,17 Aug 2000
+1013,160185284,"Pukisi, Joseph",F,Lumbi,Subsistence Farmer,01 Jan 1944
+1014,160160695,"Pulup, Ealina",F,Lumbi,Household Duties,08 Jul 1943
+1015,160217780,"Pulup, Kariyame",F,Lumbi,Household Duties,01 Jan 1963
+1016,160158998,"Pulup, Sanna",F,Lumbi,Household Duties,08 Jun 1973
+1017,160160700,"Pulup, Toros",F,Lumbi,Household Duties,10 Jul 1945
+1018,160176013,"Pumas, Hellen",F,Lumbi,Subsistence Farmer,01 Jan 1981
+1019,160216184,"Pundral, Gimame",F,Lumbi,Household Duties,01 Jan 1985
+1020,160216253,"Pundral, Kitip",F,Lumbi,Household Duties,01 Jan 1940
+1021,160215730,"Pundral, Ruth",F,Lumbi,Household Duties,01 Jan 1936
+1022,160237012,"Pundral, Wapinu",F,Lumbi,Household Duties,01 Jan 1991
+1023,160167756,"Pungu, Mary",F,Lumbi,Subsistence Farmer,01 Jan 1980
+1024,160135833,"Pupiol, Marlyn",F,Lumbi,Nurse,24 Oct 1993
+1025,160438825,"Puri, Joycelyn",F,Lumbi,Household Duties,03 Aug 1998
+1026,160155903,"Pusa, Salop",F,Lumbi,Household Duties,09 Jul 1936
+1027,25081970,"Pusi, Isolyn",F,Lumbi,Student,16 Apr 2000
+1028,160133559,"Pusi, Josica",F,Lumbi,Student,27 Dec 1997
+1029,160155949,"Pusi, Julie",F,Lumbi,Subsistence Farmer,01 Jan 1980
+1030,160438813,"Ramond, Josephine",F,Lumbi,Household Duties,09 Jun 2002
+1031,160438811,"Ramond, Raylin",F,Lumbi,Student,22 Nov 2001
+1032,160237032,"Range, Maria",F,Lumbi,Subsistence Farmer,01 Jan 1980
+1033,160194808,"Range, Regyame",F,Lumbi,Household Duties,01 Jan 1962
+1034,160236016,"Range, Sharon",F,Lumbi,Student,01 Jan 1992
+1035,160438888,"Rati, Joece",F,Lumbi,Student,16 Mar 2004
+1036,160438886,"Rati, Susan",F,Lumbi,Household Duties,03 Apr 2004
+1037,160438890,"Rati, Tina",F,Lumbi,Student,15 Aug 2001
+1038,160190013,"Raymond, Betty",F,Lumbi,Household Duties,01 Jan 1968
+1039,160190018,"Raymond, Joan",F,Lumbi,Household Duties,01 Jan 1970
+1040,25081975,"Raymond, Sendra",F,Lumbi,Household Duties,01 Jul 2000
+1041,160236007,"Regina, Oro",F,Lumbi,Student,01 Jan 1989
+1042,160237007,"Rekipua, Agatole",F,Lumbi,Household Duties,01 Jan 1989
+1043,160236049,"Rema, Jenny",F,Lumbi,Subsistence Farmer,01 Jan 1978
+1044,160236047,"Rema, Joseph",F,Lumbi,Subsistence Farmer,01 Jan 1968
+1045,160241971,"Rema, Kakome",F,Lumbi,Household Duties,01 Jan 1960
+1046,160236048,"Rema, Miriam",F,Lumbi,Subsistence Farmer,01 Jan 1974
+1047,160235889,"Rema, Steven",F,Lumbi,Subsistence Farmer,01 Jan 1970
+1048,160241677,"Remi, Jasicka kambenaki",F,Lumbi,Subsistence Farmer,01 Jan 1982
+1049,160217983,"Remi kambenaki, Elly",F,Lumbi,Household Duties,01 Jan 1979
+1050,160217980,"Remi kombenaki, Poyame",F,Lumbi,Household Duties,01 Jan 1950
+1051,160194196,"Rendea, Jenny",F,Lumbi,Household Duties,01 Jan 1983
+1052,160235961,"Repnis, Marian",F,Lumbi,Subsistence Farmer,01 Jan 1989
+1053,160193831,"Repyas, Lina",F,Lumbi,Household Duties,06 Jun 1955
+1054,160193932,"Repyas, Matalin",F,Lumbi,Household Duties,08 Sep 1941
+1055,160215263,"Rerenya, Heni",F,Lumbi,Household Duties,01 Jan 1963
+1056,160236006,"Reti, Freda",F,Lumbi,Household Duties,01 Jan 1992
+1057,160194186,"Reti, Wendi",F,Lumbi,Subsistence Farmer,02 Mar 1979
+1058,160235729,"Reti, Yama",F,Lumbi,Household Duties,10 Mar 1973
+1059,160241976,"Rex, Anna",F,Lumbi,Household Duties,15 Aug 1990
+1060,160238756,"Rex, Josephine",F,Lumbi,Household Duties,14 Feb 1981
+1061,160183098,"Rex, Lodias",F,Lumbi,Household Duties,01 Jan 1979
+1062,160213405,"Riape, Ewame",F,Lumbi,Subsistence Farmer,01 Jan 1987
+1063,160173218,"Riape, Markdaune",F,Lumbi,Subsistence Farmer,01 Jan 1988
+1064,160173213,"Riape, Martha",F,Lumbi,Subsistence Farmer,01 Jan 1986
+1065,160173206,"Riape, Rebeka",F,Lumbi,Subsistence Farmer,01 Jan 1980
+1066,160173210,"Riape, Sama kinowale",F,Lumbi,Subsistence Farmer,01 Jan 1986
+1067,160182715,"Ribanu, Gialo",F,Lumbi,Household Duties,01 Jan 1951
+1068,160196096,"Richard, Hilda",F,Lumbi,Household Duties,01 Jan 1964
+1069,160438759,"Richard, Lolo",F,Lumbi,Teacher,06 Aug 1985
+1070,160139487,"Richard, Salot",F,Lumbi,Household Duties,23 Feb 1996
+1071,160438927,"Robert, Georgina",F,Lumbi,Household Duties,01 Nov 1990
+1072,25081993,"Robin, Melinta",F,Lumbi,,06 Dec 1998
+1073,160212574,"Rocky, Messina",F,Lumbi,Subsistence Farmer,01 Jan 1980
+1074,160237644,"Roku, Chally",F,Lumbi,Student,01 Jan 1990
+1075,160237643,"Roku, Dolly",F,Lumbi,Student,01 Jan 1987
+1076,160196252,"Roku, Pape",F,Lumbi,Household Duties,01 Jan 1962
+1077,160196894,"Roku, Rosa",F,Lumbi,Subsistence Farmer,01 Jan 1976
+1078,160135952,"Roku, Sali",F,Lumbi,Sales Women,28 Sep 1998
+1079,160438696,"Roku, Sali",F,Lumbi,Student,06 Feb 2002
+1080,160167369,"Rombua, Rachael",F,Lumbi,Household Duties,01 Jan 1971
+1081,160196054,"Rorowa, Priscila",F,Lumbi,Household Duties,06 Jul 1972
+1082,160438695,"Roru, Rosa",F,Lumbi,Household Duties,06 Feb 1992
+1083,160438817,"Rotu, Betty",F,Lumbi,Household Duties,04 Aug 1989
+1084,160196244,"Rotu, Noringi",F,Lumbi,Household Duties,08 Jul 1966
+1085,160135964,"Rotu, Shina",F,Lumbi,Sales Women,01 Feb 1996
+1086,160240319,"Rowe, Betty",F,Lumbi,Household Duties,03 Nov 1983
+1087,160219006,"Rowi, Aiela",F,Lumbi,Student,01 Jan 1985
+1088,160219008,"Rowi, Alic",F,Lumbi,Student,01 Jan 1987
+1089,160218545,"Rowi, Amunu",F,Lumbi,Household Duties,01 Jan 1950
+1090,25081998,"Rowi, Betty",F,Lumbi,Household Duties,05 Nov 1982
+1091,160217760,"Rowi, Jocinna",F,Lumbi,Student,01 Jan 1983
+1092,160236996,"Rowi, Mary",F,Lumbi,Household Duties,13 Mar 1981
+1093,160218547,"Rowi, Norreen",F,Lumbi,Household Duties,01 Jan 1979
+1094,160219002,"Rowi, Rachael",F,Lumbi,Student,01 Jan 1981
+1095,160218552,"Rowi, Roda",F,Lumbi,Student,01 Jan 1989
+1096,160162857,"Ruben, Kope",F,Lumbi,Household Duties,01 Jan 1980
+1097,160438673,"Ruben, Penny",F,Lumbi,Teacher,03 May 1985
+1098,160438804,"Ruben, Stemila",F,Lumbi,Household Duties,05 Mar 2004
+1099,25082013,"Rundua, Julie",F,Lumbi,Household Duties,21 May 1978
+1100,160236993,"Salatial, Esther",F,Lumbi,Household Duties,01 Jan 1988
+1101,160236137,"Salatial, Julie",F,Lumbi,Subsistence Farmer,01 Jan 1990
+1102,160193097,"Sam, Epowe",F,Lumbi,Subsistence Farmer,01 Jan 1981
+1103,160237542,"Sam, Heni",F,Lumbi,Student,15 Jun 1992
+1104,160438884,"Sam, Leder",F,Lumbi,Household Duties,10 Jan 2004
+1105,160193100,"Sam, Sara",F,Lumbi,Subsistence Farmer,01 Jan 1982
+1106,160218120,"Samba, Josphine",F,Lumbi,Household Duties,01 Jan 1969
+1107,160218998,"Samo, Retame",F,Lumbi,Household Duties,01 Jan 1963
+1108,160237543,"Samson, Christina",F,Lumbi,Household Duties,28 Apr 1990
+1109,160438740,"Samuel, Carol",F,Lumbi,Student,19 Feb 2004
+1110,25082018,"Samuel, Christina",F,Lumbi,Student,23 Feb 1992
+1111,160156097,"Samuel, Jaen",F,Lumbi,Student,09 Mar 1986
+1112,160133531,"Samuel, Jannet",F,Lumbi,Household Duties,05 Nov 1986
+1113,160133532,"Samuel, Jasenty",F,Lumbi,Student,03 Nov 1997
+1114,160153643,"Samuel, Mona",F,Lumbi,Household Duties,08 Jul 1958
+1115,160438766,"Samuel, Talita",F,Lumbi,Household Duties,09 May 1992
+1116,160191380,"Sanna, Loean",F,Lumbi,Subsistence Farmer,01 Jan 1980
+1117,160165272,"Sap, Kinipi",F,Lumbi,Household Duties,14 Jun 1953
+1118,160135942,"Sem, Brenda",F,Lumbi,Sales Women,17 Jul 1997
+1119,160235888,"Senis, Anet",F,Lumbi,Household Duties,01 Jan 1974
+1120,160160778,"Senis, Eyame",F,Lumbi,Household Duties,01 Jan 1955
+1121,160169068,"Senis, Lina",F,Lumbi,Household Duties,01 Jan 1971
+1122,160135845,"Serol, Matha",F,Lumbi,Household Duties,24 Apr 1973
+1123,160160707,"Sierol, Catholin",F,Lumbi,Household Duties,08 Jul 1956
+1124,160187640,"Sika, Marian",F,Lumbi,Household Duties,01 Jan 1972
+1125,160238586,"Simeon, Keniya",F,Lumbi,Household Duties,12 Jul 1979
+1126,160438770,"Simon, Aronilda",F,Lumbi,Student,09 Mar 2001
+1127,160438783,"Simon, Felin",F,Lumbi,Student,04 Mar 2000
+1128,160438920,"Simon, Grace",F,Lumbi,Student,05 Feb 1993
+1129,160438771,"Simon, Hyda",F,Lumbi,Student,11 Aug 2002
+1130,160196098,"Simon, Jenney",F,Lumbi,Subsistence Farmer,01 Jan 1981
+1131,160186053,"Simon, Lapunu",F,Lumbi,Household Duties,01 Jan 1980
+1132,160133588,"Simon, Lillien",F,Lumbi,Sales Women,28 Feb 1996
+1133,160184983,"Simon, Lin",F,Lumbi,Household Duties,01 Jan 1983
+1134,160133589,"Simon, Linet",F,Lumbi,Student,20 May 1998
+1135,160438845,"Simon, Madonia",F,Lumbi,Household Duties,25 May 1992
+1136,160195805,"Simon, Muniyo",F,Lumbi,Subsistence Farmer,01 Jan 1982
+1137,160438769,"Simon, Quida",F,Lumbi,Student,11 Mar 2004
+1138,160438922,"Simon, Rachael",F,Lumbi,Student,28 Oct 1998
+1139,160155868,"Simon, Salina",F,Lumbi,Household Duties,05 Jul 1977
+1140,160438782,"Simon, Tracy",F,Lumbi,Student,08 Nov 2001
+1141,160220682,"Simon moya, Jeidithas",F,Lumbi,Teacher,01 Jan 1968
+1142,160135849,"Singal, Agella",F,Lumbi,Household Duties,21 Jun 1983
+1143,160162651,"Singel, Akunong",F,Lumbi,Household Duties,16 Sep 1940
+1144,160162704,"Singel, Lucy angela",F,Lumbi,Household Duties,14 Jul 1966
+1145,160162701,"Singel, Marrianne",F,Lumbi,Student,15 Apr 1987
+1146,160163054,"Siwiki, Lina",F,Lumbi,Student,01 Jan 1988
+1147,160438839,"Solo, Jacinta",F,Lumbi,Household Duties,06 Nov 1996
+1148,25082022,"Solo, Undi",F,Lumbi,Subsistence Farmer,06 Feb 1985
+1149,160438684,"Solomon, Danica",F,Lumbi,Student,06 Apr 2000
+1150,160238760,"Solomon, Hun",F,Lumbi,Household Duties,23 Apr 1984
+1151,160238585,"Solomon, Senis",F,Lumbi,Household Duties,16 Mar 1986
+1152,160169415,"Solu, Agnes",F,Lumbi,Household Duties,02 Nov 1966
+1153,160160401,"Solu, Allen",F,Lumbi,Student,01 Nov 1988
+1154,160184857,"Solu, Babra",F,Lumbi,Student,07 Nov 1989
+1155,160135852,"Solu, Deveni",F,Lumbi,Household Duties,26 Jan 1987
+1156,160139303,"Solu, Endeto",F,Lumbi,Household Duties,14 Apr 1976
+1157,160135853,"Solu, Erona",F,Lumbi,Sales Women,13 Nov 1998
+1158,160167539,"Solu, Josphina",F,Lumbi,Student,16 Mar 1987
+1159,160169271,"Solu, Katilin",F,Lumbi,Household Duties,01 Feb 1950
+1160,25082026,"Solu, Katlyn",F,Lumbi,Household Duties,02 Nov 1984
+1161,160139496,"Solu, Kiri",F,Lumbi,Sales Women,01 Dec 1998
+1162,160165807,"Solu, Magalina",F,Lumbi,Student,16 Feb 1988
+1163,160169410,"Solu, Molu",F,Lumbi,Household Duties,05 Oct 1953
+1164,160169090,"Solu, Rosemary",F,Lumbi,Student,13 Sep 1984
+1165,160213238,"Solu, Tota",F,Lumbi,Student,04 Nov 1990
+1166,160135850,"Solu, Wendy",F,Lumbi,Teacher,14 Oct 1985
+1167,160196980,"Solu tom, Anna",F,Lumbi,Household Duties,01 Jan 1968
+1168,160191379,"Solu tom, Gloria",F,Lumbi,Subsistence Farmer,01 Jan 1958
+1169,160169200,"Solu tom, Maira",F,Lumbi,Subsistence Farmer,01 Jan 1985
+1170,160176015,"Solu tom, Nathasa",F,Lumbi,Student,01 Jan 1979
+1171,160196979,"Solu tom, Noreen",F,Lumbi,Household Duties,01 Jan 1979
+1172,160160435,"Solu tom, Sintha",F,Lumbi,Household Duties,01 Jan 1971
+1173,160216045,"Sopol, Sape",F,Lumbi,Household Duties,01 Jan 1966
+1174,160153668,"Sopu, Siluwa",F,Lumbi,Subsistence Farmer,01 Jan 1977
+1175,160438734,"Stanley, Delma",F,Lumbi,Household Duties,03 Jul 1997
+1176,160438795,"Stanley, Elina",F,Lumbi,Household Duties,08 Jun 1994
+1177,160237535,"Stanley, Tresa",F,Lumbi,Household Duties,01 Jan 1964
+1178,160133550,"Steven, Esther",F,Lumbi,Student,05 Mar 1999
+1179,160213740,"Steven, Even",F,Lumbi,Household Duties,01 Jan 1962
+1180,160237245,"Steven, Francisca",F,Lumbi,Household Duties,01 Jan 1936
+1181,160213742,"Steven, Jenifa",F,Lumbi,Household Duties,01 Jan 1987
+1182,160438715,"Steven, Joycelyn",F,Lumbi,Household Duties,05 May 1998
+1183,160193827,"Steven, Morin",F,Lumbi,Subsistence Farmer,01 Jan 1982
+1184,160216041,"Steven, Norreen",F,Lumbi,Household Duties,01 Jan 1969
+1185,160213745,"Steven, Pelpawi",F,Lumbi,Household Duties,01 Jan 1950
+1186,160237553,"Steven, Polin",F,Lumbi,Student,06 Mar 1997
+1187,160193915,"Steven, Pore",F,Lumbi,Subsistence Farmer,01 Jan 1977
+1188,160237552,"Steven, Salien",F,Lumbi,Subsistence Farmer,25 Mar 1978
+1189,160195929,"Steven, Se",F,Lumbi,Household Duties,01 Jan 1973
+1190,160213749,"Steven, Willy",F,Lumbi,Household Duties,01 Jan 1989
+1191,160178018,"Sula, Racheal",F,Lumbi,Household Duties,01 Jan 1975
+1192,160173739,"Sula, Ruth",F,Lumbi,Household Duties,01 Jan 1974
+1193,160196991,"Sumne, Retrenu",F,Lumbi,Household Duties,04 Mar 1946
+1194,160438793,"Sunda, Botti",F,Lumbi,Household Duties,06 Mar 2004
+1195,160237533,"Tale, Bepi",F,Lumbi,Household Duties,01 Jan 1970
+1196,160196454,"Tale, Maro",F,Lumbi,Household Duties,01 Jan 1951
+1197,160169070,"Talpapu, Agnis",F,Lumbi,Household Duties,01 Jan 1979
+1198,160165137,"Talpapu, Maso",F,Lumbi,Household Duties,01 Jan 1957
+1199,160171632,"Talpapu, Nancy",F,Lumbi,Subsistence Farmer,01 Jan 1980
+1200,160438744,"Tatus, Goloria",F,Lumbi,Household Duties,02 May 1998
+1201,160194154,"Terowa, Bepi",F,Lumbi,Household Duties,05 May 1965
+1202,160190163,"Theresa, Nogogo",F,Lumbi,Household Duties,01 Jan 1979
+1203,160438727,"Thomas, Desi",F,Lumbi,Student,04 Sep 2003
+1204,160165817,"Tiala, Janet",F,Lumbi,Household Duties,01 Jan 1974
+1205,160193099,"Tiala, Remanu",F,Lumbi,Household Duties,01 Jan 1954
+1206,160173191,"Tiemb, Cathy",F,Lumbi,Household Duties,02 Jul 1970
+1207,160235878,"Tim, Esther",F,Lumbi,Student,01 Jan 1993
+1208,160438935,"Tim, Freda",F,Lumbi,Student,24 Jun 2000
+1209,160236032,"Tim, Grace",F,Lumbi,Student,01 Jan 1994
+1210,160235505,"Tim, Leah",F,Lumbi,Household Duties,01 Jan 1987
+1211,160158903,"Tim, Pako",F,Lumbi,Household Duties,28 Mar 1938
+1212,160213419,"Tim, Priscilla",F,Lumbi,Student,16 Mar 1988
+1213,160180790,"Timba, Seipa",F,Lumbi,Household Duties,30 Sep 1969
+1214,160197001,"Timon, Ellis",F,Lumbi,Household Duties,04 Apr 1983
+1215,160212580,"Timothy, Bepi",F,Lumbi,Subsistence Farmer,01 Jan 1978
+1216,25082035,"Timothy, Cristy",F,Lumbi,Household Duties,12 Oct 1942
+1217,25082039,"Timothy, Florance",F,Lumbi,Self Employed,13 Jun 2001
+1218,25082042,"Timothy, Jath",F,Lumbi,Self Employed,19 Jul 1980
+1219,160237534,"Timothy, Karwat",F,Lumbi,Household Duties,01 Jan 1971
+1220,160160405,"Timothy, Lucy",F,Lumbi,Household Duties,01 Jan 1969
+1221,160169199,"Timothy, Serah",F,Lumbi,Household Duties,01 Jan 1978
+1222,160212586,"Timothy andrew, Sisilia",F,Lumbi,Subsistence Farmer,01 Jan 1988
+1223,160160311,"Tisa, Rageame",F,Lumbi,Subsistence Farmer,01 Jan 1978
+1224,25082057,"Tom, Baziba",F,Lumbi,Student,16 Apr 2001
+1225,160216059,"Tom, Darin",F,Lumbi,Household Duties,01 Jan 1975
+1226,25082060,"Tom, Jemma",F,Lumbi,Self Employed,24 Jul 1997
+1227,160216244,"Tom, Marala",F,Lumbi,Household Duties,01 Jan 1987
+1228,160191143,"Tom, Merian",F,Lumbi,Household Duties,01 Jan 1947
+1229,160173204,"Tom, Murinmone",F,Lumbi,Household Duties,01 Jan 1963
+1230,25082076,"Tom, Noreen",F,Lumbi,Teacher,14 Nov 1982
+1231,25082079,"Tom, Peggy",F,Lumbi,Student,11 Apr 2000
+1232,160438677,"Tom, Salina",F,Lumbi,Student,05 Feb 2001
+1233,25082084,"Tom, Shemona",F,Lumbi,Student,23 Oct 2003
+1234,160175711,"Tom, Tande",F,Lumbi,Household Duties,01 Jan 1961
+1235,160165826,"Tom, Veronica",F,Lumbi,Teacher,01 Jan 1974
+1236,25082090,"Tom, Vziel",F,Lumbi,Student,17 Apr 2004
+1237,160237036,"Tombua, Mary",F,Lumbi,Subsistence Farmer,01 Jan 1980
+1238,25082094,"Tomm, Gloria",F,Lumbi,Household Duties,26 Sep 1976
+1239,160236992,"Tommy, Aila",F,Lumbi,Household Duties,01 Jan 1980
+1240,25082098,"Tommy, Vele",F,Lumbi,Household Duties,24 Jul 2000
+1241,160238743,"Tomson, Carolyn",F,Lumbi,Household Duties,15 Aug 1974
+1242,160133615,"Topa, Grace",F,Lumbi,Household Duties,02 Oct 1997
+1243,160167531,"Torea, Macklyn",F,Lumbi,Subsistence Farmer,01 Jan 1988
+1244,160237001,"Torea, Maggie",F,Lumbi,Student,21 Sep 1990
+1245,160212605,"Torea, Malinda",F,Lumbi,Subsistence Farmer,01 Jan 1988
+1246,160193107,"Torea, Meato",F,Lumbi,Subsistence Farmer,01 Jan 1978
+1247,160191148,"Torea, Nasalyn",F,Lumbi,Student,01 Jan 1987
+1248,160196994,"Tou, Kosu",F,Lumbi,Household Duties,04 Apr 1965
+1249,160186050,"Tunduasi, Engel",F,Lumbi,Household Duties,01 Jan 1940
+1250,160180772,"Tunduasi, Julie",F,Lumbi,Household Duties,01 Jan 1978
+1251,160212609,"Tunu, Betty",F,Lumbi,Subsistence Farmer,01 Jan 1988
+1252,160207863,"Tunu, Cathy",F,Lumbi,Subsistence Farmer,01 Jan 1979
+1253,160153663,"Tunu, Dindi",F,Lumbi,Household Duties,01 Jan 1970
+1254,160209948,"Tunu, Kopame",F,Lumbi,Subsistence Farmer,01 Jan 1975
+1255,160236017,"Tunu, Porem",F,Lumbi,Household Duties,01 Jan 1978
+1256,160156082,"Tunu, Ronda",F,Lumbi,Household Duties,01 Jan 1973
+1257,160236995,"Tunu, Rowi",F,Lumbi,Household Duties,19 Sep 1979
+1258,160237559,"Ugia, Anna",F,Lumbi,Household Duties,13 Oct 1986
+1259,160135854,"Ulum, Betty",F,Lumbi,Household Duties,18 Nov 1995
+1260,160133396,"Vagi, Lynneth",F,Lumbi,Household Duties,16 Feb 1997
+1261,25082100,"Vero, Vyola",F,Lumbi,Student,28 Apr 2004
+1262,160439092,"Victor, Francis",F,Lumbi,Teacher,20 Mar 1982
+1263,160173319,"Victor, Mageret",F,Lumbi,Household Duties,01 Jan 1936
+1264,160439100,"Victor, Melvina",F,Lumbi,Household Duties,27 Apr 2004
+1265,160201922,"Victor, Nancy",F,Lumbi,Student,01 Jan 1989
+1266,160202103,"Victor, Veronica",F,Lumbi,Household Duties,01 Jan 1980
+1267,160202098,"Victor domenic, Josphine",F,Lumbi,Student,01 Jan 1982
+1268,160438803,"Wala, Lyn",F,Lumbi,Household Duties,06 Aug 1980
+1269,160178031,"Wala, Susan",F,Lumbi,Household Duties,01 Jan 1970
+1270,160237563,"Wale, Cathy",F,Lumbi,Subsistence Farmer,01 Jan 1985
+1271,160197047,"Wale, Jenny",F,Lumbi,Subsistence Farmer,01 Jan 1982
+1272,160160766,"Wale, Lin",F,Lumbi,Household Duties,01 Jan 1974
+1273,160196774,"Wale, Lucy",F,Lumbi,Subsistence Farmer,01 Jan 1984
+1274,160196235,"Wale, Saina",F,Lumbi,Subsistence Farmer,01 Jan 1986
+1275,160196479,"Wale, Wanpis",F,Lumbi,Subsistence Farmer,01 Jan 1979
+1276,160169237,"Walo, Bolu",F,Lumbi,Household Duties,15 Feb 1945
+1277,160188586,"Walo, Mengen",F,Lumbi,Student,23 Mar 1985
+1278,160169242,"Walo, Nalom",F,Lumbi,Household Duties,06 Mar 1948
+1279,160197223,"Walter, Anna",F,Lumbi,Household Duties,01 Jan 1980
+1280,160197056,"Walter, Janet",F,Lumbi,Student,01 Jan 1983
+1281,160197222,"Walter, Maria",F,Lumbi,Household Duties,01 Jan 1951
+1282,160190887,"Walter, Mary",F,Lumbi,Student,01 Jan 1986
+1283,160197205,"Walter, Matilda",F,Lumbi,Student,01 Jan 1982
+1284,160197200,"Walter, Norreen",F,Lumbi,Household Duties,01 Jan 1981
+1285,160438849,"Walter, Zepora",F,Lumbi,Student,21 Feb 2004
+1286,160438847,"Walter, Zeporayn",F,Lumbi,Student,24 Apr 2004
+1287,160241690,"Wamea, Anna buka",F,Lumbi,Household Duties,01 Jan 1959
+1288,160241672,"Wamea, Sebet buka",F,Lumbi,Household Duties,01 Jan 1977
+1289,160155717,"Wanpis, Anna",F,Lumbi,Subsistence Farmer,01 Jan 1979
+1290,160153587,"Wanpis, Jenney",F,Lumbi,Subsistence Farmer,01 Jan 1982
+1291,160182625,"Wanpis, Jennifer",F,Lumbi,Household Duties,12 Nov 1973
+1292,160238755,"Wanpis, Jennifer",F,Lumbi,Student,30 Oct 1993
+1293,160197003,"Wanpis, Norin",F,Lumbi,Subsistence Farmer,01 Jan 1980
+1294,160155963,"Wanpis, Rumbame",F,Lumbi,Subsistence Farmer,01 Jan 1979
+1295,160180775,"Wapeya nala, Joscica",F,Lumbi,Household Duties,01 Jan 1982
+1296,160218127,"Wapeya nala, Julie",F,Lumbi,Household Duties,01 Jan 1979
+1297,160241673,"Wapeya nala, Nancy",F,Lumbi,Subsistence Farmer,01 Jan 1986
+1298,160190873,"Warea, Melean",F,Lumbi,Household Duties,01 Jan 1932
+1299,160194433,"Warea, Rebecca",F,Lumbi,Household Duties,01 Jan 1955
+1300,160176020,"Wari, Marklina",F,Lumbi,Household Duties,01 Jan 1966
+1301,160438794,"Wari, Rose",F,Lumbi,Household Duties,04 Mar 1982
+1302,160235691,"Wari, Ross",F,Lumbi,Subsistence Farmer,01 Jan 1976
+1303,25082121,"Wari, Veronica",F,Lumbi,Household Duties,28 Apr 1995
+1304,160438747,"Waron, Roda",F,Lumbi,Student,04 Sep 1998
+1305,160139361,"Waron, Rodina",F,Lumbi,Student,16 Jun 1997
+1306,160139488,"Waron, Ronda",F,Lumbi,Sales Women,06 Mar 1999
+1307,160188118,"Warren, Buka",F,Lumbi,Household Duties,01 Jan 1960
+1308,160182987,"Warren, Joanna",F,Lumbi,Student,01 Jan 1984
+1309,160182476,"Warren, Nasalyn",F,Lumbi,Student,01 Jan 1985
+1310,160187962,"Warren, Porame",F,Lumbi,Student,01 Jan 1980
+1311,160186961,"Warren, Serah",F,Lumbi,Student,01 Jan 1982
+1312,160133590,"Was, Miriam",F,Lumbi,Household Duties,21 Sep 1998
+1313,160133582,"Wasis, Dorris",F,Lumbi,Household Duties,10 Dec 1989
+1314,160210542,"Wata, Betty",F,Lumbi,Subsistence Farmer,01 Jan 1982
+1315,160209936,"Wata, Daisy",F,Lumbi,Subsistence Farmer,01 Jan 1988
+1316,160212444,"Wata, Grace",F,Lumbi,Subsistence Farmer,01 Jan 1980
+1317,160211367,"Wata, Ondenu",F,Lumbi,Subsistence Farmer,01 Jan 1976
+1318,160165642,"Wendo, Humbunu",F,Lumbi,Household Duties,01 Jan 1971
+1319,160160384,"Wendo, Nisimi",F,Lumbi,Subsistence Farmer,01 Jan 1979
+1320,160139489,"Weno, Maria",F,Lumbi,Household Duties,20 Jul 1985
+1321,160196238,"Weno, Veronica",F,Lumbi,Household Duties,06 Apr 1938
+1322,160216675,"Werit, Gloria",F,Lumbi,Household Duties,01 Jan 1931
+1323,160216182,"Werit, Molen",F,Lumbi,Student,01 Jan 1988
+1324,160158939,"Wesa, Maria",F,Lumbi,Household Duties,01 Jan 1970
+1325,160194207,"Wesley, Wesi",F,Lumbi,Household Duties,09 Mar 1967
+1326,160438733,"Wesly, Adosha",F,Lumbi,Student,03 Jun 2002
+1327,160438735,"Wesly, Nomi",F,Lumbi,Student,04 Jul 2003
+1328,160153561,"Wila, Rekape",F,Lumbi,Subsistence Farmer,01 Jan 1980
+1329,160159076,"Willam peter, Rebeka",F,Lumbi,Subsistence Farmer,01 Jan 1988
+1330,160239124,"William, Belinda",F,Lumbi,Student,16 Dec 1987
+1331,160439033,"William, Hearnie",F,Lumbi,Student,13 Mar 2004
+1332,160439041,"William, Jacklyn",F,Lumbi,Nurse,12 Nov 1995
+1333,160438789,"William, Joycee",F,Lumbi,Teacher,23 Apr 2004
+1334,160439048,"William, Laelah",F,Lumbi,Household Duties,06 Jun 1997
+1335,25082126,"William, Linneth",F,Lumbi,Housegirl,12 Apr 1997
+1336,160165778,"William, Nomme",F,Lumbi,Household Duties,01 Jan 1967
+1337,160239125,"William, Pricilla",F,Lumbi,Student,19 Jul 1986
+1338,160439039,"Williw, Rose",F,Lumbi,Accountant,12 Oct 1992
+1339,160237592,"Willy, Lilly",F,Lumbi,Household Duties,01 Jan 1982
+1340,160215728,"Wilsen, Regina",F,Lumbi,Household Duties,01 Jan 1980
+1341,25082129,"Wilson, Regina",F,Lumbi,Nurse,21 Jan 1996
+1342,160218954,"Wisu, Kutupame",F,Lumbi,Household Duties,01 Jan 1981
+1343,160191378,"Wiyame, Sanna",F,Lumbi,Subsistence Farmer,01 Jan 1975
+1344,160241958,"Wom kopi, Nalame",F,Lumbi,Household Duties,14 Dec 1955
+1345,160176032,"Yako, Andrew",F,Lumbi,Subsistence Farmer,01 Jan 1978
+1346,160235673,"Yako, Dorothy",F,Lumbi,Subsistence Farmer,01 Jan 1988
+1347,160155886,"Yako, Kundinong",F,Lumbi,Household Duties,01 Jan 1957
+1348,160169182,"Yako, Makif",F,Lumbi,Household Duties,01 Jan 1967
+1349,160235674,"Yako, Noimei",F,Lumbi,Subsistence Farmer,01 Jan 1994
+1350,160169251,"Yako, Nongosi",F,Lumbi,Subsistence Farmer,01 Jan 1972
+1351,160217779,"Yako, Polin",F,Lumbi,Household Duties,01 Jan 1988
+1352,160236018,"Yako, Ronda",F,Lumbi,Subsistence Farmer,01 Jan 1992
+1353,160176270,"Yako, Rupyame",F,Lumbi,Household Duties,01 Jan 1958
+1354,160218841,"Yako, Tikennu",F,Lumbi,Household Duties,01 Jan 1939
+1355,160176026,"Yako, Weris",F,Lumbi,Household Duties,01 Jan 1967
+1356,160196288,"Yalapapu, Buka",F,Lumbi,Subsistence Farmer,01 Jan 1975
+1357,160160720,"Yaleme, Lili",F,Lumbi,Subsistence Farmer,01 Jan 1976
+1358,160160715,"Yaleme, Rikili",F,Lumbi,Household Duties,01 Jan 1957
+1359,160193760,"Yama, Meriam",F,Lumbi,Household Duties,04 Mar 1962
+1360,160193105,"Yambele, Elly",F,Lumbi,Household Duties,04 May 1978
+1361,160193103,"Yambele, Polo",F,Lumbi,Household Duties,03 Oct 1955
+1362,160241692,"Yandwe, Andrew marop",F,Lumbi,Subsistence Farmer,01 Jan 1952
+1363,160241695,"Yandwe, Georina andrew",F,Lumbi,Subsistence Farmer,01 Jan 1982
+1364,160241694,"Yandwe marop, Depelame",F,Lumbi,Household Duties,01 Jan 1956
+1365,160210176,"Yano, Linneth",F,Lumbi,Housegirl,24 Oct 1983
+1366,160210318,"Yano, Lucy",F,Lumbi,Worker,21 Jun 1976
+1367,160158905,"Yapanga, Yokom",F,Lumbi,Household Duties,15 Dec 1931
+1368,160438924,"Yara, Sally",F,Lumbi,Household Duties,30 May 1993
+1369,160198445,"Yasi, Kurum",F,Lumbi,Subsistence Farmer,01 Jan 1979
+1370,160197043,"Yasi, Neli",F,Lumbi,Subsistence Farmer,01 Jan 1981
+1371,160133592,"Yei, Marlinda",F,Lumbi,Student,25 Feb 1998
+1372,160187940,"Yer, Adam",F,Lumbi,Household Duties,01 Jan 1939
+1373,160187399,"Yer, Julie",F,Lumbi,Household Duties,01 Jan 1984
+1374,160235991,"Yoape, Jacklyn",F,Lumbi,Housegirl,29 Dec 1994
+1375,160196157,"Yoape, Wolumb",F,Lumbi,Household Duties,01 Jan 1951
+1376,160162906,"Yoka, Susi",F,Lumbi,Household Duties,01 Jan 1980
+1377,160193864,"Yokela, Magaret",F,Lumbi,Student,02 Apr 1986
+1378,160165781,"Yokom, Nongas",F,Lumbi,Household Duties,12 Apr 1953
+1379,160196187,"Yowa, Eperen",F,Lumbi,Household Duties,08 Jul 1942
+1380,160438835,"Yuanis, Stepheny",F,Lumbi,Household Duties,23 Jan 2004
+1381,160194258,"Yuanis, Tesi",F,Lumbi,Student,01 Jan 1983
+1382,25082141,"Yupal, Aiga",F,Lumbi,Student,21 Oct 1994
+1383,160439090,"Yupal, Haiga",F,Lumbi,Student,03 Jan 2004
+1384,160439088,"Yupal, Ruth",F,Lumbi,Student,04 Mar 2004
+1385,25081096,"Abizah, Kot",M,Lumbi,Student,23 Nov 1996
+1386,160218580,"Aelea, Keno",M,Lumbi,Subsistence Farmer,01 Jan 1935
+1387,160236030,"Agen, Kills",M,Lumbi,Worker,01 Jan 1954
+1388,25081100,"Agnala, Andrew",M,Lumbi,Subsistence Farmer,05 Aug 1962
+1389,160139370,"Agura, Alphonse",M,Lumbi,Teacher,25 Jul 1979
+1390,160219059,"Ako, Baspiya",M,Lumbi,Subsistence Farmer,01 Jan 1950
+1391,160235891,"Akuna, Maip",M,Lumbi,Subsistence Farmer,01 Jan 1978
+1392,160193098,"Alembo, David",M,Lumbi,Subsistence Farmer,05 Jul 1987
+1393,160193766,"Alembo, Paul",M,Lumbi,Subsistence Farmer,04 Mar 1976
+1394,160237253,"Alembo, Rex marop",M,Lumbi,Subsistence Farmer,13 Nov 1993
+1395,25081112,"Alex, Billy",M,Lumbi,Student,06 May 2000
+1396,160438837,"Alex, Billy",M,Lumbi,Student,04 Jan 2004
+1397,160439075,"Alex, Douglas",M,Lumbi,Student,04 Mar 2004
+1398,160439096,"Alex, Douglies",M,Lumbi,Student,08 Jan 2004
+1399,160216049,"Alex, Oma",M,Lumbi,Student,01 Jan 1982
+1400,160135847,"Alex, Peter",M,Lumbi,Sales Women,30 Jul 1997
+1401,160215269,"Alex, Pondpis",M,Lumbi,Store Keeper,01 Jan 1973
+1402,160190867,"Alex wasi, Kilitus",M,Lumbi,Student,01 Jan 1989
+1403,160135924,"Allalo, Joel",M,Lumbi,Student,08 Dec 1995
+1404,160236028,"Alop, Win",M,Lumbi,Student,01 Jan 1990
+1405,160193917,"Alphones, Berric",M,Lumbi,Student,06 Sep 1989
+1406,160193916,"Alphones, Robin",M,Lumbi,Student,04 May 1978
+1407,25081130,"Alphonse, Derrick",M,Lumbi,Subsistence Farmer,06 Dec 1997
+1408,160438728,"Ambros, Colin",M,Lumbi,Student,02 Feb 2003
+1409,160235379,"Amos, Danny",M,Lumbi,Student,04 Aug 1989
+1410,160235380,"Amos, Ranni",M,Lumbi,Student,03 Jul 1992
+1411,160133626,"Amos, Vicky",M,Lumbi,Student,03 Mar 1999
+1412,25081138,"Andapiri, Kopeap",M,Lumbi,Subsistence Farmer,11 Jul 1980
+1413,160438687,"Andrew, Kipsy",M,Lumbi,Subsistence Farmer,06 Sep 1997
+1414,160171799,"Andrew, Mark",M,Lumbi,Student,01 Jan 1983
+1415,160237566,"Andrew, Micheal",M,Lumbi,Subsistence Farmer,01 Jan 1986
+1416,160163043,"Anis, Moses",M,Lumbi,Student,15 Jul 1988
+1417,160213251,"Anisu, James",M,Lumbi,Student,14 Dec 1988
+1418,160438957,"Anisu, Undin",M,Lumbi,Student,08 Jan 2004
+1419,160235499,"Ank, Arnold",M,Lumbi,Student,01 Jan 1986
+1420,25081165,"Ank, Clive",M,Lumbi,Student,28 Apr 2003
+1421,25081170,"Ank, Gibson",M,Lumbi,Driver,23 Aug 1986
+1422,160438970,"Ank, Jep",M,Lumbi,Student,28 Feb 2004
+1423,25081180,"Ank, Joel",M,Lumbi,Student,03 Sep 1992
+1424,160237021,"Ank, Junior",M,Lumbi,Student,01 Jan 1986
+1425,25081186,"Ank, Nelson",M,Lumbi,Subsistence Farmer,21 Mar 1988
+1426,25081197,"Ank, Phien",M,Lumbi,Self Employed,11 Nov 1980
+1427,160236022,"Ank, Roger",M,Lumbi,Student,01 Jan 1989
+1428,160236023,"Ank, Saku",M,Lumbi,Student,01 Jan 1989
+1429,25081204,"Ank, Salatin",M,Lumbi,Student,23 Dec 1989
+1430,160236025,"Ank, Thomas",M,Lumbi,Subsistence Farmer,01 Jan 1984
+1431,160236033,"Ank, William",M,Lumbi,Teacher,01 Jan 1951
+1432,160235877,"Apea, Rodney",M,Lumbi,Student,01 Jan 1993
+1433,160175948,"Apea, Stanley",M,Lumbi,Student,31 Oct 1989
+1434,160438867,"Apean, Nedey",M,Lumbi,Subsistence Farmer,04 Nov 1991
+1435,160218123,"Apeya, Timothy",M,Lumbi,Student,01 Jan 1985
+1436,160187937,"Apli, Glan",M,Lumbi,Houseboy,01 Jan 1973
+1437,160158940,"Apo, Pem",M,Lumbi,Subsistence Farmer,01 Jan 1967
+1438,160165739,"Apo, Pipi",M,Lumbi,Subsistence Farmer,01 Jan 1980
+1439,160158943,"Apo, Repnis",M,Lumbi,Subsistence Farmer,01 Jan 1979
+1440,160162652,"Apo, Wesa",M,Lumbi,Subsistence Farmer,01 Jan 1965
+1441,160235893,"Aremo, Molosi",M,Lumbi,Subsistence Farmer,01 Jan 1968
+1442,160235389,"Aron, Gibson",M,Lumbi,Subsistence Farmer,01 Jan 1985
+1443,160235367,"Aron, Gilbert",M,Lumbi,Student,01 Jan 1993
+1444,160133608,"Aron, Inock",M,Lumbi,Subsistence Farmer,11 Oct 1994
+1445,160438654,"Aron, Willie",M,Lumbi,Subsistence Farmer,23 Sep 2000
+1446,160235366,"Aron, Wilson",M,Lumbi,Student,01 Jan 1989
+1447,160133558,"Asapu, Gibson",M,Lumbi,Subsistence Farmer,27 Jun 1995
+1448,160139315,"Asaro, Hatison",M,Lumbi,Student,10 Mar 1999
+1449,160133612,"Asaro, Mack",M,Lumbi,Student,11 Aug 1997
+1450,160133605,"Asaro, Wilfred",M,Lumbi,Pastor,04 Apr 1974
+1451,160237551,"Asupa, Valentine",M,Lumbi,Student,01 Jan 1988
+1452,160183038,"Awape, Apea",M,Lumbi,Subsistence Farmer,14 Nov 1946
+1453,160186988,"Awape, Luke",M,Lumbi,Subsistence Farmer,14 Mar 1952
+1454,160173358,"Awape, Marcus",M,Lumbi,Store Keeper,18 Oct 1973
+1455,160187056,"Awape, Peso",M,Lumbi,Subsistence Farmer,30 Nov 1961
+1456,160186960,"Awape, Tiemb",M,Lumbi,Subsistence Farmer,31 Mar 1946
+1457,160196297,"Awey, Saras",M,Lumbi,Subsistence Farmer,04 May 1972
+1458,160196295,"Awey, Yura",M,Lumbi,Pastor,03 Jul 1985
+1459,160210167,"Balus, Melborne",M,Lumbi,Subsistence Farmer,01 Jan 1978
+1460,160135962,"Basiba, Joel",M,Lumbi,Sales Women,02 Jan 1995
+1461,160135963,"Basiba, Joram",M,Lumbi,Sales Women,03 Nov 1997
+1462,160438823,"Basiba, Samuel",M,Lumbi,Student,29 Jan 2004
+1463,160241989,"Baspiya ako, Nogiosi",M,Lumbi,Subsistence Farmer,01 Jan 1958
+1464,160133595,"Beleke, Vincent",M,Lumbi,Student,29 Jan 1999
+1465,160438786,"Ben, David",M,Lumbi,Subsistence Farmer,02 Apr 2004
+1466,160135949,"Ben, Vipo",M,Lumbi,Sales Women,24 Jul 1997
+1467,160438787,"Ben, Yakowasi",M,Lumbi,Student,16 Oct 2002
+1468,160165827,"Benard, Elinton",M,Lumbi,Student,14 Mar 1990
+1469,160235727,"Benny, Judo",M,Lumbi,Household Duties,01 Jan 1970
+1470,160236057,"Benny, Keris",M,Lumbi,Subsistence Farmer,01 Jan 1960
+1471,160235728,"Benny, Solo",M,Lumbi,Subsistence Farmer,01 Jan 1991
+1472,160133596,"Benson, Kevin",M,Lumbi,Student,17 Mar 1999
+1473,160238571,"Bepi, Moses",M,Lumbi,Household Duties,15 Oct 1976
+1474,160184980,"Bepi, Simon",M,Lumbi,Subsistence Farmer,01 Jan 1971
+1475,160169194,"Boby, Rodney",M,Lumbi,Subsistence Farmer,01 Jan 2000
+1476,160171752,"Boku, Ambeyasi",M,Lumbi,Subsistence Farmer,01 Jan 1977
+1477,160176256,"Boku, Naikisi",M,Lumbi,Subsistence Farmer,01 Jan 1967
+1478,160169400,"Boku, Rale",M,Lumbi,Subsistence Farmer,01 Jan 1980
+1479,160176267,"Boku, Yako",M,Lumbi,Subsistence Farmer,01 Jan 1950
+1480,160438712,"Boli, Addian",M,Lumbi,Student,02 May 1999
+1481,160236989,"Boli, David",M,Lumbi,Student,01 Jan 1989
+1482,160438701,"Boli, David",M,Lumbi,Student,06 Apr 1990
+1483,160236991,"Boli, Garry",M,Lumbi,Subsistence Farmer,01 Jan 1975
+1484,160438713,"Boli, Jeth",M,Lumbi,Student,06 May 2002
+1485,160438708,"Boli, Pindu",M,Lumbi,Student,08 Oct 1997
+1486,160236988,"Boli, Riss",M,Lumbi,Subsistence Farmer,01 Jan 1932
+1487,160193860,"Boni, Jerry",M,Lumbi,Student,02 Mar 1988
+1488,160201924,"Bosso, Dansten",M,Lumbi,Subsistence Farmer,01 Jan 1949
+1489,160173314,"Bosso, Victor kak",M,Lumbi,Subsistence Farmer,01 Jan 1939
+1490,25081208,"Brandon, Domnic",M,Lumbi,Self Employed,25 Dec 1999
+1491,160198476,"Brice, Moya",M,Lumbi,Subsistence Farmer,01 Jan 1940
+1492,160240325,"Buka, Ben",M,Lumbi,Student,04 Nov 1991
+1493,160195753,"Buka, Joshua rambame",M,Lumbi,Student,01 Jan 1988
+1494,160195746,"Buka, Noaha",M,Lumbi,Subsistence Farmer,01 Jan 1985
+1495,160194322,"Buksi, Onde",M,Lumbi,Student,06 Apr 1985
+1496,160194043,"Bushman, Kai",M,Lumbi,Subsistence Farmer,06 Mar 1954
+1497,160153031,"Bushman, Pal",M,Lumbi,Student,05 Oct 1990
+1498,160194045,"Bushman, Paul",M,Lumbi,Subsistence Farmer,06 Apr 1982
+1499,160217985,"Chris, Allan",M,Lumbi,Student,01 Jan 1982
+1500,160438933,"Clement, Clementon",M,Lumbi,Student,08 Apr 2003
+1501,160217981,"Cris, Basco",M,Lumbi,Subsistence Farmer,01 Jan 1971
+1502,160237011,"Danny, Pope",M,Lumbi,Subsistence Farmer,01 Jan 1992
+1503,160439106,"Danstan, Rickson",M,Lumbi,Student,08 Mar 2004
+1504,160218570,"Dansten, Kep",M,Lumbi,Student,01 Jan 1986
+1505,25081221,"David, Alo",M,Lumbi,Student,13 Oct 2000
+1506,160171916,"David, Eric",M,Lumbi,Student,01 Jan 1980
+1507,25081224,"David, Gedion",M,Lumbi,Student,03 Oct 2003
+1508,160438663,"David, Ice",M,Lumbi,Subsistence Farmer,30 Apr 2001
+1509,160133627,"David, Marn",M,Lumbi,Student,27 Sep 1997
+1510,160438657,"David, Men",M,Lumbi,Student,13 Nov 2000
+1511,160160185,"David, Pispy",M,Lumbi,Student,01 Jan 1983
+1512,25081235,"David, Stalone",M,Lumbi,Student,16 Sep 1995
+1513,160235382,"David, Willie",M,Lumbi,Student,01 Jan 1992
+1514,160194151,"Dickson, Alo",M,Lumbi,Subsistence Farmer,01 Jan 1984
+1515,160194659,"Dickson, Dolo",M,Lumbi,Student,01 Jan 1984
+1516,160135928,"Dickson, Oberd",M,Lumbi,Student,04 May 1997
+1517,25081243,"Dixon, Pedro",M,Lumbi,Student,02 Dec 1990
+1518,160139494,"Don, Jethro",M,Lumbi,Sales Women,19 Jun 1996
+1519,25081258,"Don, Wilson",M,Lumbi,Subsistence Farmer,10 Oct 1994
+1520,25081262,"Donald warea, Emol",M,Lumbi,Student,13 Jan 2003
+1521,160438833,"Donol, Annuel",M,Lumbi,Student,05 Aug 2001
+1522,160438829,"Donol, Aronald",M,Lumbi,Student,08 Mar 2004
+1523,160438831,"Donol, Graham",M,Lumbi,Student,09 Aug 2000
+1524,160438763,"Donol, Samuel",M,Lumbi,Subsistence Farmer,28 Apr 1990
+1525,160196112,"Eapu, Obert",M,Lumbi,Student,05 May 1985
+1526,160196794,"Eapu, Samuel",M,Lumbi,Subsistence Farmer,09 Mar 1964
+1527,160196115,"Eapu, Vincent",M,Lumbi,Student,07 Jul 1987
+1528,160216222,"Ega, Pundral",M,Lumbi,Subsistence Farmer,01 Jan 1933
+1529,160133548,"Ekait, Kam",M,Lumbi,Student,15 May 1997
+1530,160438815,"Eliza, Elvis",M,Lumbi,Student,06 Sep 2002
+1531,160438731,"Eliza, Freedy",M,Lumbi,Student,02 Sep 2003
+1532,25081272,"Elizah, Andrew",M,Lumbi,Subsistence Farmer,05 Oct 1987
+1533,25081279,"Elizah, Jediah",M,Lumbi,Student,23 Mar 2003
+1534,25081283,"Elizah, Luke",M,Lumbi,Student,06 Oct 2000
+1535,25081296,"Embisi, Nelson",M,Lumbi,Self Employed,11 Jan 1940
+1536,160194201,"Embros, Alu",M,Lumbi,Student,05 Feb 1986
+1537,160237540,"Endrick, Albert",M,Lumbi,Student,20 Sep 1987
+1538,160182562,"Enos, Buka",M,Lumbi,Carpenter,01 Jan 1957
+1539,160180779,"Enos, Dickson",M,Lumbi,Student,01 Jan 1988
+1540,160180778,"Enos, Domenic",M,Lumbi,Student,01 Jan 1979
+1541,160167758,"Enos, Donald",M,Lumbi,Student,28 Apr 1988
+1542,160193714,"Epata, Samuel",M,Lumbi,Teacher,09 Mar 1967
+1543,160133613,"Epowa, Darren",M,Lumbi,Carpenter,14 Aug 1988
+1544,160153659,"Epowa, John",M,Lumbi,Subsistence Farmer,01 Jan 1954
+1545,160235690,"Epowa, Norman",M,Lumbi,Subsistence Farmer,01 Jan 1987
+1546,160190681,"Eric, Jerry",M,Lumbi,Student,01 Jan 1989
+1547,160438752,"Erick, Jobulen",M,Lumbi,Student,06 Jan 2004
+1548,160438751,"Erick, Posu",M,Lumbi,Subsistence Farmer,05 Mar 1980
+1549,160438753,"Erick, Samuel",M,Lumbi,Student,03 Feb 2002
+1550,160176188,"Evo, Walo",M,Lumbi,Subsistence Farmer,12 Apr 1936
+1551,160191268,"Feilix, John",M,Lumbi,Student,01 Jan 1983
+1552,160133540,"Felix, George",M,Lumbi,Student,05 Sep 1998
+1553,160133539,"Felix, Joekin",M,Lumbi,Student,28 May 1996
+1554,160133510,"Firman, Sossy",M,Lumbi,Subsistence Farmer,16 Mar 1995
+1555,160167614,"Fox, Gerry",M,Lumbi,Subsistence Farmer,01 Jan 1968
+1556,160237639,"Francis, Anton",M,Lumbi,Subsistence Farmer,01 Jan 1993
+1557,160236026,"Francis, Clive",M,Lumbi,Student,01 Jan 1993
+1558,160236041,"Francis, Freeman",M,Lumbi,Student,01 Jan 1991
+1559,160237030,"Francis, Gene",M,Lumbi,Student,01 Jan 1990
+1560,25081305,"Francis ank, Frank",M,Lumbi,Student,25 Dec 1996
+1561,25081308,"Francis pape, Smetly",M,Lumbi,Student,05 Apr 2003
+1562,160133618,"Frank, Adirahm",M,Lumbi,Student,02 Apr 1998
+1563,160235959,"Frank, Jimmy",M,Lumbi,Student,01 Jan 1989
+1564,160235958,"Frank, Melone",M,Lumbi,Student,01 Jan 1994
+1565,160133619,"Frank, Nick",M,Lumbi,Student,04 Oct 1998
+1566,160162742,"Frank, Polukup",M,Lumbi,Student,01 Jan 1982
+1567,160162855,"Frank, Ruben",M,Lumbi,Teacher,01 Jan 1974
+1568,160162905,"Frank, Sepen",M,Lumbi,Subsistence Farmer,01 Jan 1977
+1569,160194407,"Frank, Vincent",M,Lumbi,Student,01 Jan 1989
+1570,160139317,"Frank, Zero",M,Lumbi,Student,11 May 1997
+1571,160194037,"Gabriel, Elizah",M,Lumbi,Student,09 Aug 1988
+1572,160194036,"Gabriel, Joshua",M,Lumbi,Student,06 Apr 1987
+1573,160194049,"Gabriel, Moses",M,Lumbi,Student,10 Aug 1989
+1574,160167275,"Gabriel, Thomas",M,Lumbi,Student,11 Oct 1980
+1575,160438994,"Gapi, Gordon",M,Lumbi,Student,12 Oct 2000
+1576,160196464,"Gapi, Isacc alo",M,Lumbi,Subsistence Farmer,01 Jan 1984
+1577,160196459,"Gapi, Kuni",M,Lumbi,Subsistence Farmer,01 Jan 1982
+1578,160196246,"Gapi, Kutu",M,Lumbi,Subsistence Farmer,01 Jan 1983
+1579,160438990,"Gapi, Laki",M,Lumbi,Subsistence Farmer,05 Feb 2001
+1580,160196890,"Gapi, Luke",M,Lumbi,Pastor,01 Jan 1981
+1581,25081319,"Gapi, Mathew",M,Lumbi,Subsistence Farmer,09 Jun 1987
+1582,160196261,"Gapi, Mathew",M,Lumbi,Subsistence Farmer,01 Jan 1978
+1583,160196126,"Gapi, Pape jordan",M,Lumbi,Subsistence Farmer,01 Jan 1986
+1584,160438992,"Gapi, Powi",M,Lumbi,Student,09 Apr 2000
+1585,160133556,"Gapi, Ruben",M,Lumbi,Subsistence Farmer,27 Sep 1993
+1586,160237241,"Gerry, Benny",M,Lumbi,Subsistence Farmer,08 Oct 1964
+1587,160176244,"Gialo, Nosum",M,Lumbi,Subsistence Farmer,01 Jan 1969
+1588,160176242,"Gialo, Thomas",M,Lumbi,Subsistence Farmer,01 Jan 1966
+1589,160135848,"Gibdson, Dickson",M,Lumbi,Sales Women,17 Mar 1993
+1590,160139495,"Gibson, Runi",M,Lumbi,Sales Women,19 Aug 1995
+1591,160135927,"Gidion, Deaniel",M,Lumbi,Student,15 Mar 1999
+1592,160169223,"Gimea, Pape",M,Lumbi,Subsistence Farmer,01 Jan 1968
+1593,160165742,"Haija, Joshua",M,Lumbi,Subsistence Farmer,01 Jan 1976
+1594,160207974,"Hananu, Gabriel",M,Lumbi,Student,01 Jan 1981
+1595,25081334,"Henrick, Merick",M,Lumbi,Student,18 Sep 2000
+1596,25081340,"Henrick, Rodrick",M,Lumbi,Student,25 Jan 2003
+1597,160185976,"Hor, Bepi",M,Lumbi,Subsistence Farmer,01 Jan 1960
+1598,160171809,"Hun, Gimea",M,Lumbi,Security,01 Jan 1941
+1599,160158906,"Hunupi, William",M,Lumbi,Subsistence Farmer,01 Jan 1965
+1600,160191146,"Ietabia, Akande",M,Lumbi,Subsistence Farmer,07 Aug 1952
+1601,160190829,"Ietabia, Rex",M,Lumbi,Subsistence Farmer,04 May 1975
+1602,160197119,"Igipia, Albert",M,Lumbi,Subsistence Farmer,01 Jan 1970
+1603,160216051,"Igipia, Onde",M,Lumbi,Subsistence Farmer,01 Jan 1952
+1604,160216199,"Igipia, Rerenya",M,Lumbi,Subsistence Farmer,01 Jan 1959
+1605,160197203,"Igipia, Robert",M,Lumbi,Student,01 Jan 1978
+1606,160194625,"Igipia, Solomon",M,Lumbi,Student,01 Jan 1982
+1607,160219054,"Ima bereke, John",M,Lumbi,Subsistence Farmer,01 Jan 1979
+1608,160133514,"Ingipa, Bendedick",M,Lumbi,Subsistence Farmer,19 Sep 1990
+1609,160133520,"Ingipa, Mayo",M,Lumbi,Student,05 Dec 1991
+1610,160195988,"Inipa, Awape",M,Lumbi,Teacher,07 Jun 1975
+1611,160194786,"Inipa, Franksis",M,Lumbi,Student,08 Jul 1988
+1612,160195987,"Inipa, Pamea",M,Lumbi,Subsistence Farmer,06 Apr 1985
+1613,160195938,"Inipa, Pesnogut",M,Lumbi,Subsistence Farmer,03 Jun 1978
+1614,160196050,"Inipa, Rorowa",M,Lumbi,Subsistence Farmer,07 Mar 1966
+1615,160194667,"Inipa, Steward",M,Lumbi,Student,08 Aug 1987
+1616,160237557,"Ipisa, Andrew",M,Lumbi,Student,03 Jul 1990
+1617,160133566,"Ipisa, Bepi",M,Lumbi,Subsistence Farmer,23 Aug 1982
+1618,160133569,"Ipisa, Jonah",M,Lumbi,Student,22 Dec 1997
+1619,160213242,"Ipisa, Moses",M,Lumbi,Subsistence Farmer,01 Jan 1988
+1620,160217976,"Ipu, Akiula",M,Lumbi,Student,01 Jan 1987
+1621,160194320,"Ipu, Banabas",M,Lumbi,Student,09 Aug 1986
+1622,160194304,"Ipu, Jepeth",M,Lumbi,Subsistence Farmer,07 Jun 1959
+1623,160133578,"Irea, Jerry",M,Lumbi,Student,04 Jun 1997
+1624,160438939,"Irea, Mclyford",M,Lumbi,Student,20 Apr 2004
+1625,160438937,"Irea, Milgord",M,Lumbi,Student,28 Apr 2004
+1626,25081353,"Iria, Mackliford",M,Lumbi,Student,28 Apr 2004
+1627,160175706,"Iroke, David",M,Lumbi,Student,01 Jan 1984
+1628,160182733,"Iroke, Wanpis",M,Lumbi,Store Keeper,02 Nov 1976
+1629,160182634,"Iroke, Yakmote",M,Lumbi,Student,15 Jun 1984
+1630,160194326,"Iven, Lake",M,Lumbi,Subsistence Farmer,05 Aug 1949
+1631,160190832,"Jack, Abel",M,Lumbi,Student,01 Jan 1986
+1632,160438683,"Jack, Iso",M,Lumbi,Student,03 Feb 1997
+1633,160237636,"Jack, Jackson",M,Lumbi,Student,01 Jan 1992
+1634,160236038,"Jack, John",M,Lumbi,Student,01 Jan 1991
+1635,160438680,"Jack, Jopeth",M,Lumbi,Student,06 Mar 2003
+1636,160191377,"Jack, Kenny",M,Lumbi,Student,01 Jan 1988
+1637,160438679,"Jack, Lee white",M,Lumbi,Student,08 Apr 2004
+1638,160190831,"Jack, Pisa",M,Lumbi,Subsistence Farmer,01 Jan 1977
+1639,160438676,"Jack, Stawalen",M,Lumbi,Student,08 Feb 2004
+1640,160438675,"Jack, Steve",M,Lumbi,Student,04 Feb 2004
+1641,160135950,"Jackson, Jetro",M,Lumbi,Sales Women,31 Mar 1998
+1642,160236036,"Jackson, Manu",M,Lumbi,Subsistence Farmer,01 Jan 1990
+1643,160167541,"Jackson, Richard",M,Lumbi,Student,01 Jan 1988
+1644,160169168,"Jacob, Fuss",M,Lumbi,Student,01 Jan 1986
+1645,160438655,"Jacob, Graham",M,Lumbi,Student,09 Jan 2003
+1646,160438656,"Jacob, Kesti",M,Lumbi,Student,18 Jan 2001
+1647,160438705,"James, Frankly",M,Lumbi,Student,10 May 2002
+1648,160135946,"James, Junior",M,Lumbi,Sales Women,01 Dec 1997
+1649,160438703,"James, Junior",M,Lumbi,Subsistence Farmer,16 Jul 1997
+1650,160438698,"James, Mackdom",M,Lumbi,Subsistence Farmer,25 Mar 1998
+1651,160135960,"James, Michael",M,Lumbi,Teacher,09 Sep 1997
+1652,25081375,"James, Molsy",M,Lumbi,Student,14 Oct 2002
+1653,160438714,"James, Noah",M,Lumbi,Student,06 Apr 2004
+1654,160139486,"James, Noel",M,Lumbi,Sales Women,29 Apr 1998
+1655,160438706,"James, Noel",M,Lumbi,Student,09 May 1999
+1656,160438702,"James, Tila",M,Lumbi,Student,08 Jun 1998
+1657,160153192,"Jepeth, Aron",M,Lumbi,Student,10 Jun 1983
+1658,160438726,"Jepeth, Jerry",M,Lumbi,Student,01 Jan 2004
+1659,160438666,"Jerry, Albert",M,Lumbi,Student,06 Apr 2002
+1660,160173346,"Jerry, Fred",M,Lumbi,Subsistence Farmer,01 Jan 1980
+1661,160173353,"Jerry, Robert",M,Lumbi,Student,01 Jan 1986
+1662,160198430,"Job, Ben",M,Lumbi,Student,01 Mar 1987
+1663,160196477,"Job, Patrict",M,Lumbi,Student,04 Mar 1985
+1664,160153583,"Job, Wanpis",M,Lumbi,Subsistence Farmer,08 Aug 1959
+1665,160438895,"Joesina, Rati",M,Lumbi,Household Duties,08 Apr 2004
+1666,160184964,"John, Andrew",M,Lumbi,Student,15 Mar 1982
+1667,160439050,"John, Clyde",M,Lumbi,Student,12 Mar 2004
+1668,160183056,"John, Dick",M,Lumbi,Student,13 Aug 1986
+1669,25081412,"John, Dimeond",M,Lumbi,Self Employed,07 Apr 2004
+1670,160439077,"John, Dimeond",M,Lumbi,Student,03 Jan 2004
+1671,160135857,"John, Dimes",M,Lumbi,Sales Women,20 Sep 1993
+1672,25081416,"John, Felix",M,Lumbi,Student,17 Feb 2000
+1673,160185110,"John, James",M,Lumbi,Student,15 Apr 1988
+1674,25081420,"John, Jerry",M,Lumbi,Student,16 May 2000
+1675,160133576,"John, Jip",M,Lumbi,Student,04 Feb 1993
+1676,160183050,"John, Julius",M,Lumbi,Student,14 Apr 1989
+1677,160135841,"John, Junior",M,Lumbi,Sales Women,08 May 1997
+1678,160439082,"John, Kingston",M,Lumbi,Student,08 Jan 2004
+1679,160190686,"John, Metame",M,Lumbi,Subsistence Farmer,01 Jan 1968
+1680,160194676,"John, Michael",M,Lumbi,Subsistence Farmer,04 Mar 1968
+1681,160135856,"John, Noel",M,Lumbi,Sales Women,30 Mar 1998
+1682,160438791,"John, Norman",M,Lumbi,Subsistence Farmer,05 Feb 2004
+1683,160187615,"John, Otti",M,Lumbi,Mechanic,14 Jun 1976
+1684,160438819,"John, Roman",M,Lumbi,Student,06 Apr 2003
+1685,160439080,"John, Seba",M,Lumbi,Student,08 Mar 2004
+1686,160183046,"John, Tonny",M,Lumbi,Student,11 Mar 1985
+1687,160237016,"John, Wanpis",M,Lumbi,Student,01 Jan 1990
+1688,160133402,"Johnson, Allan",M,Lumbi,Teacher,19 Sep 1981
+1689,160135840,"Jonathan, Jonah",M,Lumbi,Student,19 Jun 1997
+1690,25087138,"Jonathan, Kelvin",M,Lumbi,Student,14 Jul 2003
+1691,160196989,"Jonathan, Manuel",M,Lumbi,Subsistence Farmer,01 Jan 1981
+1692,25081431,"Jonathan, Pono",M,Lumbi,Student,21 Feb 2002
+1693,25081435,"Jonathan, Ronney",M,Lumbi,Driver,16 May 1997
+1694,160196986,"Jonathan, Tommy",M,Lumbi,Student,01 Jan 1985
+1695,160135839,"Jonathan, William",M,Lumbi,Student,20 Mar 1998
+1696,160133554,"Jordan, Jennifer",M,Lumbi,Student,20 Mar 1999
+1697,25081451,"Joseph, Jamin",M,Lumbi,Student,14 Oct 2002
+1698,25081456,"Joseph, Jesril",M,Lumbi,Student,08 Dec 2000
+1699,160133563,"Joseph, Job",M,Lumbi,Subsistence Farmer,29 Nov 1995
+1700,160139364,"Joseph, Job",M,Lumbi,Student,29 Jan 1997
+1701,160196995,"Joseph, Job",M,Lumbi,Subsistence Farmer,01 Jan 1988
+1702,25081468,"Joshia, Kot elizah",M,Lumbi,Student,22 Dec 1995
+1703,160237554,"Joshua, Allen",M,Lumbi,Student,03 May 1994
+1704,160237017,"Joshua, Andy",M,Lumbi,Student,01 Mar 1992
+1705,160160288,"Joshua, Delma",M,Lumbi,Machinist,01 Jan 1979
+1706,160162713,"Joshua, Ferman",M,Lumbi,Subsistence Farmer,01 Jan 1979
+1707,160193930,"Joshua, Hallen",M,Lumbi,Subsistence Farmer,01 Jan 1987
+1708,160193931,"Joshua, Hendy",M,Lumbi,Student,01 Jan 1986
+1709,160191145,"Joshua, Lapan",M,Lumbi,Subsistence Farmer,01 Jan 1958
+1710,160162721,"Joshua, Philip",M,Lumbi,Subsistence Farmer,01 Jan 1979
+1711,160133560,"Joshua, Sakaria",M,Lumbi,Store Keeper,14 Feb 1986
+1712,160196992,"Joshua, Sanny",M,Lumbi,Student,01 Jan 1986
+1713,160133534,"Jud, Botte",M,Lumbi,Household Duties,06 May 1992
+1714,160133509,"Jud, Matias",M,Lumbi,Student,16 Aug 1995
+1715,160193185,"Jude, Judas",M,Lumbi,Student,01 Jan 1984
+1716,160191104,"Jude, Stanley",M,Lumbi,Student,01 Jan 1985
+1717,160191281,"Jude, Wari",M,Lumbi,Subsistence Farmer,01 Jan 1978
+1718,160139313,"Junior, Paul",M,Lumbi,Student,10 Jan 1999
+1719,25081475,"Justine, Jeroth",M,Lumbi,Student,15 Apr 2000
+1720,160133387,"Kabenaki, Steven",M,Lumbi,Student,26 Jan 1997
+1721,160213256,"Kagua, Ipisa",M,Lumbi,Subsistence Farmer,01 Jan 1978
+1722,160133600,"Kalais, Moruis",M,Lumbi,Student,11 Feb 1998
+1723,160194209,"Kalando, Isaac",M,Lumbi,Student,06 Jul 1989
+1724,160193863,"Kalando, James",M,Lumbi,Subsistence Farmer,09 Jun 1967
+1725,160194054,"Kalando, Micheal",M,Lumbi,Subsistence Farmer,03 Sep 1954
+1726,160218846,"Kalasi, Moris",M,Lumbi,Subsistence Farmer,01 Jan 1985
+1727,160218845,"Kalasi, Ore",M,Lumbi,Subsistence Farmer,01 Jan 1982
+1728,160241959,"Kalibasi, Koke",M,Lumbi,Subsistence Farmer,11 Jan 1958
+1729,160199821,"Kambe, Daniel",M,Lumbi,Teacher,01 Jan 1976
+1730,160194198,"Kapi, Gabriel",M,Lumbi,Subsistence Farmer,09 Jul 1952
+1731,160139490,"Kapi, Junior",M,Lumbi,Sales Women,13 Jul 1997
+1732,160194044,"Kapi, Kapsie",M,Lumbi,Subsistence Farmer,06 May 1955
+1733,160194188,"Kapi, Moropsi",M,Lumbi,Subsistence Farmer,04 Mar 1969
+1734,160194039,"Kapi, Ondeyasi",M,Lumbi,Subsistence Farmer,07 Jul 1947
+1735,160193847,"Kapi, Pala",M,Lumbi,Subsistence Farmer,09 Mar 1986
+1736,160194052,"Kapi, Paul",M,Lumbi,Subsistence Farmer,09 Mar 1962
+1737,160194328,"Kapi, Reti",M,Lumbi,Subsistence Farmer,09 Mar 1982
+1738,160194206,"Kapi, Wesley",M,Lumbi,Subsistence Farmer,08 Jun 1966
+1739,160195959,"Kapo, Albert",M,Lumbi,Subsistence Farmer,01 Jan 1987
+1740,160195964,"Kapo, Samson",M,Lumbi,Subsistence Farmer,01 Jan 1988
+1741,160195947,"Kapo, Simon",M,Lumbi,Councillor,01 Jan 1979
+1742,160195762,"Kapo, Wila",M,Lumbi,Magistrate,01 Jan 1976
+1743,160194197,"Kapsie, John",M,Lumbi,Subsistence Farmer,07 Apr 1976
+1744,160237244,"Kapu, John",M,Lumbi,Subsistence Farmer,01 Jan 1970
+1745,160237590,"Kapu, Joseph",M,Lumbi,Subsistence Farmer,01 Jan 1978
+1746,160237243,"Kapu, Posu",M,Lumbi,Subsistence Farmer,15 Feb 1968
+1747,160155788,"Karangi, Kevin",M,Lumbi,Teacher,01 Jan 1975
+1748,160160191,"Karangi, Martin",M,Lumbi,Student,01 Jan 1979
+1749,160169414,"Karangi, Ombula",M,Lumbi,Student,01 Jan 1981
+1750,160159045,"Karangi, Pisa",M,Lumbi,Student,01 Jan 1980
+1751,160216048,"Karapus, David",M,Lumbi,Student,01 Jan 1986
+1752,160216053,"Karapus, Emmanuel",M,Lumbi,Student,01 Jan 1988
+1753,160215411,"Karapus, Kupu",M,Lumbi,Subsistence Farmer,01 Jan 1970
+1754,160215270,"Karapus, Kutu",M,Lumbi,Subsistence Farmer,01 Jan 1987
+1755,160215265,"Karapus, Tunu",M,Lumbi,Student,01 Jan 1983
+1756,160237548,"Karia, James",M,Lumbi,Subsistence Farmer,01 Jan 1964
+1757,160155974,"Karis, Ipisa",M,Lumbi,Subsistence Farmer,01 Jan 1986
+1758,160153653,"Karis, Ore",M,Lumbi,Subsistence Farmer,01 Jan 1985
+1759,160158824,"Karis, Pusi",M,Lumbi,Subsistence Farmer,01 Jan 1980
+1760,160187412,"Kenger, George",M,Lumbi,Student,01 Jan 1987
+1761,160187405,"Kenger, John",M,Lumbi,Mechanic,01 Jan 1974
+1762,25081498,"Kenger, Tokpol",M,Lumbi,Self Employed,16 May 1997
+1763,160217994,"Kenno, Daniel",M,Lumbi,Student,01 Jan 1983
+1764,160217990,"Kenno, Wilson",M,Lumbi,Subsistence Farmer,01 Jan 1974
+1765,25081512,"Keno, Sonowie",M,Lumbi,Teacher,07 Jun 1994
+1766,25081523,"Keno, Wilson",M,Lumbi,Subsistence Farmer,10 Aug 1979
+1767,25081529,"Keno, Yondo",M,Lumbi,Student,15 Mar 2000
+1768,160165291,"Kep, Michael",M,Lumbi,Pastor,01 Jan 1960
+1769,160155861,"Ker, Marin",M,Lumbi,Subsistence Farmer,13 Dec 1966
+1770,160160767,"Ker, Onea",M,Lumbi,Subsistence Farmer,16 Mar 1948
+1771,160155790,"Ker, Oro",M,Lumbi,Driver,01 Jan 1966
+1772,160187606,"Ker, Pondpis",M,Lumbi,Subsistence Farmer,03 Oct 1957
+1773,160218142,"Kereme, Pili",M,Lumbi,Subsistence Farmer,01 Jan 1982
+1774,160218576,"Keven, Kopi",M,Lumbi,Subsistence Farmer,01 Jan 1968
+1775,160438669,"Kevin, Rowi",M,Lumbi,Student,16 Jun 2002
+1776,160183099,"Kewa, Peter",M,Lumbi,Student,01 Jan 1983
+1777,160182886,"Kewa, Robert",M,Lumbi,Student,01 Jan 1985
+1778,160158956,"Kialape, Aron",M,Lumbi,Security,01 Jan 1964
+1779,160438659,"Kills, Nado",M,Lumbi,Student,22 Aug 2001
+1780,160235884,"Kills, Peso",M,Lumbi,Student,01 Jan 1991
+1781,160196270,"Kimbua, Pembinakisi",M,Lumbi,Subsistence Farmer,04 Mar 1944
+1782,160193809,"Kimusu, Alombo",M,Lumbi,Subsistence Farmer,06 Mar 1944
+1783,160189733,"Kipua, Charles",M,Lumbi,Subsistence Farmer,01 Jan 1939
+1784,160220453,"Kipua, Lorance",M,Lumbi,Student,01 Jan 1985
+1785,160220678,"Kipua, Paul",M,Lumbi,Student,01 Jan 1979
+1786,160133518,"Kiru, Denny",M,Lumbi,Student,13 Aug 1998
+1787,160133517,"Kiru, Justin",M,Lumbi,Student,23 May 1993
+1788,160218200,"Kiru, Rubbeen",M,Lumbi,Subsistence Farmer,01 Jan 1976
+1789,160180397,"Kiru, Wala",M,Lumbi,Subsistence Farmer,01 Jan 1969
+1790,160175870,"Kiru, Walepe",M,Lumbi,Subsistence Farmer,01 Jan 1976
+1791,160220522,"Kiru, Yano",M,Lumbi,Student,01 Jan 1984
+1792,160238580,"Koae, Nono",M,Lumbi,Subsistence Farmer,14 Mar 1969
+1793,160210546,"Koi, Nono",M,Lumbi,Subsistence Farmer,01 Jan 1976
+1794,160241973,"Koke, Samuel",M,Lumbi,Subsistence Farmer,13 Feb 1984
+1795,160235725,"Kolot, James",M,Lumbi,Student,01 Jan 1989
+1796,160235502,"Kolot, Joseph",M,Lumbi,Student,01 Jan 1987
+1797,160235503,"Kolot, Michael",M,Lumbi,Student,01 Jan 1990
+1798,160133533,"Komblenike, Negal",M,Lumbi,Student,29 Jul 1998
+1799,160187306,"Komenaki, Onge",M,Lumbi,Student,01 Jan 1986
+1800,160215732,"Komenaki, Pondoro",M,Lumbi,Student,01 Jan 1988
+1801,160215737,"Komenaki, Steven",M,Lumbi,Subsistence Farmer,01 Jan 1960
+1802,160139307,"Komisa, Yei",M,Lumbi,Subsistence Farmer,22 May 1969
+1803,160165256,"Kondun, Bepi",M,Lumbi,Subsistence Farmer,20 Jun 1974
+1804,160171784,"Kondun, Kot",M,Lumbi,Subsistence Farmer,30 Nov 1963
+1805,160160685,"Kondun, Stanley",M,Lumbi,Student,16 Feb 1990
+1806,160160654,"Kondun, Wasis",M,Lumbi,Student,21 Mar 1980
+1807,160438966,"Kongo, Clanton",M,Lumbi,Student,28 Apr 2004
+1808,25081533,"Kongo, Clinton",M,Lumbi,Student,03 Dec 2000
+1809,160196202,"Kongo, Hini",M,Lumbi,Student,01 Jan 1982
+1810,160185977,"Kongo, Kelly",M,Lumbi,Student,01 Jan 1987
+1811,160438952,"Kongo, Kingsly",M,Lumbi,Student,07 Jan 2004
+1812,160193761,"Kopi, James",M,Lumbi,Subsistence Farmer,01 Jan 1984
+1813,160216642,"Kopi, John",M,Lumbi,Subsistence Farmer,01 Jan 1979
+1814,160218146,"Kopi, Kolman",M,Lumbi,Student,01 Jan 1986
+1815,160217993,"Kopi, Reti",M,Lumbi,Student,01 Jan 1989
+1816,160193935,"Kopi, Simon",M,Lumbi,Subsistence Farmer,01 Jan 1982
+1817,160160686,"Kopkop, Tim",M,Lumbi,Subsistence Farmer,26 Apr 1934
+1818,160438665,"Kot, Daniel",M,Lumbi,Student,06 Apr 2001
+1819,25081549,"Kot, Jediah",M,Lumbi,Student,22 Jan 2003
+1820,25081557,"Kot elizah, Liaya",M,Lumbi,Manager,21 Sep 1984
+1821,160216676,"Kotpina, Septole",M,Lumbi,Subsistence Farmer,01 Jan 1978
+1822,160216674,"Kotpina, Wase",M,Lumbi,Subsistence Farmer,01 Jan 1978
+1823,160235994,"Kowi, Asapo",M,Lumbi,Household Duties,13 Aug 1972
+1824,160160699,"Kowi, Negeta",M,Lumbi,Subsistence Farmer,01 Jan 1978
+1825,160160170,"Kowi, Peter",M,Lumbi,Subsistence Farmer,01 Jan 1979
+1826,160167609,"Koyo boli, Jackson",M,Lumbi,Subsistence Farmer,01 Jan 1962
+1827,160236027,"Kuma, Alop",M,Lumbi,Pastor,01 Jan 1963
+1828,160195806,"Kumdi, Napo",M,Lumbi,Subsistence Farmer,01 Jan 1980
+1829,160195972,"Kumdi, Sumne",M,Lumbi,Teacher,01 Jan 1977
+1830,160196105,"Kumdi, William",M,Lumbi,Subsistence Farmer,01 Jan 1984
+1831,160218222,"Kuna, Kopeap",M,Lumbi,Subsistence Farmer,01 Jan 1969
+1832,160235730,"Kuna, Nopri",M,Lumbi,Subsistence Farmer,10 Dec 1972
+1833,160235998,"Kuna, Paul",M,Lumbi,Subsistence Farmer,09 Nov 1972
+1834,160187292,"Kunup, Molu",M,Lumbi,Subsistence Farmer,01 Jan 1951
+1835,160175729,"Kunup, Pamda",M,Lumbi,Subsistence Farmer,16 Mar 1954
+1836,160236053,"Kupu, Dickson",M,Lumbi,Subsistence Farmer,01 Jan 1989
+1837,160237014,"Kupu, Jackson",M,Lumbi,Subsistence Farmer,01 Jan 1983
+1838,160438729,"Kut, Filbert",M,Lumbi,Student,03 Mar 2002
+1839,160165399,"Laiya, Elizah",M,Lumbi,Banker,26 Mar 1972
+1840,160165246,"Laiya, Kas",M,Lumbi,Subsistence Farmer,04 Jan 1977
+1841,160165251,"Laiya, Tom",M,Lumbi,Mechanic,16 Mar 1980
+1842,160175965,"Landea, Meyonda",M,Lumbi,Subsistence Farmer,01 Jan 1963
+1843,160175969,"Landea, Pumi",M,Lumbi,Subsistence Farmer,01 Jan 1976
+1844,25081568,"Lapan, Apisolom",M,Lumbi,Student,28 Apr 2004
+1845,25081573,"Lapan, Bilton",M,Lumbi,Houseboy,11 Jul 1997
+1846,25081580,"Lapan, Ipson",M,Lumbi,Student,13 Dec 2000
+1847,160217979,"Lapoa, Cris",M,Lumbi,Subsistence Farmer,01 Jan 1961
+1848,160216641,"Lapoa, David",M,Lumbi,Subsistence Farmer,01 Jan 1967
+1849,160218150,"Lapoa, Don",M,Lumbi,Subsistence Farmer,01 Jan 1971
+1850,160218000,"Lapoa, Mali",M,Lumbi,Subsistence Farmer,01 Jan 1977
+1851,160216061,"Lapoa, Peter",M,Lumbi,Subsistence Farmer,01 Jan 1985
+1852,25081587,"Lapoa, Petrus",M,Lumbi,Subsistence Farmer,15 Jun 1974
+1853,160217992,"Lapoa, Prescily",M,Lumbi,Student,01 Jan 1987
+1854,160218156,"Lapoa, Timon",M,Lumbi,Student,01 Jan 1981
+1855,160218157,"Lapoa, Tiric",M,Lumbi,Subsistence Farmer,01 Jan 1983
+1856,160438869,"Lege, Winson",M,Lumbi,Student,28 Apr 2004
+1857,25087150,"Lekson, Ank",M,Lumbi,Self Employed,22 Jan 1981
+1858,160218358,"Leo, Aron",M,Lumbi,Student,01 Jan 1990
+1859,160153032,"Leon, Juda",M,Lumbi,Student,09 Sep 1990
+1860,160194329,"Leon, Samson",M,Lumbi,Student,03 Feb 1986
+1861,160194807,"Lernerth, Vinderles",M,Lumbi,Student,01 Jan 1981
+1862,160133585,"Liaya, Richard",M,Lumbi,Student,02 Aug 1995
+1863,160438950,"Liwa, Frank",M,Lumbi,Student,17 Mar 2004
+1864,160187046,"Liwa, Jacob",M,Lumbi,Student,01 Jan 1988
+1865,160438948,"Liwa, Malcom",M,Lumbi,Student,17 Feb 2004
+1866,160186962,"Liwa, Samuel",M,Lumbi,Student,01 Jan 1989
+1867,160191117,"Loean, Boby",M,Lumbi,Subsistence Farmer,01 Jan 1979
+1868,160194672,"Londiya, John",M,Lumbi,Subsistence Farmer,05 Jul 1944
+1869,160190892,"Lorance, Elton",M,Lumbi,Student,01 Jan 1990
+1870,160191274,"Lorance, Manuel",M,Lumbi,Student,01 Jan 1990
+1871,160191271,"Lorance, Solomon",M,Lumbi,Student,01 Jan 1984
+1872,160189822,"Luke, Daniel",M,Lumbi,Subsistence Farmer,01 Jan 1987
+1873,160438983,"Luke, Howard",M,Lumbi,Student,17 Feb 2004
+1874,160186963,"Luke, Kopeap",M,Lumbi,Subsistence Farmer,01 Jan 1970
+1875,160189991,"Luke, Leass",M,Lumbi,Student,01 Jan 1985
+1876,160186992,"Luke, Nelson",M,Lumbi,Student,01 Jan 1990
+1877,160189818,"Luke, Rotu",M,Lumbi,Student,01 Jan 1983
+1878,160175950,"Lun, Laiya",M,Lumbi,Subsistence Farmer,16 Jul 1931
+1879,160173374,"Luther, Born",M,Lumbi,Subsistence Farmer,01 Jan 1967
+1880,160237008,"Maip, Romenaki",M,Lumbi,Subsistence Farmer,01 Jan 1992
+1881,160237250,"Maipu, Hubert",M,Lumbi,Subsistence Farmer,09 Mar 1990
+1882,160237602,"Maipu, Joshua",M,Lumbi,Subsistence Farmer,19 Aug 1981
+1883,160241975,"Maipu, Lolly",M,Lumbi,Subsistence Farmer,18 Mar 1975
+1884,160237248,"Maipu, Luke",M,Lumbi,Subsistence Farmer,13 Sep 1968
+1885,160217768,"Maipu, Peter",M,Lumbi,Subsistence Farmer,01 Jan 1989
+1886,160219011,"Maipu, Reti",M,Lumbi,Subsistence Farmer,01 Jan 1970
+1887,160218832,"Maipu, Sama",M,Lumbi,Subsistence Farmer,01 Jan 1981
+1888,160218837,"Maipu, Samuel",M,Lumbi,Subsistence Farmer,09 Jan 1993
+1889,160215740,"Maka, Sopol",M,Lumbi,Subsistence Farmer,01 Jan 1940
+1890,160182475,"Maka j, Luke",M,Lumbi,Subsistence Farmer,01 Jan 1961
+1891,160439070,"Malacky, Iso",M,Lumbi,Student,08 Feb 2004
+1892,160162712,"Malaki, Ipisa",M,Lumbi,Subsistence Farmer,01 Jan 1981
+1893,25081619,"Malaki, Ipson",M,Lumbi,Student,19 Mar 2000
+1894,160197005,"Malaki, Joe",M,Lumbi,Subsistence Farmer,01 Jan 1948
+1895,160165737,"Malaki, Mathew martin",M,Lumbi,Subsistence Farmer,01 Jan 1984
+1896,160165746,"Malaki, Moses",M,Lumbi,Subsistence Farmer,01 Jan 1982
+1897,160218833,"Malaki, Piki",M,Lumbi,Subsistence Farmer,01 Jan 1938
+1898,160240318,"Malaki, Ruben",M,Lumbi,Household Duties,21 Jun 1985
+1899,160133542,"Mali, Dickson",M,Lumbi,Student,16 Feb 1999
+1900,160133543,"Mali, Ismael",M,Lumbi,Student,01 Jan 1998
+1901,160216202,"Malipa, Don",M,Lumbi,Student,01 Jan 1977
+1902,160215736,"Malipa, Peter",M,Lumbi,Student,01 Jan 1983
+1903,160216039,"Malipa, Victor",M,Lumbi,Student,01 Jan 1988
+1904,160182904,"Manaki, David",M,Lumbi,Subsistence Farmer,17 Feb 1958
+1905,160196330,"Manaki, James",M,Lumbi,Subsistence Farmer,01 Jan 1965
+1906,160187609,"Manaki, John",M,Lumbi,Subsistence Farmer,11 Nov 1951
+1907,160194410,"Manaki, Junior",M,Lumbi,Student,01 Jan 1987
+1908,160194794,"Mandanaki, Buka",M,Lumbi,Teacher,01 Jan 1968
+1909,160196196,"Mandawe, Nakale",M,Lumbi,Subsistence Farmer,01 Jan 1981
+1910,160196142,"Mandawe, Oropili",M,Lumbi,Subsistence Farmer,01 Jan 1980
+1911,160196281,"Mandawe, Steven",M,Lumbi,Subsistence Farmer,01 Jan 1967
+1912,160139493,"Mapame, Asiah",M,Lumbi,Sales Women,03 Apr 1994
+1913,160135846,"Mapame, Jerry",M,Lumbi,Sales Women,03 Sep 1990
+1914,160187950,"Mapi, John",M,Lumbi,Subsistence Farmer,01 Jan 1939
+1915,160187406,"Mapi, Paul",M,Lumbi,Subsistence Farmer,01 Jan 1937
+1916,160187397,"Mapi, Yer",M,Lumbi,Subsistence Farmer,01 Jan 1939
+1917,160213624,"Marin, Gordon",M,Lumbi,Student,16 Mar 1990
+1918,160135863,"Marin, Johnas",M,Lumbi,Sales Women,15 Mar 1998
+1919,160438968,"Marin, Jonas",M,Lumbi,Student,04 Jan 2004
+1920,25081633,"Mark, Ank",M,Lumbi,Subsistence Farmer,15 Aug 1979
+1921,160193921,"Mark, Regina",M,Lumbi,Household Duties,04 Apr 1948
+1922,160185897,"Martin, Jack",M,Lumbi,Student,01 Jan 1984
+1923,25081649,"Martin, Jeremy",M,Lumbi,Student,01 Nov 2000
+1924,160180758,"Martin, Samuel",M,Lumbi,Student,01 Jan 1986
+1925,160133508,"Matame, Norman",M,Lumbi,Student,21 Aug 1997
+1926,160238747,"Mathew, Blamy",M,Lumbi,Student,14 Jul 1988
+1927,160238748,"Mathew, Inock",M,Lumbi,Student,13 May 1993
+1928,160235500,"Mathew, Jerry",M,Lumbi,Student,01 Jan 1989
+1929,160133607,"Mathew, Moses",M,Lumbi,Student,20 Mar 1999
+1930,160438987,"Mathew, Simon",M,Lumbi,Student,16 May 2002
+1931,160236997,"Mathew, Timon",M,Lumbi,Student,12 Mar 1990
+1932,160438861,"Mathin, Jacob",M,Lumbi,Subsistence Farmer,03 Aug 1995
+1933,160438985,"Matthew, Inock",M,Lumbi,Student,03 Jun 2001
+1934,25081670,"Max, Ishmael",M,Lumbi,Subsistence Farmer,10 Oct 1942
+1935,160238570,"Max, Ismael",M,Lumbi,Student,09 Mar 1997
+1936,160237555,"Max, Jacob",M,Lumbi,Student,09 Jun 1998
+1937,160194632,"Mayo, Frank",M,Lumbi,Subsistence Farmer,01 Jan 1967
+1938,160169185,"Mea, Onge",M,Lumbi,Subsistence Farmer,01 Jan 1966
+1939,160194646,"Megea, Bara",M,Lumbi,Subsistence Farmer,04 Mar 1933
+1940,160195909,"Megea, Inipa",M,Lumbi,Subsistence Farmer,05 May 1935
+1941,160195763,"Megea, Kunis",M,Lumbi,Subsistence Farmer,06 Mar 1969
+1942,160135925,"Melbon, Junior",M,Lumbi,Student,26 Jul 1994
+1943,160155968,"Melbon olumb, Simon",M,Lumbi,Subsistence Farmer,03 Mar 1974
+1944,160438955,"Meonk, Michael",M,Lumbi,Student,29 Jan 2004
+1945,160191373,"Merpasi, Billy",M,Lumbi,Student,01 Jan 1981
+1946,160191149,"Merpasi, Ipsa",M,Lumbi,Teacher,01 Jan 1973
+1947,160190688,"Metame, Garry",M,Lumbi,Subsistence Farmer,01 Jan 1972
+1948,160189643,"Metame, Orepe",M,Lumbi,Subsistence Farmer,01 Jan 1985
+1949,160183223,"Meyong, David",M,Lumbi,Subsistence Farmer,01 Jan 1979
+1950,160185102,"Meyong, Eros",M,Lumbi,Carpenter,01 Jan 1957
+1951,160175953,"Meyong, Kuskus",M,Lumbi,Worker,01 Jan 1975
+1952,160183097,"Meyong, Nobert",M,Lumbi,Subsistence Farmer,01 Jan 1977
+1953,160183094,"Meyong, Robert",M,Lumbi,Student,01 Jan 1982
+1954,160194656,"Michael, Ferman",M,Lumbi,Subsistence Farmer,01 Jan 1974
+1955,160165293,"Michael, Jeff",M,Lumbi,Student,01 Jan 1988
+1956,160133399,"Michael, Joe",M,Lumbi,Teacher,30 Mar 1994
+1957,25081679,"Michael, Nicko",M,Lumbi,Subsistence Farmer,10 Oct 2003
+1958,160438741,"Michael, Resy",M,Lumbi,Student,06 Apr 1996
+1959,160194149,"Michael, Sande",M,Lumbi,Subsistence Farmer,01 Jan 1976
+1960,160185282,"Micheal, Danny",M,Lumbi,Student,01 Jan 1985
+1961,160213272,"Mindi, John",M,Lumbi,Subsistence Farmer,01 Jan 1985
+1962,160212669,"Mindi, Kella",M,Lumbi,Subsistence Farmer,01 Jan 1988
+1963,160213252,"Mindi, Paul",M,Lumbi,Subsistence Farmer,01 Jan 1981
+1964,160211143,"Mindi, Rex",M,Lumbi,Subsistence Farmer,01 Jan 1981
+1965,160211353,"Mindi, Sam",M,Lumbi,Subsistence Farmer,01 Jan 1979
+1966,160133557,"Misin, Uanis",M,Lumbi,Subsistence Farmer,28 Apr 1983
+1967,160190175,"Moga, Ben",M,Lumbi,Subsistence Farmer,01 Jan 1947
+1968,160191278,"Moga, Colman",M,Lumbi,Student,01 Jan 1989
+1969,160189738,"Moga, Metame",M,Lumbi,Subsistence Farmer,01 Jan 1935
+1970,160197101,"Moga, Samuel",M,Lumbi,Student,01 Jan 1976
+1971,160188262,"Moga, Tonny",M,Lumbi,Subsistence Farmer,01 Jan 1957
+1972,160216190,"Mokomne, Albert",M,Lumbi,Student,01 Jan 1982
+1973,25081692,"Mokomne, Alex",M,Lumbi,Self Employed,11 Mar 1985
+1974,160216013,"Mokomne, Alex",M,Lumbi,Security,01 Jan 1967
+1975,160216186,"Mokomne, Jack",M,Lumbi,Student,01 Jan 1983
+1976,160207975,"Mokomne, Joseph",M,Lumbi,Student,20 Apr 1983
+1977,160215409,"Mokomne, Moses",M,Lumbi,Student,01 Jan 1987
+1978,160215408,"Mokomne, Paias",M,Lumbi,Student,01 Jan 1987
+1979,160216197,"Mokomne, Paul",M,Lumbi,Student,01 Jan 1986
+1980,160216252,"Mokomne, Pone",M,Lumbi,Subsistence Farmer,01 Jan 1980
+1981,160215415,"Mokomne, Stanley",M,Lumbi,Student,01 Jan 1988
+1982,160213591,"Mokomne, Tonny",M,Lumbi,Student,20 Apr 1982
+1983,160216658,"Mokomne, Wilsen",M,Lumbi,Clerk,01 Jan 1971
+1984,160194414,"Molomolo, Peter",M,Lumbi,Teacher,01 Jan 1948
+1985,160235894,"Molosi, Okuane",M,Lumbi,Subsistence Farmer,01 Jan 1992
+1986,25081696,"Molu, Jackson",M,Lumbi,Carpenter,29 Jul 1990
+1987,25081702,"Molu, Karle",M,Lumbi,Subsistence Farmer,13 Mar 1986
+1988,160187298,"Molu, Karle",M,Lumbi,Student,01 Jan 1980
+1989,160241674,"Momoni, Dion david",M,Lumbi,Worker,01 Jan 1989
+1990,160241680,"Momoni, Eric david",M,Lumbi,Worker,01 Jan 1984
+1991,160241681,"Momoni, Holmes david",M,Lumbi,Subsistence Farmer,01 Jan 1976
+1992,160241685,"Momoni, Jnr perekeap",M,Lumbi,Student,01 Jan 1992
+1993,160219048,"Momoni, Nasson",M,Lumbi,Student,01 Jan 1987
+1994,160241682,"Momoni, Nathan david",M,Lumbi,Worker,01 Jan 1989
+1995,160219200,"Momoni, Onge",M,Lumbi,Subsistence Farmer,01 Jan 1970
+1996,160241698,"Momoni, Samson david",M,Lumbi,Student,01 Jan 1991
+1997,160240324,"Momoni, Stanley david",M,Lumbi,Teacher,01 Jan 1981
+1998,160241675,"Momoni, Warea david",M,Lumbi,Subsistence Farmer,01 Jan 1979
+1999,160241697,"Momoni, Wilfred david",M,Lumbi,Subsistence Farmer,01 Jan 1985
+2000,160241684,"Momoni, Wilson perekeap",M,Lumbi,Subsistence Farmer,01 Jan 1989
+2001,160194035,"Moropsi, Rendea",M,Lumbi,Subsistence Farmer,04 Mar 1967
+2002,160153029,"Moses, Albert",M,Lumbi,Student,05 Mar 1983
+2003,160160296,"Mowi, Kangure",M,Lumbi,Subsistence Farmer,01 Jan 1964
+2004,160198473,"Moya, Abol",M,Lumbi,Student,01 Jan 1985
+2005,160198966,"Moya, Alex",M,Lumbi,Worker,01 Jan 1959
+2006,160198484,"Moya, Andrew brice",M,Lumbi,Student,01 Jan 1983
+2007,160201330,"Moya, Benjamen",M,Lumbi,Subsistence Farmer,01 Jan 1958
+2008,160133630,"Moya, Benson",M,Lumbi,Student,26 Jul 1996
+2009,160201921,"Moya, Berry",M,Lumbi,Student,01 Jan 1986
+2010,160133504,"Moya, Birisi",M,Lumbi,Student,29 May 1995
+2011,160438810,"Moya, Birisi",M,Lumbi,Subsistence Farmer,06 Feb 2004
+2012,160177483,"Moya, Byran",M,Lumbi,Student,01 Jan 1985
+2013,160173325,"Moya, Cain",M,Lumbi,Student,01 Jan 1986
+2014,160199119,"Moya, Charles",M,Lumbi,Subsistence Farmer,01 Jan 1973
+2015,160198895,"Moya, Demien alex",M,Lumbi,Student,01 Jan 1981
+2016,160201058,"Moya, Emos ben",M,Lumbi,Student,01 Jan 1982
+2017,160173328,"Moya, George brice",M,Lumbi,Pastor,01 Jan 1973
+2018,160177504,"Moya, Gorden",M,Lumbi,Student,01 Jan 1980
+2019,160201456,"Moya, Jacob",M,Lumbi,Subsistence Farmer,01 Jan 1979
+2020,160133629,"Moya, Jerry",M,Lumbi,Student,13 Mar 1998
+2021,160218562,"Moya, Jerry",M,Lumbi,Student,01 Jan 1987
+2022,160201455,"Moya, John brice",M,Lumbi,Student,01 Jan 1974
+2023,160139350,"Moya, Makency",M,Lumbi,Student,27 Aug 1996
+2024,160177375,"Moya, Malaki puri",M,Lumbi,Subsistence Farmer,01 Jan 1941
+2025,160198902,"Moya, Malcom simon",M,Lumbi,Student,01 Jan 1987
+2026,160133506,"Moya, Mickdom",M,Lumbi,Student,09 Jun 1998
+2027,160177372,"Moya, Noah",M,Lumbi,Student,01 Jan 1984
+2028,160177373,"Moya, Nowi",M,Lumbi,Subsistence Farmer,01 Jan 1986
+2029,160438903,"Moya, Papua",M,Lumbi,Student,06 Apr 2002
+2030,160201912,"Moya, Philip",M,Lumbi,Worker,01 Jan 1959
+2031,160139326,"Moya, Philmon",M,Lumbi,Student,26 Nov 1992
+2032,160198496,"Moya, Samson",M,Lumbi,Student,01 Jan 1986
+2033,160199128,"Moya, Sebastin",M,Lumbi,Student,01 Jan 1987
+2034,160198899,"Moya, Simon puri",M,Lumbi,Worker,01 Jan 1967
+2035,160198486,"Moya, Steven brice",M,Lumbi,Student,01 Jan 1984
+2036,160199117,"Moya, Terence kopea",M,Lumbi,Subsistence Farmer,01 Jan 1968
+2037,160199126,"Moya, Topu",M,Lumbi,Subsistence Farmer,01 Jan 1970
+2038,160196313,"Moya, William ben",M,Lumbi,Student,01 Jan 1983
+2039,160173221,"Mudia, Lumbisi",M,Lumbi,Subsistence Farmer,01 Jan 1978
+2040,160167532,"Mudia, Malaki",M,Lumbi,Subsistence Farmer,01 Jan 1976
+2041,160165724,"Mudia, Tunu",M,Lumbi,Subsistence Farmer,01 Jan 1981
+2042,160155781,"Mue, Pusa",M,Lumbi,Subsistence Farmer,09 Mar 1933
+2043,160169226,"Munga, Talpapu",M,Lumbi,Subsistence Farmer,01 Jan 1955
+2044,160211368,"Naiknaik, Fred",M,Lumbi,Student,17 Mar 1981
+2045,160133575,"Naiknaik, Himson",M,Lumbi,Student,20 Nov 1997
+2046,160212511,"Naiknaik, Irea naik",M,Lumbi,Subsistence Farmer,21 Dec 1940
+2047,160212572,"Naiknaik, Nick",M,Lumbi,Student,13 Apr 1989
+2048,160217618,"Naki, Kela",M,Lumbi,Subsistence Farmer,01 Jan 1989
+2049,160438709,"Nakisi, Aglo",M,Lumbi,Subsistence Farmer,05 Apr 1999
+2050,160438700,"Nakisi, Gima",M,Lumbi,Subsistence Farmer,03 May 2000
+2051,160236012,"Nakisi, Godfrey",M,Lumbi,Subsistence Farmer,01 Jan 1982
+2052,160438699,"Nakisi, Tonol",M,Lumbi,Student,06 Jun 2003
+2053,160135940,"Naksi, Gima",M,Lumbi,Sales Women,16 Dec 1998
+2054,160236042,"Nande, William",M,Lumbi,Driver,01 Jan 1978
+2055,160135864,"Nando, Luke",M,Lumbi,Sales Women,15 Mar 1997
+2056,160173796,"Nano, Exodus ieta",M,Lumbi,Subsistence Farmer,01 Jan 1979
+2057,160180304,"Nano, Sula",M,Lumbi,Subsistence Farmer,01 Jan 1976
+2058,25081722,"Nathan, Anisu",M,Lumbi,Student,21 Dec 2000
+2059,160237547,"Nathaniel, Joshua",M,Lumbi,Student,01 Jan 1990
+2060,160160706,"Negeta, Lorence",M,Lumbi,Subsistence Farmer,01 Jan 1982
+2061,160133553,"Negeta, Norman",M,Lumbi,Student,27 Feb 1997
+2062,160237560,"Negeta, Norman",M,Lumbi,Subsistence Farmer,04 Nov 1992
+2063,160160713,"Negeta, Ugia",M,Lumbi,Subsistence Farmer,01 Jan 1983
+2064,160160776,"Neit, Senis",M,Lumbi,Subsistence Farmer,01 Jan 1969
+2065,160210342,"Nelson, Bobby",M,Lumbi,Student,07 Dec 1989
+2066,25081727,"Nelson, Landy",M,Lumbi,Subsistence Farmer,06 Mar 1984
+2067,160165692,"Nelson, Mark",M,Lumbi,Student,21 Apr 1986
+2068,25081738,"Nelson, Max",M,Lumbi,Subsistence Farmer,18 Jun 1990
+2069,160210548,"Nelson, Mchenzie",M,Lumbi,Student,11 Jun 1988
+2070,25081744,"Nelson, Norman",M,Lumbi,Subsistence Farmer,26 Oct 1989
+2071,25081751,"Nelson, Pepo",M,Lumbi,Student,28 Apr 2004
+2072,160210307,"Nelson, Philemon",M,Lumbi,Student,19 Sep 1984
+2073,25081757,"Nelson, Ritchie",M,Lumbi,Student,31 Jan 1992
+2074,160171743,"Nemo, Gibson",M,Lumbi,Foreman,01 Jan 1962
+2075,160194202,"Nenage, Jacob",M,Lumbi,Subsistence Farmer,09 Apr 1932
+2076,160194314,"Nenage, Leon",M,Lumbi,Subsistence Farmer,04 Mar 1949
+2077,160218121,"Nett, Ima",M,Lumbi,Subsistence Farmer,01 Jan 1933
+2078,160139369,"Nime, William",M,Lumbi,Teacher,18 Jun 1990
+2079,160439018,"Noah, Bensy",M,Lumbi,Student,07 Mar 2004
+2080,160439020,"Noah, Nelson",M,Lumbi,Student,16 Mar 1999
+2081,160439027,"Noah, Wilson",M,Lumbi,Student,09 Feb 2004
+2082,160218953,"Nole, Wisu",M,Lumbi,Subsistence Farmer,01 Jan 1983
+2083,160241997,"Nole wisu, Willy",M,Lumbi,Subsistence Farmer,01 Jan 1993
+2084,160218843,"Nole wisu, Yapi",M,Lumbi,Student,01 Jan 1986
+2085,160193719,"Nomo, James",M,Lumbi,Subsistence Farmer,01 Jan 1967
+2086,160139319,"Nomo, Jerry",M,Lumbi,Student,07 Feb 1998
+2087,160160301,"Nomo, Paina",M,Lumbi,Subsistence Farmer,01 Jan 1965
+2088,160210309,"Nono, Benson",M,Lumbi,Subsistence Farmer,01 Jan 1978
+2089,160207972,"Nono, Easta",M,Lumbi,Subsistence Farmer,01 Jan 1988
+2090,160216667,"Nono, Mone",M,Lumbi,Subsistence Farmer,01 Jan 1965
+2091,160218139,"Nosum, Misin",M,Lumbi,Subsistence Farmer,01 Jan 1983
+2092,160218148,"Nosum, Timothy",M,Lumbi,Student,01 Jan 1988
+2093,160196338,"Nuseleam, Eric",M,Lumbi,Subsistence Farmer,01 Jan 1962
+2094,160194409,"Nuseleam, Patric",M,Lumbi,Teacher,01 Jan 1954
+2095,160133527,"Okane, Derick",M,Lumbi,Student,28 Jan 1996
+2096,160194038,"Okane, Derick",M,Lumbi,Student,08 Aug 1987
+2097,160194307,"Okane, Embros",M,Lumbi,Magistrate,09 May 1950
+2098,160194212,"Okane, Gime",M,Lumbi,Student,08 Aug 1987
+2099,160133521,"Okane, Gorden",M,Lumbi,Student,23 Jul 1996
+2100,160133529,"Okane, Gugu",M,Lumbi,Student,13 Dec 1996
+2101,160133522,"Okane, Isiah",M,Lumbi,Student,19 Nov 1998
+2102,160139354,"Okane, Jalcon",M,Lumbi,Student,15 Jun 1995
+2103,160139353,"Okane, Kepo",M,Lumbi,Student,25 Aug 1992
+2104,160133530,"Okane, Kutu",M,Lumbi,Subsistence Farmer,17 Nov 1986
+2105,160133526,"Okane, Pembilus",M,Lumbi,Student,14 Nov 1998
+2106,160133523,"Okene, Rena",M,Lumbi,Student,29 Dec 1991
+2107,160196987,"Oko, Gapi",M,Lumbi,Subsistence Farmer,01 Jan 1976
+2108,160176136,"Olap, Mathew",M,Lumbi,Subsistence Farmer,11 Feb 1967
+2109,160155978,"Olua, Amos",M,Lumbi,Clerk,01 Jan 1955
+2110,160158838,"Olua, Karangi",M,Lumbi,Subsistence Farmer,01 Jan 1950
+2111,160153635,"Olumb, George",M,Lumbi,Student,05 Apr 1987
+2112,160162735,"Olumb, John",M,Lumbi,Subsistence Farmer,03 Jun 1937
+2113,160155948,"Olumb, Kuku",M,Lumbi,Subsistence Farmer,08 Jul 1943
+2114,160197149,"Olumb, Sumne",M,Lumbi,Subsistence Farmer,05 Jul 1946
+2115,160196996,"Olumb, Timon",M,Lumbi,Subsistence Farmer,04 Mar 1977
+2116,160241964,"Olumbi, Iti",M,Lumbi,Subsistence Farmer,06 Mar 1953
+2117,160241974,"Olumbi, Kela",M,Lumbi,Subsistence Farmer,13 Jan 1991
+2118,160237595,"Olumbi, Tunu",M,Lumbi,Subsistence Farmer,11 Oct 1994
+2119,160193759,"Ombalo, Joseph",M,Lumbi,Teacher,09 Mar 1967
+2120,160193936,"Ombalo, Kira",M,Lumbi,Subsistence Farmer,07 Jul 1977
+2121,160193770,"Ombalo, Peter",M,Lumbi,Student,10 Sep 1982
+2122,160135837,"Omena, David",M,Lumbi,Driver,26 Aug 1991
+2123,160173809,"Omul, Kopiap",M,Lumbi,Subsistence Farmer,01 Jan 1972
+2124,160190692,"Onarop, Philip",M,Lumbi,Subsistence Farmer,01 Jan 1938
+2125,160438801,"Onde, Daniel",M,Lumbi,Subsistence Farmer,08 Jan 2004
+2126,160194324,"Onde, Randa",M,Lumbi,Student,03 Sep 1978
+2127,160439064,"Onde, Serak",M,Lumbi,Student,30 Jan 2004
+2128,160194032,"Onde, Simon",M,Lumbi,Household Duties,04 May 1981
+2129,160438739,"Ondex, Manu",M,Lumbi,Student,02 Mar 2004
+2130,160135844,"Ondex, Narson",M,Lumbi,Sales Women,20 Feb 1993
+2131,160167633,"Onea, Wisu",M,Lumbi,Student,27 Mar 1990
+2132,160155852,"Onea, Yara",M,Lumbi,Student,25 Nov 1981
+2133,160156068,"Onge, Asaro",M,Lumbi,Subsistence Farmer,01 Jan 1958
+2134,160196393,"Onge, Martin",M,Lumbi,Crewman,01 Jan 1965
+2135,160235724,"Onge, Paul",M,Lumbi,Student,01 Jan 1994
+2136,160160769,"Ore, Mark",M,Lumbi,Subsistence Farmer,01 Jan 1966
+2137,160165835,"Oro, Jackson",M,Lumbi,Student,24 Feb 1990
+2138,160135860,"Oro, Job",M,Lumbi,Student,09 Jul 1998
+2139,160135861,"Oro, Johnson",M,Lumbi,Sales Women,12 Dec 1997
+2140,160196173,"Oro, Nickson",M,Lumbi,Subsistence Farmer,01 Jan 1969
+2141,160195715,"Oro, Richard",M,Lumbi,Subsistence Farmer,01 Jan 1958
+2142,25081782,"Ospea, Stanley",M,Lumbi,Student,07 Nov 1993
+2143,160237004,"Otte, Junior",M,Lumbi,Teacher,24 Oct 1989
+2144,160240322,"Otte, Mathew",M,Lumbi,Student,15 Jun 1990
+2145,160239128,"Otte, Steven",M,Lumbi,Student,03 Jan 1993
+2146,160195980,"Paina, Pima",M,Lumbi,Subsistence Farmer,01 Jan 1980
+2147,160196160,"Palima, Kongo",M,Lumbi,Bricklayer,01 Jan 1977
+2148,160139368,"Pamda, Rodney",M,Lumbi,Student,14 Sep 1996
+2149,160213379,"Pamda, Sakari",M,Lumbi,Student,02 Nov 1987
+2150,160194630,"Pape, Doksa",M,Lumbi,Subsistence Farmer,01 Jan 1963
+2151,160197112,"Pape, Nepi",M,Lumbi,Subsistence Farmer,01 Jan 1978
+2152,160197216,"Pape, Paul kup",M,Lumbi,Subsistence Farmer,01 Jan 1965
+2153,25081792,"Pape, Peter",M,Lumbi,Public Servant,21 Sep 1953
+2154,160235723,"Pape, Rale",M,Lumbi,Subsistence Farmer,01 Jan 1977
+2155,160235501,"Pape, Robin",M,Lumbi,Household Duties,01 Jan 1990
+2156,25081796,"Pape, Steven",M,Lumbi,Subsistence Farmer,12 Dec 1959
+2157,160198509,"Pape, Walter",M,Lumbi,Teacher,01 Jan 1949
+2158,160133400,"Papola, Wesely",M,Lumbi,Teacher,21 Jun 1991
+2159,160235726,"Papu, Nande",M,Lumbi,Subsistence Farmer,01 Jan 1975
+2160,160188109,"Papu, Reti",M,Lumbi,Subsistence Farmer,01 Jan 1985
+2161,160135955,"Papunande, Maria",M,Lumbi,Sales Women,06 Jun 1997
+2162,160438959,"Paraka, Leward",M,Lumbi,Student,27 Jan 2004
+2163,160212755,"Paraka, Muli",M,Lumbi,Student,14 Mar 1984
+2164,160438961,"Paraka, Sammy",M,Lumbi,Student,08 Feb 2004
+2165,160165834,"Pasta, Paulsipas",M,Lumbi,Pastor,01 Jan 1980
+2166,160240321,"Pastor, Gideon",M,Lumbi,Pastor,13 Sep 1976
+2167,160169280,"Pat, Alkutu",M,Lumbi,Subsistence Farmer,01 Jan 1987
+2168,160165772,"Pat, Alo",M,Lumbi,Subsistence Farmer,01 Jan 1977
+2169,160165757,"Pat, Jacob",M,Lumbi,Security,01 Jan 1966
+2170,160184961,"Pat, John",M,Lumbi,Subsistence Farmer,01 Jan 1967
+2171,160155875,"Pat, Kolot",M,Lumbi,Subsistence Farmer,01 Jan 1950
+2172,160187614,"Pat, Nomo",M,Lumbi,Subsistence Farmer,01 Jan 1975
+2173,160183001,"Pat, Papenaiki",M,Lumbi,Subsistence Farmer,01 Jan 1968
+2174,160183004,"Pat, Paul",M,Lumbi,Subsistence Farmer,01 Jan 1970
+2175,160165752,"Pat, Peterwane",M,Lumbi,Subsistence Farmer,01 Jan 1966
+2176,160187641,"Pat, Pope",M,Lumbi,Subsistence Farmer,01 Jan 1977
+2177,160187643,"Pat, Ringini",M,Lumbi,Subsistence Farmer,01 Jan 1979
+2178,160187956,"Pat, Sika",M,Lumbi,Subsistence Farmer,01 Jan 1970
+2179,160165638,"Pat, Wendo",M,Lumbi,Subsistence Farmer,01 Jan 1962
+2180,160133599,"Patap, Beleke",M,Lumbi,Subsistence Farmer,22 Mar 1998
+2181,160133598,"Patap, Kuna",M,Lumbi,Subsistence Farmer,22 Mar 1997
+2182,160190706,"Patric, Paddy",M,Lumbi,Student,01 Jan 1983
+2183,160196336,"Patric, Solo",M,Lumbi,Student,01 Jan 1989
+2184,160438756,"Patrick, Absolom",M,Lumbi,Student,02 Mar 1993
+2185,160438755,"Patrick, Ipson",M,Lumbi,Student,30 Nov 1998
+2186,160133406,"Patrick, Iso",M,Lumbi,Student,23 Jun 1993
+2187,160438671,"Paul, Adnold",M,Lumbi,Subsistence Farmer,19 Mar 2000
+2188,160438672,"Paul, Bex",M,Lumbi,Subsistence Farmer,06 Jun 2000
+2189,160438880,"Paul, Jarot",M,Lumbi,Subsistence Farmer,04 Feb 2004
+2190,25081805,"Paul, Kundi",M,Lumbi,Carpenter,13 Jan 1979
+2191,160438877,"Paul, Nama",M,Lumbi,Subsistence Farmer,01 Apr 2004
+2192,160195815,"Paul, Nando",M,Lumbi,Subsistence Farmer,01 Jan 1982
+2193,160196770,"Paul, Nelson",M,Lumbi,Subsistence Farmer,01 Jan 1986
+2194,160438688,"Paul, Sedrick",M,Lumbi,Student,04 Aug 1998
+2195,160438732,"Paul, Semion",M,Lumbi,Student,03 Jul 2003
+2196,160135926,"Pawi, Gidion",M,Lumbi,Pastor,28 Oct 1976
+2197,160193920,"Pawo, Mark",M,Lumbi,Subsistence Farmer,08 Jul 1943
+2198,160196278,"Pembinakisi, Moria",M,Lumbi,Student,03 Apr 1989
+2199,160196257,"Pembinakisi, Sapon",M,Lumbi,Student,04 Mar 1984
+2200,160196218,"Pembiya, Nande",M,Lumbi,Student,07 Aug 1989
+2201,160197040,"Pembiya, Stanley",M,Lumbi,Subsistence Farmer,08 Mar 1964
+2202,160438843,"Pemia, Simon",M,Lumbi,Teacher,25 Mar 1989
+2203,160133620,"Pemo, Noel",M,Lumbi,Student,04 Oct 1998
+2204,160209779,"Pena, Newman",M,Lumbi,Student,15 Aug 1990
+2205,160197132,"Pereke, Pereke",M,Lumbi,Pastor,01 Jan 1953
+2206,160197051,"Pereke, Reti",M,Lumbi,Subsistence Farmer,01 Jan 1981
+2207,160182888,"Perekiap, Koi",M,Lumbi,Subsistence Farmer,01 Jan 1980
+2208,160182913,"Perekiap, Lasman",M,Lumbi,Student,01 Jan 1984
+2209,160175957,"Perekiap, Mali",M,Lumbi,Subsistence Farmer,01 Jan 1968
+2210,160182890,"Perekiap, Posu",M,Lumbi,Student,01 Jan 1982
+2211,160182891,"Perekiap, Retti",M,Lumbi,Subsistence Farmer,01 Jan 1989
+2212,160175961,"Perekiap, Rex",M,Lumbi,Subsistence Farmer,01 Jan 1979
+2213,160183103,"Perekiap, Runi",M,Lumbi,Subsistence Farmer,01 Jan 1981
+2214,160175964,"Perekiap, Wisu",M,Lumbi,Subsistence Farmer,01 Jan 1979
+2215,160438686,"Perere, Posu",M,Lumbi,Student,06 Jul 2002
+2216,25081895,"Pesi, Iso",M,Lumbi,Student,11 Oct 2003
+2217,160187059,"Peso, Soti",M,Lumbi,Student,27 Mar 1988
+2218,160182753,"Pesopar, Iroke",M,Lumbi,Subsistence Farmer,29 Oct 1949
+2219,160219038,"Petapo, Beleke",M,Lumbi,Subsistence Farmer,01 Jan 1942
+2220,160220445,"Petapo, Kuna",M,Lumbi,Subsistence Farmer,01 Jan 1941
+2221,25081902,"Peter, David",M,Lumbi,Self Employed,10 Apr 2000
+2222,25081908,"Peter, Edwin",M,Lumbi,Subsistence Farmer,09 Oct 1998
+2223,160156095,"Peter, Kepi",M,Lumbi,Subsistence Farmer,01 Jan 1980
+2224,160196786,"Peter, Nowel",M,Lumbi,Student,05 May 1989
+2225,25081923,"Peter, Wari",M,Lumbi,Subsistence Farmer,15 May 1997
+2226,25081930,"Peter pape, Francis",M,Lumbi,Public Servant,28 Oct 1965
+2227,25081942,"Peter te, Samuel",M,Lumbi,Student,12 Dec 2000
+2228,160165144,"Peyowa, Onge",M,Lumbi,Security,01 Jan 1964
+2229,160189827,"Pheilu, Raymond",M,Lumbi,Worker,01 Jan 1964
+2230,160218555,"Phielu, Bleme",M,Lumbi,Student,01 Jan 1982
+2231,160218825,"Phielu, Ferman",M,Lumbi,Student,01 Jan 1983
+2232,160199113,"Philimon, Yasi moya",M,Lumbi,Student,01 Jan 1981
+2233,160190697,"Philip, Ipisa",M,Lumbi,Student,01 Jan 1982
+2234,160190562,"Philip, Luke",M,Lumbi,Student,01 Jan 1980
+2235,160438778,"Philip, Melcideck",M,Lumbi,Student,08 Sep 2003
+2236,160438808,"Philip, Nathan",M,Lumbi,Student,05 Mar 2001
+2237,160438809,"Philip, Stanford",M,Lumbi,Student,08 Feb 2004
+2238,160438760,"Philip, Steve",M,Lumbi,Student,03 Apr 2004
+2239,160133404,"Philip, Steward",M,Lumbi,Student,18 Jul 1998
+2240,160216062,"Pie, Kotpina",M,Lumbi,Subsistence Farmer,01 Jan 1936
+2241,160195811,"Pima, Etepa",M,Lumbi,Student,01 Jan 1982
+2242,160195982,"Pima, Regina",M,Lumbi,Subsistence Farmer,01 Jan 1980
+2243,160167528,"Pima, Standely",M,Lumbi,Student,01 Jan 1988
+2244,160165397,"Pipi, Kila",M,Lumbi,Subsistence Farmer,01 Jan 1975
+2245,160184972,"Pira, Pipi",M,Lumbi,Subsistence Farmer,01 Jan 1955
+2246,160159088,"Pokea, Keisi",M,Lumbi,Subsistence Farmer,01 Jan 1946
+2247,160213245,"Pokea, Mindi",M,Lumbi,Subsistence Farmer,01 Jan 1975
+2248,160139312,"Pokea, Paul",M,Lumbi,Subsistence Farmer,11 Feb 1998
+2249,160212566,"Pokea, Timothy",M,Lumbi,Subsistence Farmer,01 Jan 1976
+2250,160188114,"Poluwa, Rombua",M,Lumbi,Subsistence Farmer,01 Jan 1936
+2251,160195707,"Pomipiri, Kumdi",M,Lumbi,Subsistence Farmer,01 Jan 1940
+2252,160156085,"Pora, Bembo",M,Lumbi,Subsistence Farmer,01 Jan 1979
+2253,160158826,"Pora, Bepiyart",M,Lumbi,Subsistence Farmer,01 Jan 1980
+2254,160196483,"Pora, Byran",M,Lumbi,Subsistence Farmer,09 Aug 1964
+2255,160153636,"Pora, Elia",M,Lumbi,Subsistence Farmer,01 Jan 1984
+2256,160159077,"Pora, Kaganaki",M,Lumbi,Subsistence Farmer,01 Jan 1986
+2257,160197123,"Pora, Malaka",M,Lumbi,Student,04 Apr 1983
+2258,160153579,"Pora, Oati",M,Lumbi,Subsistence Farmer,08 Mar 1977
+2259,160198348,"Pora, Solomon",M,Lumbi,Student,05 Feb 1981
+2260,160197125,"Pora, Wanie",M,Lumbi,Student,09 Aug 1986
+2261,160193818,"Puka, Torea",M,Lumbi,Subsistence Farmer,01 Jan 1976
+2262,160194148,"Pulumo, Dickson",M,Lumbi,Subsistence Farmer,01 Jan 1980
+2263,160159069,"Pulup, Jack",M,Lumbi,Subsistence Farmer,04 Apr 1986
+2264,160236055,"Pulup, Papu",M,Lumbi,Subsistence Farmer,01 Jan 1970
+2265,160153640,"Pulup, Samuel",M,Lumbi,Secretary,09 Mar 1956
+2266,160155820,"Pulup, Sierol",M,Lumbi,Subsistence Farmer,03 Apr 1958
+2267,160215405,"Pundral, Elizah",M,Lumbi,Subsistence Farmer,01 Jan 1981
+2268,160216230,"Pundral, Reti",M,Lumbi,Student,01 Jan 1988
+2269,160162896,"Punu, Frank",M,Lumbi,Subsistence Farmer,01 Jan 1969
+2270,160198437,"Pusa, Simon",M,Lumbi,Teacher,04 Mar 1975
+2271,160211346,"Puyu, Anisu",M,Lumbi,Subsistence Farmer,19 May 1937
+2272,160438761,"Ramon, Hetmon",M,Lumbi,Student,04 Nov 2002
+2273,160438812,"Ramond, Desmond",M,Lumbi,Student,03 Dec 2002
+2274,160175736,"Randeap, Boli",M,Lumbi,Subsistence Farmer,01 Jan 1937
+2275,160236015,"Range, Daniel",M,Lumbi,Student,01 Jan 1989
+2276,160194302,"Range, Isaac",M,Lumbi,Subsistence Farmer,01 Jan 1978
+2277,160236014,"Range, Luke",M,Lumbi,Subsistence Farmer,01 Jan 1990
+2278,160194146,"Range, Oro",M,Lumbi,Subsistence Farmer,01 Jan 1982
+2279,160241965,"Rani, Onge",M,Lumbi,Subsistence Farmer,16 Mar 1970
+2280,160182637,"Rapa, Olap",M,Lumbi,Subsistence Farmer,01 Jun 1900
+2281,160173360,"Rapa, Timba",M,Lumbi,Subsistence Farmer,24 Nov 1967
+2282,160438892,"Rati, Johnson",M,Lumbi,Subsistence Farmer,02 Apr 2004
+2283,160438931,"Rayo, Simon",M,Lumbi,Student,05 Nov 2002
+2284,160167757,"Rebeka, Albert",M,Lumbi,Subsistence Farmer,01 Jan 1976
+2285,160139482,"Rehela, Nathan",M,Lumbi,Subsistence Farmer,15 Jul 1992
+2286,160135838,"Rehela, Robin",M,Lumbi,Subsistence Farmer,30 Jul 1988
+2287,160216246,"Rekelia, Werit",M,Lumbi,Subsistence Farmer,01 Jan 1931
+2288,160237593,"Rekipua, Smokie",M,Lumbi,Subsistence Farmer,01 Jan 1983
+2289,160237591,"Rema, Naiksolu",M,Lumbi,Subsistence Farmer,01 Jan 1934
+2290,160235890,"Rema, Naprundy",M,Lumbi,Subsistence Farmer,01 Jan 1971
+2291,160241988,"Remi, Isambe sakele",M,Lumbi,Subsistence Farmer,01 Jan 1954
+2292,160241998,"Remi, Steven isambe",M,Lumbi,Subsistence Farmer,01 Jan 1968
+2293,160217978,"Remi kambenaki, Isambe",M,Lumbi,Subsistence Farmer,01 Jan 1943
+2294,160237240,"Repo, Gerry",M,Lumbi,Household Duties,10 Dec 1935
+2295,160237586,"Repo, Kapu",M,Lumbi,Subsistence Farmer,13 Nov 1996
+2296,160241977,"Repo, Kela",M,Lumbi,Subsistence Farmer,13 Jun 1930
+2297,160237587,"Repo, Pius",M,Lumbi,Subsistence Farmer,12 Mar 1996
+2298,160193830,"Repyas, Peter",M,Lumbi,Subsistence Farmer,04 Apr 1949
+2299,160193834,"Repyas, Simon",M,Lumbi,Subsistence Farmer,09 Aug 1982
+2300,160193833,"Repyas, Timothy",M,Lumbi,Subsistence Farmer,06 Mar 1980
+2301,25081981,"Riande, Solo",M,Lumbi,Subsistence Farmer,11 Feb 1980
+2302,160238759,"Riape, Inock",M,Lumbi,Student,18 Aug 1989
+2303,25081987,"Riape, Moli",M,Lumbi,Student,13 Jun 2000
+2304,160173207,"Riape, Solomon",M,Lumbi,Student,01 Jan 1984
+2305,160218561,"Riripia, Yako",M,Lumbi,Subsistence Farmer,01 Jan 1937
+2306,160184969,"Roke, Kongo",M,Lumbi,Worker,01 Jan 1954
+2307,160196785,"Roku, Dowa",M,Lumbi,Student,01 Jan 1986
+2308,160438693,"Roku, Iso",M,Lumbi,Student,08 Apr 2004
+2309,160237645,"Roku, Mari",M,Lumbi,Student,01 Jan 1994
+2310,160438694,"Roku, Peter",M,Lumbi,Subsistence Farmer,11 May 2003
+2311,160196247,"Roku, Rama",M,Lumbi,Subsistence Farmer,01 Jan 1952
+2312,160218573,"Rom, Thomas",M,Lumbi,Subsistence Farmer,01 Jan 1952
+2313,160182478,"Rombua, Binowi",M,Lumbi,Subsistence Farmer,01 Jan 1970
+2314,160196127,"Rombua, Solomon",M,Lumbi,Subsistence Farmer,01 Jan 1959
+2315,160187042,"Rombua, Warren",M,Lumbi,Subsistence Farmer,01 Jan 1959
+2316,160133547,"Rome, Kabenaki",M,Lumbi,Subsistence Farmer,27 Jun 1996
+2317,160438857,"Rome, Yali",M,Lumbi,Subsistence Farmer,04 Jun 1997
+2318,160186991,"Rome sakele, Martin",M,Lumbi,Subsistence Farmer,01 Jan 1958
+2319,160158912,"Rotu, Mathew",M,Lumbi,Subsistence Farmer,01 Jan 1954
+2320,160239126,"Rowe, Bruno",M,Lumbi,Student,12 Dec 1992
+2321,160135831,"Rowi, Bio",M,Lumbi,Student,19 Mar 1999
+2322,160217612,"Rowi, Fedilis",M,Lumbi,Student,01 Jan 1980
+2323,160195991,"Rowi, Lernerth",M,Lumbi,Security,01 Jan 1979
+2324,160218848,"Rowi, Yama lenet",M,Lumbi,Worker,01 Jan 1945
+2325,160438798,"Ruben, Heki",M,Lumbi,Student,09 Mar 2003
+2326,160438797,"Ruben, Josiah",M,Lumbi,Student,09 Feb 2002
+2327,25082005,"Rubim, Apli",M,Lumbi,Public Servant,20 Dec 1979
+2328,160133564,"Rudaf, Samuel",M,Lumbi,Subsistence Farmer,20 May 1980
+2329,160156087,"Ruma, Amos",M,Lumbi,Student,06 Jul 1981
+2330,160188244,"Rumbim, Apli",M,Lumbi,Worker,01 Jan 1956
+2331,25087192,"Rundua, Bushman",M,Lumbi,Self Employed,12 Mar 1994
+2332,160216659,"Runi, Pat",M,Lumbi,Subsistence Farmer,01 Jan 1938
+2333,160196984,"Saki, Ore",M,Lumbi,Subsistence Farmer,01 Jan 1984
+2334,160237025,"Salatial, Senis",M,Lumbi,Student,01 Jan 1993
+2335,160236136,"Salatial, William",M,Lumbi,Teacher,01 Jan 1978
+2336,160211354,"Sam, Agnis",M,Lumbi,Subsistence Farmer,01 Jan 1980
+2337,160235687,"Sammy, Mathew",M,Lumbi,Carpenter,01 Jan 1954
+2338,160219003,"Samo, Pako",M,Lumbi,Subsistence Farmer,01 Jan 1986
+2339,160218548,"Samo, Suwayo",M,Lumbi,Student,01 Jan 1980
+2340,160217611,"Samo, Yako",M,Lumbi,Subsistence Farmer,01 Jan 1979
+2341,160438746,"Samuel, Collin",M,Lumbi,Student,27 Jan 1998
+2342,160438743,"Samuel, Ivan",M,Lumbi,Student,05 Jan 2001
+2343,160438737,"Samuel, Justin",M,Lumbi,Student,06 Aug 2003
+2344,160438745,"Samuel, Michael",M,Lumbi,Student,18 May 2000
+2345,160438762,"Samuel, Richard",M,Lumbi,Teacher,03 Feb 1982
+2346,160438738,"Samuel, Yean",M,Lumbi,Student,02 Mar 2004
+2347,160190835,"Sanna, Lesli",M,Lumbi,Subsistence Farmer,01 Jan 1984
+2348,160238744,"Sano, Peterson",M,Lumbi,Subsistence Farmer,18 Mar 1972
+2349,160191364,"Sano apson, Joseph",M,Lumbi,Subsistence Farmer,01 Jan 1975
+2350,160165140,"Sap, Dopo",M,Lumbi,Student,10 Feb 1985
+2351,160213600,"Sap, Joshua",M,Lumbi,Student,22 Mar 1989
+2352,160169232,"Sap, Nimbo",M,Lumbi,Student,12 Feb 1988
+2353,160135941,"Sem, Joshua",M,Lumbi,Sales Women,13 Apr 1998
+2354,160159066,"Sierol, Graham",M,Lumbi,Student,03 Mar 1976
+2355,160196481,"Siewey, Pora",M,Lumbi,Subsistence Farmer,08 Mar 1947
+2356,160133625,"Sika, Himson",M,Lumbi,Student,05 Apr 1998
+2357,160439057,"Sikai, James",M,Lumbi,Peace Officer,06 Aug 1983
+2358,160238588,"Simeon, Junior",M,Lumbi,Student,15 May 1994
+2359,160438750,"Simon, Mikedowel",M,Lumbi,Student,06 Mar 2000
+2360,160180773,"Simon, Nala",M,Lumbi,Subsistence Farmer,01 Jan 1980
+2361,160196104,"Simon, Sennis",M,Lumbi,Subsistence Farmer,01 Jan 1986
+2362,160196101,"Simon, Tomson",M,Lumbi,Subsistence Farmer,01 Jan 1980
+2363,160209950,"Singel, Jacob",M,Lumbi,Student,16 Apr 1983
+2364,160158941,"Singel, Jerry",M,Lumbi,Student,24 May 1986
+2365,160162647,"Singel, Pombre",M,Lumbi,Mechanic,22 Feb 1979
+2366,160237594,"Smokie, Hinos",M,Lumbi,Subsistence Farmer,01 Jan 1987
+2367,160135961,"Solo, Keris",M,Lumbi,Sales Women,26 Feb 1990
+2368,160438685,"Solomon, Danny",M,Lumbi,Student,05 Apr 2002
+2369,160169087,"Solu, Clement",M,Lumbi,Aid Post Orderly,03 Jul 1978
+2370,160135835,"Solu, Daniel",M,Lumbi,Student,17 Oct 1994
+2371,160135851,"Solu, Gidion",M,Lumbi,Sales Women,05 Aug 1998
+2372,160169072,"Solu, Issac",M,Lumbi,Student,15 Apr 1988
+2373,160173211,"Solu, Issaiah",M,Lumbi,Student,13 Jun 1990
+2374,160191001,"Solu, Jack",M,Lumbi,Subsistence Farmer,01 Jan 1943
+2375,160196383,"Solu, Jonathan",M,Lumbi,Clerk,01 Jan 1947
+2376,160191361,"Solu, Merpasi",M,Lumbi,Subsistence Farmer,01 Jan 1943
+2377,160158933,"Solu, Moses",M,Lumbi,Subsistence Farmer,26 May 1964
+2378,160135832,"Solu, Nicky",M,Lumbi,Student,24 Oct 1997
+2379,160160392,"Solu, Raymond",M,Lumbi,Student,13 Nov 1980
+2380,160139302,"Solu, Samuel",M,Lumbi,Sales Women,10 Feb 1998
+2381,160160383,"Solu, Simon",M,Lumbi,Teacher,15 Mar 1972
+2382,160190834,"Solu, Tom",M,Lumbi,Subsistence Farmer,01 Jan 1944
+2383,160160447,"Solu, William",M,Lumbi,Student,13 Jan 1986
+2384,160195751,"Solu, Yowape",M,Lumbi,Subsistence Farmer,01 Jan 1961
+2385,160175713,"Solu tom, Timon",M,Lumbi,Student,01 Jan 1983
+2386,160213744,"Sopol, Benard",M,Lumbi,Store Keeper,01 Jan 1972
+2387,160215565,"Sopol, Epon",M,Lumbi,Student,01 Jan 1987
+2388,160215746,"Sopol, Stephen",M,Lumbi,Student,01 Jan 1977
+2389,160196998,"Sopu, Willie",M,Lumbi,Subsistence Farmer,01 Jan 1979
+2390,160213351,"Soti, Doa",M,Lumbi,Student,15 Dec 1987
+2391,160237536,"Stanley, Joshua",M,Lumbi,Student,01 Jan 1985
+2392,160237565,"Stanley, Ospea",M,Lumbi,Subsistence Farmer,01 Jan 1960
+2393,160438799,"Stanley, Stanford",M,Lumbi,Student,11 Jan 2000
+2394,160193870,"Steven, Andrew",M,Lumbi,Subsistence Farmer,01 Jan 1986
+2395,160213752,"Steven, Beresi",M,Lumbi,Student,01 Jan 1981
+2396,160193919,"Steven, Jeffry",M,Lumbi,Subsistence Farmer,01 Jan 1988
+2397,160438692,"Steven, Jetly",M,Lumbi,Student,09 Sep 2003
+2398,160237246,"Steven, Jimmy",M,Lumbi,Subsistence Farmer,01 Jan 1989
+2399,160241972,"Steven, Joshua",M,Lumbi,Subsistence Farmer,01 Jan 1992
+2400,160213750,"Steven, Pokura",M,Lumbi,Subsistence Farmer,01 Jan 1985
+2401,160193872,"Steven, Robert",M,Lumbi,Subsistence Farmer,01 Jan 1988
+2402,160135951,"Steven, Steward",M,Lumbi,Sales Women,22 Aug 1998
+2403,160194677,"Sukut, Range",M,Lumbi,Subsistence Farmer,01 Jan 1947
+2404,160217761,"Sumape, Maipu",M,Lumbi,Subsistence Farmer,01 Jan 1955
+2405,160218997,"Sumape, Samo",M,Lumbi,Subsistence Farmer,01 Jan 1961
+2406,160187414,"Sumia, Lina",M,Lumbi,Mechanic,01 Jan 1950
+2407,160139491,"Sumne, Sotti",M,Lumbi,Sales Women,12 Feb 1989
+2408,160237647,"Tale, Amos",M,Lumbi,Student,01 Jan 1974
+2409,160237646,"Tale, Nelson",M,Lumbi,Student,01 Jan 1984
+2410,160196788,"Tale, Paul",M,Lumbi,Subsistence Farmer,01 Jan 1970
+2411,160196113,"Talpapu, Moses",M,Lumbi,Subsistence Farmer,01 Jan 1973
+2412,160218951,"Tapula, Nole",M,Lumbi,Subsistence Farmer,01 Jan 1936
+2413,160438748,"Tatus, Maunu",M,Lumbi,Subsistence Farmer,08 Apr 1997
+2414,160438796,"Tatus, Sapu",M,Lumbi,Subsistence Farmer,04 Feb 2004
+2415,160438963,"Tim, Breadlyn",M,Lumbi,Student,17 Jan 2004
+2416,160213821,"Tim, Dokta",M,Lumbi,Student,16 Sep 1983
+2417,160159052,"Tim, Michael",M,Lumbi,Student,15 May 1981
+2418,160212395,"Tim, Napem",M,Lumbi,Student,11 Dec 1986
+2419,160155840,"Tim, Paraka",M,Lumbi,Store Keeper,03 Nov 1970
+2420,160180641,"Timba, Jacob",M,Lumbi,Subsistence Farmer,06 Oct 1978
+2421,160180792,"Timba, John",M,Lumbi,Salesman,26 Jul 1962
+2422,160171924,"Timba, Lapa",M,Lumbi,Mechanic,05 Nov 1965
+2423,25082030,"Timothy, Apsol",M,Lumbi,Subsistence Farmer,01 Jan 1981
+2424,160213620,"Timothy, Joel",M,Lumbi,Subsistence Farmer,01 Jan 1988
+2425,160237564,"Timothy, Maxian",M,Lumbi,Subsistence Farmer,01 Jan 1984
+2426,160212425,"Timothy, Moris",M,Lumbi,Student,01 Jan 1987
+2427,160167622,"Tiriaol, Sap",M,Lumbi,Subsistence Farmer,01 Oct 1900
+2428,25082048,"Tisa, Ado",M,Lumbi,Student,06 Apr 2000
+2429,25082050,"Tisa, Albert",M,Lumbi,Student,28 Apr 1997
+2430,160238751,"Tisa, David",M,Lumbi,Student,13 Jul 1994
+2431,160158967,"Tisa, Hendrik",M,Lumbi,Student,01 Jan 1983
+2432,25082053,"Tisa, Henrick",M,Lumbi,Subsistence Farmer,13 Oct 1978
+2433,160155999,"Tisa, James",M,Lumbi,Student,01 Jan 1987
+2434,160160292,"Tisa, Jerus",M,Lumbi,Subsistence Farmer,01 Jan 1988
+2435,160160313,"Tisa, Joseph",M,Lumbi,Pastor,01 Jan 1981
+2436,160155997,"Tisa, Justine",M,Lumbi,Evangelist,01 Jan 1982
+2437,160191144,"Tom, Albert",M,Lumbi,Student,01 Jan 1984
+2438,160196382,"Tom, Jethro",M,Lumbi,Teacher,01 Jan 1961
+2439,25082064,"Tom, Joeman",M,Lumbi,Student,12 Jan 2002
+2440,160135836,"Tom, Kallunda",M,Lumbi,Student,16 Sep 1998
+2441,160135834,"Tom, Murphy",M,Lumbi,Student,06 Aug 1997
+2442,25082069,"Tom, Nelson",M,Lumbi,Student,22 Sep 2003
+2443,25082072,"Tom, Nickey",M,Lumbi,Student,18 Jun 1995
+2444,160438674,"Tom, Orilias",M,Lumbi,Student,02 Jun 2003
+2445,160169197,"Tom, Timothy",M,Lumbi,Subsistence Farmer,01 Jan 1974
+2446,160194257,"Tomba, Fellix",M,Lumbi,Subsistence Farmer,01 Jan 1944
+2447,160236008,"Tomba, Fred",M,Lumbi,Doctor,01 Jan 1974
+2448,160237035,"Tombua, Nando",M,Lumbi,Student,01 Jan 1984
+2449,160239127,"Tomson, Augustine",M,Lumbi,Student,06 Aug 1993
+2450,160438652,"Topa, Armon",M,Lumbi,Student,11 Jul 2000
+2451,160133606,"Topa, Rodrick",M,Lumbi,Student,16 Feb 1998
+2452,160438653,"Topa, Tulu",M,Lumbi,Student,05 Sep 2002
+2453,160191138,"Torea, Manasa",M,Lumbi,Student,01 Jan 1986
+2454,160155722,"Tou, Abram",M,Lumbi,Subsistence Farmer,08 Jul 1942
+2455,160160772,"Tumin, Kialape",M,Lumbi,Subsistence Farmer,01 Jan 1944
+2456,160195958,"Tun, Mandanaki",M,Lumbi,Subsistence Farmer,01 Jan 1944
+2457,160184981,"Tunduasi, Paul",M,Lumbi,Pastor,01 Jan 1971
+2458,160155882,"Tunu, Andrew",M,Lumbi,Subsistence Farmer,01 Jan 1978
+2459,160209954,"Tunu, Brendon",M,Lumbi,Subsistence Farmer,01 Jan 1981
+2460,160213601,"Tunu, John",M,Lumbi,Subsistence Farmer,01 Jan 1983
+2461,160213347,"Tunu, Kella",M,Lumbi,Student,01 Jan 1986
+2462,160213607,"Tunu, Philip",M,Lumbi,Subsistence Farmer,01 Jan 1984
+2463,160155991,"Tunu, Topa",M,Lumbi,Subsistence Farmer,01 Jan 1974
+2464,160156079,"Tunu, Wari",M,Lumbi,Subsistence Farmer,01 Jan 1977
+2465,160171748,"Tuwi, Andrew",M,Lumbi,Subsistence Farmer,01 Jan 1970
+2466,160189793,"Ugine, Micheal",M,Lumbi,Teacher,01 Jan 1976
+2467,160135855,"Ulumi, Gabriel",M,Lumbi,Sales Women,22 Mar 1998
+2468,160202100,"Victor, Alex",M,Lumbi,Student,01 Jan 1971
+2469,160439102,"Victor, Jackie",M,Lumbi,Student,08 Feb 2004
+2470,160202106,"Victor, Nelson",M,Lumbi,Student,01 Jan 1983
+2471,160439098,"Victor, Rodney",M,Lumbi,Subsistence Farmer,03 Feb 2004
+2472,160439104,"Victor, Tau",M,Lumbi,Student,06 Feb 2004
+2473,25087197,"Vincent, Ank",M,Lumbi,Student,24 Nov 1990
+2474,160193874,"Waguma, Joshua",M,Lumbi,Subsistence Farmer,01 Jan 1978
+2475,160135943,"Waina, Joe",M,Lumbi,Labourer,16 Apr 1979
+2476,160238742,"Wait, Tomson",M,Lumbi,Teacher,30 Jun 1972
+2477,160438802,"Wala, Christo",M,Lumbi,Student,03 Mar 2000
+2478,160158944,"Wale, Jacob",M,Lumbi,Subsistence Farmer,01 Jan 1971
+2479,160237562,"Wale, Solo",M,Lumbi,Student,01 Jan 1989
+2480,25082109,"Wale, Wanpis",M,Lumbi,Subsistence Farmer,20 Feb 1979
+2481,160175934,"Walo, Augustine",M,Lumbi,Teacher,03 Apr 1963
+2482,160175940,"Walo, Benson",M,Lumbi,Teacher,08 Aug 1979
+2483,160187300,"Walo, Dan",M,Lumbi,Student,29 Oct 1987
+2484,160187519,"Walo, Kuskus",M,Lumbi,Student,25 Jul 1983
+2485,160188241,"Walo, Lus",M,Lumbi,Student,27 Jun 1983
+2486,160188704,"Walo, Senis",M,Lumbi,Subsistence Farmer,24 Apr 1974
+2487,160438821,"Walter, Mogia",M,Lumbi,Student,27 Jun 2001
+2488,160197120,"Walter, Robert",M,Lumbi,Subsistence Farmer,01 Jan 1980
+2489,160219050,"Wamea, Apeya",M,Lumbi,Subsistence Farmer,01 Jan 1951
+2490,160219068,"Wamea, Buka",M,Lumbi,Subsistence Farmer,01 Jan 1954
+2491,160241993,"Wamea, Misek apeya",M,Lumbi,Subsistence Farmer,01 Jan 1991
+2492,160241691,"Wamea, Moses buka",M,Lumbi,Student,01 Jan 1988
+2493,160218950,"Wamea, Nodisu",M,Lumbi,Subsistence Farmer,01 Jan 1943
+2494,160241994,"Wamea, Peter buka",M,Lumbi,Subsistence Farmer,01 Jan 1968
+2495,160241689,"Wamea, Senis nodisu",M,Lumbi,Subsistence Farmer,01 Jan 1991
+2496,160218231,"Wameaya nelson, Samba",M,Lumbi,Subsistence Farmer,01 Jan 1963
+2497,160194631,"Wando, Micheal",M,Lumbi,Subsistence Farmer,01 Jan 1930
+2498,160238754,"Wanpis, Ambe",M,Lumbi,Teacher,13 Sep 1979
+2499,160237544,"Wapa, Otte",M,Lumbi,Pastor,16 Sep 1967
+2500,160218947,"Wapeya, Nala",M,Lumbi,Subsistence Farmer,01 Jan 1978
+2501,160241666,"Wapeya kabenaki, Runisy",M,Lumbi,Subsistence Farmer,01 Jan 1945
+2502,160190899,"Warea, Alex wasi",M,Lumbi,Subsistence Farmer,01 Jan 1949
+2503,160190548,"Warea, Donald",M,Lumbi,Subsistence Farmer,01 Jan 1975
+2504,160193201,"Warea, Lorance",M,Lumbi,Subsistence Farmer,01 Jan 1941
+2505,25082113,"Warea, Raphael wisu",M,Lumbi,Subsistence Farmer,10 Oct 1974
+2506,25082117,"Warea, Semix",M,Lumbi,Carpenter,12 Nov 1990
+2507,160194421,"Warea, Yuanis",M,Lumbi,Subsistence Farmer,01 Jan 1953
+2508,160438853,"Wari, David",M,Lumbi,Student,28 Apr 2004
+2509,160438765,"Wariah, Domenic",M,Lumbi,Subsistence Farmer,04 May 1982
+2510,160133395,"Waron, Gabriel",M,Lumbi,Student,03 Apr 1999
+2511,160212576,"Wata, Kepele",M,Lumbi,Subsistence Farmer,01 Jan 1981
+2512,160173733,"Wata, Keven",M,Lumbi,Student,01 Jan 1970
+2513,160212427,"Wata, Ongson",M,Lumbi,Subsistence Farmer,01 Jan 1982
+2514,160212521,"Wata, Rason",M,Lumbi,Subsistence Farmer,01 Jan 1979
+2515,160167542,"Wata, Timothy",M,Lumbi,Worker,01 Jan 1960
+2516,160160308,"Wayolo, Tisa",M,Lumbi,Subsistence Farmer,01 Jan 1977
+2517,160160388,"Wendo, Pisa",M,Lumbi,Student,01 Jan 1980
+2518,160194034,"Wenepe, Jack",M,Lumbi,Subsistence Farmer,08 Sep 1963
+2519,160196236,"Weno, David",M,Lumbi,Subsistence Farmer,10 Aug 1937
+2520,160196787,"Weno, John",M,Lumbi,Subsistence Farmer,08 Aug 1966
+2521,160218567,"Weno, Nowel",M,Lumbi,Student,01 Jan 1990
+2522,160196254,"Weno, Peter",M,Lumbi,Subsistence Farmer,04 Mar 1960
+2523,160196777,"Weno, Rotu",M,Lumbi,Subsistence Farmer,08 Jul 1958
+2524,160236034,"Wepi, Wapea",M,Lumbi,Magistrate,15 Sep 1960
+2525,160139304,"Wer, Oron",M,Lumbi,Sales Women,18 Aug 1998
+2526,160216220,"Werit, Leo",M,Lumbi,Subsistence Farmer,01 Jan 1951
+2527,160216397,"Werit, Soleas",M,Lumbi,Subsistence Farmer,01 Jan 1981
+2528,160216225,"Werit, Willy lasman",M,Lumbi,Student,01 Jan 1987
+2529,160194408,"Wien, Diya",M,Lumbi,Subsistence Farmer,01 Jan 1945
+2530,160220683,"Wien diya, Joseph",M,Lumbi,Subsistence Farmer,01 Jan 1979
+2531,160133551,"Wika, Nobert",M,Lumbi,Student,02 Nov 1997
+2532,160439031,"William, Dominic",M,Lumbi,Student,18 Jan 2004
+2533,160133614,"William, Jeff",M,Lumbi,Subsistence Farmer,16 Apr 1989
+2534,160169078,"William, Jeffery",M,Lumbi,Student,01 Jan 1988
+2535,160237027,"William, Joel",M,Lumbi,Student,01 Jan 1988
+2536,160439029,"William, Sony",M,Lumbi,Student,13 Feb 2004
+2537,160439035,"William, Wilton",M,Lumbi,Student,16 Apr 2004
+2538,160438667,"Wilson, Mcdon",M,Lumbi,Student,07 Jul 1993
+2539,160175942,"Winn, Mex",M,Lumbi,Subsistence Farmer,01 Jan 1978
+2540,160190556,"Wombua, Philip",M,Lumbi,Subsistence Farmer,01 Jan 1940
+2541,160216057,"Wombua, Tom",M,Lumbi,Subsistence Farmer,01 Jan 1955
+2542,160438899,"Yake, Johnny",M,Lumbi,Student,01 Apr 2004
+2543,160438855,"Yake, Junior",M,Lumbi,Subsistence Farmer,04 Jun 1996
+2544,160235369,"Yako, Alpond",M,Lumbi,Subsistence Farmer,01 Jan 1991
+2545,160237034,"Yako, Benjamin",M,Lumbi,Subsistence Farmer,01 Jan 1989
+2546,160197139,"Yako, Dominic",M,Lumbi,Subsistence Farmer,01 Jan 1973
+2547,160169174,"Yako, Jacob",M,Lumbi,Subsistence Farmer,01 Jan 1988
+2548,160169073,"Yako, Junior",M,Lumbi,Student,01 Jan 1988
+2549,160176277,"Yako, Kopeap",M,Lumbi,Subsistence Farmer,01 Jan 1969
+2550,160176124,"Yako, Kuni",M,Lumbi,Subsistence Farmer,01 Jan 1976
+2551,160197138,"Yako, Ongu",M,Lumbi,Subsistence Farmer,01 Jan 1974
+2552,160155874,"Yako, Ore",M,Lumbi,Subsistence Farmer,01 Jan 1975
+2553,160176029,"Yako, Reti",M,Lumbi,Student,01 Jan 1980
+2554,160169403,"Yako, Wari",M,Lumbi,Subsistence Farmer,01 Jan 1963
+2555,160240320,"Yakop, Lesly",M,Lumbi,Subsistence Farmer,08 Sep 1986
+2556,160160717,"Yaleme, Lumbert",M,Lumbi,Subsistence Farmer,01 Jan 1971
+2557,160165305,"Yaleme, Peyowa",M,Lumbi,Foreman,01 Jan 1950
+2558,160139311,"Yalo, Olube",M,Lumbi,Subsistence Farmer,21 Apr 1997
+2559,160237251,"Yama, Paul",M,Lumbi,Subsistence Farmer,05 Jun 1965
+2560,160153028,"Yama, Rumbe",M,Lumbi,Student,06 Mar 1990
+2561,160193710,"Yama, Yosuha",M,Lumbi,Student,06 Mar 1987
+2562,160191363,"Yambele, Paul",M,Lumbi,Student,04 Jul 1989
+2563,160213629,"Yambi, Nelson",M,Lumbi,Student,30 Jun 1990
+2564,160193933,"Yaminipia, Kopi",M,Lumbi,Subsistence Farmer,01 Jan 1980
+2565,160241679,"Yandiwe marop, Nicky",M,Lumbi,Subsistence Farmer,01 Jan 1989
+2566,160188414,"Yandowe, Elizah kaspa",M,Lumbi,Pastor,01 Jan 1981
+2567,160193190,"Yandowe, John",M,Lumbi,Subsistence Farmer,01 Jan 1981
+2568,160188570,"Yandowe, Leneth",M,Lumbi,Subsistence Farmer,01 Jan 1951
+2569,160193187,"Yandowe, Luke",M,Lumbi,Pastor,01 Jan 1951
+2570,160438814,"Yandwai, Leneth",M,Lumbi,Subsistence Farmer,06 Jan 2004
+2571,160193811,"Yangalo, James",M,Lumbi,Subsistence Farmer,01 Jan 1978
+2572,160193817,"Yangalo, Sam",M,Lumbi,Subsistence Farmer,01 Jan 1981
+2573,160212443,"Yano, Nelson",M,Lumbi,Subsistence Farmer,16 Mar 1949
+2574,160210310,"Yano, Peter",M,Lumbi,Worker,26 Feb 1964
+2575,160194310,"Yap, Terowa",M,Lumbi,Subsistence Farmer,05 May 1959
+2576,160212563,"Yapa, Rockey",M,Lumbi,Subsistence Farmer,01 Jan 1979
+2577,160162708,"Yapanga, Ker",M,Lumbi,Subsistence Farmer,01 Jan 1900
+2578,160169406,"Yapanga, Solu",M,Lumbi,Subsistence Farmer,16 Mar 1948
+2579,160235993,"Yasi, Ipisa",M,Lumbi,Subsistence Farmer,03 Jun 1970
+2580,160193922,"Yasi, Ome",M,Lumbi,Student,04 Apr 1989
+2581,160198440,"Yasi, Pem",M,Lumbi,Subsistence Farmer,01 Jan 1983
+2582,160238556,"Yasi, Tisa",M,Lumbi,Subsistence Farmer,14 Jun 1961
+2583,25082134,"Yasi, Wale",M,Lumbi,Student,11 Feb 1990
+2584,160196476,"Yasi, Wale",M,Lumbi,Subsistence Farmer,01 Jan 1978
+2585,160196993,"Yasi, Wanpis",M,Lumbi,Subsistence Farmer,01 Jan 1977
+2586,160194190,"Yawi, David",M,Lumbi,Pastor,04 Apr 1984
+2587,160194192,"Yawi, Johnathan",M,Lumbi,Student,07 Mar 1989
+2588,160193712,"Yepiyo, Elizah",M,Lumbi,Subsistence Farmer,07 Mar 1961
+2589,160193762,"Yepiyo, Nathan",M,Lumbi,Student,03 Jun 1989
+2590,25082137,"Yepiyo, Patrick",M,Lumbi,Student,09 Sep 1998
+2591,160193758,"Yepiyo, Yama",M,Lumbi,Subsistence Farmer,04 Jun 1958
+2592,160187941,"Yer, Joseph",M,Lumbi,Subsistence Farmer,01 Jan 1980
+2593,160187297,"Yer, Ombukwa",M,Lumbi,Subsistence Farmer,01 Jan 1982
+2594,160196056,"Yoape, Gibson",M,Lumbi,Subsistence Farmer,01 Jan 1981
+2595,160237018,"Yoape, Jacob",M,Lumbi,Student,30 Nov 1992
+2596,160165725,"Yoka, Kingi",M,Lumbi,Subsistence Farmer,01 Jan 1970
+2597,160165736,"Yoka, Mani",M,Lumbi,Subsistence Farmer,01 Jan 1979
+2598,160165745,"Yoka, Rimbu",M,Lumbi,Subsistence Farmer,01 Jan 1960
+2599,160193867,"Yokela, Alphones",M,Lumbi,Subsistence Farmer,07 Feb 1955
+2600,160193913,"Yokela, Dela",M,Lumbi,Subsistence Farmer,07 Jul 1988
+2601,160194211,"Yokela, Dimos",M,Lumbi,Student,05 Jul 1984
+2602,160193858,"Yokela, Mapame",M,Lumbi,Subsistence Farmer,02 Mar 1948
+2603,160153030,"Yokela, Mark",M,Lumbi,Student,08 Jun 1990
+2604,160193925,"Yokela, Moses",M,Lumbi,Subsistence Farmer,08 Aug 1956
+2605,160193918,"Yokela, Peyaepe",M,Lumbi,Subsistence Farmer,05 Oct 1953
+2606,160163057,"Yokom, Anis",M,Lumbi,Driver,03 Jul 1971
+2607,160163051,"Yokom, David",M,Lumbi,Student,28 Jan 1988
+2608,160163055,"Yokom, Firman",M,Lumbi,Student,14 Apr 1983
+2609,160162898,"Yokom, Otmar",M,Lumbi,Student,23 Jul 1986
+2610,160162728,"Yokom, Sande",M,Lumbi,Subsistence Farmer,07 Sep 1981
+2611,160218962,"Yondo, Moses",M,Lumbi,Student,01 Jan 1988
+2612,160218960,"Yondo, Peter",M,Lumbi,Student,01 Jan 1987
+2613,160195748,"Yowa, Andrew",M,Lumbi,Student,04 Mar 1987
+2614,160196195,"Yowa, Jeffery",M,Lumbi,Student,05 May 1986
+2615,160195743,"Yowa, Josceya",M,Lumbi,Subsistence Farmer,05 Jul 1972
+2616,160196192,"Yowa, Kenneth",M,Lumbi,Student,09 Aug 1984
+2617,160196183,"Yowa, Kombolnaki",M,Lumbi,Subsistence Farmer,03 Mar 1941
+2618,160195931,"Yowape, Alex iti",M,Lumbi,Subsistence Farmer,01 Jan 1980
+2619,160196162,"Yowape, Kela",M,Lumbi,Subsistence Farmer,01 Jan 1978
+2620,160196205,"Yowape, Nisimi",M,Lumbi,Subsistence Farmer,01 Jan 1979
+2621,160438768,"Yuanis, Michael",M,Lumbi,Carpenter,03 Aug 1986
+2622,160194425,"Yuanis, Micheal",M,Lumbi,Subsistence Farmer,01 Jan 1980
+2623,160439086,"Yupal, Beno",M,Lumbi,Student,27 Jan 2004
+2624,160439084,"Yupal, Samson",M,Lumbi,Student,06 Feb 2004

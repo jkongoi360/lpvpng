@@ -1,0 +1,1405 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160186008,"Aga, Maria",F,Omai,Subsistence Farmer,01 Jan 1977
+2,160187493,"Aga, Mathina",F,Omai,Subsistence Farmer,01 Jan 1983
+3,160142453,"Agima, Lumbu",F,Omai,Subsistence Farmer,01 Jan 1974
+4,160232420,"Aisa, Lin",F,Nekea/Renderepa,Subsistence Farmer,01 Jan 1989
+5,160234514,"Aisa, Sera",F,Yamerikiae,Subsistence Farmer,01 Jan 1986
+6,160234676,"Aite, Estha",F,Ilo,Subsistence Farmer,01 Jan 1960
+7,160234471,"Aite, Sarah",F,Ilo,Student,01 Jan 1992
+8,160139609,"Akoiri, Kapuname",F,Omai,Household Duties,15 Mar 1987
+9,160143595,"Akop, Kupini",F,Omai,Subsistence Farmer,01 Jan 1946
+10,160234508,"Alo, Lenny",F,Omai,Household Duties,01 Jan 1971
+11,160234221,"Alo, Parisa",F,Oyaga,Student,01 Jan 1989
+12,160234533,"Alua, Rebecca",F,Oyaga,Household Duties,01 Jan 1960
+13,160234493,"Alupa, Ero",F,Yamerikiae,Housegirl,01 Jan 1993
+14,160146630,"Alupa, Esta",F,Omai,Housegirl,01 Jan 1985
+15,160121435,"Alupa, Lawame",F,Omai,Subsistence Farmer,19 Jul 1988
+16,160121379,"Alupa, Melinda",F,Ramikipa,Student,12 Nov 1997
+17,160180856,"Alupa, Porame",F,Yamerikiae,Household Duties,01 Jan 1961
+18,160146205,"Amagi, Anna",F,Omai,Subsistence Farmer,01 Jan 1953
+19,160232473,"Amba, Mamame",F,Kana,Subsistence Farmer,01 Jan 1976
+20,160142443,"Ambia, Evelin",F,Omai,Subsistence Farmer,01 Jan 1975
+21,160234256,"Amos, Maria",F,Kana,Subsistence Farmer,01 Jan 1982
+22,160186971,"Andalua, Kuruma",F,Omai,Subsistence Farmer,01 Jan 1965
+23,160234509,"Andalua, Lie",F,Omai,Subsistence Farmer,24 Jul 1993
+24,160193302,"Andalua, Mali",F,Omai,Subsistence Farmer,01 Jan 1966
+25,160231087,"Andapa, Janet",F,Ilo,Housegirl,01 Jan 1985
+26,160230786,"Andapa, Lainame",F,Ilo,Household Duties,01 Jan 1943
+27,160231091,"Andapa, Sumawinu",F,Ilo,Household Duties,01 Jan 1955
+28,160177528,"Andapapu, Janny",F,Ilo,Subsistence Farmer,01 Jan 1967
+29,160234504,"Ande, Cathy",F,Omai,Household Duties,09 Apr 1975
+30,160121261,"Ande, Silla",F,Ramerikiae,Student,16 Aug 1998
+31,160439234,"Anderson, Enmy",F,Omai,Household Duties,17 Jan 2000
+32,160121418,"Andia, Grace",F,Omai,Student,24 Apr 1998
+33,160121419,"Andia, Joen",F,Omai,Student,19 Apr 1997
+34,160234556,"Andia, Magaret",F,Omai,Student,11 Feb 1994
+35,160121421,"Andia, Seron",F,Omai,Student,16 Sep 1998
+36,160234664,"Andia, Wali",F,Omai,Household Duties,19 Nov 1976
+37,25085699,"Andrew, Epe",F,Omai,Self Employed,12 Nov 2003
+38,160190253,"Andua, Lumi",F,Omai,Subsistence Farmer,01 Jan 1972
+39,160234383,"Andua, Seron",F,Omai,Housegirl,01 Jan 1993
+40,160142364,"Anekira, Ketty",F,Omai,Subsistence Farmer,01 Jan 1977
+41,160121430,"Anga, Lin",F,Omai,Student,04 Nov 1996
+42,160230429,"Ango, Keti",F,Kana,Household Duties,01 Jan 1987
+43,160232472,"Ango, Lucy",F,Kana,Student,01 Jan 1994
+44,160142624,"Angra, Mary",F,Omai,Subsistence Farmer,01 Jan 1985
+45,160210429,"Apai, Pereame",F,Kana,Subsistence Farmer,01 Jan 1956
+46,160230946,"Ape, Beti",F,Oyaga,Household Duties,01 Jan 1958
+47,160439236,"Ape, Jacklyn",F,Omai,Student,07 Mar 2003
+48,160439237,"Ape, Lilly",F,Omai,Student,07 Aug 2002
+49,160439238,"Ape, Lilyen",F,Omai,Student,06 Apr 2002
+50,160193307,"Ape, Margaret",F,Omai,Subsistence Farmer,01 Jan 1971
+51,160190245,"Ape, Nency",F,Oyaga,Student,01 Jan 1987
+52,160234329,"Apolla, Julie",F,Oyaga,Student,17 Apr 1994
+53,160234327,"Appola, Makirame",F,Oyaga,Subsistence Farmer,01 Jan 1946
+54,160146330,"Apsi, Anna",F,Omai,Subsistence Farmer,01 Jan 1976
+55,160146482,"Apsi, Lin",F,Omai,Subsistence Farmer,01 Jan 1974
+56,160198518,"Apurale, Jenny",F,Omai,Subsistence Farmer,01 Jan 1976
+57,25085700,"Arafi, Michael",F,Omai,Nurse,16 Sep 2003
+58,160202178,"Arundu, Kumapi",F,Yamerikiae,Household Duties,01 Jan 1964
+59,160146614,"Arundu, Maria",F,Omai,Housegirl,01 Jan 1986
+60,160146615,"Arundu, Rebecca",F,Omai,Housegirl,01 Jan 1986
+61,160234452,"Arundu, Soti",F,Yamerikiae,Subsistence Farmer,01 Jan 1992
+62,160227613,"Asipa, Jannet",F,Yamerikiae,Household Duties,01 Jan 1986
+63,160142653,"Asupa, Mery",F,Omai,Subsistence Farmer,01 Jan 1974
+64,160142454,"Asupa, Rege",F,Omai,Subsistence Farmer,01 Jan 1964
+65,160121256,"Awape, Eric",F,Ramerikiae,Teacher,16 Apr 1996
+66,160143851,"Awape, Maria",F,Omai,Subsistence Farmer,01 Jan 1979
+67,160439241,"Awape, Morrin",F,Omai,Household Duties,23 Feb 1994
+68,160439242,"Awape, Seron",F,Omai,Student,02 Apr 1999
+69,160177933,"Awape, Siselia",F,Kana,Subsistence Farmer,01 Jan 1979
+70,160230428,"Awape, Subango",F,Kana,Household Duties,01 Jan 1972
+71,160121254,"Awape, Susan",F,Ramerikiae,Subsistence Farmer,14 Apr 1997
+72,160439243,"Awape, Susan",F,Omai,Student,04 Mar 1997
+73,160190238,"Awitianda, Yondo",F,Omai,Subsistence Farmer,01 Jan 1958
+74,160234526,"Baksi, Piruape",F,Yamerikiae,Subsistence Farmer,01 Jan 1988
+75,160121446,"Bapi, Agnis",F,Omai,Household Duties,18 Mar 1992
+76,160146352,"Barape, Jully",F,Omai,Subsistence Farmer,01 Jan 1976
+77,160439244,"Benjamen, Magdala",F,Omai,Student,01 Dec 2000
+78,160180853,"Benjamin, Kuname",F,Yamerikiae,Household Duties,01 Jan 1971
+79,160204144,"Biaasupa, Biano",F,Omai,Subsistence Farmer,01 Jan 1966
+80,25085703,"Bigson, Susan",F,Omai,Student,11 Jan 2003
+81,160146628,"Bomeanda, Bome",F,Omai,Subsistence Farmer,01 Jan 1970
+82,160146230,"Bone, Lin",F,Omai,Household Duties,01 Jan 1977
+83,160439245,"Bone, Rima",F,Omai,Student,12 Nov 2000
+84,160121444,"Bone, Tindla",F,Omai,Student,24 Jan 1999
+85,160201973,"Bone, Yagura",F,Yamerikiae,Household Duties,01 Jan 1978
+86,25085704,"Branbon, Benica",F,Omai,Student,16 Mar 2003
+87,25085705,"Branbon, Bensila",F,Omai,Student,20 Mar 2004
+88,160139619,"Brandon, Susi",F,Omai,Store Keeper,14 Nov 1997
+89,160234500,"Buka, Julien",F,Omai,Subsistence Farmer,14 May 1980
+90,160198614,"Buru, Bali",F,Oyaga,Subsistence Farmer,01 Jan 1973
+91,160142652,"Busu, Lapi",F,Omai,Not Specified,01 Jan 1970
+92,160146627,"Busu, Lapi",F,Omai,Subsistence Farmer,01 Jan 1964
+93,160146360,"Busu, Maria",F,Omai,Subsistence Farmer,01 Jan 1984
+94,160204349,"Charles, Jully",F,Omai,Subsistence Farmer,01 Jan 1987
+95,160146517,"Charles, Robame",F,Omai,Subsistence Farmer,01 Jan 1984
+96,160234462,"Charlie, Lucy",F,Yamerikiae,Household Duties,01 Jan 1969
+97,160439248,"Charlie, Thrisa",F,Omai,Household Duties,01 Jun 1983
+98,25085709,"Charlie, Trisa",F,Omai,Subsistence Farmer,18 Nov 2002
+99,160121367,"Charly, Nancy",F,Ramikipa,Subsistence Farmer,16 May 1995
+100,160439249,"Daina, Pero",F,Omai,Household Duties,28 Apr 2001
+101,160439252,"Daman, Pricilla",F,Omai,Student,09 Nov 2000
+102,160439253,"Danel, Sera",F,Omai,Subsistence Farmer,12 May 1989
+103,160439254,"Daniel, Esther",F,Omai,Student,12 Dec 2000
+104,25085714,"Daniel, Mamono",F,Omai,Student,10 Oct 2003
+105,25085716,"David, Anna",F,Omai,Nurse,16 Jun 1982
+106,160234457,"David, Ennie",F,Oyaga,Subsistence Farmer,01 Jan 1988
+107,160180911,"Deni, Mali",F,Yamerikiae,Household Duties,01 Jan 1960
+108,160232475,"Dickson, Emma",F,Ramerikiae,Subsistence Farmer,01 Jan 1982
+109,25085718,"Dickson, Nancy",F,Omai,Household Duties,16 Jun 2001
+110,160234445,"Dickson, Stella",F,Oyaga,Subsistence Farmer,01 Jan 1981
+111,160221032,"Diki, Lame",F,Kana,Subsistence Farmer,01 Jan 1978
+112,160146363,"Diki, Resol",F,Omai,Subsistence Farmer,01 Jan 1988
+113,160146362,"Diki, Susana",F,Omai,Subsistence Farmer,01 Jan 1986
+114,160190701,"Diki, Wanpis",F,Omai,Subsistence Farmer,01 Jan 1957
+115,160231098,"Duma, Nado",F,Kana,Household Duties,01 Jan 1967
+116,160231109,"Duma, Susan",F,Kana,Household Duties,01 Jan 1975
+117,160203966,"Egayo, Yope",F,Omai,Subsistence Farmer,01 Jan 1946
+118,160146351,"Ekamu, Jecky",F,Omai,Subsistence Farmer,01 Jan 1972
+119,160121391,"Eneya, Tore",F,Omai,Household Duties,15 Mar 1969
+120,160121392,"Eneye, Lini",F,Omai,Household Duties,02 Nov 1984
+121,160121393,"Eneye, Somela",F,Omai,Student,01 Mar 1998
+122,160230364,"Epi, Jonsa",F,Yamerikiae,Housegirl,01 Jan 1987
+123,160203865,"Epi, Umbanu",F,Yamerikiae,Household Duties,01 Jan 1975
+124,160439256,"Epol, Susan",F,Omai,Subsistence Farmer,21 Dec 2003
+125,25085719,"Erkl, Vero",F,Omai,Self Employed,12 Dec 2001
+126,160234689,"Esthy, Nancy",F,Oyaga,Student,01 Jan 1991
+127,160234215,"Esthy, Rose",F,Oyaga,Teacher,01 Jan 1983
+128,25085723,"Ferman, Jenny",F,Omai,Subsistence Farmer,16 Oct 1998
+129,25085725,"Frank, Doli",F,Omai,Student,21 Dec 2003
+130,25085727,"Frank, Dorothy",F,Omai,Student,17 Jul 2003
+131,160234449,"Frank, Lilien",F,Omai,Subsistence Farmer,01 Dec 1986
+132,25085731,"Frank, Norin",F,Omai,Student,13 Oct 2001
+133,160146368,"Gaima, Malinda",F,Omai,Household Duties,01 Jan 1975
+134,160201747,"Giape, Nogi",F,Yamerikiae,Household Duties,01 Jan 1980
+135,160227296,"Gibbson, Jacklin",F,Oyaga,Household Duties,01 Jan 1975
+136,160439258,"Gibson, Cendra",F,Omai,Student,25 May 2002
+137,160121413,"Gibson, Elis",F,Ilo,Subsistence Farmer,09 Aug 1982
+138,160139616,"Gibson, Kim",F,Omai,Student,12 Jan 1999
+139,160234547,"Gibson, Soty",F,Oyaga,Housegirl,01 Jan 1991
+140,160146502,"Hokopea, Ondame",F,Omai,Subsistence Farmer,01 Jan 1947
+141,160143725,"Horopa, Mageret",F,Omai,Subsistence Farmer,01 Jan 1962
+142,160142657,"Ibapone, Mery",F,Omai,Household Duties,01 Jan 1975
+143,160232130,"Imali, Ondame",F,Kana,Subsistence Farmer,01 Jan 1961
+144,160230819,"Ipare, Ipanu",F,Kana,Household Duties,01 Jan 1988
+145,160187017,"Ipare, Ratame",F,Kana,Subsistence Farmer,01 Jan 1967
+146,160227046,"Ipulapim, Roslin",F,Kana,Subsistence Farmer,01 Jan 1988
+147,160234258,"Irapu, Anna",F,Kana,Subsistence Farmer,01 Jan 1976
+148,160146444,"Iriputi, Bela",F,Omai,Subsistence Farmer,01 Jan 1965
+149,160139610,"Iso, Essy",F,Omai,Household Duties,05 Dec 1988
+150,160234660,"Iso, Essy",F,Omai,Household Duties,02 Nov 1982
+151,160439263,"Iso, Liah",F,Omai,Subsistence Farmer,23 Oct 1997
+152,160234562,"Ita, Eskola",F,Omai,Subsistence Farmer,13 Apr 1992
+153,160439264,"Ita, Jullie",F,Omai,Subsistence Farmer,05 Nov 2000
+154,160146536,"Jack, Janny",F,Omai,Household Duties,01 Jan 1968
+155,160439266,"Jackey, Enjailyn",F,Omai,Student,14 Aug 2000
+156,160121442,"Jacob, Margret",F,Omai,Student,18 Sep 1998
+157,25085740,"Jacob, Pape",F,Omai,Student,16 Oct 2002
+158,160232133,"Jacob, Ratame",F,Kana,Subsistence Farmer,01 Jan 1977
+159,160139615,"James, Alice",F,Omai,Household Duties,07 Feb 1991
+160,160227041,"James, Ewsola",F,Kana,Subsistence Farmer,01 Jan 1980
+161,160180848,"James, Imbi",F,Yamerikiae,Household Duties,01 Jan 1963
+162,160234459,"James, Serah",F,Oyaga,Subsistence Farmer,01 Jan 1960
+163,160439269,"Jeffery, Nancy",F,Omai,Subsistence Farmer,14 Feb 1988
+164,160121386,"Joel, Lewa",F,Ramikipa,Household Duties,16 Sep 1995
+165,160439270,"Joel, Pero",F,Omai,Household Duties,01 Jun 2002
+166,160439271,"John, Daiyan",F,Omai,Student,24 Feb 2002
+167,160121381,"John, Eni",F,Ramikipa,Student,14 Jun 1997
+168,25085742,"John, Lavana",F,Omai,Student,06 Jan 2004
+169,25085744,"John, Lorame",F,Omai,Self Employed,12 Mar 1981
+170,160196532,"John, Mata",F,Omai,Subsistence Farmer,01 Jan 1986
+171,160196517,"John, Roslin",F,Yamerikiae,Household Duties,01 Jan 1976
+172,160121373,"John, Stepheni",F,Ramikipa,Student,19 Apr 1997
+173,160227428,"John, Walenu",F,Omai,Household Duties,01 Jan 1945
+174,160142449,"Joseph, Esther",F,Omai,Subsistence Farmer,01 Jan 1985
+175,160121433,"Joseph, Evelin",F,Omai,Student,10 Jun 1998
+176,25085750,"Joseph, Jamelyn",F,Omai,Student,16 Sep 2003
+177,160234549,"Joseph, Jemmie",F,Omai,Student,20 Mar 1993
+178,160146335,"Joseph, Nati",F,Omai,Subsistence Farmer,01 Jan 1987
+179,160139618,"Joshua, Belinda",F,Ilo,Subsistence Farmer,15 Jan 1987
+180,160234472,"Joshua, Belinda",F,Omai,Subsistence Farmer,01 Jan 1986
+181,160227621,"Joshua, Magret",F,Ilo,Household Duties,01 Jan 1969
+182,160227538,"Joshua, Sagarepe",F,Ilo,Household Duties,01 Jan 1954
+183,160121372,"Jumba, Maria",F,Ramikipa,Subsistence Farmer,16 Aug 1994
+184,160234410,"Junior, Delma",F,New Island,Subsistence Farmer,01 Jan 1981
+185,160142445,"Kakeali, Misi",F,Omai,Subsistence Farmer,01 Jan 1967
+186,160234415,"Kalado, Makirame",F,Nekea/Renderepa,Subsistence Farmer,01 Jan 1966
+187,160234404,"Kalado, Soty",F,Nekea/Renderepa,Subsistence Farmer,01 Jan 1989
+188,160234313,"Kalasi, Wami",F,Yamerikiae,Subsistence Farmer,01 Jan 1964
+189,160234252,"Kaleda, Wandau",F,Kana,Subsistence Farmer,01 Jan 1960
+190,160199078,"Kalenaki, Payamenda",F,Omai,Subsistence Farmer,01 Jan 1956
+191,160146516,"Kalenda, Balu",F,Omai,Subsistence Farmer,01 Jan 1985
+192,160439279,"Kalenda, Jenny",F,Omai,Subsistence Farmer,01 Mar 1989
+193,25085759,"Kalenda, Jjenny",F,Omai,Self Employed,16 Feb 1985
+194,160176312,"Kalenda, Rundu",F,Kana,Subsistence Farmer,01 Jan 1985
+195,160177921,"Kalenda, Same",F,Kana,Subsistence Farmer,01 Jan 1980
+196,160142359,"Kalenda, Serina",F,Omai,Housegirl,01 Jan 1977
+197,160204346,"Kalenda, Yala",F,Omai,Subsistence Farmer,01 Jan 1986
+198,160234522,"Kama, Breda",F,Yamerikiae,Student,01 Jan 1991
+199,160234521,"Kama, Yondopame",F,Yamerikiae,Subsistence Farmer,01 Jan 1959
+200,160121266,"Kambita, Anita",F,Ramerikiae,Student,11 Dec 1998
+201,160146231,"Kandi, Bisa",F,Omai,Household Duties,01 Jan 1964
+202,160227599,"Kandi, Gime",F,Yamerikiae,Household Duties,01 Jan 1965
+203,160146491,"Kapi, Grace",F,Omai,Household Duties,01 Jan 1976
+204,160185994,"Kapi, Roslin",F,Omai,Household Duties,01 Jan 1971
+205,160234682,"Kee, Cathy",F,Ilo,Subsistence Farmer,01 Jan 1993
+206,160196414,"Kela, Yagame",F,Ilo,Subsistence Farmer,01 Jan 1967
+207,160180744,"Kelamu, Bapi",F,Yamerikiae,Household Duties,01 Jan 1966
+208,160180909,"Kelamu, Rake",F,Yamerikiae,Housegirl,01 Jan 1989
+209,160227451,"Kemaria, Andi",F,Ilo,Student,01 Jan 1974
+210,160189969,"Kemaria, Keti",F,Omai,Subsistence Farmer,01 Jan 1972
+211,160227456,"Kemaria, Preslina",F,Ilo,Household Duties,01 Jan 1977
+212,160227316,"Kemaria, Rurunu",F,Ilo,Household Duties,01 Jan 1954
+213,160221161,"Kera, Lapi",F,Omai,Subsistence Farmer,01 Jan 1961
+214,160190679,"Kera, Name",F,Omai,Subsistence Farmer,01 Jan 1946
+215,160187661,"Kera, Porame",F,Ilo,Subsistence Farmer,01 Jan 1987
+216,160196406,"Kera, Yakili",F,Omai,Subsistence Farmer,01 Jan 1946
+217,160234461,"Kermaria, Joyclin",F,Ilo,Housegirl,01 Jan 1994
+218,160142357,"Kira, Delma",F,Omai,Household Duties,01 Jan 1980
+219,160230748,"Kira, Endowa",F,Yamerikiae,Subsistence Farmer,01 Jan 1943
+220,160190891,"Kiriwi, Diayame",F,Omai,Subsistence Farmer,01 Jan 1940
+221,160230820,"Kombea, Julie",F,Kana,Household Duties,01 Jan 1988
+222,160142358,"Kombea, Ruth",F,Omai,Household Duties,01 Jan 1973
+223,160232421,"Kombeapa, Magaret",F,Nekea/Renderepa,Student,01 Jan 1992
+224,160232414,"Kombeapa, Meritop",F,Nekea/Renderepa,Subsistence Farmer,01 Jan 1989
+225,160232413,"Kombeapa, Porame",F,Nekea/Renderepa,Subsistence Farmer,01 Jan 1968
+226,160439286,"Kondarey, Mesy",F,Omai,Subsistence Farmer,15 Feb 2002
+227,160121411,"Kondearex, Mesi",F,Ilo,Subsistence Farmer,13 May 1983
+228,160139621,"Kondo, Trisa",F,Omai,Subsistence Farmer,14 Mar 1964
+229,160439287,"Kone, Jacklyn",F,Omai,Student,10 Nov 2001
+230,160439288,"Kone, Jacklyn",F,Omai,Student,15 Aug 2000
+231,160234674,"Kone, Paloame",F,Ilo,Household Duties,01 Jan 1970
+232,160227617,"Kopea, Anna",F,Ilo,Housegirl,01 Jan 1986
+233,160439290,"Kopea, Emah",F,Omai,Student,11 Oct 2002
+234,160234315,"Kopea, Esta",F,Yamerikiae,Student,01 Jan 1991
+235,160227403,"Kopea, Merlin",F,Ilo,Subsistence Farmer,01 Jan 1987
+236,160234316,"Kopea, Rebeka",F,Yamerikiae,Subsistence Farmer,01 Jan 1994
+237,25085772,"Kopea, Sila",F,Omai,Student,15 Feb 2004
+238,160190104,"Kopea, Yope",F,Yamerikiae,Household Duties,01 Jan 1974
+239,160234519,"Kotapu, Naomie",F,Yamerikiae,Housegirl,01 Jan 1984
+240,160234672,"Kotapu, Rore",F,Yamerikiae,Subsistence Farmer,01 Jan 1970
+241,160201328,"Kundi, Poylin",F,Omai,Subsistence Farmer,01 Jan 1987
+242,160121417,"Kundi, Stevelin",F,Omai,Student,16 Apr 1999
+243,160234325,"Kurap, Jeniffa",F,Omai,Housegirl,01 Jan 1990
+244,160196403,"Kurap, Magret",F,Omai,Teacher,01 Jan 1975
+245,160193396,"Kuru, Kapuame",F,Ilo,Subsistence Farmer,01 Jan 1963
+246,160222301,"Kuruma, Lome",F,Yamerikiae,Subsistence Farmer,01 Jan 1961
+247,160146478,"Kuruma, Rebeca",F,Omai,Subsistence Farmer,01 Jan 1976
+248,160142356,"Kuruma, Regina",F,Omai,Subsistence Farmer,01 Jan 1987
+249,160230628,"Kuruma, Repeto",F,Yamerikiae,Household Duties,01 Jan 1953
+250,160121283,"Lah, Mari",F,Omai,Household Duties,12 Oct 1995
+251,160121284,"Lah, Rose",F,Omai,Student,16 Jan 1999
+252,160121282,"Lah, Sandi",F,Omai,Household Duties,16 Apr 1995
+253,160234257,"Lape, Sopina",F,Kana,Subsistence Farmer,01 Jan 1993
+254,160139612,"Leyo, Salome",F,Omai,Household Duties,21 Jul 1989
+255,160196498,"Limu, Walarepe",F,Omai,Subsistence Farmer,01 Jan 1966
+256,160146503,"Loai, Mary",F,Omai,Subsistence Farmer,01 Jan 1967
+257,160232426,"Loke, Aire",F,Nekea/Renderepa,Subsistence Farmer,01 Jan 1970
+258,160232416,"Loke, Anna",F,Nekea/Renderepa,Subsistence Farmer,01 Jan 1989
+259,160232427,"Loke, Lorepu",F,Nekea/Renderepa,Housegirl,01 Jan 1992
+260,160146500,"Loke, Misimi",F,Omai,Subsistence Farmer,01 Jan 1948
+261,160142447,"Lomba, Janifa",F,Omai,Subsistence Farmer,01 Jan 1970
+262,160146488,"Lomba, Wariame",F,Omai,Household Duties,01 Jan 1932
+263,160190987,"Lotu, Etepame",F,Yamerikiae,Household Duties,01 Jan 1969
+264,160234515,"Lotu, Julien",F,Yamerikiae,Subsistence Farmer,01 Jan 1994
+265,160234727,"Magala, Betty",F,Ilo/Anna,Housegirl,01 Jan 1990
+266,160142655,"Maita, Malupianu",F,Omai,Subsistence Farmer,01 Jan 1942
+267,160439295,"Makai, Nancy",F,Omai,Student,06 Oct 2003
+268,160193298,"Makua, Kerami",F,Oyaga,Subsistence Farmer,01 Jan 1943
+269,160234512,"Malakai, Lyli",F,Yamerikiae,Household Duties,01 Jan 1986
+270,160190927,"Male, Andame",F,Omai,Subsistence Farmer,01 Jan 1986
+271,160197237,"Male, Keyapita",F,Oyaga,Subsistence Farmer,01 Jan 1963
+272,160234226,"Malu, Joyce",F,Omai,Household Duties,01 Jan 1980
+273,160139617,"Malu, Matilda",F,Ilo,Subsistence Farmer,05 Nov 1990
+274,160234666,"Mama, Emma",F,Omai,Housegirl,18 Sep 1993
+275,160234384,"Mambol, Seron",F,Omai,Subsistence Farmer,01 Jan 1987
+276,160121389,"Mamo, Lindia",F,Ramikipa,Subsistence Farmer,14 Sep 1997
+277,160234510,"Manaba, Alo",F,Yamerikiae,Subsistence Farmer,01 Jan 1990
+278,160234559,"Manaba, Mero",F,Yamerikiae,Housegirl,01 Jan 1994
+279,160234527,"Manaba, Ratape",F,Yamerikiae,Subsistence Farmer,01 Jan 1960
+280,160234580,"Manamea, Mata",F,New Island,Subsistence Farmer,01 Jan 1977
+281,160146374,"Manda, Engela",F,Omai,Housegirl,01 Jan 1987
+282,160193357,"Manda, Masame",F,Omai,Subsistence Farmer,01 Jan 1942
+283,160439298,"Mangala, Regole",F,Omai,Student,08 Jun 2002
+284,160439299,"Mangala, Stepheny",F,Omai,Student,03 May 2000
+285,160121409,"Mapun, Epea",F,Ilo,Student,03 May 1998
+286,160121285,"Mapun, Epenong",F,Omai,Student,01 Jan 1997
+287,160121408,"Mapun, Lami",F,Ilo,Student,03 May 1998
+288,160137966,"Mapun, Lili",F,Omai,Student,18 May 1995
+289,160201997,"Mara, Jenny",F,Omai,Subsistence Farmer,01 Jan 1986
+290,160146496,"Mara, Margaret",F,Omai,Subsistence Farmer,01 Jan 1986
+291,160146358,"Mara, Soty",F,Omai,Subsistence Farmer,01 Jan 1986
+292,160229745,"Mari, Wai",F,Yamerikiae,Household Duties,01 Jan 1964
+293,160121257,"Mark, Dorrin",F,Ramerikiae,Household Duties,14 Apr 1994
+294,160234670,"Marthin, Lilien",F,Ilo,Student,01 Jan 1993
+295,160121252,"Marthin, Roselyn",F,Omai,Household Duties,11 Jul 1991
+296,160121263,"Martin, Angela",F,Ramerikiae,Student,14 May 1997
+297,160439301,"Martin, Lian",F,Omai,Student,07 Jun 1996
+298,160439302,"Martin, Lilla",F,Omai,Student,08 Jan 1999
+299,160439305,"Martin, Marcy",F,Omai,Student,09 Oct 1999
+300,160439307,"Martin, Nancy",F,Omai,Student,04 Dec 1998
+301,160227458,"Martin, Rutu",F,Ilo,Household Duties,01 Jan 1961
+302,160139781,"Mas, Maria",F,Ramerikiae,Subsistence Farmer,16 Jan 1997
+303,160121255,"Mas, Sila",F,Ramerikiae,Student,04 Nov 1998
+304,160185985,"Masa, Malinda",F,Omai,Subsistence Farmer,01 Jan 1987
+305,160177635,"Masa, Wami",F,Kana,Subsistence Farmer,01 Jan 1955
+306,160439308,"Mason, Pricilla",F,Omai,Student,04 Mar 2002
+307,160234579,"Mata, Elis",F,New Island,Subsistence Farmer,01 Jan 1977
+308,160234402,"Mata, Mali",F,New Island,Subsistence Farmer,01 Jan 1982
+309,160234503,"Mathew, Juliie",F,Omai,Household Duties,02 Dec 1977
+310,160439315,"Mathew, Machell",F,Omai,Student,20 Nov 2000
+311,160439317,"Mathew, Makhack",F,Omai,Student,28 Apr 2004
+312,160121401,"Mathew, Mila",F,Omai,Student,01 Feb 1998
+313,160234662,"Mathew, Remeba",F,Omai,Student,18 Jul 1994
+314,160202175,"Mathew, Rose",F,Ilo,Household Duties,01 Jan 1973
+315,160196405,"Mathin, Dala",F,Omai,Subsistence Farmer,01 Jan 1976
+316,160121264,"Matin, Lila",F,Ramerikiae,Student,13 Aug 1998
+317,25085787,"Max, Jamelyn",F,Omai,Student,11 Apr 2002
+318,25085789,"Max, Jamica",F,Omai,Student,11 Apr 2001
+319,160188230,"Max, Jannifer",F,Omai,Student,01 Jan 1988
+320,25085791,"Max, Johnnah",F,Omai,Student,15 Nov 2003
+321,160234400,"Max, Malinda",F,Omape,Subsistence Farmer,01 Jan 1986
+322,160234223,"Max, Mathy",F,Omai,Student,18 Sep 1993
+323,160121416,"Max, Matilda",F,Omai,Student,10 Apr 1995
+324,160121431,"Max, Nami",F,Omai,Student,19 Jan 1997
+325,160234448,"Max, Polin",F,Omai,Student,08 Mar 1992
+326,160439322,"Max, Pumi",F,Omai,Houseboy,10 May 2000
+327,160439329,"May, Petchell",F,Omai,Student,17 Jul 2003
+328,160190125,"Mayasi, Nogosi",F,Omai,Subsistence Farmer,01 Jan 1946
+329,160202075,"Mealo, Dinah",F,Yamerikiae,Household Duties,01 Jan 1976
+330,160439331,"Mealo, Dorika",F,Omai,Student,17 Dec 2000
+331,160439333,"Mealo, Lapelyn",F,Omai,Household Duties,19 Jul 2000
+332,160234453,"Mealo, Monika",F,Yamerikiae,Student,01 Jan 1994
+333,160142620,"Meamo, Mani",F,Omai,Subsistence Farmer,01 Jan 1965
+334,160234401,"Michael, Macda",F,New Island,Subsistence Farmer,01 Jan 1983
+335,160234408,"Micheal, Macda",F,New Island,Household Duties,01 Jan 1988
+336,160146234,"Minalu, Rebeca",F,Omai,Household Duties,01 Jan 1967
+337,160204942,"Minape, Danet",F,Kana,Subsistence Farmer,01 Jan 1977
+338,160176338,"Minape, Wali",F,Kana,Subsistence Farmer,01 Jan 1976
+339,160234264,"Minayope, Pogolame",F,Kana,Subsistence Farmer,01 Jan 1964
+340,160234263,"Minayope, Rosa",F,Kana,Subsistence Farmer,01 Jan 1993
+341,160193403,"Minisa, Galapame",F,Yamerikiae,Household Duties,01 Jan 1954
+342,160146490,"Minisa, Socy",F,Omai,Housegirl,01 Jan 1989
+343,160177641,"Miniyope, Miriam",F,Kana,Student,01 Jan 1988
+344,160439336,"Miti, Ensolyn",F,Omai,Household Duties,11 Aug 2000
+345,160202189,"Miti, Undipa",F,Yamerikiae,Household Duties,01 Jan 1974
+346,160227547,"Moria, Jenny",F,Ilo,Not Specified,01 Jan 1985
+347,160234320,"Moria, Jones",F,Ilo,Student,01 Jan 1994
+348,160227421,"Moria, Kerami",F,Ilo,Subsistence Farmer,01 Jan 1944
+349,160227419,"Moria, Melinda",F,Ilo,Household Duties,01 Jan 1973
+350,160229576,"Moris, Easther",F,Yamerikiae,Household Duties,01 Jan 1976
+351,25085795,"Moris, Paulin",F,Omai,Self Employed,21 Oct 2002
+352,160121365,"Moso, Betty",F,Ramikipa,Household Duties,15 May 1996
+353,160203741,"Muna, Name",F,Ilo,Subsistence Farmer,01 Jan 1985
+354,160227681,"Muna, Yonk",F,Ilo,Household Duties,01 Jan 1958
+355,160121414,"Nade, Esi",F,Ilo,Subsistence Farmer,04 Sep 1994
+356,160233240,"Nade, Mali",F,Ilo/Anna,Subsistence Farmer,01 Jan 1980
+357,160234216,"Naki, Maria",F,Omai,Subsistence Farmer,01 Jan 1968
+358,160439342,"Naki, Sepita",F,Omai,Student,05 Oct 2001
+359,160201457,"Nakisi, Kolandi",F,Omai,Subsistence Farmer,01 Jan 1977
+360,160439346,"Nakisi, Rosemeri",F,Omai,Subsistence Farmer,19 Oct 2000
+361,160194618,"Naku, Anna",F,Omai,Subsistence Farmer,01 Jan 1975
+362,160234539,"Naku, Rossa",F,Omai,Housegirl,01 Jan 1990
+363,160143717,"Nali, Lipi",F,Omai,Subsistence Farmer,01 Jan 1987
+364,160190114,"Nali, Yopenu",F,Omai,Subsistence Farmer,01 Jan 1971
+365,160439350,"Nande, Esy",F,Omai,Subsistence Farmer,16 Sep 1990
+366,160201053,"Nande, Janifa",F,Omai,Subsistence Farmer,01 Jan 1973
+367,160201173,"Nande, Jully",F,Omai,Student,01 Jan 1989
+368,160201057,"Nande, Kenda",F,Ilo,Subsistence Farmer,01 Jan 1972
+369,160121269,"Nande, Nong",F,Ramerikiae,Household Duties,08 Nov 1994
+370,160202615,"Napai, Rero",F,Yamerikiae,Household Duties,01 Jan 2000
+371,160439352,"Napisy, Delma",F,Omai,Household Duties,11 Oct 1996
+372,160229671,"Niru, Maria",F,New Island,Household Duties,01 Jan 1935
+373,160234409,"Niru, Maria",F,New Island,Subsistence Farmer,01 Jan 1970
+374,160230431,"Niru, Mata",F,Kana,Household Duties,01 Jan 1937
+375,160234506,"Niru, Ruth",F,Omai,Subsistence Farmer,13 Jul 1979
+376,160227025,"Niru, Susan",F,Kana,Household Duties,01 Jan 1970
+377,160139624,"Nogea, Daien",F,Omai,Household Duties,24 Jun 1988
+378,160190936,"Nogea, Jacklin",F,Yamerikiae,Housegirl,01 Jan 1986
+379,160146350,"Nogea, Magreth",F,Omai,Housegirl,01 Jan 1990
+380,160190914,"Nogea, Padapame",F,Yamerikiae,Household Duties,01 Jan 1960
+381,160142646,"Nogea, Polepamu",F,Omai,Household Duties,01 Jan 1946
+382,160203855,"Nolepa, Rundu",F,Yamerikiae,Household Duties,01 Jan 2000
+383,160146361,"Noma, Remosi",F,Omai,Subsistence Farmer,01 Jan 1963
+384,160198393,"Noua, Mundi",F,Oyaga,Subsistence Farmer,01 Jan 1973
+385,160234542,"Oge, Teke",F,Ilo,Household Duties,01 Jan 1993
+386,160201624,"Omaku, Merolyn",F,Omai,Subsistence Farmer,01 Jan 1976
+387,160203969,"Omape, Poname",F,Omai,Subsistence Farmer,01 Jan 1975
+388,160196509,"Omape, Reshol",F,Ilo,Subsistence Farmer,01 Jan 1988
+389,160234473,"Omape, Soty",F,Omai,Subsistence Farmer,17 Aug 1994
+390,160194633,"Onde, Ruru",F,Omai,Subsistence Farmer,01 Jan 1955
+391,160234661,"Orope, Norin",F,Omai,Subsistence Farmer,01 Jan 1973
+392,160234259,"Ota, Lita",F,Kana,Subsistence Farmer,01 Jan 1991
+393,160234265,"Ota, Nogosi",F,Kana,Subsistence Farmer,01 Jan 1965
+394,160198896,"Owi, Janet",F,Omai,Subsistence Farmer,01 Jan 1978
+395,160227292,"Owi, Kupuagi",F,Omai,Household Duties,01 Jan 1963
+396,160173676,"Owi, Mary",F,Omai,Subsistence Farmer,01 Jan 1977
+397,25085805,"Paima, Docus",F,Omai,Student,14 Apr 2004
+398,25085807,"Paima, Ensther",F,Omai,Student,21 Nov 2000
+399,160193266,"Paima, Kato",F,Omai,Student,01 Jan 1979
+400,160193267,"Paima, Lope",F,Omai,Subsistence Farmer,01 Jan 1982
+401,160190903,"Paima, Miriam",F,Omai,Subsistence Farmer,01 Jan 1966
+402,25085811,"Paima, Priscilla",F,Omai,Subsistence Farmer,11 Jan 2003
+403,160227303,"Paima, Seki",F,Omai,Household Duties,01 Jan 1971
+404,160201627,"Paima, Wareame",F,Omai,Subsistence Farmer,01 Jan 1942
+405,160234497,"Paina, Emmelian",F,Omai,Subsistence Farmer,19 Aug 1987
+406,160196337,"Paina, Nomi",F,Omai,Subsistence Farmer,01 Jan 1976
+407,160198995,"Pake, Kambpala",F,Kana,Subsistence Farmer,01 Jan 1961
+408,160234507,"Pakea, Hellie",F,Omai,Subsistence Farmer,07 Dec 1977
+409,160227313,"Pakena, Neli",F,Ilo,Household Duties,01 Jan 1974
+410,160146538,"Pakena, Raramu",F,Omai,Subsistence Farmer,01 Jan 1974
+411,160227438,"Pakena, Yakenu",F,Ilo,Household Duties,01 Jan 1945
+412,160121369,"Pala, Gika",F,Ramikipa,Student,16 Feb 1998
+413,160202168,"Pala, Nirunu",F,Yamerikiae,Household Duties,01 Jan 1975
+414,25085817,"Pamai, Sila",F,Omai,Self Employed,13 Mar 2003
+415,160142656,"Pambi, Talapapu",F,Omai,Subsistence Farmer,01 Jan 1956
+416,160230859,"Pamea, Jannay",F,Kana,Housegirl,01 Jan 1986
+417,160142374,"Pamuali, Mackdaly",F,Omai,Subsistence Farmer,01 Jan 1979
+418,160143868,"Pamuali, Wariama",F,Omai,Subsistence Farmer,01 Jan 1975
+419,160190888,"Pamualy, Opame",F,Omai,Subsistence Farmer,01 Jan 1986
+420,160234552,"Pandea, Jannet",F,Yamerikiae,Student,01 Jan 1991
+421,160234498,"Pandea, Rekame",F,Yamerikiae,Subsistence Farmer,01 Jan 1973
+422,160234406,"Pani, Rulu",F,New Island,Subsistence Farmer,01 Jan 1980
+423,160234474,"Papex, Frinda",F,Omai,Subsistence Farmer,01 Jan 1989
+424,160229577,"Pati, Kilian",F,Yamerikiae,Household Duties,01 Jan 1975
+425,160439359,"Patrick, Dorika",F,Omai,Household Duties,04 Nov 1998
+426,160439361,"Paul, Belinda",F,Omai,Student,05 Oct 2002
+427,160187014,"Paul, Betty",F,Kana,Subsistence Farmer,01 Jan 1988
+428,160234555,"Paul, Christina",F,Omai,Subsistence Farmer,12 Aug 1989
+429,25085819,"Paul, Freng",F,Omai,Student,11 Nov 2000
+430,160230699,"Paul, Nisimi",F,Kana,Household Duties,01 Jan 1965
+431,160234245,"Paul, Tetali",F,Kana,Subsistence Farmer,01 Jan 1972
+432,160121438,"Payopa, Norin",F,Omai,Student,16 May 1998
+433,160173462,"Pealu, Kapupame",F,Kana,Subsistence Farmer,01 Jan 1952
+434,160234277,"Peawi, Polyn",F,Kana,Subsistence Farmer,01 Jan 1992
+435,160234451,"Peme, Joyce",F,Omai,Housegirl,18 Nov 1992
+436,25085824,"Peme, Lagiame",F,Omai,Student,15 Jun 2000
+437,25085826,"Peme, Lavina",F,Omai,Student,17 Aug 2001
+438,25085828,"Peme, Lorina",F,Omai,Student,10 Mar 2003
+439,160190992,"Peme, Nancy",F,Omai,Subsistence Farmer,01 Jan 1972
+440,160234479,"Peme, Reachel",F,Omai,Subsistence Farmer,05 Feb 1993
+441,160226419,"Pentony, Wendi",F,New Island,Subsistence Farmer,01 Jan 1984
+442,160146458,"Perea, Yombo",F,Omai,Subsistence Farmer,01 Jan 1955
+443,160194612,"Pereke, Helen",F,Omai,Subsistence Farmer,01 Jan 1990
+444,160146622,"Pero, Stela",F,Omai,Subsistence Farmer,01 Jan 1987
+445,160190998,"Peter, Anna",F,Omai,Subsistence Farmer,01 Jan 1976
+446,25085838,"Peter, Dorothy",F,Omai,Student,16 Mar 2004
+447,160121390,"Peter, Elie",F,Omai,Subsistence Farmer,14 Feb 1995
+448,160121404,"Peter, Enika",F,Omai,Household Duties,20 Nov 1992
+449,160439365,"Peter, Gogina",F,Omai,Student,19 Jan 2000
+450,25085846,"Peter, Jonina",F,Omai,Student,15 Aug 2001
+451,160142648,"Peter, Jospin",F,Omai,Housegirl,01 Jan 1982
+452,160190995,"Peter, Joycka",F,Omai,Subsistence Farmer,01 Jan 1968
+453,25085847,"Peter, Komono",F,Omai,Student,14 Apr 2004
+454,160190953,"Peter, Kumapi",F,Yamerikiae,Household Duties,01 Jan 1961
+455,25085848,"Peter, Lina",F,Omai,Student,12 Nov 2003
+456,160439371,"Peter, Nancy",F,Omai,Student,04 Mar 2000
+457,160227776,"Peter, Peri",F,Yamerikiae,Housegirl,01 Jan 1988
+458,160121398,"Peter, Polina",F,Omai,Household Duties,09 Nov 1987
+459,160121400,"Peter, Ronda",F,Omai,Student,05 Nov 1998
+460,25085849,"Peter, Roslyn",F,Omai,Self Employed,11 Sep 1974
+461,160439373,"Peter, Rosna",F,Omai,Student,10 Nov 2002
+462,25085850,"Peter, Sindia",F,Omai,Student,11 Apr 2003
+463,25085851,"Peter, Solo",F,Omai,Student,15 Jun 1988
+464,25085852,"Peter, Sololina",F,Omai,Student,14 Jun 2002
+465,160227050,"Pisipi, Pamela",F,Kana,Student,01 Jan 1990
+466,160221042,"Pisipi, Serina",F,Kana,Student,19 Apr 1987
+467,160142355,"Pogola, Pereame",F,Omai,Household Duties,01 Jan 1977
+468,160227448,"Pogola, Rawa",F,Ilo,Housegirl,01 Jan 1984
+469,160143864,"Pokale, Runiagi",F,Omai,Subsistence Farmer,01 Jan 1941
+470,160202607,"Pokea, Soti",F,Yamerikiae,Household Duties,01 Jan 1978
+471,160146443,"Pona, Natligi",F,Omai,Subsistence Farmer,01 Jan 1974
+472,160201617,"Pona, Terma",F,Omai,Subsistence Farmer,01 Jan 1987
+473,160234501,"Pone, Yakinu",F,Omai,Housegirl,01 Jan 1979
+474,160234248,"Pono, Maki",F,Kana,Subsistence Farmer,01 Jan 1978
+475,160146204,"Poti, Lina",F,Omai,Subsistence Farmer,01 Jan 1976
+476,160121364,"Prundu, Jina",F,Ramikipa,Student,15 Jun 1998
+477,160439381,"Ps martin, Rebecca",F,Omai,Pastor,05 Jun 1997
+478,160185059,"Pula, Andalunogo",F,Omai,Subsistence Farmer,01 Jan 1954
+479,160439383,"Pula, Dorothy",F,Omai,Student,03 Jul 2002
+480,160234681,"Pula, Eleame",F,Yamerikiae,Household Duties,01 Jan 1978
+481,160439385,"Pula, Lenita",F,Omai,Student,08 Sep 2001
+482,160230419,"Pulupa, Katolin",F,Kana,Household Duties,01 Jan 1960
+483,160177513,"Pulupa, Monica",F,Yamerikiae,Subsistence Farmer,01 Jan 1978
+484,160232476,"Pulupa, Veronica",F,Kana,Subsistence Farmer,01 Jan 1991
+485,160177788,"Puri, Rundunogo",F,Kana,Subsistence Farmer,01 Jan 1955
+486,160227040,"Puri, Serina",F,Kana,Subsistence Farmer,01 Jan 1984
+487,160234307,"Puri, Stacy",F,Omai,Subsistence Farmer,01 Jan 1970
+488,160143713,"Putisi, Maria",F,Omai,Subsistence Farmer,01 Jan 1976
+489,160439397,"Raitalo, Rossna",F,Omai,Student,26 Mar 2004
+490,160201860,"Rakilia, Matadanu",F,Ilo,Subsistence Farmer,01 Jan 1963
+491,160146475,"Rakipu, Rumbame",F,Omai,Subsistence Farmer,01 Jan 1957
+492,160121258,"Rala, Elizabeth",F,Ramerikiae,Household Duties,18 Jun 1987
+493,160197060,"Ralia, Ali",F,Omai,Subsistence Farmer,01 Jan 1980
+494,160197118,"Ralia, Getty",F,Omai,Subsistence Farmer,01 Jan 1986
+495,160121385,"Ralia, Regina",F,Ramikipa,Student,11 May 1998
+496,160234529,"Rambua, Esta",F,Yamerikiae,Subsistence Farmer,01 Jan 1982
+497,160227238,"Ramu, Mombi",F,Kana,Household Duties,01 Jan 1967
+498,160227119,"Ramua, Lenet",F,Ilo,Household Duties,01 Jan 1973
+499,160146537,"Ramua, Muname",F,Omai,Household Duties,01 Jan 1954
+500,160227435,"Ramua, Seleme",F,Ilo,Household Duties,01 Jan 1954
+501,160439399,"Randau, Lea",F,Omai,Student,19 Apr 2004
+502,160439401,"Randau, Lenitha",F,Omai,Student,18 Jan 2003
+503,160439403,"Randau, Roslin",F,Omai,Household Duties,13 Jun 2000
+504,160439405,"Randau, Steveni",F,Omai,Household Duties,25 Aug 2001
+505,160121426,"Randau, Steveni",F,Omai,Student,11 Sep 1997
+506,160234330,"Rane, Mundi",F,Oyaga,Subsistence Farmer,01 Jan 1964
+507,160121450,"Rapail, Prisca",F,Ramerikiae,Subsistence Farmer,14 Mar 1973
+508,160121260,"Ratalo, Daisi",F,Ramerikiae,Student,19 Apr 1998
+509,25085853,"Rathlo, Josephine",F,Omai,Subsistence Farmer,19 Jul 2003
+510,160439411,"Rati, Ruth",F,Omai,Student,03 Nov 2000
+511,160232412,"Ratu, Yawenu",F,Nekea/Renderepa,Subsistence Farmer,01 Jan 1984
+512,160231094,"Rawa, Elis",F,Kana,Household Duties,01 Jan 1975
+513,160181012,"Rawa, Rebeca",F,Kana,Subsistence Farmer,01 Jan 1978
+514,160177940,"Rawa, Yona",F,Kana,Subsistence Farmer,01 Jan 1975
+515,25085854,"Rayhlo, Rosna",F,Omai,Subsistence Farmer,28 Apr 2004
+516,160121388,"Reali, Anna",F,Ramikipa,Subsistence Farmer,12 Jun 1991
+517,160234687,"Regepea, Yala",F,Yamerikiae,Subsistence Farmer,01 Jan 1982
+518,160234513,"Rekam, Gispea",F,Yamerikiae,Subsistence Farmer,01 Jan 1949
+519,160190089,"Rekari, Eli",F,Yamerikiae,Housegirl,01 Jan 1988
+520,160190085,"Rekari, Koyopame",F,Yamerikiae,Household Duties,01 Jan 1957
+521,25085855,"Repa, Lina",F,Omai,Student,16 Jun 2003
+522,160234260,"Retabu, Gemanu",F,Kana,Subsistence Farmer,01 Jan 1984
+523,160439415,"Retabu, Mekeny",F,Omai,Student,03 Jan 2002
+524,160439418,"Retabu, Nolin",F,Omai,Student,03 Dec 2002
+525,160139606,"Rex, Oliva",F,Ramikipa,Student,31 Jan 1998
+526,160234679,"Rex, Oliver",F,Omai,Student,15 Mar 1994
+527,160234464,"Rex, Roslyn",F,Yamerikiae,Subsistence Farmer,01 Jan 1970
+528,160139614,"Ria, Gesolin",F,Omai,Student,06 Dec 1998
+529,160439424,"Ria, Kesenda",F,Omai,Student,01 Jul 2003
+530,160234690,"Ria, Moki",F,Oyaga,Subsistence Farmer,01 Jan 1988
+531,160234532,"Rickson, Christina",F,Oyaga,Pastor,01 Jan 1985
+532,160439430,"Robert, Morren",F,Omai,Household Duties,01 Mar 1999
+533,160234536,"Robin, Meki",F,Omai,Subsistence Farmer,16 Jun 1981
+534,160234480,"Rodney, Anna",F,Yamerikiae,Subsistence Farmer,01 Jan 1988
+535,160210596,"Rombala, Maria",F,Yamerikiae,Household Duties,01 Jan 1976
+536,160121286,"Ruben, Easther",F,Omai,Household Duties,12 Feb 1999
+537,160234663,"Ruben, Natlyna",F,Omai,Subsistence Farmer,01 Jan 1987
+538,160206862,"Rulu, Magret",F,Yamerikiae,Household Duties,01 Jan 1973
+539,160121447,"Rulu, Susan",F,Ramerikiae,Student,14 May 1998
+540,160230698,"Rundua, Pakename",F,Kana,Subsistence Farmer,01 Jan 1961
+541,160146519,"Rundua, Susana",F,Omai,Subsistence Farmer,01 Jan 1980
+542,160234558,"Runi, Anna",F,Omai,Subsistence Farmer,08 Jul 1960
+543,160232425,"Rutu, Sainame",F,Nekea/Renderepa,Subsistence Farmer,01 Jan 1964
+544,160439435,"Saemy, Tracy",F,Omai,Household Duties,11 Oct 1994
+545,160121405,"Saina, Rechael",F,Omai,Household Duties,03 Jul 1991
+546,160229884,"Sale, Maria",F,Kana,Household Duties,01 Jan 1985
+547,160146441,"Salosi, Lineth",F,Omai,Housegirl,01 Jan 1985
+548,160203859,"Salosi, Magreth",F,Yamerikiae,Household Duties,01 Jan 2000
+549,160439437,"Samuel, Donna",F,Omai,Household Duties,19 Jan 1990
+550,160234407,"Samuel, Monika",F,New Island,Subsistence Farmer,01 Jan 1980
+551,160234254,"Seki, Lin",F,Kana,Subsistence Farmer,01 Jan 1976
+552,160439441,"Sengi, Malie",F,Omai,Household Duties,02 May 1997
+553,160439443,"Sengi, Wendi",F,Omai,Household Duties,09 Aug 1998
+554,160121262,"Senis, Dyna",F,Ramerikiae,Student,16 Sep 1998
+555,160230420,"Senis, Rebeca",F,Kana,Household Duties,01 Jan 1976
+556,160234308,"Simon, Eknis",F,Omai,Subsistence Farmer,09 Dec 1988
+557,160234412,"Simon, Helie",F,New Island,Subsistence Farmer,01 Jan 1983
+558,160439449,"Simon, Magi",F,Omai,Household Duties,10 Nov 1989
+559,160234333,"Simon, Meri",F,Oyaga,Store Keeper,01 Jan 1986
+560,160439451,"Sipaki, Melisah",F,Omai,Student,14 Apr 2002
+561,160439453,"Sipaki, Monika",F,Omai,Student,04 Jun 2000
+562,160234545,"Sipaki, Umbanu",F,Oyaga,Subsistence Farmer,01 Jan 1960
+563,160439456,"Solo, Caroc",F,Omai,Household Duties,11 May 1996
+564,160439458,"Solomon, Lavina",F,Omai,Household Duties,02 Jan 1986
+565,160439460,"Stalon, Anna",F,Omai,Teacher,04 May 1992
+566,160439462,"Stanley, Josephine",F,Omai,Household Duties,12 Oct 1999
+567,25085865,"Steven, Benelyn",F,Omai,Household Duties,13 Jan 1989
+568,160234668,"Steven, Rosa",F,Yamerikiae,Subsistence Farmer,01 Jan 1978
+569,160234465,"Steven, Roslin",F,Yamerikiae,Subsistence Farmer,01 Jan 1976
+570,160204643,"Sulasi, Pipita",F,Kana,Subsistence Farmer,01 Jan 1963
+571,160190916,"Sumba, Kemenu",F,Yamerikiae,Household Duties,01 Jan 1972
+572,160233234,"Suri, Markdalyn",F,Ilo,Pastor,01 Jan 1978
+573,160234544,"Suringi, Lindia",F,Oyaga,Student,01 Jan 1992
+574,160234213,"Suringi, Makdalyn",F,Oyaga,Pastor,01 Jan 1966
+575,160201192,"Ta pu, Nogosi",F,Yamerikiae,Household Duties,01 Jan 1966
+576,160190092,"Talu, Ambu",F,Omai,Subsistence Farmer,01 Jan 1946
+577,160187774,"Talu, Kala",F,Ilo,Subsistence Farmer,01 Jan 1953
+578,160190119,"Tame, Mura",F,Omai,Subsistence Farmer,01 Jan 1970
+579,160190952,"Tepe, Pombere",F,Omai,Subsistence Farmer,01 Jan 1963
+580,160185091,"Tepea, Anna",F,Ilo,Subsistence Farmer,01 Jan 1980
+581,160439464,"Thomas, Dorothy",F,Omai,Subsistence Farmer,05 Aug 1998
+582,160234324,"Thomas, Merry",F,Omai,Subsistence Farmer,01 Jan 1990
+583,160439466,"Thomas, Nancy",F,Omai,Household Duties,01 Sep 1985
+584,160121406,"Timothy, Helen",F,Omai,Household Duties,03 Nov 1992
+585,160180876,"Timothy, Karis",F,Yamerikiae,Household Duties,01 Jan 1977
+586,160234305,"Timothy, Lyn",F,Oyaga,Subsistence Farmer,01 Jan 1987
+587,160439471,"Timothy, Melisah",F,Omai,Student,12 Sep 2001
+588,160232477,"Timothy, Roslin",F,Kana,Subsistence Farmer,01 Jan 1986
+589,160234232,"Timothy, Tore",F,Oyaga,Subsistence Farmer,01 Jan 1963
+590,160227294,"Tipu, Bapi",F,Omai,Household Duties,01 Jan 1965
+591,160143597,"Tipu, Bapi",F,Omai,Subsistence Farmer,01 Jan 1969
+592,160233229,"Tomba, Grace",F,Ilo,Student,01 Jan 1994
+593,160233236,"Tomba, Meloni",F,Ilo,Student,01 Jan 1990
+594,160233235,"Tomba, Nomie",F,Ilo,Household Duties,01 Jan 1978
+595,160139620,"Tomba, Vero",F,Omai,Subsistence Farmer,14 May 1997
+596,25085873,"Ton, Everlyn",F,Omai,Student,07 Sep 2000
+597,25085875,"Ton, Rose",F,Omai,Self Employed,15 May 1980
+598,160227052,"Ulae, Lakira",F,Kana,Subsistence Farmer,01 Jan 1954
+599,160234273,"Ulae, Maku",F,Kana,Subsistence Farmer,01 Jan 1951
+600,160234279,"Ulae, Naomi",F,Kana,Student,01 Jan 1990
+601,160227053,"Ulae, Yapita",F,Kana,Subsistence Farmer,01 Jan 1969
+602,160234386,"Ulane, Elli",F,Omai,Student,01 Jan 1991
+603,160234455,"Ulane, Hellen",F,Oyaga,Student,01 Jan 1991
+604,160234385,"Ulane, Mari",F,Omai,Typist,01 Jan 1971
+605,160234454,"Ulane, Narigi",F,Oyaga,Subsistence Farmer,01 Jan 1968
+606,160439479,"Ulane, Nomi",F,Omai,Student,02 Apr 2002
+607,160146618,"Uli, Patame",F,Omai,Subsistence Farmer,01 Jan 1946
+608,160185938,"Umitasi, Feronica",F,Omai,Subsistence Farmer,01 Jan 1987
+609,160190121,"Umitasi, Lina",F,Ilo,Subsistence Farmer,01 Jan 1984
+610,160211213,"Undipa, Magreth",F,Ilo,Household Duties,01 Jan 1975
+611,160146370,"Uni, Mepis",F,Omai,Household Duties,01 Jan 1988
+612,160227523,"Uni, Noweme",F,Ilo,Subsistence Farmer,01 Jan 1964
+613,160227545,"Uni, Tano",F,Ilo,Household Duties,01 Jan 1964
+614,160146227,"Wami, Doli",F,Omai,Student,01 Jan 1987
+615,160227460,"Wami, Janet",F,Ilo,Student,01 Jan 1981
+616,160146535,"Wami, Janny",F,Omai,Housegirl,01 Jan 1988
+617,160190538,"Wami, Lenny",F,Omai,Subsistence Farmer,01 Jan 1976
+618,160227459,"Wami, Lin",F,Omai,Household Duties,01 Jan 1967
+619,160227280,"Wami, Magret",F,Omai,Housegirl,01 Jan 1983
+620,160227470,"Wami, Oleyamu",F,Ilo,Household Duties,01 Jan 1969
+621,160139785,"Wami, Rosy",F,Ramerikiae,Subsistence Farmer,13 Apr 1998
+622,160146376,"Wando, Hellen",F,Omai,Household Duties,01 Jan 1975
+623,160146327,"Wando, Mata",F,Omai,Subsistence Farmer,01 Jan 1978
+624,160142660,"Wando, Name",F,Omai,Subsistence Farmer,01 Jan 1947
+625,160201808,"Wando, Name",F,Kana,Subsistence Farmer,01 Jan 1965
+626,160180382,"Wando, Rando",F,Ilo,Subsistence Farmer,01 Jan 1977
+627,160146326,"Wando, Yapusi",F,Omai,Subsistence Farmer,01 Jan 1972
+628,160227432,"Wane, Rebecca",F,Ilo,Household Duties,01 Jan 1974
+629,160439485,"Wani, Belinda",F,Omai,Subsistence Farmer,01 Aug 1989
+630,160234665,"Wanpis, Hellie",F,Omai,Subsistence Farmer,19 Jul 1978
+631,160180923,"Wanpis, Porenogo",F,Ilo,Subsistence Farmer,01 Jan 1972
+632,160146232,"Wapa, Eli",F,Omai,Household Duties,01 Jan 1978
+633,160139608,"Wape, Anita",F,Omai,Student,05 Jun 1997
+634,160234692,"Wape, Helly",F,Omai,Student,16 May 1994
+635,160121397,"Wape, Jullie",F,Omai,Student,11 Jun 1998
+636,160194254,"Wape, Lena",F,Omai,Student,01 Jan 1983
+637,160194427,"Wape, Maria",F,Omai,Student,01 Jan 1980
+638,160146206,"Wape, Pholyn",F,Omai,Student,01 Jan 1987
+639,160139782,"Waporopasi, Loreta",F,Ramerikiae,Subsistence Farmer,28 Jan 1997
+640,160146518,"Waporopasi, Yapinu",F,Omai,Subsistence Farmer,01 Jan 1987
+641,160121412,"Wapu, Ruth",F,Ilo,Subsistence Farmer,14 Sep 1981
+642,160210602,"Warea, Maria",F,Yamerikiae,Household Duties,01 Jan 1978
+643,160201992,"Warea, Mary",F,Yamerikiae,Household Duties,01 Jan 1977
+644,160143726,"Warea, Relopiri",F,Omai,Subsistence Farmer,01 Jan 1972
+645,160194619,"Warea, Walenu",F,Omai,Subsistence Farmer,01 Jan 1941
+646,160439489,"Warea marthin, Rachael",F,Omai,Student,18 Jan 2000
+647,160234217,"Watu, Beffelin",F,Omai,Student,06 Sep 1994
+648,160234691,"Watu, Jacklin",F,Omai,Subsistence Farmer,12 Jun 1993
+649,160234218,"Watu, Tame",F,Omai,Subsistence Farmer,16 May 1978
+650,25085879,"Watuma, Esra",F,Omai,Household Duties,13 Jan 2001
+651,25087476,"Watuma, Kila",F,Omai,Student,16 Nov 2003
+652,160190694,"Watuma, Yope",F,Omai,Subsistence Farmer,01 Jan 1975
+653,160201238,"Wenapa, Regina",F,Omai,Student,01 Jan 1986
+654,160439490,"Wendo, Malie",F,Omai,Household Duties,28 Apr 2004
+655,160146333,"Wenepa, Norin",F,Omai,Subsistence Farmer,01 Jan 1986
+656,160219166,"Wepo, Ali",F,Kana,Student,16 Oct 1988
+657,160143856,"Wepo, Janet",F,Omai,Subsistence Farmer,01 Jan 1985
+658,160146498,"Wepo, Mali",F,Omai,Subsistence Farmer,01 Jan 1982
+659,25085883,"Wer, Easther",F,Omai,Student,14 Mar 2004
+660,160232422,"Wesly, Hellen",F,Nekea/Renderepa,Subsistence Farmer,01 Jan 1980
+661,160227534,"Wete, Epe",F,Ilo,Household Duties,01 Jan 1945
+662,160227051,"Wete, Helly",F,Kana,Housegirl,01 Jan 1989
+663,160234683,"Wete, Sekin",F,Ilo,Student,01 Jan 1992
+664,160146233,"Wibi, Nogosi",F,Omai,Household Duties,01 Jan 1968
+665,160121271,"Wila, Jessica",F,Ramerikiae,Household Duties,21 Apr 1990
+666,160233237,"Willa, Josesica",F,Ilo/Anna,Housegirl,01 Jan 1989
+667,160234269,"William, Merika",F,Kana,Subsistence Farmer,01 Jan 1986
+668,160439492,"Willie, Aliben",F,Omai,Student,26 Apr 2004
+669,160439494,"Wilson, Estel",F,Omai,Household Duties,17 Oct 1996
+670,160194413,"Wina, Masare",F,Omai,Subsistence Farmer,01 Jan 1945
+671,160439497,"Wita, Joyce",F,Omai,Household Duties,10 Jun 1990
+672,160234669,"Womi, Lin",F,Ilo,Subsistence Farmer,01 Jan 1970
+673,160227047,"Yae, Miri",F,Kana,Subsistence Farmer,01 Jan 1970
+674,160221027,"Yai, Irimandi",F,Kana,Subsistence Farmer,01 Jan 1948
+675,160439499,"Yaita, Esta",F,Omai,Household Duties,22 Apr 2000
+676,160234262,"Yaki, Linda",F,Kana,Subsistence Farmer,01 Jan 1991
+677,160234280,"Yaki, Resina",F,Kana,Subsistence Farmer,01 Jan 1981
+678,160230430,"Yaki, Walename",F,Kana,Household Duties,01 Jan 1961
+679,160180731,"Yambiripasi, Rageame",F,Kana,Subsistence Farmer,01 Jan 1972
+680,160227559,"Yana yogo, Dona",F,Ilo,Household Duties,01 Jan 1982
+681,160227562,"Yana yogo, Janet",F,Ilo,Household Duties,01 Jan 2000
+682,160227568,"Yana yogo, Meriline",F,Ilo,Household Duties,01 Jan 1969
+683,160197226,"Yanaki, Misi",F,Omai,Subsistence Farmer,01 Jan 1954
+684,160142647,"Yanaki, Yakunogo",F,Omai,Subsistence Farmer,01 Jan 1941
+685,160227551,"Yanayongo, Pandeame",F,Ilo,Subsistence Farmer,01 Jan 1942
+686,160121375,"Yandi, Brenda",F,Ramikipa,Student,23 Oct 1998
+687,160121440,"Yano, Ali",F,Omai,Household Duties,18 Oct 1998
+688,160196502,"Yano, Ali",F,Oyaga,Subsistence Farmer,01 Jan 1985
+689,160196507,"Yano, Esthar",F,Oyaga,Student,01 Jan 1988
+690,160146340,"Yano, Esther",F,Omai,Subsistence Farmer,01 Jan 1975
+691,160146354,"Yano, Esther",F,Omai,Subsistence Farmer,01 Jan 1986
+692,25085884,"Yano, Mathlinda",F,Omai,Student,02 Oct 2001
+693,160143862,"Yano, Rebeca",F,Omai,Subsistence Farmer,01 Jan 1970
+694,160187082,"Yano, Rebeca",F,Oyaga,Subsistence Farmer,01 Jan 1984
+695,160227401,"Yapaga, Magret",F,Ilo,Household Duties,01 Jan 1977
+696,160146228,"Yapaga, Poloname",F,Omai,Household Duties,01 Jan 1970
+697,160193281,"Yarepeala, Akone",F,Ilo,Subsistence Farmer,01 Jan 1952
+698,160180681,"Yasa, Misimi",F,Kana,Subsistence Farmer,01 Jan 1968
+699,160234466,"Yatia, Onapanogo",F,Yamerikiae,Subsistence Farmer,01 Jan 1949
+700,160232424,"Yawe, Betty",F,Nekea/Renderepa,Student,01 Jan 1994
+701,160232556,"Yawe, Yaisa",F,Nekea/Renderepa,Household Duties,01 Jan 1968
+702,160199067,"Yawi, Nency",F,Omai,Subsistence Farmer,01 Jan 1976
+703,160146504,"Yawo, Maria",F,Omai,Subsistence Farmer,01 Jan 1983
+704,160220393,"Yobene, Lagiame",F,Kana,Subsistence Farmer,01 Jan 1977
+705,160232131,"Yobene, Mani",F,Kana,Household Duties,01 Jan 1955
+706,160196659,"Yolosa, Jenny",F,Omai,Subsistence Farmer,01 Jan 1972
+707,160198490,"Yolosa, Regina",F,Ilo,Subsistence Farmer,01 Jan 1982
+708,160142650,"Yoma, Betty",F,Omai,Subsistence Farmer,01 Jan 1965
+709,160232474,"Yoyo, Esta",F,Kana,Housegirl,01 Jan 1988
+710,160146480,"Yoyo, Ipisa",F,Omai,Subsistence Farmer,01 Jan 1975
+711,160146375,"Yoyo, Malinda",F,Omai,Household Duties,01 Jan 1977
+712,160146332,"Yoyo, Yupiame",F,Omai,Subsistence Farmer,01 Jan 1967
+713,160143857,"Aga, Bali",M,Omai,Subsistence Farmer,01 Jan 1967
+714,160188378,"Aga, Senis",M,Omai,Subsistence Farmer,01 Jan 1973
+715,160180851,"Agema, Benjamin",M,Yamerikiae,Subsistence Farmer,01 Jan 1967
+716,160201975,"Agema, James",M,Yamerikiae,Subsistence Farmer,01 Jan 1955
+717,160190116,"Agima, Aga",M,Omai,Subsistence Farmer,01 Jan 1943
+718,160234677,"Aite, Issac",M,Ilo,Subsistence Farmer,01 Jan 1990
+719,160234470,"Aite, Moses",M,Ilo,Mechanic,01 Jan 1988
+720,160234678,"Aite, Sakias",M,Ilo,Student,01 Jan 1994
+721,160439231,"Akande, John",M,Omai,Student,16 Mar 2001
+722,160439232,"Akande, Vincent",M,Omai,Student,23 Apr 2004
+723,160146339,"Akop, Buka",M,Omai,Subsistence Farmer,01 Jan 1974
+724,160143715,"Akop, Nande",M,Omai,Subsistence Farmer,01 Jan 1972
+725,160146445,"Akop, Pone",M,Omai,Subsistence Farmer,01 Jan 1968
+726,160201177,"Akop, Rabua",M,Omai,Subsistence Farmer,01 Jan 1986
+727,160146483,"Alega, Kera",M,Omai,Subsistence Farmer,01 Jan 1965
+728,160439233,"Alo, Rima",M,Omai,Student,13 Mar 2003
+729,160182784,"Alupa, Morris",M,Yamerikiae,Subsistence Farmer,01 Jan 1981
+730,160139605,"Alupa, Solomon",M,Ramikipa,Student,18 Oct 1998
+731,160189955,"Amba, Freddy",M,Yamerikiae,Subsistence Farmer,01 Jan 1975
+732,160190708,"Andalua, Alo",M,Omai,Subsistence Farmer,01 Jan 1978
+733,160194420,"Andalua, Charly",M,Omai,Student,01 Jan 1987
+734,160196335,"Andalua, Paina",M,Omai,Subsistence Farmer,01 Jan 1979
+735,25085697,"Andia, Ezikkeal",M,Omai,Student,11 Jan 2004
+736,25085698,"Andia, Mesy",M,Omai,Student,15 Sep 2003
+737,160196522,"Andua, Pale",M,Omai,Subsistence Farmer,01 Jan 1980
+738,160190922,"Andua, Puri",M,Omai,Subsistence Farmer,01 Jan 1967
+739,160142368,"Anga, Ralia",M,Omai,Subsistence Farmer,01 Jan 1945
+740,160121429,"Anga, Samuel",M,Omai,Subsistence Farmer,08 Nov 1998
+741,160234476,"Anga, Samuel",M,Omai,Subsistence Farmer,29 Oct 1992
+742,160439235,"Ango, Alopa",M,Omai,Student,01 Feb 2001
+743,160186077,"Apai, Umitasi",M,Ilo,Subsistence Farmer,01 Jan 1952
+744,160234416,"Apasi, Micheal",M,New Island,Subsistence Farmer,01 Jan 1986
+745,160234317,"Ape, Benjamin",M,Oyaga,Student,01 Jan 1991
+746,160234540,"Ape, Toto",M,Oyaga,Student,01 Jan 1994
+747,160196665,"Apola, Ira",M,Oyaga,Student,01 Jan 1988
+748,160196663,"Apola, Simon",M,Oyaga,Student,01 Jan 1984
+749,160198619,"Apola, Wari",M,Oyaga,Student,01 Jan 1986
+750,160439239,"Apolla, Lawrence",M,Omai,Student,05 Jul 2002
+751,160234328,"Apolla, Paiyane",M,Oyaga,Student,03 Sep 1993
+752,160234387,"Apolla, Pale",M,Oyaga,Student,29 Jun 1994
+753,160439240,"Apolla, Simon",M,Omai,Security,06 Jun 1986
+754,160234577,"Apsai, Michael",M,New Island,Subsistence Farmer,01 Jan 1978
+755,160143853,"Apunane, Kala",M,Omai,Subsistence Farmer,01 Jan 1967
+756,160146501,"Apunane, Kando",M,Omai,Subsistence Farmer,01 Jan 1948
+757,160142622,"Apunane, Wenepa",M,Omai,Subsistence Farmer,01 Jan 1963
+758,160204263,"Apunane, Wenepa",M,Kana,Subsistence Farmer,01 Jan 1948
+759,160146514,"Apunane, Yapasi",M,Omai,Subsistence Farmer,01 Jan 1941
+760,160199080,"Apurale, Ande",M,Omai,Subsistence Farmer,01 Jan 1965
+761,160199082,"Apurale, Jecob",M,Omai,Student,01 Jan 1988
+762,160201607,"Apurale, Luck",M,Omai,Subsistence Farmer,01 Jan 1986
+763,160201597,"Apurale, Mathyu",M,Omai,Student,01 Jan 1986
+764,160234505,"Apurale, Tommo",M,Omai,Subsistence Farmer,30 Jun 1994
+765,25085701,"Arafi, Timon",M,Omai,Nurse,16 Oct 2001
+766,160176085,"Arikapu, John",M,Kana,Subsistence Farmer,01 Jan 1965
+767,160202179,"Arundu, Aron",M,Yamerikiae,Subsistence Farmer,01 Jan 1980
+768,160121273,"Arundu, Joel",M,Ramikipa,Student,16 Feb 1997
+769,160229454,"Arundu, Moses",M,Yamerikiae,Subsistence Farmer,01 Jan 1987
+770,160202055,"Arundu, Rodney",M,Yamerikiae,Subsistence Farmer,01 Jan 1978
+771,160234463,"Asuma, Rex",M,Yamerikiae,Subsistence Farmer,01 Jan 1969
+772,160142444,"Asuwaku, Simon",M,Omai,Subsistence Farmer,01 Jan 1972
+773,160121387,"Ata, Reali",M,Ramikipa,Subsistence Farmer,14 Jun 1990
+774,160121272,"Atta, Sakia",M,Ramerikiae,Student,19 Sep 1997
+775,160234249,"Awape, Jeffrey",M,Kana,Student,01 Jan 1994
+776,160177931,"Awape, Machel",M,Kana,Subsistence Farmer,01 Jan 1976
+777,160177953,"Awape, Timothy",M,Kana,Subsistence Farmer,01 Jan 1978
+778,160234658,"Banabas, Amakua",M,Yamerikiae,Subsistence Farmer,01 Jan 1970
+779,160139779,"Bapi, Junior",M,Omai,Student,16 Nov 1997
+780,160139778,"Benjamin, Benson",M,Omai,Student,05 Dec 1998
+781,160121445,"Benjamin, Nande",M,Omai,Student,01 Nov 1998
+782,25085702,"Benji, Nonily",M,Omai,Student,16 May 2001
+783,160121443,"Bone, Obeth",M,Omai,Student,16 Feb 1999
+784,25085706,"Brandon, Konopo",M,Omai,Student,13 Mar 2004
+785,25087466,"Brandon, Yanono",M,Omai,Student,03 Nov 2003
+786,160439246,"Buru, Charlie",M,Omai,Student,08 Sep 2002
+787,160439247,"Buru, Sunde",M,Omai,Student,03 Apr 2000
+788,160190243,"Busu, Ape",M,Oyaga,Subsistence Farmer,01 Jan 1953
+789,160190247,"Busu, Puya",M,Oyaga,Subsistence Farmer,01 Jan 1952
+790,25085708,"Charies, Anold",M,Omai,Subsistence Farmer,21 Mar 2004
+791,160181018,"Charles, Andia",M,Kana,Student,01 Jan 1984
+792,160227055,"Charles, Roni",M,Kana,Student,01 Jan 1991
+793,160183143,"Charles, Samuel",M,Kana,Student,01 Jan 1987
+794,160439250,"Daman, Jaytemi",M,Omai,Student,18 Sep 2000
+795,160439251,"Daman, Kesty",M,Omai,Student,13 Sep 2003
+796,25085710,"Daniel, Macklyn",M,Omai,Student,28 Apr 2004
+797,25085711,"Daniel, Maika",M,Omai,Subsistence Farmer,27 Jun 2002
+798,25087468,"Daniel, Maika",M,Omai,Student,28 Apr 2004
+799,25085713,"Daniel, Maiya",M,Omai,Student,10 Aug 2001
+800,25085715,"Daniel, Messi",M,Omai,Student,16 Jun 2001
+801,160230732,"Daya, Kira",M,Yamerikiae,Subsistence Farmer,01 Jan 1932
+802,25085717,"Dickson, John",M,Omai,Subsistence Farmer,21 Mar 2001
+803,160439255,"Dika, Emon",M,Omai,Student,01 Sep 1994
+804,160207436,"Diki, Bum",M,Kana,Student,01 Jan 1987
+805,160184430,"Duma, Noel",M,Kana,Subsistence Farmer,01 Jan 1977
+806,160184429,"Duma, Wata",M,Kana,Subsistence Farmer,01 Jan 1975
+807,160121395,"Eneye, Jeffry",M,Omai,Subsistence Farmer,03 Sep 1992
+808,160121394,"Eneye, Steven",M,Omai,Student,02 Oct 1991
+809,160234220,"Enoye, Timothy",M,Oyaga,Subsistence Farmer,01 Jan 1960
+810,160121362,"Epi, Nathan",M,Ramikipa,Student,21 Mar 1998
+811,160199061,"Epono, Apola",M,Oyaga,Subsistence Farmer,01 Jan 1944
+812,160139604,"Eppi, Jammy",M,Ramikipa,Student,15 Mar 1997
+813,160121265,"Ewa, Dickson",M,Ramerikiae,Subsistence Farmer,09 Oct 1997
+814,160139786,"Ewa, Dunstan",M,Ramerikiae,Subsistence Farmer,11 May 1995
+815,25085721,"Ewa, Jackson",M,Omai,Student,11 Apr 2004
+816,160439257,"Ewa, Mapson",M,Omai,Student,02 Jun 2000
+817,25085729,"Frank, Nakipu",M,Omai,Student,03 Jul 2000
+818,160439259,"Gibson, Cendric",M,Omai,Student,28 Apr 2002
+819,160439260,"Gibson, Jethro",M,Omai,Student,14 Mar 2001
+820,160143596,"Hepono, Tupu",M,Omai,Subsistence Farmer,01 Jan 1946
+821,160227045,"Imali, Onde",M,Kana,Subsistence Farmer,01 Jan 1974
+822,160227044,"Imali, Tawe",M,Kana,Student,01 Jan 1994
+823,160201287,"Ipare, Aloson",M,Kana,Subsistence Farmer,01 Jan 1987
+824,160207457,"Ipare, Yope",M,Kana,Subsistence Farmer,01 Jan 1975
+825,160201990,"Ipiyoko, Miti",M,Yamerikiae,Subsistence Farmer,01 Jan 1967
+826,160201993,"Ipiyoko, Warea",M,Yamerikiae,Subsistence Farmer,01 Jan 1972
+827,160146520,"Irapu, Rex",M,Omai,Subsistence Farmer,01 Jan 1975
+828,160142616,"Iripati, Kalenda",M,Omai,Subsistence Farmer,01 Jan 1953
+829,160439261,"Isikiel, Arundu",M,Omai,Student,28 Apr 2004
+830,160439262,"Ismael, Payopa",M,Omai,Student,09 Mar 2000
+831,25085733,"Iso, Feliy",M,Omai,Student,07 Nov 2003
+832,25085735,"Iso, James",M,Omai,Student,10 Nov 2003
+833,25085737,"Iso, Rickson",M,Omai,Student,15 Apr 1989
+834,25085739,"Iso, Rodney",M,Omai,Student,03 Apr 2000
+835,160439265,"Ita, Nandi",M,Omai,Student,26 Oct 2000
+836,160439267,"Jackey, Jackson",M,Omai,Student,16 Sep 2003
+837,160439268,"Jacob, Stanley",M,Omai,Student,22 Sep 2003
+838,160121441,"Jacob, Uli",M,Omai,Student,16 Apr 1998
+839,160234227,"James, Noel",M,Oyaga,Student,01 Jan 1994
+840,160121380,"John, Jonathat",M,Ramikipa,Subsistence Farmer,16 Nov 1998
+841,160439272,"John, Kamola",M,Omai,Subsistence Farmer,12 Oct 2000
+842,160439273,"John, Kepo",M,Omai,Subsistence Farmer,12 Oct 2000
+843,160121434,"John, Meka",M,Omai,Subsistence Farmer,16 Nov 1998
+844,160234475,"John, Philip",M,Omai,Student,02 Apr 1994
+845,25085746,"John, Ramson",M,Omai,Student,11 Mar 2002
+846,25085748,"John, Rocky",M,Omai,Self Employed,15 Jul 1980
+847,160439274,"Joseph, Jayson",M,Omai,Student,16 Nov 2000
+848,25085752,"Joseph, Joseph",M,Omai,Student,13 Dec 2000
+849,25085753,"Joseph, Ramany",M,Omai,Student,12 May 2001
+850,160439275,"Joseph, Rammie",M,Omai,Student,05 Oct 2000
+851,25085755,"Joseph, Ruben",M,Omai,Student,15 Jan 2004
+852,160227414,"Joshua, Ipissa",M,Ilo,Subsistence Farmer,01 Jan 1967
+853,25085757,"Joshua, Jack",M,Omai,Student,16 Jan 2004
+854,160227417,"Joshua, Kundi",M,Ilo,Subsistence Farmer,01 Jan 1974
+855,160230461,"Joshua, Molo",M,Ilo,Student,01 Jan 1984
+856,160234685,"Joshua, Nanda",M,Ilo,Student,01 Jan 1994
+857,160230463,"Joshua, Tonny",M,Ilo,Student,01 Jan 1985
+858,160234319,"Joshua, Yali",M,Ilo,Student,01 Jan 1990
+859,160121371,"Jumba, Gabreal",M,Ramikipa,Student,16 Feb 1996
+860,160121370,"Jumba, Yaita",M,Ramikipa,Student,14 Oct 1998
+861,160439277,"Junior, Nogea",M,Omai,Student,07 Jul 2000
+862,160142446,"Kakeali, Yapi",M,Omai,Subsistence Farmer,01 Jan 1975
+863,160234398,"Kalado, Timo",M,Nekea/Renderepa,Store Keeper,01 Jan 1993
+864,160234399,"Kalado, Yaki",M,Nekea/Renderepa,Student,01 Jan 1994
+865,160227054,"Kalado, Yaki",M,Kana,Subsistence Farmer,01 Jan 1980
+866,160234314,"Kalasi, Samuel",M,Yamerikiae,Subsistence Farmer,01 Jan 1989
+867,160201956,"Kalenda, Elton",M,Kana,Subsistence Farmer,01 Jan 1975
+868,160176315,"Kalenda, Karapus",M,Kana,Subsistence Farmer,01 Jan 1988
+869,160234253,"Kalenda, Luta",M,Kana,Subsistence Farmer,01 Jan 1994
+870,160439280,"Kambita, Elizah",M,Omai,Student,01 Dec 2002
+871,160227317,"Kamearia, Charlie",M,Ilo,Subsistence Farmer,01 Jan 1968
+872,160185993,"Kandi, Kapi",M,Yamerikiae,Subsistence Farmer,01 Jan 1973
+873,160190989,"Kandi, Kopea",M,Yamerikiae,Subsistence Farmer,01 Jan 1970
+874,160190986,"Kandi, Lotu",M,Yamerikiae,Subsistence Farmer,01 Jan 1965
+875,160190939,"Kandi, Peter",M,Yamerikiae,Subsistence Farmer,01 Jan 1951
+876,160196410,"Kandi, Pula",M,Omai,Subsistence Farmer,01 Jan 1947
+877,160227598,"Kandi, Rati",M,Yamerikiae,Subsistence Farmer,01 Jan 1961
+878,160234516,"Kandi, Regepea",M,Yamerikiae,Subsistence Farmer,01 Jan 1980
+879,25085761,"Karabus, Paul",M,Omai,Student,23 Apr 2004
+880,160233239,"Karapu, Nande",M,Ilo/Anna,Subsistence Farmer,01 Jan 1978
+881,160439281,"Karapus, Erron",M,Omai,Student,11 Oct 2000
+882,160137967,"Karapus, Jojophet",M,Omai,Student,11 Jan 1999
+883,160439282,"Karapus, Joseperth",M,Omai,Student,28 Apr 2004
+884,160439283,"Karapus, Malex",M,Omai,Student,01 Nov 2001
+885,160121428,"Kau, Ben",M,Omai,Subsistence Farmer,14 May 1997
+886,25085763,"Kau, Imen",M,Omai,Subsistence Farmer,11 Nov 2000
+887,25085765,"Kau, Jacob",M,Omai,Self Employed,19 Jul 1997
+888,160121420,"Kau, Jerry",M,Omai,Student,21 Jan 1998
+889,25085767,"Kau, Nogo",M,Omai,Student,16 Sep 2003
+890,25085769,"Kau, Nogo",M,Omai,Student,11 Aug 1999
+891,25085771,"Kau, Steven",M,Omai,Self Employed,15 Oct 1998
+892,160234318,"Kee, Junior",M,Ilo,Subsistence Farmer,01 Jan 2000
+893,160180872,"Kegayo, Deni",M,Yamerikiae,Subsistence Farmer,01 Jan 1962
+894,160180914,"Kegayo, Timothy",M,Yamerikiae,Subsistence Farmer,01 Jan 1976
+895,160227321,"Kemaria, Wapa",M,Ilo,Subsistence Farmer,01 Jan 1978
+896,160199058,"Kera, Andia",M,Omai,Subsistence Farmer,01 Jan 1966
+897,160142658,"Kera, Peter",M,Omai,Subsistence Farmer,01 Jan 1985
+898,160202061,"Kere po, Mealo",M,Yamerikiae,Subsistence Farmer,01 Jan 1966
+899,160201988,"Kerepo, Arundu",M,Yamerikiae,Pastor,01 Jan 1940
+900,160234560,"Kermaria, Umba",M,Ilo,Student,01 Jan 1990
+901,160234541,"Kipu, Sipaki",M,Oyaga,Subsistence Farmer,01 Jan 1958
+902,160226420,"Kira, Junior",M,New Island,Subsistence Farmer,01 Jan 2000
+903,160234321,"Kira, Makakus",M,Yamerikiae,Subsistence Farmer,01 Jan 1973
+904,160230736,"Kira, Nema",M,Yamerikiae,Subsistence Farmer,01 Jan 1983
+905,160121253,"Kira, Nisan",M,Ramerikiae,Subsistence Farmer,11 Jun 1978
+906,160229747,"Kira, Penton",M,Omai,Subsistence Farmer,01 Jan 1981
+907,160121449,"Kira, Ripail",M,Ramerikiae,Subsistence Farmer,13 Jun 1978
+908,160234688,"Kira, Soni",M,Yamerikiae,Pastor,01 Jan 1980
+909,160234323,"Kira, Willie",M,Yamerikiae,Subsistence Farmer,01 Jan 1991
+910,160439284,"Kire, Daniel",M,Omai,Pastor,19 Feb 1989
+911,160439285,"Kombea, Ismail",M,Omai,Student,26 May 2003
+912,160146371,"Kombea, Moses",M,Omai,Pastor,01 Jan 1970
+913,160187596,"Kondo, Peme",M,Omai,Subsistence Farmer,01 Jan 1970
+914,160190993,"Kondo, Peter",M,Omai,Subsistence Farmer,01 Jan 1946
+915,160196535,"Kondo, Randau",M,Omai,Subsistence Farmer,01 Jan 1942
+916,160234675,"Kone, Assiyah",M,Ilo,Student,01 Jan 1994
+917,160234523,"Kone, Benjamin",M,Ilo,Student,01 Jan 1990
+918,160439289,"Kone, Nobert",M,Omai,Student,06 Jul 1998
+919,160121267,"Kopea, Aron",M,Ramerikiae,Student,16 May 1996
+920,160439291,"Kopea, Erron",M,Omai,Student,05 Jun 2002
+921,160227518,"Kopea, Samuel",M,Ilo,Subsistence Farmer,01 Jan 1988
+922,160227778,"Kopea, Wari",M,Ilo,Subsistence Farmer,01 Jan 1985
+923,160185996,"Kopo, Gibson",M,Omai,Subsistence Farmer,01 Jan 2000
+924,160189952,"Kopo, Jackias",M,Omai,Student,01 Jan 1986
+925,160139622,"Kopo, Jackson",M,Omai,Student,14 Apr 1996
+926,25085774,"Kopo, Luben",M,Omai,Student,15 Jan 2004
+927,160189954,"Kopo, Luther",M,Omai,Student,01 Jan 1988
+928,160121425,"Kopo, Piru",M,Omai,Student,13 Jan 1997
+929,160190099,"Kopo, Wapu",M,Omai,Student,01 Jan 1983
+930,160234538,"Kopo, Willie",M,Omai,Student,16 Sep 1994
+931,160201183,"Kundi, Toropo",M,Oyaga,Subsistence Farmer,01 Jan 1960
+932,160198487,"Kurap, Robert",M,Omai,Subsistence Farmer,01 Jan 1977
+933,160201460,"Kurap, Taka",M,Omai,Subsistence Farmer,01 Jan 1970
+934,160198477,"Kurap, Wari",M,Omai,Subsistence Farmer,01 Jan 1974
+935,160439292,"Kurap, Wari tait",M,Omai,Subsistence Farmer,08 Oct 1983
+936,160190785,"Kuru, Nakisi",M,Omai,Subsistence Farmer,01 Jan 1950
+937,160142448,"Kuru, Stanely",M,Omai,Subsistence Farmer,01 Jan 1974
+938,160185988,"Kuru, Watu",M,Omai,Subsistence Farmer,01 Jan 1966
+939,160234312,"Kuruma, Jonjack",M,Yamerikiae,Subsistence Farmer,01 Jan 1989
+940,160143860,"Kusa, Kakeali",M,Omai,Subsistence Farmer,01 Jan 1961
+941,160142654,"Kusa, Kande",M,Omai,Subsistence Farmer,01 Jan 1968
+942,160173467,"Kuta, Bapiana",M,Kana,Subsistence Farmer,01 Jan 1964
+943,160227037,"Kuta, Goasa",M,Kana,Household Duties,01 Jan 1976
+944,160226918,"Kuta, Papia",M,Kana,Houseboy,01 Jan 1974
+945,160227102,"Kuta, Soti",M,Kana,Houseboy,01 Jan 1985
+946,160222011,"Lape, Samson",M,Kana,Subsistence Farmer,01 Jan 1987
+947,160232417,"Loke, Yapi",M,Nekea/Renderepa,Student,01 Jan 1994
+948,160196408,"Lomba, Aisa",M,Yamerikiae,Houseboy,01 Jan 1980
+949,160190918,"Lomba, John",M,Yamerikiae,Subsistence Farmer,01 Jan 1972
+950,160180889,"Lomba, Sumba",M,Yamerikiae,Subsistence Farmer,01 Jan 1968
+951,160234531,"Lotu, Roni",M,Yamerikiae,Student,01 Jan 1992
+952,160196510,"Lusa, Kundi",M,Omai,Subsistence Farmer,01 Jan 1966
+953,160198399,"Lusa, Malu",M,Omai,Subsistence Farmer,01 Jan 1976
+954,160121270,"Magala, Steven",M,Ramerikiae,Student,09 Jul 1998
+955,160234728,"Magala, Steven",M,Ilo/Anna,Student,01 Jan 1993
+956,160227408,"Magala, Uni",M,Ilo,Subsistence Farmer,01 Jan 1985
+957,160439294,"Makai, Mek",M,Omai,Student,13 Apr 2000
+958,25085776,"Makai, Riali",M,Omai,Self Employed,15 Oct 2000
+959,160439296,"Maku, Jerry",M,Omai,Student,22 Nov 2000
+960,160146505,"Mala, Duma",M,Omai,Subsistence Farmer,01 Jan 1949
+961,160190925,"Male, Gaima",M,Omai,Subsistence Farmer,01 Jan 1980
+962,160193293,"Male, Rex",M,Omai,Subsistence Farmer,01 Jan 1975
+963,160234525,"Manaba, Baksi",M,Yamerikiae,Subsistence Farmer,01 Jan 1984
+964,160234528,"Manaba, Peter",M,Yamerikiae,Houseboy,01 Jan 1989
+965,160207445,"Manda, James",M,Kana,Subsistence Farmer,01 Jan 1975
+966,160204418,"Manda, Salo",M,Kana,Subsistence Farmer,01 Jan 1977
+967,160189971,"Mara, Andrew",M,Omai,Subsistence Farmer,01 Jan 1982
+968,160202004,"Mara, Esty",M,Oyaga,Teacher,01 Jan 1980
+969,160203835,"Mara, Gibson",M,Oyaga,Pastor,01 Jan 1981
+970,160146495,"Mara, Jacob",M,Omai,Subsistence Farmer,01 Jan 1984
+971,160187496,"Mara, Kiriwi",M,Omai,Subsistence Farmer,01 Jan 1950
+972,160202455,"Mara, Logo",M,Omai,Subsistence Farmer,01 Jan 1988
+973,160146497,"Mara, Mitia",M,Omai,Subsistence Farmer,01 Jan 1990
+974,160146492,"Mara, Nale",M,Omai,Subsistence Farmer,01 Jan 1971
+975,160197074,"Mara, Nepol",M,Oyaga,Subsistence Farmer,01 Jan 1987
+976,160234548,"Mara, Penny",M,Oyaga,Student,01 Jan 1994
+977,160204146,"Mara, Ria",M,Omai,Subsistence Farmer,01 Jan 1983
+978,160202001,"Mara, Tony",M,Oyaga,Subsistence Farmer,01 Jan 1987
+979,160139613,"Mara, Yansan",M,Omai,Student,02 Sep 1998
+980,160197109,"Marepa, Runi",M,Omai,Subsistence Farmer,01 Jan 1955
+981,160229744,"Mari, Napisu",M,Yamerikiae,Subsistence Farmer,01 Jan 1975
+982,160229617,"Mari, Utu",M,Yamerikiae,Subsistence Farmer,01 Jan 1970
+983,160121374,"Mari, Wilson",M,Ramikipa,Student,19 Oct 1997
+984,160230743,"Mari, Yandi",M,Yamerikiae,Subsistence Farmer,01 Jan 1977
+985,160143855,"Martin, Jacob",M,Omai,Subsistence Farmer,01 Jan 1977
+986,160439300,"Martin, Joshua",M,Omai,Student,19 Oct 2001
+987,160234578,"Mata, Nathan",M,New Island,Subsistence Farmer,01 Jan 1980
+988,25085778,"Mathen, Luther",M,Omai,Student,16 Oct 2001
+989,160439310,"Mathew, Elizah",M,Omai,Student,11 Jan 2001
+990,160121402,"Mathew, Elizar",M,Omai,Student,02 May 1998
+991,160439313,"Mathew, Jeromi",M,Omai,Student,28 Apr 2004
+992,25085779,"Mathew, Jetro",M,Omai,Student,14 Oct 2001
+993,25085781,"Mathew, Sonny",M,Omai,Student,16 Jun 2001
+994,160175855,"Matin, Lame",M,Omai,Subsistence Farmer,01 Jan 1979
+995,25085783,"Max, Albert",M,Omai,Student,16 Sep 2003
+996,25085786,"Max, Albert",M,Omai,Student,24 Jul 2002
+997,160234224,"Max, Fermen",M,Omai,Student,10 Feb 1992
+998,160146367,"Max, Gaima",M,Omai,Subsistence Farmer,01 Jan 1978
+999,160121432,"Max, Jehima",M,Omai,Subsistence Farmer,21 Apr 1998
+1000,160439319,"Max, Jerry",M,Omai,Student,06 Nov 2003
+1001,160439324,"May, Albert",M,Omai,Student,07 Nov 2001
+1002,160439326,"May, Pame",M,Omai,Student,19 Nov 2003
+1003,160439327,"May, Patch",M,Omai,Student,11 Mar 2002
+1004,160190928,"Mayasi, John",M,Omai,Subsistence Farmer,01 Jan 1961
+1005,160193417,"Mayasi, Pa",M,Omai,Subsistence Farmer,01 Jan 1984
+1006,160121363,"Mealo, Obeth",M,Ramikipa,Subsistence Farmer,04 Nov 1997
+1007,160234275,"Menah, Ipulapiri",M,Kana,Subsistence Farmer,01 Jan 1982
+1008,160234274,"Menah, Mande",M,Kana,Subsistence Farmer,01 Jan 1979
+1009,160234230,"Meron, Luke",M,Yamerikiae,Pastor,01 Jan 1971
+1010,160234494,"Minisa, Aisaia",M,Yamerikiae,Student,01 Jan 1993
+1011,160121376,"Minisa, Aisiah",M,Ramikipa,Student,14 Jun 1997
+1012,160146365,"Minisa, Gaita",M,Omai,Subsistence Farmer,01 Jan 1987
+1013,160193405,"Minisa, Mark",M,Yamerikiae,Houseboy,01 Jan 1985
+1014,160439334,"Minisa, Marthin",M,Omai,Student,16 Oct 2000
+1015,160121377,"Minisa, Martin",M,Ramikipa,Student,18 Sep 1998
+1016,25085793,"Minisa, Michael",M,Omai,Student,15 May 2003
+1017,160190262,"Minisa, Yano",M,Yamerikiae,Houseboy,01 Jan 1987
+1018,160173165,"Miniyope, Emos",M,Kana,Subsistence Farmer,01 Jan 1986
+1019,160173163,"Miniyope, Yapi",M,Kana,Subsistence Farmer,01 Jan 1987
+1020,160234303,"Miti, Tep",M,Yamerikiae,Student,01 Jan 1991
+1021,160121368,"Mity, Makano",M,Ramikipa,Student,16 Jul 1998
+1022,160232557,"Moinaki, Yawe",M,Nekea/Renderepa,Subsistence Farmer,01 Jan 1964
+1023,160439339,"Moria, Enoch",M,Omai,Student,17 May 2000
+1024,160227564,"Moria, Olende",M,Ilo,Subsistence Farmer,01 Jan 1950
+1025,160227554,"Moria, Rekere",M,Ilo,Subsistence Farmer,01 Jan 1945
+1026,160227577,"Moria, Timon",M,Ilo,Subsistence Farmer,01 Jan 1945
+1027,160230921,"Moria, Waya",M,Ilo,Subsistence Farmer,01 Jan 1983
+1028,160227606,"Muna, Loto",M,Ilo,Subsistence Farmer,01 Jan 1974
+1029,160227043,"Musa, Ota",M,Kana,Subsistence Farmer,01 Jan 1954
+1030,160146486,"Naki, Emos",M,Omai,Subsistence Farmer,01 Jan 1985
+1031,160121427,"Nakisi, Buka",M,Omai,Student,13 Jan 1997
+1032,160194622,"Nakisi, Ita",M,Omai,Subsistence Farmer,01 Jan 1971
+1033,160439344,"Nakisi, Jerry",M,Omai,Subsistence Farmer,28 Apr 2004
+1034,25085797,"Nakisi, Potoca",M,Omai,Student,29 Jan 2003
+1035,160189966,"Nakisi, Stenly",M,Omai,Subsistence Farmer,01 Jan 1985
+1036,160190118,"Nakisi, Thomas",M,Omai,Subsistence Farmer,01 Jan 1988
+1037,160234219,"Nakisi, Timothy",M,Omai,Subsistence Farmer,03 Jun 1994
+1038,160439348,"Naku, Jacob",M,Omai,Student,16 Aug 2002
+1039,160194614,"Naku, Kau",M,Omai,Subsistence Farmer,01 Jan 1966
+1040,160234450,"Naku, Nande",M,Omai,Student,01 Jan 1993
+1041,160185939,"Naku, Pereke",M,Omai,Subsistence Farmer,01 Jan 1951
+1042,160194616,"Naku, Wapa",M,Omai,Subsistence Farmer,01 Jan 1971
+1043,160198512,"Nali, Andi",M,Omai,Student,01 Jan 1985
+1044,160143716,"Nali, Ipisa",M,Omai,Subsistence Farmer,01 Jan 1976
+1045,160199163,"Nali, Josua",M,Omai,Subsistence Farmer,01 Jan 1953
+1046,160202161,"Napai, Epi",M,Yamerikiae,Subsistence Farmer,01 Jan 1965
+1047,160201985,"Napai, Mathew",M,Yamerikiae,Subsistence Farmer,01 Jan 1977
+1048,160202164,"Napai, Pala",M,Yamerikiae,Subsistence Farmer,01 Jan 1968
+1049,160203863,"Napai, Sale",M,Yamerikiae,Subsistence Farmer,01 Jan 1975
+1050,160227125,"Nena, Martin",M,Ilo,Subsistence Farmer,01 Jan 1957
+1051,160227298,"Nena, Wami",M,Ilo,Subsistence Farmer,01 Jan 1958
+1052,160227123,"Nene, Ote",M,Ilo,Subsistence Farmer,01 Jan 1950
+1053,160234397,"Niru, Lucas",M,New Island,Subsistence Farmer,01 Jan 1978
+1054,160234557,"Niru, Roman",M,Omai,Student,16 Aug 1994
+1055,160234411,"Niru, Simon",M,New Island,Subsistence Farmer,01 Jan 1977
+1056,160146353,"Nogea, Dei",M,Omai,Houseboy,01 Jan 1982
+1057,160121439,"Nogea, Junnior",M,Omai,Student,16 Aug 1998
+1058,160139625,"Nogea, Patrik",M,Omai,Student,18 Jun 1997
+1059,160190915,"Nogea, Solomon",M,Yamerikiae,Houseboy,01 Jan 1983
+1060,160203857,"Nolepa, Aisapa",M,Yamerikiae,Subsistence Farmer,01 Jan 1981
+1061,160203837,"Nolepa, Pokea",M,Yamerikiae,Subsistence Farmer,01 Jan 1976
+1062,160211212,"Nolepa, Rombala",M,Yamerikiae,Subsistence Farmer,01 Jan 1970
+1063,160211078,"Nolepa, Rulu",M,Yamerikiae,Subsistence Farmer,01 Jan 1966
+1064,160202613,"Nolepa, Salosi",M,Yamerikiae,Subsistence Farmer,01 Jan 1970
+1065,160146323,"Nolepa, Undipa",M,Omai,Subsistence Farmer,01 Jan 1972
+1066,160206697,"Nolepa, Warea",M,Yamerikiae,Subsistence Farmer,01 Jan 1972
+1067,160187751,"Noma, Wepo",M,Oyaga,Subsistence Farmer,01 Jan 1955
+1068,160227609,"Oge, Jeffery",M,Ilo,Subsistence Farmer,01 Jan 1975
+1069,160227610,"Oge, Moria",M,Ilo,Subsistence Farmer,01 Jan 1970
+1070,160234684,"Oge, Nelson",M,Ilo,Student,01 Jan 1990
+1071,25085799,"Oke, Jube",M,Omai,Student,29 Sep 2003
+1072,160227615,"Oko, Ke",M,Ilo,Subsistence Farmer,01 Jan 1958
+1073,160230926,"Oko, Kopoa",M,Ilo,Subsistence Farmer,01 Jan 1948
+1074,160227532,"Oko, Puri",M,Ilo,Subsistence Farmer,01 Jan 1963
+1075,160227684,"Oko, Wete",M,Ilo,Subsistence Farmer,01 Jan 1950
+1076,160203931,"Omape, Adia",M,Omai,Subsistence Farmer,01 Jan 1976
+1077,160203967,"Omape, Max",M,Omai,Subsistence Farmer,01 Jan 1971
+1078,160203740,"Omape, Nande",M,Omai,Subsistence Farmer,01 Jan 1984
+1079,160234524,"Omape, Rex",M,Omai,Subsistence Farmer,19 Nov 1993
+1080,160203739,"Omape, Thomas",M,Omai,Subsistence Farmer,01 Jan 1980
+1081,160181014,"Ona, Charles",M,Kana,Subsistence Farmer,01 Jan 1963
+1082,160221146,"Ona, Peawi",M,Kana,Subsistence Farmer,01 Jan 1964
+1083,160198953,"Ona, Yae",M,Kana,Subsistence Farmer,01 Jan 1963
+1084,160234680,"Onde, James",M,Omai,Subsistence Farmer,01 Jan 1988
+1085,160204948,"Opena, Bata",M,Kana,Subsistence Farmer,01 Jan 1988
+1086,160204945,"Opena, Yawa",M,Kana,Subsistence Farmer,01 Jan 1983
+1087,160139607,"Owi, Enaye",M,Omai,Subsistence Farmer,14 Nov 1976
+1088,160227302,"Owi, Josua",M,Omai,Student,01 Jan 1985
+1089,160227191,"Owi, Pakea",M,Omai,Subsistence Farmer,01 Jan 1967
+1090,160177506,"Owi, Wanpis",M,Omai,Subsistence Farmer,01 Jan 1975
+1091,25085801,"Paima, Amron",M,Omai,Student,10 Jan 2004
+1092,25085803,"Paima, Bel",M,Omai,Student,13 Apr 2003
+1093,160190088,"Paima, Iso",M,Omai,Student,01 Jan 1976
+1094,25085809,"Paima, Luke",M,Omai,Student,11 Jan 2002
+1095,160193412,"Paima, Orepe",M,Omai,Subsistence Farmer,01 Jan 1962
+1096,160193409,"Paima, Peter",M,Omai,Subsistence Farmer,01 Jan 1954
+1097,160190912,"Paima, Rickson",M,Oyaga,Student,01 Jan 1971
+1098,25085813,"Paima, Rima",M,Omai,Student,16 May 2003
+1099,160193315,"Paima, Wanpis",M,Omai,Subsistence Farmer,01 Jan 1958
+1100,160121396,"Paina, Essy",M,Omai,Student,05 Jun 1998
+1101,160439354,"Paina, Esy",M,Omai,Student,29 Oct 2003
+1102,160177935,"Paiya, Pulupa",M,Kana,Subsistence Farmer,01 Jan 1948
+1103,160439356,"Pake, Flai",M,Omai,Student,09 Nov 2002
+1104,160439358,"Pake, Ila",M,Omai,Student,09 Apr 2002
+1105,160227393,"Pakena, Karabus",M,Ilo,Subsistence Farmer,01 Jan 1967
+1106,160227586,"Pakena, Nande",M,Ilo,Subsistence Farmer,01 Jan 1967
+1107,160146355,"Paki, Rombert",M,Omai,Pastor,01 Jan 1970
+1108,160121366,"Pala, Brendy",M,Ramikipa,Student,18 Aug 1998
+1109,160230951,"Pala, Duma",M,Kana,Subsistence Farmer,01 Jan 1963
+1110,25085815,"Pamai, Paul",M,Omai,Subsistence Farmer,14 Jan 2000
+1111,160204641,"Pamea, Lape",M,Kana,Subsistence Farmer,01 Jan 1961
+1112,160222013,"Pamea, Naki",M,Kana,Subsistence Farmer,01 Jan 1978
+1113,160234276,"Pamea, Paul",M,Kana,Subsistence Farmer,01 Jan 1991
+1114,160234255,"Pamea, Reri",M,Kana,Subsistence Farmer,01 Jan 1974
+1115,160222007,"Pamea, Yaki",M,Kana,Subsistence Farmer,01 Jan 1965
+1116,160187006,"Pamina, Paul",M,Kana,Subsistence Farmer,01 Jan 1958
+1117,160121399,"Pamuali, Isack",M,Omai,Student,05 Nov 1998
+1118,160234667,"Pamuali, Steven",M,Yamerikiae,Subsistence Farmer,01 Jan 1970
+1119,160232471,"Pandea, Dickson",M,Ramerikiae,Subsistence Farmer,01 Jan 1975
+1120,160234550,"Pandea, Emon",M,Yamerikiae,Houseboy,01 Jan 1989
+1121,160234499,"Pandea, Mathew",M,Yamerikiae,Subsistence Farmer,01 Jan 1987
+1122,160234553,"Pandea, Roke",M,Yamerikiae,Student,01 Jan 1994
+1123,160232555,"Pandea, Wesly",M,Nekea/Renderepa,Subsistence Farmer,01 Jan 1977
+1124,160234551,"Pandea, Yakop",M,Yamerikiae,Subsistence Farmer,01 Jan 1990
+1125,160121259,"Pape, Makus",M,Ramerikiae,Subsistence Farmer,16 May 1990
+1126,160201349,"Pasalo, Apurale",M,Omai,Subsistence Farmer,01 Jan 1948
+1127,160196318,"Pasalo, Ipiyogo",M,Omai,Subsistence Farmer,01 Jan 1944
+1128,160196320,"Pasalo, Mone",M,Omai,Subsistence Farmer,01 Jan 1970
+1129,160199107,"Pasalo, Nade",M,Omai,Subsistence Farmer,01 Jan 1972
+1130,160198469,"Pasalo, Nali",M,Omai,Subsistence Farmer,01 Jan 1942
+1131,160201613,"Pasalo, Pona",M,Omai,Subsistence Farmer,01 Jan 1962
+1132,160233233,"Pastor, Suri",M,Ilo,Pastor,01 Jan 1975
+1133,160146338,"Paul, David",M,Omai,Subsistence Farmer,01 Jan 1977
+1134,160234268,"Paul, Mane",M,Kana,Student,01 Jan 1994
+1135,160187003,"Paul, Peter",M,Kana,Subsistence Farmer,01 Jan 1984
+1136,160227048,"Paul, Rowi",M,Kana,Student,01 Jan 1991
+1137,25085821,"Paul, Sonny",M,Omai,Student,14 Dec 2003
+1138,160439363,"Paulus, Undipa",M,Omai,Subsistence Farmer,26 Feb 2001
+1139,25085823,"Payapa, Yamme anna",M,Omai,Subsistence Farmer,04 Jun 2001
+1140,160121437,"Payopa, Ismael",M,Omai,Student,20 Sep 1998
+1141,160121436,"Payopa, Jetro",M,Omai,Student,24 Mar 1998
+1142,160221149,"Peawi, Andrew",M,Kana,Subsistence Farmer,15 Sep 1987
+1143,160221174,"Peawi, James",M,Kana,Subsistence Farmer,16 Apr 1989
+1144,25085830,"Peme, Manu",M,Omai,Student,11 Feb 2004
+1145,160121382,"Peme, Manus",M,Ramikipa,Student,04 Apr 1998
+1146,160197212,"Pereke, Andrew",M,Omai,Subsistence Farmer,01 Jan 1988
+1147,160187777,"Pereke, Yona",M,Omai,Subsistence Farmer,01 Jan 1985
+1148,25085831,"Peter, Adam",M,Omai,Student,14 Mar 2000
+1149,25085833,"Peter, Adrian",M,Omai,Student,26 Sep 2002
+1150,160234225,"Peter, Andew",M,Omai,Subsistence Farmer,30 Mar 1971
+1151,25085835,"Peter, Darus",M,Omai,Student,18 Jan 2004
+1152,160186968,"Peter, Frank",M,Omai,Student,01 Jan 1971
+1153,25085840,"Peter, George",M,Omai,Student,11 Jun 2003
+1154,25085842,"Peter, Inock",M,Omai,Student,04 May 2001
+1155,25085844,"Peter, Jetro",M,Omai,Student,15 Jul 2000
+1156,160439367,"Peter, Jordan",M,Omai,Student,01 Mar 2003
+1157,160439369,"Peter, Luke",M,Omai,Subsistence Farmer,02 Apr 1998
+1158,160121424,"Peter, Rave",M,Omai,Student,16 Dec 1998
+1159,160234554,"Peter, Ronny",M,Omai,Student,16 Sep 1994
+1160,160190783,"Peter, Ruben",M,Omai,Student,01 Jan 1986
+1161,160439375,"Peter, Tony",M,Omai,Driver,03 Feb 1997
+1162,160234537,"Peter, Wani",M,Omai,Student,19 Nov 1994
+1163,160439377,"Philimon, Simon",M,Omai,Student,01 Feb 2000
+1164,160177766,"Pindipia, Ango",M,Kana,Subsistence Farmer,01 Jan 1974
+1165,160146477,"Pindipia, Waporopasi",M,Omai,Subsistence Farmer,01 Jan 1947
+1166,160227430,"Pirirwi, Moria",M,Ilo,Subsistence Farmer,01 Jan 1945
+1167,160439379,"Pisa, Isikel",M,Omai,Student,11 Jan 2003
+1168,160234271,"Pisipi, Palus",M,Kana,Student,01 Jan 1994
+1169,160233231,"Pogola, Dickson",M,Ilo,Student,01 Jan 1991
+1170,160227320,"Pogola, Epe yadi",M,Ilo,Subsistence Farmer,01 Jan 1983
+1171,160121407,"Pogola, Joshua",M,Omai,Student,11 Mar 1997
+1172,160233230,"Pogola, Nelson",M,Ilo,Subsistence Farmer,01 Jan 1980
+1173,160234671,"Pokea, Mari",M,Yamerikiae,Subsistence Farmer,01 Jan 1959
+1174,160211073,"Pokea, Nolepa",M,Yamerikiae,Subsistence Farmer,01 Jan 1931
+1175,160190551,"Pokea, Pamuali",M,Omai,Subsistence Farmer,01 Jan 1938
+1176,160190677,"Pokea, Wape",M,Omai,Subsistence Farmer,01 Jan 1942
+1177,160176325,"Pokea, Yombene",M,Kana,Subsistence Farmer,01 Jan 1967
+1178,160201625,"Pona, Alfrad",M,Omai,Subsistence Farmer,01 Jan 1989
+1179,160201615,"Pona, Moses",M,Omai,Subsistence Farmer,01 Jan 1985
+1180,160234502,"Pone, Sothy",M,Omai,Student,03 Jan 1994
+1181,160439387,"Pula, Nathan",M,Omai,Student,02 Apr 2001
+1182,160439389,"Pula, Philimon",M,Omai,Student,08 Sep 1999
+1183,160190258,"Pula, Ramba",M,Omai,Subsistence Farmer,01 Jan 1988
+1184,160146489,"Pula, Simon",M,Omai,Student,01 Jan 1986
+1185,160439391,"Pula, Vincent",M,Omai,Student,19 Apr 2000
+1186,160146499,"Puligina, Gaita",M,Omai,Subsistence Farmer,01 Jan 1938
+1187,160139783,"Pulup, Issick",M,Ramerikiae,Student,16 Apr 1998
+1188,160175896,"Pulupa, Peter",M,Kana,Subsistence Farmer,01 Jan 1975
+1189,160175898,"Pulupa, Puri",M,Kana,Subsistence Farmer,01 Jan 1976
+1190,160233238,"Punde, Tomba",M,Ilo,Doctor,01 Jan 1968
+1191,160146493,"Pupula, Maki",M,Omai,Subsistence Farmer,01 Jan 1984
+1192,160227646,"Puri, Aita",M,Kana,Subsistence Farmer,01 Jan 1946
+1193,160142651,"Puya, Mark",M,Omai,Subsistence Farmer,01 Jan 1986
+1194,160219014,"Rabami, Akapu",M,Kana,Subsistence Farmer,01 Jan 1975
+1195,160439393,"Raitalo, Danny",M,Omai,Student,23 Jan 2002
+1196,160439395,"Raitalo, Manu",M,Omai,Student,02 Jun 2002
+1197,160194624,"Ralia, William",M,Omai,Subsistence Farmer,01 Jan 1974
+1198,160197057,"Ralia, Yapi",M,Omai,Student,01 Jan 1976
+1199,160180646,"Raluta, Yoyo",M,Kana,Subsistence Farmer,01 Jan 1963
+1200,160234530,"Rambua, Soti",M,Yamerikiae,Subsistence Farmer,01 Jan 1990
+1201,160227571,"Ramu, Maria",M,Ilo,Subsistence Farmer,01 Jan 1942
+1202,160176086,"Ramu, Wane",M,Kana,Subsistence Farmer,01 Jan 1967
+1203,160190705,"Ramua, Andalua",M,Omai,Subsistence Farmer,01 Jan 1941
+1204,160227464,"Ramua, Gibbs",M,Ilo,Subsistence Farmer,01 Jan 1969
+1205,160227115,"Ramua, Jack",M,Ilo,Subsistence Farmer,01 Jan 1962
+1206,160194406,"Ramua, Mama",M,Omai,Subsistence Farmer,01 Jan 1956
+1207,160197113,"Ramua, Onde",M,Omai,Subsistence Farmer,01 Jan 1948
+1208,160227118,"Ramua, Pake",M,Ilo,Subsistence Farmer,01 Jan 1971
+1209,160227446,"Ramua, Pogola",M,Ilo,Subsistence Farmer,01 Jan 1951
+1210,160121384,"Randan, Kupu",M,Ramikipa,Subsistence Farmer,11 May 1990
+1211,160190941,"Randau, Daniel",M,Omai,Student,01 Jan 1981
+1212,160121422,"Randau, Jerry",M,Omai,Student,15 Aug 1998
+1213,160188231,"Randau, Joseph",M,Omai,Subsistence Farmer,01 Jan 1973
+1214,160196401,"Randau, Max",M,Omai,Teacher,01 Jan 1971
+1215,160121423,"Randau, Moses",M,Omai,Student,11 Jul 1998
+1216,160188234,"Randau, Robin",M,Omai,Subsistence Farmer,01 Jan 1976
+1217,160190944,"Randau, Steven",M,Omai,Student,01 Jan 1986
+1218,160234447,"Rane, Addie",M,Oyaga,Subsistence Farmer,01 Jan 1993
+1219,160234694,"Rane, Gibson",M,Oyaga,Student,01 Jan 1989
+1220,160234534,"Rane, Joshua",M,Oyaga,Student,01 Jan 1990
+1221,160234535,"Rane, Steven",M,Oyaga,Subsistence Farmer,01 Jan 1989
+1222,160234222,"Rane, Taitus",M,Oyaga,Subsistence Farmer,01 Jan 1980
+1223,160439407,"Ratalo, Danny",M,Omai,Student,25 Oct 2001
+1224,160439409,"Ratalo, Manu",M,Omai,Student,28 Apr 2003
+1225,160232415,"Ratu, Jeremiah",M,Nekea/Renderepa,Subsistence Farmer,01 Jan 1979
+1226,160177777,"Rawa, Perene",M,Kana,Subsistence Farmer,01 Jan 1978
+1227,160177778,"Rawa, Rambua",M,Kana,Subsistence Farmer,01 Jan 1979
+1228,160198629,"Regepea, Kaduna",M,Oyaga,Subsistence Farmer,01 Jan 1943
+1229,160198392,"Regepea, Rane",M,Oyaga,Subsistence Farmer,01 Jan 1971
+1230,160234311,"Rekari, Alo",M,Yamerikiae,Subsistence Farmer,01 Jan 1988
+1231,160190902,"Rekari, Rambua",M,Yamerikiae,Houseboy,01 Jan 1981
+1232,160143599,"Rekari, Wari",M,Omai,Houseboy,01 Jan 1984
+1233,160201346,"Remo, Naki",M,Omai,Subsistence Farmer,01 Jan 1966
+1234,160187765,"Remo, Ulane",M,Oyaga,Subsistence Farmer,01 Jan 1963
+1235,25085856,"Repa, Rita",M,Omai,Pastor,24 Apr 2000
+1236,25085857,"Repa, Tom",M,Omai,Student,16 Apr 2003
+1237,25085858,"Repag, Rex",M,Omai,Student,27 Apr 2004
+1238,160439413,"Retabu, Mathew",M,Omai,Student,06 Mar 2002
+1239,160234517,"Rex, Benja",M,Yamerikiae,Student,01 Jan 1994
+1240,160439419,"Rex, Elizah",M,Omai,Student,01 May 2000
+1241,160439422,"Rex, Jet",M,Omai,Student,28 Apr 2000
+1242,25087474,"Rey, Metex",M,Omai,Student,14 Dec 2003
+1243,160232419,"Ria, Loke",M,Nekea/Renderepa,Subsistence Farmer,01 Jan 1968
+1244,160439426,"Rickson, Levi",M,Omai,Student,28 Apr 2004
+1245,160439428,"Rickson, Menash",M,Omai,Student,28 Apr 2004
+1246,160193290,"Rilipu, Kuruma",M,Ilo,Subsistence Farmer,01 Jan 1964
+1247,25085860,"Rimas, Philip",M,Omai,Student,11 Nov 2001
+1248,25085861,"Rimas, Rimas",M,Omai,Student,21 May 2001
+1249,25085862,"Rimas, Yamo",M,Omai,Student,15 Nov 2003
+1250,25085864,"Rimas, Yamola",M,Omai,Student,18 Dec 2001
+1251,160227407,"Rokenea, Uni",M,Ilo,Subsistence Farmer,01 Jan 1944
+1252,160439432,"Rombala, Limo",M,Omai,Student,03 Dec 2000
+1253,160199127,"Rondo, Kupu",M,Omai,Subsistence Farmer,01 Jan 1975
+1254,160142452,"Ruki yapa, Aga",M,Omai,Subsistence Farmer,01 Jan 1967
+1255,160439434,"Rulu, Endy",M,Omai,Student,13 Jun 2001
+1256,160121448,"Rulu, Robin",M,Ramerikiae,Student,16 Nov 1997
+1257,160146481,"Rundua, Mu",M,Omai,Subsistence Farmer,01 Jan 1974
+1258,160142618,"Rundua, Retambu",M,Omai,Subsistence Farmer,01 Jan 1977
+1259,160234477,"Saipa, Pandea",M,Omai,Subsistence Farmer,01 Jan 1958
+1260,160233232,"Sekere, Emon",M,Ilo,Student,01 Jan 1994
+1261,160233228,"Sekere, Moses",M,Ilo,Subsistence Farmer,01 Jan 1989
+1262,160234543,"Sekere, Sesi",M,Ilo,Student,01 Jan 2000
+1263,160234686,"Sekere, Zet",M,Ilo,Student,01 Jan 1987
+1264,160439439,"Seki, Jackson",M,Omai,Student,04 Aug 2003
+1265,160439445,"Senis, Rodney",M,Omai,Student,23 Apr 2004
+1266,160439447,"Severe piwiri, Stalone",M,Omai,Student,06 Jun 1990
+1267,160139780,"Simon, Robeth",M,Ramerikiae,Subsistence Farmer,16 Oct 1998
+1268,160234214,"Sipaki, Paina",M,Oyaga,Student,01 Jan 1989
+1269,160234546,"Sipaki, Yola",M,Oyaga,Houseboy,01 Jan 1993
+1270,160146328,"Sonde, Yasa",M,Omai,Subsistence Farmer,01 Jan 1955
+1271,25085867,"Steven, Junior",M,Omai,Subsistence Farmer,12 Aug 1980
+1272,25085869,"Steven, Sonny",M,Omai,Student,10 Oct 2003
+1273,160204662,"Suayo, Diki",M,Kana,Subsistence Farmer,01 Jan 1947
+1274,160204415,"Suayo, Manda",M,Kana,Subsistence Farmer,01 Jan 1947
+1275,160234326,"Suringi, Pastor",M,Oyaga,Pastor,01 Jan 1963
+1276,160177643,"Talp, Masa",M,Kana,Subsistence Farmer,01 Jan 1971
+1277,160201971,"Tapu, Bone",M,Yamerikiae,Subsistence Farmer,01 Jan 1972
+1278,160143712,"Tapu, David",M,Omai,Houseboy,01 Jan 1989
+1279,160201744,"Tapu, Giape",M,Yamerikiae,Subsistence Farmer,01 Jan 1976
+1280,160177785,"Tau, Miniyope",M,Kana,Subsistence Farmer,01 Jan 1960
+1281,160193279,"Thomas, Pastor",M,Omai,Pastor,01 Jan 1955
+1282,160439468,"Thomas, Petrus",M,Omai,Student,26 Jan 2003
+1283,160234309,"Timon, Malakai",M,Yamerikiae,Pastor,01 Jan 1972
+1284,160139788,"Timon, Nimrod",M,Ramerikiae,Student,20 Apr 1998
+1285,160121378,"Timothy, Andi",M,Ramikipa,Student,16 May 1998
+1286,160234306,"Timothy, Jeffery",M,Oyaga,Student,01 Jan 1994
+1287,160234495,"Timothy, Steven",M,Oyaga,Student,01 Jan 1991
+1288,160439473,"Tipu, Andrew",M,Omai,Houseboy,03 Aug 2002
+1289,160190264,"Tipu, John",M,Omai,Subsistence Farmer,01 Jan 1987
+1290,160193407,"Tipu, Mambol",M,Omai,Subsistence Farmer,01 Jan 1985
+1291,160234496,"Tipu, Rossy",M,Omai,Subsistence Farmer,01 Jan 1994
+1292,25085871,"Ton, Dakupi",M,Omai,Student,13 Mar 2004
+1293,160234458,"Topopo, Smith",M,Oyaga,Student,01 Jan 1994
+1294,160197084,"Toropo, David",M,Oyaga,Subsistence Farmer,01 Jan 1986
+1295,160121251,"Toropo, Jessy",M,Omai,Student,15 Apr 1998
+1296,160197243,"Toropo, Timothy",M,Oyaga,Subsistence Farmer,01 Jan 1988
+1297,160143852,"Tulia, Sande",M,Omai,Subsistence Farmer,01 Jan 1983
+1298,160121410,"Tulip, Jude",M,Ilo,Driver,11 May 1997
+1299,160439475,"Tuly, Tara",M,Omai,Student,03 Apr 2002
+1300,160234272,"Ulae, Mapua",M,Kana,Subsistence Farmer,01 Jan 1950
+1301,160234405,"Ulae, Pani",M,New Island,Subsistence Farmer,01 Jan 1978
+1302,160234417,"Ulae, Samson",M,New Island,Subsistence Farmer,01 Jan 1979
+1303,160234418,"Ulae, Samuel",M,New Island,Subsistence Farmer,01 Jan 1974
+1304,160439476,"Ulane, Heron",M,Omai,Student,03 Apr 2003
+1305,160234456,"Ulane, Philimon",M,Oyaga,Student,01 Jan 1994
+1306,160439480,"Umitasi, Daniel",M,Omai,Student,28 Apr 2003
+1307,160439483,"Umitasi, Molo",M,Omai,Student,15 Dec 2003
+1308,160227620,"Uni, Kuma",M,Ilo,Subsistence Farmer,01 Jan 1947
+1309,160227556,"Uni, Ore",M,Ilo,Subsistence Farmer,01 Jan 1975
+1310,160227422,"Uni, Willa",M,Ilo,Subsistence Farmer,01 Jan 1986
+1311,160197104,"Uta, Marepa",M,Omai,Subsistence Farmer,01 Jan 1933
+1312,160143859,"Wai nogo, Yole",M,Omai,Subsistence Farmer,01 Jan 1985
+1313,160121268,"Waiete, Jacking",M,Ramerikiae,Student,06 Aug 1996
+1314,160146336,"Wainogo, Pitarundu",M,Omai,Subsistence Farmer,01 Jan 1963
+1315,160143858,"Wainogo, Rusa",M,Omai,Subsistence Farmer,01 Jan 1972
+1316,160220392,"Walua, Nadape",M,Kana,Subsistence Farmer,01 Jan 1971
+1317,160219016,"Walua, Pisipi",M,Kana,Subsistence Farmer,01 Jan 1959
+1318,160219162,"Walua, Wepo",M,Kana,Subsistence Farmer,01 Jan 1957
+1319,160234511,"Wami, Charlie",M,Yamerikiae,Teacher,01 Jan 1968
+1320,160177518,"Wando, Paul",M,Ilo,Subsistence Farmer,01 Jan 1977
+1321,160227442,"Wane, Kulapo",M,Ilo,Subsistence Farmer,01 Jan 1968
+1322,160227440,"Wane, Tuli",M,Ilo,Subsistence Farmer,01 Jan 1967
+1323,160227441,"Wane, Undipa",M,Ilo,Subsistence Farmer,01 Jan 1975
+1324,160227443,"Wano, Yano",M,Ilo,Subsistence Farmer,01 Jan 1974
+1325,160234659,"Wapa, Manaba",M,Yamerikiae,Subsistence Farmer,01 Jan 1959
+1326,160146373,"Wapa, Minisa",M,Omai,Subsistence Farmer,01 Jan 1987
+1327,160139784,"Wape, Gibson",M,Ramerikiae,Student,18 Mar 1998
+1328,160234693,"Wape, Joel",M,Omai,Subsistence Farmer,30 Apr 1987
+1329,160194436,"Wape, Leme",M,Omai,Pastor,01 Jan 1971
+1330,160146372,"Wape, Ote",M,Omai,Subsistence Farmer,01 Jan 1976
+1331,160177783,"Waporopasi, Jacob",M,Kana,Subsistence Farmer,01 Jan 1979
+1332,160173155,"Waporopasi, Senis",M,Kana,Subsistence Farmer,01 Jan 1977
+1333,160173157,"Waporopasi, Timothy",M,Kana,Subsistence Farmer,01 Jan 1980
+1334,25085877,"Warea, Epsi",M,Omai,Nurse,15 Nov 2001
+1335,160439487,"Warea, Manson",M,Omai,Student,28 Jul 2000
+1336,160146364,"Warea, Opena",M,Omai,Subsistence Farmer,01 Jan 1958
+1337,160234561,"Watu, Apple",M,Omai,Student,08 Apr 1993
+1338,160139623,"Watu, Stanly",M,Omai,Student,11 Jan 1998
+1339,160234478,"Watuma, Nandape",M,Omai,Student,18 Apr 1994
+1340,160190896,"Watuma, Paina",M,Omai,Student,01 Jan 1971
+1341,160190568,"Watuma, Simon",M,Omai,Student,01 Jan 1979
+1342,160190698,"Watuma, Wita",M,Omai,Student,01 Jan 1986
+1343,160234266,"Wepo, Lukas",M,Kana,Student,01 Jan 1990
+1344,160190132,"Wepo, Machal",M,Oyaga,Teacher,01 Jan 1976
+1345,160188394,"Wepo, Ocen",M,Oyaga,Subsistence Farmer,01 Jan 1978
+1346,160219165,"Wepo, Simon",M,Kana,Student,15 Oct 1987
+1347,160189959,"Wepo, Tatias",M,Oyaga,Subsistence Farmer,01 Jan 1987
+1348,160227526,"Wete, Solomon",M,Ilo,Subsistence Farmer,01 Jan 1987
+1349,160187161,"William, Benjamin",M,Kana,Student,01 Jan 1985
+1350,160227049,"William, Esla",M,Kana,Student,01 Jan 1989
+1351,160234270,"William, Philimon",M,Kana,Student,01 Jan 1993
+1352,160234278,"Williem, Noka",M,Kana,Student,01 Jan 1992
+1353,160187155,"Wina, William",M,Kana,Subsistence Farmer,01 Jan 1961
+1354,160142451,"Yae, Dominic",M,Omai,Subsistence Farmer,01 Jan 1987
+1355,160234251,"Yaisa, Jakop",M,Kana,Student,01 Jan 1982
+1356,160234247,"Yaisa, Pono",M,Kana,Subsistence Farmer,01 Jan 1972
+1357,160204435,"Yake, Imali",M,Kana,Subsistence Farmer,01 Jan 1962
+1358,160234261,"Yaki, Samuel",M,Kana,Subsistence Farmer,01 Jan 1990
+1359,160143594,"Yako, Andua",M,Omai,Subsistence Farmer,01 Jan 1942
+1360,160142441,"Yako, Kopora",M,Omai,Subsistence Farmer,01 Jan 1974
+1361,160439501,"Yako, Sengi",M,Omai,Subsistence Farmer,07 Jul 1990
+1362,160439503,"Yamo, Marthin",M,Omai,Teacher,11 Jan 1971
+1363,160227583,"Yana yogo, Joseph",M,Ilo,Subsistence Farmer,01 Jan 1967
+1364,160198633,"Yano, Alo",M,Oyaga,Subsistence Farmer,01 Jan 1985
+1365,160199124,"Yano, Alua",M,Oyaga,Machinist,01 Jan 1968
+1366,160198630,"Yano, Dickson",M,Oyaga,Student,01 Jan 1976
+1367,160121403,"Yano, Nelson",M,Omai,Subsistence Farmer,15 Dec 1998
+1368,160234446,"Yano, Steven",M,Oyaga,Student,01 Jan 1992
+1369,160146229,"Yano, Yogo",M,Omai,Subsistence Farmer,01 Jan 1967
+1370,160227310,"Yapaga, Alo",M,Ilo,Subsistence Farmer,01 Jan 1968
+1371,160227309,"Yapaga, Ewa",M,Ilo,Subsistence Farmer,01 Jan 1961
+1372,160227444,"Yapaga, Kambita",M,Ilo,Subsistence Farmer,01 Jan 1965
+1373,160201995,"Yapapia, Tapu",M,Yamerikiae,Subsistence Farmer,01 Jan 1967
+1374,160203829,"Yapasi, Eya",M,Kana,Subsistence Farmer,01 Jan 1988
+1375,160232132,"Yapasi, Iso",M,Kana,Subsistence Farmer,01 Jan 1985
+1376,160146515,"Yapasi, Kama",M,Omai,Subsistence Farmer,01 Jan 1986
+1377,160203828,"Yapasi, Pala",M,Kana,Subsistence Farmer,01 Jan 1984
+1378,160227042,"Yapasi, Senis",M,Kana,Subsistence Farmer,01 Jan 1992
+1379,160188381,"Yaranaki, Omape",M,Omai,Subsistence Farmer,01 Jan 1942
+1380,160198612,"Yarepela, Buru",M,Ilo,Subsistence Farmer,01 Jan 1971
+1381,160229572,"Yari, Kuruma",M,Yamerikiae,Subsistence Farmer,01 Jan 1943
+1382,160139611,"Yari, Nelson",M,Omai,Student,25 Jun 1998
+1383,160234250,"Yari, Paul",M,Kana,Subsistence Farmer,01 Jan 1970
+1384,160234518,"Yari, Steven",M,Yamerikiae,Subsistence Farmer,01 Jan 1972
+1385,160184952,"Yata, Alupa",M,Yamerikiae,Subsistence Farmer,01 Jan 1955
+1386,160234468,"Yata, David",M,Yamerikiae,Subsistence Farmer,01 Jan 1982
+1387,160182776,"Yata, Kelamu",M,Yamerikiae,Subsistence Farmer,01 Jan 1961
+1388,160234469,"Yata, Kotapu",M,Yamerikiae,Subsistence Farmer,01 Jan 1968
+1389,160234467,"Yata, Nepien",M,Yamerikiae,Teacher,01 Jan 1978
+1390,160232418,"Yawe, Aisa",M,Nekea/Renderepa,Subsistence Farmer,01 Jan 1988
+1391,160232423,"Yawe, Rex",M,Nekea/Renderepa,Subsistence Farmer,01 Jan 1990
+1392,160201934,"Yobene, Mark",M,Kana,Subsistence Farmer,01 Jan 1977
+1393,160176326,"Yobene, Rala",M,Kana,Subsistence Farmer,01 Jan 1987
+1394,160176328,"Yobene, Ratalo",M,Kana,Subsistence Farmer,01 Jan 1975
+1395,160176330,"Yobene, Seki",M,Kana,Subsistence Farmer,01 Jan 1973
+1396,160234246,"Yogoa, Yaisa",M,Kana,Subsistence Farmer,01 Jan 1960
+1397,160190937,"Yolosa, Kopo",M,Omai,Councillor,01 Jan 1962
+1398,160190909,"Yonaki, Nogea",M,Yamerikiae,Subsistence Farmer,01 Jan 1945
+1399,160177771,"Yoyo, Amba",M,Kana,Subsistence Farmer,01 Jan 1977
+1400,160146334,"Yoyo, Cyla",M,Omai,Subsistence Farmer,01 Jan 1978
+1401,160180520,"Yoyo, John",M,Kana,Subsistence Farmer,01 Jan 1979
+1402,160177769,"Yoyo, Kombea",M,Kana,Subsistence Farmer,01 Jan 1975
+1403,160180553,"Yoyo, Ralopona",M,Kana,Subsistence Farmer,01 Jan 1978
+1404,160180524,"Yoyo, Thomas",M,Kana,Subsistence Farmer,01 Jan 1977

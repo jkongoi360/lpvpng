@@ -1,0 +1,639 @@
+[
+  {
+    "slug": "north-fly",
+    "name": "North Fly Open",
+    "provinceId": "western",
+    "seatType": "open",
+    "totalRegisteredVoters": 58200
+  },
+  {
+    "slug": "middle-fly",
+    "name": "Middle Fly Open",
+    "provinceId": "western",
+    "seatType": "open",
+    "totalRegisteredVoters": 42100
+  },
+  {
+    "slug": "south-fly",
+    "name": "South Fly Open",
+    "provinceId": "western",
+    "seatType": "open",
+    "totalRegisteredVoters": 47500
+  },
+  {
+    "slug": "delta-fly",
+    "name": "Delta Fly Open",
+    "provinceId": "western",
+    "seatType": "open",
+    "totalRegisteredVoters": 35800
+  },
+  {
+    "slug": "kerema",
+    "name": "Kerema Open",
+    "provinceId": "gulf",
+    "seatType": "open",
+    "totalRegisteredVoters": 52400
+  },
+  {
+    "slug": "kikori",
+    "name": "Kikori Open",
+    "provinceId": "gulf",
+    "seatType": "open",
+    "totalRegisteredVoters": 38900
+  },
+  {
+    "slug": "abau",
+    "name": "Abau Open",
+    "provinceId": "central",
+    "seatType": "open",
+    "totalRegisteredVoters": 45600
+  },
+  {
+    "slug": "rigo",
+    "name": "Rigo Open",
+    "provinceId": "central",
+    "seatType": "open",
+    "totalRegisteredVoters": 48200
+  },
+  {
+    "slug": "kairuku-hiri",
+    "name": "Kairuku-Hiri Open",
+    "provinceId": "central",
+    "seatType": "open",
+    "totalRegisteredVoters": 62300
+  },
+  {
+    "slug": "goilala",
+    "name": "Goilala Open",
+    "provinceId": "central",
+    "seatType": "open",
+    "totalRegisteredVoters": 39800
+  },
+  {
+    "slug": "moresby-south",
+    "name": "Moresby South Open",
+    "provinceId": "ncd",
+    "seatType": "open",
+    "totalRegisteredVoters": 78500
+  },
+  {
+    "slug": "moresby-north-west",
+    "name": "Moresby North-West Open",
+    "provinceId": "ncd",
+    "seatType": "open",
+    "totalRegisteredVoters": 85200
+  },
+  {
+    "slug": "moresby-north-east",
+    "name": "Moresby North-East Open",
+    "provinceId": "ncd",
+    "seatType": "open",
+    "totalRegisteredVoters": 72100
+  },
+  {
+    "slug": "alotau",
+    "name": "Alotau Open",
+    "provinceId": "milne-bay",
+    "seatType": "open",
+    "totalRegisteredVoters": 51200
+  },
+  {
+    "slug": "kiriwina-goodenough",
+    "name": "Kiriwina-Goodenough Open",
+    "provinceId": "milne-bay",
+    "seatType": "open",
+    "totalRegisteredVoters": 47800
+  },
+  {
+    "slug": "samarai-murua",
+    "name": "Samarai-Murua Open",
+    "provinceId": "milne-bay",
+    "seatType": "open",
+    "totalRegisteredVoters": 43500
+  },
+  {
+    "slug": "esa-ala",
+    "name": "Esa'ala Open",
+    "provinceId": "milne-bay",
+    "seatType": "open",
+    "totalRegisteredVoters": 39200
+  },
+  {
+    "slug": "ijivitari",
+    "name": "Ijivitari Open",
+    "provinceId": "oro",
+    "seatType": "open",
+    "totalRegisteredVoters": 44300
+  },
+  {
+    "slug": "sohe",
+    "name": "Sohe Open",
+    "provinceId": "oro",
+    "seatType": "open",
+    "totalRegisteredVoters": 41800
+  },
+  {
+    "slug": "ialibu-pangia",
+    "name": "Ialibu-Pangia Open",
+    "provinceId": "southern-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 68500
+  },
+  {
+    "slug": "imbonggu",
+    "name": "Imbonggu Open",
+    "provinceId": "southern-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 44842
+  },
+  {
+    "slug": "mendi-central",
+    "name": "Mendi Central Open",
+    "provinceId": "southern-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 42174
+  },
+  {
+    "slug": "kagua-erave",
+    "name": "Kagua-Erave Open",
+    "provinceId": "southern-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 55800
+  },
+  {
+    "slug": "nipa-kutubu",
+    "name": "Nipa-Kutubu Open",
+    "provinceId": "southern-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 59200
+  },
+  {
+    "slug": "mendi",
+    "name": "Mendi Open",
+    "provinceId": "southern-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 51400
+  },
+  {
+    "slug": "tari-pori",
+    "name": "Tari-Pori Open",
+    "provinceId": "hela",
+    "seatType": "open",
+    "totalRegisteredVoters": 72300
+  },
+  {
+    "slug": "koroba-kopiago",
+    "name": "Koroba-Kopiago Open",
+    "provinceId": "hela",
+    "seatType": "open",
+    "totalRegisteredVoters": 58900
+  },
+  {
+    "slug": "komo-margarima",
+    "name": "Komo-Margarima Open",
+    "provinceId": "hela",
+    "seatType": "open",
+    "totalRegisteredVoters": 49600
+  },
+  {
+    "slug": "wapenamanda",
+    "name": "Wapenamanda Open",
+    "provinceId": "enga",
+    "seatType": "open",
+    "totalRegisteredVoters": 65400
+  },
+  {
+    "slug": "kompiam-ambum",
+    "name": "Kompiam-Ambum Open",
+    "provinceId": "enga",
+    "seatType": "open",
+    "totalRegisteredVoters": 52800
+  },
+  {
+    "slug": "wabag",
+    "name": "Wabag Open",
+    "provinceId": "enga",
+    "seatType": "open",
+    "totalRegisteredVoters": 58100
+  },
+  {
+    "slug": "lagaip-porgera",
+    "name": "Lagaip-Porgera Open",
+    "provinceId": "enga",
+    "seatType": "open",
+    "totalRegisteredVoters": 71200
+  },
+  {
+    "slug": "kandep",
+    "name": "Kandep Open",
+    "provinceId": "enga",
+    "seatType": "open",
+    "totalRegisteredVoters": 48900
+  },
+  {
+    "slug": "hagen",
+    "name": "Hagen Open",
+    "provinceId": "western-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 82400
+  },
+  {
+    "slug": "dei",
+    "name": "Dei Open",
+    "provinceId": "western-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 56700
+  },
+  {
+    "slug": "mul-baiyer",
+    "name": "Mul-Baiyer Open",
+    "provinceId": "western-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 61300
+  },
+  {
+    "slug": "tambul-nebilyer",
+    "name": "Tambul-Nebilyer Open",
+    "provinceId": "western-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 53800
+  },
+  {
+    "slug": "north-wahgi",
+    "name": "North Wahgi Open",
+    "provinceId": "western-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 59200
+  },
+  {
+    "slug": "anglimp-south-wahgi",
+    "name": "Anglimp-South Wahgi Open",
+    "provinceId": "jiwaka",
+    "seatType": "open",
+    "totalRegisteredVoters": 67800
+  },
+  {
+    "slug": "jimi",
+    "name": "Jimi Open",
+    "provinceId": "jiwaka",
+    "seatType": "open",
+    "totalRegisteredVoters": 48500
+  },
+  {
+    "slug": "kundiawa-gembogl",
+    "name": "Kundiawa-Gembogl Open",
+    "provinceId": "chimbu",
+    "seatType": "open",
+    "totalRegisteredVoters": 58600
+  },
+  {
+    "slug": "chuave",
+    "name": "Chuave Open",
+    "provinceId": "chimbu",
+    "seatType": "open",
+    "totalRegisteredVoters": 52400
+  },
+  {
+    "slug": "sinasina-yonggamugl",
+    "name": "Sinasina-Yonggamugl Open",
+    "provinceId": "chimbu",
+    "seatType": "open",
+    "totalRegisteredVoters": 49800
+  },
+  {
+    "slug": "gumine",
+    "name": "Gumine Open",
+    "provinceId": "chimbu",
+    "seatType": "open",
+    "totalRegisteredVoters": 44200
+  },
+  {
+    "slug": "kerowagi",
+    "name": "Kerowagi Open",
+    "provinceId": "chimbu",
+    "seatType": "open",
+    "totalRegisteredVoters": 51600
+  },
+  {
+    "slug": "karimui-nomane",
+    "name": "Karimui-Nomane Open",
+    "provinceId": "chimbu",
+    "seatType": "open",
+    "totalRegisteredVoters": 38900
+  },
+  {
+    "slug": "goroka",
+    "name": "Goroka Open",
+    "provinceId": "eastern-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 68400
+  },
+  {
+    "slug": "daulo",
+    "name": "Daulo Open",
+    "provinceId": "eastern-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 52300
+  },
+  {
+    "slug": "henganofi",
+    "name": "Henganofi Open",
+    "provinceId": "eastern-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 46100
+  },
+  {
+    "slug": "kainantu",
+    "name": "Kainantu Open",
+    "provinceId": "eastern-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 58700
+  },
+  {
+    "slug": "lufa",
+    "name": "Lufa Open",
+    "provinceId": "eastern-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 43500
+  },
+  {
+    "slug": "obura-wonenara",
+    "name": "Obura-Wonenara Open",
+    "provinceId": "eastern-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 41200
+  },
+  {
+    "slug": "okapa",
+    "name": "Okapa Open",
+    "provinceId": "eastern-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 47800
+  },
+  {
+    "slug": "unggai-bena",
+    "name": "Unggai-Bena Open",
+    "provinceId": "eastern-highlands",
+    "seatType": "open",
+    "totalRegisteredVoters": 55600
+  },
+  {
+    "slug": "lae",
+    "name": "Lae Open",
+    "provinceId": "morobe",
+    "seatType": "open",
+    "totalRegisteredVoters": 91200
+  },
+  {
+    "slug": "huon-gulf",
+    "name": "Huon Gulf Open",
+    "provinceId": "morobe",
+    "seatType": "open",
+    "totalRegisteredVoters": 52800
+  },
+  {
+    "slug": "bulolo",
+    "name": "Bulolo Open",
+    "provinceId": "morobe",
+    "seatType": "open",
+    "totalRegisteredVoters": 68500
+  },
+  {
+    "slug": "finschhafen",
+    "name": "Finschhafen Open",
+    "provinceId": "morobe",
+    "seatType": "open",
+    "totalRegisteredVoters": 57400
+  },
+  {
+    "slug": "kabwum",
+    "name": "Kabwum Open",
+    "provinceId": "morobe",
+    "seatType": "open",
+    "totalRegisteredVoters": 45200
+  },
+  {
+    "slug": "markham",
+    "name": "Markham Open",
+    "provinceId": "morobe",
+    "seatType": "open",
+    "totalRegisteredVoters": 62100
+  },
+  {
+    "slug": "menyamya",
+    "name": "Menyamya Open",
+    "provinceId": "morobe",
+    "seatType": "open",
+    "totalRegisteredVoters": 48900
+  },
+  {
+    "slug": "nawae",
+    "name": "Nawae Open",
+    "provinceId": "morobe",
+    "seatType": "open",
+    "totalRegisteredVoters": 53600
+  },
+  {
+    "slug": "tewai-siassi",
+    "name": "Tewai-Siassi Open",
+    "provinceId": "morobe",
+    "seatType": "open",
+    "totalRegisteredVoters": 41800
+  },
+  {
+    "slug": "madang",
+    "name": "Madang Open",
+    "provinceId": "madang",
+    "seatType": "open",
+    "totalRegisteredVoters": 74300
+  },
+  {
+    "slug": "bogia",
+    "name": "Bogia Open",
+    "provinceId": "madang",
+    "seatType": "open",
+    "totalRegisteredVoters": 48500
+  },
+  {
+    "slug": "middle-ramu",
+    "name": "Middle Ramu Open",
+    "provinceId": "madang",
+    "seatType": "open",
+    "totalRegisteredVoters": 52100
+  },
+  {
+    "slug": "rai-coast",
+    "name": "Rai Coast Open",
+    "provinceId": "madang",
+    "seatType": "open",
+    "totalRegisteredVoters": 55800
+  },
+  {
+    "slug": "sumkar",
+    "name": "Sumkar Open",
+    "provinceId": "madang",
+    "seatType": "open",
+    "totalRegisteredVoters": 46200
+  },
+  {
+    "slug": "usino-bundi",
+    "name": "Usino-Bundi Open",
+    "provinceId": "madang",
+    "seatType": "open",
+    "totalRegisteredVoters": 43700
+  },
+  {
+    "slug": "wewak",
+    "name": "Wewak Open",
+    "provinceId": "east-sepik",
+    "seatType": "open",
+    "totalRegisteredVoters": 67800
+  },
+  {
+    "slug": "angoram",
+    "name": "Angoram Open",
+    "provinceId": "east-sepik",
+    "seatType": "open",
+    "totalRegisteredVoters": 54200
+  },
+  {
+    "slug": "maprik",
+    "name": "Maprik Open",
+    "provinceId": "east-sepik",
+    "seatType": "open",
+    "totalRegisteredVoters": 58100
+  },
+  {
+    "slug": "wosera-gawi",
+    "name": "Wosera-Gawi Open",
+    "provinceId": "east-sepik",
+    "seatType": "open",
+    "totalRegisteredVoters": 49500
+  },
+  {
+    "slug": "yangoru-saussia",
+    "name": "Yangoru-Saussia Open",
+    "provinceId": "east-sepik",
+    "seatType": "open",
+    "totalRegisteredVoters": 52300
+  },
+  {
+    "slug": "ambunti-dreikikir",
+    "name": "Ambunti-Dreikikir Open",
+    "provinceId": "east-sepik",
+    "seatType": "open",
+    "totalRegisteredVoters": 46800
+  },
+  {
+    "slug": "vanimo-green",
+    "name": "Vanimo-Green Open",
+    "provinceId": "sandaun",
+    "seatType": "open",
+    "totalRegisteredVoters": 52400
+  },
+  {
+    "slug": "nuku",
+    "name": "Nuku Open",
+    "provinceId": "sandaun",
+    "seatType": "open",
+    "totalRegisteredVoters": 43100
+  },
+  {
+    "slug": "aitape-lumi",
+    "name": "Aitape-Lumi Open",
+    "provinceId": "sandaun",
+    "seatType": "open",
+    "totalRegisteredVoters": 56200
+  },
+  {
+    "slug": "telefomin",
+    "name": "Telefomin Open",
+    "provinceId": "sandaun",
+    "seatType": "open",
+    "totalRegisteredVoters": 38500
+  },
+  {
+    "slug": "manus",
+    "name": "Manus Open",
+    "provinceId": "manus",
+    "seatType": "open",
+    "totalRegisteredVoters": 42800
+  },
+  {
+    "slug": "kavieng",
+    "name": "Kavieng Open",
+    "provinceId": "new-ireland",
+    "seatType": "open",
+    "totalRegisteredVoters": 48500
+  },
+  {
+    "slug": "namatanai",
+    "name": "Namatanai Open",
+    "provinceId": "new-ireland",
+    "seatType": "open",
+    "totalRegisteredVoters": 45200
+  },
+  {
+    "slug": "rabaul",
+    "name": "Rabaul Open",
+    "provinceId": "east-new-britain",
+    "seatType": "open",
+    "totalRegisteredVoters": 55800
+  },
+  {
+    "slug": "kokopo",
+    "name": "Kokopo Open",
+    "provinceId": "east-new-britain",
+    "seatType": "open",
+    "totalRegisteredVoters": 61200
+  },
+  {
+    "slug": "gazelle",
+    "name": "Gazelle Open",
+    "provinceId": "east-new-britain",
+    "seatType": "open",
+    "totalRegisteredVoters": 52400
+  },
+  {
+    "slug": "pomio",
+    "name": "Pomio Open",
+    "provinceId": "east-new-britain",
+    "seatType": "open",
+    "totalRegisteredVoters": 39800
+  },
+  {
+    "slug": "talasea",
+    "name": "Talasea Open",
+    "provinceId": "west-new-britain",
+    "seatType": "open",
+    "totalRegisteredVoters": 58500
+  },
+  {
+    "slug": "kandrian-gloucester",
+    "name": "Kandrian-Gloucester Open",
+    "provinceId": "west-new-britain",
+    "seatType": "open",
+    "totalRegisteredVoters": 44200
+  },
+  {
+    "slug": "north-bougainville",
+    "name": "North Bougainville Open",
+    "provinceId": "arob",
+    "seatType": "open",
+    "totalRegisteredVoters": 51800
+  },
+  {
+    "slug": "central-bougainville",
+    "name": "Central Bougainville Open",
+    "provinceId": "arob",
+    "seatType": "open",
+    "totalRegisteredVoters": 46500
+  },
+  {
+    "slug": "south-bougainville",
+    "name": "South Bougainville Open",
+    "provinceId": "arob",
+    "seatType": "open",
+    "totalRegisteredVoters": 43200
+  }
+]

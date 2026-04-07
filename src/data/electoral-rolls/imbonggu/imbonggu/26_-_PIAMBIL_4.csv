@@ -1,0 +1,729 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160147931,"Ake, Engela",F,ULUKALOPA,Student,01 Jan 1983
+2,160444358,"Albert, Avi",F,KOIMBOTOL,Student,16 Feb 2002
+3,160444239,"Albert, Jalot",F,KOIMBOTOL,Student,10 May 2002
+4,160147029,"Albert, Lucy",F,KOIMBOTOL,Household Duties,01 Jan 1984
+5,160167926,"Ale, Elizabeth",F,PIAMBIL,Student,01 Jan 1987
+6,160168587,"Ale, Kumbie",F,PIAMBIL,Household Duties,01 Jan 1965
+7,160168055,"Ale, Rondy",F,PIAMBIL,Household Duties,01 Jan 1981
+8,160169206,"Ande, Mone",F,KOIMBOTOL,Household Duties,01 Jan 1950
+9,160168858,"Ande, Queen",F,KOIMBOTOL,Student,01 Jan 1985
+10,160165128,"Andi, Anna",F,KOIMBOTOL,Household Duties,01 Jan 1974
+11,160171494,"Andi, Homambo",F,KOIMBOTOL,Household Duties,01 Jan 1971
+12,160153712,"Andiaya, Miream",F,ULUKALOPA,Household Duties,01 Jan 1981
+13,160165698,"Andopo, Kusa",F,ULUKALOPA,Household Duties,01 Jan 2000
+14,160160541,"Andopo, Miriam",F,ULUKALOPA,Household Duties,01 Jan 1977
+15,160443736,"Apa, Marry",F,KOIMBOTOL,Student,28 Sep 2001
+16,160443568,"Apa, Queen",F,KOIMBOTOL,Subsistence Farmer,28 Jan 2004
+17,160446116,"Billy, Betty",F,ULUKALOPA,Household Duties,10 Jul 1989
+18,160444012,"Billy, Getruth",F,ULUKALOPA,Student,01 Jul 2001
+19,160443893,"Billy, Gorginda",F,ULUKALOPA,Student,20 Sep 2002
+20,160444138,"Billy, Sellina",F,ULUKALOPA,Student,14 Jan 2001
+21,160132925,"Daiye, Cathy",F,ULUKALOPA,Sales Women,12 Apr 1996
+22,160155941,"Daiye, Koyaleli",F,ULUKALOPA,Household Duties,01 Jan 1958
+23,160165309,"Daiye, Marina",F,ULUKALOPA,Student,01 Jan 2000
+24,160443894,"Daiye, Toy",F,ULUKALOPA,Student,18 Oct 2002
+25,160133137,"Daniel, Kapino",F,KOIMBOTOL,Student,13 May 1999
+26,160443623,"David, Joy",F,KOIMBOTOL,Student,22 Sep 2003
+27,160443836,"David, Roselyn",F,KOIMBOTOL,Student,10 Oct 2001
+28,160443898,"David, Wendi",F,KOIMBOTOL,Household Duties,04 Sep 2003
+29,160165791,"Didi, Gorea",F,ULUKALOPA,Teacher,01 Jan 1962
+30,160147975,"Didi, Helphin",F,ULUKALOPA,Household Duties,01 Jan 1982
+31,160165792,"Didi, Seron",F,ULUKALOPA,Student,01 Jan 1979
+32,160171491,"Dupai, Rosa",F,ULUKALOPA,Household Duties,01 Jan 1969
+33,160153097,"Ferman, Helen",F,KOIMBOTOL,Household Duties,01 Jan 1956
+34,160153096,"Ferman, Maria",F,KOIMBOTOL,Household Duties,01 Jan 1944
+35,160153475,"Ferman, Polina",F,KOIMBOTOL,Household Duties,01 Jan 1988
+36,160132943,"Francis, Esther",F,ULUKALOPA,Sales Women,25 Nov 1994
+37,160153787,"Francis, Malania",F,ULUKALOPA,Student,01 Jan 1986
+38,160165024,"Francis, Mellisa",F,ULUKALOPA,Student,01 Jan 1987
+39,160444171,"Francis, Shamain",F,ULUKALOPA,Student,08 Nov 2003
+40,160133122,"Francis, Sonia",F,ULUKALOPA,Student,10 Apr 1998
+41,160444265,"Francis, Velinitha",F,ULUKALOPA,Student,16 Oct 2002
+42,160132945,"Francis, Velinta",F,ULUKALOPA,Sales Women,17 Apr 1998
+43,160443772,"Francis, Welinda",F,ULUKALOPA,Student,21 Jan 2004
+44,160168623,"Garu, Joy",F,PIAMBIL,Teacher,01 Jan 1984
+45,160171273,"Garu, Kopeya",F,PIAMBIL,Household Duties,01 Jan 1900
+46,160171272,"Garu, Kusa",F,PIAMBIL,Household Duties,01 Jan 1980
+47,160168621,"Garu, Lilly",F,PIAMBIL,Housegirl,01 Jan 1982
+48,160132813,"Garu, Lucy",F,PIAMBIL,Sales Women,29 Sep 1996
+49,160132820,"Garu, Mopune",F,PIAMBIL,Sales Women,18 Apr 1999
+50,160132923,"Garu, Rebecca",F,PIAMBIL,Sales Women,17 Jul 1995
+51,160132811,"Garu, Rosana",F,PIAMBIL,Household Duties,23 Jun 1983
+52,160165385,"Garu, Talis",F,PIAMBIL,Household Duties,01 Jan 2000
+53,160171276,"Garu, Tope",F,PIAMBIL,Household Duties,01 Jan 1959
+54,160171411,"Hala, Mopune",F,KOIMBOTOL,Household Duties,01 Jan 1972
+55,160171710,"Hape, Bepi",F,KOIMBOTOL,Household Duties,01 Jan 1959
+56,160171500,"Hape, Kumbiye",F,KOIMBOTOL,Household Duties,01 Jan 1983
+57,160151986,"Hayden, Nancy",F,KOIMBOTOL,Household Duties,01 Jan 1969
+58,160173027,"Helen, Kelil",F,KOIMBOTOL,Household Duties,01 Jan 1981
+59,160202037,"Helis, Paul",F,KOIMBOTOL,Household Duties,01 Jan 1974
+60,160171678,"Hewa, Pala",F,KOIMBOTOL,Subsistence Farmer,01 Jan 1971
+61,160444488,"Hicky, Hice",F,KOIMBOTOL,Household Duties,14 Apr 1998
+62,160443715,"Hosten, Delma",F,KOIMBOTOL,Student,05 Nov 2001
+63,160163518,"Hukini, Kar",F,KOIMBOTOL,Household Duties,01 Jan 1976
+64,160171609,"Indipine, Kuiye",F,KOIMBOTOL,Household Duties,01 Jan 1964
+65,160147886,"Irepe, Carolyn",F,APENDAI,Household Duties,01 Jan 2000
+66,160148006,"Irepe, Dennis",F,APENDAI,Household Duties,01 Jan 2000
+67,160151466,"Irepe, Kiluwe",F,APENDAI,Household Duties,01 Jan 2000
+68,160136075,"Irepe, Ruth",F,APENDAI,Teacher,14 Feb 1992
+69,160444504,"Ismiel, July",F,KOIMBOTOL,Household Duties,07 May 1999
+70,160444503,"Ismiel, Tracy",F,KOIMBOTOL,Household Duties,16 Oct 2000
+71,160132930,"Joca, Jocyca",F,KOIMBOTOL,Household Duties,12 Feb 1996
+72,160152090,"Joe, Bepi",F,KOIMBOTOL,Household Duties,01 Jan 2000
+73,160132952,"Johnny, Avilala",F,KOIMBOTOL,Sales Women,03 May 1997
+74,160444428,"Kamano, Christolyne",F,ULUKALOPA,Student,09 Feb 2002
+75,160444430,"Kamano, Merijane",F,ULUKALOPA,Student,20 Nov 2002
+76,160168142,"Karia, Merolyn",F,ULUKALOPA,Student,01 Jan 1980
+77,160168577,"Karia, Toroli",F,ULUKALOPA,Household Duties,01 Jan 1979
+78,160444422,"Karimbi, Eka",F,ULUKALOPA,Student,17 Dec 2000
+79,160132940,"Karimbi, Elvina",F,ULUKALOPA,Sales Women,02 Mar 1999
+80,160148005,"Karimbi, Elvina",F,ULUKALOPA,Student,01 Jan 2000
+81,160148000,"Karimbi, Lavina",F,ULUKALOPA,Household Duties,01 Jan 2000
+82,160146967,"Kereme, Betty",F,KOIMBOTOL,Student,01 Jan 1983
+83,160139954,"Kereme, Cathy",F,KOIMBOTOL,Household Duties,01 Jan 2000
+84,160165679,"Kereme, Ema",F,KOIMBOTOL,Household Duties,01 Jan 1967
+85,160148224,"Kereme, Kopiambo",F,KOIMBOTOL,Household Duties,01 Jan 1968
+86,160168745,"Kereme, Maria",F,KOIMBOTOL,Household Duties,01 Jan 1963
+87,160147917,"Kereme, Ruthy",F,KOIMBOTOL,Teacher,01 Jan 2000
+88,160148226,"Kereme, Serah wanakambo",F,KOIMBOTOL,Household Duties,01 Jan 1967
+89,160443675,"Kerowa, Carolyn",F,ULUKALOPA,Student,24 Aug 2002
+90,160443677,"Kerowa, Lus",F,ULUKALOPA,Subsistence Farmer,20 Mar 2002
+91,160171509,"Kerowa, Martha",F,ULUKALOPA,Household Duties,01 Jan 1986
+92,160165532,"Kerowa, Naldi",F,ULUKALOPA,Household Duties,01 Jan 1975
+93,160168119,"Kerowa, Senita",F,ULUKALOPA,Student,01 Jan 1984
+94,160132798,"Kerowa, Senita",F,ULUKALOPA,Sales Women,01 Oct 1991
+95,160171622,"Koropa, Jacky",F,ULUKALOPA,Household Duties,01 Jan 1980
+96,160157494,"Koropa, Kenda",F,ULUKALOPA,Household Duties,01 Jan 1943
+97,160171470,"Koropa, Kiswasi",F,ULUKALOPA,Household Duties,01 Jan 1978
+98,160168720,"Leslie, Esther",F,ULUKALOPA,Household Duties,01 Jan 1972
+99,160168951,"Letawa, Kai",F,ULUKALOPA,Household Duties,01 Jan 1988
+100,160218931,"Letawa, Kerowa",F,ULUKALOPA,Household Duties,01 Jan 1956
+101,160171287,"Letawa, Keruwa",F,ULUKALOPA,Household Duties,01 Jan 1950
+102,160167997,"Letawa, Wendi",F,ULUKALOPA,Household Duties,01 Jan 1977
+103,160204252,"Levili, Hellen",F,KOIMBOTOL,Student,01 Jan 1985
+104,160204412,"Lewa, Lepoli",F,KOIMBOTOL,Household Duties,01 Jan 1978
+105,160155909,"Lewe, Kuta",F,KOIMBOTOL,Household Duties,01 Jan 1945
+106,160153708,"Lewe, Monica",F,KOIMBOTOL,Household Duties,01 Jan 1975
+107,160444412,"Lexon, Maya",F,KOIMBOTOL,Student,09 Feb 2001
+108,160165232,"Limbiye, Engambo",F,KOIMBOTOL,Household Duties,01 Jan 1954
+109,160165178,"Limbiye, Weronic",F,KOIMBOTOL,Household Duties,01 Jan 1988
+110,160443696,"Liwa, Nating",F,ULUKALOPA,Student,14 Mar 2002
+111,160148023,"Loiye, Kangupembo",F,ULUKALOPA,Household Duties,01 Jan 2000
+112,160148033,"Loiye, Lorijoy",F,ULUKALOPA,Student,01 Jan 2000
+113,160151575,"Lok, Rosely",F,KOIMBOTOL,Household Duties,01 Jan 1974
+114,160168749,"Lone, Lewa",F,KOIMBOTOL,Household Duties,01 Jan 1974
+115,160147036,"Lopeke, Bohoti",F,ULUKALOPA,Household Duties,01 Jan 1968
+116,160147039,"Lopeke, Kandiye",F,ULUKALOPA,Household Duties,01 Jan 1984
+117,160169113,"Lopeke, Rose",F,ULUKALOPA,Household Duties,01 Jan 1982
+118,160215742,"Loraiye, Lewa",F,ULUKALOPA,Student,01 Jan 1968
+119,160133124,"Lucas, Jesycca",F,ULUKALOPA,Student,06 Mar 1997
+120,160165706,"Mano, Christina lene",F,ULUKALOPA,Household Duties,01 Jan 1979
+121,160165704,"Mano, Ester david",F,ULUKALOPA,Student,01 Jan 1988
+122,160168868,"Mano, Lin",F,ULUKALOPA,Household Duties,01 Jan 1952
+123,160444441,"Mano, Lina",F,ULUKALOPA,Nurse,12 May 1999
+124,160132953,"Mano, Semila",F,ULUKALOPA,Sales Women,07 Jul 1995
+125,160132954,"Mano, Sonia",F,ULUKALOPA,National Medical,28 Aug 1997
+126,160165703,"Mano, Stefeni david",F,ULUKALOPA,Household Duties,01 Jan 1970
+127,160443796,"Mano, Stela",F,ULUKALOPA,Student,28 Apr 2004
+128,160444449,"Mano, Susi",F,ULUKALOPA,Household Duties,06 Sep 1999
+129,160168045,"Mano, Tekipa",F,ULUKALOPA,Household Duties,01 Jan 1971
+130,160204402,"Mano, Wendy",F,ULUKALOPA,Household Duties,01 Jan 1972
+131,160165707,"Mano, Weri",F,ULUKALOPA,Household Duties,01 Jan 1965
+132,160171577,"Meko, Taka",F,KOIMBOTOL,Household Duties,01 Jan 1965
+133,160136257,"Mekoa, Talita",F,KOIMBOTOL,Student,14 Aug 1998
+134,160136125,"Mekowa, Shirley",F,KOIMBOTOL,Sales Women,26 May 1994
+135,160444245,"Melcowa, Hope",F,KOIMBOTOL,Student,03 Sep 2002
+136,160133080,"Mendep, Naomi",F,KOIMBOTOL,Student,16 Aug 1996
+137,160165798,"Meng, Jenny",F,KOIMBOTOL,Household Duties,01 Jan 1982
+138,160168964,"Mone, Ester",F,WAGOLOPOINE,Housegirl,01 Jan 1988
+139,160168890,"Mone, Keloren",F,WAGOLOPOINE,Household Duties,01 Jan 1960
+140,160168584,"Mone, Kipildi",F,WAGOLOPOINE,Household Duties,01 Jan 1970
+141,160168585,"Mone, Racheal",F,WAGOLOPOINE,Student,01 Jan 1989
+142,160171563,"Mone, Terum",F,WAGOLOPOINE,Household Duties,01 Jan 1970
+143,160171711,"Mone, Terum",F,WAGOLOPOINE,Household Duties,01 Jan 1975
+144,160171280,"Moses, Kobnong",F,ULUKALOPA,Household Duties,01 Jan 1981
+145,160167976,"Moses, Mopna",F,ULUKALOPA,Teacher,01 Jan 1975
+146,160169003,"Moses, Nakanol",F,ULUKALOPA,Student,01 Jan 1979
+147,160169209,"Moses, Rose",F,ULUKALOPA,Household Duties,01 Jan 1981
+148,160168888,"Nale, Rita",F,KOIMBOTOL,Household Duties,01 Jan 1982
+149,160148083,"Namb, Anna",F,KOIMBOTOL,Student,01 Jan 1983
+150,160171525,"Namb, Doli",F,KOIMBOTOL,Household Duties,01 Jan 1981
+151,160151472,"Namb, Kolbia",F,KOIMBOTOL,Policewomen,01 Jan 1970
+152,160146950,"Namb, Korowa",F,KOIMBOTOL,Household Duties,01 Jan 1962
+153,160148078,"Namb, Oma",F,KOIMBOTOL,Household Duties,01 Jan 1968
+154,160148080,"Namb, Paka",F,KOIMBOTOL,Household Duties,01 Jan 1973
+155,160147999,"Namb, Rosa",F,KOIMBOTOL,Sister,01 Jan 1978
+156,160171252,"Nason, Mis",F,KOIMBOTOL,Household Duties,01 Jan 1973
+157,160148002,"Nate, Taildi",F,KOIMBOTOL,Household Duties,01 Jan 1972
+158,160165478,"Nathan, Susan",F,KOIMBOTOL,Household Duties,01 Jan 1979
+159,160151623,"Nema, Cathy",F,ULUKALOPA,Student,01 Jan 1977
+160,160146979,"Nema, Catty",F,ULUKALOPA,Household Duties,01 Jan 1961
+161,160151619,"Nema, Clara",F,ULUKALOPA,Housegirl,01 Jan 1974
+162,160165131,"Nema, Docta",F,ULUKALOPA,Household Duties,01 Jan 2000
+163,160158795,"Nema, Jesicca",F,ULUKALOPA,Student,01 Jan 1988
+164,160148095,"Nema, John",F,ULUKALOPA,Household Duties,01 Jan 1964
+165,160444324,"Nema, Joice",F,ULUKALOPA,Student,14 Jul 2003
+166,160157704,"Nema, Jossi",F,ULUKALOPA,Student,01 Jan 1983
+167,160158796,"Nema, Jossilyn",F,ULUKALOPA,Student,01 Jan 1990
+168,160158787,"Nema, Kolde",F,ULUKALOPA,Household Duties,01 Jan 1953
+169,160153485,"Nema, Kuwini",F,ULUKALOPA,Household Duties,01 Jan 1975
+170,160185025,"Nema, Lina",F,ULUKALOPA,Household Duties,01 Jan 1988
+171,160173039,"Nema, Monia",F,ULUKALOPA,Household Duties,01 Jan 1964
+172,160151617,"Nema, Pareka",F,ULUKALOPA,Household Duties,01 Jan 1963
+173,160204245,"Nema, Puke",F,ULUKALOPA,Household Duties,01 Jan 1967
+174,160163382,"Nema, Ruth",F,ULUKALOPA,Household Duties,01 Jan 2000
+175,160147922,"Nema, Vero",F,ULUKALOPA,Student,01 Jan 1979
+176,160165601,"Noki, Almg",F,ULUKALOPA,Household Duties,01 Jan 1976
+177,160443700,"Noki, Joy",F,ULUKALOPA,Student,12 Oct 2001
+178,160443698,"Noki, Mali",F,ULUKALOPA,Student,03 Jul 2003
+179,160197117,"Noki, Sorin",F,ULUKALOPA,Sales Women,16 Dec 1941
+180,160169214,"Nolopo, Kome",F,WAGOLOPOINE,Household Duties,01 Jan 1978
+181,160168016,"Nolopo, Olambo",F,WAGOLOPOINE,Household Duties,01 Jan 1949
+182,160168023,"Nolopo, Totan",F,WAGOLOPOINE,Household Duties,01 Jan 1980
+183,160168002,"Non, Lucy",F,WAGOLOPOINE,Household Duties,01 Jan 1966
+184,160133010,"Nonge, Sabeth",F,WAGOLOPOINE,Student,03 Apr 1999
+185,160133008,"Nonge, Wandea",F,WAGOLOPOINE,Household Duties,07 Aug 1979
+186,160167324,"Nore, Lapo",F,ULUKALOPA,Household Duties,01 Jan 1970
+187,160169043,"Nore, Pule",F,ULUKALOPA,Household Duties,01 Jan 1960
+188,160136082,"Oke, Doctor",F,WAGOLOPOINE,Household Duties,17 Apr 1984
+189,160136085,"Oke, Joen",F,WAGOLOPOINE,Student,14 Jun 1993
+190,160133000,"Oke, Joice",F,WAGOLOPOINE,Student,17 Feb 1999
+191,160136083,"Oke, Joy",F,WAGOLOPOINE,Student,10 Nov 1987
+192,160169363,"Olaiyea, Pokaia",F,KOIMBOTOL,Household Duties,01 Jan 1950
+193,160169365,"Olaiyea, Ruprie",F,KOIMBOTOL,Subsistence Farmer,01 Jan 1977
+194,160173054,"Oli, Anna",F,KOIMBOTOL,Household Duties,01 Jan 1950
+195,160171281,"Olwin, Regina",F,KOIMBOTOL,Household Duties,01 Jan 1966
+196,160168134,"Omba, Kangupembo",F,KOIMBOTOL,Household Duties,01 Jan 1972
+197,160156483,"Onga, Mendi",F,KOIMBOTOL,Housegirl,01 Jan 1986
+198,160156041,"Onga, Rebecca",F,KOIMBOTOL,Student,01 Jan 1985
+199,160156484,"Onga, Soti",F,KOIMBOTOL,Student,01 Jan 1989
+200,160156040,"Onga, Weyapi",F,KOIMBOTOL,Household Duties,01 Jan 2000
+201,160165173,"Opa, Dennis",F,KOIMBOTOL,Household Duties,01 Jan 1968
+202,160168884,"Opa, Diana",F,KOIMBOTOL,Household Duties,01 Jan 2000
+203,160165087,"Opa, Elteli",F,KOIMBOTOL,Household Duties,01 Jan 1982
+204,160168043,"Opa, Leta",F,KOIMBOTOL,Household Duties,01 Jan 2000
+205,160151618,"Opa, Magino",F,KOIMBOTOL,Household Duties,01 Jan 1968
+206,160164926,"Opa, Nancy",F,KOIMBOTOL,Student,01 Jan 1983
+207,160165163,"Opa, Opambo",F,KOIMBOTOL,Household Duties,01 Jan 1978
+208,160147979,"Opa, Surul",F,KOIMBOTOL,Household Duties,01 Jan 1976
+209,160172967,"Opa, Tembon",F,KOIMBOTOL,Household Duties,01 Jan 1967
+210,160165715,"Opis, Buka",F,KOIMBOTOL,Household Duties,01 Jan 1979
+211,160443985,"Opiye, Olambo",F,ULUKALOPA,Student,07 Aug 2002
+212,160444338,"Orokoiye, Lina",F,ULUKALOPA,Student,19 Dec 2001
+213,160444336,"Orokoiye, Lineth",F,ULUKALOPA,Student,28 Apr 2004
+214,160202041,"Orokoye, Mel",F,ULUKALOPA,Household Duties,01 Jan 1960
+215,160151476,"Ouldi, Maria",F,KOIMBOTOL,Household Duties,01 Jan 1982
+216,160168038,"Pamda, Lence",F,WAGOLOPOINE,Household Duties,01 Jan 1977
+217,160168929,"Pamda, Maia",F,WAGOLOPOINE,Household Duties,01 Jan 1966
+218,160168883,"Pamda, Wambri",F,WAGOLOPOINE,Household Duties,01 Jan 1976
+219,160151653,"Pamenda, Melis",F,WAGOLOPOINE,Household Duties,01 Jan 1960
+220,160168962,"Pamenda, Rhonda",F,WAGOLOPOINE,Subsistence Farmer,01 Jan 1972
+221,160146948,"Paraka, Mary",F,ULUKALOPA,Household Duties,01 Jan 1975
+222,160132942,"Pareka, Betsiba",F,ULUKALOPA,Sales Women,10 Sep 1998
+223,160132941,"Pareka, Ega",F,ULUKALOPA,Sales Women,12 Aug 1996
+224,160171253,"Pareka, Esther",F,ULUKALOPA,Student,01 Jan 1989
+225,160443877,"Pareka, Joice",F,ULUKALOPA,Student,24 Nov 2003
+226,160163502,"Pareka, Kota",F,ULUKALOPA,Household Duties,01 Jan 2000
+227,160163385,"Pareka, Kuli",F,ULUKALOPA,Student,01 Jan 2000
+228,160151750,"Pareka, Nuka",F,ULUKALOPA,Household Duties,01 Jan 1966
+229,160168967,"Pareka, Rosa",F,ULUKALOPA,Household Duties,01 Jan 1952
+230,160167863,"Pareka, Ruth",F,ULUKALOPA,Household Duties,01 Jan 1951
+231,160151735,"Pareka, Tonge",F,ULUKALOPA,Household Duties,01 Jan 1972
+232,160132971,"Pawa, Marianne",F,WAGOLOPOINE,Sales Women,16 Dec 1990
+233,160132972,"Pawa, Roselyn",F,WAGOLOPOINE,Household Duties,25 Oct 1991
+234,160203812,"Pet, Mombi",F,KOIMBOTOL,Self Employed,01 Jan 1974
+235,160171692,"Peter, Akiri",F,KOIMBOTOL,Household Duties,01 Jan 2000
+236,160168057,"Peter, Bepi",F,KOIMBOTOL,Subsistence Farmer,01 Jan 1967
+237,160169167,"Peter, Betty",F,KOIMBOTOL,Household Duties,01 Jan 1984
+238,160133138,"Peter, Judy",F,KOIMBOTOL,Student,15 Apr 1999
+239,160157757,"Peter, Lilly",F,KOIMBOTOL,Household Duties,01 Jan 1972
+240,160168959,"Peter, Lina",F,KOIMBOTOL,Household Duties,01 Jan 1959
+241,160136121,"Peter, Salome",F,KOIMBOTOL,Sales Women,21 May 1996
+242,160168114,"Popolo, Misis",F,WAGOLOPOINE,Household Duties,01 Jan 1979
+243,160151995,"Pora, Elizabeth",F,PIAMBIL,Student,01 Jan 1960
+244,160151625,"Pora, Ewa",F,PIAMBIL,Housegirl,01 Jan 1972
+245,160168906,"Pora, Grace",F,PIAMBIL,Student,01 Jan 1981
+246,160168996,"Pora, Helpin",F,PIAMBIL,Household Duties,01 Jan 1976
+247,160165682,"Pora, Jacbeth",F,PIAMBIL,Household Duties,01 Jan 1976
+248,160171526,"Pora, Jenny",F,PIAMBIL,Household Duties,01 Jan 1972
+249,160169374,"Pora, Kurowalo",F,PIAMBIL,Household Duties,01 Jan 1974
+250,160171395,"Pora, Lewa",F,PIAMBIL,Household Duties,01 Jan 1979
+251,160171266,"Pora, Mumbiang",F,PIAMBIL,Household Duties,01 Jan 1960
+252,160168983,"Pora, Pule",F,PIAMBIL,Household Duties,01 Jan 1969
+253,160133148,"Pora, Rebicca",F,PIAMBIL,Household Duties,16 Apr 1994
+254,160169381,"Pora, Rebika",F,PIAMBIL,Student,01 Jan 1982
+255,160165678,"Pora, Roselyn",F,PIAMBIL,Household Duties,01 Jan 1984
+256,160168738,"Pora, Rupeim",F,PIAMBIL,Household Duties,01 Jan 1969
+257,160151624,"Pora, Sheron",F,PIAMBIL,Housegirl,01 Jan 1977
+258,160169377,"Pora, Teris",F,PIAMBIL,Household Duties,01 Jan 1980
+259,160168723,"Pora, Vero",F,PIAMBIL,Household Duties,01 Jan 2000
+260,160147954,"Pora, Walopoka",F,PIAMBIL,Household Duties,01 Jan 1977
+261,160152073,"Pora, Yara",F,PIAMBIL,Household Duties,01 Jan 1980
+262,160167363,"Poram, Helen",F,WAGOLOPOINE,Household Duties,01 Jan 1985
+263,160171684,"Porena, Kuni",F,WAGOLOPOINE,Household Duties,01 Jan 2000
+264,160168108,"Sen, Maria",F,WAGOLOPOINE,Household Duties,01 Jan 1976
+265,160157318,"Simbura, Bavilin",F,WAGOLOPOINE,Household Duties,01 Jan 1988
+266,160169368,"Simbura, Engambo",F,WAGOLOPOINE,Subsistence Farmer,01 Jan 1970
+267,160157502,"Simbura, Lieam",F,WAGOLOPOINE,Household Duties,01 Jan 1954
+268,160157715,"Simbura, Maglen",F,WAGOLOPOINE,Subsistence Farmer,01 Jan 1983
+269,160168005,"Simbura, Sandy",F,WAGOLOPOINE,Student,01 Jan 1986
+270,160169156,"Sipendi, Mopune",F,KOIMBOTOL,Household Duties,01 Jan 1975
+271,160136086,"Siri, Josphin",F,KOIMBOTOL,Student,28 May 1986
+272,160444439,"Smith, Estha",F,ULUKALOPA,Cleaner,06 Jul 2001
+273,160147879,"Solomon, Sussi",F,ULUKALOPA,Household Duties,01 Jan 2000
+274,160173009,"Soti, Moryne",F,ULUKALOPA,Student,01 Jan 2000
+275,160444498,"Stanley, Freda",F,ULUKALOPA,Nurse,17 Oct 1996
+276,160152169,"Stanley, Racheal",F,ULUKALOPA,Household Duties,01 Jan 1979
+277,160168746,"Suma, Maria david",F,KOIMBOTOL,Household Duties,01 Jan 1974
+278,160165015,"Sume, Bepi",F,KOIMBOTOL,Household Duties,01 Jan 1970
+279,160165386,"Sume, Buka",F,KOIMBOTOL,Student,01 Jan 1982
+280,160206273,"Tamalu, Susan",F,WAGOLOPOINE,Household Duties,01 Jan 1975
+281,160169103,"Tekadoi, Mone",F,WAGOLOPOINE,Household Duties,01 Jan 1961
+282,160169037,"Tende, Cathorina",F,PIAMBIL,Household Duties,01 Jan 1968
+283,160151469,"Tende, Christina",F,PIAMBIL,Household Duties,01 Jan 2000
+284,160152070,"Tende, Dau",F,PIAMBIL,Household Duties,01 Jan 1979
+285,160151596,"Tende, Hellen",F,PIAMBIL,Student,01 Jan 1983
+286,160169041,"Tende, Liana",F,PIAMBIL,Student,01 Jan 1988
+287,160169040,"Tende, Ruth",F,PIAMBIL,Student,01 Jan 1984
+288,160151468,"Tende, Sande",F,PIAMBIL,Household Duties,01 Jan 2000
+289,160148084,"Tende, Tiki",F,PIAMBIL,Household Duties,01 Jan 2000
+290,160151638,"Tendi, Sera",F,ULUKALOPA,Household Duties,01 Jan 1980
+291,160165618,"Tenis, Lorijoy",F,ULUKALOPA,Student,01 Jan 1983
+292,160444261,"Tenis, Pilipai",F,ULUKALOPA,Subsistence Farmer,20 Mar 2003
+293,160168143,"Tenis, Wariame",F,ULUKALOPA,Household Duties,01 Jan 1972
+294,160171590,"Tom, Cathy",F,ULUKALOPA,Nurse,01 Jan 1973
+295,160165323,"Tom, Ellis",F,ULUKALOPA,Student,01 Jan 1986
+296,160133078,"Tom, Joice",F,ULUKALOPA,Student,06 Aug 1997
+297,160165322,"Tom, Kawame",F,ULUKALOPA,Household Duties,01 Jan 1980
+298,160165578,"Tom, Maria",F,ULUKALOPA,Household Duties,01 Jan 1957
+299,160133277,"Tom, Marisa",F,ULUKALOPA,Student,05 Mar 1996
+300,160133276,"Tom, Rapi",F,ULUKALOPA,Student,04 Jun 1994
+301,160132794,"Tommy, Piti",F,ULUKALOPA,Sales Women,29 Nov 1991
+302,160164936,"Tono, Kurume",F,ULUKALOPA,Household Duties,01 Jan 1950
+303,160165416,"Topa, Omabo",F,ULUKALOPA,Household Duties,01 Jan 1960
+304,160169030,"Tope, Claire",F,ULUKALOPA,Household Duties,01 Jan 1966
+305,160203784,"Topele, Lina",F,ULUKALOPA,Household Duties,01 Jan 1968
+306,160171709,"Wambi, Ross",F,WAGOLOPOINE,Household Duties,01 Jan 1978
+307,160151955,"Wamo, Agnes",F,WAGOLOPOINE,Student,01 Jan 1984
+308,160169106,"Wamo, Agness",F,WAGOLOPOINE,Student,01 Jan 1989
+309,160151612,"Wamo, Dao",F,WAGOLOPOINE,Household Duties,01 Jan 1965
+310,160443578,"Wamo, Rachael",F,WAGOLOPOINE,Student,26 Jan 2004
+311,160151732,"Wangi, Almut",F,WAGOLOPOINE,Student,01 Jan 1979
+312,160132834,"Wangi, Christina",F,WAGOLOPOINE,Teacher,10 Jan 1982
+313,160151983,"Wangi, Erolyn",F,WAGOLOPOINE,Student,01 Jan 1980
+314,160147959,"Wangi, Jullie",F,WAGOLOPOINE,Housegirl,01 Jan 1969
+315,160151727,"Wangi, Kiniye",F,WAGOLOPOINE,Household Duties,01 Jan 1979
+316,160203989,"Wanis, Dom",F,WAGOLOPOINE,Housegirl,01 Jan 1990
+317,160201954,"Wanis, Moris",F,WAGOLOPOINE,Household Duties,01 Jan 1982
+318,160133175,"Wanpis, Elisha",F,WAGOLOPOINE,Student,16 Mar 1999
+319,160171483,"Wanpis, Kaka",F,WAGOLOPOINE,Household Duties,01 Jan 1981
+320,160206378,"Wanpis, Kolis",F,WAGOLOPOINE,Household Duties,01 Jan 1976
+321,160136120,"Wanpis, Merolyn",F,WAGOLOPOINE,Sales Women,17 Aug 1998
+322,160204539,"Wanpis, Mopune",F,WAGOLOPOINE,Household Duties,01 Jan 1971
+323,160151710,"Wat, Moni",F,KOIMBOTOL,Household Duties,01 Jan 1973
+324,160146995,"Wie, Alic",F,ULUKALOPA,Student,01 Jan 2000
+325,160147901,"Wie, Jully",F,ULUKALOPA,Student,01 Jan 2000
+326,160147900,"Wie, Medilina",F,ULUKALOPA,Household Duties,01 Jan 2000
+327,160147898,"Wie, Modune",F,ULUKALOPA,Household Duties,01 Jan 2000
+328,160139798,"William, Brenda",F,KOIMBOTOL,Teacher,01 Jan 2000
+329,160147878,"William, Freda",F,KOIMBOTOL,Student,01 Jan 1981
+330,160172970,"Willie, Darlyn",F,KOIMBOTOL,Household Duties,01 Jan 1972
+331,160171454,"Yagono, Mopune",F,ULUKALOPA,Household Duties,01 Jan 1969
+332,160171451,"Yagono, Tarapi",F,ULUKALOPA,Household Duties,01 Jan 1966
+333,160204005,"Yaka, Nency",F,ULUKALOPA,Household Duties,01 Jan 1951
+334,160444440,"Yakili, Sheron",F,ULUKALOPA,Nurse,09 Jul 1997
+335,160147896,"Yali, Merri",F,ULUKALOPA,Household Duties,01 Jan 2000
+336,160147897,"Yali, Pel",F,ULUKALOPA,Student,01 Jan 2000
+337,160146993,"Yali, Wambo",F,ULUKALOPA,Household Duties,01 Jan 2000
+338,160147894,"Yali, Wendy",F,ULUKALOPA,Household Duties,01 Jan 2000
+339,160151984,"Yalipu, Betty",F,ULUKALOPA,Housegirl,01 Jan 1984
+340,160147960,"Yalipu, Grace",F,ULUKALOPA,Housegirl,01 Jan 1980
+341,160151724,"Yalipu, Lionie",F,ULUKALOPA,Teacher,01 Jan 1973
+342,160151652,"Yalipu, Mayambo",F,ULUKALOPA,Household Duties,01 Jan 1948
+343,160169002,"Yalo, Cerolyn",F,ULUKALOPA,Household Duties,01 Jan 1973
+344,160168726,"Yalo, Kina",F,ULUKALOPA,Household Duties,01 Jan 1958
+345,160168751,"Yalo, Pipuru",F,ULUKALOPA,Household Duties,01 Jan 1968
+346,160444316,"Yalo, Quency",F,ULUKALOPA,Student,14 Nov 2003
+347,160167915,"Yalo, Wati",F,ULUKALOPA,Household Duties,01 Jan 1959
+348,160136108,"Yambaiye, Mopune",F,ULUKALOPA,Housegirl,19 Mar 1989
+349,160444312,"Yamex, Belsinta",F,ULUKALOPA,Student,13 Jan 2003
+350,160171502,"Yandom, Engambo",F,ULUKALOPA,Household Duties,01 Jan 1969
+351,160151971,"Yangnal, Wapa",F,ULUKALOPA,Household Duties,01 Jan 1943
+352,160168729,"Yapa, Eli",F,ULUKALOPA,Student,01 Jan 1988
+353,160152088,"Yapa, Mala",F,ULUKALOPA,Household Duties,01 Jan 1982
+354,160168979,"Yapa, Wekendo",F,ULUKALOPA,Household Duties,01 Jan 1970
+355,160443770,"Yapex, Beplin",F,ULUKALOPA,Cleaner,03 Apr 2000
+356,160171571,"Yara, Tako",F,ULUKALOPA,Household Duties,01 Jan 1978
+357,160173012,"Yaropo, Ragio",F,ULUKALOPA,Household Duties,01 Jan 1950
+358,160443564,"Yawaiye, Christy",F,ULUKALOPA,Student,20 Apr 2004
+359,160157490,"Yawik, Wante",F,ULUKALOPA,Household Duties,01 Jan 1971
+360,160171541,"Yoke, Mopune",F,ULUKALOPA,Household Duties,01 Jan 1960
+361,160132948,"Yopex, Sandy",F,KOIMBOTOL,Sales Women,24 Jul 1996
+362,160132950,"Yopex, Wambri",F,KOIMBOTOL,Sales Women,30 May 1991
+363,160444320,"Yoponda, Evelyn",F,ULUKALOPA,Student,11 Apr 2004
+364,160171462,"Yukar, Lewa",F,ULUKALOPA,Household Duties,01 Jan 2000
+365,160171627,"Yukari, Nat",F,ULUKALOPA,Household Duties,01 Jan 1984
+366,160165033,"Yuna, Moli",F,ULUKALOPA,Nurse,01 Jan 1976
+367,160173024,"Yunugu, Jacklyn",F,ULUKALOPA,Household Duties,01 Jan 1972
+368,160206275,"Yuwan, Walop",F,ULUKALOPA,Household Duties,01 Jan 1980
+369,160147888,"Ake, George",M,ULUKALOPA,Subsistence Farmer,01 Jan 1980
+370,160173032,"Ake, Ninde",M,ULUKALOPA,Subsistence Farmer,01 Jan 1965
+371,160168153,"Ale, Alphonse",M,PIAMBIL,Student,01 Jan 2000
+372,160168589,"Ale, Apa",M,PIAMBIL,Subsistence Farmer,01 Jan 1967
+373,160443756,"Ale, Sedrick",M,PIAMBIL,Student,07 Dec 2002
+374,160167322,"Ale, Tenis",M,PIAMBIL,Subsistence Farmer,01 Jan 1963
+375,160152055,"Andera, Paulus",M,KOIMBOTOL,Pastor,01 Jan 1959
+376,160133024,"Andia, Moses",M,ULUKALOPA,Salesman,19 Apr 1990
+377,160167198,"Andopo, Gram",M,ULUKALOPA,Household Duties,01 Jan 2000
+378,160165701,"Andopo, Napa",M,ULUKALOPA,Subsistence Farmer,01 Jan 2000
+379,160165699,"Andu, Moses",M,ULUKALOPA,Student,01 Jan 1981
+380,160165479,"Andu, Tonny",M,ULUKALOPA,Subsistence Farmer,01 Jan 1972
+381,160147915,"Apa, Akena",M,KOIMBOTOL,Subsistence Farmer,01 Jan 2000
+382,160204010,"Apa, Nindiye",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1949
+383,160167364,"Apa, Pecky",M,KOIMBOTOL,Student,01 Jan 2000
+384,160444135,"Billy, George",M,ULUKALOPA,Student,06 Sep 2003
+385,160444010,"Billy, Gesom",M,ULUKALOPA,Student,15 Mar 2003
+386,160133144,"Billy, Joel",M,ULUKALOPA,Student,13 Apr 1996
+387,160443673,"Bob, Ben",M,PIAMBIL,Student,12 Aug 2001
+388,160151584,"Bob, Criss",M,PIAMBIL,Subsistence Farmer,01 Jan 1980
+389,160151505,"Bob, Paile",M,PIAMBIL,Subsistence Farmer,01 Jan 1963
+390,160169205,"Buka, Daniel",M,KOIMBOTOL,Student,01 Jan 1984
+391,160132915,"Daiye, Jeff",M,ULUKALOPA,Sales Women,08 Jun 1998
+392,160443766,"Daniel, Jema",M,KOIMBOTOL,Student,21 Feb 2003
+393,160444270,"Daniel, Jemial",M,KOIMBOTOL,Student,28 Apr 2004
+394,160171456,"Daniel, Wet",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1981
+395,160132933,"David, Issaiah",M,KOIMBOTOL,Sales Women,30 Jun 1995
+396,160443625,"David, Pango",M,KOIMBOTOL,Student,29 May 2001
+397,160148104,"Demp, Tepra craig",M,KOIMBOTOL,Student,01 Jan 1986
+398,160165790,"Didi, Boipe",M,ULUKALOPA,Accountant,01 Jan 1970
+399,160146973,"Didi, Pora",M,ULUKALOPA,Teacher,01 Jan 1974
+400,160165794,"Didi, Ricky",M,ULUKALOPA,Student,01 Jan 1986
+401,160171704,"Dupai, Ambil",M,ULUKALOPA,Subsistence Farmer,01 Jan 1966
+402,160153474,"Ferman, Moti",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1987
+403,160444243,"Francis, Ferman",M,ULUKALOPA,Student,17 Oct 2000
+404,160165025,"Francis, Junior",M,ULUKALOPA,Student,01 Jan 1980
+405,160443778,"Francis, Kenendy",M,ULUKALOPA,Student,29 Nov 2002
+406,160132944,"Francis, Pilipai",M,ULUKALOPA,Sales Women,20 Sep 1996
+407,160444173,"Francis, Stanford",M,ULUKALOPA,Student,03 Jun 2001
+408,160169036,"Garu, Basu",M,KOIMBOTOL,Student,01 Jan 1984
+409,160444481,"Garu, Bune",M,KOIMBOTOL,Subsistence Farmer,14 Sep 1998
+410,160171413,"Garu, Emmanuel",M,KOIMBOTOL,Student,01 Jan 1988
+411,160132809,"Garu, Jassy",M,KOIMBOTOL,Sales Women,25 Jun 1998
+412,160169038,"Garu, Jonathan",M,KOIMBOTOL,Worker,01 Jan 1952
+413,160169044,"Garu, Luke",M,KOIMBOTOL,Electrician,01 Jan 1969
+414,160168106,"Garu, Topa",M,KOIMBOTOL,Welder,01 Jan 1986
+415,160171279,"Garu, Wilson",M,KOIMBOTOL,Mechanic,01 Jan 1982
+416,160171511,"Garu, Yakopa",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1967
+417,160155935,"Gerry, James",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1975
+418,160169202,"Gula, Manly",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1983
+419,160171599,"Gula, Setirick",M,KOIMBOTOL,Student,01 Jan 1980
+420,160443965,"Gulda, Oki",M,KOIMBOTOL,Student,05 Jul 2002
+421,160171712,"Hape, Freedy",M,KOIMBOTOL,Student,01 Jan 1988
+422,160171256,"Heol, Daniel",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1979
+423,160171251,"Heol, Jack",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1975
+424,160169157,"Heol, John",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1977
+425,160444436,"Hila, Same",M,KOIMBOTOL,Carpenter,29 Sep 1998
+426,160133085,"Hobert, Anjo",M,KOIMBOTOL,Sales Women,15 Mar 1999
+427,160171582,"Honda, Kelely",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1972
+428,160444387,"Ian, Wilsieson",M,KOIMBOTOL,Student,11 Jul 2003
+429,160203636,"Iki, Kereme",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1938
+430,160133127,"Iki, Raymond",M,KOIMBOTOL,Student,10 Jun 1998
+431,160444432,"Indi, Kama",M,KOIMBOTOL,Teacher,21 Dec 1995
+432,160165020,"Indipine, Maka",M,KOIMBOTOL,Subsistence Farmer,01 Jan 2000
+433,160168990,"Ipkai, Lulip",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1969
+434,160168625,"Ipu, Samson",M,KOIMBOTOL,Student,01 Jan 1988
+435,160148090,"Irepe, Karimbi",M,ULUKALOPA,Subsistence Farmer,01 Jan 2000
+436,160169108,"Irikal, Doli",M,KOIMBOTOL,Student,01 Jan 1990
+437,160165022,"Iso, Fresy",M,KOIMBOTOL,Student,01 Jan 2000
+438,160444367,"Jerry, Alvi",M,KOIMBOTOL,Student,19 Nov 2003
+439,160151492,"Joe, Joe-joe",M,KOIMBOTOL,Student,01 Jan 2000
+440,160132951,"Johnny, Semi",M,KOIMBOTOL,Sales Women,05 Sep 1997
+441,160136127,"Johnny, Steward",M,KOIMBOTOL,Sales Women,10 Aug 1998
+442,160444360,"Johnny, Steward",M,KOIMBOTOL,Student,21 Mar 2002
+443,160444450,"Johny, Sam",M,KOIMBOTOL,Subsistence Farmer,02 Sep 1996
+444,160133070,"Kamako, Koropa",M,KOIMBOTOL,Subsistence Farmer,16 Sep 1989
+445,160444396,"Kamano, Christom",M,ULUKALOPA,Student,08 Aug 2000
+446,160443749,"Kamano, Hitler",M,ULUKALOPA,Student,07 Jul 2003
+447,160148094,"Kambo, Bunugu",M,ULUKALOPA,Subsistence Farmer,01 Jan 1953
+448,160146954,"Kambo, James",M,ULUKALOPA,Pastor,01 Jan 1950
+449,160169165,"Kambo, Tapura",M,ULUKALOPA,Driver,01 Jan 1975
+450,160171240,"Kambo, Wanis",M,ULUKALOPA,Subsistence Farmer,01 Jan 1957
+451,160168137,"Karia, Kelly",M,ULUKALOPA,Salesman,01 Jan 1984
+452,160165414,"Karia, Wesly",M,ULUKALOPA,Subsistence Farmer,01 Jan 1980
+453,160444420,"Karimbi, Amon",M,ULUKALOPA,Student,18 Sep 2002
+454,160136123,"Karimbi, Newman",M,ULUKALOPA,Sales Women,23 Apr 1993
+455,160444418,"Karimbi, Sent",M,ULUKALOPA,Carpenter,09 Dec 2003
+456,160151515,"Kereme, Demp",M,KOIMBOTOL,Teacher,01 Jan 1959
+457,160173081,"Kereme, Diowai",M,KOIMBOTOL,Subsistence Farmer,01 Jan 2000
+458,160157711,"Kereme, Kaime felix",M,KOIMBOTOL,Pastor,01 Jan 1954
+459,160158786,"Kereme, Nema",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1950
+460,160203787,"Kereme, Nepora",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1964
+461,160139953,"Kereme, Scott",M,KOIMBOTOL,Teacher,01 Jan 2000
+462,160148225,"Kereme, Toea",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1975
+463,160146966,"Kereme, Tom",M,ULUKALOPA,Student,01 Jan 1979
+464,160168986,"Kereme, Tommy",M,ULUKALOPA,Mechanic,01 Jan 1964
+465,160168564,"Kerowa, Banabas",M,ULUKALOPA,Subsistence Farmer,01 Jan 1976
+466,160132799,"Kerowa, Mathew",M,ULUKALOPA,Sales Women,17 May 1993
+467,160168567,"Kerowa, Michael",M,ULUKALOPA,Student,01 Jan 1977
+468,160152118,"Kolandi, Jack",M,ULUKALOPA,Subsistence Farmer,01 Jan 1987
+469,160152117,"Kolandi, Jeffry",M,ULUKALOPA,Subsistence Farmer,01 Jan 1982
+470,160151605,"Kolandi, Martin",M,ULUKALOPA,Subsistence Farmer,01 Jan 1979
+471,160444310,"Kololi, Issac",M,KOIMBOTOL,Student,11 Apr 2002
+472,160444197,"Koropa, Ferbian",M,KOIMBOTOL,Subsistence Farmer,03 Feb 2003
+473,160167989,"Koropa, Kolopu",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1978
+474,160169360,"Koropa, Max",M,KOIMBOTOL,Student,01 Jan 1982
+475,160153519,"Koropa, Poke",M,KOIMBOTOL,Councillor,01 Jan 1960
+476,160204408,"Koropa, Rex",M,KOIMBOTOL,Driver,01 Jan 1972
+477,160444051,"Koropa, Yando",M,KOIMBOTOL,Student,12 Jul 2002
+478,160147986,"Kupu, Tenis",M,ULUKALOPA,Subsistence Farmer,01 Jan 1969
+479,160172976,"Kurume, Jacob",M,KOIMBOTOL,Student,01 Jan 1985
+480,160169361,"Letawa, Daniel",M,ULUKALOPA,Subsistence Farmer,01 Jan 1975
+481,160167992,"Letawa, Simon",M,ULUKALOPA,Subsistence Farmer,01 Jan 1973
+482,160443643,"Linto, George",M,KOIMBOTOL,Student,12 Apr 2003
+483,160443671,"Liwa, Nelson",M,ULUKALOPA,Subsistence Farmer,04 Feb 2002
+484,160148022,"Loiye, Akka",M,ULUKALOPA,Subsistence Farmer,01 Jan 2000
+485,160139941,"Loiye, Kangupo",M,ULUKALOPA,Student,01 Jan 2000
+486,160444394,"Lopa, John",M,KOIMBOTOL,Student,06 Nov 2001
+487,160169032,"Lopa, Kome",M,KOIMBOTOL,Subsistence Farmer,01 Jan 2000
+488,160173182,"Lopeke, Mohonda",M,ULUKALOPA,Subsistence Farmer,01 Jan 1981
+489,160139943,"Loraiye, Aiye",M,ULUKALOPA,Subsistence Farmer,01 Jan 1978
+490,160147870,"Loraiye, Tikipi",M,ULUKALOPA,Student,01 Jan 2000
+491,160139944,"Loraiye, Yano",M,ULUKALOPA,Subsistence Farmer,01 Jan 2000
+492,160168930,"Mano, David",M,ULUKALOPA,Worker,01 Jan 1967
+493,160136128,"Mano, Karl",M,ULUKALOPA,Sales Women,01 Apr 1999
+494,160168880,"Mano, Lene",M,ULUKALOPA,Subsistence Farmer,01 Jan 1973
+495,160169111,"Mano, Lexson",M,ULUKALOPA,Subsistence Farmer,01 Jan 1976
+496,160168159,"Mano, Mamina",M,ULUKALOPA,Subsistence Farmer,01 Jan 1948
+497,160204536,"Mano, Mune",M,ULUKALOPA,Subsistence Farmer,01 Jan 1942
+498,160167368,"Mano, Nathan",M,ULUKALOPA,Student,01 Jan 1985
+499,160168926,"Mano, Samson",M,ULUKALOPA,Subsistence Farmer,01 Jan 1958
+500,160167367,"Mano, Solomon david",M,ULUKALOPA,Student,01 Jan 1990
+501,160136256,"Mekoa, Max",M,KOIMBOTOL,Student,15 Sep 1996
+502,160136126,"Mekowa, Bake",M,KOIMBOTOL,Sales Women,29 Oct 1992
+503,160132946,"Mekowa, Sedrick",M,KOIMBOTOL,Sales Women,04 Apr 1999
+504,160204721,"Melpa, Thomas",M,KOIMBOTOL,Student,01 Jan 1981
+505,160168892,"Mone, Luluwo",M,WAGOLOPOINE,Student,01 Jan 1990
+506,160168050,"Mone, Semb",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1955
+507,160168857,"Moses, Benny",M,ULUKALOPA,Subsistence Farmer,01 Jan 1979
+508,160203759,"Moses, Orokoi",M,ULUKALOPA,Subsistence Farmer,01 Jan 1975
+509,160171629,"Nale, Opi",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1970
+510,160147052,"Namb, Dora",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1978
+511,160148085,"Namb, Honda",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1982
+512,160171523,"Namb, John",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1966
+513,160148075,"Namb, Namba",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1964
+514,160151467,"Namb, Paul",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1975
+515,160148091,"Namb, Timbil",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1979
+516,160165174,"Nanda, Mangipu",M,ULUKALOPA,Subsistence Farmer,01 Jan 1934
+517,160165233,"Nanda, Toroiye",M,ULUKALOPA,Pastor,01 Jan 1933
+518,160169094,"Nandary, Greg",M,ULUKALOPA,Driver,01 Jan 1981
+519,160443588,"Nande, Obert",M,ULUKALOPA,Subsistence Farmer,28 Jan 2004
+520,160168865,"Nanga, Nepo",M,ULUKALOPA,Subsistence Farmer,01 Jan 2000
+521,160443741,"Napu, Michael",M,ULUKALOPA,Subsistence Farmer,13 Jul 2003
+522,160444176,"Napu, Michael",M,ULUKALOPA,Student,12 Mar 2002
+523,160136076,"Nason, Nonge",M,WAGOLOPOINE,Subsistence Farmer,14 Jul 1975
+524,160148003,"Nate, Wek",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1981
+525,160444237,"Natil, Tirus",M,KOIMBOTOL,Student,08 Nov 2003
+526,160153320,"Nema, Apurele",M,ULUKALOPA,Subsistence Farmer,01 Jan 1936
+527,160157497,"Nema, Francis kangi",M,ULUKALOPA,Subsistence Farmer,01 Jan 1980
+528,160151993,"Nema, Gibson",M,ULUKALOPA,Student,01 Jan 1989
+529,160444326,"Nema, Jack",M,ULUKALOPA,Student,13 Aug 2001
+530,160173034,"Nema, Luke",M,ULUKALOPA,Subsistence Farmer,01 Jan 1982
+531,160163500,"Nema, Markson",M,ULUKALOPA,Subsistence Farmer,01 Jan 2000
+532,160173041,"Nema, Paul",M,ULUKALOPA,Subsistence Farmer,01 Jan 1964
+533,160151650,"Niningi, Stanely",M,ULUKALOPA,Store Keeper,01 Jan 1984
+534,160168024,"Nolopo, Janet",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1986
+535,160168862,"Nolopo, Paraka",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1971
+536,160169092,"Nolopo, Pawa",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1978
+537,160169215,"Nolopo, Sina",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1974
+538,160133009,"Nonge, Henson",M,WAGOLOPOINE,Student,11 Nov 1998
+539,160136090,"Nonge, Ismael",M,WAGOLOPOINE,Student,28 Nov 1987
+540,160133007,"Nonge, Jerry",M,WAGOLOPOINE,Teacher,24 Aug 1984
+541,160168934,"Nonge, Jerry",M,WAGOLOPOINE,Student,01 Jan 1987
+542,160171408,"Nore, Marthin",M,ULUKALOPA,Subsistence Farmer,01 Jan 1975
+543,160167325,"Nore, Nathnial",M,ULUKALOPA,Student,01 Jan 1984
+544,160443954,"Oke, Elvis",M,WAGOLOPOINE,Student,20 Dec 2003
+545,160136084,"Oke, Joseph",M,WAGOLOPOINE,Student,24 Oct 1990
+546,160443956,"Oke, Lomex",M,WAGOLOPOINE,Student,15 Jun 2002
+547,160205097,"Okti, Papa",M,ULUKALOPA,Subsistence Farmer,01 Jan 1980
+548,160206365,"Okti, Pindipia",M,ULUKALOPA,Subsistence Farmer,01 Jan 1978
+549,160168882,"Olaiye, Pamda",M,KOIMBOTOL,Subsistence Farmer,01 Jan 2000
+550,160168947,"Olaiyea, Kepa",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1983
+551,160173053,"Oli, Michael",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1942
+552,160168877,"Onga, Endy",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1980
+553,160171596,"Onga, Lopeke",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1952
+554,160151566,"Onga, Pungul",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1972
+555,160444480,"Opa, Albert",M,KOIMBOTOL,Teacher,21 Sep 1995
+556,160152171,"Opa, Anis",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1966
+557,160165042,"Opa, Mondo",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1960
+558,160165325,"Opa, Onime",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1965
+559,160151620,"Opa, Peke",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1970
+560,160165091,"Opa, Pulu",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1964
+561,160165579,"Opa, Robert",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1967
+562,160148136,"Opa, Temal",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1967
+563,160152071,"Opa, Tenis",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1976
+564,160165165,"Opa, Tom",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1964
+565,160172966,"Opa, Wanpis",M,KOIMBOTOL,Student,01 Jan 1985
+566,160165220,"Opa, William",M,KOIMBOTOL,Salesman,01 Jan 1980
+567,160443983,"Opiye, Naga",M,ULUKALOPA,Student,06 Sep 2003
+568,160203757,"Orokoye, Paume",M,ULUKALOPA,Subsistence Farmer,01 Jan 1950
+569,160168935,"Pamda, Alponce",M,WAGOLOPOINE,Student,01 Jan 1979
+570,160168886,"Pamda, Andrew",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1983
+571,160168931,"Pamda, Danis",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1973
+572,160168042,"Pamda, Jeffry",M,WAGOLOPOINE,Student,01 Jan 1980
+573,160168056,"Pamenda, Tapu",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 2000
+574,160151747,"Pangimi, David",M,KOIMBOTOL,Community Health,01 Jan 1960
+575,160443884,"Pareka, Clancy",M,ULUKALOPA,Student,18 Oct 2002
+576,160168970,"Pareka, Danny",M,ULUKALOPA,Student,01 Jan 1984
+577,160151480,"Pareka, Duni",M,ULUKALOPA,Subsistence Farmer,01 Jan 1977
+578,160168968,"Pareka, Joel",M,ULUKALOPA,Student,01 Jan 1985
+579,160146930,"Pareka, John",M,ULUKALOPA,Subsistence Farmer,01 Jan 1954
+580,160153744,"Pareka, Keicy",M,ULUKALOPA,Subsistence Farmer,01 Jan 2000
+581,160163358,"Pareka, Manuel",M,ULUKALOPA,Student,01 Jan 2000
+582,160443883,"Pareka, Manuel",M,ULUKALOPA,Student,02 Apr 2003
+583,160171254,"Pareka, Marko",M,ULUKALOPA,Subsistence Farmer,01 Jan 1990
+584,160146934,"Pareka, Muli",M,ULUKALOPA,Subsistence Farmer,01 Jan 1963
+585,160168061,"Pareka, Paul",M,ULUKALOPA,Teacher,01 Jan 1988
+586,160163362,"Pareka, Sam",M,ULUKALOPA,Student,01 Jan 2000
+587,160172070,"Patre, Ali",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1970
+588,160133146,"Pawa, Josiya",M,WAGOLOPOINE,Student,12 Jun 1998
+589,160151471,"Pawa, Opi",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1971
+590,160206473,"Pawe, Kange",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1960
+591,160206480,"Pawe, Mepa",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1950
+592,160443887,"Peter, Kelly",M,KOIMBOTOL,Student,09 Sep 2001
+593,160168928,"Peter, Meck",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1980
+594,160148087,"Peter, Opi",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1973
+595,160165420,"Peter, Petrus",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1983
+596,160443872,"Peter, Pote",M,KOIMBOTOL,Student,11 Sep 2002
+597,160204007,"Peter, Tosidil",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1980
+598,160147996,"Peter, Wisi",M,KOIMBOTOL,Student,01 Jan 1984
+599,160157501,"Pokora, Simbura",M,WAGOLOPOINE,Pastor,01 Jan 1941
+600,160444372,"Pop, Nurman",M,WAGOLOPOINE,Student,26 Jul 2003
+601,160148100,"Pop, Opi",M,WAGOLOPOINE,Household Duties,01 Jan 1983
+602,160168562,"Popolo, David",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1974
+603,160168117,"Popolo, George",M,WAGOLOPOINE,Student,01 Jan 1987
+604,160165401,"Popolo, Moses",M,WAGOLOPOINE,Student,01 Jan 1990
+605,160165531,"Popolo, Sande",M,WAGOLOPOINE,Teacher,01 Jan 1965
+606,160167973,"Pora, Albert",M,PIAMBIL,Subsistence Farmer,01 Jan 1986
+607,160171270,"Pora, Besamin",M,PIAMBIL,Student,01 Jan 1988
+608,160152078,"Pora, David",M,PIAMBIL,Student,01 Jan 1964
+609,160152000,"Pora, Elizah",M,PIAMBIL,Student,01 Jan 1967
+610,160132970,"Pora, George",M,PIAMBIL,Sales Women,20 Nov 1996
+611,160136144,"Pora, Jerol",M,PIAMBIL,Sales Women,17 Nov 1995
+612,160165691,"Pora, Jonathan",M,PIAMBIL,Student,16 Jan 1987
+613,160132968,"Pora, Nepol",M,PIAMBIL,Sales Women,10 Nov 1994
+614,160168987,"Pora, Samson",M,PIAMBIL,Pastor,01 Jan 1968
+615,160165700,"Poram, Newman",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1982
+616,160171694,"Porena, Olame",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 2000
+617,160202121,"Porotol, Talopa",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1946
+618,160443860,"Pote, Peter",M,WAGOLOPOINE,Student,18 Sep 2001
+619,160163503,"Puguwe, Paul",M,WAGOLOPOINE,Teacher,01 Jan 2000
+620,160153714,"Pui, Aiyele",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1943
+621,160148117,"Puipia, Lukas",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1971
+622,160173051,"Puiye, Mark",M,WAGOLOPOINE,Clerk,01 Jan 2000
+623,160157716,"Simbura, Bandziman",M,WAGOLOPOINE,Student,01 Jan 1984
+624,160157714,"Simbura, Mark",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1979
+625,160171393,"Sipendi, Aruru",M,KOIMBOTOL,Accountant,01 Jan 1976
+626,160171257,"Sipendi, Keven",M,KOIMBOTOL,Councillor,01 Jan 1974
+627,160171380,"Sipendi, Namba",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1980
+628,160171390,"Sipendi, Peter",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1974
+629,160443720,"Smith, Boby",M,ULUKALOPA,Student,17 Oct 2002
+630,160169398,"Soti, Aris",M,ULUKALOPA,Subsistence Farmer,01 Jan 1980
+631,160444471,"Spaks, Manu",M,ULUKALOPA,Teacher,14 Oct 1997
+632,160171561,"Spothy, Garu",M,ULUKALOPA,Student,01 Jan 2000
+633,160444491,"Stanly, Jonathan",M,ULUKALOPA,Nurse,19 Feb 1999
+634,160168156,"Sulde, Isao",M,ULUKALOPA,Subsistence Farmer,01 Jan 1972
+635,160168955,"Sulde, Tekads",M,ULUKALOPA,Subsistence Farmer,01 Jan 1962
+636,160151757,"Sumba, Paul",M,KOIMBOTOL,Teacher,01 Jan 1974
+637,160151758,"Sumba, Tamalu",M,KOIMBOTOL,Student,01 Jan 1983
+638,160165514,"Sume, Aruru",M,KOIMBOTOL,Subsistence Farmer,01 Jan 1986
+639,160173188,"Tamalu, Anjo",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 2000
+640,160172973,"Tangele, Johnny",M,KOIMBOTOL,Student,01 Jan 1984
+641,160153310,"Tende, Iko",M,PIAMBIL,Subsistence Farmer,01 Jan 1966
+642,160151470,"Tende, Limek",M,PIAMBIL,Student,01 Jan 1984
+643,160444020,"Tende, Limek",M,PIAMBIL,Student,20 Jul 2001
+644,160152147,"Tende, Mark",M,PIAMBIL,Student,01 Jan 1984
+645,160167922,"Tende, Nendo",M,PIAMBIL,Subsistence Farmer,01 Jan 2000
+646,160152120,"Tende, Niye",M,PIAMBIL,Subsistence Farmer,01 Jan 1956
+647,160171397,"Tende, Pebion",M,PIAMBIL,Subsistence Farmer,01 Jan 1960
+648,160443742,"Tende, Ron",M,PIAMBIL,Student,02 Mar 2001
+649,160443919,"Tende, Thomas",M,PIAMBIL,Subsistence Farmer,26 Mar 2003
+650,160146956,"Tende, Thomson",M,PIAMBIL,Student,01 Jan 2000
+651,160443838,"Tende, Toringi",M,PIAMBIL,Student,18 Aug 2001
+652,160167907,"Tendi, Bapi",M,ULUKALOPA,Subsistence Farmer,01 Jan 1955
+653,160157321,"Tendi, Landowa",M,ULUKALOPA,Subsistence Farmer,01 Jan 1970
+654,160443685,"Tendi, Wanpis",M,ULUKALOPA,Subsistence Farmer,11 Feb 2001
+655,160444263,"Tenis, Cetrick",M,ULUKALOPA,Student,08 Dec 2001
+656,160165430,"Tenis, Philimon",M,ULUKALOPA,Student,01 Jan 1984
+657,160443758,"Tenis, Philipai",M,ULUKALOPA,Student,05 Sep 2000
+658,160132957,"Tenis, Sentibolo",M,ULUKALOPA,Dental Therapist,07 Jul 1992
+659,160443657,"Tepora, Tenis",M,ULUKALOPA,Student,18 Jun 2001
+660,160206257,"Tilto, Pawa",M,WAGOLOPOINE,Student,01 Jan 1981
+661,160165722,"Tinge, Jessy",M,WAGOLOPOINE,Student,01 Jan 1984
+662,160151648,"Tinjika, Wanis",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1984
+663,160152058,"Toise, Tape machal",M,ULUKALOPA,Subsistence Farmer,01 Jan 1961
+664,160206293,"Toite, Kiniwi",M,ULUKALOPA,Subsistence Farmer,01 Jan 1941
+665,160165082,"Tom, Brain",M,ULUKALOPA,Student,01 Jan 1981
+666,160167920,"Tom, Chris",M,ULUKALOPA,Subsistence Farmer,01 Jan 1977
+667,160167924,"Tom, Dick",M,ULUKALOPA,Subsistence Farmer,01 Jan 1979
+668,160148010,"Tom, Opi",M,ULUKALOPA,Subsistence Farmer,01 Jan 1981
+669,160153313,"Tom, Panjipo",M,ULUKALOPA,Subsistence Farmer,01 Jan 1947
+670,160165084,"Tom, Ricky",M,ULUKALOPA,Student,01 Jan 1983
+671,160133278,"Tom, Roga",M,ULUKALOPA,Student,07 May 1998
+672,160204009,"Tondopa, Pora",M,ULUKALOPA,Student,01 Jan 1981
+673,160165686,"Tone, Alo",M,ULUKALOPA,Subsistence Farmer,01 Jan 1975
+674,160147050,"Tonny, Ape",M,ULUKALOPA,Subsistence Farmer,01 Jan 1983
+675,160133125,"Tonny, Malgom",M,ULUKALOPA,Student,18 May 1998
+676,160167921,"Waima, Ale",M,PIAMBIL,Subsistence Farmer,01 Jan 1989
+677,160444259,"Waima, Brandy",M,PIAMBIL,Student,18 Jul 2001
+678,160152119,"Waima, Pokora",M,PIAMBIL,Subsistence Farmer,01 Jan 1975
+679,160168980,"Wama, Tawendo",M,WAGOLOPOINE,Teacher,01 Jan 1963
+680,160169105,"Wamo, Bella",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1985
+681,160151956,"Wamo, Mindil",M,WAGOLOPOINE,Student,01 Jan 1986
+682,160169045,"Wamo, Wake",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1981
+683,160132833,"Wangi, Davidson",M,WAGOLOPOINE,Teacher,20 Oct 1981
+684,160204247,"Wangi, Femen",M,WAGOLOPOINE,Student,01 Jan 1987
+685,160147962,"Wangi, Joe",M,WAGOLOPOINE,Student,01 Jan 1982
+686,160169313,"Wanis, Aisak",M,WAGOLOPOINE,Student,01 Jan 1988
+687,160203988,"Wanis, Bill",M,WAGOLOPOINE,Student,01 Jan 1982
+688,160163395,"Wanis, John",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1963
+689,160203990,"Wanis, Kumpinti",M,WAGOLOPOINE,Houseboy,01 Jan 1988
+690,160202042,"Wanis, Mark",M,WAGOLOPOINE,Houseboy,01 Jan 1990
+691,160133173,"Wanpis, Gibson",M,WAGOLOPOINE,Student,16 Mar 1993
+692,160133174,"Wanpis, Leah",M,WAGOLOPOINE,Student,14 Jun 1996
+693,160165768,"Waringi, Jackson",M,ULUKALOPA,Student,01 Jan 1985
+694,160147000,"Werek, Tamalu",M,WAGOLOPOINE,Teacher,01 Jan 1970
+695,160146994,"Wie, Garu",M,ULUKALOPA,Subsistence Farmer,01 Jan 2000
+696,160147877,"William, Friman",M,KOIMBOTOL,Engineer,01 Jan 2000
+697,160133283,"William, Remci",M,KOIMBOTOL,Student,03 Jun 1996
+698,160147903,"William, Solomon",M,KOIMBOTOL,Student,01 Jan 1983
+699,160153316,"Wilson, Poke justin",M,KOIMBOTOL,Student,01 Jan 1989
+700,160444074,"Wincen, Mex",M,KOIMBOTOL,Student,19 Jan 2002
+701,160146969,"Wirime, Namba jacob",M,ULUKALOPA,Pastor,01 Jan 1968
+702,160171621,"Wiye, Cletus",M,ULUKALOPA,Student,01 Jan 2000
+703,160444476,"Yakili, Willie",M,ULUKALOPA,Teacher,20 Feb 1991
+704,160171469,"Yakopo, Wanis",M,ULUKALOPA,Policeman,01 Jan 2000
+705,160151587,"Yakpus, Raikie",M,ULUKALOPA,Subsistence Farmer,01 Jan 1957
+706,160152166,"Yakumbu, Jacob",M,ULUKALOPA,Subsistence Farmer,01 Jan 1976
+707,160173074,"Yakumbu, Keven",M,ULUKALOPA,Subsistence Farmer,01 Jan 2000
+708,160152128,"Yakumbu, Timmy",M,ULUKALOPA,Subsistence Farmer,01 Jan 1978
+709,160147895,"Yali, Jona",M,ULUKALOPA,Student,01 Jan 2000
+710,160146992,"Yali, Lepi",M,ULUKALOPA,Teacher,01 Jan 2000
+711,160163394,"Yalimbu, Paka",M,ULUKALOPA,Driver,01 Jan 1979
+712,160153611,"Yalimbu, Piam",M,ULUKALOPA,Subsistence Farmer,01 Jan 1982
+713,160444383,"Yalo, Jacky",M,ULUKALOPA,Student,11 Jan 2003
+714,160168124,"Yalo, Karia",M,ULUKALOPA,Subsistence Farmer,01 Jan 1978
+715,160168558,"Yalo, Kerowa",M,ULUKALOPA,Subsistence Farmer,01 Jan 1974
+716,160165687,"Yalo, Leslie",M,ULUKALOPA,Salesman,01 Jan 1971
+717,160168963,"Yalo, Pareka",M,ULUKALOPA,Subsistence Farmer,01 Jan 1950
+718,160444276,"Yalo, Smith",M,ULUKALOPA,Student,15 Aug 2002
+719,160168752,"Yalo, Uwe",M,ULUKALOPA,Subsistence Farmer,01 Jan 1960
+720,160152133,"Yangnal, John",M,ULUKALOPA,Subsistence Farmer,01 Jan 1971
+721,160152086,"Yangnal, Namba",M,ULUKALOPA,Subsistence Farmer,01 Jan 1941
+722,160444058,"Yangon, Ruben",M,ULUKALOPA,Student,23 May 2002
+723,160443967,"Yangon, Thomason",M,ULUKALOPA,Student,15 Sep 2001
+724,160151973,"Yawaiye, Koma",M,ULUKALOPA,Subsistence Farmer,01 Jan 1983
+725,160168965,"Yawaiye, Tomano",M,ULUKALOPA,Subsistence Farmer,01 Jan 1970
+726,160168861,"Yokop, Nolopo",M,WAGOLOPOINE,Subsistence Farmer,01 Jan 1947
+727,160443768,"Yopex, Isac",M,KOIMBOTOL,Student,21 Jan 2004
+728,160132999,"Yuwain, Oke",M,WAGOLOPOINE,Pastor,11 Sep 1980

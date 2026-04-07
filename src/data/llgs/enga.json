@@ -1,0 +1,755 @@
+{
+  "provinceId": "enga",
+  "electorates": [
+    {
+      "electorateSlug": "wapenamanda",
+      "llgs": [
+        {
+          "id": "wapenamanda-wapenamanda-urban",
+          "name": "Wapenamanda Urban LLG",
+          "electorateSlug": "wapenamanda",
+          "wards": [
+            {
+              "id": "wapenamanda-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1522
+            },
+            {
+              "id": "wapenamanda-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2792
+            },
+            {
+              "id": "wapenamanda-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2209
+            },
+            {
+              "id": "wapenamanda-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1958
+            },
+            {
+              "id": "wapenamanda-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1804
+            },
+            {
+              "id": "wapenamanda-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2423
+            },
+            {
+              "id": "wapenamanda-urban-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2161
+            }
+          ]
+        },
+        {
+          "id": "wapenamanda-tsak-wapenamanda",
+          "name": "Tsak-Wapenamanda LLG",
+          "electorateSlug": "wapenamanda",
+          "wards": [
+            {
+              "id": "tsak-wapenamanda-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1572
+            },
+            {
+              "id": "tsak-wapenamanda-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2202
+            },
+            {
+              "id": "tsak-wapenamanda-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1379
+            },
+            {
+              "id": "tsak-wapenamanda-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2113
+            },
+            {
+              "id": "tsak-wapenamanda-w05",
+              "name": "Ward 5",
+              "registeredVoters": 981
+            },
+            {
+              "id": "tsak-wapenamanda-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1511
+            },
+            {
+              "id": "tsak-wapenamanda-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1038
+            },
+            {
+              "id": "tsak-wapenamanda-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1508
+            },
+            {
+              "id": "tsak-wapenamanda-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1971
+            },
+            {
+              "id": "tsak-wapenamanda-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1622
+            }
+          ]
+        },
+        {
+          "id": "wapenamanda-sau-yambitanget",
+          "name": "Sau-Yambitanget LLG",
+          "electorateSlug": "wapenamanda",
+          "wards": [
+            {
+              "id": "sau-yambitanget-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1560
+            },
+            {
+              "id": "sau-yambitanget-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1652
+            },
+            {
+              "id": "sau-yambitanget-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3004
+            },
+            {
+              "id": "sau-yambitanget-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1543
+            },
+            {
+              "id": "sau-yambitanget-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2234
+            },
+            {
+              "id": "sau-yambitanget-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2960
+            },
+            {
+              "id": "sau-yambitanget-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1761
+            },
+            {
+              "id": "sau-yambitanget-w08",
+              "name": "Ward 8",
+              "registeredVoters": 3911
+            }
+          ]
+        },
+        {
+          "id": "wapenamanda-laiagam-east",
+          "name": "Laiagam East LLG",
+          "electorateSlug": "wapenamanda",
+          "wards": [
+            {
+              "id": "laiagam-east-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1682
+            },
+            {
+              "id": "laiagam-east-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2889
+            },
+            {
+              "id": "laiagam-east-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1914
+            },
+            {
+              "id": "laiagam-east-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1774
+            },
+            {
+              "id": "laiagam-east-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2748
+            },
+            {
+              "id": "laiagam-east-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2202
+            },
+            {
+              "id": "laiagam-east-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1741
+            },
+            {
+              "id": "laiagam-east-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "kompiam-ambum",
+      "llgs": [
+        {
+          "id": "kompiam-ambum-kompiam",
+          "name": "Kompiam LLG",
+          "electorateSlug": "kompiam-ambum",
+          "wards": [
+            {
+              "id": "kompiam-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3690
+            },
+            {
+              "id": "kompiam-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4315
+            },
+            {
+              "id": "kompiam-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4400
+            },
+            {
+              "id": "kompiam-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2011
+            }
+          ]
+        },
+        {
+          "id": "kompiam-ambum-ambum",
+          "name": "Ambum LLG",
+          "electorateSlug": "kompiam-ambum",
+          "wards": [
+            {
+              "id": "ambum-w01",
+              "name": "Ward 1",
+              "registeredVoters": 5731
+            },
+            {
+              "id": "ambum-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4632
+            },
+            {
+              "id": "ambum-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3731
+            }
+          ]
+        },
+        {
+          "id": "kompiam-ambum-sau-valley",
+          "name": "Sau Valley LLG",
+          "electorateSlug": "kompiam-ambum",
+          "wards": [
+            {
+              "id": "sau-valley-w01",
+              "name": "Ward 1",
+              "registeredVoters": 6116
+            },
+            {
+              "id": "sau-valley-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2757
+            },
+            {
+              "id": "sau-valley-w03",
+              "name": "Ward 3",
+              "registeredVoters": 5531
+            }
+          ]
+        },
+        {
+          "id": "kompiam-ambum-mambisanda",
+          "name": "Mambisanda LLG",
+          "electorateSlug": "kompiam-ambum",
+          "wards": [
+            {
+              "id": "mambisanda-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1936
+            },
+            {
+              "id": "mambisanda-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2240
+            },
+            {
+              "id": "mambisanda-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1615
+            },
+            {
+              "id": "mambisanda-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1728
+            },
+            {
+              "id": "mambisanda-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1563
+            },
+            {
+              "id": "mambisanda-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1768
+            },
+            {
+              "id": "mambisanda-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1049
+            },
+            {
+              "id": "mambisanda-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1301
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "wabag",
+      "llgs": [
+        {
+          "id": "wabag-wabag-urban",
+          "name": "Wabag Urban LLG",
+          "electorateSlug": "wabag",
+          "wards": [
+            {
+              "id": "wabag-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4787
+            },
+            {
+              "id": "wabag-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2451
+            },
+            {
+              "id": "wabag-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3353
+            },
+            {
+              "id": "wabag-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 5072
+            }
+          ]
+        },
+        {
+          "id": "wabag-laiagam",
+          "name": "Laiagam LLG",
+          "electorateSlug": "wabag",
+          "wards": [
+            {
+              "id": "laiagam-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3191
+            },
+            {
+              "id": "laiagam-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3713
+            },
+            {
+              "id": "laiagam-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2536
+            },
+            {
+              "id": "laiagam-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2776
+            },
+            {
+              "id": "laiagam-w05",
+              "name": "Ward 5",
+              "registeredVoters": 4112
+            }
+          ]
+        },
+        {
+          "id": "wabag-birip-mulitaka",
+          "name": "Birip-Mulitaka LLG",
+          "electorateSlug": "wabag",
+          "wards": [
+            {
+              "id": "birip-mulitaka-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2794
+            },
+            {
+              "id": "birip-mulitaka-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2270
+            },
+            {
+              "id": "birip-mulitaka-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2436
+            },
+            {
+              "id": "birip-mulitaka-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2156
+            },
+            {
+              "id": "birip-mulitaka-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2183
+            },
+            {
+              "id": "birip-mulitaka-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1847
+            },
+            {
+              "id": "birip-mulitaka-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2086
+            }
+          ]
+        },
+        {
+          "id": "wabag-ambum-south",
+          "name": "Ambum South LLG",
+          "electorateSlug": "wabag",
+          "wards": [
+            {
+              "id": "ambum-south-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2937
+            },
+            {
+              "id": "ambum-south-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4135
+            },
+            {
+              "id": "ambum-south-w03",
+              "name": "Ward 3",
+              "registeredVoters": 7453
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "lagaip-porgera",
+      "llgs": [
+        {
+          "id": "lagaip-porgera-lagaip",
+          "name": "Lagaip LLG",
+          "electorateSlug": "lagaip-porgera",
+          "wards": [
+            {
+              "id": "lagaip-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2900
+            },
+            {
+              "id": "lagaip-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2042
+            },
+            {
+              "id": "lagaip-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2991
+            },
+            {
+              "id": "lagaip-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1617
+            },
+            {
+              "id": "lagaip-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1404
+            },
+            {
+              "id": "lagaip-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1632
+            },
+            {
+              "id": "lagaip-w07",
+              "name": "Ward 7",
+              "registeredVoters": 3052
+            }
+          ]
+        },
+        {
+          "id": "lagaip-porgera-porgera",
+          "name": "Porgera LLG",
+          "electorateSlug": "lagaip-porgera",
+          "wards": [
+            {
+              "id": "porgera-w01",
+              "name": "Ward 1",
+              "registeredVoters": 7614
+            },
+            {
+              "id": "porgera-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3133
+            },
+            {
+              "id": "porgera-w03",
+              "name": "Ward 3",
+              "registeredVoters": 6320
+            }
+          ]
+        },
+        {
+          "id": "lagaip-porgera-paiam-urban",
+          "name": "Paiam Urban LLG",
+          "electorateSlug": "lagaip-porgera",
+          "wards": [
+            {
+              "id": "paiam-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3334
+            },
+            {
+              "id": "paiam-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 6221
+            },
+            {
+              "id": "paiam-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 5112
+            },
+            {
+              "id": "paiam-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3427
+            }
+          ]
+        },
+        {
+          "id": "lagaip-porgera-paiela-south",
+          "name": "Paiela South LLG",
+          "electorateSlug": "lagaip-porgera",
+          "wards": [
+            {
+              "id": "paiela-south-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2467
+            },
+            {
+              "id": "paiela-south-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1852
+            },
+            {
+              "id": "paiela-south-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1971
+            },
+            {
+              "id": "paiela-south-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1146
+            },
+            {
+              "id": "paiela-south-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2163
+            },
+            {
+              "id": "paiela-south-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2265
+            },
+            {
+              "id": "paiela-south-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1404
+            },
+            {
+              "id": "paiela-south-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1942
+            },
+            {
+              "id": "paiela-south-w09",
+              "name": "Ward 9",
+              "registeredVoters": 807
+            },
+            {
+              "id": "paiela-south-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1783
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "kandep",
+      "llgs": [
+        {
+          "id": "kandep-kandep",
+          "name": "Kandep LLG",
+          "electorateSlug": "kandep",
+          "wards": [
+            {
+              "id": "kandep-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4734
+            },
+            {
+              "id": "kandep-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3327
+            },
+            {
+              "id": "kandep-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4278
+            }
+          ]
+        },
+        {
+          "id": "kandep-marient",
+          "name": "Marient LLG",
+          "electorateSlug": "kandep",
+          "wards": [
+            {
+              "id": "marient-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3120
+            },
+            {
+              "id": "marient-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3068
+            },
+            {
+              "id": "marient-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1383
+            },
+            {
+              "id": "marient-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2139
+            },
+            {
+              "id": "marient-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2178
+            }
+          ]
+        },
+        {
+          "id": "kandep-wage",
+          "name": "Wage LLG",
+          "electorateSlug": "kandep",
+          "wards": [
+            {
+              "id": "wage-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2183
+            },
+            {
+              "id": "wage-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2014
+            },
+            {
+              "id": "wage-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1391
+            },
+            {
+              "id": "wage-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1807
+            },
+            {
+              "id": "wage-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2615
+            },
+            {
+              "id": "wage-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1345
+            },
+            {
+              "id": "wage-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2046
+            }
+          ]
+        },
+        {
+          "id": "kandep-kombal",
+          "name": "Kombal LLG",
+          "electorateSlug": "kandep",
+          "wards": [
+            {
+              "id": "kombal-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1916
+            },
+            {
+              "id": "kombal-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1055
+            },
+            {
+              "id": "kombal-w03",
+              "name": "Ward 3",
+              "registeredVoters": 991
+            },
+            {
+              "id": "kombal-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1058
+            },
+            {
+              "id": "kombal-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2312
+            },
+            {
+              "id": "kombal-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1749
+            },
+            {
+              "id": "kombal-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1021
+            },
+            {
+              "id": "kombal-w08",
+              "name": "Ward 8",
+              "registeredVoters": 2123
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,722 @@
+{
+  "provinceId": "western-highlands",
+  "electorates": [
+    {
+      "electorateSlug": "hagen",
+      "llgs": [
+        {
+          "id": "hagen-mt-hagen-urban",
+          "name": "Mt Hagen Urban LLG",
+          "electorateSlug": "hagen",
+          "wards": [
+            {
+              "id": "mt-hagen-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2248
+            },
+            {
+              "id": "mt-hagen-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3372
+            },
+            {
+              "id": "mt-hagen-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3069
+            },
+            {
+              "id": "mt-hagen-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2813
+            },
+            {
+              "id": "mt-hagen-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3236
+            },
+            {
+              "id": "mt-hagen-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2584
+            },
+            {
+              "id": "mt-hagen-urban-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1621
+            }
+          ]
+        },
+        {
+          "id": "hagen-hagen-central",
+          "name": "Hagen Central LLG",
+          "electorateSlug": "hagen",
+          "wards": [
+            {
+              "id": "hagen-central-w01",
+              "name": "Ward 1",
+              "registeredVoters": 5199
+            },
+            {
+              "id": "hagen-central-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4219
+            },
+            {
+              "id": "hagen-central-w03",
+              "name": "Ward 3",
+              "registeredVoters": 6162
+            },
+            {
+              "id": "hagen-central-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2993
+            }
+          ]
+        },
+        {
+          "id": "hagen-mul",
+          "name": "Mul LLG",
+          "electorateSlug": "hagen",
+          "wards": [
+            {
+              "id": "mul-w01",
+              "name": "Ward 1",
+              "registeredVoters": 5445
+            },
+            {
+              "id": "mul-w02",
+              "name": "Ward 2",
+              "registeredVoters": 5849
+            },
+            {
+              "id": "mul-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3626
+            }
+          ]
+        },
+        {
+          "id": "hagen-dei-south",
+          "name": "Dei South LLG",
+          "electorateSlug": "hagen",
+          "wards": [
+            {
+              "id": "dei-south-w01",
+              "name": "Ward 1",
+              "registeredVoters": 6494
+            },
+            {
+              "id": "dei-south-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3504
+            },
+            {
+              "id": "dei-south-w03",
+              "name": "Ward 3",
+              "registeredVoters": 7587
+            }
+          ]
+        },
+        {
+          "id": "hagen-togoba",
+          "name": "Togoba LLG",
+          "electorateSlug": "hagen",
+          "wards": [
+            {
+              "id": "togoba-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2735
+            },
+            {
+              "id": "togoba-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3638
+            },
+            {
+              "id": "togoba-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3770
+            },
+            {
+              "id": "togoba-w04",
+              "name": "Ward 4",
+              "registeredVoters": 6337
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "dei",
+      "llgs": [
+        {
+          "id": "dei-dei",
+          "name": "Dei LLG",
+          "electorateSlug": "dei",
+          "wards": [
+            {
+              "id": "dei-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1035
+            },
+            {
+              "id": "dei-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1785
+            },
+            {
+              "id": "dei-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2060
+            },
+            {
+              "id": "dei-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1862
+            },
+            {
+              "id": "dei-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1683
+            },
+            {
+              "id": "dei-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1368
+            },
+            {
+              "id": "dei-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1433
+            },
+            {
+              "id": "dei-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1803
+            }
+          ]
+        },
+        {
+          "id": "dei-kotna",
+          "name": "Kotna LLG",
+          "electorateSlug": "dei",
+          "wards": [
+            {
+              "id": "kotna-w01",
+              "name": "Ward 1",
+              "registeredVoters": 5513
+            },
+            {
+              "id": "kotna-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2900
+            },
+            {
+              "id": "kotna-w03",
+              "name": "Ward 3",
+              "registeredVoters": 5801
+            }
+          ]
+        },
+        {
+          "id": "dei-muglamp",
+          "name": "Muglamp LLG",
+          "electorateSlug": "dei",
+          "wards": [
+            {
+              "id": "muglamp-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4378
+            },
+            {
+              "id": "muglamp-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1933
+            },
+            {
+              "id": "muglamp-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3471
+            },
+            {
+              "id": "muglamp-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3157
+            }
+          ]
+        },
+        {
+          "id": "dei-nebilyer-north",
+          "name": "Nebilyer North LLG",
+          "electorateSlug": "dei",
+          "wards": [
+            {
+              "id": "nebilyer-north-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4597
+            },
+            {
+              "id": "nebilyer-north-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3280
+            },
+            {
+              "id": "nebilyer-north-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3771
+            },
+            {
+              "id": "nebilyer-north-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2527
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "mul-baiyer",
+      "llgs": [
+        {
+          "id": "mul-baiyer-mul",
+          "name": "Mul LLG",
+          "electorateSlug": "mul-baiyer",
+          "wards": [
+            {
+              "id": "mul-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1600
+            },
+            {
+              "id": "mul-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2236
+            },
+            {
+              "id": "mul-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2336
+            },
+            {
+              "id": "mul-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3091
+            },
+            {
+              "id": "mul-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2976
+            },
+            {
+              "id": "mul-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1280
+            }
+          ]
+        },
+        {
+          "id": "mul-baiyer-baiyer",
+          "name": "Baiyer LLG",
+          "electorateSlug": "mul-baiyer",
+          "wards": [
+            {
+              "id": "baiyer-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1456
+            },
+            {
+              "id": "baiyer-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3468
+            },
+            {
+              "id": "baiyer-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2595
+            },
+            {
+              "id": "baiyer-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3264
+            },
+            {
+              "id": "baiyer-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1447
+            },
+            {
+              "id": "baiyer-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1657
+            },
+            {
+              "id": "baiyer-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2982
+            }
+          ]
+        },
+        {
+          "id": "mul-baiyer-lumusa",
+          "name": "Lumusa LLG",
+          "electorateSlug": "mul-baiyer",
+          "wards": [
+            {
+              "id": "lumusa-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2976
+            },
+            {
+              "id": "lumusa-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3254
+            },
+            {
+              "id": "lumusa-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1994
+            },
+            {
+              "id": "lumusa-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2686
+            },
+            {
+              "id": "lumusa-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2601
+            },
+            {
+              "id": "lumusa-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2868
+            }
+          ]
+        },
+        {
+          "id": "mul-baiyer-alkena",
+          "name": "Alkena LLG",
+          "electorateSlug": "mul-baiyer",
+          "wards": [
+            {
+              "id": "alkena-w01",
+              "name": "Ward 1",
+              "registeredVoters": 6285
+            },
+            {
+              "id": "alkena-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4214
+            },
+            {
+              "id": "alkena-w03",
+              "name": "Ward 3",
+              "registeredVoters": 4826
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "tambul-nebilyer",
+      "llgs": [
+        {
+          "id": "tambul-nebilyer-tambul",
+          "name": "Tambul LLG",
+          "electorateSlug": "tambul-nebilyer",
+          "wards": [
+            {
+              "id": "tambul-w01",
+              "name": "Ward 1",
+              "registeredVoters": 5973
+            },
+            {
+              "id": "tambul-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4987
+            },
+            {
+              "id": "tambul-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3783
+            }
+          ]
+        },
+        {
+          "id": "tambul-nebilyer-nebilyer",
+          "name": "Nebilyer LLG",
+          "electorateSlug": "tambul-nebilyer",
+          "wards": [
+            {
+              "id": "nebilyer-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1394
+            },
+            {
+              "id": "nebilyer-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2309
+            },
+            {
+              "id": "nebilyer-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1334
+            },
+            {
+              "id": "nebilyer-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1937
+            },
+            {
+              "id": "nebilyer-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1651
+            },
+            {
+              "id": "nebilyer-w06",
+              "name": "Ward 6",
+              "registeredVoters": 3520
+            }
+          ]
+        },
+        {
+          "id": "tambul-nebilyer-ka",
+          "name": "Ka LLG",
+          "electorateSlug": "tambul-nebilyer",
+          "wards": [
+            {
+              "id": "ka-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1742
+            },
+            {
+              "id": "ka-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1201
+            },
+            {
+              "id": "ka-w03",
+              "name": "Ward 3",
+              "registeredVoters": 910
+            },
+            {
+              "id": "ka-w04",
+              "name": "Ward 4",
+              "registeredVoters": 836
+            },
+            {
+              "id": "ka-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1653
+            },
+            {
+              "id": "ka-w06",
+              "name": "Ward 6",
+              "registeredVoters": 833
+            },
+            {
+              "id": "ka-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1399
+            },
+            {
+              "id": "ka-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1327
+            },
+            {
+              "id": "ka-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1646
+            },
+            {
+              "id": "ka-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1102
+            }
+          ]
+        },
+        {
+          "id": "tambul-nebilyer-alkena-south",
+          "name": "Alkena South LLG",
+          "electorateSlug": "tambul-nebilyer",
+          "wards": [
+            {
+              "id": "alkena-south-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3190
+            },
+            {
+              "id": "alkena-south-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4786
+            },
+            {
+              "id": "alkena-south-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3262
+            },
+            {
+              "id": "alkena-south-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2212
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "north-wahgi",
+      "llgs": [
+        {
+          "id": "north-wahgi-minj-urban",
+          "name": "Minj Urban LLG",
+          "electorateSlug": "north-wahgi",
+          "wards": [
+            {
+              "id": "minj-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3718
+            },
+            {
+              "id": "minj-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3687
+            },
+            {
+              "id": "minj-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3487
+            },
+            {
+              "id": "minj-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 4904
+            }
+          ]
+        },
+        {
+          "id": "north-wahgi-north-wahgi",
+          "name": "North Wahgi LLG",
+          "electorateSlug": "north-wahgi",
+          "wards": [
+            {
+              "id": "north-wahgi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2369
+            },
+            {
+              "id": "north-wahgi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2434
+            },
+            {
+              "id": "north-wahgi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2463
+            },
+            {
+              "id": "north-wahgi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3330
+            },
+            {
+              "id": "north-wahgi-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1762
+            },
+            {
+              "id": "north-wahgi-w06",
+              "name": "Ward 6",
+              "registeredVoters": 3412
+            }
+          ]
+        },
+        {
+          "id": "north-wahgi-nondugl",
+          "name": "Nondugl LLG",
+          "electorateSlug": "north-wahgi",
+          "wards": [
+            {
+              "id": "nondugl-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1338
+            },
+            {
+              "id": "nondugl-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1270
+            },
+            {
+              "id": "nondugl-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1309
+            },
+            {
+              "id": "nondugl-w04",
+              "name": "Ward 4",
+              "registeredVoters": 997
+            },
+            {
+              "id": "nondugl-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1419
+            },
+            {
+              "id": "nondugl-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1105
+            },
+            {
+              "id": "nondugl-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2042
+            },
+            {
+              "id": "nondugl-w08",
+              "name": "Ward 8",
+              "registeredVoters": 2197
+            },
+            {
+              "id": "nondugl-w09",
+              "name": "Ward 9",
+              "registeredVoters": 999
+            }
+          ]
+        },
+        {
+          "id": "north-wahgi-kudjip",
+          "name": "Kudjip LLG",
+          "electorateSlug": "north-wahgi",
+          "wards": [
+            {
+              "id": "kudjip-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2311
+            },
+            {
+              "id": "kudjip-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3499
+            },
+            {
+              "id": "kudjip-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3675
+            },
+            {
+              "id": "kudjip-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2277
+            },
+            {
+              "id": "kudjip-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3038
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

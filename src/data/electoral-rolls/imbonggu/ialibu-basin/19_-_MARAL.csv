@@ -1,0 +1,934 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160217784,"Albert, Easther",F,MARAL,Household Duties,01 Jan 2000
+2,160119542,"Albert, Shirley",F,MARAL,Student,16 Apr 1999
+3,160119541,"Albert, Stephanie",F,MARAL,Student,28 Feb 1995
+4,160214978,"Alen, Merry",F,MARAL,Household Duties,01 Jan 1964
+5,160224264,"Alex, Giyame",F,MARAL,Student,01 Jan 1987
+6,160215973,"Ali, Gaso",F,MARAL,Clerk,01 Jan 1981
+7,160119552,"Amos, Janet",F,MARAL,Student,10 Jan 1989
+8,160245971,"Andi, Mercy",F,MARAL,Student,01 Jan 1993
+9,160119544,"Andi, Merlyn",F,MARAL,Student,15 Mar 1999
+10,160217861,"Andi, Nancy",F,MARAL,Household Duties,01 Jan 1970
+11,160217866,"Andiye, Margret",F,MARAL,Household Duties,01 Jan 1971
+12,160232014,"Andrew, Betty",F,MARAL,Household Duties,01 Jan 1978
+13,160225054,"Andrew, Hurino",F,MARAL,Household Duties,01 Jan 1954
+14,160446964,"Andrew, Jackovina",F,MARAL,Student,08 Sep 2000
+15,160231998,"Andrew, Josephine",F,MARAL,Household Duties,01 Jan 1983
+16,160236070,"Andrew, Sharon",F,MARAL,Household Duties,01 Jan 1979
+17,160446986,"Andy, Dauline",F,MARAL,Student,12 Apr 2004
+18,160508110,"Anna, John",F,MARAL,Student,28 Apr 2004
+19,160229683,"Apule, Dako",F,MARAL,Household Duties,01 Jan 1981
+20,160229663,"Apurel, Noile",F,MARAL,Household Duties,01 Jan 1980
+21,160230705,"Apurel, Rona",F,MARAL,Student,01 Jan 1980
+22,160230704,"Apurel, Yani",F,MARAL,Household Duties,01 Jan 1979
+23,160216541,"Ben, Esther",F,MARAL,Student,01 Jan 1987
+24,160119555,"Ben, Judy",F,MARAL,Household Duties,18 May 1980
+25,160216539,"Ben, Lena",F,MARAL,Household Duties,01 Jan 1958
+26,160216427,"Ben, Moti",F,MARAL,Household Duties,01 Jan 1987
+27,160239333,"Ben, Priscilla",F,MARAL,Teacher,01 Jan 1986
+28,160216408,"Ben, Rosa",F,MARAL,Household Duties,01 Jan 1981
+29,160245827,"Bob, Domica",F,MARAL,Household Duties,01 Jan 1973
+30,160224371,"Bob, Eli",F,MARAL,Household Duties,01 Jan 1968
+31,160119570,"Bob, Emely",F,MARAL,Student,02 Jan 1999
+32,160214084,"Bonny, Anna",F,MARAL,Household Duties,01 Jan 1989
+33,160215189,"Bonny, Epo",F,MARAL,Household Duties,01 Jan 1967
+34,160215190,"Bonny, Jeniffer",F,MARAL,Student,01 Jan 1990
+35,160213009,"Buka, Dolly",F,MARAL,Household Duties,01 Jan 1981
+36,160246118,"Buka, Jacklyn",F,MARAL,Student,01 Jan 1993
+37,160119701,"Buka, Jerolyn",F,MARAL,Student,01 Jan 1992
+38,160224431,"Buka, Kopi",F,MARAL,Household Duties,01 Jan 1968
+39,160215751,"Buka, Wari",F,MARAL,Household Duties,01 Jan 1969
+40,160246400,"Bune, Monica",F,MARAL,Household Duties,01 Jan 1993
+41,160119518,"Buru, Lineth",F,MARAL,Household Duties,01 Jan 1975
+42,160245801,"Charlie, Chritie",F,MARAL,Household Duties,01 Jan 1985
+43,160446977,"Chrley, Wendy",F,MARAL,Student,27 Apr 2004
+44,160246001,"Clement, Rose",F,MARAL,Household Duties,01 Jan 1970
+45,160119558,"Dala, Prainde",F,MARAL,Household Duties,01 Jan 1968
+46,160227503,"Daniel, Agnes",F,MARAL,Household Duties,01 Jan 1980
+47,160227506,"Daniel, Christina",F,MARAL,Student,01 Jan 1984
+48,160227508,"Daniel, Dorcas",F,MARAL,Household Duties,01 Jan 1986
+49,160225157,"Daniel, Lea",F,MARAL,Student,01 Jan 1989
+50,160225155,"Daniel, Lisa",F,MARAL,Student,01 Jan 1987
+51,160225156,"Daniel, Yapuno",F,MARAL,Household Duties,01 Jan 1960
+52,160508130,"David, Linda",F,MARAL,Student,01 Apr 2000
+53,160508131,"David, Selen",F,MARAL,Self Employed,13 Sep 1997
+54,160220503,"Dobert, Maria",F,MARAL,Household Duties,01 Jan 1984
+55,160239339,"Dobert, Wendy",F,MARAL,Household Duties,01 Jan 1984
+56,160222591,"Dominic, Carol",F,MARAL,Household Duties,01 Jan 1983
+57,160446953,"Don, Ailen",F,MARAL,Student,23 Apr 2004
+58,160218456,"Don, Tenis",F,MARAL,Household Duties,01 Jan 1968
+59,160220400,"Doni, Palame",F,MARAL,Household Duties,01 Jan 1966
+60,160446913,"Donlo, Molly",F,MARAL,Household Duties,28 Apr 2003
+61,160238806,"Donnie, Kandiye",F,MARAL,Student,01 Jan 1992
+62,160137812,"Douglas, Mary",F,MARAL,Teacher,26 Mar 1982
+63,160508133,"Dul, Parin",F,MARAL,Household Duties,08 Jul 2000
+64,160238801,"Edmund, Apolo",F,MARAL,Household Duties,01 Jan 1986
+65,160236065,"Edmund, Monica",F,MARAL,Student,01 Jan 1989
+66,160239336,"Ekai, Georgina",F,MARAL,Household Duties,01 Jan 1980
+67,160215985,"Ekai, Lilly",F,MARAL,Household Duties,01 Jan 1970
+68,160119550,"Eke, Cathy",F,MARAL,Household Duties,16 Aug 1990
+69,160218507,"Eke, Lucy",F,MARAL,Housegirl,01 Jan 1972
+70,160218506,"Eke, Mamina",F,MARAL,Household Duties,01 Jan 1951
+71,160218982,"Eke, Sarah",F,MARAL,Student,01 Jan 1988
+72,160136679,"Eki, Cassandra",F,MARAL,Household Duties,27 Nov 1998
+73,160446912,"Elijah, Wendy",F,MARAL,Student,15 Jun 1981
+74,160446930,"Esley, Endasilia",F,MARAL,Store Keeper,06 May 2000
+75,160246004,"Fero, Christina",F,MARAL,Household Duties,01 Jan 1993
+76,160220496,"Gemo, Vero",F,MARAL,Household Duties,01 Jan 1974
+77,160217799,"Glipu, Aiyembo",F,MARAL,Student,01 Jan 1988
+78,160217801,"Glipu, Serah",F,MARAL,Student,01 Jan 1990
+79,160245982,"Glipu, Sharon",F,MARAL,Student,01 Jan 1993
+80,160217946,"Glipu, Toroli",F,MARAL,Household Duties,01 Jan 1960
+81,160245974,"Henry, Elmah",F,MARAL,Student,01 Jan 1993
+82,160508140,"Holape, Ninah",F,MARAL,Self Employed,19 May 1995
+83,160215907,"Hubbert, Flora",F,MARAL,Student,01 Jan 1987
+84,160232460,"Hule, Betty",F,MARAL,Household Duties,01 Jan 1984
+85,160227501,"Hule, Selina",F,MARAL,Student,01 Jan 1983
+86,160227357,"Hule, Tenis",F,MARAL,Household Duties,01 Jan 1979
+87,160232137,"Hule, Wile",F,MARAL,Household Duties,01 Jan 1976
+88,160246133,"Hurber, Fiona",F,MARAL,Student,01 Jan 1990
+89,160215897,"Hurbert, Nendo",F,MARAL,Household Duties,01 Jan 1959
+90,160220487,"Imbi, Mona",F,MARAL,Household Duties,01 Jan 1969
+91,160225173,"Indipine, Kepambo",F,MARAL,Household Duties,01 Jan 1974
+92,160215980,"Ipirawe, Adoino",F,MARAL,Housegirl,01 Jan 1959
+93,160224502,"Ipirawe, Mutame",F,MARAL,Household Duties,01 Jan 1965
+94,160119788,"Issac, Fredah",F,MARAL,Household Duties,01 Jan 1994
+95,160446999,"Jacky, Agetha",F,MARAL,,27 Apr 2004
+96,160119569,"Jacob, Charlyn",F,MARAL,Household Duties,01 Jan 1992
+97,160119571,"Jacob, Elizabeth",F,MARAL,Household Duties,01 Jan 1983
+98,160119791,"James, Jamina",F,MARAL,Student,16 Jul 1998
+99,160446917,"James, Linneth",F,MARAL,Student,20 Jan 1983
+100,160508144,"James, Wiri",F,MARAL,Student,28 Apr 2004
+101,160218984,"Jeffery, Anna",F,MARAL,Household Duties,01 Jan 1965
+102,160246136,"Jeffery, Jeffelyn",F,MARAL,Student,01 Jan 1993
+103,160446978,"Jepeth, Sheron",F,MARAL,Household Duties,31 Jul 1986
+104,160239332,"John, Grace",F,MARAL,Student,01 Jan 1993
+105,160446987,"John, Hadasha",F,MARAL,Student,28 Apr 2003
+106,160136682,"John, Hadassha",F,MARAL,Student,07 Sep 1997
+107,160215752,"John, Helen",F,MARAL,Household Duties,01 Jan 1976
+108,160508148,"John, Perena",F,MARAL,Subsistence Farmer,02 Apr 1996
+109,160217703,"John, Puiye",F,MARAL,Household Duties,01 Jan 1970
+110,160218483,"John, Rubame",F,MARAL,Nurse,01 Jan 1963
+111,160119586,"John, Shanel",F,MARAL,Student,08 Feb 1999
+112,160222356,"John, Vedy",F,MARAL,Student,01 Jan 1984
+113,160222354,"John, Veida",F,MARAL,Student,01 Jan 1981
+114,160238810,"John, Velma",F,MARAL,Student,01 Jan 1993
+115,160508150,"Jonah, Tellin",F,MARAL,Student,19 Oct 2000
+116,160508151,"Joshua, Joice",F,MARAL,Student,01 Feb 2000
+117,160217796,"June, Melody",F,MARAL,Store Keeper,01 Jan 1977
+118,160216543,"Kani, Doris",F,MARAL,Student,01 Jan 1989
+119,160215983,"Kani, Helen",F,MARAL,Student,01 Jan 1980
+120,160220501,"Kani, Melen",F,MARAL,Teacher,01 Jan 1966
+121,160446939,"Kani, Nichole",F,MARAL,Student,24 May 2000
+122,160215347,"Kanobo, Lara",F,MARAL,Household Duties,01 Jan 1967
+123,160238804,"Kanombo, Faith",F,MARAL,Student,01 Jan 1993
+124,160214085,"Kanombo, Nendo",F,MARAL,Typist,01 Jan 1970
+125,160215345,"Kanombo, Tope",F,MARAL,Farm worker,01 Jan 1937
+126,160210736,"Kari, Nape",F,MARAL,Household Duties,01 Jan 1969
+127,160508153,"Karoda, Sellin",F,MARAL,Unemployed,20 Oct 1990
+128,160225222,"Karoma, Dorothy",F,MARAL,Student,01 Jan 1990
+129,160227499,"Karoma, Jeneth",F,MARAL,Household Duties,01 Jan 1981
+130,160215012,"Karoma, Kololi",F,MARAL,Household Duties,01 Jan 1959
+131,160245983,"Karoma, Lynn",F,MARAL,Student,01 Jan 1990
+132,160225220,"Karoma, Nanimo",F,MARAL,Subsistence Farmer,01 Jan 1969
+133,160227498,"Karoma, Natasha",F,MARAL,Student,01 Jan 1981
+134,160225330,"Karoma, Pepo",F,MARAL,Subsistence Farmer,01 Jan 1946
+135,160220509,"Karoma, Saina",F,MARAL,Household Duties,01 Jan 1977
+136,160210987,"Karoma, Torambo",F,MARAL,Household Duties,01 Jan 1965
+137,160220485,"Kelembo, Marowa",F,MARAL,Household Duties,01 Jan 1967
+138,160220327,"Kelembo, Phile",F,MARAL,Household Duties,01 Jan 1940
+139,160446963,"Kenedy, Sendrah",F,MARAL,Student,12 Dec 2002
+140,160446970,"Kenedy, Tobina",F,MARAL,Student,02 May 2000
+141,160220350,"Kennedy, Kandiye",F,MARAL,Household Duties,01 Jan 1967
+142,160446966,"Kennedy, Lovelyn",F,MARAL,Student,01 Apr 2002
+143,160220352,"Kennedy, Monica",F,MARAL,Household Duties,01 Jan 1970
+144,160220354,"Kennedy, Roselyn",F,MARAL,Household Duties,01 Jan 1971
+145,160230860,"Kennedy, Tiwi",F,MARAL,Household Duties,01 Jan 1983
+146,160218978,"Kennedy, Verronica",F,MARAL,Student,01 Jan 1989
+147,160446901,"Kenneth, Jemica",F,MARAL,Student,28 Apr 2003
+148,160216535,"Kenneth, Kelen",F,MARAL,Household Duties,01 Jan 1981
+149,160216438,"Kenneth, Kepu",F,MARAL,Household Duties,01 Jan 1966
+150,160216442,"Kenneth, Norin",F,MARAL,Student,01 Jan 1987
+151,160245996,"Kenneth, Ruth",F,MARAL,Household Duties,01 Jan 1983
+152,160217812,"Keponge, Kandiki",F,MARAL,Subsistence Farmer,01 Jan 1983
+153,160216530,"Keponge, Racheal",F,MARAL,Subsistence Farmer,01 Jan 1986
+154,160210981,"Kera, Christina",F,MARAL,Student,01 Jan 1983
+155,160225226,"Kera, Emily",F,MARAL,Student,01 Jan 2000
+156,160225044,"Kera, Joan",F,MARAL,Student,01 Jan 1986
+157,160210220,"Kera, Judy",F,MARAL,Councillor,01 Jan 1957
+158,160232523,"Kera, Lyn",F,MARAL,Student,01 Jan 1985
+159,160232516,"Kera, Maggi",F,MARAL,Household Duties,01 Jan 1984
+160,160226400,"Kera, Melisa",F,MARAL,Student,01 Jan 1989
+161,160225225,"Kera, Nancy",F,MARAL,Household Duties,01 Jan 1961
+162,160224052,"Kera, Rita",F,MARAL,Student,01 Jan 1987
+163,160224496,"Kera, Rose",F,MARAL,Household Duties,01 Jan 1980
+164,160210223,"Kera, Wendy",F,MARAL,Engineer,01 Jan 1979
+165,160229693,"Keri, Heni",F,MARAL,Household Duties,01 Jan 1983
+166,160232000,"Keruma, Pelgaiye",F,MARAL,Household Duties,01 Jan 1981
+167,160119578,"Keven, Alice",F,MARAL,Household Duties,01 Jan 1981
+168,160222339,"Kiru, Tilipu",F,MARAL,Household Duties,01 Jan 1955
+169,160245803,"Klei, Natasha",F,MARAL,Student,01 Jan 1989
+170,160215902,"Koke, Yawini",F,MARAL,Household Duties,01 Jan 1948
+171,160508155,"Kome, Jenny",F,MARAL,Casual Worker,03 Nov 1993
+172,160246120,"Kondowa, Shemila",F,MARAL,Household Duties,01 Jan 1989
+173,160235917,"Konopu, Elsie",F,MARAL,Household Duties,01 Jan 1974
+174,160225161,"Kopel, Nani",F,MARAL,Household Duties,01 Jan 1946
+175,160218983,"Koyapu, Kodeia",F,MARAL,Household Duties,01 Jan 1943
+176,160225169,"Kukuru, Bembo",F,MARAL,Household Duties,01 Jan 1959
+177,160227512,"Kukuru, Diana",F,MARAL,Student,01 Jan 1984
+178,160232138,"Kukuru, Saki",F,MARAL,Household Duties,01 Jan 1978
+179,160227516,"Kukuru, Wendy",F,MARAL,Household Duties,01 Jan 1980
+180,160232141,"Kuleko, Josephine",F,MARAL,Household Duties,01 Jan 1980
+181,160119549,"Kuleko, Rita",F,MARAL,Student,16 Mar 1999
+182,160215755,"Kundi, Monica",F,MARAL,Sales Women,01 Jan 1968
+183,160222342,"Kunuma, Betty",F,MARAL,Housegirl,01 Jan 1974
+184,160222362,"Kunuma, Easter",F,MARAL,Housegirl,01 Jan 1987
+185,160222360,"Kunuma, Heli",F,MARAL,Housegirl,01 Jan 1982
+186,160222341,"Kunuma, Jenny",F,MARAL,Household Duties,01 Jan 1956
+187,160218477,"Kunuma, Martha",F,MARAL,Housegirl,01 Jan 1984
+188,160119553,"Kurupu, Giame",F,MARAL,Subsistence Farmer,23 Mar 1980
+189,160446949,"Kurupu, Kiame",F,MARAL,Subsistence Farmer,12 Sep 1969
+190,160220360,"Lawerence, Blondi",F,MARAL,Typist,01 Jan 1970
+191,160246135,"Lawrence, Abbygale",F,MARAL,Student,01 Jan 1993
+192,160220356,"Lembo, Bembo",F,MARAL,Household Duties,01 Jan 1962
+193,160218498,"Lembo, Cathy",F,MARAL,Housegirl,01 Jan 1984
+194,160238808,"Lembo, Christina",F,MARAL,Household Duties,01 Jan 1987
+195,160236064,"Lembo, Christy",F,MARAL,Student,01 Jan 1990
+196,160236063,"Lembo, Loska",F,MARAL,Student,01 Jan 1989
+197,160446968,"Lembo, Tenny",F,MARAL,Student,16 Apr 2002
+198,160221964,"Lepi, Merry",F,MARAL,Store Keeper,01 Jan 1965
+199,160220324,"Lepi, Meteles",F,MARAL,Student,01 Jan 1982
+200,160446979,"Lerry, Jenny",F,MARAL,Student,20 Aug 1980
+201,160446900,"Lici, Nali",F,MARAL,Student,28 Apr 2003
+202,160222348,"Limbiye, Emolyn",F,MARAL,Household Duties,01 Jan 1972
+203,160222503,"Limbiye, Kuli",F,MARAL,Household Duties,01 Jan 1953
+204,160222350,"Limbiye, Leana",F,MARAL,Housegirl,01 Jan 1988
+205,160216405,"Limbiye, Luwini",F,MARAL,Housegirl,01 Jan 1986
+206,160216104,"Limbiye, Morin",F,MARAL,Student,01 Jan 1987
+207,160136667,"Limbiye, Rhonda",F,MARAL,Student,24 Mar 1998
+208,160215981,"Lombaiye, Vero",F,MARAL,Cleaner,01 Jan 1985
+209,160225164,"Lomongo, Melody",F,MARAL,Subsistence Farmer,01 Jan 1969
+210,160225175,"Lomongo, Tiye",F,MARAL,Subsistence Farmer,01 Jan 1966
+211,160229812,"Lopa, Taru",F,MARAL,Household Duties,01 Jan 1980
+212,160225051,"Lopeke, Popo",F,MARAL,Household Duties,01 Jan 1963
+213,160225219,"Lopeke, Priscila",F,MARAL,Student,01 Jan 1987
+214,160224271,"Lopuwe, Lilly",F,MARAL,Student,01 Jan 1988
+215,160446951,"Lopuwe, Wendy",F,MARAL,Subsistence Farmer,12 Feb 1980
+216,160225167,"Ltingi, Grace",F,MARAL,Household Duties,01 Jan 1980
+217,160137934,"Luther, Jenny",F,MARAL,Household Duties,01 Jan 1980
+218,160220881,"Maginde, Tindy",F,MARAL,Subsistence Farmer,01 Jan 1964
+219,160226598,"Maginde, Vavine",F,MARAL,Student,01 Jan 1958
+220,160446925,"Maki, Regina",F,MARAL,Student,10 Jun 1999
+221,160119581,"Mark, Alice",F,MARAL,Household Duties,01 Jan 1975
+222,160119574,"Mark, Janealla",F,MARAL,Student,06 Feb 1996
+223,160446892,"Mark, Jossie",F,MARAL,Household Duties,04 Jun 2000
+224,160212369,"Mark, Potilambo",F,MARAL,Household Duties,01 Jan 1961
+225,160225057,"Mark, Venisa",F,MARAL,Household Duties,01 Jan 1986
+226,160245978,"Marowa, Ester",F,MARAL,Student,01 Jan 1993
+227,160225147,"Marowa, Pereyame",F,MARAL,Household Duties,01 Jan 1947
+228,160119708,"Mathew, Fredah",F,MARAL,Household Duties,17 Sep 1997
+229,160446929,"Mathew, Fredah",F,MARAL,Household Duties,11 Apr 1999
+230,160217958,"Matoli, Magoino",F,MARAL,Household Duties,01 Jan 1932
+231,160216545,"Matoli, Mayambo",F,MARAL,Subsistence Farmer,01 Jan 1978
+232,160217936,"Matoli, Pett",F,MARAL,Typist,01 Jan 1967
+233,160446905,"Meku, Yakela",F,MARAL,Student,06 Jan 1950
+234,160229832,"Melepa, Nancy",F,MARAL,Household Duties,01 Jan 1980
+235,160229688,"Melepa, Palakome",F,MARAL,Household Duties,01 Jan 1978
+236,160245812,"Mendel, Anna",F,MARAL,Student,01 Jan 1992
+237,160222587,"Mendel, Eli",F,MARAL,Student,01 Jan 1989
+238,160222436,"Mendel, Kini",F,MARAL,Household Duties,01 Jan 1961
+239,160224420,"Mendel, Waki",F,MARAL,Not Specified,01 Jan 1975
+240,160218297,"Michael, Anna",F,MARAL,Household Duties,01 Jan 1973
+241,160119547,"Michael, Jessica",F,MARAL,Student,27 Feb 1999
+242,160119566,"Michael, Selestine",F,MARAL,Household Duties,01 Jan 1987
+243,160225154,"Mike, Jenny",F,MARAL,Household Duties,01 Jan 1970
+244,160446909,"Mike, Joice",F,MARAL,Student,28 Apr 2003
+245,160239341,"Mike, Mercy",F,MARAL,Student,01 Jan 1993
+246,160238803,"Mikimik, Lucy",F,MARAL,Household Duties,01 Jan 1978
+247,160119538,"Mindili, Regina",F,MARAL,Household Duties,13 Jan 1993
+248,160119795,"Mini, Cathy",F,MARAL,Household Duties,01 Jan 1993
+249,160446894,"Mini, Cathy",F,MARAL,Household Duties,06 Jul 1992
+250,160137930,"Mini, Lyn",F,MARAL,Student,16 May 1998
+251,160119794,"Miwa, Jacklyn",F,MARAL,Household Duties,01 Jan 1990
+252,160245809,"Moro, Carol",F,MARAL,Student,01 Jan 1993
+253,160136674,"Moro, Ebi",F,MARAL,Student,12 Apr 1999
+254,160446891,"Moro, Frudence",F,MARAL,Student,28 Apr 2004
+255,160210888,"Moro, Yoti",F,MARAL,Store Keeper,01 Jan 1987
+256,160214004,"Mote, Janeth",F,MARAL,Student,01 Jan 1989
+257,160245998,"Mote, Jerolyn",F,MARAL,Student,01 Jan 1991
+258,160214003,"Mote, Tuweyo",F,MARAL,Household Duties,01 Jan 1962
+259,160220506,"Nadiye, Kanambo",F,MARAL,Subsistence Farmer,01 Jan 1958
+260,160224379,"Nadiye, Monica",F,MARAL,Student,01 Jan 1990
+261,160222595,"Nadiye, Nino",F,MARAL,Household Duties,01 Jan 1960
+262,160222596,"Nadiye, Paiye",F,MARAL,Housegirl,01 Jan 1969
+263,160224270,"Nadiye, Pala",F,MARAL,Household Duties,01 Jan 1957
+264,160215896,"Nadiye, Ranita",F,MARAL,Student,01 Jan 1990
+265,160220343,"Nadiye, Tereno",F,MARAL,Cleaner,01 Jan 1987
+266,160235923,"Naitape, Lynn",F,MARAL,Household Duties,01 Jan 1971
+267,160236066,"Naitape, Mangalina",F,MARAL,Student,01 Jan 1993
+268,160219265,"Naitape, Pilembo",F,MARAL,Subsistence Farmer,01 Jan 1970
+269,160223893,"Nale, Kopame",F,MARAL,Household Duties,01 Jan 1969
+270,160226257,"Nale, Maria",F,MARAL,Household Duties,01 Jan 1967
+271,160226393,"Nale, Mary",F,MARAL,Household Duties,01 Jan 1971
+272,160226383,"Nale, Sina",F,MARAL,Household Duties,01 Jan 1981
+273,160227935,"Nandme, Freda",F,MARAL,Household Duties,01 Jan 1983
+274,160238809,"Napa, Debra",F,MARAL,Student,01 Jan 1990
+275,160218476,"Napa, Veronica",F,MARAL,Household Duties,01 Jan 1970
+276,160222504,"Nelson, Didi",F,MARAL,Household Duties,01 Jan 1957
+277,160220484,"Nelson, Easther",F,MARAL,Household Duties,01 Jan 1975
+278,160218482,"Nelson, Jacklyn",F,MARAL,Student,01 Jan 1990
+279,160220952,"Nelson, Joyce",F,MARAL,Household Duties,01 Jan 1980
+280,160225050,"Nema, Jessica",F,MARAL,Student,01 Jan 1990
+281,160119554,"Nema, Niomi",F,MARAL,Student,02 Mar 1999
+282,160215355,"Nepul, Pepo",F,MARAL,Household Duties,01 Jan 1945
+283,160446896,"Newman, Sharodine",F,MARAL,Student,06 Sep 1999
+284,160220723,"Nickles, Apuke",F,MARAL,Household Duties,01 Jan 1977
+285,160224266,"Nige, Christina",F,MARAL,Secretary,01 Jan 1987
+286,160215893,"Ninge, Diye",F,MARAL,Household Duties,01 Jan 1980
+287,160447001,"Ninge, Mary",F,MARAL,Household Duties,14 Mar 1997
+288,160215977,"Nipul, Cathy",F,MARAL,Student,01 Jan 1987
+289,160215892,"Nipul, Hellen",F,MARAL,Student,01 Jan 1989
+290,160215357,"Nipul, Kengena",F,MARAL,Housegirl,01 Jan 1983
+291,160119583,"Nobert, Rachael",F,MARAL,Student,05 Mar 1999
+292,160245811,"Nobert, Rachael",F,MARAL,Household Duties,01 Jan 1975
+293,160446899,"Noborai, Kepe",F,MARAL,Student,05 May 1983
+294,160446943,"Nombert, Quidah",F,MARAL,Student,27 Jun 1999
+295,160446942,"Nombert, Viedah",F,MARAL,Student,27 Jun 1999
+296,160137933,"Nombirai, Beverly",F,MARAL,Household Duties,01 Jan 1996
+297,160245808,"Nopundul, Lucy",F,MARAL,Student,01 Jan 1993
+298,160238805,"Oki, Mone",F,MARAL,Household Duties,01 Jan 1980
+299,160213165,"Olope, Yulino",F,MARAL,Household Duties,01 Jan 1960
+300,160236068,"Ongonda, Rose",F,MARAL,Subsistence Farmer,01 Jan 1990
+301,160225166,"Ongonda, Yuno",F,MARAL,Household Duties,01 Jan 1960
+302,160232009,"Onope, Janet",F,MARAL,Driver,01 Jan 1980
+303,160232006,"Opa, Bingeme",F,MARAL,Household Duties,01 Jan 1979
+304,160217953,"Opa, Kalapunde",F,MARAL,Household Duties,01 Jan 1931
+305,160217954,"Opa, Teno",F,MARAL,Subsistence Farmer,01 Jan 1976
+306,160446984,"Paul, Daulina",F,MARAL,Student,09 Sep 2002
+307,160119790,"Paul, Regina",F,MARAL,Household Duties,01 Jan 1995
+308,160222589,"Pawembo, Lavina",F,MARAL,Household Duties,01 Jan 1970
+309,160227202,"Pepena, Carolyn",F,MARAL,Student,01 Jan 1984
+310,160227510,"Pepena, Kina",F,MARAL,Household Duties,01 Jan 1980
+311,160227513,"Pepena, Noive",F,MARAL,Household Duties,01 Jan 1980
+312,160446975,"Peter, Anna",F,MARAL,Household Duties,06 Dec 1970
+313,160446932,"Peter, Entiamon",F,MARAL,Student,18 Jun 2000
+314,160136670,"Peter, Febi",F,MARAL,Student,12 Apr 1999
+315,160220507,"Peter, Lobili",F,MARAL,Household Duties,01 Jan 1968
+316,160246003,"Peter, Malita",F,MARAL,Student,01 Jan 1993
+317,160216526,"Peter, Priscilla",F,MARAL,Household Duties,01 Jan 1972
+318,160217865,"Peter, Timano",F,MARAL,Household Duties,01 Jan 1970
+319,160246038,"Petrus, Julie",F,MARAL,Student,01 Jan 1993
+320,160217808,"Pewembo, Rosa",F,MARAL,Subsistence Farmer,01 Jan 1989
+321,160119560,"Peya, Jobina",F,MARAL,Household Duties,12 Oct 1998
+322,160446958,"Peya, Parade",F,MARAL,Household Duties,21 Apr 1962
+323,160119709,"Philip, Amalyn",F,MARAL,Household Duties,12 Dec 1995
+324,160215176,"Philipus, Joyce",F,MARAL,Household Duties,01 Jan 1976
+325,160119698,"Pinje, Ambuwape",F,MARAL,Subsistence Farmer,01 Jan 1966
+326,160215904,"Pumbo, Angela",F,MARAL,Typist,01 Jan 1981
+327,160136684,"Pumbo, Kani",F,MARAL,Household Duties,01 Jan 1967
+328,160215974,"Pumbo, Martina",F,MARAL,Student,01 Jan 1987
+329,160215975,"Pumbo, Meleni",F,MARAL,Student,01 Jan 1990
+330,160224185,"Punde, Lepoka",F,MARAL,Student,01 Jan 1982
+331,160224348,"Punde, Lewa",F,MARAL,Student,01 Jan 1988
+332,160224166,"Punde, Pulembo",F,MARAL,Household Duties,01 Jan 1943
+333,160246137,"Rambuli, Esther",F,MARAL,Student,01 Jan 1993
+334,160229686,"Rambuli, Lina",F,MARAL,Household Duties,01 Jan 1980
+335,160225165,"Rambuli, Liye",F,MARAL,Store Keeper,01 Jan 1976
+336,160225162,"Rambuli, Puiye",F,MARAL,Household Duties,01 Jan 1937
+337,160246122,"Rambuli, Susie",F,MARAL,Student,01 Jan 1991
+338,160229660,"Rambuli, Tero",F,MARAL,Household Duties,01 Jan 1978
+339,160217684,"Rambuli, Wena",F,MARAL,Household Duties,01 Jan 1961
+340,160223901,"Rema, Bepi",F,MARAL,Household Duties,01 Jan 1968
+341,160226384,"Rero, Mune",F,MARAL,Household Duties,01 Jan 1968
+342,160215982,"Rero, Puiye",F,MARAL,Household Duties,01 Jan 1968
+343,160508166,"Robert, Bencila",F,MARAL,Student,22 Mar 2001
+344,160508171,"Robert, Kinem",F,MARAL,Household Duties,09 Apr 1998
+345,160508172,"Robert, Lucy",F,MARAL,Self Employed,19 Dec 1990
+346,160508177,"Robin, Morin",F,MARAL,Household Duties,26 Oct 2001
+347,160220341,"Rosu, Kurumano",F,MARAL,Household Duties,01 Jan 1954
+348,160220345,"Rosu, Line",F,MARAL,Housegirl,01 Jan 1973
+349,160119789,"Sabastan, Esther",F,MARAL,Household Duties,01 Jan 1997
+350,160216409,"Sailes, Martina",F,MARAL,Household Duties,01 Jan 1980
+351,160136680,"Sam, Pami",F,MARAL,Household Duties,01 Jan 1990
+352,160119580,"Sam, Ronica",F,MARAL,Pastor,01 Jan 1975
+353,160446893,"Samson, Serah",F,MARAL,Student,07 Oct 1985
+354,160446991,"Simon, Cathy",F,MARAL,Student,14 Apr 2004
+355,160220492,"Simon, Cathy",F,MARAL,Student,14 May 2002
+356,160245970,"Simon, Eli",F,MARAL,Household Duties,01 Jan 1987
+357,160446895,"Simon, Fredah",F,MARAL,Student,08 Oct 1996
+358,160235921,"Simon, Rachael",F,MARAL,Household Duties,01 Jan 1987
+359,160446981,"Simon, Sementha",F,MARAL,Student,21 May 2002
+360,160508180,"Sol, Anna",F,MARAL,Household Duties,03 Oct 2001
+361,160508182,"Sterly, Tama",F,MARAL,Unemployed,01 Nov 1999
+362,160220515,"Tagune, Tunda",F,MARAL,Household Duties,01 Jan 1964
+363,160215908,"Tana, Lariyame",F,MARAL,Household Duties,01 Jan 1967
+364,160446954,"Tapondol, Christy",F,MARAL,Student,05 Apr 1981
+365,160229652,"Tapondol, Keri",F,MARAL,Household Duties,01 Jan 1981
+366,160229653,"Tapondol, Miriam",F,MARAL,Store Keeper,01 Jan 1983
+367,160232001,"Tapondol, Penga",F,MARAL,Typist,01 Jan 1983
+368,160446897,"Tapondol, Ureliah",F,MARAL,Student,28 Apr 2003
+369,160508183,"Tara, Lema",F,MARAL,Student,12 Dec 2000
+370,160227944,"Temane, Roman",F,MARAL,Household Duties,01 Jan 1979
+371,160215064,"Temane, Uriyame",F,MARAL,Household Duties,01 Jan 1956
+372,160446957,"Tendeke, Jenny",F,MARAL,Student,25 Apr 1994
+373,160119540,"Tenis, Repas",F,MARAL,Household Duties,01 Jan 1990
+374,160218283,"Teringi, Noile",F,MARAL,Housegirl,01 Jan 1967
+375,160218511,"Teringi, Onogambo",F,MARAL,Household Duties,01 Jan 1960
+376,160225153,"Thomas, Lucy",F,MARAL,Student,01 Jan 1980
+377,160226597,"Thomas, Tecy",F,MARAL,Student,01 Jan 1980
+378,160225171,"Til, Melyn",F,MARAL,Subsistence Farmer,01 Jan 1976
+379,160222434,"Tindalu, Helen",F,MARAL,Housegirl,01 Jan 1988
+380,160239334,"Tindalu, Nogolapo",F,MARAL,Household Duties,01 Jan 1976
+381,160222433,"Tindalu, One",F,MARAL,Housegirl,01 Jan 1981
+382,160508184,"Tiriwal, Doris",F,MARAL,Household Duties,23 Nov 1988
+383,160508185,"Tiriwal, Esther",F,MARAL,Self Employed,24 Feb 2000
+384,160508190,"Tiriwal, Marlin",F,MARAL,Household Duties,05 Nov 2001
+385,160214980,"Tiwi, Kupini",F,MARAL,Household Duties,01 Jan 1962
+386,160214981,"Tiwi, Nora",F,MARAL,Household Duties,01 Jan 1976
+387,160224370,"Tiye, Melisa",F,MARAL,Student,01 Jan 1990
+388,160224369,"Tiye, Rose",F,MARAL,Household Duties,01 Jan 1966
+389,160210893,"Tiyewe, Bola",F,MARAL,Housegirl,01 Jan 1967
+390,160210891,"Tiyewe, Kempambo",F,MARAL,Subsistence Farmer,01 Jan 1945
+391,160215910,"Tom, Grace",F,MARAL,Student,01 Jan 1990
+392,160215900,"Tom, Jenny",F,MARAL,Subsistence Farmer,01 Jan 1950
+393,160446935,"Tom, Odera",F,MARAL,Student,27 Jul 1999
+394,160216434,"Tom, Raide",F,MARAL,Household Duties,01 Jan 1971
+395,160216436,"Tom, Roina",F,MARAL,Household Duties,01 Jan 1972
+396,160446936,"Tom, Zelwina",F,MARAL,Student,25 Apr 2004
+397,160119582,"Tomano, Mary",F,MARAL,Household Duties,05 Jan 1980
+398,160136673,"Ton, Rosa",F,MARAL,Household Duties,01 Jan 1991
+399,160215191,"Tope, Fiona",F,MARAL,Student,01 Jan 1990
+400,160215346,"Tope, Ltepul",F,MARAL,Household Duties,01 Jan 1964
+401,160214984,"Tope, Wana",F,MARAL,Household Duties,01 Jan 1980
+402,160119572,"Topu, Agnes",F,MARAL,Sales Women,01 Jan 1989
+403,160508195,"Toropo, Gelena",F,MARAL,Student,11 Jun 2000
+404,160508196,"Triwal, Emma",F,MARAL,Household Duties,08 Mar 1991
+405,160508197,"Tukuple, Kename",F,MARAL,Unemployed,19 Oct 1990
+406,160508198,"Tulu, Ginah",F,MARAL,Subsistence Farmer,27 Feb 1999
+407,160215756,"Tumbulu, Kola",F,MARAL,Housegirl,01 Jan 1976
+408,160215899,"Tumbulu, Kumbiye",F,MARAL,Household Duties,01 Jan 1933
+409,160215909,"Tumbulu, Temo",F,MARAL,Housegirl,01 Jan 1969
+410,160210989,"Turi, Anna",F,MARAL,Housegirl,01 Jan 1976
+411,160222588,"Tuweyo, Agnes",F,MARAL,Housegirl,01 Jan 1988
+412,160245826,"Tuweyo, Anna",F,MARAL,Household Duties,01 Jan 1970
+413,160446902,"Vovolo, Emily",F,MARAL,Student,05 May 1984
+414,160446907,"Vovolo, Marijoe",F,MARAL,Student,23 Jan 2004
+415,160119563,"Waka, Evenica",F,MARAL,Household Duties,01 Jan 1997
+416,160238922,"Waka, Leah",F,MARAL,Student,01 Jan 1993
+417,160446920,"Walter, Martina",F,MARAL,Student,28 Feb 2004
+418,160215002,"Walter, Taket",F,MARAL,Household Duties,01 Jan 1972
+419,160239335,"Wane, Jacklyn",F,MARAL,Household Duties,01 Jan 1992
+420,160446937,"Wane, Jerolyn",F,MARAL,Student,12 Jun 1996
+421,160220333,"Wane, Lea",F,MARAL,Household Duties,01 Jan 1976
+422,160215003,"Wange, Koinda",F,MARAL,Household Duties,01 Jan 1946
+423,160213005,"Wange, Mombo",F,MARAL,Household Duties,01 Jan 1969
+424,160232008,"Wange, Onope",F,MARAL,Household Duties,01 Jan 1980
+425,160216413,"Wanis, Mandowa",F,MARAL,Student,01 Jan 1984
+426,160245999,"Wanis, Mopune",F,MARAL,Household Duties,01 Jan 1990
+427,160218427,"Wanis, Nency",F,MARAL,Household Duties,01 Jan 1967
+428,160215059,"Wanis, Wambiro",F,MARAL,Housegirl,01 Jan 1986
+429,160225158,"Wanti, Ruth",F,MARAL,Subsistence Farmer,01 Jan 1971
+430,160446916,"Wareke, Lawa",F,MARAL,Student,04 Apr 1950
+431,160239327,"Wataano, Lobili",F,MARAL,Household Duties,01 Jan 1960
+432,160239328,"Watano, Margaret",F,MARAL,Household Duties,01 Jan 1979
+433,160217933,"Watano, Mudiame",F,MARAL,Household Duties,01 Jan 1974
+434,160225068,"Wedo, Julie",F,MARAL,Household Duties,01 Jan 1971
+435,160232518,"Wedo, Lily",F,MARAL,Store Keeper,01 Jan 1984
+436,160232517,"Wepo, Joyce",F,MARAL,Household Duties,01 Jan 1983
+437,160224362,"Wepo, Yakipuno",F,MARAL,Household Duties,01 Jan 1958
+438,160227365,"Were, Aiyes",F,MARAL,Household Duties,01 Jan 1973
+439,160119564,"Were, Claire",F,MARAL,Household Duties,01 Jan 1981
+440,160227382,"Were, Kondol balo",F,MARAL,Household Duties,01 Jan 1982
+441,160222428,"Were, Kuku",F,MARAL,Household Duties,01 Jan 1976
+442,160227511,"Were, Lily",F,MARAL,Household Duties,01 Jan 1980
+443,160227390,"Were, Tonge",F,MARAL,Household Duties,01 Jan 1978
+444,160226553,"Were, Undino",F,MARAL,Household Duties,01 Jan 1981
+445,160216558,"Williem, Bepy",F,MARAL,Household Duties,01 Jan 1965
+446,160220959,"Williem, Delma",F,MARAL,Student,01 Jan 2000
+447,160222429,"Wiltu, Yupula",F,MARAL,Household Duties,01 Jan 1961
+448,160446923,"Win, Malintha",F,MARAL,Student,01 Feb 2004
+449,160446922,"Win, Naomi",F,MARAL,Student,19 Oct 1978
+450,160508200,"Win, Telimah",F,MARAL,Self Employed,07 Apr 1999
+451,160446906,"Wiru, Cilla",F,MARAL,Student,04 Jun 2001
+452,160219279,"Wiru, Lucy",F,MARAL,Student,01 Jan 1988
+453,160446998,"Wiwa, Evelyn",F,MARAL,Household Duties,16 Apr 1992
+454,160235919,"Yakili, Belinda",F,MARAL,Student,01 Jan 1990
+455,160235922,"Yakili, Dolly",F,MARAL,Student,01 Jan 1993
+456,160136678,"Yakili, Fiona",F,MARAL,Household Duties,01 Jan 1987
+457,160219284,"Yakili, Kanoli",F,MARAL,Subsistence Farmer,01 Jan 1970
+458,160137932,"Yakili, Leah",F,MARAL,Household Duties,08 Jun 1996
+459,160137931,"Yakili, Mati",F,MARAL,Student,16 Nov 1997
+460,160446904,"Yakili, Mele",F,MARAL,Student,06 Jan 2004
+461,160218438,"Yakili, Wapeino",F,MARAL,Subsistence Farmer,01 Jan 1971
+462,160220340,"Yombi, Kupa",F,MARAL,Housegirl,01 Jan 1986
+463,160220339,"Yombi, Momo",F,MARAL,Household Duties,01 Jan 1957
+464,160227201,"Yopolo, Hellen",F,MARAL,Household Duties,01 Jan 1979
+465,160227223,"Yopolo, Joy",F,MARAL,Household Duties,01 Jan 1977
+466,160226556,"Yopolo, Lina",F,MARAL,Student,01 Jan 1987
+467,160229845,"Yopolo, Oiye",F,MARAL,Household Duties,01 Jan 1981
+468,160225176,"Yopolo, Penga",F,MARAL,Subsistence Farmer,01 Jan 1967
+469,160227371,"Yopolo, Wapuneme",F,MARAL,Household Duties,01 Jan 1970
+470,160446927,"Yuanis, Hetna",F,MARAL,Student,02 Jan 2004
+471,160213004,"Yunu, Puno",F,MARAL,Household Duties,01 Jan 1970
+472,160446919,"Yunu, Robinah",F,MARAL,Student,28 Apr 2003
+473,160217706,"Aiko, Tonny",M,MARAL,Subsistence Farmer,01 Jan 1964
+474,160216522,"Albert, Samson",M,MARAL,Student,01 Jan 1988
+475,160217787,"Albert, Samuel",M,MARAL,Student,01 Jan 1990
+476,160136669,"Albert, Semion",M,MARAL,Student,12 Oct 1993
+477,160214986,"Alen, Ali",M,MARAL,Student,01 Jan 1976
+478,160214987,"Alen, Douglas",M,MARAL,Mechanic,01 Jan 1979
+479,160224273,"Alo, Joseph",M,MARAL,Security,01 Jan 1965
+480,160232526,"Alo, Thomas",M,MARAL,Subsistence Farmer,01 Jan 1970
+481,160222437,"Alo, Tuweyo",M,MARAL,Peace Officer,01 Jan 1954
+482,160213008,"Alo, Waka",M,MARAL,Subsistence Farmer,01 Jan 1950
+483,160446928,"Andiye, Yoke",M,MARAL,Student,28 Apr 2003
+484,160224500,"Andrew, Francis",M,MARAL,Student,01 Jan 1985
+485,160232547,"Andrew, Idi",M,MARAL,Machinist,01 Jan 2000
+486,160224498,"Andrew, Mark",M,MARAL,Clerk,01 Jan 1970
+487,160224428,"Andrew, Paul",M,MARAL,Houseboy,01 Jan 1981
+488,160224429,"Andrew, Steven",M,MARAL,Student,01 Jan 1987
+489,160446985,"Andrew, Venon",M,MARAL,Student,04 Apr 2003
+490,160215898,"Ange, Miriye",M,MARAL,Subsistence Farmer,01 Jan 1931
+491,160119579,"Apuka, Sam",M,MARAL,Pastor,01 Jan 1967
+492,160230872,"Apurel, Joe",M,MARAL,Soldier,01 Jan 1978
+493,160508121,"Apurel, Mexico",M,MARAL,Student,29 Sep 1989
+494,160224366,"Auta, Alex",M,MARAL,Driver,01 Jan 1956
+495,160446952,"Ben, Bashley",M,MARAL,Public Servant,12 May 1982
+496,160136677,"Ben, Isaiah",M,MARAL,Student,06 Apr 1999
+497,160446956,"Buka, Kuti",M,MARAL,Student,15 Feb 2004
+498,160217783,"Bune, Albert",M,MARAL,Pastor,01 Jan 1965
+499,160218441,"Bune, Don",M,MARAL,Teacher,01 Jan 1965
+500,160216549,"Bune, Keponge",M,MARAL,Subsistence Farmer,01 Jan 1935
+501,160227947,"Bune, Timon",M,MARAL,Public Servant,01 Jan 1980
+502,160508123,"Daimen, Bon",M,MARAL,Student,14 Jul 2000
+503,160227507,"Daniel, Danni",M,MARAL,Subsistence Farmer,01 Jan 1984
+504,160227504,"Daniel, Erike",M,MARAL,Student,01 Jan 1982
+505,160232139,"Daniel, Mika",M,MARAL,Subsistence Farmer,01 Jan 1979
+506,160508129,"David, Junior",M,MARAL,Student,02 Mar 2001
+507,160446994,"Dominic, Jerry",M,MARAL,Student,16 Jun 2001
+508,160446993,"Dominic, Nema",M,MARAL,Student,06 Jul 2002
+509,160119539,"Don, Engestene",M,MARAL,Teacher,05 Sep 1997
+510,160218464,"Don, Eugin",M,MARAL,Student,01 Jan 1980
+511,160246018,"Donald, Pascal",M,MARAL,Student,01 Jan 1982
+512,160220495,"Doni, Simon",M,MARAL,Student,01 Jan 1987
+513,160239337,"Donnie, Peter",M,MARAL,Student,01 Jan 1990
+514,160239338,"Donnie, Puiye",M,MARAL,Student,01 Jan 1993
+515,160508132,"Dul, Job",M,MARAL,Student,09 May 2000
+516,160508134,"Dul, Samuel",M,MARAL,Student,09 Apr 2001
+517,160508135,"Dul, Topi",M,MARAL,Self Employed,08 Aug 1999
+518,160508136,"Dul, Topson",M,MARAL,Self Employed,09 Oct 1997
+519,160446967,"Edmond, Bendecit",M,MARAL,Student,05 May 2002
+520,160213161,"Edmond, Elaizah",M,MARAL,Student,01 Jan 1980
+521,160119565,"Edmond, John",M,MARAL,Student,15 Nov 1992
+522,160215359,"Edmond, Jovina",M,MARAL,Student,01 Jan 1990
+523,160215358,"Edmond, Michael",M,MARAL,Engineer,01 Jan 1980
+524,160213162,"Edmond, Peterson",M,MARAL,Student,01 Jan 1989
+525,160224269,"Eka, Alexander",M,MARAL,Student,01 Jan 1989
+526,160119577,"Eka, Kelep",M,MARAL,Student,01 Jul 1997
+527,160218981,"Eke, Amos",M,MARAL,Driver,01 Jan 1975
+528,160119551,"Eke, Jayson",M,MARAL,Student,12 Dec 1997
+529,160446933,"Eke, Samuel",M,MARAL,Student,18 Apr 1999
+530,160136675,"Eke, Semion",M,MARAL,Student,13 Apr 1999
+531,160508137,"Erick, Dickson",M,MARAL,Student,10 May 1995
+532,160119585,"Fabian, Ronny",M,MARAL,Clerk,14 Jun 1980
+533,160136666,"Gemo, Lenox",M,MARAL,Student,22 May 1997
+534,160508138,"Gilbert, Melen",M,MARAL,Unemployed,28 Oct 2003
+535,160508139,"Glen, Giltford",M,MARAL,Student,15 Jul 2001
+536,160217798,"Glipu, Sailes",M,MARAL,Student,01 Jan 1978
+537,160119703,"Glipu, Semion",M,MARAL,Welder,12 Sep 1991
+538,160446921,"Glipu, Shadrach",M,MARAL,Student,06 Jan 2004
+539,160217792,"Glipu, Simon",M,MARAL,Teacher,01 Jan 1986
+540,160229811,"Hule, Maki",M,MARAL,Subsistence Farmer,01 Jan 1982
+541,160229810,"Hule, Mark",M,MARAL,Subsistence Farmer,01 Jan 1980
+542,160227502,"Hule, Tande",M,MARAL,Student,01 Jan 1986
+543,160246119,"Hurbert, Fredrick",M,MARAL,Student,01 Jan 1993
+544,160136668,"Indipine, Joel",M,MARAL,Subsistence Farmer,15 Jul 1994
+545,160246134,"Indipine, Jonathan",M,MARAL,Student,01 Jan 1993
+546,160215901,"Ipirawe, Pumbo",M,MARAL,Soldier,01 Jan 1956
+547,160224274,"Ipirawe, Wane",M,MARAL,Manager,01 Jan 2000
+548,160225066,"Ipirawe, Wepo",M,MARAL,Aid Post Orderly,01 Jan 1971
+549,160508141,"Jackson, Sosi",M,MARAL,Subsistence Farmer,10 Mar 2000
+550,160136683,"Jacob, Maxie",M,MARAL,Student,01 Jan 1996
+551,160119568,"Jacob, Mike",M,MARAL,Student,01 Jan 1993
+552,160245802,"Jacob, Moriis",M,MARAL,Subsistence Farmer,01 Jan 1993
+553,160508142,"Jamen, Wasane",M,MARAL,Student,13 Dec 2000
+554,160136685,"James, Damien",M,MARAL,Student,01 Feb 1999
+555,160508143,"James, James",M,MARAL,Student,02 Mar 2000
+556,160119573,"James, Purum",M,MARAL,Subsistence Farmer,01 Jan 1994
+557,160446890,"John, Inoch",M,MARAL,Student,06 Nov 1998
+558,160119705,"John, Jerol",M,MARAL,Student,16 Aug 1996
+559,160508145,"John, Johnson",M,MARAL,Subsistence Farmer,06 Feb 1999
+560,160508146,"John, Johnson",M,MARAL,Student,23 Nov 1999
+561,160508147,"John, Markson",M,MARAL,Student,04 Oct 2000
+562,160220347,"John, Nicky",M,MARAL,Subsistence Farmer,01 Jan 1981
+563,160446990,"John, Simon",M,MARAL,Student,10 Jan 2004
+564,160222358,"John, Venard",M,MARAL,Student,24 Sep 1988
+565,160236062,"John, Vincent",M,MARAL,Student,01 Jan 1990
+566,160508149,"Johnson, Poli",M,MARAL,Student,09 Mar 2003
+567,160508152,"Joshua, Simon",M,MARAL,Student,04 Feb 2001
+568,160225328,"Kakere, Nema",M,MARAL,Health Officer,01 Jan 1964
+569,160218980,"Kalipu, Eke",M,MARAL,Subsistence Farmer,01 Jan 1951
+570,160446976,"Kambu, Leron",M,MARAL,Student,14 Apr 2001
+571,160136671,"Kanekane, Dupi",M,MARAL,Subsistence Farmer,15 Mar 1990
+572,160246000,"Kani, Faython",M,MARAL,Not Specified,01 Jan 1992
+573,160245979,"Kani, Kennedy",M,MARAL,Student,01 Jan 1990
+574,160446940,"Kani, Laiden",M,MARAL,Student,15 Apr 2004
+575,160216555,"Kani, Manuel",M,MARAL,Student,01 Jan 1987
+576,160119556,"Kani, Ryan",M,MARAL,Student,25 Feb 1999
+577,160215188,"Kanombo, Bonny",M,MARAL,Welder,01 Jan 1966
+578,160215184,"Kanombo, Tukundo",M,MARAL,Farm worker,01 Jan 1960
+579,160215001,"Kanombo, Walter",M,MARAL,Farm worker,01 Jan 1970
+580,160220401,"Kapola, Clement",M,MARAL,Pastor,01 Jan 1964
+581,160220402,"Kapola, Nickles",M,MARAL,Pastor,01 Jan 1966
+582,160220726,"Kapola, Wane",M,MARAL,Subsistence Farmer,01 Jan 1975
+583,160210735,"Kari, Dondon",M,MARAL,Student,01 Jan 1987
+584,160212368,"Kari, Mark",M,MARAL,Driver,01 Jan 1946
+585,160215175,"Kari, Philipus",M,MARAL,Subsistence Farmer,01 Jan 1973
+586,160232520,"Kari, Sammy",M,MARAL,Student,01 Jan 1984
+587,160210975,"Kari, Samson",M,MARAL,Student,01 Jan 1990
+588,160227497,"Karoma, Bonny",M,MARAL,Student,01 Jan 1983
+589,160225221,"Karoma, Ekis",M,MARAL,Student,01 Jan 1985
+590,160245968,"Karoma, Nobert",M,MARAL,Subsistence Farmer,01 Jan 1970
+591,160225052,"Karoma, Nokondol",M,MARAL,Subsistence Farmer,01 Jan 1966
+592,160210991,"Karoma, Tomano",M,MARAL,Houseboy,01 Jan 1971
+593,160245969,"Karoma, Turi",M,MARAL,Subsistence Farmer,01 Jan 1942
+594,160225172,"Kati, Janet",M,MARAL,Subsistence Farmer,01 Jan 1985
+595,160446944,"Kati, Mathew",M,MARAL,Student,06 Jan 2004
+596,160119706,"Kati, Monica",M,MARAL,Household Duties,21 Nov 1995
+597,160446945,"Kati, Wiko",M,MARAL,Student,05 Jul 2000
+598,160119702,"Kelembo, Sammy",M,MARAL,Student,27 Mar 1994
+599,160245981,"Kelly, David",M,MARAL,Student,01 Jan 1990
+600,160217937,"Kelly, Gebby",M,MARAL,Student,01 Jan 1986
+601,160210921,"Kelly, Numan",M,MARAL,Student,01 Jan 1988
+602,160119704,"Kelly, Solomon",M,MARAL,Student,28 Jun 1998
+603,160225064,"Kema, Buka",M,MARAL,Subsistence Farmer,01 Jan 1953
+604,160222594,"Kema, Nobea",M,MARAL,Subsistence Farmer,01 Jan 1964
+605,160222430,"Kema, Tindalu",M,MARAL,Security,01 Jan 1966
+606,160216440,"Kenneth, Wanpis",M,MARAL,Student,01 Jan 1989
+607,160245976,"Keponge, Jonathan",M,MARAL,Subsistence Farmer,01 Jan 1990
+608,160216422,"Keponge, Tenis",M,MARAL,Clerk,01 Jan 1978
+609,160232144,"Keponge, Wesly",M,MARAL,Subsistence Farmer,01 Jan 1983
+610,160225049,"Kera, Foxsy",M,MARAL,Driver,01 Jan 1979
+611,160210219,"Kera, Julius",M,MARAL,Lawyer,01 Jan 1950
+612,160210227,"Kera, Junior",M,MARAL,Student,01 Jan 1987
+613,160224372,"Kera, Kennedy",M,MARAL,Student,01 Jan 2000
+614,160224380,"Kera, Lumait",M,MARAL,Security,01 Jan 1970
+615,160202351,"Kera, Nicky",M,MARAL,Student,01 Jan 2000
+616,160210225,"Kera, Noel",M,MARAL,Lawyer,01 Jan 1985
+617,160225047,"Kera, Tana",M,MARAL,Subsistence Farmer,01 Jan 1972
+618,160229815,"Kirede, Roy",M,MARAL,Worker,01 Jan 1976
+619,160218475,"Kirepe, Napa",M,MARAL,Subsistence Farmer,01 Jan 1948
+620,160222590,"Kiru, Dominic",M,MARAL,Subsistence Farmer,01 Jan 1978
+621,160222593,"Kiru, Keven",M,MARAL,Student,01 Jan 1988
+622,160222506,"Kiru, Petrus",M,MARAL,Subsistence Farmer,01 Jan 1961
+623,160222592,"Kiru, Toro",M,MARAL,Subsistence Farmer,01 Jan 1980
+624,160215903,"Koke, Benjamin",M,MARAL,Student,01 Jan 1985
+625,160215163,"Koke, Buka",M,MARAL,Subsistence Farmer,01 Jan 1967
+626,160215164,"Koke, John",M,MARAL,Subsistence Farmer,01 Jan 1972
+627,160214977,"Koke, Wamiri",M,MARAL,Electrician,01 Jan 1975
+628,160215753,"Koke, Windy",M,MARAL,Student,01 Jan 1980
+629,160224433,"Koltiro, Nige",M,MARAL,Foreman,01 Jan 1961
+630,160508154,"Kome, Gideon",M,MARAL,Unemployed,22 Oct 2000
+631,160508156,"Kome, Noncent",M,MARAL,Student,28 Apr 2004
+632,160508157,"Kome, Siro",M,MARAL,Student,28 Sep 2002
+633,160508158,"Kome, Takis",M,MARAL,Unemployed,21 Oct 1994
+634,160508159,"Kome, Tolly",M,MARAL,Baker,16 Oct 1990
+635,160225170,"Kopel, Til",M,MARAL,Store Keeper,01 Jan 1975
+636,160225159,"Kopel, Wanti",M,MARAL,Subsistence Farmer,01 Jan 1970
+637,160218510,"Koyapu, Jeffery",M,MARAL,Doctor,01 Jan 1966
+638,160218822,"Koyapu, Pilimbo",M,MARAL,Pastor,01 Jan 1980
+639,160446915,"Kubule, Wareke",M,MARAL,Subsistence Farmer,04 Jun 1945
+640,160227383,"Kukuru, David",M,MARAL,Student,01 Jan 1982
+641,160227354,"Kukuru, Jlius",M,MARAL,Subsistence Farmer,01 Jan 1983
+642,160446910,"Kukuru, Junior",M,MARAL,Student,05 Jun 2003
+643,160227233,"Kukuru, Tenge",M,MARAL,Subsistence Farmer,01 Jan 1980
+644,160218453,"Kulimu, Rimbu",M,MARAL,Worker,01 Jan 1950
+645,160218448,"Kulimu, Yakili",M,MARAL,Subsistence Farmer,01 Jan 1965
+646,160219264,"Kulo, Melepa",M,MARAL,Subsistence Farmer,01 Jan 1975
+647,160220398,"Kulo, Naitape",M,MARAL,Worker,01 Jan 1971
+648,160219278,"Kulo, Wiru",M,MARAL,Cleaner,01 Jan 1963
+649,160227505,"Kumanda, Hule",M,MARAL,Subsistence Farmer,01 Jan 1963
+650,160220871,"Kumi, Kani",M,MARAL,Worker,01 Jan 1964
+651,160225151,"Kumi, Marowa",M,MARAL,Subsistence Farmer,01 Jan 1945
+652,160225316,"Kumi, Punde",M,MARAL,Subsistence Farmer,01 Jan 1939
+653,160236067,"Kuna, Ongonda",M,MARAL,Subsistence Farmer,01 Jan 1951
+654,160214979,"Kuna, Tiwi",M,MARAL,Subsistence Farmer,01 Jan 1958
+655,160215754,"Kundi, Alen",M,MARAL,Policeman,01 Jan 1950
+656,160222363,"Kunuma, Peter",M,MARAL,Student,01 Jan 1990
+657,160232143,"Kunumu, Joseph",M,MARAL,Student,01 Jan 1982
+658,160222508,"Lembo, Anis",M,MARAL,Student,01 Jan 1985
+659,160235918,"Lembo, Lathon",M,MARAL,Student,01 Jan 1993
+660,160218966,"Lembo, Luke",M,MARAL,Driver,01 Jan 1983
+661,160119546,"Lembo, Ninge",M,MARAL,Student,10 Mar 1999
+662,160220357,"Lembo, Tenis",M,MARAL,Driver,01 Jan 1977
+663,160446969,"Lembo, Yasi",M,MARAL,Student,14 Jun 2001
+664,160245980,"Lepi, Aluko",M,MARAL,Student,01 Jan 1990
+665,160221966,"Lepi, Peterson",M,MARAL,Student,01 Jan 1987
+666,160220325,"Lepi, Rudic",M,MARAL,Student,01 Jan 1984
+667,160220361,"Limbiye, Henry",M,MARAL,Subsistence Farmer,01 Jan 1971
+668,160222507,"Limbiye, Lawrance",M,MARAL,Soldier,01 Jan 1964
+669,160215958,"Limbiye, Malakai",M,MARAL,Subsistence Farmer,01 Jan 1988
+670,160245972,"Limbiye, Manuel",M,MARAL,Student,01 Jan 1990
+671,160222364,"Limbiye, Markam",M,MARAL,Unemployed,16 Sep 1975
+672,160222365,"Limbiye, Rodney",M,MARAL,Subsistence Farmer,01 Jan 1985
+673,160230720,"Liwa, Moro",M,MARAL,Subsistence Farmer,01 Jan 1980
+674,160216537,"Lopa, Ben",M,MARAL,Carpenter,01 Jan 1947
+675,160224422,"Lopuwe, James",M,MARAL,Engineer,01 Jan 1971
+676,160216425,"Lopuwe, Paul",M,MARAL,Student,01 Jan 1985
+677,160215890,"Lopuwe, Sam",M,MARAL,Student,01 Jan 1974
+678,160508160,"Lucas, Junior",M,MARAL,Self Employed,19 Dec 1990
+679,160229846,"Maginde, Pauwe",M,MARAL,Student,01 Jan 1984
+680,160212864,"Mark, Buka",M,MARAL,Salesman,01 Jan 1981
+681,160212867,"Mark, George",M,MARAL,Student,01 Jan 1985
+682,160446988,"Mark, Junior",M,MARAL,Student,07 Aug 2000
+683,160136688,"Marowa, Brian",M,MARAL,Student,06 Mar 1999
+684,160246121,"Marowa, Markson",M,MARAL,Student,01 Jan 1990
+685,160220865,"Marowa, Nemo",M,MARAL,Student,01 Jan 1986
+686,160220870,"Marowa, Philimon",M,MARAL,Student,01 Jan 1989
+687,160217695,"Matoli, Glipu",M,MARAL,Teacher,01 Jan 1955
+688,160229830,"Matoli, John",M,MARAL,Salesman,01 Jan 1980
+689,160217689,"Matoli, Kelly",M,MARAL,Director,01 Jan 1962
+690,160216524,"Matoli, Peter",M,MARAL,Teacher,01 Jan 1969
+691,160446962,"Meku, Mini",M,MARAL,Self Employed,13 Jul 1996
+692,160222598,"Mendel, Ben",M,MARAL,Student,01 Jan 1990
+693,160224385,"Mendel, Tomano",M,MARAL,Student,01 Jan 1982
+694,160223891,"Mendeli, Wiwa",M,MARAL,Student,01 Jan 1986
+695,160119797,"Mike, Ishmael",M,MARAL,Driver,14 Mar 1992
+696,160446955,"Mike, Issac",M,MARAL,Student,03 Apr 2000
+697,160446926,"Mindili, Vincent",M,MARAL,Student,06 Jan 2004
+698,160137767,"Miwa, Tuwal",M,MARAL,Student,19 Jul 1995
+699,160222502,"Mongea, Limbiye",M,MARAL,Councillor,01 Jan 1951
+700,160215895,"Moro, Allen",M,MARAL,Student,01 Jan 1990
+701,160245997,"Moro, Dickson",M,MARAL,Subsistence Farmer,01 Jan 1988
+702,160214001,"Moro, Peya",M,MARAL,Student,01 Jan 1985
+703,160213942,"Moro, Philip",M,MARAL,Student,01 Jan 1990
+704,160119575,"Moro, Richard",M,MARAL,Student,05 Apr 1995
+705,160119545,"Moro, Yando",M,MARAL,Student,15 Apr 1997
+706,160245973,"Mote, Jeremaiah",M,MARAL,Student,01 Jan 1993
+707,160232142,"Mote, Jerry",M,MARAL,Student,01 Jan 1984
+708,160446948,"Mote, Joseph",M,MARAL,Student,27 Apr 2003
+709,160220344,"Nadiye, Kina",M,MARAL,Cleaner,01 Jan 2000
+710,160235920,"Naitape, Boss",M,MARAL,Student,01 Jan 1990
+711,160224423,"Nale, Indindi",M,MARAL,Driver,01 Jan 1967
+712,160213164,"Nale, Pala",M,MARAL,Student,01 Jan 1981
+713,160223890,"Nale, Wandi",M,MARAL,Security,01 Jan 1970
+714,160446974,"Napa, Deman",M,MARAL,Student,10 Oct 1999
+715,160222367,"Nelson, Jason",M,MARAL,Student,01 Jan 2000
+716,160119543,"Nelson, Jess",M,MARAL,Student,27 Jan 1996
+717,160218480,"Nelson, Justin",M,MARAL,Student,01 Jan 1989
+718,160446950,"Nelson, Justus",M,MARAL,Subsistence Farmer,28 Aug 1989
+719,160246002,"Nema, Gideon",M,MARAL,Student,01 Jan 1993
+720,160229672,"Nema, Gilbert",M,MARAL,Student,01 Jan 1984
+721,160446934,"Nema, Jethro",M,MARAL,Student,22 Apr 2000
+722,160225178,"Nema, Tangopa",M,MARAL,Household Duties,01 Jan 1967
+723,160119699,"Nickles, Stanji",M,MARAL,Student,26 Jun 1998
+724,160446971,"Nickson, Donlo",M,MARAL,Student,14 Jun 2000
+725,160446972,"Nickson, Kila",M,MARAL,Student,04 May 2000
+726,160446982,"Nickson, Tobias",M,MARAL,Student,30 Jan 2001
+727,160224436,"Nige, Buka",M,MARAL,Student,01 Jan 1985
+728,160224388,"Nige, Keven",M,MARAL,Technician,01 Jan 1981
+729,160230869,"Ninge, Herry",M,MARAL,Policeman,01 Jan 1978
+730,160230868,"Ninge, Kelly",M,MARAL,Teacher,01 Jan 1979
+731,160447000,"Ninge, Nickson",M,MARAL,Student,21 Jan 2004
+732,160136687,"Ninge, Nimbo",M,MARAL,Student,04 Feb 1999
+733,160215177,"Nipul, Hurbert",M,MARAL,Worker,01 Jan 1948
+734,160215356,"Nipul, Mikmik",M,MARAL,Subsistence Farmer,01 Jan 1980
+735,160215986,"Nipul, Ninge",M,MARAL,Houseboy,01 Jan 1977
+736,160215891,"Nipul, Peter",M,MARAL,Student,01 Jan 1988
+737,160446941,"Nombert, Gidilama",M,MARAL,Student,28 Apr 2004
+738,160225180,"Norbert, Wane",M,MARAL,Student,01 Jan 1990
+739,160220715,"Nume, Kapola",M,MARAL,Subsistence Farmer,01 Jan 1930
+740,160230871,"Nume, Keruma",M,MARAL,Subsistence Farmer,01 Jan 1984
+741,160213006,"Nume, Tapondol",M,MARAL,Farm worker,01 Jan 1948
+742,160214086,"Nume, Wange",M,MARAL,Farm worker,01 Jan 1941
+743,160119548,"Okoi, Liria",M,MARAL,Subsistence Farmer,15 Nov 1993
+744,160215972,"Olaiye, Simon",M,MARAL,Clerk,01 Jan 1978
+745,160213289,"Olaiye, Wanpis",M,MARAL,Clerk,01 Jan 1978
+746,160213163,"Olope, Kalatoli",M,MARAL,Subsistence Farmer,01 Jan 1958
+747,160215004,"Ongonda, Ltingi",M,MARAL,Driver,01 Jan 1987
+748,160229814,"Ongonda, Nobera",M,MARAL,Subsistence Farmer,01 Jan 1980
+749,160239340,"Ongonda, Steven",M,MARAL,Student,01 Jan 1993
+750,160217860,"Opa, Andi",M,MARAL,Subsistence Farmer,01 Jan 1969
+751,160217862,"Opa, Andiye",M,MARAL,Subsistence Farmer,01 Jan 1975
+752,160217805,"Opa, June",M,MARAL,Student,01 Jan 1986
+753,160232010,"Opa, Malakai",M,MARAL,Student,01 Jan 1984
+754,160225053,"Pale, Lobili",M,MARAL,Driver,01 Jan 1943
+755,160226577,"Pangea, Daniel",M,MARAL,Pastor,01 Jan 1964
+756,160227227,"Pangea, Kukuru",M,MARAL,Teacher,01 Jan 1970
+757,160232453,"Pangea, Luke",M,MARAL,Subsistence Farmer,01 Jan 1978
+758,160232140,"Pangea, Mike",M,MARAL,Teacher,01 Jan 1969
+759,160227496,"Pangea, Simon",M,MARAL,Teacher,01 Jan 1978
+760,160232459,"Pangea, Tana",M,MARAL,Subsistence Farmer,01 Jan 1974
+761,160511145,"Pangea, Walter",M,MARAL,Driver,10 Apr 1992
+762,160232458,"Pangea, Were",M,MARAL,Subsistence Farmer,01 Jan 1976
+763,160213158,"Pani, Were",M,MARAL,Subsistence Farmer,01 Jan 1941
+764,160245977,"Pawembo, Mathew",M,MARAL,Subsistence Farmer,01 Jan 1993
+765,160119707,"Pawembo, Philip",M,MARAL,Subsistence Farmer,01 Jan 1989
+766,160227509,"Pepena, Mare",M,MARAL,Student,01 Jan 1980
+767,160236069,"Pepena, Phillip",M,MARAL,Student,01 Jan 1993
+768,160227200,"Pepena, Yombi",M,MARAL,Subsistence Farmer,01 Jan 1973
+769,160508161,"Pera, Mike",M,MARAL,Self Employed,13 Oct 1990
+770,160446973,"Peter, Cedrick",M,MARAL,Student,01 Jan 2000
+771,160508162,"Peter, Grace",M,MARAL,Student,20 Dec 2000
+772,160446924,"Peter, Greg",M,MARAL,Student,05 Feb 2004
+773,160508163,"Peter, Mark",M,MARAL,Unemployed,14 Jul 1990
+774,160224272,"Peter, Mark",M,MARAL,Store Keeper,01 Jan 1982
+775,160224421,"Peter, Philip",M,MARAL,Store Keeper,01 Jan 1986
+776,160446983,"Peter, Rodrick",M,MARAL,Student,14 Jan 2003
+777,160508164,"Peter, Sedrak",M,MARAL,Self Employed,03 Jun 1995
+778,160245810,"Peter, Willie",M,MARAL,Subsistence Farmer,01 Jan 1989
+779,160446995,"Peterus, Lekson",M,MARAL,Student,16 May 2001
+780,160446997,"Peterus, Peteson",M,MARAL,Student,07 Aug 1996
+781,160446996,"Peterus, Robin",M,MARAL,Student,17 Aug 1998
+782,160119576,"Petrus, Bob",M,MARAL,Student,06 Oct 1997
+783,160446959,"Peya, Johnny",M,MARAL,Student,21 Apr 1990
+784,160136681,"Peya, Jonah",M,MARAL,Student,30 Jun 1993
+785,160119559,"Peya, Jonathan",M,MARAL,Student,14 Sep 1995
+786,160508165,"Philip, Gilson",M,MARAL,Self Employed,20 Dec 1990
+787,160446989,"Philipus, Iti",M,MARAL,Student,15 Dec 2003
+788,160215976,"Polobiye, Ekai",M,MARAL,Business man,01 Jan 1970
+789,160232552,"Pumbo, Ali",M,MARAL,Subsistence Farmer,01 Jan 1979
+790,160224346,"Punde, Jacob",M,MARAL,Subsistence Farmer,01 Jan 1980
+791,160224187,"Punde, Kenny",M,MARAL,Student,01 Jan 1990
+792,160225327,"Punde, Kondowa",M,MARAL,Subsistence Farmer,01 Jan 1978
+793,160224167,"Punde, Nembo",M,MARAL,Subsistence Farmer,01 Jan 1973
+794,160245975,"Punde, Roger",M,MARAL,Student,01 Jan 1993
+795,160222440,"Puri, Moro",M,MARAL,Subsistence Farmer,01 Jan 1961
+796,160217802,"Puruli, Midili",M,MARAL,Subsistence Farmer,01 Jan 1967
+797,160217960,"Puruli, Pawembo",M,MARAL,Subsistence Farmer,01 Jan 1963
+798,160225174,"Rambuli, Indipine",M,MARAL,Subsistence Farmer,01 Jan 1969
+799,160225163,"Rambuli, Kati",M,MARAL,Subsistence Farmer,01 Jan 1984
+800,160223896,"Rema, Eka",M,MARAL,Warder,01 Jan 1965
+801,160226385,"Rero, Wai",M,MARAL,Student,01 Jan 1982
+802,160446908,"Rias, Esley",M,MARAL,Student,03 Apr 2004
+803,160119584,"Rias, Eslly",M,MARAL,Student,25 Oct 1996
+804,160508167,"Robert, Benjiman",M,MARAL,Houseboy,05 Jan 2000
+805,160136686,"Robert, Foxie",M,MARAL,Student,24 Oct 1996
+806,160508168,"Robert, Jacen",M,MARAL,Student,01 Mar 2000
+807,160508169,"Robert, Jackson",M,MARAL,Self Employed,19 May 1999
+808,160508170,"Robert, Joel",M,MARAL,Pastor,22 Jul 1996
+809,160508173,"Robert, Molnong",M,MARAL,Housegirl,22 Oct 1990
+810,160446992,"Robert, Nigel",M,MARAL,Student,14 Mar 2001
+811,160508174,"Robert, Robin",M,MARAL,Student,01 Sep 2000
+812,160508175,"Robert, Samuel",M,MARAL,Self Employed,10 May 1999
+813,160508176,"Robert, Tenda",M,MARAL,Self Employed,08 Mar 1993
+814,160216531,"Rokoli, Kenneth",M,MARAL,Subsistence Farmer,01 Jan 1962
+815,160220346,"Rosu, Lerry",M,MARAL,Student,01 Jan 1985
+816,160218492,"Rosu, Solomon",M,MARAL,Farm worker,01 Jan 1956
+817,160232007,"Rosy, Soti",M,MARAL,Student,01 Jan 1982
+818,160119562,"Simon, Jeppet",M,MARAL,Student,01 Jan 1993
+819,160446980,"Simon, Sammy",M,MARAL,Student,14 Jun 2000
+820,160508178,"Simon, Sharon",M,MARAL,Student,01 Feb 2000
+821,160508179,"Simon, Stanly",M,MARAL,Student,02 Jan 2000
+822,160508181,"Sol, John",M,MARAL,Household Duties,02 Mar 2004
+823,160222352,"Tagune, John",M,MARAL,Teacher,01 Jan 1953
+824,160220348,"Tagune, Kondi",M,MARAL,Subsistence Farmer,01 Jan 1968
+825,160220349,"Tagune, Yunu",M,MARAL,Houseboy,01 Jan 1979
+826,160446911,"Talia, Peter",M,MARAL,Student,14 Jun 1971
+827,160446961,"Tana, Felix",M,MARAL,Student,10 May 2001
+828,160446960,"Tana, Flexion",M,MARAL,Student,16 Jan 2000
+829,160446914,"Tapondol, Stonwigg",M,MARAL,Student,28 Apr 2003
+830,160238807,"Tapondol, Yando",M,MARAL,Student,01 Jan 1989
+831,160119561,"Taru, Simon",M,MARAL,Pastor,01 Jan 1958
+832,160218821,"Tata, Koyapu",M,MARAL,Gardener,01 Jan 1944
+833,160220486,"Temane, Bilienge",M,MARAL,Not Specified,01 Jan 1966
+834,160220947,"Temane, Kurupu",M,MARAL,Subsistence Farmer,01 Jan 1970
+835,160220962,"Temane, Late",M,MARAL,Student,01 Jan 1989
+836,160229687,"Temane, Manuel",M,MARAL,Student,01 Jan 1984
+837,160220488,"Temane, Tande",M,MARAL,Subsistence Farmer,01 Jan 1967
+838,160136676,"Tependi, Samson",M,MARAL,Student,18 Dec 1993
+839,160214005,"Teringi, Kuleko",M,MARAL,Houseboy,01 Jan 1971
+840,160220510,"Teringi, Lembo",M,MARAL,Subsistence Farmer,01 Jan 1953
+841,160218296,"Teringi, Michael",M,MARAL,Houseboy,01 Jan 1973
+842,160215009,"Teringi, Mote",M,MARAL,Subsistence Farmer,01 Jan 1964
+843,160216088,"Teringi, Wanis",M,MARAL,Subsistence Farmer,01 Jan 1963
+844,160220337,"Teringi, Yombi",M,MARAL,Farm worker,01 Jan 1951
+845,160224180,"Thomas, Collin",M,MARAL,Student,01 Jan 1977
+846,160225223,"Thomas, Issac",M,MARAL,Subsistence Farmer,01 Jan 1985
+847,160511146,"Thomas, Loiwa",M,MARAL,Teacher,15 Apr 1990
+848,160225177,"Thomas, Mek",M,MARAL,Subsistence Farmer,01 Jan 1979
+849,160227500,"Thomas, Paul",M,MARAL,Subsistence Farmer,01 Jan 1979
+850,160225224,"Thomas, Tope",M,MARAL,Subsistence Farmer,01 Jan 1982
+851,160508186,"Tiriwal, Ismiel",M,MARAL,Self Employed,21 Oct 1997
+852,160508187,"Tiriwal, Iso",M,MARAL,Self Employed,21 Oct 1988
+853,160508188,"Tiriwal, Johnly",M,MARAL,Self Employed,28 Apr 2004
+854,160508189,"Tiriwal, Kabuk",M,MARAL,Self Employed,22 Sep 1994
+855,160508191,"Tiriwal, Nol",M,MARAL,Self Employed,23 Oct 1996
+856,160508192,"Tiriwal, Quin",M,MARAL,Student,21 Jun 2001
+857,160508193,"Tiriwal, Wapung",M,MARAL,Self Employed,09 Feb 1992
+858,160508194,"Titus, Vovolo",M,MARAL,Student,28 Apr 2004
+859,160214983,"Tiwi, Pais",M,MARAL,Subsistence Farmer,01 Jan 1987
+860,160214065,"Tiwi, Simon",M,MARAL,Mechanic,01 Jan 1980
+861,160214982,"Tiwi, Tendike",M,MARAL,Subsistence Farmer,01 Jan 1980
+862,160446965,"Tiye, Mackowin",M,MARAL,Student,14 Feb 2002
+863,160224376,"Tiye, Pembo",M,MARAL,Supervisor,01 Jan 1964
+864,160224378,"Tiye, Topu",M,MARAL,Student,01 Jan 1986
+865,160216437,"Tom, Josuah",M,MARAL,Student,01 Jan 1987
+866,160215906,"Tom, Randy",M,MARAL,Student,01 Jan 1984
+867,160216435,"Tom, Tommy",M,MARAL,Student,01 Jan 1986
+868,160446898,"Tonny, Beria",M,MARAL,Student,28 Jan 2004
+869,160217858,"Tonny, Fero",M,MARAL,Student,01 Jan 1990
+870,160214985,"Tope, Morris",M,MARAL,Student,01 Jan 1983
+871,160119557,"Topu, Peya",M,MARAL,Evangelist,01 Jan 1962
+872,160215348,"Tukundo, James",M,MARAL,Student,01 Jan 1984
+873,160446931,"Tukundo, James",M,MARAL,Student,25 Feb 1982
+874,160214076,"Tukundo, Kera",M,MARAL,Student,01 Jan 1980
+875,160215183,"Tumbulu, Tana",M,MARAL,Pastor,01 Jan 1965
+876,160210990,"Turi, Jeffery",M,MARAL,Student,01 Jan 1984
+877,160222505,"Tuweyo, Andi",M,MARAL,Student,01 Jan 1987
+878,160246049,"Tuweyo, Manuel",M,MARAL,Subsistence Farmer,01 Jan 1990
+879,160215894,"Waka, Leo",M,MARAL,Student,01 Jan 1990
+880,160119517,"Walter, Martin",M,MARAL,Student,03 May 1998
+881,160119567,"Wandi, Junior",M,MARAL,Subsistence Farmer,01 Jan 1995
+882,160119700,"Wane, Joremy",M,MARAL,Student,02 Aug 1998
+883,160446938,"Wane, Wama",M,MARAL,Student,26 Jun 2000
+884,160213007,"Wange, Buka",M,MARAL,Unemployed,01 Jan 1980
+885,160220863,"Wange, Gemo",M,MARAL,Subsistence Farmer,01 Jan 1974
+886,160238802,"Wange, Kelly",M,MARAL,Student,01 Jan 1990
+887,160213003,"Wange, Yunu",M,MARAL,Houseboy,01 Jan 1970
+888,160216416,"Wanis, Leroy",M,MARAL,Student,01 Jan 1989
+889,160446947,"Wanis, Linchon",M,MARAL,Student,18 Sep 1999
+890,160446946,"Wanis, Liriya",M,MARAL,Subsistence Farmer,10 Nov 1982
+891,160216415,"Wanis, Nathan",M,MARAL,Driver,01 Jan 1980
+892,160245967,"Wanis, Steven",M,MARAL,Student,01 Jan 1993
+893,160446903,"Wareke, Simon",M,MARAL,Student,06 Apr 1980
+894,160508199,"Wari, Stark",M,MARAL,Student,10 Oct 2000
+895,160224445,"Wepo, Charlie",M,MARAL,Not Specified,01 Jan 1982
+896,160225067,"Wepo, Paul",M,MARAL,Driver,01 Jan 1972
+897,160225072,"Wepo, Ronald",M,MARAL,Carpenter,01 Jan 1978
+898,160225070,"Wepo, Smart",M,MARAL,Student,01 Jan 1976
+899,160224364,"Wepo, Smith",M,MARAL,Security,01 Jan 1974
+900,160224505,"Wepo, Stanly",M,MARAL,Student,01 Jan 1990
+901,160119796,"Were, Franky",M,MARAL,Student,29 May 1997
+902,160222427,"Were, Kelly",M,MARAL,Security,01 Jan 1983
+903,160227381,"Were, Markus",M,MARAL,Driver,01 Jan 1984
+904,160213159,"Were, Miwa",M,MARAL,Plumber,01 Jan 1975
+905,160227232,"Were, Pangea",M,MARAL,Subsistence Farmer,01 Jan 1975
+906,160227380,"Were, Yuwanis",M,MARAL,Pastor,01 Jan 1976
+907,160216430,"Williem, Ian",M,MARAL,Student,01 Jan 1983
+908,160216433,"Williem, Joel",M,MARAL,Student,01 Jan 1986
+909,160216432,"Williem, Linstone",M,MARAL,Student,01 Jan 1988
+910,160119793,"Win, Jordan",M,MARAL,Student,17 Mar 1997
+911,160218446,"Wiru, Sam",M,MARAL,Student,01 Jan 1989
+912,160232002,"Wiru, Sammy",M,MARAL,Student,01 Jan 1984
+913,160219287,"Yakili, Ben",M,MARAL,Student,01 Jan 1989
+914,160218443,"Yakili, Indipine",M,MARAL,Student,01 Jan 1987
+915,160218452,"Yakili, Willie",M,MARAL,Student,01 Jan 1990
+916,160225160,"Yakumbu, Kopel",M,MARAL,Subsistence Farmer,01 Jan 1945
+917,160225179,"Yalipu, Lopeke",M,MARAL,Store Keeper,01 Jan 1963
+918,160222435,"Yalo, Mendel",M,MARAL,Subsistence Farmer,01 Jan 1956
+919,160220513,"Yombi, Jack",M,MARAL,Unemployed,01 Jan 1983
+920,160218489,"Yombi, Mark",M,MARAL,Houseboy,01 Jan 1973
+921,160232011,"Yombi, Samson",M,MARAL,Student,01 Jan 1983
+922,160225329,"Yopolo, Junior",M,MARAL,Student,13 Apr 1988
+923,160227368,"Yopolo, Kote",M,MARAL,Student,01 Jan 1981
+924,160226552,"Yopolo, Luke",M,MARAL,Student,01 Jan 1979
+925,160227216,"Yopolo, Mini",M,MARAL,Subsistence Farmer,01 Jan 1979
+926,160227228,"Yopolo, Miwa",M,MARAL,Subsistence Farmer,01 Jan 1969
+927,160119792,"Yopolo, Nicko",M,MARAL,Student,18 Nov 1995
+928,160227214,"Yopolo, Opa",M,MARAL,Driver,01 Jan 1967
+929,160227213,"Yopolo, Pawa",M,MARAL,Driver,01 Jan 1978
+930,160227375,"Yopolo, Polly",M,MARAL,Subsistence Farmer,01 Jan 1981
+931,160226562,"Yopolo, Rias",M,MARAL,Store Keeper,01 Jan 1979
+932,160227230,"Yopolo, Win",M,MARAL,Subsistence Farmer,01 Jan 1973
+933,160446918,"Yunu, Robin",M,MARAL,Student,28 Apr 2003

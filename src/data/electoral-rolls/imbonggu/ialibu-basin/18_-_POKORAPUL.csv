@@ -1,0 +1,679 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160153215,"Ami, Cathy",F,POKORAPUL,Household Duties,01 Jan 1971
+2,160244128,"Ami, Florance",F,POKORAPUL,Household Duties,07 Jul 1984
+3,160244142,"Ami, Joice",F,POKORAPUL,Student,17 Apr 1990
+4,160244301,"Andrew, Nancy",F,POKORAPUL,Household Duties,11 Apr 1989
+5,160146884,"Anis, Dite",F,POKORAPUL,Household Duties,01 Jan 1979
+6,25086042,"Anis, Kowaombo",F,POKORAPUL,Household Duties,26 Feb 1996
+7,160246586,"Anjo, Margret",F,POKORAPUL,Household Duties,19 Feb 1972
+8,160148692,"Anjo, Pollin",F,POKORAPUL,Household Duties,01 Jan 1968
+9,160148691,"Anjo, Wereino",F,POKORAPUL,Household Duties,01 Jan 1967
+10,160244133,"Asimba, Arin",F,POKORAPUL,Household Duties,31 Jan 1989
+11,25086050,"Ben, Emma",F,POKORAPUL,Subsistence Farmer,13 Apr 1998
+12,25086053,"Ben, Emma",F,POKORAPUL,Unemployed,13 May 1998
+13,160246310,"Ben, Roperty",F,POKORAPUL,Household Duties,08 Aug 1956
+14,160445766,"Bendro, Mefomi",F,POKORAPUL,Household Duties,19 Dec 2000
+15,160445765,"Bendro, Mequnda",F,POKORAPUL,Student,10 Nov 2002
+16,25086057,"Billy, Abigirl",F,POKORAPUL,Household Duties,17 Oct 1996
+17,160445807,"Billy, Amela",F,POKORAPUL,Student,01 May 2003
+18,160246356,"Billy, Macksy",F,POKORAPUL,Household Duties,02 Jul 1987
+19,160153363,"Buka, Lewa",F,POKORAPUL,Household Duties,01 Jan 1970
+20,160246741,"Cain, Jully",F,POKORAPUL,Household Duties,15 May 1983
+21,25086071,"Cathlyn, Mona moke",F,POKORAPUL,Student,10 Mar 2000
+22,160445831,"Charles, Pucksy",F,POKORAPUL,Household Duties,18 Apr 1990
+23,25086073,"Christopher, Jullie",F,POKORAPUL,Unemployed,28 Apr 2004
+24,25087490,"Clement, Sharon",F,POKORAPUL,Unemployed,02 Apr 1997
+25,160246317,"Daniel, Gais",F,POKORAPUL,Household Duties,13 Sep 1976
+26,160246147,"Daniel, Maggi",F,POKORAPUL,Student,01 Jan 1993
+27,160126909,"Daniel, Sucy",F,POKORAPUL,Student,28 Mar 1998
+28,160146768,"Danny, Betty",F,POKORAPUL,Household Duties,01 Jan 2000
+29,160445855,"Denny, Deffney",F,POKORAPUL,Student,01 Mar 2003
+30,160445853,"Denny, Delma",F,POKORAPUL,Student,16 Jan 2002
+31,25086082,"Don, Jannet",F,POKORAPUL,Self Employed,28 Apr 1984
+32,160246109,"Donus, Mary",F,POKORAPUL,Household Duties,02 Jun 1988
+33,160126927,"Dopo, Cerelyn",F,POKORAPUL,Student,11 Aug 1993
+34,160148603,"Dopo, Josephine",F,POKORAPUL,Subsistence Farmer,01 Jan 1966
+35,25086087,"Elvis, Cathy",F,POKORAPUL,Subsistence Farmer,14 Feb 1985
+36,25086090,"Elvis, Silvia",F,POKORAPUL,Unemployed,28 Apr 2004
+37,160148663,"Embaiye, Andame",F,POKORAPUL,Household Duties,01 Jan 1955
+38,160148664,"Embaiye, Ema",F,POKORAPUL,Household Duties,01 Jan 1976
+39,160148589,"Embaiye, Nancy",F,POKORAPUL,Household Duties,01 Jan 1982
+40,160148665,"Embaiye, Naomi",F,POKORAPUL,Household Duties,01 Jan 1979
+41,160445829,"Embaiye, Ruth",F,POKORAPUL,Student,03 Dec 1990
+42,160148655,"Epona, Tande",F,POKORAPUL,Subsistence Farmer,01 Jan 1970
+43,160246105,"Epona, Wena",F,POKORAPUL,Household Duties,21 Aug 1979
+44,25086093,"Frank, Salina",F,POKORAPUL,Unemployed,28 Feb 2004
+45,160445825,"Frank, Sharon",F,POKORAPUL,Household Duties,24 Jun 1998
+46,160445859,"Gabby, Kekeni",F,POKORAPUL,Household Duties,19 Feb 1998
+47,160445873,"Garu, Dama",F,POKORAPUL,Student,01 Aug 2000
+48,160245987,"Garu, Davina",F,POKORAPUL,Student,16 May 1991
+49,160148526,"Garu, Laina",F,POKORAPUL,Subsistence Farmer,01 Jan 1953
+50,160148442,"Garu, Livina",F,POKORAPUL,Student,01 Jan 1988
+51,160246744,"Garu, Sheron",F,POKORAPUL,Household Duties,20 Mar 1988
+52,160246189,"George, Jeniffer",F,POKORAPUL,Household Duties,11 Jan 1990
+53,25086098,"Glowaiye, Grace",F,POKORAPUL,Student,13 Apr 1988
+54,25086101,"Glowaiye, Rose",F,POKORAPUL,Self Employed,26 Jan 1985
+55,160148444,"Goma, Leina",F,POKORAPUL,Subsistence Farmer,01 Jan 1951
+56,25086107,"Herry, Marisa",F,POKORAPUL,Self Employed,03 Sep 1984
+57,160126907,"Indipine, Petisa",F,POKORAPUL,Student,14 Feb 1999
+58,160246170,"Inok, Miriam",F,POKORAPUL,Household Duties,01 Jan 1989
+59,160153345,"Ipo, Amos pulame",F,POKORAPUL,Household Duties,01 Jan 1960
+60,160244361,"James, Sonia",F,POKORAPUL,Household Duties,20 Jul 1975
+61,160445769,"Jasyan, Chelsia",F,POKORAPUL,Subsistence Farmer,10 Nov 1998
+62,160445768,"Jasyan, Donovean",F,POKORAPUL,Student,22 Oct 2000
+63,160244373,"Jayson, Jully",F,POKORAPUL,Household Duties,11 May 1979
+64,160244516,"Jayson, Roselyn",F,POKORAPUL,Household Duties,17 Jun 1975
+65,160146647,"Jecobeth, Luke",F,POKORAPUL,Student,01 Jan 1984
+66,25086118,"Jeffery, Nally",F,POKORAPUL,Self Employed,14 Apr 1979
+67,25086126,"Jenis, Edona",F,POKORAPUL,Student,01 Mar 2003
+68,160146640,"Jenneth, Jayson",F,POKORAPUL,Household Duties,01 Jan 1971
+69,160128133,"Joe, Clera",F,POKORAPUL,Student,25 Nov 1990
+70,160445845,"Joe, Keran",F,POKORAPUL,Student,18 Oct 2001
+71,160126928,"Joe, Miriam",F,POKORAPUL,Student,12 Apr 1998
+72,160445847,"Joe, Yando",F,POKORAPUL,Student,24 Apr 2002
+73,160153210,"John, Alice",F,POKORAPUL,Subsistence Farmer,01 Jan 1962
+74,160146770,"John, Dorothy",F,POKORAPUL,Household Duties,01 Jan 2000
+75,160146184,"John, Elizabeth",F,POKORAPUL,Student,01 Jan 1989
+76,160244305,"John, Elvina",F,POKORAPUL,Student,07 Jan 1993
+77,160148614,"John, Helly",F,POKORAPUL,Household Duties,01 Jan 1970
+78,160244140,"John, Jenny",F,POKORAPUL,Household Duties,02 Mar 1980
+79,160148484,"John, Lilian",F,POKORAPUL,Student,01 Jan 1990
+80,160244127,"John, Melen",F,POKORAPUL,Household Duties,15 Sep 1979
+81,160246112,"John, Rebeca",F,POKORAPUL,Student,06 Feb 1989
+82,160245991,"John, Rosana",F,POKORAPUL,Household Duties,20 May 1978
+83,160148159,"John, Wala",F,POKORAPUL,Subsistence Farmer,01 Jan 1974
+84,160246320,"Joseph, Cathy",F,POKORAPUL,Household Duties,18 Apr 1982
+85,25086137,"Junior, Polina",F,POKORAPUL,Household Duties,07 Jun 2000
+86,160153489,"Kabile, Ketty",F,POKORAPUL,Subsistence Farmer,01 Jan 1959
+87,160148728,"Kakeiye, Bepi",F,POKORAPUL,Subsistence Farmer,01 Jan 1972
+88,160153378,"Kakeiye, Kurumano",F,POKORAPUL,Subsistence Farmer,01 Jan 1940
+89,160445791,"Kalta, Dain",F,POKORAPUL,Student,05 Jun 2000
+90,160246323,"Kalta, Famila",F,POKORAPUL,Student,01 Jan 1992
+91,160148675,"Kalta, Pekera",F,POKORAPUL,Subsistence Farmer,01 Jan 1957
+92,160148677,"Kalta, Saina",F,POKORAPUL,Student,01 Jan 1984
+93,160148435,"Kalteiye, Merry",F,POKORAPUL,Subsistence Farmer,01 Jan 1971
+94,160148703,"Kalteiye, Senti",F,POKORAPUL,Student,01 Jan 1988
+95,160146780,"Kaltie, Ale",F,POKORAPUL,Student,01 Jan 1987
+96,160148525,"Kaltiye, Kelo",F,POKORAPUL,Student,01 Jan 1989
+97,160445774,"Kama, Cathy",F,POKORAPUL,Household Duties,25 Dec 1994
+98,160246092,"Kambile, Serinda",F,POKORAPUL,Student,01 Apr 1900
+99,160246104,"Kambile, Tambita",F,POKORAPUL,Student,04 Aug 1992
+100,160148580,"Kanda, Mepis",F,POKORAPUL,Household Duties,01 Jan 1970
+101,160153388,"Kanekane, Andi",F,POKORAPUL,Student,01 Jan 1988
+102,160148731,"Kari, Rota",F,POKORAPUL,Subsistence Farmer,01 Jan 1970
+103,160146772,"Kawa, Kolandi",F,POKORAPUL,Student,01 Jan 1988
+104,160246178,"Kelly, Joice",F,POKORAPUL,Household Duties,15 Jun 1980
+105,160246613,"Kemapu, Josephine",F,POKORAPUL,Household Duties,18 Aug 1981
+106,160128130,"Kemapu, Josephine",F,POKORAPUL,Subsistence Farmer,14 Aug 1965
+107,160246354,"Kenneth, Bepi",F,POKORAPUL,Household Duties,09 Mar 1987
+108,160246164,"Kenneth, Carolyn",F,POKORAPUL,Household Duties,19 Jul 1975
+109,160246325,"Kenneth, Peku",F,POKORAPUL,Household Duties,27 Jun 1965
+110,160146789,"Kepo, Kuta",F,POKORAPUL,Household Duties,01 Jan 1962
+111,160153553,"Kepu, Benlinda",F,POKORAPUL,Housegirl,01 Jan 1985
+112,160153078,"Kepu, Carolyn",F,POKORAPUL,Student,01 Jan 1989
+113,160126763,"Kepu, Cecilia",F,POKORAPUL,Student,02 Mar 1998
+114,160151850,"Kepu, Jeniffer",F,POKORAPUL,Student,01 Jan 1987
+115,160153501,"Kepu, Moiye",F,POKORAPUL,Household Duties,01 Jan 1979
+116,160246108,"Kepu, Susan",F,POKORAPUL,Household Duties,11 Jul 1987
+117,160246179,"Kevin, Jenneth",F,POKORAPUL,Household Duties,21 May 1982
+118,25086141,"Kewa, Docas",F,POKORAPUL,Household Duties,03 Apr 2002
+119,160137647,"Kewa, Esther",F,POKORAPUL,Student,02 Oct 1995
+120,25086151,"Kewa, Hailyn",F,POKORAPUL,Household Duties,01 Mar 1999
+121,160148486,"Kewa, Jeniffer",F,POKORAPUL,Student,09 Aug 1990
+122,160148462,"Kewa, Jenneth",F,POKORAPUL,Student,01 Jan 1986
+123,160246593,"Kewa, Miriam",F,POKORAPUL,Student,14 Jan 1991
+124,160153245,"Kewa, Nema",F,POKORAPUL,Household Duties,01 Jan 1962
+125,160246308,"Kini, Mala",F,POKORAPUL,Household Duties,18 Sep 1987
+126,160148609,"Kini, Mona",F,POKORAPUL,Nurse,01 Jan 1966
+127,160128024,"Koikepo, Befflyn",F,POKORAPUL,Subsistence Farmer,16 Dec 1977
+128,160128028,"Koikepo, Davida",F,POKORAPUL,Student,12 Sep 1984
+129,160148619,"Koikepo, Kombili",F,POKORAPUL,Subsistence Farmer,01 Jan 1957
+130,160148621,"Koikepo, Monicca",F,POKORAPUL,Student,01 Jan 1988
+131,160137648,"Koikepo, Puile",F,POKORAPUL,Subsistence Farmer,14 Mar 1980
+132,160148469,"Koikepo, Rose",F,POKORAPUL,Housegirl,01 Jan 1983
+133,160246357,"Koitaka, Junny",F,POKORAPUL,Household Duties,30 Nov 1985
+134,160153397,"Kongum, Mako",F,POKORAPUL,Housegirl,01 Jan 1970
+135,160153398,"Kongum, Toma",F,POKORAPUL,Housegirl,01 Jan 1972
+136,160146771,"Kovah, Chelsian",F,POKORAPUL,Student,01 Jan 2000
+137,160146181,"Kovah, Elman",F,POKORAPUL,Student,01 Jan 1987
+138,160244145,"Kowa, Belinda",F,POKORAPUL,Student,01 Jan 1992
+139,160153052,"Kowa, Kanoli",F,POKORAPUL,Household Duties,01 Jan 1967
+140,160126906,"Kowa, Marty",F,POKORAPUL,Student,22 Mar 1999
+141,160148152,"Kuea, Korowambo",F,POKORAPUL,Subsistence Farmer,01 Jan 1960
+142,160148153,"Kuea, Nancy",F,POKORAPUL,Student,01 Jan 1984
+143,160244368,"Kuiye, Kupeli",F,POKORAPUL,Student,14 Mar 1987
+144,160244352,"Kume, Dorothy",F,POKORAPUL,Student,28 Jan 1993
+145,160445849,"Kuno, Margreth",F,POKORAPUL,Household Duties,04 Dec 1980
+146,160148527,"Laki, Ketty",F,POKORAPUL,Subsistence Farmer,01 Jan 1975
+147,160148156,"Lape, Pilembo",F,POKORAPUL,Subsistence Farmer,01 Jan 1949
+148,160146644,"Lenge, Nandame",F,POKORAPUL,Household Duties,01 Jan 1973
+149,160246335,"Leo, Rose",F,POKORAPUL,Household Duties,27 Aug 1962
+150,160153246,"Lepa, Berem",F,POKORAPUL,Nurse,01 Jan 1958
+151,160148576,"Lepo, Alice",F,POKORAPUL,Household Duties,01 Jan 1940
+152,160148695,"Lepo, Mombo",F,POKORAPUL,Subsistence Farmer,01 Jan 1966
+153,160246355,"Lesly, Churchill",F,POKORAPUL,Student,12 Jan 1993
+154,160153555,"Lesly, Kayangi",F,POKORAPUL,Household Duties,01 Jan 1967
+155,160151840,"Lesly, Leah",F,POKORAPUL,Student,01 Jan 1987
+156,160128025,"Luke, Kuku",F,POKORAPUL,Student,22 Aug 1991
+157,160146782,"Luke, Lapuwame",F,POKORAPUL,Household Duties,01 Jan 1967
+158,160244137,"Luke, Marklyn",F,POKORAPUL,Student,02 Jan 1993
+159,160146886,"Mali, Bepi",F,POKORAPUL,Household Duties,01 Jan 1960
+160,160146887,"Mali, Josi",F,POKORAPUL,Student,01 Jan 1989
+161,160153490,"Mali, Wendy",F,POKORAPUL,Student,01 Jan 1988
+162,160146773,"Malin, Michael",F,POKORAPUL,Household Duties,01 Jan 2000
+163,160148446,"Mambu, Tolai",F,POKORAPUL,Subsistence Farmer,01 Jan 1963
+164,160244304,"Mandikel, Penny",F,POKORAPUL,Household Duties,10 Mar 1985
+165,160445763,"Mara, Dorin",F,POKORAPUL,Student,11 Oct 2000
+166,160445795,"Mara, Morin",F,POKORAPUL,Student,25 Nov 1998
+167,160246172,"Mara, Roselyn",F,POKORAPUL,Household Duties,21 Apr 1981
+168,160148471,"Maria, Kovah",F,POKORAPUL,Student,04 Sep 1986
+169,25086155,"Marowa, Doris",F,POKORAPUL,Teacher,16 Jun 1989
+170,160244348,"Marowa, Jacklyn",F,POKORAPUL,Household Duties,25 Mar 1990
+171,160445785,"Martai, Denela",F,POKORAPUL,Student,27 Aug 1994
+172,160445772,"Martain, Anita",F,POKORAPUL,Household Duties,23 Sep 1997
+173,160148700,"Matoli, Karema",F,POKORAPUL,Subsistence Farmer,01 Jan 1944
+174,25086160,"Max, Adasa",F,POKORAPUL,Student,04 May 2001
+175,160153344,"Max, Joice",F,POKORAPUL,Student,01 Jan 1980
+176,160244306,"Max, Natasa",F,POKORAPUL,Student,15 May 1992
+177,160148464,"Max, Nodiye",F,POKORAPUL,Household Duties,01 Jan 1960
+178,160148595,"Meku, Anna",F,POKORAPUL,Student,01 Jan 1983
+179,160148694,"Mendel, Wareame",F,POKORAPUL,Household Duties,01 Jan 1969
+180,160246090,"Michael, Mispel",F,POKORAPUL,Household Duties,02 Mar 1987
+181,160148578,"Mocke, Melyn",F,POKORAPUL,Household Duties,01 Jan 1980
+182,160244326,"Mona, Leneth",F,POKORAPUL,Household Duties,21 Apr 1980
+183,25086177,"Mona moka, Misheele",F,POKORAPUL,Student,15 Mar 2000
+184,160445903,"Mona moke, Faith",F,POKORAPUL,Household Duties,17 May 2001
+185,160148697,"Mondo, Anna",F,POKORAPUL,Subsistence Farmer,01 Jan 1985
+186,160153487,"Mone, Dorothy",F,POKORAPUL,Student,01 Jan 1988
+187,160148656,"Mone, Yara",F,POKORAPUL,Subsistence Farmer,01 Jan 1951
+188,160445778,"Mose, Grace",F,POKORAPUL,Subsistence Farmer,11 Sep 1998
+189,160445777,"Mose, Moliea",F,POKORAPUL,Student,29 Oct 1998
+190,160148673,"Moses, Lilly",F,POKORAPUL,Household Duties,01 Jan 1979
+191,160153217,"Nale, Mayambo",F,POKORAPUL,Subsistence Farmer,01 Jan 1947
+192,160146883,"Nale, Monicca",F,POKORAPUL,Student,01 Jan 1987
+193,160146882,"Nale, Peruru",F,POKORAPUL,Household Duties,01 Jan 1959
+194,160148147,"Nale, Roselin",F,POKORAPUL,Housegirl,01 Jan 1985
+195,160153361,"Natimbo, Ommo",F,POKORAPUL,Subsistence Farmer,01 Jan 1986
+196,160148611,"Nembo, Kuin",F,POKORAPUL,Household Duties,01 Jan 1968
+197,160128126,"Nembo, Susan",F,POKORAPUL,Student,14 Jun 1997
+198,160244134,"Nindil, Grace",F,POKORAPUL,Household Duties,12 Jun 1986
+199,25086185,"Noah, Jessica",F,POKORAPUL,Student,05 Jun 2003
+200,160153554,"Noah, Lin",F,POKORAPUL,Student,01 Jan 1989
+201,160151838,"Noah, Linda",F,POKORAPUL,Student,01 Jan 2000
+202,160445801,"Noah, Morina",F,POKORAPUL,Subsistence Farmer,10 Sep 2000
+203,160445799,"Noah, Uneaye",F,POKORAPUL,Subsistence Farmer,25 Aug 2001
+204,160246738,"Noel, Nattey",F,POKORAPUL,Household Duties,01 Jan 1983
+205,160244364,"Nomo, Serah",F,POKORAPUL,Household Duties,24 Jul 1977
+206,160244365,"Norman, Emely",F,POKORAPUL,Household Duties,14 Apr 1982
+207,160445797,"Ono, Alis",F,POKORAPUL,Household Duties,09 Nov 1995
+208,160126910,"Ono, Delilah",F,POKORAPUL,Subsistence Farmer,05 Jul 1994
+209,160246167,"Paias, Alice",F,POKORAPUL,Student,11 Aug 1988
+210,160246750,"Paias, Clare",F,POKORAPUL,Student,12 Jul 1984
+211,160246168,"Paias, Clera",F,POKORAPUL,Student,01 Feb 1992
+212,160445821,"Paias, Mefinda",F,POKORAPUL,Student,18 Feb 2003
+213,160246614,"Paias, Peya",F,POKORAPUL,Household Duties,25 Jun 1956
+214,160246754,"Paias, Rachael",F,POKORAPUL,Student,12 Jul 1981
+215,25086197,"Paias, Wendi",F,POKORAPUL,Household Duties,14 Feb 1992
+216,160244125,"Pako, Josiphine",F,POKORAPUL,Household Duties,02 Mar 1982
+217,160244141,"Pako, Stella",F,POKORAPUL,Student,27 Mar 1992
+218,160148618,"Pako, Yano",F,POKORAPUL,Household Duties,01 Jan 1974
+219,160126923,"Patrick, Julien",F,POKORAPUL,Subsistence Farmer,25 Sep 1992
+220,160148657,"Paul, Lucy",F,POKORAPUL,Subsistence Farmer,01 Jan 1971
+221,160153342,"Paul, Rona",F,POKORAPUL,Student,01 Jan 1989
+222,160148732,"Pele, Kela",F,POKORAPUL,Subsistence Farmer,01 Jan 1958
+223,160153355,"Pembo, Margret",F,POKORAPUL,Household Duties,01 Jan 1988
+224,160445788,"Pembo, Nency",F,POKORAPUL,Household Duties,10 Nov 1998
+225,160445811,"Penne, Easther",F,POKORAPUL,Student,26 Sep 2000
+226,160153064,"Penne, Kengena",F,POKORAPUL,Student,01 Jan 1984
+227,160246173,"Penne, Kina",F,POKORAPUL,Student,18 Jan 1987
+228,160246183,"Penne, Kola",F,POKORAPUL,Student,27 Feb 1991
+229,160151688,"Penne, Pepo",F,POKORAPUL,Household Duties,01 Jan 1957
+230,160126924,"Pera, Jully",F,POKORAPUL,Subsistence Farmer,29 Sep 1962
+231,160126926,"Pera, Lyn",F,POKORAPUL,Subsistence Farmer,20 Feb 1979
+232,160146880,"Pera, Pai",F,POKORAPUL,Housegirl,01 Jan 1982
+233,160126925,"Pera, Puke",F,POKORAPUL,Student,05 Feb 1989
+234,25086205,"Pera, Roselyn",F,POKORAPUL,Household Duties,05 Feb 1989
+235,160153208,"Pera, Sina",F,POKORAPUL,Housegirl,01 Jan 1976
+236,160153396,"Pera, Tagoba",F,POKORAPUL,Household Duties,01 Jan 1959
+237,160244356,"Pero, Merolyn",F,POKORAPUL,Household Duties,10 Feb 1986
+238,160445780,"Peter, Daunder",F,POKORAPUL,Student,24 Feb 2000
+239,160245988,"Peter, Lilian",F,POKORAPUL,Student,27 Mar 1992
+240,160148593,"Peter, Lilly",F,POKORAPUL,Household Duties,01 Jan 1977
+241,160246149,"Petr, Leneth",F,POKORAPUL,Student,09 Jan 1989
+242,160153383,"Peya, Batty",F,POKORAPUL,Subsistence Farmer,01 Jan 1986
+243,160126922,"Peya, Henrik",F,POKORAPUL,Not Specified,09 Apr 1998
+244,160148447,"Peya, Kolandi",F,POKORAPUL,Student,01 Jan 1989
+245,160126921,"Peya, Mawa",F,POKORAPUL,Student,24 Jan 1999
+246,160126919,"Peya, Pearlyn",F,POKORAPUL,Student,26 Jan 1998
+247,160246360,"Peya, Pollin",F,POKORAPUL,Student,25 Mar 1992
+248,160153395,"Peya, Yonge",F,POKORAPUL,Household Duties,01 Jan 1965
+249,160146765,"Piel, Rosa",F,POKORAPUL,Household Duties,01 Jan 1973
+250,160153549,"Pilimbo, Kerambo",F,POKORAPUL,Household Duties,01 Jan 1977
+251,160153211,"Pilipo, Tiwi",F,POKORAPUL,Subsistence Farmer,01 Jan 1964
+252,160148582,"Pillipo, Wekondo",F,POKORAPUL,Household Duties,01 Jan 1947
+253,160244144,"Pindipiye, Easter",F,POKORAPUL,Student,12 Mar 1982
+254,160148678,"Pinje, Mombo",F,POKORAPUL,Household Duties,01 Jan 1951
+255,160148681,"Ponege, Mare",F,POKORAPUL,Household Duties,01 Jan 1965
+256,160153080,"Pora, Orro",F,POKORAPUL,Household Duties,01 Jan 1961
+257,160246180,"Poya, Jenny",F,POKORAPUL,Student,11 Jan 1990
+258,160148669,"Poya, Pondo",F,POKORAPUL,Household Duties,01 Jan 1968
+259,160146779,"Poya, Tagondo",F,POKORAPUL,Baby Sitter,01 Jan 1972
+260,160148670,"Poya, Tegal",F,POKORAPUL,Household Duties,01 Jan 1962
+261,160244325,"Pulgiye, Helen",F,POKORAPUL,Student,12 Jun 1985
+262,160244324,"Pulgiye, Jenny",F,POKORAPUL,Student,07 Jan 1991
+263,160153221,"Pulgiye, Pane",F,POKORAPUL,Student,01 Jan 1986
+264,160244370,"Pulgiye, Poleyapo",F,POKORAPUL,Household Duties,16 Sep 1967
+265,160153220,"Pulgiye, Ware",F,POKORAPUL,Student,01 Jan 1984
+266,160148733,"Punge, Max prinda",F,POKORAPUL,Household Duties,01 Jan 1970
+267,160246182,"Puruli, Anita",F,POKORAPUL,Student,27 Jan 1993
+268,160246181,"Puruli, Kimbeli",F,POKORAPUL,Student,18 Feb 1986
+269,160146892,"Puruli, Komon",F,POKORAPUL,Student,01 Jan 1988
+270,160153062,"Puruli, Murumbu",F,POKORAPUL,Household Duties,01 Jan 1956
+271,160146183,"Rambula, Pilembo",F,POKORAPUL,Household Duties,01 Jan 1950
+272,160146787,"Ranje, Anna",F,POKORAPUL,Baby Sitter,01 Jan 1962
+273,160153386,"Ranje, Rose",F,POKORAPUL,Subsistence Farmer,01 Jan 1959
+274,25086213,"Ranji, Enicah",F,POKORAPUL,Student,10 Jul 2000
+275,160445897,"Ranji, Solome",F,POKORAPUL,Student,03 Apr 2002
+276,160148575,"Raramu, Kemapu",F,POKORAPUL,Household Duties,01 Jan 1931
+277,160148682,"Remo, Kurume",F,POKORAPUL,Subsistence Farmer,01 Jan 1952
+278,160246618,"Robert, Akiri",F,POKORAPUL,Household Duties,05 Feb 1959
+279,160244384,"Robert, Leah",F,POKORAPUL,Student,20 Jul 1984
+280,160246312,"Robert, Lian",F,POKORAPUL,Household Duties,21 Dec 1986
+281,25086218,"Sallon, Stephanie",F,POKORAPUL,Household Duties,01 Apr 2002
+282,160246621,"Samuel, Jelyn",F,POKORAPUL,Household Duties,22 Oct 1985
+283,160246326,"Simon, Merolyn",F,POKORAPUL,Household Duties,21 Jul 1984
+284,160246591,"Simon, Susan",F,POKORAPUL,Household Duties,11 Nov 1975
+285,160445771,"Stalay, Branda",F,POKORAPUL,Subsistence Farmer,22 May 1999
+286,160246316,"Stanley, Cathy",F,POKORAPUL,Household Duties,27 May 1986
+287,160246328,"Steven, Adalyn",F,POKORAPUL,Student,09 Jan 1993
+288,160246314,"Steven, Carol",F,POKORAPUL,Household Duties,30 Nov 1965
+289,160246359,"Steven, Jennifer",F,POKORAPUL,Student,23 Aug 1990
+290,160153550,"Steven, Steveny",F,POKORAPUL,Household Duties,01 Jan 1987
+291,25086224,"Sylviah, Paul pele",F,POKORAPUL,Nurse,10 Jun 2001
+292,160146776,"Tai, Roslyn",F,POKORAPUL,Household Duties,01 Jan 1975
+293,160148606,"Taine, Marry",F,POKORAPUL,Subsistence Farmer,01 Jan 1973
+294,160153371,"Taine, Pule",F,POKORAPUL,Subsistence Farmer,01 Jan 1961
+295,160153372,"Taine, Wenndy",F,POKORAPUL,Subsistence Farmer,01 Jan 1983
+296,160146888,"Talaiye, Ikino",F,POKORAPUL,Household Duties,01 Jan 1935
+297,160246188,"Tama, Anna",F,POKORAPUL,Household Duties,21 Feb 1987
+298,160445885,"Tamo, Rolyn",F,POKORAPUL,Student,09 Feb 1997
+299,160148461,"Tapoiye, Maggi",F,POKORAPUL,Household Duties,01 Jan 1968
+300,160153351,"Tarepola, Mary",F,POKORAPUL,Household Duties,01 Jan 1962
+301,160244334,"Tawa, Lilly",F,POKORAPUL,Household Duties,15 Apr 1988
+302,160153212,"Teka, Holambo",F,POKORAPUL,Subsistence Farmer,01 Jan 1940
+303,160148612,"Teka, Letty",F,POKORAPUL,Student,01 Jan 1983
+304,160244124,"Teka, Rita",F,POKORAPUL,Student,05 Nov 1992
+305,160148467,"Teka, Yonge",F,POKORAPUL,Housegirl,01 Jan 1979
+306,160244349,"Temo, Roina",F,POKORAPUL,Student,07 Jan 1989
+307,160148477,"Ten, Aggie",F,POKORAPUL,Typist,01 Jan 1971
+308,160153224,"Ten, Frida",F,POKORAPUL,Subsistence Farmer,01 Jan 1970
+309,160148157,"Ten, Jenny",F,POKORAPUL,Subsistence Farmer,01 Jan 1968
+310,160246142,"Tende, Mepis",F,POKORAPUL,Household Duties,30 May 1981
+311,160148529,"Tende, Mopune",F,POKORAPUL,Subsistence Farmer,01 Jan 1976
+312,160136634,"Tende, Regina",F,POKORAPUL,Subsistence Farmer,18 Apr 1990
+313,160244136,"Tende, Samenta",F,POKORAPUL,Household Duties,04 Jul 1983
+314,160246585,"Tende, Serah",F,POKORAPUL,Household Duties,21 May 1981
+315,160151854,"Tenge, Catty",F,POKORAPUL,Household Duties,01 Jan 1975
+316,160445815,"Tenis, Dapes",F,POKORAPUL,Household Duties,25 May 1980
+317,25086229,"Tenis, Ewina",F,POKORAPUL,Student,04 Nov 2000
+318,160148155,"Tenis, Jospinh",F,POKORAPUL,Subsistence Farmer,01 Jan 1980
+319,160148475,"Tenis, Mirriam",F,POKORAPUL,Subsistence Farmer,01 Jan 1981
+320,160148474,"Tenis, Tapele",F,POKORAPUL,Subsistence Farmer,01 Jan 1983
+321,160445891,"Tenis, Tehey",F,POKORAPUL,Student,01 Jun 1998
+322,25086238,"Tenny, Peter",F,POKORAPUL,Student,10 Jun 2000
+323,160148597,"Tepoko, Mone",F,POKORAPUL,Household Duties,01 Jan 1966
+324,160148584,"Terry, Talita",F,POKORAPUL,Student,01 Jan 1980
+325,160128129,"Tikipi, Mary",F,POKORAPUL,Student,20 Apr 1997
+326,160128128,"Tikipi, Mopune",F,POKORAPUL,Subsistence Farmer,14 Mar 1968
+327,160153247,"Tiwi, Merolin",F,POKORAPUL,Student,01 Jan 1989
+328,160153350,"Tiyopai, Nanili",F,POKORAPUL,Household Duties,01 Jan 1965
+329,160246171,"Toimbo, Anita",F,POKORAPUL,Student,31 Jan 1991
+330,160146894,"Toimbo, Catty",F,POKORAPUL,Student,01 Jan 1985
+331,160151691,"Toimbo, Mane",F,POKORAPUL,Household Duties,01 Jan 1966
+332,160148437,"Toite, Wambi",F,POKORAPUL,Subsistence Farmer,01 Jan 1961
+333,25086243,"Tolly, Jully",F,POKORAPUL,Unemployed,17 May 1998
+334,160148432,"Tomoiye, Kema",F,POKORAPUL,Subsistence Farmer,01 Jan 1974
+335,160246588,"Tongi, Anita",F,POKORAPUL,Student,18 Jan 1990
+336,25086251,"Tongi, Molina",F,POKORAPUL,Subsistence Farmer,28 Apr 2004
+337,25086256,"Tongi, Mona",F,POKORAPUL,Student,11 Mar 2000
+338,160148604,"Tongi, Tangopa",F,POKORAPUL,Subsistence Farmer,01 Jan 1966
+339,160148668,"Tonny, Margret",F,POKORAPUL,Household Duties,01 Jan 1972
+340,160146762,"Tonny, Tovina",F,POKORAPUL,Student,01 Jan 1990
+341,160244464,"Tony, Heather",F,POKORAPUL,Student,01 Jan 1985
+342,160148438,"Topi, Jospin",F,POKORAPUL,Student,01 Jan 1989
+343,160148658,"Toreya, Mombo",F,POKORAPUL,Subsistence Farmer,01 Jan 1963
+344,160126930,"Tori, Easther",F,POKORAPUL,Student,11 Sep 1998
+345,160244341,"Toringi, Pearlyn",F,POKORAPUL,Household Duties,21 Jan 1990
+346,160153384,"Torongi, Pisimi",F,POKORAPUL,Subsistence Farmer,01 Jan 1967
+347,160148440,"Tumudawe, Terimu",F,POKORAPUL,Subsistence Farmer,01 Jan 1934
+348,160153381,"Tumundawe, Dalama",F,POKORAPUL,Subsistence Farmer,01 Jan 1980
+349,160148528,"Tumundawe, Lina",F,POKORAPUL,Student,01 Jan 1985
+350,160244300,"Unda, Carol",F,POKORAPUL,Household Duties,15 Jun 1987
+351,160445809,"Undi, Quencila",F,POKORAPUL,Student,09 May 2003
+352,160246177,"Undi, Racheal",F,POKORAPUL,Household Duties,01 Feb 1990
+353,160153503,"Unumi, Wamo",F,POKORAPUL,Household Duties,01 Jan 1969
+354,160153387,"Waiye, Lina",F,POKORAPUL,Household Duties,01 Jan 1972
+355,160148431,"Wambu, Ronda",F,POKORAPUL,Subsistence Farmer,01 Jan 1964
+356,160148150,"Wanis, Jenneth",F,POKORAPUL,Student,01 Jan 1980
+357,160244302,"Wanpis, Merolyn",F,POKORAPUL,Household Duties,09 Feb 1985
+358,160445857,"Wanpis, Vero",F,POKORAPUL,Household Duties,14 Sep 1984
+359,160126932,"Wapea, Caristaine",F,POKORAPUL,Student,05 Feb 1989
+360,160244132,"Wapea, Levi",F,POKORAPUL,Household Duties,12 May 1984
+361,160126905,"Wapi, Sherinda",F,POKORAPUL,Subsistence Farmer,20 Apr 1980
+362,160244126,"Watis, Elice",F,POKORAPUL,Household Duties,27 Aug 1983
+363,160148616,"Watis, Miriam",F,POKORAPUL,Subsistence Farmer,01 Jan 1975
+364,160128135,"Watis, Semila",F,POKORAPUL,Student,15 Feb 1994
+365,160153557,"Wegepo, Ariye",F,POKORAPUL,Household Duties,01 Jan 1947
+366,160151844,"Wegepo, Leah",F,POKORAPUL,Household Duties,01 Jan 1972
+367,160151842,"Wegepo, Mit",F,POKORAPUL,Household Duties,01 Jan 1970
+368,160126912,"Weiye, Mimrian",F,POKORAPUL,Subsistence Farmer,10 May 1994
+369,160126915,"Weiye, Rose",F,POKORAPUL,Student,13 Mar 1998
+370,160139637,"Were, Brenda",F,POKORAPUL,Subsistence Farmer,24 Mar 1978
+371,160148600,"Were, Leah",F,POKORAPUL,Student,01 Jan 1990
+372,160246185,"Wesley, Joiclyn",F,POKORAPUL,Household Duties,18 Aug 1987
+373,160445776,"Wesley, Uenisa",F,POKORAPUL,Student,04 May 2000
+374,160136635,"Willie, Welina",F,POKORAPUL,Student,15 Mar 1998
+375,160148450,"Yakipu, Hellen",F,POKORAPUL,Subsistence Farmer,01 Jan 1973
+376,160146876,"Yakipu, Kepume",F,POKORAPUL,Household Duties,01 Jan 1947
+377,160148472,"Yakipu, Lucy",F,POKORAPUL,Student,01 Jan 1987
+378,160148451,"Yakipu, Lusmerry",F,POKORAPUL,Subsistence Farmer,01 Jan 1979
+379,160148448,"Yakipu, Muniye",F,POKORAPUL,Subsistence Farmer,01 Jan 1962
+380,25086276,"Yakipu, Suri",F,POKORAPUL,Student,16 Mar 2000
+381,160246339,"Yaku, Freda",F,POKORAPUL,Student,15 Apr 1989
+382,160153365,"Yamba, Hellen",F,POKORAPUL,Subsistence Farmer,01 Jan 1979
+383,160148686,"Yamba, Mone",F,POKORAPUL,Housegirl,01 Jan 1982
+384,160139632,"Yamba, Regina",F,POKORAPUL,Subsistence Farmer,11 Aug 1991
+385,160148433,"Yombe, Easter",F,POKORAPUL,Subsistence Farmer,01 Jan 1976
+386,160148478,"Ambili, Jayson",M,POKORAPUL,Student,01 Jan 1979
+387,160244143,"Ami, Freddy",M,POKORAPUL,Student,11 Jan 1993
+388,25086034,"Ami, Kepo",M,POKORAPUL,Student,15 Nov 2000
+389,25086037,"Ami, Kol",M,POKORAPUL,Student,01 Oct 2001
+390,160153346,"Amos, Kelly",M,POKORAPUL,Subsistence Farmer,01 Jan 1977
+391,160148661,"Amos, Kevin",M,POKORAPUL,Subsistence Farmer,01 Jan 1978
+392,160148662,"Amos, Paul",M,POKORAPUL,Student,01 Jan 1985
+393,160246186,"Amos, Peter",M,POKORAPUL,Student,15 Jan 1992
+394,160153347,"Amos, Ron",M,POKORAPUL,Subsistence Farmer,01 Jan 1980
+395,25086045,"Anis, Pindi",M,POKORAPUL,Self Employed,23 Oct 2001
+396,160146761,"Anjo, Christopher",M,POKORAPUL,Student,01 Jan 1990
+397,160246336,"Arume, Ben",M,POKORAPUL,Teacher,07 Jul 1953
+398,160246751,"Ben, Sammy",M,POKORAPUL,Student,30 May 1987
+399,160445813,"Benny, Gibbson",M,POKORAPUL,Driver,24 Mar 2001
+400,25087488,"Billy, Ammton",M,POKORAPUL,Self Employed,02 Nov 1999
+401,160445764,"Brendro, Regency",M,POKORAPUL,Student,23 Mar 2002
+402,25086066,"Buka, Edwin",M,POKORAPUL,Subsistence Farmer,11 Apr 2004
+403,160445883,"Dangipo, Winnie",M,POKORAPUL,Student,08 Mar 2000
+404,160153551,"Daniel, Hansford",M,POKORAPUL,Student,01 Jan 1989
+405,160246315,"Daniel, Junior",M,POKORAPUL,Student,21 Jul 1993
+406,160246151,"Daniel, Micah",M,POKORAPUL,Student,14 Feb 1990
+407,160126908,"Daniel, Seth",M,POKORAPUL,Student,11 Feb 1999
+408,160148479,"Daniel, Staford",M,POKORAPUL,Student,01 Jan 1990
+409,160445871,"Doniel, Mike",M,POKORAPUL,Student,09 May 1997
+410,160136638,"Dope, Isracle",M,POKORAPUL,Student,06 Jan 1998
+411,160153348,"Embaiye, David",M,POKORAPUL,Student,01 Jan 1986
+412,160148588,"Embaiye, Noel",M,POKORAPUL,Student,01 Jan 1980
+413,160148158,"Epona, Hiyelupe",M,POKORAPUL,Subsistence Farmer,01 Jan 1969
+414,160153486,"Epona, Kakeiye",M,POKORAPUL,Security,01 Jan 1968
+415,160445877,"Garu, Jeremiah",M,POKORAPUL,Driver,02 May 1998
+416,160445876,"Garu, Jeroth",M,POKORAPUL,Student,08 Jul 1999
+417,160139635,"Gully, John",M,POKORAPUL,Driver,03 Jun 1972
+418,25086115,"Jeffery, Ismael",M,POKORAPUL,Student,12 Feb 2003
+419,25086123,"Jeffeth, Jim jim",M,POKORAPUL,Student,12 Jan 2001
+420,25086129,"Jim, Tenis talopa",M,POKORAPUL,Student,14 Sep 2003
+421,160445881,"Jockey, Daniel",M,POKORAPUL,Student,08 Mar 1997
+422,160445879,"Jockey, Desnen",M,POKORAPUL,Student,16 Jul 1999
+423,160139634,"Joe, Charlie",M,POKORAPUL,Student,25 Nov 1994
+424,160126929,"Joe, Clement",M,POKORAPUL,Student,10 Jan 1999
+425,160128132,"Joe, Cliffe",M,POKORAPUL,Student,19 Jul 1997
+426,160445827,"Joe, Cliford",M,POKORAPUL,Student,15 Apr 2002
+427,160128131,"Joe, Clinton",M,POKORAPUL,Student,11 Sep 1993
+428,160246352,"Joe, Jonethan",M,POKORAPUL,Subsistence Farmer,27 Feb 1989
+429,160148485,"John, Nickson",M,POKORAPUL,Student,01 Jan 1990
+430,160511119,"John, Pila",M,POKORAPUL,Subsistence Farmer,10 Apr 1979
+431,25086134,"John, Rickson",M,POKORAPUL,Student,05 Nov 2003
+432,160445861,"John, Rodney",M,POKORAPUL,Student,05 Aug 2001
+433,160445863,"John, Romex",M,POKORAPUL,Student,04 Sep 2000
+434,160148676,"Kalta, Billy",M,POKORAPUL,Teacher,01 Jan 1980
+435,160246322,"Kalta, William",M,POKORAPUL,Student,18 Apr 1988
+436,160148436,"Kalteiye, Ali",M,POKORAPUL,Student,01 Jan 1989
+437,160148434,"Kalteiye, Nomo",M,POKORAPUL,Subsistence Farmer,01 Jan 1974
+438,160148701,"Kalteiye, Norman",M,POKORAPUL,Subsistence Farmer,01 Jan 1980
+439,160148702,"Kalteiye, Pero",M,POKORAPUL,Subsistence Farmer,01 Jan 1983
+440,160146642,"Kambele, Gibbson",M,POKORAPUL,Student,01 Jan 2000
+441,160445889,"Kambhe, Oseah",M,POKORAPUL,Subsistence Farmer,09 Nov 1998
+442,160246113,"Kambile, Tawa",M,POKORAPUL,Student,09 Sep 1984
+443,160445865,"Kamblle, Asaia",M,POKORAPUL,Driver,03 May 1997
+444,160153394,"Kanekane, Piyele",M,POKORAPUL,Subsistence Farmer,01 Jan 1979
+445,160126918,"Kanekane, Sunny",M,POKORAPUL,Subsistence Farmer,20 Sep 1967
+446,160151689,"Kanekane, Toimbo",M,POKORAPUL,Subsistence Farmer,01 Jan 1956
+447,160151693,"Kanekane, Weiye",M,POKORAPUL,Subsistence Farmer,01 Jan 1958
+448,160153369,"Kapiri, Anjo",M,POKORAPUL,Teacher,01 Jan 1965
+449,160148602,"Kapiri, Dopo",M,POKORAPUL,Subsistence Farmer,01 Jan 1968
+450,160148601,"Kapiri, Glowaiye",M,POKORAPUL,Student,01 Jan 1989
+451,160153367,"Kapiri, Kepu",M,POKORAPUL,Subsistence Farmer,01 Jan 1984
+452,160153368,"Kapiri, Kuno",M,POKORAPUL,Student,01 Jan 1986
+453,160148591,"Karoma, Puli",M,POKORAPUL,Driver,01 Jan 1966
+454,160148590,"Karoma, Tatius",M,POKORAPUL,Driver,01 Jan 1957
+455,160146652,"Kenneth, Jacob",M,POKORAPUL,Student,01 Jan 1989
+456,160445819,"Kenneth, Jerison",M,POKORAPUL,Student,28 Jul 2001
+457,160136633,"Kenneth, Naiman",M,POKORAPUL,Student,16 Feb 1998
+458,160146650,"Kenneth, Simon",M,POKORAPUL,Driver,01 Jan 1982
+459,160146783,"Kenneth, Wapi",M,POKORAPUL,Student,01 Jan 1988
+460,160146655,"Keo, Pauz",M,POKORAPUL,Student,01 Jan 1989
+461,160146790,"Kepo, Ben",M,POKORAPUL,Student,01 Jan 1986
+462,160146189,"Kepo, Unda",M,POKORAPUL,Student,01 Jan 1984
+463,160246338,"Kepu, Jepheth",M,POKORAPUL,Student,19 Nov 1990
+464,160146926,"Kepu, Joshua",M,POKORAPUL,Student,01 Jan 1990
+465,160126764,"Kepu, Nickles",M,POKORAPUL,Student,05 Feb 1998
+466,160151849,"Kepu, Robert",M,POKORAPUL,Student,01 Jan 1983
+467,160153077,"Kepu, Samuel",M,POKORAPUL,Subsistence Farmer,01 Jan 1980
+468,160148463,"Kewa, Hobert",M,POKORAPUL,Student,01 Jan 1988
+469,160128026,"Kewa, Ismael",M,POKORAPUL,Student,25 Mar 1992
+470,160148480,"Kini, Kennold",M,POKORAPUL,Student,01 Jan 1990
+471,160246617,"Koi, Robert",M,POKORAPUL,Director,10 May 1957
+472,160153214,"Koikepo, Ami",M,POKORAPUL,Subsistence Farmer,01 Jan 1972
+473,160137649,"Koikepo, Malachi",M,POKORAPUL,Student,28 Feb 1989
+474,160148470,"Koikepo, Nelson",M,POKORAPUL,Student,01 Jan 1985
+475,160148620,"Koikepo, Pindipiye",M,POKORAPUL,Subsistence Farmer,01 Jan 1980
+476,160137650,"Koikepo, Zechariah",M,POKORAPUL,Student,10 Jul 1993
+477,160146654,"Koke, Kepo",M,POKORAPUL,Subsistence Farmer,01 Jan 1960
+478,160151845,"Kokeipo, Torono",M,POKORAPUL,Pastor,01 Jan 1966
+479,160128027,"Kokepo, Mike",M,POKORAPUL,Carpenter,15 Nov 1977
+480,160148666,"Kongo, John",M,POKORAPUL,Salesman,01 Jan 1975
+481,160148429,"Kongum, Mendel",M,POKORAPUL,Subsistence Farmer,01 Jan 1966
+482,160153244,"Kongum, Tapoiye",M,POKORAPUL,Subsistence Farmer,01 Jan 1968
+483,160146180,"Kovah, Chris",M,POKORAPUL,Student,01 Jan 1980
+484,160244139,"Kowa, Indipine",M,POKORAPUL,Student,12 May 1989
+485,160151847,"Kowa, Tende",M,POKORAPUL,Student,01 Jan 1985
+486,160244369,"Kuiye, Billy",M,POKORAPUL,Student,13 Jul 1990
+487,160136637,"Kuno, Clayton",M,POKORAPUL,Student,28 Mar 1999
+488,160126765,"Kuno, Tommy",M,POKORAPUL,Student,01 Feb 1999
+489,160153488,"Kupu, Kambele",M,POKORAPUL,Subsistence Farmer,01 Jan 1957
+490,160148730,"Kupu, Panjipo",M,POKORAPUL,Subsistence Farmer,01 Jan 1969
+491,160146885,"Laboiye, Kepu",M,POKORAPUL,Subsistence Farmer,01 Jan 1943
+492,160146774,"Lenge, Puruzi",M,POKORAPUL,Subsistence Farmer,01 Jan 1977
+493,160246174,"Lesly, Junior",M,POKORAPUL,Student,18 Feb 1990
+494,160246307,"Lisa, Leo",M,POKORAPUL,Pastor,09 Mar 1959
+495,160146649,"Luburul, Kenneht",M,POKORAPUL,Driver,01 Jan 1982
+496,160146646,"Luke, Enock",M,POKORAPUL,Student,01 Jan 1982
+497,160151687,"Lume, Penne",M,POKORAPUL,Subsistence Farmer,01 Jan 1951
+498,160153491,"Mali, Gate",M,POKORAPUL,Student,01 Jan 1989
+499,160151852,"Mali, Kemapu",M,POKORAPUL,Student,01 Jan 1979
+500,160246612,"Mali, Numan",M,POKORAPUL,Student,08 Feb 1993
+501,160146927,"Mali, Philiph",M,POKORAPUL,Student,01 Jan 1990
+502,160153059,"Mali, Pila",M,POKORAPUL,Student,01 Jan 1985
+503,160151851,"Mali, Simon",M,POKORAPUL,Subsistence Farmer,01 Jan 1972
+504,160151853,"Mali, Wiwa",M,POKORAPUL,Student,01 Jan 1983
+505,160153502,"Mangani, Noah",M,POKORAPUL,Subsistence Farmer,01 Jan 1962
+506,160153207,"Mangani, Pera",M,POKORAPUL,Subsistence Farmer,01 Jan 1934
+507,160153492,"Mapame, Pele",M,POKORAPUL,Subsistence Farmer,01 Jan 1942
+508,160148622,"Mapele, Luke",M,POKORAPUL,Pastor,01 Jan 1957
+509,160445786,"Martain, Pinie",M,POKORAPUL,Student,12 Nov 2000
+510,160148660,"Max, Goden",M,POKORAPUL,Student,01 Jan 1982
+511,160148465,"Max, Justin",M,POKORAPUL,Student,30 Nov 1988
+512,25086164,"Max, Lipu",M,POKORAPUL,Student,07 Apr 2003
+513,160148679,"Meku, Kote",M,POKORAPUL,Subsistence Farmer,01 Jan 1979
+514,160146925,"Mendel, Frank",M,POKORAPUL,Student,01 Jan 1990
+515,160246742,"Mendel, Sailas",M,POKORAPUL,Student,14 Mar 1992
+516,160445837,"Mendeli, Noah",M,POKORAPUL,Student,24 Mar 1998
+517,160445839,"Mendeli, Teddy",M,POKORAPUL,Student,23 Apr 2003
+518,25086169,"Michael, Giluwe",M,POKORAPUL,Student,05 Jul 2000
+519,160445784,"Micheal, Rotena",M,POKORAPUL,Student,09 Oct 1998
+520,160445869,"Mokea, Avi",M,POKORAPUL,Student,08 Feb 2000
+521,160153216,"Mondo, Nale",M,POKORAPUL,Subsistence Farmer,01 Jan 1943
+522,160445867,"Monea, Jethro",M,POKORAPUL,Driver,02 May 1998
+523,160445779,"Moses, Norman",M,POKORAPUL,Subsistence Farmer,09 Nov 2003
+524,160148481,"Naka, Kapiri",M,POKORAPUL,Subsistence Farmer,01 Jan 1939
+525,160151848,"Nale, Anis",M,POKORAPUL,Subsistence Farmer,01 Jan 1968
+526,160153056,"Nale, Goerge",M,POKORAPUL,Student,01 Jan 1984
+527,160153218,"Nale, Nindil",M,POKORAPUL,Student,01 Jan 1988
+528,160153054,"Nale, Tai",M,POKORAPUL,Student,01 Jan 1980
+529,25086180,"Nasi, Herry",M,POKORAPUL,Self Employed,12 Apr 1981
+530,160148680,"Natimbo, Marowa",M,POKORAPUL,Subsistence Farmer,01 Jan 1984
+531,160148598,"Natimbo, Ponege",M,POKORAPUL,Subsistence Farmer,01 Jan 1967
+532,160246184,"Neia, Paias",M,POKORAPUL,Director,24 Mar 1953
+533,160244135,"Nema, Wanpis",M,POKORAPUL,Director,15 Jun 1980
+534,160139636,"Nembo, Ferman",M,POKORAPUL,Teacher,04 Dec 1993
+535,160148483,"Noah, Benjiman",M,POKORAPUL,Student,01 Jan 1990
+536,25086190,"Noah, Jonathan",M,POKORAPUL,Student,01 Jun 2003
+537,25086193,"Noah, Nathan",M,POKORAPUL,Student,01 May 2000
+538,160146874,"Noah, Wesly",M,POKORAPUL,Student,01 Jan 1985
+539,160153353,"Nolep, Poya",M,POKORAPUL,Subsistence Farmer,01 Jan 1940
+540,160153069,"Nolepo, Kepu",M,POKORAPUL,Subsistence Farmer,01 Jan 1951
+541,160153542,"Nolepo, Yaku",M,POKORAPUL,Subsistence Farmer,01 Jan 1900
+542,160153357,"Noma, Asimba",M,POKORAPUL,Student,01 Jan 1985
+543,160148592,"Noma, Moses",M,POKORAPUL,Driver,01 Jan 1975
+544,160148674,"Noma, Peter",M,POKORAPUL,Driver,01 Jan 1967
+545,160148672,"Noma, Wapea",M,POKORAPUL,Student,01 Jan 1979
+546,160246587,"Paias, Cain",M,POKORAPUL,Director,19 Jul 1975
+547,160246165,"Paias, Don",M,POKORAPUL,Student,16 Mar 1978
+548,160246333,"Paias, Kenneth",M,POKORAPUL,Director,25 Jul 1972
+549,160246166,"Paias, Michael",M,POKORAPUL,Student,31 Aug 1975
+550,160148608,"Pambon, Kini",M,POKORAPUL,Subsistence Farmer,01 Jan 1942
+551,160148587,"Pani, Embaiye",M,POKORAPUL,Subsistence Farmer,01 Jan 1948
+552,160153359,"Pani, Natimbo",M,POKORAPUL,Subsistence Farmer,01 Jan 1935
+553,25086201,"Paul, Philimen",M,POKORAPUL,Student,10 Mar 2000
+554,160148530,"Pea, Tukundo",M,POKORAPUL,Student,01 Jan 1983
+555,160153493,"Pele, Paul",M,POKORAPUL,Security,01 Jan 1970
+556,160445787,"Pembo, Nolepo",M,POKORAPUL,Student,25 Jul 2000
+557,160153066,"Penne, Undi",M,POKORAPUL,Student,01 Jan 1987
+558,160126762,"Pera, Joel",M,POKORAPUL,Student,23 Feb 1999
+559,160126761,"Pera, Nindil",M,POKORAPUL,Student,02 Apr 1998
+560,160151846,"Pera, Willi",M,POKORAPUL,Student,01 Jan 1984
+561,160445781,"Peter, Danrick",M,POKORAPUL,Driver,07 Nov 1998
+562,160445783,"Peter, Fredrick",M,POKORAPUL,Driver,09 Nov 1998
+563,160445782,"Peter, Nomick",M,POKORAPUL,Student,11 Apr 2004
+564,160126920,"Peya, Carlya",M,POKORAPUL,Student,23 Mar 1992
+565,160153206,"Peya, Patrick",M,POKORAPUL,Student,01 Jan 1988
+566,160148445,"Peya, Peter",M,POKORAPUL,Subsistence Farmer,01 Jan 1959
+567,160153382,"Peya, Tende",M,POKORAPUL,Subsistence Farmer,01 Jan 1971
+568,160146784,"Philip, John",M,POKORAPUL,Doctor,01 Jan 1966
+569,160148594,"Pinje, Kalta",M,POKORAPUL,Subsistence Farmer,01 Jan 1939
+570,160148596,"Pinje, Tepoko",M,POKORAPUL,Subsistence Farmer,01 Jan 1953
+571,160511120,"Pinse, Nokopa",M,POKORAPUL,Subsistence Farmer,28 Apr 1986
+572,160126917,"Piyele, Aenrick",M,POKORAPUL,Student,07 Mar 1998
+573,160511121,"Ponenge, John",M,POKORAPUL,Subsistence Farmer,11 Apr 1990
+574,160139633,"Ponenge, Manuel",M,POKORAPUL,Student,20 Apr 1998
+575,160128125,"Ponenge, Rodney",M,POKORAPUL,Student,15 Jul 1992
+576,160148671,"Poya, Ayele",M,POKORAPUL,Subsistence Farmer,01 Jan 1977
+577,160153354,"Poya, Pembo",M,POKORAPUL,Driver,01 Jan 1975
+578,160445790,"Poya, Pihilip",M,POKORAPUL,Driver,25 Sep 2000
+579,160445789,"Poya, Teringe",M,POKORAPUL,Student,18 Oct 1999
+580,160148151,"Pulgiye, Joel",M,POKORAPUL,Student,01 Jan 1989
+581,160148473,"Pulgiye, Mona",M,POKORAPUL,Student,01 Jan 1981
+582,160148149,"Pulgiye, Wanis",M,POKORAPUL,Accountant,01 Jan 1972
+583,160153375,"Pupule, Tomoiye",M,POKORAPUL,Subsistence Farmer,01 Jan 1900
+584,160511122,"Pure, Lapson",M,POKORAPUL,Student,11 Apr 2000
+585,160148693,"Puri, Tongi",M,POKORAPUL,Subsistence Farmer,01 Jan 1965
+586,160244131,"Puruli, George",M,POKORAPUL,Student,10 Mar 1989
+587,160153063,"Puruli, Mara",M,POKORAPUL,Subsistence Farmer,01 Jan 1979
+588,160153358,"Puruli, Micheal",M,POKORAPUL,Subsistence Farmer,01 Jan 1971
+589,160148610,"Puruli, Rami",M,POKORAPUL,Subsistence Farmer,01 Jan 1963
+590,160146891,"Puruli, Tama",M,POKORAPUL,Student,01 Jan 1984
+591,160151686,"Puruli, Tori",M,POKORAPUL,Student,01 Jan 1982
+592,160246098,"Rainje, Marty",M,POKORAPUL,Student,20 Jan 1992
+593,160153202,"Rami, Mocke",M,POKORAPUL,Subsistence Farmer,01 Jan 1962
+594,160146775,"Rami, Puruli",M,POKORAPUL,Subsistence Farmer,01 Jan 1947
+595,160148449,"Ranje, Lerry",M,POKORAPUL,Student,01 Jan 1989
+596,160445899,"Ranji, Desmon",M,POKORAPUL,Student,07 Aug 2001
+597,160445901,"Ranji, Kenny",M,POKORAPUL,Student,06 Sep 1999
+598,160153362,"Remo, Toli",M,POKORAPUL,Subsistence Farmer,01 Jan 1983
+599,160246737,"Robert, Tende",M,POKORAPUL,Director,16 Aug 1979
+600,160128127,"Simon, Buka",M,POKORAPUL,Student,09 Mar 1981
+601,160445770,"Stanly, Whitey",M,POKORAPUL,Subsistence Farmer,14 May 1997
+602,160148579,"Steven, Jeisen",M,POKORAPUL,Student,01 Jan 1989
+603,160148482,"Taine, Iso",M,POKORAPUL,Student,01 Jan 1990
+604,160445835,"Taine, Jacob",M,POKORAPUL,Student,28 Jun 2002
+605,160445833,"Taine, Jetro",M,POKORAPUL,Student,13 Feb 2004
+606,160148607,"Taine, Kondoa",M,POKORAPUL,Houseboy,01 Jan 1989
+607,160153373,"Taine kongum, Garu",M,POKORAPUL,Subsistence Farmer,01 Jan 1985
+608,160153349,"Talaiye, Mali",M,POKORAPUL,Computer Operator,01 Jan 1948
+609,160146889,"Talaiye, Tenge",M,POKORAPUL,Subsistence Farmer,01 Jan 1967
+610,160445887,"Tamo, Rodney",M,POKORAPUL,Student,13 Feb 2004
+611,160148585,"Teery, Ali",M,POKORAPUL,Student,01 Jan 1989
+612,160148613,"Teka, John",M,POKORAPUL,Subsistence Farmer,01 Jan 1967
+613,160148617,"Teka, Pako",M,POKORAPUL,Student,01 Jan 1976
+614,160148615,"Teka, Watis",M,POKORAPUL,Subsistence Farmer,01 Jan 1980
+615,160244367,"Temo, Roger",M,POKORAPUL,Student,21 Feb 1992
+616,160244372,"Ten, Gift",M,POKORAPUL,Student,22 Feb 1987
+617,160244354,"Ten, Maxwell",M,POKORAPUL,Student,20 Apr 1990
+618,160246114,"Tenis, Endy kelly",M,POKORAPUL,Student,01 Jan 1992
+619,25086233,"Tenis, Frederick",M,POKORAPUL,Subsistence Farmer,12 Jul 1992
+620,160445893,"Tenis, Jonathan",M,POKORAPUL,Student,02 Jun 1999
+621,160246324,"Tepoko, Koitaka",M,POKORAPUL,Director,14 Sep 1985
+622,160148476,"Teru, Ambili",M,POKORAPUL,Subsistence Farmer,01 Jan 1957
+623,160445895,"Tienis, Timmeth",M,POKORAPUL,Student,06 May 1997
+624,160153209,"Tiri, Kewa",M,POKORAPUL,Pastor,01 Jan 1960
+625,160148667,"Titus, Jeremiah",M,POKORAPUL,Student,01 Jan 1984
+626,160153352,"Titus, Jerry",M,POKORAPUL,Student,01 Jan 1986
+627,160153222,"Tiyopaiye, Kuiye",M,POKORAPUL,Subsistence Farmer,01 Jan 1936
+628,160153219,"Tiyopaiye, Pulgiye",M,POKORAPUL,Subsistence Farmer,01 Jan 1963
+629,160148154,"Tiyopaiye, Tenis",M,POKORAPUL,Store Keeper,01 Jan 1961
+630,160153385,"Tiyopiye, Yakipu",M,POKORAPUL,Subsistence Farmer,01 Jan 1946
+631,160151692,"Toimbo, Hon",M,POKORAPUL,Student,01 Jan 1989
+632,160126911,"Toimbo, Nickey",M,POKORAPUL,Student,23 Mar 1998
+633,160148696,"Tomoiye, Lopa",M,POKORAPUL,Subsistence Farmer,01 Jan 1980
+634,160148699,"Tomoiye, Makoroli",M,POKORAPUL,Subsistence Farmer,01 Jan 1989
+635,160148698,"Tomoiye, Marowa",M,POKORAPUL,Student,01 Jan 1987
+636,25086246,"Tomoiye, Simon",M,POKORAPUL,Driver,30 Jun 2000
+637,160153376,"Tomoiye, Temo",M,POKORAPUL,Not Specified,01 Jan 1956
+638,160146760,"Tongi, Charles",M,POKORAPUL,Student,01 Jan 1990
+639,160445841,"Tongi, Elijah",M,POKORAPUL,Student,04 Nov 2002
+640,160246615,"Tongi, Helpis",M,POKORAPUL,Student,31 Jan 1992
+641,160445843,"Tongi, Malchom",M,POKORAPUL,Student,15 Apr 1999
+642,160244327,"Tope, Micah",M,POKORAPUL,Student,15 Mar 1993
+643,160244333,"Tope, Puru",M,POKORAPUL,Student,13 Feb 1991
+644,160153379,"Tope, Toringi",M,POKORAPUL,Student,01 Jan 1988
+645,160126931,"Tori, Kelvin",M,POKORAPUL,Student,23 Jan 1984
+646,160148443,"Tumudawe, Buka",M,POKORAPUL,Subsistence Farmer,01 Jan 1973
+647,160148441,"Tumudawe, Garu",M,POKORAPUL,Subsistence Farmer,01 Jan 1950
+648,160153380,"Tumundawe, Pumbo",M,POKORAPUL,Student,01 Jan 1988
+649,160445805,"Undi, Fidiles",M,POKORAPUL,Student,25 Aug 2002
+650,160153213,"Undi, Koikepo",M,POKORAPUL,Subsistence Farmer,01 Jan 1938
+651,160244512,"Waiye, James",M,POKORAPUL,Director,22 May 1972
+652,160146873,"Wambu, Bendro",M,POKORAPUL,Subsistence Farmer,01 Jan 1968
+653,160148459,"Wambu, Daniel",M,POKORAPUL,Subsistence Farmer,01 Jan 1945
+654,160151839,"Wambu, Lesly",M,POKORAPUL,Subsistence Farmer,01 Jan 1967
+655,160153370,"Wapea, Donlis",M,POKORAPUL,Subsistence Farmer,01 Jan 1985
+656,160136639,"Wapea, Samu",M,POKORAPUL,Student,04 Jan 1998
+657,160148685,"Wapea, Yamba",M,POKORAPUL,Subsistence Farmer,01 Jan 1938
+658,160445817,"Wapi, Tenis",M,POKORAPUL,Driver,26 Apr 1995
+659,25087502,"Watis, Undi",M,POKORAPUL,Self Employed,04 Dec 1997
+660,160153556,"Wegepo, Job",M,POKORAPUL,Subsistence Farmer,01 Jan 1965
+661,160151843,"Wegepo, Joseph",M,POKORAPUL,Driver,01 Jan 1958
+662,25086265,"Wengepo, Ray",M,POKORAPUL,Student,05 Oct 2000
+663,25086269,"Wengepo, Rayen",M,POKORAPUL,Student,06 Jun 2000
+664,160148599,"Were, Jeffry",M,POKORAPUL,Student,01 Jan 1987
+665,160146182,"Yakili, Indipine",M,POKORAPUL,Student,01 Jan 1989
+666,160148148,"Yakipu, Micheal",M,POKORAPUL,Student,01 Jan 1985
+667,160148531,"Yakipu, Ranje",M,POKORAPUL,Subsistence Farmer,01 Jan 1966
+668,160153205,"Yaku, Daniel",M,POKORAPUL,Driver,01 Jan 1968
+669,160445775,"Yaku, Kama",M,POKORAPUL,Driver,07 Nov 1999
+670,160511123,"Yaku, Lesly",M,POKORAPUL,Subsistence Farmer,16 Apr 1990
+671,160246176,"Yaku, Renold",M,POKORAPUL,Student,03 Jan 1992
+672,160153546,"Yaku, Stanly",M,POKORAPUL,Student,01 Jan 1988
+673,160153548,"Yaku, Steven",M,POKORAPUL,Driver,01 Jan 1968
+674,160148688,"Yamba, Denny",M,POKORAPUL,Subsistence Farmer,01 Jan 1977
+675,160128124,"Yamba, Gabby",M,POKORAPUL,Driver,26 Mar 1994
+676,160445851,"Yamba, Gideon",M,POKORAPUL,Student,22 Oct 1999
+677,160153366,"Yamba, Wanpis",M,POKORAPUL,Student,01 Jan 1984
+678,160153377,"Yanaka, Yombe",M,POKORAPUL,Subsistence Farmer,01 Jan 1934

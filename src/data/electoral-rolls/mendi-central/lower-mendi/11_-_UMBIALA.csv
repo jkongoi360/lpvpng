@@ -1,0 +1,2165 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,25124036,"Ado, Alice",F,Yara,Nurse,19 Aug 1994
+2,25124037,"Ado, Betchila",F,Yara,Nurse,16 Jan 1999
+3,25124039,"Ado, Lala",F,Yara,Teacher,12 Feb 1990
+4,25124041,"Ado, Yara",F,Pundia Mol,Student,28 Apr 2004
+5,160191237,"Agula, Tanu",F,Pundia,Household Duties,01 Jan 1900
+6,160443458,"Aipen, Anna",F,Mandipiri,Household Duties,18 Jun 1996
+7,25124042,"Aipen, Jenet",F,Mandipiri,Household Duties,04 May 1999
+8,25152834,"Aipen, Pricila",F,Pundia Mol,Student,12 Feb 2001
+9,25124044,"Aipen, Ruthy",F,Pilmol,Student,12 Feb 2001
+10,160163453,"Aku, Rubame",F,Pundia,Subsistence Farmer,16 Dec 1974
+11,160234635,"Albert, Norin",F,Mandipiri,Household Duties,01 Jan 1985
+12,160177367,"Albet, Magaret",F,Pundia,Household Duties,01 Jan 1977
+13,160234613,"Alep, July",F,Mandipiri,Household Duties,01 Jan 1990
+14,160194516,"Alex, Elsi",F,Pundia,Not Specified,12 Jul 1976
+15,160443790,"Alex, Emila",F,Mandipiri,Student,05 Sep 1990
+16,160196830,"Alex, Esther",F,Pundia,Student,19 Dec 1978
+17,160204221,"Alex, Julina",F,Pundia,Subsistence Farmer,01 Jan 1981
+18,160197383,"Alex, Melisa",F,Pundia,Subsistence Farmer,14 Dec 1960
+19,160443627,"Alita, Keronly",F,Mapirowi,Student,25 Apr 2004
+20,160443629,"Alita, Steveny",F,Mapirowi,Student,23 May 2003
+21,160443579,"Alo, Joelny",F,Penomasa,Student,26 Feb 2004
+22,160177699,"Alo, Lusi",F,Pundia,Household Duties,01 Jan 1975
+23,160124054,"Alphones, Ailine",F,Pundia,Not Specified,01 Jun 1900
+24,160124058,"Alphones, Kentia",F,Pundia,Not Specified,14 Nov 1996
+25,160137880,"Alphones, Lenti",F,Pundia,Not Specified,03 Nov 1993
+26,160124059,"Alphons, Frenclis",F,Pundia,Not Specified,25 Mar 1991
+27,160124057,"Alphons, Linet",F,Pundia,Not Specified,04 Aug 1994
+28,160443668,"Alponse, Abigirl",F,Masapul,Subsistence Farmer,29 Oct 1998
+29,160188449,"Ambi, Bole",F,Pundia,Student,15 Jun 1985
+30,160189714,"Ambi, Elis",F,Pundia,Subsistence Farmer,01 Jan 1972
+31,160191203,"Ambi, Kopi",F,Pundia,Subsistence Farmer,01 Jan 1961
+32,160177448,"Ambi, Sulen",F,Pundia,Household Duties,01 Jan 1969
+33,160187726,"Ambi, Yala",F,Pundia,Subsistence Farmer,01 Jan 1975
+34,160188472,"Ambiasi, Macklyn",F,Pundia,Teacher,01 Jan 1966
+35,160188473,"Ambiasi, Toma",F,Pundia,Subsistence Farmer,01 Jan 1969
+36,160185536,"Amos, Esther malin",F,Pundia,Student,14 Oct 1983
+37,160137866,"Amos, Lina",F,Pundia,Not Specified,24 Sep 1989
+38,160234134,"Amos, Maria",F,Peali,Household Duties,01 Jan 1980
+39,160233170,"Amos, Yaken",F,Pundia,Household Duties,01 Jan 1981
+40,160198777,"Amu, Dayen",F,Pundia,Subsistence Farmer,01 Jan 1950
+41,160196743,"Amu, Jenifer",F,Pundia,Subsistence Farmer,01 Jan 1958
+42,160193569,"Amu, Kendame",F,Pundia,Subsistence Farmer,01 Jan 1962
+43,160195817,"Amu, Magret",F,Pundia,Subsistence Farmer,01 Jan 1966
+44,160196740,"Amu, Mali",F,Pundia,Subsistence Farmer,01 Jan 1954
+45,160194443,"Amu, Peno",F,Pundia,Subsistence Farmer,01 Jan 1942
+46,160198780,"Amu, Piruape",F,Pundia,Subsistence Farmer,01 Jan 1946
+47,160163442,"Anaki, Saina",F,Pundia,Subsistence Farmer,20 Jul 1966
+48,160443494,"Andrew, Esther",F,Pundia,Household Duties,15 Jun 1996
+49,160443559,"Andrew, Linet",F,Peali,Teacher,04 Dec 1998
+50,160234433,"Andrew, Merolny",F,Mapirowi,Student,25 May 1986
+51,160443554,"Andrew, Nancy",F,Penomasa,Student,08 Sep 2000
+52,160443455,"Andy, Angela",F,Mandipiri,Household Duties,19 Jun 1994
+53,25124047,"Andy, Anna",F,Mandipiri,Teacher,02 Feb 1999
+54,25124048,"Andy, Annita",F,Yara,Accountant,02 May 2000
+55,25124049,"Andy, Elvis",F,Peali,Student,02 May 2003
+56,160124176,"Andy, Jocy",F,Pundia,Not Specified,12 Dec 1992
+57,25124050,"Andy, Mary",F,Agolopa,Nurse,04 May 1998
+58,25124051,"Andy, Phydelma",F,Yara,Student,04 May 2002
+59,160137884,"Angu, July",F,Pundia,Not Specified,23 Nov 1993
+60,160198662,"Apkais, Lina",F,Pundia,Subsistence Farmer,01 Jan 1979
+61,25124053,"Arnold, Gomb",F,Mapirowi,Student,07 Dec 1990
+62,25124056,"Arnold, Priscilla",F,Yara,Self Employed,02 Jun 1988
+63,25153124,"Arnold, Rita",F,Yara,Household Duties,11 Nov 1990
+64,160185800,"Asupasi, Ondomba",F,Pundia,Subsistence Farmer,01 Jan 1954
+65,160189891,"Atuk, Eli",F,Pundia,Subsistence Farmer,27 Nov 1981
+66,160189894,"Atuk, Lenda",F,Pundia,Subsistence Farmer,26 Nov 1985
+67,160194480,"Atuk, Malinda",F,Pundia,Subsistence Farmer,26 Jul 1989
+68,160137868,"Atuku, Maria",F,Pundia,Not Specified,25 Jul 1990
+69,160220775,"Atupia, Lumbiridi",F,Pundia,Subsistence Farmer,01 Jan 1956
+70,160177332,"Awae, Mini",F,Pundia,Household Duties,01 Jan 1941
+71,160177341,"Awae, Soty",F,Pundia,Student,01 Jan 1988
+72,160234431,"Bakua, Beni",F,Mapirowi,Household Duties,01 Jan 1974
+73,160234430,"Bakua, Kupini",F,Mapirowi,Housegirl,01 Jan 1970
+74,160198678,"Bakua, Naname",F,Pundia,Household Duties,01 Jan 1936
+75,160124026,"Baragas, Naomi",F,Pundia,Not Specified,19 Oct 1994
+76,160124031,"Barnbas, Stepini",F,Pundia,Not Specified,13 May 1997
+77,25124060,"Beko, Grace",F,Mapirowi,Self Employed,16 Sep 1998
+78,25124061,"Beko, Mary",F,Umbiale,Farm worker,20 May 1998
+79,160234922,"Ben, Janeth",F,Pundia,Household Duties,01 Jan 1981
+80,160234638,"Ben, Meri",F,Mandipiri,Household Duties,01 Jan 1975
+81,25124065,"Ben, Sina",F,Megi,Household Duties,06 Aug 1994
+82,160234597,"Beneheard, Oliver",F,Yara,Household Duties,01 Jan 1989
+83,160124068,"Benet, Olive",F,Yara,Not Specified,11 May 1990
+84,160177854,"Benjamin, Roda",F,Pundia,Household Duties,01 Jan 1970
+85,160173421,"Benly, Catty",F,Pundia,Subsistence Farmer,26 Nov 1982
+86,25124068,"Benny, Sharon",F,Yara         Health Extention Officer 21 May 2000,"87      160188013     Bepi, Noami                F        Pundia       Subsistence Farmer",01 Jan 1982
+87,160124043,"Bero, Ranu",F,Pundia,Not Specified,08 Jul 1993
+88,160124039,"Bero, Same",F,Pundia,Not Specified,02 Nov 1983
+89,160137859,"Bero, Tame",F,Penomasa,Not Specified,30 May 1983
+90,160443555,"Bilton, Judy",F,Peali,Student,05 Feb 2004
+91,160124067,"Biston, Grace",F,Peali,Not Specified,30 Dec 1991
+92,160443485,"Bob, Jesica",F,Yara,Household Duties,19 Apr 1992
+93,160205001,"Boro, Bali",F,Pundia,Household Duties,01 Jan 1953
+94,160124310,"Boro, Rondoa",F,Pundia,Not Specified,30 Nov 1989
+95,160443493,"Brian, Breda",F,Pundia,Teacher,13 Apr 1996
+96,160197366,"Buka, Kombeame",F,Pundia,Subsistence Farmer,01 Jan 1984
+97,160201418,"Buka, Lame",F,Pundia,Subsistence Farmer,01 Jan 1964
+98,160182708,"Buka, Maria",F,Pundia,Subsistence Farmer,21 Nov 1980
+99,160200966,"Buka, Soti",F,Pundia,Student,01 Jan 1986
+100,160203712,"Buru, Aita",F,Pundia,Household Duties,01 Jan 1937
+101,160443676,"Buru, Emolny",F,Masapul,Student,25 Jan 2004
+102,160176285,"Buru, Grenda",F,Pundia,Subsistence Farmer,01 Jan 1983
+103,160443674,"Buru, Jemelny",F,Masapul,Student,09 Apr 2004
+104,160177716,"Buru, Kety",F,Pundia,Household Duties,01 Jan 1983
+105,160198701,"Buru, Kuruambi",F,Pundia,Household Duties,01 Jan 1940
+106,160219236,"Buru, Makire",F,Pundia,Household Duties,01 Jan 1938
+107,160173525,"Buru, Merelin",F,Pundia,Household Duties,01 Jan 1963
+108,160234767,"Buru, Yawini",F,Masapul,Household Duties,01 Jan 1981
+109,25124071,"Cedrick, Kura",F,Pilmol,Farm worker,24 Feb 1995
+110,160177351,"Chalie, Joyce",F,Pundia,Student,01 Jan 1980
+111,160234775,"Charlie, Elish",F,Yara,Household Duties,01 Jan 1965
+112,160198798,"Charlie, Mary",F,Pundia,Subsistence Farmer,01 Jan 1974
+113,160234611,"Charlie, Preslina",F,Mandipiri,Household Duties,01 Jan 1980
+114,160234127,"Cimo, Jenifer",F,Pundia Mol,Worker,01 Jan 1982
+115,160137869,"Cos, Seron",F,Pundia,Not Specified,11 Dec 1985
+116,160177320,"Daimen, Kondo",F,Pundia,Household Duties,01 Jan 1969
+117,160193627,"Daiwa, Lani",F,Pundia,Subsistence Farmer,17 Apr 1986
+118,160194445,"Daiwa, Magame",F,Pundia,Subsistence Farmer,01 Jan 1966
+119,160138032,"Dani, Rebecca",F,Pundia,Not Specified,21 Aug 1987
+120,160234630,"Daniel, Lina",F,Mandipiri,Household Duties,01 Jan 1984
+121,160443563,"Daniel, Melony",F,Penomasa,Student,25 Jun 1995
+122,160124145,"Daniel, Melony",F,Penomasa,Not Specified,25 Sep 1982
+123,160443779,"Daniel, Neli",F,Mandipiri,Student,04 Feb 2004
+124,160188365,"Daniel, Rose",F,Pundia,Subsistence Farmer,01 Jan 1979
+125,160443501,"Daniel, Wali",F,Pundia,Student,15 Oct 1992
+126,160198759,"David, Jeni",F,Pundia,Household Duties,01 Jan 1971
+127,160124080,"David, Josphine",F,Pundia,Not Specified,19 Oct 1989
+128,160443573,"David, Kenenia",F,Penomasa,Student,28 Feb 2004
+129,160189683,"David, Lucy",F,Pundia,Subsistence Farmer,18 Dec 1976
+130,160443469,"David, Relin",F,Pundia,Student,12 Apr 2003
+131,160178069,"David, Rose",F,Pundia,Household Duties,01 Jan 1973
+132,160188019,"David, Saina",F,Pundia,Subsistence Farmer,16 Sep 1980
+133,160124181,"Dickson, Linet",F,Pundia,Not Specified,12 Nov 1989
+134,160193621,"Didi, Sara",F,Pundia,Not Specified,01 Jan 1977
+135,160214045,"Dokta, Grace",F,Pundia,Sister,01 Jan 1964
+136,160215093,"Dokta, Jenet",F,Pundia,Typist,01 Jan 1979
+137,160215468,"Dokta, Lucy",F,Pundia,Student,19 Dec 1986
+138,160123916,"Don, Mekelny",F,Peali,Not Specified,16 Jan 1979
+139,160233178,"Don, Regina",F,Pundia,Household Duties,01 Jan 1978
+140,160234786,"Donold, Weslien",F,Mandipiri,Household Duties,01 Jan 1985
+141,160443507,"Dou, Grace",F,Pundia,Teacher,18 Mar 1983
+142,160177828,"Edward, Buka",F,Pundia,Household Duties,01 Jan 1963
+143,160193736,"Eme, Jenet",F,Pundia,Student,27 Nov 1986
+144,160443552,"Eme, Johnila",F,Pundia,Student,12 Apr 2001
+145,160197279,"Eme, Julie",F,Pundia,Subsistence Farmer,15 Jul 1982
+146,160197277,"Eme, Mori",F,Pundia,Subsistence Farmer,01 Jan 1969
+147,160185622,"Eme, Nancy",F,Pundia,Subsistence Farmer,24 May 1986
+148,160443781,"Eme, Sila",F,Mandipiri,Student,22 Mar 2004
+149,160180336,"Endrew, Keranu",F,Pundia,Student,01 Jan 1986
+150,160180636,"Endrew, Miriye",F,Pundia,Household Duties,01 Jan 1960
+151,160222111,"Enna, Peke",F,Pundia,Subsistence Farmer,01 Jan 1978
+152,160184459,"Enny, Reapo",F,Pundia,Subsistence Farmer,16 May 1979
+153,160184451,"Enny, Sara",F,Pundia,Subsistence Farmer,11 Dec 1976
+154,25124077,"Enoch, Susan",F,Yara,Banker,23 Jul 1988
+155,25124078,"Enock, Adell",F,Yara,Pilot,22 May 1982
+156,160443499,"Enos, Liwalda",F,Pundia,Household Duties,19 May 1995
+157,160443714,"Enrick, Ericka",F,Yaina,Student,27 Mar 2004
+158,160198891,"Enrick, Joise",F,Pundia,Household Duties,01 Jan 1969
+159,160193737,"Epe, Elma",F,Pundia,Student,01 Jan 1988
+160,160124023,"Epe, Jonet",F,Pundia,Not Specified,12 Apr 1984
+161,160124035,"Epeme, Mokoru",F,Pundia,Not Specified,15 Jul 1998
+162,160197381,"Epuka, Everlny",F,Pundia,Subsistence Farmer,01 Jan 1978
+163,160235174,"Erick, Ericar",F,Yara,Housegirl,01 Jan 1992
+164,25124080,"Erick, Erinta",F,Penomasa,Subsistence Farmer,23 Mar 1994
+165,25124082,"Erick, Giame",F,Yara,Subsistence Farmer,09 Feb 1982
+166,160218583,"Erick, Jenet",F,Pundia,Subsistence Farmer,14 Dec 1986
+167,160180346,"Erick, Rendepo",F,Pundia,Subsistence Farmer,01 Jan 1964
+168,160443483,"Erick, Ronica",F,Yara,Student,13 Apr 2004
+169,160218434,"Erick, Ruth",F,Pundia,Subsistence Farmer,12 Jan 1982
+170,25124084,"Erick, Veronica",F,Pilmol,Student,23 Jan 1996
+171,160124147,"Eron, Linet",F,Penomasa,Not Specified,30 Jun 1983
+172,160185497,"Eso, Elis",F,Pundia,Subsistence Farmer,21 Jun 1965
+173,160185752,"Eso, Lora",F,Pundia,Subsistence Farmer,30 Sep 1981
+174,160187388,"Eso, Regina",F,Pundia,Subsistence Farmer,29 Aug 1977
+175,160187384,"Eso, Seron",F,Pundia,Subsistence Farmer,29 Nov 1973
+176,160443575,"Eward, Noami",F,Penomasa,Student,29 Feb 2004
+177,160234624,"Felix, Lilly",F,Mandipiri,Household Duties,01 Jan 1970
+178,160235171,"Fidlish, Regina",F,Yara,Household Duties,01 Jan 1989
+179,160201080,"Francis, Ana",F,Pundia,Household Duties,01 Jan 1969
+180,160124168,"Francis, Rose",F,Pundia,Household Duties,12 Nov 1989
+181,160173097,"Francis, Rose",F,Pundia,Household Duties,01 Jan 1967
+182,25124085,"Frank, Amanda",F,Mapirowi,Household Duties,28 Apr 1999
+183,160234439,"Frank, Emma",F,Mapirowi,Student,01 Jan 1981
+184,160234282,"Frank, Jaja",F,Mapirowi,Student,01 Jan 1986
+185,160234590,"Frank, Lina",F,Mapirowi,Sales Women,01 Jan 1960
+186,25124089,"Frank, Molina",F,Mapirowi,Nurse,17 Feb 1991
+187,25124090,"Frank, Niah",F,Megi,Nurse,04 May 2000
+188,160234281,"Frank, Regina",F,Mapirowi,Student,01 Jan 1984
+189,25124091,"Frank, Stephanie",F,Yaina,Accountant,23 Jan 1991
+190,160124177,"Frankly, Everlyn",F,Pundia,Not Specified,16 May 1989
+191,160196833,"Galu, Gloria",F,Pundia,Subsistence Farmer,10 Mar 1983
+192,160194568,"Galu, Melis",F,Pundia,Subsistence Farmer,01 Jan 1983
+193,160196831,"Galu, Yalanu",F,Pundia,Subsistence Farmer,01 Jan 1968
+194,160124061,"Gebi, Begi",F,Pundia,Not Specified,06 Dec 1982
+195,160137886,"Gebid, Lioni",F,Pundia,Not Specified,05 Nov 1989
+196,160193740,"Gia, Pondo",F,Pundia,Subsistence Farmer,01 Jan 1986
+197,160220886,"Giame, Erida",F,Pundia,Student,12 Jul 1986
+198,160183014,"Gibson, Forex",F,Pundia,Subsistence Farmer,21 May 1977
+199,160196733,"Gibson, Gereta",F,Pundia,Student,01 Jan 1982
+200,160197293,"Gibson, Lilien",F,Pundia,Student,01 Jan 1974
+201,160443572,"Gilbert, Nori",F,Penomasa,Subsistence Farmer,09 Nov 1998
+202,160188451,"Gilford, Besiba",F,Pundia,Subsistence Farmer,01 Jan 1972
+203,160188601,"Gilford, Bessy",F,Pundia,Subsistence Farmer,14 Sep 1974
+204,160443531,"Gilford, Bresila",F,Pundia,Student,11 May 2002
+205,160188447,"Gilford, Masa",F,Pundia,Subsistence Farmer,26 Nov 1978
+206,160187584,"Gilford, Ruth",F,Pundia,Subsistence Farmer,21 Oct 1986
+207,160178051,"Gita, Lina",F,Pundia,Household Duties,01 Jan 1968
+208,160185543,"Glaima, Jenny",F,Pundia,Subsistence Farmer,14 Oct 1970
+209,160185680,"Glama, Joyce",F,Pundia,Student,17 Jun 1987
+210,160124142,"Gulu, Rita",F,Penomasa,Not Specified,30 Jun 1988
+211,160124206,"Haive, Anna",F,Pundia,Not Specified,06 Mar 1987
+212,160198665,"Hapkais, Lida",F,Pundia,Subsistence Farmer,22 May 1984
+213,160176414,"Hapkais, Mary",F,Pundia,Subsistence Farmer,01 Jan 1968
+214,160176282,"Hapkais, Pisa",F,Pundia,Subsistence Farmer,01 Jan 1982
+215,160202382,"Hitar, Meri",F,Pundia,Subsistence Farmer,01 Jan 1981
+216,160190532,"Iki, Adiame",F,Pundia,Household Duties,01 Jan 1960
+217,160188331,"Iki, Epelin",F,Pundia,Student,01 Jan 1989
+218,160234807,"Iki, Henny",F,Agolopa,Student,01 Jan 1982
+219,160204900,"Imbi, Gita",F,Pundia,Household Duties,01 Jan 1970
+220,160443547,"Imbi, Nathass",F,Pundia,Student,21 Nov 2002
+221,160124134,"Imbi, Onika",F,Penomasa,Not Specified,11 Sep 1998
+222,160201416,"Inagi, Anita",F,Pundia,Student,20 May 1982
+223,160201419,"Inagi, Jenita",F,Pundia,Student,17 Sep 1985
+224,160201408,"Inagi, Koyame",F,Pundia,Subsistence Farmer,01 Jan 1956
+225,160201424,"Inagi, Noami",F,Pundia,Student,28 Dec 1986
+226,160201412,"Inagi, Yala",F,Pundia,Subsistence Farmer,01 Jan 1981
+227,160177424,"Inalua, Manati",F,Pundia,Household Duties,01 Jan 1979
+228,160177386,"Inalua, Papo",F,Pundia,Household Duties,01 Jan 1937
+229,160201476,"Inalua, Sara",F,Pundia,Student,01 Jan 1989
+230,160234770,"Inawa, Betty",F,Masapul,Student,01 Jan 1990
+231,160124167,"Indie, Rose",F,Pundia,Household Duties,09 Oct 1994
+232,160188659,"Inuala, Bapi",F,Pundia,Subsistence Farmer,01 Jan 1971
+233,160188488,"Inulua, Helen",F,Pundia,Student,01 Jan 1980
+234,160234598,"Inulua, Mesoni",F,Masapul,Student,01 Jan 1993
+235,160188506,"Inulua, Polin",F,Pundia,Student,01 Jan 1983
+236,160234149,"Ipawa, Bepi",F,Mapirowi,Household Duties,01 Jan 1964
+237,160198549,"Ipaya, Bepi",F,Pundia,Household Duties,01 Jan 1964
+238,160203683,"Ipaya, Koyanu",F,Pundia,Household Duties,01 Jan 1934
+239,160197295,"Ipisa, Delma",F,Pundia,Student,14 Mar 1985
+240,160197291,"Ipisa, Dorina",F,Pundia,Student,26 Apr 1983
+241,160124178,"Ipisa, Elis",F,Pundia,Not Specified,02 May 1990
+242,160197289,"Ipisa, Rita",F,Pundia,Subsistence Farmer,19 Oct 1981
+243,160187780,"Issac, Beta",F,Pundia,Subsistence Farmer,01 Jan 1976
+244,160138033,"Jack, Beti",F,Pundia,Not Specified,18 Apr 1998
+245,160234809,"Jack, Emalin",F,Yaina,Student,01 Jan 1990
+246,160234831,"Jack, Jenifer",F,Pundia,Household Duties,01 Jan 1981
+247,160177760,"Jack, Maria",F,Pundia,Household Duties,01 Jan 1969
+248,160443737,"Jack, Rosa",F,Peali,Household Duties,04 Sep 1994
+249,160443489,"Jackson, Melony",F,Pundia,Household Duties,11 Oct 1992
+250,160188349,"Jacob, Betty",F,Pundia,Household Duties,01 Jan 1952
+251,160215867,"Jacob, Dokais",F,Pundia,Teacher,01 Jan 1973
+252,160443463,"Jacob, Elma",F,Mandipiri,Subsistence Farmer,11 Dec 2001
+253,160443506,"Jacob, Helen",F,Pundia,Household Duties,04 Nov 1991
+254,160123915,"Jacob, Keity",F,Peali,Not Specified,31 Mar 1993
+255,160189932,"Jacob, Nancy",F,Pundia,Household Duties,01 Jan 1970
+256,160234629,"Jacob, Noamy",F,Yara,Household Duties,01 Jan 1964
+257,160124182,"Jacob, Regina",F,Pundia,Not Specified,25 Nov 1984
+258,160443658,"Jame, Maria",F,Agolopa,Subsistence Farmer,28 Aug 1994
+259,160124151,"James, Alphonia",F,Penomasa,Not Specified,06 Sep 1998
+260,25124093,"James, Betty",F,Yaina,Household Duties,15 Mar 1982
+261,160180486,"James, Betty",F,Pundia,Household Duties,01 Jan 1980
+262,160218861,"James, Diyam",F,Pundia,Subsistence Farmer,01 Jan 1975
+263,160124052,"James, Josphin",F,Pundia,Not Specified,03 May 1982
+264,160194598,"James, Joycelin",F,Pundia,Student,01 Jan 1982
+265,160218060,"James, Maria",F,Pundia,Subsistence Farmer,11 Aug 1977
+266,160137857,"James, Miriem",F,Penomasa,Not Specified,30 Nov 1983
+267,160218362,"James, Nogo",F,Pundia,Subsistence Farmer,18 Aug 1977
+268,160177713,"James, Pina",F,Pundia,Household Duties,01 Jan 1965
+269,160443763,"Jeremia, Everlny",F,Peali,Subsistence Farmer,29 Oct 1984
+270,160443762,"Jeremiah, Piana",F,Peali,Student,24 Mar 2003
+271,160443567,"Jerry, Sila",F,Penomasa,Subsistence Farmer,04 Sep 2000
+272,25124094,"Jimmy, Brain",F,Umbiale,Self Employed,13 Jun 2001
+273,160443503,"Jimmy, Jeniffer",F,Pundia,Household Duties,18 Mar 1996
+274,160443502,"Jimmy, Mirriam",F,Pundia,Household Duties,09 Nov 1989
+275,25124096,"Jimmy, Myra",F,Umbiale,Farm worker,22 Feb 2000
+276,25124097,"Jimmy, Rosa",F,Yotorora,Self Employed,17 Jun 1990
+277,160443662,"Joe, Jenny",F,Masapul,Subsistence Farmer,09 Oct 1990
+278,160177397,"Joe, Julie",F,Pundia,Student,04 Sep 1985
+279,160201791,"Joe, Malin",F,Pundia,Subsistence Farmer,01 Jan 1979
+280,160180631,"Joel, Dicala",F,Pundia,Worker,01 Jan 1976
+281,160124169,"Joel, Dila",F,Pundia,Sales Women,12 Oct 1990
+282,160220737,"Joel, Juli",F,Pundia,Household Duties,01 Jan 1974
+283,160180635,"Joel, Justin",F,Pundia,Student,17 Dec 1983
+284,160137861,"Joel, Justina",F,Pundia,Teacher,14 Aug 1980
+285,160443604,"Joel, Lina",F,Penomasa,Household Duties,09 Oct 2000
+286,160443521,"Joel, Pelin",F,Pundia,Student,04 Mar 2003
+287,160187214,"John, Alma",F,Pundia,Student,01 Jan 1980
+288,160176416,"John, Elen",F,Pundia,Household Duties,01 Jan 1969
+289,160124298,"John, Eli",F,Pundia Mol,Not Specified,05 Jan 1989
+290,160443638,"John, Eli",F,Agolopa,Household Duties,12 Apr 1999
+291,160219240,"John, Elias",F,Pundia,Student,27 May 1986
+292,160443645,"John, Elibirth",F,Agolopa,Student,04 Sep 1999
+293,160198557,"John, Ipiri",F,Pundia,Subsistence Farmer,01 Jan 1961
+294,160220616,"John, Jenifer",F,Pundia,Subsistence Farmer,01 Jan 1983
+295,160181083,"John, Jeroty",F,Pundia,Subsistence Farmer,10 Dec 1986
+296,160124028,"John, Joisinda",F,Pundia,Not Specified,07 Sep 1997
+297,160190759,"John, Joyce",F,Pundia,Student,01 Jan 1953
+298,160191241,"John, Jully",F,Pundia,Student,01 Jan 1980
+299,160191020,"John, Kapuame",F,Pundia,Household Duties,01 Jan 1953
+300,160198552,"John, Kepambo",F,Pundia,Subsistence Farmer,27 Dec 1980
+301,160173542,"John, Linet",F,Pundia,Student,01 Jan 1987
+302,160177715,"John, Misi",F,Pundia,Household Duties,01 Jan 1970
+303,160178087,"John, Peanu",F,Pundia,Household Duties,01 Jan 1957
+304,160187390,"John, Peno",F,Pundia,Subsistence Farmer,01 Jan 1969
+305,160176390,"John, Rosa",F,Pundia,Household Duties,01 Jan 1983
+306,160178090,"John, Roslin",F,Pundia,Household Duties,01 Jan 1983
+307,160234790,"Johnathan, Jacklyne",F,Yara,Housegirl,01 Jan 1990
+308,25124100,"Johnson, Cartlyn",F,Pundia Mol,Manager,22 May 1988
+309,25124102,"Johnson, Josephine",F,Yara         Health Extention Officer 07 Feb 1987,"311     160443492     Jojo, Catherin               F        Pundia       Household Duties",19 Sep 1999
+310,160443635,"Jonatan, Neli",F,Mapirowi,Teacher,03 May 1995
+311,160234992,"Jonathan, Delmah",F,Pundia,Teacher,01 Jan 1979
+312,160124143,"Jonathan, Elsi",F,Penomasa,Not Specified,15 May 1983
+313,160124193,"Jonathan, Jacklyn",F,Pundia,Not Specified,15 Jun 1997
+314,160198664,"Jonathan, Lucy",F,Pundia,Subsistence Farmer,01 Jan 1978
+315,160178183,"Jonathan, Meato",F,Pundia,Subsistence Farmer,16 Dec 1976
+316,160180460,"Jonathan, Stepeni",F,Pundia,Household Duties,01 Jan 1981
+317,160124144,"Jonathan, Wesi",F,Penomasa,Not Specified,19 Aug 1991
+318,160139268,"Jonior, Emelin",F,Pundia Mol,Not Specified,05 Jan 1997
+319,160124051,"Jonnathan, Christina",F,Pundia,Not Specified,15 May 1993
+320,160443496,"Joram, Shirly",F,Pundia,Household Duties,19 May 1991
+321,160443606,"Jordan, Emmolny",F,Penomasa,Student,24 May 2003
+322,160443504,"Jordan, Helen",F,Pundia,Household Duties,09 Dec 1994
+323,160443593,"Jordan, Mecklny",F,Penomasa,Teacher,04 Dec 1994
+324,160124021,"Jorem, Shirley",F,Pundia,Not Specified,19 Aug 1989
+325,160124185,"Joseph, Elizabeth",F,Pundia,Not Specified,09 Nov 1981
+326,25124104,"Joseph, Jenny",F,Walemarepa,Student,19 Aug 1994
+327,160443459,"Joseph, Maria",F,Mandipiri,Subsistence Farmer,18 Apr 2000
+328,160177822,"Joseph, Meri",F,Pundia,Household Duties,01 Jan 1969
+329,25124107,"Joseph, Rose",F,Penomasa,Student,09 Dec 1999
+330,25124110,"Joseph, Wini",F,Penomasa,Student,29 May 2000
+331,160443692,"Joshua, Ruth",F,Yaina,Subsistence Farmer,02 Sep 1990
+332,160234140,"Josphine, Jackson",F,Pundia Mol,Household Duties,01 Jan 1984
+333,160124063,"Julian, Daniyen",F,Peali,Not Specified,16 Jul 1982
+334,160124300,"Junior, Alin",F,Pundia Mol,Not Specified,31 Aug 1991
+335,160124055,"Junior, Miriem",F,Pundia,Not Specified,19 May 1992
+336,160124288,"Junior, Semelin",F,Pundia Mol,Not Specified,03 Jun 1998
+337,160137878,"Junior, Stereny",F,Pundia,Not Specified,15 Aug 1991
+338,160443656,"Junnior, Jenifa",F,Agolopa,Teacher,07 Aug 1995
+339,160443777,"Junnior, Roselyn",F,Mandipiri,Subsistence Farmer,09 Oct 1989
+340,160443672,"Junnior, Steveny",F,Masapul,Doctor,03 Dec 1995
+341,25124113,"Jupita, Mary",F,Masapul,Student,16 May 2000
+342,25124114,"Jupita, Michael",F,Agolopa,Driver,15 Feb 2000
+343,25141919,"Jupita, Nancy",F,Penomasa,Farm worker,17 Sep 1998
+344,160443543,"Justin, Joybie",F,Pundia,Student,11 Apr 2000
+345,160443544,"Justin, Joylin",F,Pundia,Student,12 Oct 2001
+346,160234125,"Justin, Leah",F,Pundia Mol,Household Duties,01 Jan 1982
+347,160124171,"Justin, Liya",F,Pundia,Household Duties,02 Dec 1980
+348,160234421,"Justin, Lucy",F,Pundia Mol,Household Duties,01 Jan 1979
+349,160443512,"Justin, Noami",F,Pundia,Student,04 Apr 2002
+350,160173489,"Kagai, Piren",F,Pundia,Student,27 Nov 1974
+351,160190594,"Kagaluka, Rube",F,Pundia,Household Duties,01 Jan 1947
+352,160187684,"Kagua, Lien",F,Pundia,Subsistence Farmer,10 Jun 1963
+353,160234824,"Kaguluka, Lenny",F,Agolopa,Student,01 Jan 1978
+354,25124118,"Kakai, Roselyn",F,Pundia Mol,Self Employed,23 May 1987
+355,160189720,"Kalake, Pereame",F,Pundia,Subsistence Farmer,21 Oct 1954
+356,25152835,"Kale, Mercy",F,Mapirowi,Household Duties,10 Oct 1993
+357,25124123,"Kale, Sera",F,Megi,Student,09 Jan 2000
+358,160124066,"Kamson, Prisicicar",F,Peali,Not Specified,17 May 1988
+359,160207652,"Kandinak, Imabo",F,Pundia,Household Duties,01 Jan 1937
+360,160207496,"Kandinaki, Susen",F,Pundia,Household Duties,01 Jan 1973
+361,160173093,"Kangi, Meame",F,Pundia,Subsistence Farmer,01 Jan 1954
+362,160197364,"Kangi, Tina",F,Pundia,Student,14 Apr 1986
+363,160220993,"Kanoali, Alice",F,Pundia,Subsistence Farmer,01 Jan 1983
+364,160218581,"Kanoali, Esra",F,Pundia,Student,11 Dec 1981
+365,160218432,"Kanoali, Irape",F,Pundia,Subsistence Farmer,01 Jan 1973
+366,160235084,"Kara, Carolyn",F,Pundia Mol,Student,01 Jan 1982
+367,160222105,"Kara, Kiwame",F,Pundia,Subsistence Farmer,19 Aug 1950
+368,160234426,"Kara, Porex",F,Pundia Mol,Housegirl,01 Jan 1983
+369,160234802,"Kara, Utanu",F,Pundia Mol,Household Duties,01 Jan 1965
+370,160177687,"Karite, Kekuru",F,Pundia,Household Duties,01 Jan 1937
+371,160220991,"Karite, Kerolin",F,Pundia,Household Duties,01 Jan 1984
+372,160234128,"Kekuru, Meroko",F,Pundia Mol,Student,01 Jan 1989
+373,160180466,"Kekuru, Nandame",F,Pundia,Household Duties,01 Jan 1938
+374,160234581,"Kekuru, Ripinu",F,Pundia Mol,Household Duties,01 Jan 1943
+375,160443807,"Kela, Bolo",F,Mandipiri,Student,06 Jan 2004
+376,160443815,"Kema, Steveny",F,Mandipiri,Household Duties,03 Jun 1997
+377,160234792,"Kemaria, Andi",F,Mandipiri,Housegirl,01 Jan 1982
+378,160234610,"Kemaria, Cathy",F,Mandipiri,Housegirl,01 Jan 1968
+379,160234620,"Kemaria, Jerothy",F,Mandipiri,Teacher,01 Jan 1984
+380,160234622,"Kemaria, Joislyn",F,Mandipiri,Student,01 Jan 1990
+381,160177389,"Kendi, Morin",F,Pundia,Subsistence Farmer,01 Jan 1981
+382,160218603,"Kenney, Geti",F,Pundia,Household Duties,01 Jan 1970
+383,160233199,"Kenny, Helly",F,Yara,Teacher,01 Jan 1988
+384,160124205,"Kenny, Helly",F,Pundia,Not Specified,11 Apr 1970
+385,160124183,"Kenny, Nancy",F,Pundia,Not Specified,22 Aug 1989
+386,160124195,"Kepen, Melen",F,Pundia,Not Specified,13 Jun 1989
+387,160124180,"Kera, Bena",F,Pundia,Not Specified,14 Jun 1994
+388,160187576,"Kera, Kumapi",F,Pundia,Subsistence Farmer,20 Nov 1956
+389,160443739,"Kewdi, Beverlny",F,Peali,Student,05 Mar 2004
+390,160443735,"Kewyadi, Mex",F,Peali,Subsistence Farmer,03 Nov 1981
+391,160193487,"Keyadi, Bana",F,Pundia,Subsistence Farmer,01 Jan 1965
+392,160124294,"Keyandi, Ambigel",F,Pundia Mol,Not Specified,05 Aug 1998
+393,160203684,"Keyandi, Belepit",F,Pundia,Household Duties,01 Jan 1951
+394,160124075,"Keyandi, Bepliny",F,Peali,Not Specified,14 Jun 1994
+395,160124293,"Keyandi, Evelin",F,Pundia Mol,Not Specified,23 Sep 1986
+396,160191264,"Keyandi, Nancy",F,Pundia,Student,12 Nov 1984
+397,160191193,"Keyandi, Soti",F,Pundia,Student,14 Jan 1986
+398,160194500,"Kiniwi, Elis",F,Pundia,Subsistence Farmer,01 Jan 1971
+399,160205003,"Kipu, Dola",F,Pundia,Student,21 Oct 1985
+400,160201516,"Kipu, Mali",F,Pundia,Student,09 Sep 1987
+401,160202255,"Kipu, Mapira",F,Pundia,Subsistence Farmer,01 Jan 1978
+402,160207485,"Kisa, Doris",F,Pundia,Subsistence Farmer,01 Jan 1978
+403,160207654,"Kisa, Lenny",F,Pundia,Student,19 Oct 1983
+404,160124013,"Kodnol, Grace",F,Pundia,Not Specified,12 Apr 1995
+405,160124196,"Koke, Liyan",F,Pundia,Not Specified,04 Jan 1999
+406,160180984,"Kole, Ratano",F,Pundia,Subsistence Farmer,01 Jan 1975
+407,160185602,"Kole, Susuan",F,Pundia,Subsistence Farmer,01 Jan 1972
+408,160214034,"Kone, Joyce",F,Pundia,Teacher,01 Jan 1974
+409,160215477,"Kone, Rosa",F,Pundia,Student,12 Oct 1986
+410,160234435,"Kongai, Henny",F,Penomasa,Household Duties,01 Jan 1970
+411,160185761,"Kongai, Sekelin",F,Pundia,Household Duties,01 Jan 1984
+412,160218611,"Kongai, Yawata",F,Pundia,Household Duties,01 Jan 1935
+413,160124153,"Kor, Maria",F,Penomasa,Not Specified,06 Nov 1982
+414,160124154,"Kor, Tina",F,Penomasa,Not Specified,06 Sep 1998
+415,160207658,"Koropa, Eli",F,Pundia,Household Duties,01 Jan 1963
+416,160177670,"Koropa, Lina",F,Pundia,Household Duties,01 Jan 1987
+417,160178080,"Koropa, Mone",F,Pundia,Household Duties,01 Jan 1955
+418,160201128,"Koropo, Jenet",F,Pundia,Student,01 Jan 1987
+419,160199031,"Koropo, Linet",F,Pundia,Student,01 Jan 1989
+420,160201121,"Koropo, Palueme",F,Pundia,Household Duties,01 Jan 1943
+421,160234133,"Koyamu, Merian",F,Peali,Household Duties,01 Jan 1974
+422,160220978,"Koyapo, Anna",F,Pundia,Subsistence Farmer,01 Jan 1957
+423,160173448,"Koyapo, Grace",F,Pundia,Student,14 Jun 1983
+424,160201404,"Koyapo, Jenety",F,Pundia,Subsistence Farmer,01 Jan 1979
+425,160201415,"Koyapo, Josphine",F,Pundia,Student,24 Oct 1984
+426,160198374,"Koyapo, Julie",F,Pundia,Teacher,01 Jan 1981
+427,160220738,"Koyapo, Kristina",F,Pundia,Student,24 Aug 1985
+428,160198369,"Koyapo, Lina",F,Pundia,Worker,01 Jan 1978
+429,160173553,"Koyapo, Pulunu",F,Pundia,Subsistence Farmer,01 Jan 1965
+430,160443750,"Koyex, Roselny",F,Peali,Subsistence Farmer,24 Sep 1983
+431,160124065,"Koyex, Roselyn",F,Peali,Not Specified,12 Dec 1980
+432,160234821,"Kuma, Anita",F,Agolopa,Student,01 Jan 1988
+433,160234825,"Kuma, Josphine",F,Agolopa,Student,01 Jan 1984
+434,160193501,"Kuma, July",F,Pundia,Student,01 Jan 1989
+435,160191258,"Kuma, Tomabo",F,Pundia,Household Duties,01 Jan 1950
+436,160443509,"Kundiri, Dolly",F,Pundia,Household Duties,18 Apr 1997
+437,160196829,"Kundiri, Lina",F,Pundia,Household Duties,01 Jan 1959
+438,160181091,"Kupi, Ana",F,Pundia,Student,01 Jan 1985
+439,160181089,"Kupi, Maria",F,Pundia,Household Duties,01 Jan 1955
+440,160443558,"Kupini, Prisilar",F,Peali,Teacher,09 Nov 1995
+441,160191018,"Kuruma, Eli",F,Pundia,Household Duties,01 Jan 1981
+442,160189989,"Kuruma, Nanali",F,Masapul,Household Duties,01 Jan 1938
+443,160218887,"Kuta, Mali",F,Pundia,Subsistence Farmer,20 Jun 1960
+444,160198792,"Laima, Susen",F,Pundia,Household Duties,01 Jan 1973
+445,160124016,"Laks, Misel",F,Pundia,Not Specified,20 Nov 1989
+446,160235082,"Lax, Mecklny",F,Peali,Worker,01 Jan 1974
+447,160443727,"Lax, Misel",F,Peali,Store Keeper,09 Nov 1984
+448,160124308,"Leke, Joicalin",F,Pundia,Not Specified,30 Oct 1991
+449,160443519,"Leo, Joena",F,Yara,Student,14 Jun 2001
+450,160443488,"Leo, Nellie",F,Pundia,Teacher,15 Jun 1989
+451,160443456,"Leo, Samenta",F,Yara,Household Duties,18 May 2001
+452,160185539,"Lepi, Josika",F,Pundia,Student,01 Jan 1989
+453,160185604,"Lepi, Regina",F,Pundia,Household Duties,01 Jan 1960
+454,25124129,"Lepi, Rose",F,Mandipiri,Student,03 Jan 2004
+455,25124132,"Les, Lorraine",F,Pilmol,Student,04 May 2002
+456,25124133,"Les, Sara",F,Pundia Mol,Nurse,24 Nov 1999
+457,160178125,"Lia, Akiri",F,Pundia,Subsistence Farmer,30 Nov 1988
+458,160124165,"Lia, Dorin",F,Pundia,Not Specified,17 Jun 1990
+459,160178118,"Lia, Jowen",F,Pundia,Doctor,06 Nov 1976
+460,160177843,"Lia, Laya",F,Pundia,Subsistence Farmer,11 Jul 1980
+461,160181067,"Lika, Kambenu",F,Pundia,Student,01 Jan 1988
+462,160188021,"Lika, Tepili",F,Pundia,Household Duties,01 Jan 1945
+463,160443817,"Linet, Wait",F,Mandipiri,Student,04 Jan 2004
+464,160234617,"Lita, Trasy",F,Yara,Housegirl,01 Jan 1990
+465,160443451,"Livai, Mari",F,Pundia,Store Keeper,07 Nov 1999
+466,160173557,"Loeme, Bepi",F,Pundia,Household Duties,01 Jan 1969
+467,160198675,"Loeme, Kerolin",F,Pundia,Student,01 Jan 1989
+468,160443453,"Lombi, Judie",F,Pundia,Household Duties,18 Dec 1993
+469,160137871,"Lombil, Judy",F,Pundia,Not Specified,09 Oct 1989
+470,160188335,"Lome, Lepo",F,Pundia,Subsistence Farmer,01 Jan 1976
+471,160189909,"Lome, Lisa",F,Pundia,Subsistence Farmer,01 Jan 1956
+472,160189910,"Lome, Magret",F,Pundia,Subsistence Farmer,01 Jan 1960
+473,160190034,"Lome, Rebecca",F,Pundia,Student,01 Jan 1981
+474,160177575,"Lope, Jenet",F,Pundia,Subsistence Farmer,12 May 1983
+475,160153854,"Lope, Maria",F,Pundia,Subsistence Farmer,01 Jan 1965
+476,160235085,"Lops, Jospine",F,Pundia Mol,Household Duties,01 Jan 1981
+477,160180322,"Lorence, Lenda",F,Pundia,Household Duties,01 Jan 1975
+478,160124184,"Lucas, Eliasah",F,Pundia,Not Specified,14 Sep 1989
+479,160191248,"Lucas, Jacklyn",F,Pundia,Student,01 Jan 1987
+480,160188454,"Lucas, Pepisa",F,Pundia,Household Duties,01 Jan 1979
+481,160234627,"Lucas, Sabbeth",F,Yara,Household Duties,01 Jan 1989
+482,160124204,"Lucas, Sabet",F,Pundia,Not Specified,04 Jun 1989
+483,160219242,"Lucy, Kendesa",F,Pundia,Household Duties,14 Oct 1988
+484,25124137,"Luke, Georgina",F,Mapirowi,Student,07 Jan 2002
+485,25124138,"Luke, Jessica",F,Yotorora,Student,12 Dec 2002
+486,160443570,"Luke, Ketty",F,Penomasa,Household Duties,04 Dec 1998
+487,25124139,"Luke, Lois",F,Yara,Nurse,17 Jan 1991
+488,160201482,"Luke, Miriam",F,Pundia,Household Duties,01 Jan 1980
+489,160443452,"Luke, Steveny",F,Pundia,Housegirl,28 Feb 2004
+490,160190280,"Lumbi, Dap",F,Pundia,Subsistence Farmer,01 Jan 1967
+491,160193641,"Lumbi, Jacklin",F,Pundia,Subsistence Farmer,01 Jan 1979
+492,160193473,"Lumbi, Joyce",F,Pundia,Student,21 Mar 1983
+493,160175627,"Lumbu, Anna",F,Pundia,Subsistence Farmer,10 Aug 1968
+494,160124189,"Lumbu, Lany",F,Pundia,Not Specified,15 Sep 1998
+495,160176053,"Lumbu, Lepi",F,Pundia,Subsistence Farmer,16 Aug 1964
+496,160173610,"Lumbu, Lima",F,Pundia,Student,19 Aug 1976
+497,160218588,"Lumbu, Maria",F,Pundia,Household Duties,01 Jan 1971
+498,160234793,"Lumbu, Nori",F,Mandipiri,Housegirl,01 Jan 1977
+499,160235170,"Lumbu, Sennah",F,Yara,Housegirl,01 Jan 1974
+500,160168704,"Lumbu, Susana",F,Pundia,Student,26 Sep 1972
+501,160173621,"Lumbu, Yalu",F,Pundia,Subsistence Farmer,27 Jul 1980
+502,160443586,"Luta, Melinda",F,Penomasa,Subsistence Farmer,03 Sep 1994
+503,160201478,"Luther, Elen",F,Pundia,Household Duties,01 Jan 1966
+504,160221993,"Luther, Elisa",F,Pundia,Household Duties,01 Jan 1980
+505,160443767,"Luther, Ketty",F,Peali,Household Duties,04 Jun 1984
+506,160177430,"Luther, Melen",F,Pundia,Student,01 Jan 1988
+507,160177466,"Luther, Mori",F,Pundia,Household Duties,01 Jan 1969
+508,160234437,"Maicheal, Matilar",F,Penomasa,Student,01 Jan 1990
+509,160234988,"Maika, Pangs",F,Pundia,Household Duties,01 Jan 1980
+510,160443457,"Maika, Preda",F,Pundia,Household Duties,18 Apr 1998
+511,160123917,"Maitas, Lero",F,Pundia,Not Specified,12 Dec 1995
+512,160124076,"Maka, Roselyn",F,Pundia,Not Specified,14 Aug 1994
+513,160222098,"Mali, Matina",F,Pundia,Household Duties,01 Jan 1984
+514,160221930,"Mali, Remusi",F,Pundia,Household Duties,01 Jan 1942
+515,160178081,"Malu, Bapu",F,Pundia,Household Duties,01 Jan 1940
+516,160177364,"Malu, Holi",F,Pundia,Student,01 Jan 1981
+517,160185523,"Malu, Kapi",F,Pundia,Subsistence Farmer,14 Jul 1971
+518,160443803,"Malu, Kattyn",F,Mandipiri,Store Keeper,09 Mar 2004
+519,160188590,"Malu, Ketlny",F,Pundia,Student,01 Jan 1987
+520,160187335,"Malu, Lucy",F,Pundia,Subsistence Farmer,01 Jan 1979
+521,160187239,"Malu, Motopa",F,Pundia,Subsistence Farmer,01 Jan 1963
+522,160187338,"Malu, Pata",F,Pundia,Subsistence Farmer,01 Jan 1985
+523,160180579,"Malu, Wari",F,Pundia,Student,10 May 1983
+524,160204164,"Mambi, Melida",F,Pundia,Subsistence Farmer,01 Jan 1982
+525,160177698,"Mambo, Nogosi",F,Pundia,Household Duties,01 Jan 1968
+526,160187738,"Manage, Lena",F,Pundia,Subsistence Farmer,10 Aug 1982
+527,25124143,"Manase, Lina",F,Yara,Not Specified,28 May 2000
+528,25124144,"Manase, Nol",F,Yotorora,Accountant,19 Feb 2004
+529,160160599,"Manda, Kegerema",F,Pundia,Subsistence Farmer,13 May 1946
+530,160180607,"Mane, Runduname",F,Pundia,Household Duties,01 Jan 1956
+531,160124174,"Manemane, Kerolyn",F,Pundia,Not Specified,09 Oct 1989
+532,160201016,"Manemane, Reranu",F,Pundia,Subsistence Farmer,29 Jul 1966
+533,160124173,"Mangemane, Margaret",F,Pundia,Household Duties,14 Nov 1974
+534,160201019,"Manmane, Maki",F,Pundia,Subsistence Farmer,30 Dec 1970
+535,160139271,"Manu, Rose",F,Pundia Mol,Not Specified,30 Jun 1991
+536,160177407,"Mapi, Bani",F,Pundia,Subsistence Farmer,01 Jan 1979
+537,160177606,"Mapi, Rurinu",F,Pundia,Subsistence Farmer,01 Jan 1982
+538,160443827,"Mapu, Jacklyn",F,Mandipiri,Student,16 Feb 2004
+539,160176398,"Maria, Lopame",F,Pundia,Household Duties,01 Jan 1944
+540,160185588,"Maria, Mex",F,Pundia,Subsistence Farmer,01 Jan 1974
+541,160177831,"Maria, Teremu",F,Pundia,Household Duties,01 Jan 1943
+542,160193493,"Mark, Aknes",F,Pundia,Subsistence Farmer,01 Jan 1975
+543,160443467,"Mark, Everlyn",F,Mandipiri,Subsistence Farmer,14 Jan 1998
+544,160185618,"Mark, Prisalar",F,Pundia,Subsistence Farmer,01 Jan 1980
+545,160123919,"Mark, Sera",F,Pundia,Not Specified,19 Oct 1989
+546,160191389,"Mark, Toni",F,Pundia,Subsistence Farmer,01 Jan 1981
+547,160187891,"Mata, Delma",F,Pundia,Student,26 Oct 1986
+548,160204893,"Mata, Neli",F,Pundia,Household Duties,01 Jan 1969
+549,160443523,"Mata, Sharonie",F,Pundia,Student,11 May 2003
+550,160137858,"Mata, Yala",F,Penomasa,Not Specified,18 Apr 1983
+551,160215886,"Mathew, Kettlin",F,Pundia,Subsistence Farmer,01 Jan 1979
+552,160235083,"Mathias, Lero",F,Pundia Mol,Household Duties,01 Jan 1981
+553,160443709,"Matin, Lavina",F,Yaina,Student,05 Feb 2004
+554,160124135,"Matin, Lavina",F,Penomasa,Not Specified,08 Aug 1991
+555,160210415,"Matin, Merelin",F,Pundia,Household Duties,01 Jan 1970
+556,160443695,"Matin, Meri",F,Yaina,Household Duties,09 Nov 1995
+557,160124137,"Matin, Vero",F,Penomasa,Not Specified,30 Nov 1986
+558,160234803,"Matthew, Rebecca",F,Pundia Mol,Household Duties,01 Jan 1980
+559,160443667,"Matyu, Dodo",F,Masapul,Subsistence Farmer,21 Jul 1995
+560,160124146,"Matyu, Sara",F,Penomasa,Not Specified,03 Aug 1984
+561,160204228,"Maya, Kakoali",F,Pundia,Household Duties,20 Sep 1983
+562,160184597,"Meato, Maina",F,Pundia,Household Duties,01 Jan 1973
+563,25124147,"Melcentry, Myrah",F,Yara,Teacher,22 May 1987
+564,160443517,"Mera, Angeun",F,Pundia,Student,19 May 2001
+565,160173442,"Mera, Josephine",F,Pundia,Student,21 Aug 1984
+566,160176404,"Mera, Lina",F,Pundia,Student,14 Jul 1984
+567,160177344,"Mera, Pago",F,Pundia,Subsistence Farmer,01 Jan 1961
+568,160198802,"Mera, Rundu",F,Pundia,Subsistence Farmer,01 Jun 1982
+569,160187894,"Mex, Meresala",F,Pundia,Subsistence Farmer,26 Aug 1988
+570,160180418,"Michael, Alparika",F,Pundia,Student,01 Jan 1987
+571,160185805,"Michael, Elisabet",F,Pundia,Household Duties,01 Jan 1965
+572,160184596,"Michael, Ketrin",F,Pundia,Household Duties,01 Jan 1966
+573,160204730,"Michael, Kety",F,Pundia,Household Duties,01 Jan 1973
+574,160443707,"Michael, Lenny",F,Yaina,Student,09 Mar 2004
+575,160203702,"Michael, Miriam",F,Pundia,Household Duties,01 Jan 1963
+576,160124202,"Michael, Neli",F,Pundia,Not Specified,04 May 1981
+577,160443608,"Michael, Ruthy",F,Penomasa,Student,08 Feb 2004
+578,160185809,"Michael, Seron",F,Pundia,Household Duties,01 Jan 1966
+579,160184598,"Michael, Stela",F,Pundia,Household Duties,01 Jan 1967
+580,160234139,"Micheal, Lily",F,Penomasa,Household Duties,01 Jan 1976
+581,160124138,"Micheal, Melin",F,Penomasa,Not Specified,30 Jun 1984
+582,160188450,"Micheal, Meri",F,Pundia,Subsistence Farmer,12 Oct 1979
+583,160234138,"Micheal, Milcah",F,Penomasa,Student,01 Jan 1981
+584,160204891,"Micheal, Relinda",F,Pundia,Household Duties,04 Jul 1970
+585,160234777,"Mick, Devida",F,Yara,Student,01 Jan 1992
+586,160204883,"Mick, Rose",F,Pundia,Household Duties,01 Jan 1975
+587,160124038,"Mike, Davida",F,Pundia,Not Specified,03 Apr 1998
+588,160193622,"Miria, Tagonda",F,Pundia,Household Duties,01 Jan 1953
+589,160233169,"Mirie, Doroty",F,Agolopa,Housegirl,01 Jan 1986
+590,160234983,"Mirie, Hellen",F,Agolopa,Student,01 Jan 1992
+591,160124045,"Mirie, Jogita",F,Pundia,Not Specified,25 Mar 1999
+592,160234820,"Mirie, Joicynter",F,Agolopa,Household Duties,01 Jan 1976
+593,160234819,"Mirie, Susan",F,Agolopa,Student,01 Jan 1990
+594,160443464,"Misck, Regel",F,Mandipiri,Student,20 Oct 2000
+595,160191387,"Moinai, Meri",F,Pundia,Subsistence Farmer,07 Jun 1953
+596,160191390,"Moinai, Yala",F,Pundia,Subsistence Farmer,06 Jul 1957
+597,160220741,"Moka, Yabanu",F,Pundia,Household Duties,01 Jan 1960
+598,25124148,"Monai, Meri",F,Mandipiri,Household Duties,15 Oct 1973
+599,25124149,"Monai, Regel",F,Mandipiri,Household Duties,10 May 1981
+600,25124150,"Monai, Yambanu",F,Mapirowi,Household Duties,12 Jan 1989
+601,25124151,"Monia, Yala",F,Mapirowi,Household Duties,21 Feb 1999
+602,160198704,"Moria, Eli",F,Pundia,Household Duties,01 Jan 1977
+603,160197283,"Moria, Wake",F,Pundia,Household Duties,01 Jan 1938
+604,160219232,"Moris, Leni",F,Pundia,Subsistence Farmer,21 Nov 1986
+605,160198700,"Moris, Make",F,Pundia,Subsistence Farmer,11 Aug 1977
+606,160187443,"Mose, Rawa",F,Pundia,Subsistence Farmer,01 Jan 1978
+607,160177682,"Moses, Eli",F,Pundia,Household Duties,01 Jan 1963
+608,160443795,"Moses, Elis",F,Mandipiri,Student,12 Mar 2004
+609,160196842,"Moses, Ipisa",F,Pundia,Subsistence Farmer,01 Jan 1968
+610,160443798,"Moses, Jopina",F,Mandipiri,Student,12 Feb 2004
+611,160124073,"Moses, Josphina",F,Peali,Not Specified,16 Oct 1992
+612,160137887,"Mox, Rebeca",F,Pundia,Not Specified,11 Feb 1987
+613,160124141,"Mulai, Norrin",F,Penomasa,Not Specified,08 Sep 1989
+614,160180490,"Mupi, Wakere",F,Pundia,Household Duties,01 Jan 1930
+615,160193505,"Nabis, Neali",F,Pundia,Household Duties,01 Jan 1969
+616,160187143,"Nadiye, Moyame",F,Pundia,Subsistence Farmer,16 Dec 1942
+617,160218864,"Nagia, Giame",F,Pundia,Subsistence Farmer,29 May 1969
+618,160219113,"Nagia, Veronica",F,Pundia,Subsistence Farmer,23 Sep 1970
+619,160177579,"Naikis, Riame",F,Pundia,Subsistence Farmer,01 Jan 1964
+620,160124199,"Naiten, Prinda",F,Pundia,Not Specified,02 Apr 1998
+621,160124197,"Naiten, Renila",F,Pundia,Not Specified,06 Jun 1997
+622,160124198,"Naiten, Restra",F,Pundia,Not Specified,01 Jan 1996
+623,160195846,"Nala, Anna",F,Pundia,Subsistence Farmer,01 Jan 1966
+624,160200999,"Nala, Giame",F,Pundia,Subsistence Farmer,01 Jan 1976
+625,160443527,"Nala, Welin",F,Pundia,Student,24 Mar 2004
+626,160203698,"Nalia, Jenifer",F,Pundia,Subsistence Farmer,01 Jan 1981
+627,160190321,"Nalia, Mege",F,Pundia,Subsistence Farmer,01 Jan 1978
+628,160178114,"Namina, Jacky",F,Pundia,Student,21 Nov 1972
+629,25124152,"Namina, Jacky",F,Pundia,Household Duties,02 May 1992
+630,25124154,"Namina, Lagiape",F,Masapul,Household Duties,12 Feb 1995
+631,160177804,"Namina, Lagiape",F,Pundia,Subsistence Farmer,30 Nov 1964
+632,160177807,"Namina, Roslin",F,Pundia,Subsistence Farmer,27 Oct 1966
+633,25142141,"Namina, Roslyn",F,Penomasa,Household Duties,21 Sep 1997
+634,160177812,"Namina, Steven",F,Pundia,Student,19 Dec 1974
+635,25124156,"Namina, Yombe",F,Peali,Household Duties,07 Aug 1994
+636,160222102,"Nande, Ana",F,Pundia,Household Duties,01 Jan 1973
+637,160204329,"Nande, Mini",F,Pundia,Subsistence Farmer,01 Jan 1969
+638,160203700,"Nande, Morin",F,Pundia,Subsistence Farmer,01 Jan 1980
+639,160193570,"Nandesu, Joslin",F,Pundia,Household Duties,01 Jan 1979
+640,160220890,"Nandesu, Meri",F,Pundia,Household Duties,01 Jan 1975
+641,160197185,"Nandie, Esra",F,Pundia,Subsistence Farmer,30 Jun 1975
+642,160185806,"Nandie, Ratame",F,Pundia,Subsistence Farmer,16 Oct 1959
+643,160180958,"Nandiye, Joycelin",F,Pundia,Subsistence Farmer,16 Oct 1955
+644,160201279,"Nandiye, Luwen",F,Pundia,Subsistence Farmer,21 Nov 1987
+645,160202292,"Nandiye, Tonny",F,Pundia,Subsistence Farmer,29 Jul 1971
+646,25124157,"Nandlye, Essra",F,Yara,Self Employed,27 Aug 1992
+647,25124158,"Nandlye, Luwen",F,Mapirowi,Self Employed,29 May 1994
+648,25124159,"Nandlye, Tonny",F,Peali,Self Employed,17 Jan 2000
+649,160185802,"Nandoma, Ratueme",F,Pundia,Household Duties,01 Jan 1938
+650,160180569,"Nandoma, Sagi",F,Pundia,Household Duties,01 Jan 1981
+651,160184447,"Nare, Bapi",F,Pundia,Subsistence Farmer,26 Nov 1954
+652,160171863,"Nare, Kumbabo",F,Pundia,Subsistence Farmer,18 Dec 1944
+653,160187685,"Nare, Lenny",F,Pundia,Subsistence Farmer,01 Jan 1979
+654,160200994,"Nason, Ben",F,Pundia,Household Duties,01 Jan 1973
+655,160198805,"Natan, Prida",F,Pundia,Household Duties,01 Jan 1973
+656,160124069,"Ndiye, Rose",F,Yara,Not Specified,03 Sep 1979
+657,25124160,"Nelison, Presilla",F,Masapul,Typist,04 Sep 1987
+658,25124162,"Nelison, Regina",F,Yotorora,Technician,01 Jul 1918
+659,160235169,"Nelson, Besiber",F,Yara,Student,01 Jan 1990
+660,25124163,"Nelson, Charolyn",F,Pundia,Student,11 Apr 2000
+661,160198865,"Nelson, Elizabeth",F,Pundia,Student,10 Oct 1975
+662,160198890,"Nelson, Esther",F,Pundia,Household Duties,04 Oct 1983
+663,160443740,"Nelson, Kerolny",F,Peali,Student,24 Feb 2004
+664,25124164,"Nelson, Napiana",F,Pundia,Student,05 Nov 2002
+665,160443743,"Nelson, Napina",F,Peali,Student,06 Jan 2004
+666,160443460,"Nelson, Ope",F,Yara,Student,25 Apr 2003
+667,160222108,"Nelson, Sina",F,Pundia,Subsistence Farmer,09 Sep 1957
+668,25124165,"Nelson, Sina",F,Yara,Student,09 Oct 2001
+669,160443711,"Nerick, Brenda",F,Yaina,Household Duties,19 Aug 1992
+670,25124166,"Nickson, Bessy",F,Pundia,Self Employed,27 Oct 1993
+671,160124175,"Nickson, Bessy",F,Pundia,Not Specified,24 Aug 1989
+672,25124167,"Nickson, Dasy",F,Pundia Mol,Student,12 Nov 2000
+673,160234429,"Nickson, Diasy",F,Pundia Mol,Teacher,01 Jan 1980
+674,160185504,"Nickson, Koyaime",F,Pundia,Subsistence Farmer,01 Jan 1976
+675,160123912,"Nickson, Liana",F,Peali,Not Specified,12 Dec 1980
+676,160137862,"Nickson, Merolyn",F,Pundia,Not Specified,19 Jun 1994
+677,160206442,"Nike, Muma",F,Pundia,Subsistence Farmer,01 Jan 1979
+678,160234805,"Ninde, Linah",F,Pundia Mol,Household Duties,01 Jan 1979
+679,160201477,"Niru, Alandi",F,Pundia,Subsistence Farmer,01 Jan 1978
+680,160188070,"Niru, Alice",F,Pundia,Subsistence Farmer,19 Jul 1982
+681,160177327,"Niru, Holi",F,Pundia,Student,15 Jul 1985
+682,160193504,"Niru, Mini",F,Pundia,Subsistence Farmer,01 Jan 1957
+683,160443748,"Niru, Oliver",F,Peali,Student,08 Apr 2004
+684,160206447,"Nisa, Maria",F,Pundia,Household Duties,01 Jan 1950
+685,160443495,"Nixon, Jessica",F,Pundia,Household Duties,12 May 1988
+686,160443577,"Noel, Matina",F,Penomasa,Subsistence Farmer,14 May 2000
+687,160180432,"Noel, Meame",F,Pundia,Household Duties,01 Jan 1970
+688,160443642,"Noki, Bessy",F,Agolopa,Household Duties,04 Aug 1994
+689,160188603,"Noki, Morin",F,Pundia,Subsistence Farmer,01 Jan 1983
+690,160124299,"Noki, Warex",F,Pundia Mol,Not Specified,15 Feb 1989
+691,160176093,"Nole, Giame",F,Pundia,Subsistence Farmer,21 Mar 1980
+692,160173549,"Nole, Laniame",F,Pundia,Subsistence Farmer,01 Jan 1978
+693,160201510,"Nole, Narenu",F,Pundia,Subsistence Farmer,14 Jun 1984
+694,160173545,"Nole, Nogosie",F,Pundia,Subsistence Farmer,01 Jan 1959
+695,160198673,"Nole, Wari",F,Pundia,Subsistence Farmer,17 May 1982
+696,160173111,"Noman, Jeni",F,Pundia,Household Duties,01 Jan 1971
+697,160137891,"Noman, Saina",F,Pundia,Not Specified,24 Dec 1989
+698,160190747,"Nopu, Ipiri",F,Pundia,Subsistence Farmer,01 Jan 1970
+699,160219249,"Nopu, Kurualo",F,Pundia,Household Duties,01 Jan 1940
+700,160443565,"Nopu, Lavina",F,Penomasa,Subsistence Farmer,24 Aug 1994
+701,160234823,"Nopu, Lekewane",F,Agolopa,Household Duties,06 Jul 1946
+702,160234813,"Nopu, Lina",F,Agolopa,Household Duties,03 May 1975
+703,160190773,"Nopu, Lina",F,Pundia,Household Duties,01 Jan 1965
+704,160217816,"Nopu, Matina",F,Pundia,Subsistence Farmer,30 Nov 1989
+705,160187556,"Nopu, Mirem",F,Pundia,Subsistence Farmer,01 Jan 1965
+706,160194485,"Nopu, Nogosi",F,Pundia,Subsistence Farmer,11 Aug 1949
+707,160219254,"Nopu, Sailen",F,Pundia,Household Duties,01 Jan 1982
+708,160234989,"Norman, Usajacklin",F,Pundia,Household Duties,01 Jan 1982
+709,160124033,"Norrie, Lumu",F,Pundia,Not Specified,12 Mar 1998
+710,160190314,"Notolo, Apkas",F,Pundia,Household Duties,01 Jan 1937
+711,160190021,"Notolo, Rosna",F,Pundia,Student,01 Jan 1986
+712,160443498,"Obert, Breda",F,Pundia,Household Duties,19 Jun 1993
+713,160187316,"Ola, Eli",F,Pundia,Subsistence Farmer,01 Jan 1981
+714,160180325,"Omape, Boka",F,Pundia,Household Duties,01 Jan 1940
+715,160196724,"Omape, Buka",F,Pundia,Household Duties,01 Jan 1960
+716,160180332,"Omape, Leni",F,Pundia,Household Duties,01 Jan 1975
+717,160443541,"Omape, Mara",F,Pundia,Student,29 Mar 2004
+718,160190592,"Omape, Osila",F,Pundia,Student,01 Jan 1989
+719,160180453,"Omape, Peronika",F,Pundia,Household Duties,01 Jan 1977
+720,160189719,"Omi, Esther",F,Pundia,Student,01 Nov 1984
+721,160193586,"Omi, Melpis",F,Pundia,Teacher,10 Sep 1963
+722,160191202,"Omi, Pisa",F,Pundia,Teacher,21 Dec 1960
+723,160187589,"Omi, Prida",F,Pundia,Subsistence Farmer,16 Dec 1990
+724,160137856,"Omope, Otiniel",F,Pundia,Not Specified,16 Nov 1998
+725,160235086,"Onde, Kerolin",F,Pundia Mol,Household Duties,01 Jan 1986
+726,160124133,"Ondo, Imbi",F,Pundia,Not Specified,08 Sep 1989
+727,25124170,"Ongum, Bala",F,Megi,Teacher,20 Jan 1992
+728,25124172,"Ongum, Monica",F,Yara,Teacher,15 Jul 1979
+729,160177852,"Opalo, Jerol",F,Pundia,Student,01 Jan 1988
+730,160178101,"Opalo, Mayanu",F,Pundia,Household Duties,01 Jan 1967
+731,160204331,"Ope, Diame",F,Pundia,Household Duties,01 Jan 1949
+732,160203690,"Ope, Lina",F,Pundia,Student,01 Jan 1983
+733,160219235,"Ore, Elizaberth",F,Pundia,Household Duties,19 Jul 1984
+734,160189684,"Ore, Ili",F,Pundia,Subsistence Farmer,21 Dec 1962
+735,160234137,"Paga, Diyala",F,Mapirowi,Household Duties,01 Jan 1976
+736,160234584,"Paga, Julian",F,Mapirowi,Student,01 Jan 1984
+737,160201417,"Paga, Madanogo",F,Pundia,Household Duties,01 Jan 1940
+738,160234432,"Paga, Ruth",F,Mapirowi,Student,01 Jan 1980
+739,160204212,"Pagano, Nancy",F,Pundia,Subsistence Farmer,01 Jan 1984
+740,160183027,"Paita, Neka",F,Pundia,Subsistence Farmer,16 Dec 1975
+741,160234126,"Pake, Lineth",F,Pundia Mol,Household Duties,01 Jan 1979
+742,160443500,"Pake, Shircy",F,Pundia,Household Duties,15 Jun 1994
+743,160443549,"Pake, Stena",F,Pundia,Student,18 Mar 2004
+744,160193478,"Pakenda, Jenet",F,Pundia,Subsistence Farmer,01 Jan 1968
+745,160194502,"Pakenda, Jenifer",F,Pundia,Subsistence Farmer,01 Jan 1942
+746,160193650,"Pakenda, Linet",F,Pundia,Subsistence Farmer,01 Jan 1969
+747,160190286,"Pakenda, Pereke",F,Pundia,Subsistence Farmer,01 Jan 1964
+748,160177449,"Pale, Magaret",F,Pundia,Household Duties,01 Jan 2000
+749,160201119,"Pale, Norin",F,Pundia,Subsistence Farmer,01 Jan 1979
+750,160124309,"Palus, Dilala",F,Pundia,Not Specified,18 Oct 1995
+751,160139273,"Palus, Elen",F,Pundia Mol,Not Specified,30 Nov 1993
+752,160234806,"Panadane, Marina",F,Pundia Mol,Household Duties,01 Jan 1988
+753,160124079,"Pandane, Mariana",F,Pundia,Not Specified,19 Dec 1990
+754,160178128,"Pandea, Buka",F,Pundia,Subsistence Farmer,18 Jul 1985
+755,160178109,"Pandea, Jenny",F,Pundia,Subsistence Farmer,01 Jan 1982
+756,160173113,"Pandea, Sindirala",F,Pundia,Student,27 Oct 1986
+757,160177837,"Pandea, Yandowa",F,Pundia,Subsistence Farmer,01 Jan 1969
+758,160234583,"Panga, Henny",F,Mapirowi,Household Duties,01 Jan 1970
+759,160218725,"Papia, Lina",F,Pundia,Subsistence Farmer,19 Sep 1979
+760,160137867,"Pare, Merian",F,Pundia,Not Specified,01 Jan 1989
+761,160185552,"Paru, Pendewala",F,Pundia,Subsistence Farmer,01 Jan 1968
+762,160177839,"Paru, Uri",F,Pundia,Subsistence Farmer,29 Jul 1954
+763,160198669,"Pascal, Resi",F,Pundia,Student,01 Jan 1984
+764,160124150,"Patrick, Polin",F,Penomasa,Not Specified,03 May 1993
+765,160443697,"Paul, Emma",F,Yaina,Household Duties,20 Sep 1999
+766,160197361,"Paul, Esta",F,Pundia,Student,01 Jan 1989
+767,160191256,"Paul, Jacopet",F,Pundia,Student,01 Jan 1982
+768,160193485,"Paul, Jenet",F,Pundia,Subsistence Farmer,01 Jan 1974
+769,160233173,"Paul, Kanah",F,Pundia,Household Duties,01 Jan 1980
+770,160201736,"Paul, Ketty",F,Pundia,Household Duties,01 Jan 1967
+771,160197358,"Paul, Lagai",F,Pundia,Household Duties,01 Jan 1967
+772,160204997,"Paul, Polin",F,Pundia,Student,10 Sep 1986
+773,160443479,"Paul, Polinda",F,Yara,Student,18 Apr 2003
+774,160443480,"Paul, Pouna",F,Yara,Student,16 Apr 2001
+775,160124078,"Paul, Veronica",F,Pundia,Not Specified,14 Sep 1984
+776,160198863,"Pawa, Balipinogo",F,Pundia,Household Duties,01 Jan 1935
+777,160202383,"Pawi, Giame",F,Pundia,Household Duties,01 Jan 1975
+778,160177833,"Peawi, Lepin",F,Pundia,Household Duties,01 Jan 1971
+779,160234765,"Pegari, Dorothy",F,Masapul,Student,01 Jan 1986
+780,160234764,"Pegari, Hellen",F,Masapul,Household Duties,01 Jan 1984
+781,160234762,"Pegari, Joyce",F,Masapul,Student,01 Jan 1992
+782,160177581,"Pegari, Yapusi",F,Pundia,Household Duties,01 Jan 1933
+783,160202251,"Peke, Pope",F,Pundia,Household Duties,06 May 1954
+784,160221990,"Peke, Tagaye",F,Pundia,Subsistence Farmer,01 Jan 1963
+785,160221905,"Peke, Wari",F,Pundia,Student,01 Jan 1984
+786,160185531,"Pendewala, Juni",F,Pundia,Student,01 Jan 1983
+787,160137883,"Pepeayo, Evelin",F,Pundia,Not Specified,17 Feb 1995
+788,160185688,"Pepeayo, Maria",F,Pundia,Student,24 Feb 1984
+789,160182976,"Pepeayo, Maria",F,Pundia,Subsistence Farmer,01 Jan 1978
+790,160443610,"Pepson, Marie",F,Penomasa,Household Duties,04 Dec 1995
+791,160443612,"Pepson, Pelin",F,Penomasa,Student,01 Feb 2004
+792,160194637,"Perea, Monica",F,Pundia,Subsistence Farmer,12 Jun 1974
+793,160194639,"Perea, Raitame",F,Pundia,Subsistence Farmer,26 Oct 1978
+794,160201120,"Perea, Resol",F,Pundia,Household Duties,01 Jan 1967
+795,160137885,"Perot, Mirieam",F,Pundia,Not Specified,13 Nov 1996
+796,160124046,"Pet, Nini",F,Pundia,Not Specified,06 Mar 1984
+797,160124047,"Pet, Tira",F,Pundia,Not Specified,23 Apr 1997
+798,160204897,"Peter, Ali",F,Pundia,Household Duties,20 Dec 1983
+799,160201432,"Peter, Betty",F,Pundia,Subsistence Farmer,17 Sep 1982
+800,160201078,"Peter, Doli",F,Pundia,Subsistence Farmer,22 Apr 1984
+801,160443765,"Peter, Elvister",F,Peali,Student,05 Feb 2004
+802,160443477,"Peter, Ete",F,Yara,Student,16 Apr 2003
+803,160234596,"Peter, Genbip",F,Yara,Nurse,01 Jan 1973
+804,160443769,"Peter, Jenifa",F,Peali,Household Duties,26 Sep 1999
+805,160201427,"Peter, Ketty",F,Pundia,Subsistence Farmer,10 Aug 1980
+806,160198311,"Peter, Kopi",F,Pundia,Subsistence Farmer,01 Jan 1969
+807,160207490,"Peter, Make",F,Pundia,Household Duties,03 Jul 1967
+808,160221992,"Peter, Meri",F,Pundia,Household Duties,01 Jan 1970
+809,160443447,"Peter, Mero",F,Pundia,Household Duties,09 Feb 1998
+810,160137864,"Peter, Mero",F,Pundia,Not Specified,09 May 1984
+811,160204885,"Peter, Steveny",F,Pundia,Student,12 Dec 1986
+812,160177427,"Pibiki, Echo",F,Pundia,Subsistence Farmer,01 Jan 1962
+813,160180438,"Pilip, Lari",F,Pundia,Household Duties,01 Jan 1975
+814,160218600,"Pisa, Andano",F,Pundia,Household Duties,01 Jan 1968
+815,160194512,"Pisa, Resol",F,Pundia,Household Duties,01 Jan 1975
+816,160187564,"Pisu, Anna",F,Pundia,Subsistence Farmer,01 Jan 1979
+817,160202289,"Pisu, Ralia",F,Pundia,Subsistence Farmer,19 Aug 1954
+818,160124071,"Pitame, Sila",F,Peali,Not Specified,16 Nov 1981
+819,160185706,"Polis, Josephine",F,Pundia,Subsistence Farmer,01 Jan 1985
+820,160185557,"Pona, Kundi",F,Pundia,Household Duties,01 Jan 1963
+821,160124077,"Popolani, Eli",F,Pundia,Not Specified,14 Sep 1980
+822,160215083,"Pora, Ali",F,Pundia,Subsistence Farmer,01 Jan 1975
+823,160198930,"Pora, Dorothy",F,Pundia,Typist,01 Jan 1978
+824,160198935,"Pora, Geretta",F,Pundia,Student,01 Jan 1980
+825,160198760,"Pora, Lisa",F,Pundia,Student,01 Jan 1982
+826,160443449,"Pora, Melen",F,Pundia,Household Duties,09 Jun 1994
+827,160124139,"Pora, Melen",F,Penomasa,Not Specified,31 Aug 1991
+828,160201002,"Pora, Ruth",F,Pundia,Subsistence Farmer,01 Jan 1962
+829,160443595,"Profet, Melin",F,Penomasa,Subsistence Farmer,04 Sep 1998
+830,160443537,"Pumi, Joslin",F,Pundia,Household Duties,12 Oct 1988
+831,160190026,"Pumi, Lapun",F,Pundia,Household Duties,01 Jan 1937
+832,160218524,"Pumi, Lorina",F,Pundia,Subsistence Farmer,20 Nov 1974
+833,160176090,"Puna, Palame",F,Pundia,Household Duties,01 Jan 1985
+834,160198932,"Punu, Joyce",F,Pundia,Student,01 Jan 1985
+835,160177825,"Puye, Lepoka",F,Pundia,Household Duties,01 Jan 1969
+836,160168546,"Raisa, Regol",F,Pundia,Subsistence Farmer,10 Aug 1976
+837,160443505,"Raita, Melony",F,Pundia,Teacher,09 Aug 1999
+838,160187698,"Raketa, Ege",F,Pundia,Subsistence Farmer,26 Dec 1941
+839,160188651,"Rakuna, Jenet",F,Pundia,Student,01 Jan 1982
+840,160234588,"Rakuna, Mali",F,Peali,Subsistence Farmer,01 Jan 1971
+841,160197306,"Rakuna, Reranu",F,Pundia,Subsistence Farmer,01 Jan 1959
+842,160196824,"Rakuna, Shely",F,Pundia,Student,12 May 1980
+843,160188049,"Rambamita, Nane",F,Pundia,Subsistence Farmer,01 Jan 1962
+844,160187578,"Rambamita, Prisicalar",F,Pundia,Subsistence Farmer,01 Jan 1982
+845,160218902,"Rambu, Regi",F,Pundia,Student,16 Nov 1984
+846,160188377,"Rambu, Walo",F,Pundia,Subsistence Farmer,26 Oct 1967
+847,160180414,"Rami, Jacklin",F,Pundia,Subsistence Farmer,01 Jan 1971
+848,160180435,"Rami, Josephine",F,Pundia,Student,17 Oct 1985
+849,160180602,"Rami, Mandasi",F,Pundia,Subsistence Farmer,01 Jan 1956
+850,160180640,"Rami, Toma",F,Pundia,Subsistence Farmer,01 Jan 1980
+851,160443529,"Ramy, Josphine",F,Pundia,Student,10 Mar 2003
+852,160443508,"Randa, Norris",F,Pundia,Household Duties,09 Dec 1998
+853,160216002,"Rani, Jenny",F,Pundia,Student,27 Nov 1985
+854,160217842,"Rani, Laiwame",F,Pundia,Subsistence Farmer,01 Jan 1969
+855,160215854,"Rani, Magret",F,Pundia,Student,16 Jul 1984
+856,160216005,"Rani, Roselin",F,Pundia,Student,17 Apr 1983
+857,160215994,"Rani, Yapinu",F,Pundia,Subsistence Farmer,01 Jan 1970
+858,160215831,"Ranu, Betty",F,Pundia,Student,12 Aug 1985
+859,160189887,"Reali, Katame",F,Pundia,Household Duties,01 Jan 1932
+860,160177598,"Reka, Yala",F,Pundia,Household Duties,01 Jan 1937
+861,160203711,"Remon, Rita",F,Pundia,Household Duties,01 Jan 1967
+862,160183116,"Remond, Esther",F,Pundia,Subsistence Farmer,14 Nov 1982
+863,160184620,"Remond, Regol",F,Pundia,Subsistence Farmer,21 Nov 1978
+864,25124182,"Remond, Restra",F,Mandipiri,Student,10 Apr 2001
+865,160176095,"Rex, Brenda",F,Pundia,Subsistence Farmer,28 Oct 1984
+866,160443799,"Rex, Brendka",F,Mandipiri,Student,22 Nov 1994
+867,160443844,"Rex, Daria",F,Mandipiri,Household Duties,04 May 2000
+868,160177353,"Rex, Irame",F,Pundia,Subsistence Farmer,01 Jan 1974
+869,160188067,"Rex, Mary",F,Pundia,Subsistence Farmer,01 Jan 1975
+870,160234808,"Rex, Nolin",F,Agolopa,Housegirl,01 Jan 1988
+871,160189906,"Rex, Polin",F,Pundia,Household Duties,01 Jan 1979
+872,160234815,"Rex, Polina",F,Agolopa,Student,01 Jan 1986
+873,160137874,"Rex, Sopi",F,Pundia,Not Specified,03 Nov 1989
+874,160197275,"Riape, Miriam",F,Pundia,Household Duties,01 Jan 1975
+875,160443721,"Richard, Jay",F,Peali,Student,24 Sep 2003
+876,160218871,"Richard, Jedi",F,Pundia,Subsistence Farmer,01 Jan 1983
+877,160220982,"Richard, Jenny",F,Pundia,Subsistence Farmer,01 Jan 1979
+878,160187922,"Richard, Josephine",F,Pundia,Subsistence Farmer,01 Jan 1974
+879,160443468,"Richard, Joycelin",F,Mandipiri,Household Duties,18 May 1996
+880,160187923,"Richard, Lenita",F,Pundia,Student,01 Jan 2000
+881,160443729,"Richard, Leniter",F,Peali,Student,20 Apr 2004
+882,160124179,"Richard, Levi",F,Pundia,Not Specified,10 Jun 1992
+883,160234918,"Richard, Seroni",F,Pundia,Student,01 Jan 1993
+884,25124183,"Ricky, Erinta",F,Yara,Household Duties,23 Mar 1994
+885,160443486,"Ricky, Rachael",F,Pundia,Sales Women,21 May 1991
+886,160443534,"Rigi, Sharonie",F,Pundia,Student,17 Dec 2001
+887,160443533,"Rigi, Silvia",F,Pundia,Student,20 Nov 2003
+888,160195848,"Rizard, Erimadi",F,Pundia,Household Duties,01 Jan 1965
+889,25124184,"Robert, Regina",F,Yara,Banker,24 Aug 1999
+890,160177597,"Robet, Maria",F,Pundia,Household Duties,01 Jan 1969
+891,160443490,"Robin, Josphine",F,Pundia,Accountant,23 Nov 1988
+892,160124164,"Roda, Shely",F,Pundia,Not Specified,24 May 1993
+893,160204902,"Rodaki, Minis",F,Pundia,Household Duties,01 Jan 1979
+894,160177402,"Ron, Jospina",F,Pundia,Student,01 Jan 1983
+895,160201721,"Ron, Kegerema",F,Pundia,Household Duties,01 Jan 1900
+896,160124050,"Ronald, Alphina",F,Pundia,Not Specified,16 Nov 1998
+897,160234142,"Ronald, Cathy",F,Pundia Mol,Household Duties,01 Jan 1982
+898,160124186,"Roney, Maria",F,Pundia,Not Specified,19 Apr 1980
+899,160234637,"Ronny, July",F,Mandipiri,Household Duties,01 Jan 1978
+900,160443484,"Ronny, Noma",F,Yara,Household Duties,10 Nov 1993
+901,160443686,"Ronold, Willima",F,Masapul,Household Duties,09 Oct 1994
+902,160173550,"Rorea, Walo",F,Pundia,Subsistence Farmer,01 Jan 1963
+903,160183124,"Rulupia, Rosa",F,Pundia,Subsistence Farmer,16 Jul 1979
+904,160443614,"Rumben, Eli",F,Mapirowi,Store Keeper,08 Nov 1995
+905,160203715,"Rumben, Lenda",F,Pundia,Subsistence Farmer,01 Jan 1971
+906,160204231,"Rumben, Miriame",F,Pundia,Student,01 Jan 1980
+907,160194349,"Rumi, Betty",F,Pundia,Household Duties,01 Jan 1975
+908,160198926,"Rumi, Bolame",F,Pundia,Household Duties,01 Jan 1937
+909,160194601,"Rumi, Upia",F,Pundia,Household Duties,01 Jan 1973
+910,160137890,"Rumili, Malinda",F,Peali,Not Specified,16 Jun 1990
+911,160201487,"Rumili, Mole",F,Pundia,Subsistence Farmer,01 Jan 1982
+912,160177442,"Rumili, Pa",F,Pundia,Subsistence Farmer,01 Jan 1979
+913,160177435,"Rumili, Poloname",F,Pundia,Subsistence Farmer,01 Jan 1968
+914,160177446,"Rumili, Rose",F,Pundia,Student,01 Jan 1984
+915,160198794,"Rumili, Roselin",F,Pundia,Subsistence Farmer,01 Jan 1971
+916,160197368,"Rumu, Mapira",F,Pundia,Subsistence Farmer,01 Jan 1972
+917,160443786,"Rumu, Selema",F,Mandipiri,Student,04 Jan 2004
+918,160193731,"Ruri, Raitame",F,Pundia,Subsistence Farmer,12 Jun 1961
+919,160202252,"Ruri, Tona",F,Pundia,Household Duties,01 Jan 1951
+920,160194458,"Ruth, Dama",F,Pundia,Student,29 Jul 1982
+921,160220891,"Ruth, Mata",F,Pundia,Subsistence Farmer,10 Dec 1964
+922,160194636,"Ruth, Soti",F,Pundia,Student,11 Aug 1976
+923,160220624,"Sagalia, Pis",F,Pundia,Household Duties,01 Jan 1966
+924,160443684,"Sak, Judy",F,Masapul,Household Duties,08 Dec 1991
+925,25124187,"Sakai, Jessica",F,Peali,Student,22 Jul 1999
+926,25124188,"Sakai, Joseclyn",F,Yara,Driver,24 Feb 1987
+927,25124189,"Sakai, Julie",F,Peali,Teacher,21 Jul 1981
+928,160443526,"Salo, Emila",F,Pundia,Student,19 May 2003
+929,160177439,"Salo, Everlin",F,Pundia,Subsistence Farmer,01 Jan 1981
+930,160124172,"Salo, Ipanu",F,Pundia,Household Duties,16 Mar 1982
+931,160201483,"Salo, Ipanu",F,Pundia,Subsistence Farmer,01 Jan 1981
+932,160187737,"Salo, Lapiri",F,Pundia,Subsistence Farmer,10 Sep 1971
+933,160443525,"Salo, Wendila",F,Pundia,Student,11 Dec 2003
+934,160218519,"Salosi, Linet",F,Pundia,Subsistence Farmer,27 Oct 1978
+935,160234785,"Sam, Emah",F,Mandipiri,Household Duties,01 Jan 1989
+936,160443446,"Sam, Emma",F,Pundia,Household Duties,10 Jun 1992
+937,160123914,"Sam, Emma",F,Peali,Not Specified,30 Dec 1992
+938,160218906,"Samson, Nancy",F,Pundia,Subsistence Farmer,14 Sep 1986
+939,160178058,"Samuel, Dokas",F,Pundia,Household Duties,01 Jan 1971
+940,160443753,"Samuel, Jopina",F,Peali,Student,09 Dec 2003
+941,160443773,"Samuel, Lilly",F,Mandipiri,Household Duties,08 Dec 1993
+942,160443755,"Samuel, Malina",F,Peali,Student,15 Mar 2004
+943,160180345,"Samuel, Meri",F,Pundia,Household Duties,01 Jan 1969
+944,160180480,"Samuel, Miriam",F,Pundia,Household Duties,01 Jan 1972
+945,160124140,"Samuel, Roselin",F,Penomasa,Not Specified,09 May 1983
+946,160124201,"San, Emah",F,Pundia,Not Specified,03 Apr 1989
+947,160124163,"Sano, Beti",F,Penomasa,Not Specified,02 Dec 1985
+948,160124041,"Sano, Lame",F,Pundia,Not Specified,15 Sep 1983
+949,160185524,"Sapusape, Holi",F,Pundia,Student,29 Oct 1986
+950,160180574,"Sapusape, Laki",F,Pundia,Student,27 May 1984
+951,160198764,"Sapusape, Ruri",F,Pundia,Subsistence Farmer,01 Jan 1970
+952,160234419,"Scarzie, Mariane",F,Pundia Mol,Household Duties,01 Jan 1987
+953,160443497,"Scarzy, Joycy",F,Pundia,Household Duties,19 Apr 1992
+954,160220761,"Sende, Peni",F,Pundia,Household Duties,01 Jan 1971
+955,160216561,"Seni, Levi",F,Pundia,Subsistence Farmer,21 Sep 1987
+956,160187783,"Seni, Lina",F,Pundia,Subsistence Farmer,28 Nov 1979
+957,160193746,"Seni, Seli",F,Pundia,Household Duties,01 Jan 1973
+958,160187236,"Seni, Waima",F,Pundia,Student,29 Nov 1981
+959,160443478,"Sertrick, Joyce",F,Yara,Subsistence Farmer,19 Jun 1999
+960,160221996,"Siamon, Anna",F,Pundia,Subsistence Farmer,01 Jan 1974
+961,160201428,"Siamon, Everlin",F,Pundia,Subsistence Farmer,01 Jan 1979
+962,160124064,"Siamon, Juliana",F,Peali,Not Specified,12 Dec 1992
+963,160190300,"Siamon, Nancy",F,Pundia,Subsistence Farmer,01 Jan 1979
+964,160201423,"Siamon, Pricalar",F,Pundia,Subsistence Farmer,01 Jan 1978
+965,160443660,"Siamon, Rose",F,Agolopa,Household Duties,06 Sep 1999
+966,160443631,"Siamon, Roselny",F,Mapirowi,Household Duties,19 Apr 2000
+967,160124062,"Siamon, Rosy",F,Peali,Not Specified,11 May 1998
+968,160234422,"Siamon, Ruth",F,Peali,Household Duties,01 Jan 1972
+969,160123918,"Simo, Jennifer",F,Pundia,Not Specified,30 Nov 1994
+970,25124190,"Simon, Cinthia",F,Yara,Nurse,11 Feb 1991
+971,25124191,"Simon, Dolly",F,Yara,Student,10 Apr 2000
+972,25124192,"Simon, Dorothy",F,Yara,Housegirl,12 Sep 2000
+973,160234193,"Simon, Elcy",F,Agolopa,Household Duties,01 Jan 1986
+974,160234612,"Simon, Elmah",F,Yara,Student,01 Jan 1989
+975,160124297,"Simon, Kinis",F,Pundia Mol,Not Specified,09 Jun 1997
+976,160124296,"Simon, Peny",F,Pundia Mol,Not Specified,13 May 1989
+977,160219255,"Sina, Natasa",F,Pundia,Subsistence Farmer,10 Sep 1974
+978,160443654,"Sindalu, Juli",F,Agolopa,Student,24 Feb 2004
+979,160189936,"Sindalu, Rosina",F,Pundia,Household Duties,01 Jan 1983
+980,160189926,"Sindialu, Nipil",F,Pundia,Household Duties,01 Jan 1940
+981,160194576,"Sindialu, Roslin",F,Pundia,Household Duties,01 Jan 1900
+982,160187741,"Solage, Managi",F,Pundia,Subsistence Farmer,21 Jul 1957
+983,25124195,"Sole, Nancy",F,Yara,Household Duties,01 Jan 1976
+984,25124199,"Sole, Serah",F,Pundia,Household Duties,10 Jul 1975
+985,160443602,"Solomon, Illyn",F,Penomasa,Teacher,04 Jun 1999
+986,160443466,"Sosmon, Mata",F,Mandipiri,Subsistence Farmer,24 Nov 1995
+987,160196736,"Stanely, Lina",F,Pundia,Subsistence Farmer,01 Jan 1971
+988,160196734,"Stanely, Sila",F,Pundia,Subsistence Farmer,01 Jan 1976
+989,160124160,"Stenly, Susan",F,Penomasa,Not Specified,18 Mar 1989
+990,160193476,"Steven, Boni",F,Pundia,Household Duties,01 Jan 1969
+991,160234828,"Steven, Dama",F,Agolopa,Household Duties,01 Jan 1980
+992,160234827,"Steven, Dayano",F,Agolopa,Household Duties,01 Jan 1989
+993,160234990,"Steven, Delina",F,Agolopa,Housegirl,01 Jan 1992
+994,160233165,"Steven, Dona",F,Agolopa,Household Duties,01 Jan 1992
+995,160204336,"Steven, Evlyine",F,Pundia,Student,31 Dec 1980
+996,160201515,"Steven, Jenny",F,Pundia,Household Duties,16 May 1957
+997,160233172,"Steven, Joice",F,Agolopa,Student,01 Jan 1994
+998,160234826,"Steven, Kerolyn",F,Agolopa,Household Duties,01 Jan 1975
+999,160201123,"Steven, Lea",F,Pundia,Student,14 Sep 1985
+1000,160235173,"Steven, Leah",F,Yara,Student,01 Jan 1993
+1001,160201126,"Steven, Lilyen",F,Pundia,Student,14 Jun 1988
+1002,160201111,"Steven, Muale",F,Pundia,Household Duties,16 Oct 1958
+1003,160190289,"Steven, Nansi",F,Pundia,Student,01 Jan 1986
+1004,160193639,"Steven, Nuge",F,Pundia,Household Duties,01 Jan 1962
+1005,160234984,"Steven, Osila",F,Agolopa,Student,01 Jan 1978
+1006,160194346,"Steven, Pisimi",F,Pundia,Household Duties,01 Jan 1962
+1007,160234987,"Steven, Ruth",F,Agolopa,Household Duties,01 Jan 1972
+1008,160194501,"Steven, Ruth",F,Pundia,Household Duties,01 Jan 1960
+1009,160233166,"Steven, Steveny",F,Agolopa,Student,01 Jan 1992
+1010,160124305,"Stevern, Lapi",F,Pundia,Not Specified,21 Sep 1998
+1011,160180629,"Sure, Maria",F,Pundia,Household Duties,01 Jan 1973
+1012,160443462,"Sydney, Elly",F,Mandipiri,Subsistence Farmer,13 Apr 2000
+1013,160123913,"Taitus, Everlny",F,Peali,Not Specified,16 Dec 1997
+1014,160124024,"Taitus, Everlyn",F,Pundia,Not Specified,14 Sep 1990
+1015,160124017,"Takis, Jocy",F,Pundia,Not Specified,20 Mar 1989
+1016,160173274,"Takis, Kerolny",F,Pundia,Subsistence Farmer,01 Jan 1980
+1017,160124018,"Takis, Kerolyn",F,Pundia,Not Specified,30 Dec 1987
+1018,160201155,"Tala, Helen",F,Pundia,Subsistence Farmer,01 Jan 1977
+1019,160180944,"Tala, Mama",F,Pundia,Subsistence Farmer,29 Jul 1970
+1020,160196862,"Tala, Mamanai",F,Pundia,Subsistence Farmer,10 Sep 1954
+1021,160200993,"Tala, Niye",F,Pundia,Subsistence Farmer,01 Jan 1965
+1022,160194577,"Tala, Punu",F,Pundia,Subsistence Farmer,01 Jan 1973
+1023,160200995,"Tala, Yano",F,Pundia,Subsistence Farmer,01 Jan 1975
+1024,160218590,"Tami, Walepe",F,Pundia,Subsistence Farmer,16 Dec 1981
+1025,160189917,"Tano, Maria",F,Pundia,Household Duties,01 Jan 1953
+1026,160443548,"Tapame, Malita",F,Pundia,Student,28 Apr 2004
+1027,160196600,"Tapami, Resol",F,Pundia,Subsistence Farmer,10 Jun 1972
+1028,160196695,"Tapami, Rosna",F,Pundia,Subsistence Farmer,12 Nov 1966
+1029,160204315,"Tapu, Doli",F,Pundia,Student,01 Jan 1987
+1030,160202256,"Tapu, Doririna",F,Pundia,Student,01 Jan 1989
+1031,160202253,"Tapu, Ipisa",F,Pundia,Household Duties,01 Jan 1953
+1032,160443491,"Tason, Nadiasa",F,Pundia,Household Duties,13 Nov 1996
+1033,160185715,"Tee, Wapa",F,Pundia,Subsistence Farmer,26 Nov 1970
+1034,160124152,"Telex, Jelina",F,Penomasa,Not Specified,06 Nov 1993
+1035,160124207,"Thomas, Cathy",F,Pundia,Not Specified,03 Feb 1991
+1036,25124202,"Thomas, Gracelyn",F,Yara,Nurse,28 Dec 1998
+1037,160220758,"Thomas, Jenifer",F,Pundia,Subsistence Farmer,14 Oct 1988
+1038,25124203,"Thomas, Lina",F,Masapul,Teacher,12 Feb 1992
+1039,160124188,"Thomas, Paulin",F,Pundia,Not Specified,04 Sep 1998
+1040,160234782,"Thomas, Rosline",F,Mandipiri,Household Duties,01 Jan 1985
+1041,25152840,"Thomas, Valentina",F,Mandipiri,Student,02 Feb 2002
+1042,160124019,"Timothy, Amenda",F,Pundia,Not Specified,14 Mar 1984
+1043,160198921,"Timothy, Anta",F,Pundia,Student,13 Jul 1983
+1044,160198771,"Timothy, Coneniyea",F,Pundia,Student,12 Dec 1987
+1045,160198918,"Timothy, Hengela",F,Pundia,Teacher,01 Jan 1974
+1046,160234425,"Timothy, Ruth",F,Peali,Typist,01 Jan 1973
+1047,160124203,"Titus, Everlyn",F,Pundia,Not Specified,19 Mar 1989
+1048,160193616,"Tobi, Wani",F,Pundia,Subsistence Farmer,01 Jan 1974
+1049,25124206,"Tocai, Serah",F,Penomasa,Household Duties,10 Feb 1999
+1050,160218513,"Toge, Nike",F,Pundia,Subsistence Farmer,01 Jan 1971
+1051,160218614,"Toge, Peame",F,Pundia,Subsistence Farmer,01 Jan 1951
+1052,160443757,"Tolai, Regeal",F,Mandipiri,Student,04 Apr 2004
+1053,160234141,"Tolex, Roselin",F,Pundia Mol,Household Duties,01 Jan 1982
+1054,160178094,"Tom, Margareth",F,Pundia,Household Duties,01 Jan 1963
+1055,160234592,"Tom, Margert",F,Mapirowi,Household Duties,01 Jan 1978
+1056,160234146,"Tom, Rebecca",F,Mapirowi,Student,01 Jan 1980
+1057,160221913,"Tomas, Doroti",F,Pundia,Household Duties,01 Jan 1967
+1058,160124042,"Tomba, Linet",F,Pundia,Not Specified,03 Nov 1998
+1059,160204319,"Tombo, Kristina",F,Pundia,Household Duties,01 Jan 1960
+1060,160204325,"Tombo, Maki",F,Pundia,Household Duties,01 Jan 1965
+1061,160201110,"Tombo, Paina",F,Pundia,Household Duties,01 Jan 1966
+1062,160201117,"Tombo, Susen",F,Pundia,Student,01 Jan 1986
+1063,160220755,"Tona, Ana",F,Pundia,Household Duties,01 Jan 1969
+1064,160218587,"Toni, Dorothy",F,Pundia,Household Duties,01 Jan 1965
+1065,160443562,"Tony, Christy",F,Penomasa,Subsistence Farmer,24 Mar 2004
+1066,160124148,"Tony, Christy",F,Penomasa,Not Specified,30 Jun 1989
+1067,160443690,"Tony, Jackncy",F,Masapul,Household Duties,09 Oct 1999
+1068,160180489,"Una, Lopame",F,Pundia,Household Duties,01 Jan 1937
+1069,160206437,"Una, Rambuame",F,Pundia,Household Duties,01 Jan 1945
+1070,160138034,"Undi, Delma",F,Pundia,Not Specified,04 Mar 1998
+1071,160171902,"Undi, Jully",F,Pundia,Subsistence Farmer,18 Dec 1964
+1072,160124049,"Undi, Rose",F,Pundia,Not Specified,17 Jun 1983
+1073,160201727,"Unipi, Egamama",F,Pundia,Household Duties,01 Jan 1947
+1074,160201731,"Unipi, Wari",F,Pundia,Student,01 Jan 1985
+1075,160443454,"Vincent, Rebecca",F,Yara,Household Duties,18 Apr 1999
+1076,160443839,"Wait, Lin",F,Mandipiri,Student,27 Mar 2004
+1077,160124192,"Wait, Linet",F,Pundia,Not Specified,31 Jan 1999
+1078,160234632,"Wami, Jenifer",F,Yara,Housegirl,01 Jan 1994
+1079,160137872,"Wami, Jennifer",F,Pundia,Not Specified,10 Jan 1999
+1080,160194482,"Wami, Meri",F,Pundia,Subsistence Farmer,06 Dec 1982
+1081,160191218,"Wami, Yala",F,Pundia,Subsistence Farmer,10 Sep 1982
+1082,160210247,"Wandua, Jeni",F,Pundia,Household Duties,01 Jan 1959
+1083,160207474,"Wandua, Kristena",F,Pundia,Household Duties,01 Jan 1956
+1084,160193629,"Wane, Magret",F,Pundia,Subsistence Farmer,01 Jan 1981
+1085,160177686,"Wanepo, Paka",F,Pundia,Household Duties,01 Jan 1941
+1086,160173106,"Wanepo, Wendi",F,Pundia,Household Duties,01 Jan 1946
+1087,160168550,"Wanpis, Orange",F,Pundia,Subsistence Farmer,10 Sep 1978
+1088,160124048,"Wanpis, Wari",F,Pundia,Not Specified,09 Aug 1983
+1089,160190441,"Warea, Adanu",F,Pundia,Subsistence Farmer,01 Jan 1944
+1090,160443599,"Warea, Janet",F,Penomasa,Student,24 Mar 2004
+1091,160198791,"Warea, Nitiname",F,Pundia,Subsistence Farmer,01 Jan 1950
+1092,160180585,"Wata, Mamani",F,Pundia,Household Duties,01 Jan 1930
+1093,160220773,"Wate, Melen",F,Pundia,Household Duties,01 Jan 1975
+1094,160198682,"Wemi, Eganu",F,Pundia,Subsistence Farmer,11 Oct 1946
+1095,160178103,"Wepa, Lusi",F,Pundia,Household Duties,01 Jan 1973
+1096,160443465,"Wilbert, Roslyn",F,Yara,Student,15 Apr 1998
+1097,160191244,"Wiliem, Kupini",F,Pundia,Household Duties,01 Jan 1950
+1098,160191393,"Wiliem, Rita",F,Pundia,Student,01 Jan 1971
+1099,160443472,"William, Jarothy",F,Yara,Student,18 Mar 2004
+1100,25124212,"William, Rose",F,Yara,Student,16 Mar 2004
+1101,25124214,"William, Sila",F,Yara,Student,12 Sep 2000
+1102,160443663,"William, Winla",F,Masapul,Student,28 Apr 2004
+1103,160190772,"Willie, Lenny",F,Pundia,Subsistence Farmer,01 Jan 1978
+1104,160187129,"Wilson, Buka",F,Pundia,Household Duties,01 Jan 1963
+1105,160443784,"Wilson, Penina",F,Mandipiri,Student,08 Oct 1997
+1106,160194442,"Wilson, Peninia",F,Pundia,Student,16 Dec 1987
+1107,160220979,"Yake, Apele",F,Pundia,Household Duties,01 Jan 1980
+1108,160220818,"Yake, Kande",F,Pundia,Household Duties,01 Jan 1942
+1109,160180323,"Yake, Tema",F,Pundia,Household Duties,01 Jan 1975
+1110,160180628,"Yake, Yainanu",F,Pundia,Household Duties,01 Jan 1940
+1111,160124040,"Yaks, Beti",F,Pundia,Not Specified,08 Sep 1981
+1112,160203716,"Yaku, Lucy",F,Pundia,Household Duties,10 Dec 1955
+1113,160203707,"Yaku, Salibuna",F,Pundia,Household Duties,13 Jul 1946
+1114,160202242,"Yalura, Elony",F,Pundia,Household Duties,24 Aug 1989
+1115,160204729,"Yalura, Josicca",F,Pundia,Household Duties,13 Oct 1963
+1116,160206444,"Yalura, Melony",F,Pundia,Student,31 Dec 1988
+1117,160207479,"Yalura, Meri",F,Pundia,Not Specified,02 Dec 1942
+1118,160202235,"Yalura, Susan",F,Pundia,Student,20 Aug 1985
+1119,160443476,"Yalure, Eveny",F,Yara,Student,20 Nov 2003
+1120,160124162,"Yama, Yano",F,Penomasa,Not Specified,05 Aug 1983
+1121,160187233,"Yamai, Noami",F,Pundia,Subsistence Farmer,01 Jan 1966
+1122,160187238,"Yamai, Rana",F,Pundia,Subsistence Farmer,01 Jan 1983
+1123,160216563,"Yanai, Nusi",F,Pundia,Subsistence Farmer,26 Nov 1985
+1124,160196764,"Yanaki, Mani",F,Pundia,Subsistence Farmer,20 Nov 1944
+1125,160190511,"Yandi, Bepi",F,Pundia,Household Duties,01 Jan 1944
+1126,160190519,"Yandi, Jonny",F,Pundia,Household Duties,01 Jan 1983
+1127,160234810,"Yandi, July",F,Agolopa,Student,01 Jan 1980
+1128,160234981,"Yandi, Natasa",F,Agolopa,Student,01 Jan 1986
+1129,160219112,"Yapa, Kuralo",F,Pundia,Household Duties,01 Jan 1939
+1130,160221911,"Yapa, Panogo",F,Pundia,Household Duties,01 Jan 1942
+1131,160218858,"Yapa, Rabuame",F,Pundia,Household Duties,01 Jan 1940
+1132,160220994,"Yapa, Wendi",F,Pundia,Student,01 Jan 1987
+1133,160183128,"Yapanai, Patame",F,Pundia,Subsistence Farmer,13 Dec 1956
+1134,160233171,"Yawa poti, Janeth tari",F,Pundia,Household Duties,01 Jan 1986
+1135,160190310,"Yawake, Undino",F,Pundia,Household Duties,01 Jan 1940
+1136,160217887,"Yawi, Bepi",F,Pundia,Subsistence Farmer,27 Nov 1954
+1137,160216589,"Yawi, Christina",F,Pundia,Student,27 Dec 1974
+1138,160216398,"Yawi, Jenet",F,Pundia,Student,29 Jul 1978
+1139,160217828,"Yawi, Jenifer",F,Pundia,Subsistence Farmer,11 Dec 1982
+1140,160124022,"Yawi, Jocynter",F,Pundia,Not Specified,04 Feb 1998
+1141,160218372,"Yawi, Kulumbu",F,Pundia,Subsistence Farmer,19 Sep 1946
+1142,160188217,"Yawili, Dila",F,Pundia,Student,12 Jul 1974
+1143,160187253,"Yawili, Lora",F,Pundia,Subsistence Farmer,29 Dec 1982
+1144,160187915,"Yawili, Lucy",F,Pundia,Student,21 Oct 1978
+1145,160443744,"Yax, Regiwa",F,Peali,Subsistence Farmer,25 Jun 1994
+1146,160184582,"Yopolo, Magareth",F,Pundia,Household Duties,01 Jan 1965
+1147,160124200,"Yoto, Bepi",F,Pundia,Not Specified,01 Feb 1972
+1148,160185548,"Yoto, Kipaname",F,Pundia,Household Duties,01 Jan 1940
+1149,160188645,"Yoto, Maria",F,Pundia,Subsistence Farmer,16 Dec 1974
+1150,160188476,"Yoto, Tema",F,Pundia,Subsistence Farmer,29 Dec 1970
+1151,160124191,"Yuane, Early",F,Pundia,Not Specified,19 Apr 1995
+1152,160180464,"Yuane, Epaline",F,Pundia,Household Duties,01 Jan 1965
+1153,160188660,"Yuane, Nane",F,Pundia,Subsistence Farmer,26 Nov 1974
+1154,160196737,"Abu, Amu",M,Pundia,Subsistence Farmer,01 Jan 1943
+1155,25124038,"Ado, Israel",M,Yara,Driver,16 Mar 1989
+1156,25124040,"Ado, Mathew",M,Mandipiri,Student,02 Mar 2000
+1157,160443726,"Agema, Natan",M,Peali,Teacher,01 Jan 1995
+1158,160191031,"Agula, Kupi",M,Pundia,Subsistence Farmer,01 Jan 1947
+1159,160190762,"Agula, Lika",M,Pundia,Subsistence Farmer,01 Jan 1944
+1160,160173625,"Aku, Anaiki",M,Pundia,Subsistence Farmer,22 Nov 1941
+1161,160196823,"Alex, Alesta",M,Pundia,Student,09 Sep 1964
+1162,25124045,"Alex, Jerodia",M,Mapirowi,Student,03 Oct 2001
+1163,160443791,"Alex, Manuel",M,Mandipiri,Student,07 Mar 2004
+1164,160194351,"Alex, Mark",M,Pundia,Subsistence Farmer,01 Jan 1956
+1165,160197388,"Alex, Yonny",M,Pundia,Student,19 Jun 1968
+1166,25124046,"Alex, Zebedee",M,Pundia,Student,12 Feb 2004
+1167,160213129,"Ali, Rodney",M,Pundia,Subsistence Farmer,01 Jan 1971
+1168,160443637,"Alita, Jonatan",M,Mapirowi,Student,03 Apr 2004
+1169,160173548,"Alita, Jonatan",M,Pundia,Student,01 Jan 1989
+1170,160443624,"Alita, Samson",M,Mapirowi,Student,03 Apr 2004
+1171,160137881,"Alphones, Frencis",M,Pundia,Not Specified,23 Nov 1988
+1172,160124291,"Alpons, Mijeck",M,Pundia Mol,Not Specified,18 Sep 1998
+1173,160187731,"Ambi, Jack",M,Pundia,Subsistence Farmer,01 Jan 1978
+1174,160188452,"Ambi, Matin",M,Pundia,Student,21 Apr 1987
+1175,160187736,"Ambi, Noki",M,Pundia,Student,01 Jan 1981
+1176,160188465,"Ambiasi, Erick",M,Pundia,Teacher,01 Jan 1958
+1177,160219245,"Ambiasi, Kenny",M,Pundia,Student,04 Oct 1982
+1178,160203693,"Ambulu, Koropo",M,Pundia,Subsistence Farmer,01 Jan 1937
+1179,160180988,"Amos, Gebrol",M,Pundia,Student,23 Dec 1987
+1180,160198775,"Amu, Alex",M,Pundia,Pastor,01 Jan 1954
+1181,160198772,"Amu, Epe",M,Pundia,Subsistence Farmer,01 Jan 1958
+1182,160197304,"Amu, Gibson",M,Pundia,Student,01 Jan 1938
+1183,160190586,"Amu, Jerry",M,Pundia,Subsistence Farmer,01 Jan 1978
+1184,160196721,"Amu, Ronny",M,Pundia,Subsistence Farmer,01 Jan 1974
+1185,160193572,"Amu, Wila",M,Pundia,Student,01 Jan 1970
+1186,160138030,"Anaki, Getric",M,Pundia,Not Specified,11 Mar 1998
+1187,160168678,"Anaki, Jacob",M,Pundia,Student,11 Jun 1974
+1188,160443837,"Anaki, John",M,Mandipiri,Student,20 Mar 2004
+1189,160443835,"Anaki, Kandipia",M,Mandipiri,Student,20 Feb 2004
+1190,160163449,"Anaki, Rege",M,Pundia,Student,21 Jun 1970
+1191,160171865,"Anaki, Undi",M,Pundia,Subsistence Farmer,26 Nov 1958
+1192,160163439,"Anaki, Yakumbu",M,Pundia,Subsistence Farmer,29 Nov 1962
+1193,160124159,"Andati, Stenly",M,Penomasa,Not Specified,18 Sep 1981
+1194,160234614,"Andepealo, Kemaria",M,Mandipiri,Subsistence Farmer,01 Jan 1949
+1195,160180463,"Andia, Erick",M,Pundia,Teacher,01 Jan 1954
+1196,160176400,"Andia, Pandea",M,Pundia,Subsistence Farmer,01 Jan 1952
+1197,160184577,"Andia, Rami",M,Pundia,Subsistence Farmer,01 Jan 1951
+1198,160234594,"Andrew, Solomon",M,Mapirowi,Student,01 Jan 1982
+1199,25124052,"Andy, Thomson",M,Yara,Accountant,12 Feb 1991
+1200,160176067,"Anny, Kepen",M,Pundia,Student,01 Jan 1982
+1201,25124054,"Arnold, James",M,Yara,Driver,13 Dec 1998
+1202,25124055,"Arnold, Paul",M,Yara,Driver,05 May 1988
+1203,25124058,"Arnold, Sato",M,Yotorora,Student,15 Apr 2000
+1204,160185813,"Asupasi, Lait",M,Pundia,Subsistence Farmer,20 Oct 1983
+1205,160185808,"Asupasi, Mathias",M,Pundia,Student,01 Jan 1979
+1206,160189890,"Atuk, Pake",M,Pundia,Subsistence Farmer,12 Dec 1977
+1207,160218602,"Atupia, John",M,Pundia,Subsistence Farmer,01 Jan 1974
+1208,160218610,"Atupia, Ninde",M,Pundia,Subsistence Farmer,01 Jan 1982
+1209,160188462,"Atuta, Ambiasi",M,Pundia,Pastor,01 Jan 1937
+1210,160181092,"Atuta, Nande",M,Pundia,Subsistence Farmer,16 Nov 1957
+1211,160124027,"Aub, Wesis",M,Pundia,Not Specified,25 Sep 1991
+1212,160443633,"Auta, Saimon",M,Mapirowi,Pastor,08 Sep 1998
+1213,160177444,"Awae, Noel",M,Pundia,Student,01 Jan 1986
+1214,160198691,"Bakua, Lawa",M,Pundia,Subsistence Farmer,11 Oct 1957
+1215,160173449,"Bakua, Nason",M,Pundia,Subsistence Farmer,01 Jan 1967
+1216,160234582,"Bakua, Nuigini",M,Mapirowi,Student,01 Jan 1985
+1217,160173447,"Bakua, Richard",M,Pundia,Pastor,01 Jan 1957
+1218,160186036,"Balus, Pepeayo",M,Pundia,Subsistence Farmer,01 Jan 1973
+1219,25124059,"Beko, Abel",M,Pilmol,Self Employed,14 Aug 1995
+1220,25124062,"Beko, Samuel",M,Peali,Self Employed,01 May 1999
+1221,160443518,"Ben, Garry",M,Pundia,Student,19 Aug 2003
+1222,25124063,"Ben, Norman",M,Penomasa,Driver,13 Jan 1990
+1223,160443520,"Ben, Pisu",M,Pundia,Student,19 Apr 2003
+1224,25124064,"Ben, Simo",M,Yotorora,Self Employed,13 Aug 1999
+1225,160188357,"Ben, Stuwend",M,Pundia,Student,01 Jan 1986
+1226,160443788,"Ben, Stuwid",M,Mandipiri,Student,09 Jan 2004
+1227,160207218,"Benerd, Lopa",M,Pundia,Subsistence Farmer,10 Jun 1982
+1228,160443587,"Benjaman, Saimon",M,Penomasa,Student,08 Apr 2004
+1229,160173496,"Benly, Alen",M,Pundia,Student,21 Jun 1986
+1230,160443550,"Benly, Junior",M,Pundia,Student,10 Jun 2000
+1231,25124066,"Benny, Andrew",M,Penomasa      Health Extention Officer 20 Feb 1982,"79      25124067      Benny, Jerry               M        Yambareanda   Plumber",22 Jul 1921
+1232,25124069,"Benson, Jonson",M,Yotorora,Student,21 Feb 1999
+1233,160180485,"Bero, Epape",M,Pundia,Subsistence Farmer,01 Jan 1938
+1234,160443731,"Bilton, Donis",M,Peali,Student,27 Apr 2004
+1235,25124070,"Bob, Bori",M,Megi,Subsistence Farmer,08 Jan 1994
+1236,160205004,"Boro, Luke",M,Pundia,Student,01 Jan 1985
+1237,160204327,"Boro, Raita",M,Pundia,Student,01 Jan 1987
+1238,160138028,"Botex, Loketz",M,Pundia,Not Specified,18 Mar 1995
+1239,160173091,"Buka, Jeremiah",M,Pundia,Subsistence Farmer,01 Jan 1976
+1240,160201433,"Buka, John",M,Pundia,Subsistence Farmer,01 Jan 1979
+1241,160173094,"Buka, Koyax",M,Pundia,Student,01 Jan 1982
+1242,160173271,"Buka, Siamon",M,Pundia,Clerk,01 Jan 1972
+1243,160195847,"Buka, Tombiye",M,Pundia,Student,01 Jan 1985
+1244,160124289,"Bum, Manuel",M,Pundia Mol,Not Specified,08 Sep 1997
+1245,160173538,"Buru, Dapsy",M,Pundia,Student,01 Jan 1981
+1246,160173100,"Buru, Gebriel",M,Pundia,Subsistence Farmer,01 Jan 1979
+1247,160234768,"Buru, Jackson",M,Masapul,Student,01 Jan 1993
+1248,160222095,"Buru, Joseph",M,Pundia,Subsistence Farmer,01 Jan 1975
+1249,160173534,"Buru, Kera",M,Pundia,Subsistence Farmer,01 Jan 1976
+1250,160177684,"Buru, Kui",M,Pundia,Student,01 Jan 1980
+1251,160173103,"Buru, Laip",M,Pundia,Student,01 Jan 1986
+1252,160173541,"Buru, Mox",M,Pundia,Student,01 Jan 1952
+1253,160221938,"Buru, Nande",M,Pundia,Subsistence Farmer,01 Jan 1970
+1254,160173098,"Buru, Noman",M,Pundia,Pastor,01 Jan 1967
+1255,160219238,"Buru, Peter",M,Pundia,Subsistence Farmer,01 Jan 1967
+1256,160198799,"Buru, Rex",M,Pundia,Evangelist,14 Jun 1972
+1257,160173537,"Buru, Rodney",M,Pundia,Subsistence Farmer,01 Jan 1978
+1258,160177712,"Buru, Seni",M,Pundia,Student,01 Jan 1981
+1259,160443678,"Buru, Wanpis",M,Masapul,Student,20 Apr 2004
+1260,160222097,"Buru, Warea",M,Pundia,Subsistence Farmer,01 Jan 1977
+1261,160185555,"Catty, James",M,Pundia,Subsistence Farmer,10 Jun 1971
+1262,25124072,"Cedrick, Mora",M,Yara,Subsistence Farmer,29 May 1998
+1263,25124073,"Cedrick, Torr",M,Yara,Teacher,28 Jan 1999
+1264,25124074,"Ceorik, Bolo",M,Mapirowi,Farm worker,13 Aug 2001
+1265,160176405,"Charlie, Micheal",M,Pundia,Student,01 Jan 1983
+1266,160124295,"Dacid, Dalrose",M,Pundia Mol,Not Specified,06 Mar 1984
+1267,160193624,"Daiwa, Poki",M,Pundia,Subsistence Farmer,17 Mar 1984
+1268,160190449,"Daiwai, Wane",M,Pundia,Subsistence Farmer,12 Apr 1980
+1269,160124074,"Daniel, Roken",M,Peali,Not Specified,14 Sep 1994
+1270,160443794,"Daniel, Rokey",M,Mandipiri,Student,06 Sep 1994
+1271,160139270,"David, Goden",M,Pundia Mol,Not Specified,08 Jan 1998
+1272,160188605,"David, Omape",M,Pundia,Subsistence Farmer,10 Aug 1984
+1273,160443530,"David, Rian",M,Pundia,Student,10 Nov 2002
+1274,160443444,"David, Rian",M,Pundia,Student,11 Jan 2001
+1275,25124075,"Didi, Lawa",M,Yotorora,Subsistence Farmer,10 Mar 1980
+1276,160190455,"Didi, Tano",M,Pundia,Subsistence Farmer,01 Jan 1980
+1277,160215486,"Dokta, Mathew",M,Pundia,Teacher,01 Jan 1974
+1278,160213120,"Dokta, Peteil",M,Pundia,Student,22 Oct 1983
+1279,160177329,"Echo, Salo",M,Pundia,Subsistence Farmer,01 Jan 1978
+1280,160178096,"Edward, Japat",M,Pundia,Student,01 Jan 1989
+1281,160180459,"Egayo, Gita",M,Pundia,Subsistence Farmer,01 Jan 1963
+1282,160180342,"Egayo, James",M,Pundia,Subsistence Farmer,01 Jan 1969
+1283,160443800,"Elisah, Luther",M,Mandipiri,Subsistence Farmer,24 Jan 2004
+1284,160187148,"Embo, Asupasi",M,Pundia,Subsistence Farmer,01 Jan 1950
+1285,160187691,"Eme, Francis",M,Pundia,Student,27 Nov 1982
+1286,160443553,"Eme, Josuel",M,Pundia,Student,13 Nov 2003
+1287,160197281,"Eme, Junnior",M,Pundia,Student,21 Dec 1984
+1288,160185777,"Eme, Norman",M,Pundia,Student,12 Jun 1979
+1289,160180334,"Endrew, Toni",M,Pundia,Student,01 Jan 1983
+1290,25124076,"Enoch, Joseph",M,Pundia Mol,Carpenter,24 Jul 1987
+1291,160177672,"Epape, Jim",M,Pundia,Student,01 Jan 1987
+1292,160193735,"Epe, Albert",M,Pundia,Student,01 Jan 1985
+1293,160196841,"Epe, Alop",M,Pundia,Student,07 Jul 1981
+1294,160196843,"Epe, Ela",M,Pundia,Student,01 Jan 1990
+1295,160443445,"Epe, Elizah",M,Yara,Student,19 Apr 2000
+1296,160443471,"Epe, Elvis",M,Yara,Student,14 Feb 2001
+1297,160187554,"Epe, Kuruma",M,Pundia,Subsistence Farmer,01 Jan 1930
+1298,160189780,"Epe, Reali",M,Pundia,Subsistence Farmer,01 Jan 1900
+1299,160218612,"Epono, James",M,Pundia,Pastor,10 Jul 1948
+1300,160218608,"Epono, Liki",M,Pundia,Subsistence Farmer,16 Dec 1944
+1301,160187123,"Epono, Malu",M,Pundia,Subsistence Farmer,12 Nov 1956
+1302,160197384,"Epuka, Donis",M,Pundia,Student,14 Mar 1986
+1303,160178059,"Erick, Benette",M,Pundia,Student,02 Nov 1984
+1304,25124079,"Erick, Benji",M,Yara,Student,05 Mar 1998
+1305,25141903,"Erick, Giame",M,Yara,Farm worker,15 Jun 2000
+1306,160180481,"Erick, Jackson",M,Pundia,Student,14 May 1980
+1307,160180314,"Erick, Manuel",M,Pundia,Student,21 Sep 1982
+1308,25124083,"Erick, Nemah",M,Pundia,Household Duties,28 Apr 2004
+1309,160220975,"Erick, Nocky",M,Pundia,Student,09 Jun 1986
+1310,160178089,"Erick, Otte",M,Pundia,Student,13 Dec 1986
+1311,160220971,"Erick, Ricky",M,Pundia,Student,06 Jun 1979
+1312,160443482,"Erick, Rodges",M,Yara,Student,13 Apr 2001
+1313,160234636,"Erick, Rodrick",M,Mandipiri,Student,01 Jan 1990
+1314,160221906,"Erick, Ronny",M,Pundia,Student,11 Oct 1976
+1315,160137870,"Erick, Timothy",M,Pundia,Not Specified,19 Jun 1991
+1316,160219109,"Erick, Undi",M,Pundia,Teacher,15 May 1953
+1317,160234781,"Erick, Yalem",M,Mandipiri,Student,01 Jan 1988
+1318,160443551,"Eso, Japhet",M,Pundia,Student,25 Nov 2002
+1319,160187246,"Eso, Jerry",M,Pundia,Subsistence Farmer,11 Jul 1969
+1320,160187334,"Eso, Peter",M,Pundia,Subsistence Farmer,17 Dec 1961
+1321,160137860,"Eyapala, Eyapala",M,Penomasa,Not Specified,03 Sep 1982
+1322,160443811,"Fedelis, Dickson",M,Mandipiri,Student,07 Jan 2004
+1323,160443510,"Francis, Pero",M,Pundia,Household Duties,09 Jun 1996
+1324,160443680,"Francis, Walaya",M,Masapul,Student,08 Feb 2004
+1325,160443622,"Franise, Junnior",M,Mapirowi,Carpenter,09 Oct 1994
+1326,160443620,"Franise, Skivester",M,Mapirowi,Student,05 Apr 2004
+1327,25124086,"Frank, Iso",M,Penomasa,Student,17 Jul 2002
+1328,25124087,"Frank, Jorden",M,Pilmol,Student,06 Jun 2003
+1329,25124088,"Frank, Max",M,Megi,Accountant,04 May 1998
+1330,160234591,"Frank, Pale",M,Mapirowi,Student,01 Jan 1989
+1331,160197389,"Galu, Andrew",M,Pundia,Student,20 Apr 1980
+1332,160187389,"Galu, John",M,Pundia,Subsistence Farmer,01 Jan 1966
+1333,160187330,"Galu, Malu",M,Pundia,Subsistence Farmer,01 Jan 1957
+1334,160124285,"Gebi, Abram",M,Pundia Mol,Not Specified,23 Mar 1989
+1335,160234626,"Gennah, Amama",M,Yara,Student,01 Jan 1990
+1336,160234616,"Gennah, Bori",M,Yara,Subsistence Farmer,01 Jan 1993
+1337,160220981,"Giame, Bob",M,Pundia,Student,07 Jun 1981
+1338,160443514,"Gibson, Kevin",M,Pundia,Student,04 May 2003
+1339,160443513,"Gibson, Nemaha",M,Pundia,Student,09 Jun 2001
+1340,160197298,"Gibson, Veli",M,Pundia,Student,01 Jan 1978
+1341,160204216,"Gome, Alex",M,Pundia,Cook,01 Jan 1973
+1342,160124025,"Hakais, Philipa",M,Pundia,Not Specified,25 Jul 1994
+1343,160234924,"Helpis nike, Makura",M,Yaina,Subsistence Farmer,01 Jan 1974
+1344,160177857,"Hutanaki, James",M,Pundia,Subsistence Farmer,01 Jan 1959
+1345,160177678,"Hutanaki, John",M,Pundia,Subsistence Farmer,01 Jan 1961
+1346,160177680,"Hutanaki, Paul",M,Pundia,Subsistence Farmer,01 Jan 1971
+1347,25124092,"Iki, Jackson",M,Penomasa,Student,01 Jan 1992
+1348,160234982,"Iki, Jassy",M,Agolopa,Student,01 Jan 1980
+1349,160234811,"Iki, Luther",M,Agolopa,Houseboy,01 Jan 1986
+1350,160124132,"Imbi, Onil",M,Pundia,Not Specified,14 Sep 1998
+1351,160173273,"Inagi, Kende",M,Pundia,Student,28 Dec 1986
+1352,160177321,"Inalua, Saimon",M,Pundia,Subsistence Farmer,01 Jan 1981
+1353,160201475,"Inalua, Toni",M,Pundia,Student,01 Jan 1983
+1354,160188662,"Inulua, Elaiza",M,Pundia,Student,01 Jan 1979
+1355,160443688,"Inulua, Pake",M,Masapul,Student,09 Mar 2004
+1356,160199030,"Ipandoa, Nelson",M,Pundia,Pastor,16 Jun 1944
+1357,160234593,"Ipawa, Andrew",M,Mapirowi,Salesman,01 Jan 1960
+1358,160234129,"Ipawa, Jacob",M,Mapirowi,Security,01 Jan 1978
+1359,160198550,"Ipaya, Pani",M,Pundia,Subsistence Farmer,01 Jan 1967
+1360,160201540,"Ipaya, Sagalia",M,Pundia,Subsistence Farmer,01 Jan 1956
+1361,160198555,"Ipaya, Timothy",M,Pundia,Student,01 Jan 1975
+1362,160196838,"Iyapu, Moria",M,Pundia,Subsistence Farmer,01 Jan 1900
+1363,160218910,"Jack, Balua",M,Pundia,Subsistence Farmer,16 Oct 1976
+1364,160124292,"Jack, Kupi",M,Pundia Mol,Not Specified,19 Oct 1998
+1365,160234923,"Jack, Wanpis",M,Yaina,Student,01 Jan 1993
+1366,160234434,"Jacob, Issac",M,Mapirowi,Student,01 Jan 1984
+1367,160234633,"Jacob, Jerod",M,Yara,Student,01 Jan 1983
+1368,160215839,"Jacob, Jerry",M,Pundia,Student,19 Feb 1982
+1369,160189935,"Jacob, Jetly",M,Pundia,Student,01 Jan 1974
+1370,160215844,"Jacob, Kama",M,Pundia,Student,13 Aug 1986
+1371,160215841,"Jacob, Mari",M,Pundia,Student,22 Dec 1984
+1372,160188499,"Jacob, Tom",M,Pundia,Student,01 Jan 1979
+1373,160184576,"James, Alex",M,Pundia,Student,17 Nov 1978
+1374,160137879,"James, Jeromy",M,Pundia,Not Specified,11 Oct 1993
+1375,160198769,"James, Joden",M,Pundia,Student,01 Jan 1986
+1376,160124053,"James, Sambastin",M,Pundia,Not Specified,23 Sep 1995
+1377,25124095,"Jimmy, Max",M,Penomasa,Farm worker,06 Dec 2003
+1378,25124098,"Jimmy, Samie",M,Pundia,Farm worker,15 Jun 1991
+1379,160201795,"Joe, Peter",M,Pundia,Student,01 Jan 1980
+1380,160187558,"Joe, Yamba",M,Pundia,Subsistence Farmer,01 Jan 1970
+1381,160180425,"Joel, George",M,Pundia,Student,06 Jan 1981
+1382,160124170,"Joel, Kusi",M,Pundia,Sales Women,14 Mar 1996
+1383,160443522,"Joel, Noel",M,Pundia,Student,09 May 2003
+1384,160443536,"John, Abraham",M,Pundia,Student,11 Sep 2002
+1385,160187113,"John, Hitlar",M,Pundia,Student,01 Jan 1983
+1386,160181082,"John, Junior",M,Pundia,Subsistence Farmer,16 Nov 1982
+1387,160221936,"John, Mas",M,Pundia,Student,27 May 1986
+1388,160201531,"John, Popoloi",M,Pundia,Subsistence Farmer,01 Jan 1978
+1389,160221934,"John, Rombala",M,Pundia,Student,23 Apr 1984
+1390,160190761,"John, Samuel",M,Pundia,Student,01 Jan 1976
+1391,160234804,"John, Scarzie",M,Pundia Mol,Mechanic,01 Jan 1984
+1392,160176393,"John, Solomon",M,Pundia,Student,01 Jan 1987
+1393,160219233,"John, Tatu",M,Pundia,Student,16 Jan 1982
+1394,25124099,"Johnson, Benson",M,Mapirowi,Teacher,02 Jul 1982
+1395,25124101,"Johnson, Harden",M,Pundia,Carpenter,13 Jul 1999
+1396,160139272,"Jona, Simon",M,Pundia Mol,Not Specified,08 Sep 1998
+1397,160124209,"Jonathan, Arnold",M,Pundia,Not Specified,03 Apr 1998
+1398,160124194,"Jonathan, Jerry",M,Pundia,Not Specified,02 Jan 1995
+1399,160175994,"Jonathan, Jerry",M,Pundia,Subsistence Farmer,21 Nov 1980
+1400,160137877,"Jonnathan, Jordan",M,Pundia,Not Specified,06 Jul 1993
+1401,25124103,"Joseph, James",M,Masapul,Policeman,15 Aug 2000
+1402,25124105,"Joseph, Mathew",M,Walemarepa,Self Employed,25 Jun 1998
+1403,25124106,"Joseph, Mera",M,Megi,Farm worker,19 Jul 1993
+1404,25124108,"Joseph, Terry",M,Mandipiri,Self Employed,28 Apr 1992
+1405,25124109,"Joseph, Wera",M,Pilmol,Self Employed,17 Mar 1999
+1406,160124056,"Junior, Jorem",M,Pundia,Not Specified,23 May 1996
+1407,25124111,"Jupita, Jack",M,Masapul,Student,13 Feb 1998
+1408,25124112,"Jupita, Jude",M,Mandipiri,Student,11 Jul 2000
+1409,25124116,"Jupita, Peter",M,Umbiale,Student,09 Jun 2000
+1410,25124117,"Jupita, Peter",M,Yara,Student,16 Aug 1999
+1411,160443542,"Justin, Keju",M,Pundia,Student,21 Mar 2004
+1412,160176119,"Kagai, Jonathan",M,Pundia,Student,16 Sep 1970
+1413,160177815,"Kagai, Lia",M,Pundia,Subsistence Farmer,12 Jun 1950
+1414,160173509,"Kagai, Solomon",M,Pundia,Student,12 Dec 1978
+1415,160190024,"Kagaluk, James",M,Pundia,Student,01 Jan 1986
+1416,160190674,"Kagaluka, Saimon",M,Pundia,Student,01 Jan 1983
+1417,160234830,"Kaguluka, Jonah",M,Agolopa,Houseboy,01 Jan 1980
+1418,160234833,"Kaguluka, Lanka",M,Agolopa,Student,01 Jan 1982
+1419,25124119,"Kale, John",M,Yambareanda,Farm worker,28 Apr 1998
+1420,25124120,"Kale, Joseph",M,Peali,Carpenter,29 Jul 1999
+1421,160185597,"Kale, Lepi",M,Pundia,Subsistence Farmer,01 Jan 1956
+1422,160180967,"Kale, Logo",M,Pundia,Subsistence Farmer,01 Jan 1940
+1423,25124122,"Kale, Peter",M,Megi,Carpenter,15 Feb 1991
+1424,160137876,"Kande, Cludi",M,Pundia,Not Specified,03 Jul 1991
+1425,160204890,"Kandinaki, John",M,Pundia,Subsistence Farmer,01 Jan 1976
+1426,160207656,"Kandinaki, Mata",M,Pundia,Subsistence Farmer,01 Jan 1965
+1427,160234423,"Kangaluka, James",M,Peali,Student,01 Jan 1984
+1428,160201076,"Kangi, Kama",M,Pundia,Subsistence Farmer,01 Jan 1984
+1429,160200964,"Kangi, Nala",M,Pundia,Subsistence Farmer,01 Jan 1960
+1430,160220730,"Kanoali, Thomas",M,Pundia,Student,04 Sep 1983
+1431,160201769,"Kara, Kari",M,Pundia,Subsistence Farmer,21 Oct 1945
+1432,160202481,"Kara, Kekuru",M,Pundia,Subsistence Farmer,11 Dec 1937
+1433,160218366,"Kara, Yawi",M,Pundia,Subsistence Farmer,29 Jun 1943
+1434,160189889,"Kari, Don",M,Pundia,Subsistence Farmer,21 Aug 1959
+1435,160201284,"Kari, Manemane",M,Pundia,Subsistence Farmer,30 Oct 1950
+1436,160201771,"Kari, Nandiye",M,Pundia,Subsistence Farmer,14 Sep 1953
+1437,160196858,"Kari, Perea",M,Pundia,Subsistence Farmer,30 Nov 1949
+1438,160194478,"Kari, Yama",M,Pundia,Subsistence Farmer,22 Sep 1963
+1439,160177722,"Karite, Toni",M,Pundia,Subsistence Farmer,01 Jan 1956
+1440,160443535,"Kasa, Jojo",M,Pundia,Student,21 Aug 2001
+1441,160204310,"Kea, Boro",M,Pundia,Subsistence Farmer,01 Jan 1947
+1442,160204308,"Kea, Tapu",M,Pundia,Subsistence Farmer,01 Jan 1943
+1443,160124286,"Kekep, Norman",M,Pundia Mol,Not Specified,30 Mar 1998
+1444,160180482,"Kekuru, Deni",M,Pundia,Student,01 Jan 1981
+1445,160180313,"Kekuru, Eron",M,Pundia,Student,01 Jan 1983
+1446,160180347,"Kekuru, James",M,Pundia,Subsistence Farmer,01 Jan 1977
+1447,160234143,"Kekuru, Justin",M,Pundia Mol,Policeman,01 Jan 1978
+1448,160234427,"Kekuru, Pake",M,Pundia Mol,Teacher,01 Jan 1980
+1449,160234428,"Kekuru, Ronald",M,Pundia Mol,Pastor,16 Sep 1975
+1450,160443825,"Kela, Kito",M,Mandipiri,Student,07 Feb 2004
+1451,160234625,"Kemaria, Charilie",M,Mandipiri,Subsistence Farmer,01 Jan 1966
+1452,160234615,"Kemaria, David",M,Mandipiri,Houseboy,01 Jan 1980
+1453,160234623,"Kemaria, Felix",M,Mandipiri,Pastor,01 Jan 1964
+1454,160443474,"Kemaria, Japhet",M,Yara,Student,19 Jun 2000
+1455,160234621,"Kemaria, Kennly",M,Mandipiri,Student,01 Jan 1988
+1456,25124124,"Kemeria, Joshua",M,Yara,Student,10 Feb 1992
+1457,160137865,"Kendi, Jack",M,Pundia,Not Specified,14 Sep 1974
+1458,160177392,"Kendi, Paul",M,Pundia,Student,23 May 1984
+1459,160201740,"Kendi, Yama",M,Pundia,Student,15 Mar 1986
+1460,160193494,"Keyadi, Rumben",M,Pundia,Student,30 Dec 1983
+1461,160193468,"Keyadi, Siamon",M,Pundia,Subsistence Farmer,01 Jan 1978
+1462,160198546,"Keyandi, Busman",M,Pundia,Student,01 Jan 1983
+1463,160191266,"Keyandi, Kama",M,Pundia,Student,14 Apr 1986
+1464,160201534,"Keyandi, Noan",M,Pundia,Student,01 Jan 1985
+1465,160204209,"Kidu, Pagano",M,Pundia,Subsistence Farmer,01 Jan 1980
+1466,160207499,"Kina, Jack",M,Pundia,Student,16 Oct 1986
+1467,160207498,"Kina, Nadiye",M,Pundia,Subsistence Farmer,01 Jan 1983
+1468,160204725,"Kina, Yamai",M,Pundia,Subsistence Farmer,01 Jan 1968
+1469,160196835,"Kiniwi, Eme",M,Pundia,Subsistence Farmer,01 Jan 1967
+1470,160193619,"Kiniwi, Ipi",M,Pundia,Subsistence Farmer,01 Jan 1975
+1471,160190292,"Kiniwi, Keyadi",M,Pundia,Subsistence Farmer,01 Jan 1961
+1472,160193636,"Kiniwi, Lumbi",M,Pundia,Subsistence Farmer,01 Jan 1962
+1473,160196668,"Kiniwi, Stanely",M,Pundia,Subsistence Farmer,01 Jan 1970
+1474,160193581,"Kiniwi, Tobi",M,Pundia,Church Worker,01 Jan 1972
+1475,160196716,"Kiniwi, Willie",M,Pundia,Mechanic,01 Jan 1972
+1476,160139269,"Kipu, Giluwe",M,Pundia Mol,Not Specified,09 Sep 1998
+1477,160188652,"Kipu, Inalua",M,Pundia,Subsistence Farmer,01 Jan 1956
+1478,160177422,"Kipu, Kendi",M,Pundia,Subsistence Farmer,01 Jan 1974
+1479,160185513,"Kipu, Ola",M,Pundia,Subsistence Farmer,15 Oct 1981
+1480,160197301,"Kipu, Rakuna",M,Pundia,Subsistence Farmer,01 Jan 1951
+1481,160204888,"Kisa, Albert",M,Pundia,Student,26 Dec 1985
+1482,25124125,"Kogai, Micheal",M,Penomasa,Subsistence Farmer,02 Mar 1965
+1483,25124126,"Kogai, Moses",M,Mandipiri,Student,03 Apr 1998
+1484,25124127,"Kogai, Sure",M,Pundia Mol,Subsistence Farmer,01 May 1998
+1485,160178076,"Kolema, Reka",M,Pundia,Subsistence Farmer,01 Jan 1900
+1486,25124128,"Koliai, Luther",M,Megi,Student,08 May 2003
+1487,160207220,"Kombea, Nisa",M,Pundia,Subsistence Farmer,01 Jan 1947
+1488,160207505,"Kombea, Una",M,Pundia,Subsistence Farmer,01 Jan 1933
+1489,160214040,"Kone, George",M,Pundia,Student,13 May 1984
+1490,160215875,"Kone, Jackson",M,Pundia,Student,17 Jun 1982
+1491,160187151,"Konga, Jecob",M,Pundia,Student,01 Jan 1981
+1492,160187134,"Konga, Lorence",M,Pundia,Subsistence Farmer,01 Jan 1972
+1493,160234586,"Kongai, Meli",M,Penomasa,Student,01 Jan 1985
+1494,160187147,"Kongai, Patrick",M,Pundia,Student,01 Jan 1979
+1495,160187124,"Kongai, Sure",M,Pundia,Subsistence Farmer,01 Jan 1970
+1496,160180951,"Kongai, Tomas",M,Pundia,Subsistence Farmer,01 Jan 1974
+1497,160181090,"Kopa, Warea",M,Pundia,Subsistence Farmer,20 Sep 1979
+1498,160124157,"Kor, Lauri",M,Penomasa,Not Specified,18 Aug 1998
+1499,160124155,"Kor, Maxson",M,Penomasa,Not Specified,16 Jul 1998
+1500,160124156,"Kor, Tonoly",M,Penomasa,Not Specified,03 Aug 1997
+1501,160177959,"Kora, Namina",M,Pundia,Subsistence Farmer,14 May 1954
+1502,160443665,"Koropa, Matyu",M,Masapul,Security,24 Aug 1996
+1503,160178082,"Koropa, Saimon",M,Pundia,Student,01 Jan 1983
+1504,160443670,"Korope, Mox",M,Masapul,Student,08 Apr 2004
+1505,160203701,"Koropo, Matyu",M,Pundia,Student,01 Jan 1984
+1506,160203699,"Koropo, Paul",M,Pundia,Subsistence Farmer,01 Jan 1981
+1507,160173455,"Koyapo, Albert",M,Pundia,Student,04 Jun 1986
+1508,160234420,"Koyapo, Kopol",M,Peali,Policeman,01 Jan 1970
+1509,160220746,"Koyapo, Paul",M,Pundia,Student,16 Jul 1983
+1510,160218868,"Koyapo, Richard",M,Pundia,Subsistence Farmer,01 Jan 1974
+1511,160201397,"Koyapo, Takis",M,Pundia,Electrician,14 May 1975
+1512,160173530,"Kui, Buru",M,Pundia,Subsistence Farmer,01 Jan 1953
+1513,160198671,"Kui, Koyapo",M,Pundia,Subsistence Farmer,01 Jan 1955
+1514,160173276,"Kui, Peter",M,Pundia,Subsistence Farmer,01 Jan 1966
+1515,160201663,"Kui, Rumu",M,Pundia,Subsistence Farmer,01 Jan 1969
+1516,160195850,"Kui, Tala",M,Pundia,Subsistence Farmer,01 Jan 1951
+1517,160217881,"Kulumbu, Warea",M,Pundia,Subsistence Farmer,30 Oct 1944
+1518,160191263,"Kuma, Daniel",M,Pundia,Student,01 Jan 1987
+1519,160233164,"Kuma, Dickson",M,Agolopa,Student,01 Jan 1980
+1520,160220763,"Kungai, Michael",M,Pundia,Teacher,01 Jan 1960
+1521,160181073,"Kupi, Luther",M,Pundia,Student,01 Jan 1988
+1522,160443650,"Kupi, Matin",M,Agolopa,Student,02 May 2003
+1523,160443718,"Kupi, Pely",M,Yaina,Student,26 Feb 2004
+1524,160215835,"Kupu, Jacob",M,Pundia,Subsistence Farmer,01 Jan 1970
+1525,160234766,"Kuruma, Joshua",M,Masapul,Crewman,01 Jan 1982
+1526,160235175,"Kuruma, Mari",M,Masapul,Subsistence Farmer,01 Jan 1976
+1527,160234769,"Kuruma, Paul",M,Masapul,Subsistence Farmer,01 Jan 1979
+1528,160191085,"Kuruma, Wanpis",M,Masapul,Subsistence Farmer,01 Jan 1977
+1529,160443724,"Kuta, Darian",M,Peali,Teacher,08 Sep 1980
+1530,160218055,"Kuta, James",M,Pundia,Subsistence Farmer,13 Dec 1952
+1531,160218727,"Kuta, Jessy",M,Pundia,Subsistence Farmer,01 Jan 1968
+1532,160218728,"Kuta, Papia",M,Pundia,Subsistence Farmer,27 Nov 1964
+1533,160218877,"Kuta, Salosi",M,Pundia,Subsistence Farmer,29 Oct 1956
+1534,160218068,"Kuta, Saya",M,Pundia,Subsistence Farmer,27 Oct 1972
+1535,160218851,"Kuta, Wasape",M,Pundia,Subsistence Farmer,20 Nov 1976
+1536,160201017,"La, Tapami",M,Pundia,Subsistence Farmer,16 Dec 1941
+1537,160189676,"Laisa, Micheal",M,Pundia,Subsistence Farmer,21 Oct 1960
+1538,160188508,"Lakepea, Pisu",M,Pundia,Subsistence Farmer,01 Jan 1950
+1539,160215481,"Landea, Dokta",M,Pundia,Subsistence Farmer,01 Jan 1956
+1540,160234130,"Landea, Elias",M,Peali,Teacher,01 Jan 1965
+1541,160234132,"Landea, Koke",M,Peali,Security,01 Jan 1976
+1542,160214031,"Landea, Kone",M,Pundia,Driver,01 Jan 1972
+1543,160234135,"Landea, Kupu",M,Peali,Driver,01 Jan 1961
+1544,160234136,"Landea, Ralu",M,Peali,Driver,01 Jan 1971
+1545,160217839,"Landea, Rani",M,Pundia,Driver,01 Jan 1968
+1546,160190460,"Lapua, Didi",M,Pundia,Subsistence Farmer,01 Jan 1980
+1547,160193582,"Lapua, Seni",M,Pundia,Subsistence Farmer,01 Jan 1982
+1548,160201003,"Leandea, Pora",M,Pundia,Teacher,01 Jan 1953
+1549,160234822,"Leke, David",M,Agolopa,Houseboy,01 Jan 1990
+1550,25124130,"Les, Jude",M,Yara,Accountant,06 Sep 1998
+1551,25124131,"Les, Jude",M,Yara,Manager,19 Aug 2000
+1552,25124134,"Lia, Akiri",M,Pundia,Subsistence Farmer,20 Oct 1993
+1553,160178121,"Lia, Benli",M,Pundia,Student,18 Aug 1984
+1554,25124135,"Lia, Benly",M,Yotorora,Subsistence Farmer,12 Jun 1991
+1555,160124166,"Lia, Rambason",M,Pundia,Not Specified,25 Oct 1994
+1556,160187889,"Lika, Luke",M,Pundia,Student,01 Jan 1986
+1557,160234618,"Limah, Kerela",M,Yara,Subsistence Farmer,01 Jan 1993
+1558,160188332,"Lome, Benjamen",M,Pundia,Student,01 Jan 1970
+1559,160188321,"Lome, Jacob",M,Pundia,Welder,01 Jan 1945
+1560,160190521,"Lome, Leron",M,Pundia,Student,01 Jan 1948
+1561,160189918,"Lome, Philien",M,Pundia,Student,01 Jan 1986
+1562,160190526,"Lome, Simon",M,Pundia,Subsistence Farmer,01 Jan 1952
+1563,160190533,"Lome, Warua",M,Pundia,Student,01 Jan 1965
+1564,160188316,"Lome, Yako",M,Pundia,Worker,01 Jan 1942
+1565,160189921,"Lome, Yapaga",M,Pundia,Student,01 Jan 1989
+1566,160181097,"Lopalua, Nandiye",M,Pundia,Subsistence Farmer,12 Aug 1988
+1567,160153856,"Lope, Reka",M,Pundia,Subsistence Farmer,26 Dec 1985
+1568,160234791,"Lucas, Enock",M,Yara,Student,01 Jan 1993
+1569,160443473,"Lucas, Josuel",M,Yara,Student,14 Feb 2001
+1570,160221927,"Lucy, Maipo",M,Pundia,Student,12 Jun 1986
+1571,160124036,"Lukas, Incok",M,Pundia,Not Specified,16 Apr 1998
+1572,160196707,"Lukas, Kalari",M,Pundia,Subsistence Farmer,01 Jan 1975
+1573,25124136,"Luke, George",M,Yara,Teacher,17 Dec 1991
+1574,25124140,"Luke, Luther",M,Yara,Student,02 Mar 2002
+1575,160193481,"Lumbi, Albert",M,Pundia,Student,11 Apr 1986
+1576,160193645,"Lumbi, Bushman",M,Pundia,Student,30 Jan 1985
+1577,160173631,"Lumbu, Wilbert",M,Pundia,Student,21 Oct 1984
+1578,160185592,"Maikata, Mex",M,Pundia,Subsistence Farmer,01 Jan 1960
+1579,160222094,"Mali, David",M,Pundia,Subsistence Farmer,01 Jan 1981
+1580,160234124,"Mali, Jodan",M,Peali,Student,01 Jan 1989
+1581,160221948,"Mali, Luther",M,Pundia,Subsistence Farmer,01 Jan 1979
+1582,160221932,"Mali, Mendepo",M,Pundia,Subsistence Farmer,01 Jan 1977
+1583,160177357,"Malu, Albet",M,Pundia,Subsistence Farmer,01 Jan 1973
+1584,160185529,"Malu, Aron",M,Pundia,Student,16 Jul 1987
+1585,160187245,"Malu, Ben",M,Pundia,Student,01 Jan 1982
+1586,160124030,"Malu, Erron",M,Pundia,Not Specified,13 Jan 1998
+1587,160443805,"Malu, Ila",M,Mandipiri,Teacher,04 Feb 2004
+1588,160177668,"Malu, Mulai",M,Pundia,Subsistence Farmer,01 Jan 1979
+1589,160178070,"Mama, Moses",M,Pundia,Subsistence Farmer,27 Nov 1977
+1590,160443583,"Mambi, Limson",M,Penomasa,Student,22 Feb 2004
+1591,160124290,"Man, Iriman",M,Pundia Mol,Not Specified,16 Mar 1998
+1592,25124141,"Manase, Bob",M,Masapul,Teacher,16 Aug 2000
+1593,25124142,"Manase, George",M,Mandipiri,Banker,28 Jul 1987
+1594,25124145,"Manase, Pavio",M,Pilmol,Student,24 Mar 2001
+1595,160160595,"Manda, Yoto",M,Pundia,Subsistence Farmer,26 Nov 1941
+1596,160180615,"Mane, Daniel",M,Pundia,Subsistence Farmer,01 Jan 1985
+1597,160180613,"Mane, Ebel",M,Pundia,Subsistence Farmer,01 Jan 1982
+1598,160180324,"Mane, Taitas",M,Pundia,Student,01 Jan 1988
+1599,160443561,"Mane, Taitu",M,Penomasa,Student,04 Aug 2000
+1600,160196855,"Manemane, Samson",M,Pundia,Student,15 Dec 1974
+1601,160196765,"Manemane, Soti",M,Pundia,Student,29 Oct 1978
+1602,160177420,"Mapi, Jerry",M,Pundia,Student,19 Feb 1985
+1603,160443829,"Mapu, Jerry",M,Mandipiri,Student,06 Jan 2004
+1604,160234123,"Maria, Manuel",M,Mapirowi,Teacher,01 Jan 1974
+1605,160176401,"Maria, Natan",M,Pundia,Subsistence Farmer,01 Jan 1968
+1606,160234585,"Maria, Samuel",M,Mapirowi,Security,01 Jan 1978
+1607,160178099,"Maria, Wepa",M,Pundia,Subsistence Farmer,01 Jan 1967
+1608,160443545,"Maric, Gideon",M,Pundia,Student,24 Nov 2003
+1609,160193495,"Mark, Desmon",M,Pundia,Student,01 Jan 1979
+1610,160234919,"Mark, Josphine",M,Pundia,Mechanic,01 Jan 1979
+1611,25124146,"Mark, Philimon",M,Penomasa,Student,01 Mar 2001
+1612,160443704,"Mata, Alpose",M,Yaina,Subsistence Farmer,09 Dec 1998
+1613,160188011,"Mata, Bepi",M,Pundia,Subsistence Farmer,01 Jan 1979
+1614,160177829,"Mata, Charlie",M,Pundia,Subsistence Farmer,13 Apr 1985
+1615,160443524,"Mata, Charlie",M,Pundia,Student,05 Jun 2003
+1616,160443701,"Mata, Jimmy",M,Yaina,Subsistence Farmer,08 Sep 1999
+1617,160443706,"Mata, Manuel",M,Yaina,Subsistence Farmer,04 Nov 1995
+1618,160188607,"Mata, Rolo",M,Pundia,Subsistence Farmer,17 Dec 1983
+1619,160124136,"Matin, Tonny",M,Penomasa,Not Specified,07 Aug 1998
+1620,160124158,"Max, Kor",M,Penomasa,Not Specified,18 Sep 1981
+1621,160443516,"Max, Maxton",M,Pundia,Student,30 May 2001
+1622,160443515,"Max, Tonolie",M,Pundia,Student,18 Feb 2004
+1623,160204225,"Maya, Yaku",M,Pundia,Subsistence Farmer,20 Jun 1935
+1624,160194573,"Meano, Donald",M,Pundia,Subsistence Farmer,01 Jan 1980
+1625,160202379,"Memege, Hitar",M,Pundia,Subsistence Farmer,01 Jan 1981
+1626,160207216,"Memege, Nike",M,Pundia,Subsistence Farmer,01 Jan 1966
+1627,160198808,"Mera, Epe",M,Pundia,Student,25 Oct 1986
+1628,160177347,"Mera, Ipula",M,Pundia,Subsistence Farmer,01 Jan 1978
+1629,160124070,"Mera, Joel",M,Yara,Not Specified,14 Mar 1978
+1630,160173445,"Mera, Randa",M,Pundia,Student,16 Apr 1986
+1631,160123911,"Mera, Rundu",M,Peali,Not Specified,11 Dec 1979
+1632,160188608,"Mex, Memina",M,Pundia,Subsistence Farmer,21 Oct 1980
+1633,160187890,"Mex, Ratalo",M,Pundia,Subsistence Farmer,27 Jul 1984
+1634,160198864,"Miamo, Enrick",M,Pundia,Subsistence Farmer,01 Jan 1958
+1635,160204210,"Miamo, Remon",M,Pundia,Subsistence Farmer,01 Jan 1955
+1636,160204162,"Michael, Joe",M,Pundia,Student,01 Jan 1987
+1637,160124015,"Michael, Linet",M,Pundia,Not Specified,11 Mar 1999
+1638,160234436,"Micheal, Ambraham",M,Penomasa,Student,14 Jun 1986
+1639,160204894,"Micheal, Mick",M,Pundia,Student,16 Oct 1986
+1640,160194495,"Miria, Grace",M,Pundia,Student,01 Jan 1989
+1641,160194492,"Miria, Mark",M,Pundia,Student,01 Jan 1985
+1642,160190454,"Miria, Nelson",M,Pundia,Student,01 Jan 1987
+1643,160234812,"Mirie, Dicson",M,Agolopa,Student,01 Jan 1988
+1644,160234197,"Mirie, Nathan",M,Agolopa,Student,01 Jan 1990
+1645,160233163,"Mirie, Solomon",M,Agolopa,Houseboy,01 Jan 1991
+1646,160233168,"Mirie, Undi",M,Agolopa,Subsistence Farmer,01 Jan 1984
+1647,160443646,"Miriye, Dickson",M,Agolopa,Student,24 Aug 2003
+1648,160443648,"Miriye, Natan",M,Agolopa,Student,28 Apr 2004
+1649,160194489,"Moinai, Warea",M,Pundia,Student,18 Aug 1960
+1650,160220742,"Moka, Isack",M,Pundia,Student,01 Jan 1987
+1651,160443546,"Moka, Ron",M,Pundia,Student,15 Jun 2001
+1652,160193739,"Moria, Mana",M,Pundia,Teacher,01 Jan 1959
+1653,160193744,"Moria, Seni",M,Pundia,Subsistence Farmer,01 Jan 1969
+1654,160187920,"Moses, Alo",M,Pundia,Student,01 Jan 1980
+1655,160187249,"Moses, Rumber",M,Pundia,Student,01 Jan 1980
+1656,160234424,"Moses, Timothy",M,Peali,Student,14 Jun 1990
+1657,160443719,"Moto, John",M,Peali,Teacher,02 Apr 1996
+1658,160124149,"Muli, Pastor james",M,Penomasa,Not Specified,03 Jan 1983
+1659,160178077,"Mupi, Edward",M,Pundia,Pastor,01 Jan 1957
+1660,160177591,"Mupi, John",M,Pundia,Subsistence Farmer,01 Jan 1932
+1661,160178067,"Mupi, Koropa",M,Pundia,Subsistence Farmer,01 Jan 1949
+1662,160177595,"Mupi, Peawi",M,Pundia,Subsistence Farmer,01 Jan 1967
+1663,160180962,"Nadie, Johnson",M,Pundia,Accountant,16 Dec 1963
+1664,160177704,"Naikis, Joe",M,Pundia,Carpenter,01 Jan 1972
+1665,160177586,"Naikis, Neri",M,Pundia,Subsistence Farmer,01 Jan 1975
+1666,160177600,"Naikis, Romba",M,Pundia,Subsistence Farmer,01 Jan 1981
+1667,160176077,"Naita, Libert",M,Pundia,Subsistence Farmer,14 Dec 1986
+1668,160137873,"Naiten, Amon",M,Pundia,Not Specified,03 Mar 1999
+1669,160443759,"Naiten, Lebert",M,Mandipiri,Student,20 Jan 2004
+1670,160443528,"Nala, Amozon",M,Pundia,Student,03 Nov 2002
+1671,160198761,"Nala, Joel",M,Pundia,Student,25 Aug 1986
+1672,160194582,"Nala, Manuel",M,Pundia,Student,19 Oct 1983
+1673,160200969,"Nala, Nickson",M,Pundia,Teacher,01 Jan 1973
+1674,160201012,"Nala, Randoa",M,Pundia,Student,26 Apr 1983
+1675,160194580,"Nala, Roropa",M,Pundia,Subsistence Farmer,01 Jan 1979
+1676,160124187,"Nali, Joseph",M,Pundia,Not Specified,06 Dec 1989
+1677,25124153,"Namina, Joel",M,Pundia,Subsistence Farmer,11 Dec 1992
+1678,160177810,"Namina, Joel",M,Pundia,Student,29 Oct 1970
+1679,160124011,"Nandape, Samuel",M,Pundia,Not Specified,14 Sep 1980
+1680,160443775,"Nandawe, Ps samuel",M,Mandipiri,Pastor,04 Nov 1978
+1681,160443831,"Nande, Amon",M,Mandipiri,Student,07 Apr 2004
+1682,160443833,"Nande, Jorden",M,Mandipiri,Student,20 Feb 2004
+1683,160201127,"Nande, Mambi",M,Pundia,Student,22 Dec 1982
+1684,160203695,"Nande, Nalia",M,Pundia,Subsistence Farmer,01 Jan 1975
+1685,160203691,"Nande, Pale",M,Pundia,Subsistence Farmer,01 Jan 1971
+1686,160177438,"Nandia, Ambi",M,Pundia,Subsistence Farmer,01 Jan 1963
+1687,160201486,"Nandia, Kisa",M,Pundia,Subsistence Farmer,01 Jan 1971
+1688,160201485,"Nandia, Laima",M,Pundia,Subsistence Farmer,01 Jan 1969
+1689,160180955,"Nandiye, Amos",M,Pundia,Pastor,10 Jul 1946
+1690,160201574,"Nandiye, Ben",M,Pundia,Subsistence Farmer,27 Oct 1969
+1691,160187152,"Nandiye, Glama",M,Pundia,Teacher,06 Aug 1951
+1692,160196845,"Nandiye, Jacob",M,Pundia,Student,17 Dec 1983
+1693,160201582,"Nandiye, Mark",M,Pundia,Subsistence Farmer,29 Jul 1979
+1694,160185586,"Nandiye, Peter",M,Pundia,Student,12 Jul 1971
+1695,160185766,"Nandiye, Wanpis",M,Pundia,Subsistence Farmer,01 Jan 1967
+1696,160185812,"Nandom, Samuel",M,Pundia,Not Specified,01 Jan 1965
+1697,160185595,"Nandoma, David",M,Pundia,Subsistence Farmer,01 Jan 1969
+1698,160180576,"Nandoma, Luke",M,Pundia,Student,01 Jan 1983
+1699,160185620,"Nare, Laks",M,Pundia,Subsistence Farmer,01 Jan 1980
+1700,160188216,"Nare, Mose",M,Pundia,Subsistence Farmer,01 Jan 1967
+1701,160185778,"Nare, Paul",M,Pundia,Subsistence Farmer,01 Jan 1974
+1702,160187683,"Nare, Rex",M,Pundia,Security,01 Jan 1973
+1703,160188063,"Nare, Richard",M,Pundia,Subsistence Farmer,01 Jan 1970
+1704,25124161,"Nelison, Rasol",M,Megi,Business Development,22 Feb 1981
+1705,160204213,"Nelson, Banabas",M,Pundia,Student,16 Dec 1972
+1706,160204220,"Nelson, Enrick",M,Pundia,Student,11 Oct 1979
+1707,160443461,"Nelson, Iso",M,Yara,Student,14 Aug 1999
+1708,160221946,"Nelson, Landea",M,Pundia,Subsistence Farmer,16 Oct 1984
+1709,160187127,"Nike, Helvis",M,Pundia,Student,01 Jan 1980
+1710,160187139,"Nike, Jeremiah",M,Pundia,Student,01 Jan 1985
+1711,160207210,"Nike, Paul",M,Pundia,Student,15 Oct 1986
+1712,160207208,"Nike, Peter",M,Pundia,Subsistence Farmer,17 Sep 1984
+1713,160186012,"Niru, Amos",M,Pundia,Student,12 Sep 1986
+1714,160177325,"Niru, Job",M,Pundia,Student,15 Jun 1983
+1715,160201742,"Niru, Kalari",M,Pundia,Student,01 Jan 1975
+1716,160137863,"Niru, Nate",M,Pundia,Not Specified,09 Oct 1994
+1717,160177428,"Niru, Netinel",M,Pundia,Student,01 Jan 1987
+1718,160193506,"Niru, Pale",M,Pundia,Subsistence Farmer,01 Jan 1971
+1719,160187446,"Niru, Solomon",M,Pundia,Student,25 Oct 1984
+1720,160177319,"Niru, Te",M,Pundia,Student,01 Jan 1975
+1721,160177463,"Niru, Yaki",M,Pundia,Student,01 Jan 1980
+1722,160443746,"Niru, Yaki",M,Peali,Student,09 Jan 2004
+1723,160443699,"Nisa, Ben",M,Yaina,Student,09 Feb 2004
+1724,25124168,"Noel, Joel",M,Pundia,Aid Post Orderly,24 Jun 1989
+1725,25124169,"Noel, Mark",M,Mapirowi,Mechanic,22 May 2000
+1726,160198677,"Nole, Kundiri",M,Pundia,Student,05 Aug 1986
+1727,160185550,"Nondoma, Yari",M,Pundia,Student,01 Jan 1987
+1728,160189901,"Nopu, Ambi",M,Pundia,Subsistence Farmer,01 Jan 1953
+1729,160185493,"Nopu, Eso",M,Pundia,Subsistence Farmer,21 Jul 1956
+1730,160190037,"Nopu, Joe",M,Pundia,Subsistence Farmer,01 Jan 1976
+1731,160189881,"Nopu, John",M,Pundia,Subsistence Farmer,01 Jan 1950
+1732,160218914,"Nopu, John",M,Pundia,Subsistence Farmer,21 Oct 1985
+1733,160234814,"Nopu, Leken",M,Agolopa,Student,01 Jan 1992
+1734,160191017,"Nopu, Lucas",M,Pundia,Subsistence Farmer,01 Jan 1979
+1735,160124301,"Nopu, Nobert",M,Pundia Mol,Not Specified,15 Sep 1998
+1736,160234195,"Nopu, Nobert",M,Agolopa,Student,01 Jan 1990
+1737,160443652,"Nopu, Obet",M,Agolopa,Student,28 Apr 2004
+1738,160187553,"Nopu, Pima",M,Pundia,Subsistence Farmer,01 Jan 1963
+1739,160187787,"Nopu, Pirua",M,Pundia,Subsistence Farmer,01 Jan 1953
+1740,160221900,"Nopu, Tomas",M,Pundia,Subsistence Farmer,01 Jan 1969
+1741,160189781,"Nopu, Wiliem",M,Pundia,Subsistence Farmer,01 Jan 1959
+1742,160196722,"Nopu, Winti",M,Pundia,Student,01 Jan 1983
+1743,160190316,"Notolo, Albert",M,Pundia,Student,01 Jan 1982
+1744,160190502,"Notolo, Alphons",M,Pundia,Student,01 Jan 1989
+1745,160443475,"Notolo, Lokat",M,Yara,Student,19 Jun 2000
+1746,160443819,"Olende, Josua",M,Mandipiri,,28 Apr 2004
+1747,160234818,"Omape, Ben",M,Agolopa,Student,01 Jan 1979
+1748,160234816,"Omape, Buka",M,Agolopa,Student,01 Jan 1975
+1749,160196728,"Omape, John",M,Pundia,Student,01 Jan 1987
+1750,160180456,"Omape, Jona",M,Pundia,Student,01 Jan 1985
+1751,160180328,"Omape, Jonathan",M,Pundia,Subsistence Farmer,01 Jan 1978
+1752,160234817,"Omape, Jules",M,Agolopa,Student,01 Jan 1977
+1753,160124302,"Omape, Kemek",M,Pundia Mol,Not Specified,08 Mar 1998
+1754,160443540,"Omape, Mairon",M,Pundia,Student,29 Mar 2004
+1755,160193587,"Omi, David",M,Pundia,Not Specified,14 Dec 1968
+1756,160194490,"Omi, Gilford",M,Pundia,Subsistence Farmer,01 Jan 1956
+1757,160189717,"Omi, Jorem",M,Pundia,Student,10 Jun 1980
+1758,160191217,"Omi, Lops",M,Pundia,Student,21 Nov 1972
+1759,160189715,"Omi, Padane",M,Pundia,Student,21 Jul 1976
+1760,160188596,"Omi, Raita",M,Pundia,Teacher,10 Feb 1988
+1761,160191391,"Omi, Salo",M,Pundia,Pastor,16 Nov 1952
+1762,160234196,"Ompae, Oti",M,Agolopa,Student,01 Jan 1981
+1763,25124171,"Ongum, Lun",M,Yara,Student,16 Jun 2001
+1764,25124173,"Ongum, Roney",M,Masapul,Driver,15 Jun 1989
+1765,25124174,"Ongum, Timon",M,Yara,Baker,18 Mar 1989
+1766,25124175,"Ongum, Wesley",M,Yara,Student,27 Mar 2002
+1767,160177835,"Opalo, Benjamin",M,Pundia,Subsistence Farmer,01 Jan 1965
+1768,160178104,"Opalo, Mark",M,Pundia,Teacher,01 Jan 1969
+1769,160203689,"Ope, Kela",M,Pundia,Subsistence Farmer,01 Jan 1980
+1770,160187585,"Ore, John",M,Pundia,Subsistence Farmer,21 Oct 1957
+1771,160201421,"Paga, Francis",M,Pundia,Subsistence Farmer,01 Jan 1959
+1772,25124176,"Paga, Michael",M,Umbiale,Student,01 May 2001
+1773,160198303,"Paga, Paul",M,Pundia,Pastor,01 Jan 1957
+1774,160194589,"Paia, Rumi",M,Pundia,Subsistence Farmer,01 Jan 1900
+1775,160198917,"Paia, Tomas",M,Pundia,Subsistence Farmer,01 Jan 1940
+1776,160221988,"Paina, Notolo",M,Pundia,Subsistence Farmer,19 Nov 1935
+1777,160176083,"Paita, Johnathan",M,Pundia,Subsistence Farmer,12 Nov 1971
+1778,160124208,"Paita, Las",M,Pundia,Not Specified,06 Dec 1998
+1779,160175621,"Paita, Mark",M,Pundia,Student,26 Nov 1988
+1780,160182550,"Paita, Micheal",M,Pundia,Subsistence Farmer,29 Jul 1986
+1781,160175789,"Paita, Padane",M,Pundia,Subsistence Farmer,26 Nov 1982
+1782,160183030,"Paita, Paul",M,Pundia,Subsistence Farmer,21 Dec 1972
+1783,160193631,"Pakenda, Mark",M,Pundia,Subsistence Farmer,01 Jan 1949
+1784,160190279,"Pakenda, Micheal",M,Pundia,Student,01 Jan 1956
+1785,160198707,"Palebea, Ipaya",M,Pundia,Subsistence Farmer,01 Jan 1900
+1786,160124307,"Palus, Amon",M,Pundia,Not Specified,16 Oct 1997
+1787,160124306,"Palus, Josaia",M,Pundia,Not Specified,18 Aug 1992
+1788,25124177,"Panga, Clyde",M,Pilmol,Self Employed,01 May 2000
+1789,25124178,"Panga, Mathew",M,Walemarepa,Student,05 Oct 1996
+1790,160194483,"Paru, Omi",M,Pundia,Subsistence Farmer,18 Dec 1937
+1791,160194591,"Paru, Sapusape",M,Pundia,Subsistence Farmer,01 Jan 1959
+1792,160220743,"Paru, Thomas",M,Pundia,Subsistence Farmer,11 Nov 1951
+1793,160173543,"Pascal, Jack",M,Pundia,Driver,01 Jan 1982
+1794,160198644,"Pascal, Jonathan",M,Pundia,Security,01 Jan 1972
+1795,160198646,"Pascal, Kina",M,Pundia,Carpenter,01 Jan 1974
+1796,160180440,"Pasu, Kekuru",M,Pundia,Subsistence Farmer,01 Jan 1900
+1797,160218605,"Pasu, Kongai",M,Pundia,Subsistence Farmer,01 Jan 1900
+1798,160221944,"Pasu, Nopu",M,Pundia,Subsistence Farmer,01 Jan 1900
+1799,160171988,"Patame, Buka",M,Pundia,Subsistence Farmer,28 Jul 1976
+1800,160178178,"Patame, Peter",M,Pundia,Subsistence Farmer,21 Jun 1980
+1801,160137875,"Patame, Rex",M,Pundia,Not Specified,03 Jun 1972
+1802,160202254,"Paul, Atmon",M,Pundia,Student,16 Nov 1986
+1803,160235168,"Paul, Bill",M,Yara,Student,01 Jan 1978
+1804,160234784,"Paul, Jasuah",M,Yara,Student,01 Jan 1993
+1805,160124032,"Paul, Joshua",M,Pundia,Not Specified,13 Mar 1998
+1806,160193490,"Paul, Manuel",M,Pundia,Student,01 Jan 1978
+1807,160193653,"Paul, Pona",M,Pundia,Subsistence Farmer,01 Jan 1970
+1808,160205000,"Paul, Setrick",M,Pundia,Student,14 Nov 1989
+1809,160204991,"Paul, Titus",M,Pundia,Student,12 Jul 1984
+1810,160199035,"Pawa, Buru",M,Pundia,Councillor,01 Jan 1900
+1811,160198867,"Pawa, Jack",M,Pundia,Subsistence Farmer,01 Jan 1960
+1812,160124060,"Pawa, Kenny",M,Pundia,Not Specified,08 Nov 1991
+1813,160201122,"Pawa, Michael",M,Pundia,Subsistence Farmer,01 Jan 1945
+1814,160204214,"Pawa, Wanepo",M,Pundia,Subsistence Farmer,01 Jan 1930
+1815,160206440,"Pawi, Alupasa",M,Pundia,Student,01 Jan 1987
+1816,160204889,"Pawi, Emos",M,Pundia,Subsistence Farmer,01 Jan 1967
+1817,160190030,"Peai, Iki",M,Pundia,Subsistence Farmer,01 Jan 1947
+1818,160190027,"Peai, Yandi",M,Pundia,Subsistence Farmer,01 Jan 1944
+1819,160177707,"Pegari, Anis",M,Pundia,Student,01 Jan 1980
+1820,160201792,"Pegari, James",M,Pundia,Student,01 Jan 1977
+1821,160177583,"Pegari, Jonatan",M,Pundia,Student,01 Jan 1971
+1822,160177709,"Pegari, Warea",M,Pundia,Student,01 Jan 1982
+1823,160221912,"Peke, Maika",M,Pundia,Student,01 Jan 1980
+1824,160219246,"Peke, Siamon",M,Pundia,Mechanic,01 Jan 1969
+1825,160221915,"Peke, Yepi",M,Pundia,Student,01 Jan 1982
+1826,160187733,"Pele, Jetro",M,Pundia,Subsistence Farmer,21 Jul 1984
+1827,160188595,"Pele, Samo",M,Pundia,Subsistence Farmer,26 Sep 1980
+1828,160177694,"Pelea, Alo",M,Pundia,Subsistence Farmer,01 Jan 1967
+1829,160204989,"Pelea, James",M,Pundia,Subsistence Farmer,01 Jan 1960
+1830,160177762,"Pelea, Mambo",M,Pundia,Subsistence Farmer,01 Jan 1963
+1831,160177574,"Pelea, Omape",M,Pundia,Subsistence Farmer,01 Jan 1977
+1832,160202249,"Pelea, Perea",M,Pundia,Subsistence Farmer,01 Jan 1957
+1833,160202240,"Pelea, Ruri",M,Pundia,Subsistence Farmer,01 Jan 1941
+1834,160202246,"Pelea, Tombo",M,Pundia,Subsistence Farmer,01 Jan 1951
+1835,160177393,"Pena, Kasa",M,Pundia,Subsistence Farmer,01 Jan 1981
+1836,160180588,"Pendewala, Netinel",M,Pundia,Student,18 Feb 1985
+1837,160185684,"Pepeayo, John",M,Pundia,Student,16 May 1981
+1838,160182436,"Pepeayo, Pawea",M,Pundia,Student,27 Dec 1987
+1839,160196696,"Perea, Cimo",M,Pundia,Subsistence Farmer,21 Nov 1966
+1840,160196852,"Perea, Kari",M,Pundia,Subsistence Farmer,27 Nov 1977
+1841,160191381,"Perea, Paina",M,Pundia,Subsistence Farmer,19 Nov 1970
+1842,160194713,"Perea, Pewi",M,Pundia,Subsistence Farmer,14 Dec 1976
+1843,160194722,"Perea, Romba",M,Pundia,Subsistence Farmer,29 Nov 1972
+1844,160124210,"Peter, Agai",M,Pundia,Not Specified,15 Jul 1998
+1845,160443591,"Peter, Chris",M,Penomasa,Student,09 Feb 2004
+1846,160207493,"Peter, Elton",M,Pundia,Student,16 Aug 1988
+1847,160233175,"Peter, Hagge",M,Yotorora,Student,01 Jan 1993
+1848,160443589,"Peter, Kari",M,Penomasa,Teacher,08 Dec 2000
+1849,160197359,"Peter, Thomas",M,Pundia,Student,20 May 1986
+1850,160124044,"Petrick, Pastor pet",M,Pundia,Not Specified,06 Apr 1974
+1851,160443823,"Pexson, Kaiara",M,Mandipiri,Computer Operator,07 Feb 1990
+1852,160443581,"Pisa, Nason",M,Penomasa,Student,27 Apr 2004
+1853,160188673,"Pisu, Ben",M,Pundia,Carpenter,01 Jan 1977
+1854,160188352,"Pisu, Hilton",M,Pundia,Student,01 Jan 1984
+1855,160443618,"Polopea, Bero",M,Mapirowi,Student,28 Mar 2004
+1856,160443617,"Polopea, Natan",M,Mapirowi,Student,09 Mar 2004
+1857,160185771,"Pona, Polis",M,Pundia,Subsistence Farmer,01 Jan 1981
+1858,160180592,"Pona, Undipa",M,Pundia,Subsistence Farmer,01 Jan 1975
+1859,160194590,"Pora, Gemi",M,Pundia,Subsistence Farmer,01 Jan 1984
+1860,160198765,"Pora, Mox",M,Pundia,Student,01 Jan 1986
+1861,160234631,"Pual, Muruk",M,Yara,Student,01 Jan 1980
+1862,160443851,"Pudalo, Joel",M,Mandipiri,Student,16 Mar 2004
+1863,25124179,"Pulu, Joel",M,Mandipiri,Student,03 Dec 2000
+1864,25124180,"Pulu, Raua",M,Pundia,Household Duties,11 May 1990
+1865,160210396,"Pulu, Tee",M,Pundia,Subsistence Farmer,23 Jun 1937
+1866,160198648,"Pulumbara, Hapkais",M,Pundia,Subsistence Farmer,01 Jan 1968
+1867,160198789,"Pulumbara, Mera",M,Pundia,Subsistence Farmer,01 Jan 1951
+1868,160177701,"Pumi, Naikis",M,Pundia,Subsistence Farmer,01 Jan 1951
+1869,160173532,"Puna, Alita",M,Pundia,Subsistence Farmer,01 Jan 1955
+1870,160176406,"Puna, John",M,Pundia,Subsistence Farmer,01 Jan 1953
+1871,160176411,"Puna, Loeme",M,Pundia,Subsistence Farmer,01 Jan 1959
+1872,160173536,"Puna, Rati",M,Pundia,Subsistence Farmer,01 Jan 1977
+1873,160187742,"Pundura, Kalake",M,Pundia,Subsistence Farmer,21 Oct 1952
+1874,160191016,"Puni, Kagaluka",M,Pundia,Subsistence Farmer,01 Jan 2000
+1875,160194583,"Punu, Willie",M,Pundia,Student,12 Apr 1987
+1876,160178091,"Puye, Tom",M,Pundia,Subsistence Farmer,01 Jan 1961
+1877,160443813,"Raisa, John",M,Mandipiri,Student,06 Jan 2004
+1878,160168688,"Raisa, Wanpis",M,Pundia,Subsistence Farmer,16 Nov 1968
+1879,160171906,"Raisa, Yano",M,Pundia,Subsistence Farmer,12 Jul 1972
+1880,160185772,"Raketa, Eme",M,Pundia,Subsistence Farmer,10 Aug 1956
+1881,160187926,"Raketa, Seni",M,Pundia,Subsistence Farmer,15 May 1960
+1882,160188366,"Raketa, Yawili",M,Pundia,Subsistence Farmer,16 Dec 1952
+1883,160197377,"Rakuna, Epuka",M,Pundia,Subsistence Farmer,01 Jan 1975
+1884,160234131,"Ralu, Gebriel",M,Peali,Student,01 Jan 1984
+1885,160187575,"Rambamita, Andrew",M,Pundia,Subsistence Farmer,01 Jan 1973
+1886,160188084,"Rambamita, Daniel",M,Pundia Mol,Subsistence Farmer,01 Jan 1970
+1887,160188056,"Rambamita, Peter",M,Pundia,Teacher,01 Jan 1979
+1888,160187583,"Rambamita, Ramba",M,Pundia,Student,01 Jan 1985
+1889,160217917,"Rambu, Jack",M,Pundia,Subsistence Farmer,21 Oct 1980
+1890,160218729,"Rambu, Jonathan",M,Pundia,Subsistence Farmer,29 Oct 1972
+1891,160217914,"Rambu, Samson",M,Pundia,Not Specified,27 Oct 1976
+1892,160180455,"Rami, Boni",M,Pundia,Student,23 Apr 1983
+1893,160180609,"Rami, Joel",M,Pundia,Driver,01 Jan 1973
+1894,160180419,"Rami, Mark",M,Pundia,Worker,01 Jan 1975
+1895,160178064,"Ramua, Mupi",M,Pundia,Subsistence Farmer,01 Jan 1900
+1896,160215862,"Rana, Nick",M,Pundia,Student,15 May 1987
+1897,160217835,"Rani, Gebriel",M,Pundia,Student,01 Jan 1979
+1898,160217845,"Rani, Jefferey",M,Pundia,Student,15 Mar 1983
+1899,160177609,"Reka, Damin",M,Pundia,Subsistence Farmer,01 Jan 1962
+1900,160177416,"Reka, Jetro",M,Pundia,Pastor,01 Jan 1965
+1901,160201730,"Reka, Paul",M,Pundia,Subsistence Farmer,01 Jan 1960
+1902,160201734,"Reka, Pembo",M,Pundia,Student,01 Jan 1971
+1903,160201722,"Rekere, Mapi",M,Pundia,Subsistence Farmer,01 Jan 1976
+1904,160443809,"Rema, Manu",M,Mandipiri,Student,02 Mar 2004
+1905,160443716,"Remon, Mekere",M,Yaina,Student,06 Nov 2003
+1906,25124181,"Remond, Jorden",M,Pundia,Student,15 May 2000
+1907,160198676,"Rex, Brendon",M,Pundia,Subsistence Farmer,14 Jun 1986
+1908,160234194,"Rex, Ezikel",M,Agolopa,Student,01 Jan 1990
+1909,160124014,"Rex, Michael",M,Pundia,Not Specified,14 Oct 1984
+1910,160217924,"Rialo, Benli",M,Pundia,Subsistence Farmer,17 Dec 1979
+1911,160443557,"Roade, Wes",M,Peali,Student,05 Aug 2003
+1912,160443733,"Roape, Jackson",M,Peali,Student,25 Mar 2004
+1913,160215087,"Rodney, Mex",M,Pundia,Student,14 Aug 1983
+1914,160215090,"Rodney, Mike",M,Pundia,Student,15 Oct 1986
+1915,160177400,"Ron, Luther",M,Pundia,Subsistence Farmer,01 Jan 1937
+1916,160177399,"Ron, Unipi",M,Pundia,Subsistence Farmer,01 Jan 1943
+1917,160188344,"Ropanda, Sindialu",M,Pundia,Subsistence Farmer,01 Jan 1930
+1918,160124034,"Ruben, Eddie",M,Pundia,Not Specified,16 Mar 1996
+1919,160234587,"Rumi, Frank",M,Mapirowi,Tradesman,01 Jan 1946
+1920,160234144,"Rumi, Jim",M,Mapirowi,Salesman,01 Jan 1940
+1921,160234145,"Rumi, Kenny",M,Mapirowi,Teacher,01 Jan 1983
+1922,160194507,"Rumi, Kondi",M,Pundia,Student,01 Jan 1979
+1923,160198776,"Rumi, Kudiri",M,Pundia,Carpenter,01 Jan 2000
+1924,160234589,"Rumi, Norbet",M,Mapirowi,Subsistence Farmer,01 Jan 1980
+1925,160197372,"Rumi, Pisa",M,Pundia,Subsistence Farmer,01 Jan 1972
+1926,160198781,"Rumi, Riape",M,Pundia,Subsistence Farmer,01 Jan 1970
+1927,160197386,"Rumi, Rube",M,Pundia,Student,01 Jan 1982
+1928,160197307,"Rumi, Salo",M,Pundia,Subsistence Farmer,01 Jan 1974
+1929,160234438,"Rumi, Tom",M,Mapirowi,Security,01 Jan 1938
+1930,160177334,"Rumili, Gilison",M,Pundia,Worker,01 Jan 1976
+1931,160198786,"Rumili, Moses",M,Pundia,Student,01 Jan 1986
+1932,160177346,"Rumili, Tatius",M,Pundia,Student,01 Jan 1983
+1933,160201084,"Rumu, Pakano",M,Pundia,Student,14 Aug 1984
+1934,160217927,"Rupa, Eka",M,Pundia,Subsistence Farmer,27 Nov 1976
+1935,160187224,"Rupa, Kiwa",M,Pundia,Subsistence Farmer,01 Jan 1952
+1936,160201481,"Rupa, Pale",M,Pundia,Subsistence Farmer,01 Jan 1953
+1937,160204996,"Ruri, Noris",M,Pundia,Student,01 Jan 1987
+1938,160443682,"Ruri, Sak",M,Masapul,Subsistence Farmer,04 Jul 1998
+1939,160194638,"Ruth, Kamba",M,Pundia,Subsistence Farmer,28 Oct 1979
+1940,25124185,"Ruth, Rodrick",M,Yara,Self Employed,10 Dec 1995
+1941,160220897,"Ruth, Rodrick",M,Pundia,Student,10 Dec 1987
+1942,160191382,"Ruth, Timon",M,Pundia,Student,01 Jan 1986
+1943,25124186,"Ruth, Yalem",M,Pilmol,Student,14 Nov 1997
+1944,160220990,"Ruth, Yalem",M,Pundia,Student,14 Nov 1983
+1945,160197356,"Salo, Kangi",M,Pundia,Subsistence Farmer,01 Jan 1950
+1946,160198785,"Salo, Lenny",M,Pundia,Subsistence Farmer,15 Nov 1986
+1947,160177335,"Salo, Matyu",M,Pundia,Student,28 Oct 1983
+1948,160177445,"Salo, Paina",M,Pundia,Subsistence Farmer,17 Mar 1985
+1949,160189658,"Salo, Tason",M,Pundia,Student,16 Nov 1986
+1950,160218736,"Samson, Kina",M,Pundia,Subsistence Farmer,12 Jun 1982
+1951,160217923,"Samson, Sedrick",M,Pundia,Student,27 Nov 1990
+1952,160124012,"Samuel, Lily",M,Pundia,Not Specified,26 Aug 1983
+1953,160198766,"Sapusape, Onde",M,Pundia,Student,01 Jan 1978
+1954,160198767,"Sapusape, Paul",M,Pundia,Subsistence Farmer,15 Sep 1985
+1955,160443538,"Seni, Daminton",M,Pundia,Student,18 Dec 2003
+1956,160443539,"Seni, Delton",M,Pundia,Student,22 Oct 2003
+1957,160219252,"Siamon, Jackson",M,Pundia,Student,01 Jan 1983
+1958,160173279,"Siamon, Siliano",M,Pundia,Student,01 Jan 1982
+1959,160234628,"Simon, Dano",M,Yara,Student,01 Jan 1990
+1960,160443532,"Simon, Felix",M,Pundia,Student,13 Sep 2003
+1961,160222110,"Sina, Nathan",M,Pundia,Subsistence Farmer,28 Sep 1969
+1962,160443450,"Sindalu, Jackson",M,Pundia,Student,09 Jan 2004
+1963,160189930,"Sindalu, Noki",M,Pundia,Student,01 Jan 1981
+1964,160188503,"Sindial, Peter",M,Pundia,Student,01 Jan 1986
+1965,160194574,"Sindialu, David",M,Pundia,Subsistence Farmer,01 Jan 1965
+1966,160201010,"Sindialu, Mick",M,Pundia,Student,01 Jan 1975
+1967,25124193,"Sole, Abraham",M,Megi,Self Employed,11 Dec 1986
+1968,25124194,"Sole, Musa",M,Yara,Self Employed,10 Jun 1969
+1969,25124196,"Sole, Nowi",M,Yara,Self Employed,11 Oct 1968
+1970,25152838,"Sole, Philip",M,Yotorora,Self Employed,12 May 1970
+1971,25124198,"Sole, Rima",M,Pundia Mol,Student,10 Mar 1964
+1972,25124200,"Sole, Titus",M,Pundia,Student,14 Jan 1999
+1973,160196742,"Stanely, Kingford",M,Pundia,Student,16 Feb 1985
+1974,160443556,"Stanely, Stan",M,Peali,Student,25 Mar 2004
+1975,160196711,"Stanely, Stane",M,Pundia,Student,14 Dec 1984
+1976,160124029,"Stanley, Mudu",M,Pundia,Not Specified,12 Nov 1986
+1977,160124304,"Steven, Ismail",M,Pundia,Not Specified,18 May 1998
+1978,160234986,"Steven, Ismile",M,Agolopa,Student,01 Jan 1970
+1979,160234832,"Steven, Jerry",M,Agolopa,Student,01 Jan 1992
+1980,160443640,"Steven, Jerry",M,Agolopa,Student,08 Feb 2004
+1981,160234991,"Steven, Joel",M,Agolopa,Student,01 Jan 1993
+1982,160190297,"Steven, Junia",M,Pundia,Student,01 Jan 1989
+1983,160193483,"Steven, Kamba",M,Pundia,Student,01 Jan 1988
+1984,160234985,"Steven, Lupson",M,Agolopa,Subsistence Farmer,01 Jan 1988
+1985,160201114,"Steven, Tomba",M,Pundia,Subsistence Farmer,21 Nov 1964
+1986,160233167,"Steven, Yowen",M,Agolopa,Student,01 Jan 1985
+1987,160137889,"Tala, Anoc",M,Peali,Not Specified,12 Feb 1997
+1988,160194575,"Tala, Kamoali",M,Pundia,Subsistence Farmer,01 Jan 1979
+1989,160194588,"Tala, Timothy",M,Pundia,Member of Parliament,01 Jan 1971
+1990,160124072,"Tala, Willie",M,Peali,Not Specified,12 Sep 1989
+1991,160198774,"Tala, Wilson",M,Pundia,Teacher,01 Jan 1972
+1992,160177578,"Tapa, Inalua",M,Pundia,Subsistence Farmer,01 Jan 1900
+1993,160198703,"Tapa, Keyandi",M,Pundia,Subsistence Farmer,01 Jan 1937
+1994,160196859,"Tapami, Cosi",M,Pundia,Student,10 Sep 1963
+1995,160194724,"Tapami, Jacob",M,Pundia,Subsistence Farmer,24 Nov 1975
+1996,160190055,"Tapami, Pake",M,Pundia,Subsistence Farmer,17 Jun 1969
+1997,160193606,"Tapami, Raita",M,Pundia,Student,10 Aug 1978
+1998,160193615,"Tapami, Rex",M,Pundia,Student,21 Sep 1982
+1999,160196857,"Tapami, Wilson",M,Pundia,Manager,21 Aug 1960
+2000,160201426,"Tapami, Wilson",M,Pundia,Doctor,01 Jan 1970
+2001,160443511,"Tari, Sam",M,Pundia,Student,09 Dec 2000
+2002,160204882,"Tee, Anny",M,Pundia,Subsistence Farmer,27 Jul 1958
+2003,160178152,"Tee, Gibson",M,Pundia,Subsistence Farmer,25 Oct 1966
+2004,160184445,"Tee, Naita",M,Pundia,Not Specified,12 Jun 1974
+2005,160443487,"Thomas, Abraham",M,Pundia,Student,18 Jun 1994
+2006,160218601,"Thomas, Demark",M,Pundia,Student,07 Jun 1984
+2007,25124201,"Thomas, Frank",M,Yotorora,Teacher,01 Apr 1996
+2008,160220739,"Thomas, Micheal",M,Pundia,Student,13 Oct 1972
+2009,160220750,"Thomas, Sam",M,Pundia,Subsistence Farmer,12 Oct 1976
+2010,25124204,"Thomas, Teddy",M,Yotorora,Accountant,05 Oct 2000
+2011,160220771,"Thomas, Wiliem",M,Pundia,Subsistence Farmer,17 Jul 1980
+2012,160204995,"Tiambo, Kipu",M,Pundia,Subsistence Farmer,01 Jan 1974
+2013,25124207,"Tocai, Simon",M,Penomasa,Household Duties,15 Jul 1995
+2014,25124208,"Tocai, Tomson",M,Mandipiri,Household Duties,11 May 1997
+2015,160220770,"Toge, Atupia",M,Pundia,Subsistence Farmer,01 Jan 1951
+2016,160218849,"Toge, Jame",M,Pundia,Salesman,01 Jan 1972
+2017,160201542,"Toge, John",M,Pundia,Subsistence Farmer,01 Jan 1962
+2018,160220892,"Toge, Kanoali",M,Pundia,Driver,01 Jan 1969
+2019,160220974,"Toge, Koyapo",M,Pundia,Driver,01 Jan 1950
+2020,160221941,"Toge, Peke",M,Pundia,Subsistence Farmer,01 Jan 1962
+2021,160234147,"Tom, Ismeal",M,Mapirowi,Student,01 Jan 1985
+2022,25124209,"Tomba, Benedict",M,Yara,Student,15 Sep 2000
+2023,160203692,"Tomba, George",M,Pundia,Student,19 May 1986
+2024,160204160,"Tomba, Nicky",M,Pundia,Student,17 Dec 1989
+2025,160443481,"Tomba, Raita",M,Yara,Student,13 Apr 2003
+2026,160218436,"Toni, Junia",M,Pundia,Student,01 Jan 1987
+2027,160138031,"Tuiwi, Cedric",M,Pundia,Not Specified,13 Jun 1997
+2028,160181079,"Tulai, Koropa",M,Pundia,Subsistence Farmer,01 Jan 1952
+2029,160177454,"Tulai, Wandua",M,Pundia,Subsistence Farmer,01 Jan 1950
+2030,160207511,"Una, Imbi",M,Pundia,Subsistence Farmer,01 Jan 1970
+2031,160178065,"Una, Joseph",M,Pundia,Subsistence Farmer,01 Jan 1959
+2032,160177821,"Una, Pora",M,Pundia,Subsistence Farmer,01 Jan 1981
+2033,160178068,"Una, Robert",M,Pundia,Subsistence Farmer,01 Jan 1965
+2034,160206441,"Una, Rondaki",M,Pundia,Subsistence Farmer,01 Jan 1973
+2035,160202241,"Una, Undipa",M,Pundia,Subsistence Farmer,01 Jan 1977
+2036,160177383,"Unipi, Daniel",M,Pundia,Student,01 Jan 1988
+2037,160177410,"Unipi, Luke",M,Pundia,Subsistence Farmer,01 Jan 1978
+2038,160177414,"Unipi, Undi",M,Pundia,Student,01 Jan 1983
+2039,160443841,"Wait, Gibson",M,Mandipiri,Student,03 Sep 2003
+2040,160443842,"Wait, Jetro",M,Mandipiri,Student,01 Mar 2004
+2041,160187724,"Wait, Pele",M,Pundia,Subsistence Farmer,21 Dec 1952
+2042,160443847,"Wait, Samson",M,Mandipiri,Student,11 Mar 2004
+2043,160177590,"Walawia, Ron",M,Pundia,Subsistence Farmer,01 Jan 1900
+2044,160220733,"Walepe, Thomas",M,Pundia,Subsistence Farmer,10 May 1980
+2045,160190508,"Walo, Jacob",M,Pundia,Welder,01 Jan 1960
+2046,160124037,"Wambi, Keripa",M,Pundia,Not Specified,13 Jun 1998
+2047,160180954,"Wambu, Nandoma",M,Pundia,Subsistence Farmer,01 Jan 1933
+2048,160201661,"Wami, Anos",M,Pundia,Student,10 Aug 1990
+2049,160191214,"Wami, Dickson",M,Pundia,Subsistence Farmer,10 Jun 1974
+2050,160191220,"Wami, Eto",M,Pundia,Not Specified,28 Jul 1986
+2051,160187719,"Wami, Lombil",M,Pundia,Student,01 Jan 1970
+2052,160198685,"Wami, Mapame",M,Pundia,Subsistence Farmer,27 Nov 1978
+2053,160189902,"Wami, Misek",M,Pundia,Subsistence Farmer,13 Dec 1964
+2054,160201652,"Wami, Moris",M,Pundia,Subsistence Farmer,13 Jun 1974
+2055,160173564,"Wami, Pumi",M,Pundia,Teacher,01 Jan 1970
+2056,160201667,"Wami, Simon",M,Pundia,Subsistence Farmer,29 Aug 1986
+2057,160189896,"Wami, Warea",M,Pundia,Subsistence Farmer,21 Dec 1950
+2058,160187720,"Wami, Warea",M,Pundia,Student,21 Dec 1978
+2059,160443848,"Wami, Wilbert",M,Mandipiri,Student,21 Feb 2004
+2060,160201655,"Wami, Yawa",M,Pundia,Subsistence Farmer,29 Jul 1982
+2061,160207484,"Wandua, Tom",M,Pundia,Subsistence Farmer,01 Jan 1987
+2062,160173109,"Wanepo, Pele",M,Pundia,Student,01 Jan 1983
+2063,160177723,"Wanepo, Peter",M,Pundia,Subsistence Farmer,01 Jan 1980
+2064,160124287,"Wanpis, Junior",M,Pundia Mol,Not Specified,05 Mar 1998
+2065,160177458,"Warea, Chalie",M,Pundia,Subsistence Farmer,01 Jan 1968
+2066,160193503,"Warea, Niru",M,Pundia,Church Worker,01 Jan 1953
+2067,160204988,"Warea, Paul",M,Pundia,Pastor,18 Oct 1951
+2068,160177331,"Warea, Runili",M,Pundia,Subsistence Farmer,01 Jan 1955
+2069,160205002,"Warea, Steven",M,Pundia,Subsistence Farmer,02 Jun 1955
+2070,160207477,"Warea, Yalura",M,Pundia,Councillor,10 Nov 1940
+2071,160443597,"Warua, Kenet",M,Penomasa,Student,08 Jan 2004
+2072,160184581,"Wata, Endrew",M,Pundia,Subsistence Farmer,01 Jan 1955
+2073,160180590,"Wata, Mane",M,Pundia,Subsistence Farmer,01 Jan 1933
+2074,160184580,"Wata, Pilip",M,Pundia,Subsistence Farmer,01 Jan 1970
+2075,160220748,"Wate, Kenny",M,Pundia,Subsistence Farmer,01 Jan 1965
+2076,160218594,"Wate, Sende",M,Pundia,Subsistence Farmer,01 Jan 1969
+2077,160173522,"Wemi, Wami",M,Pundia,Subsistence Farmer,21 Nov 1941
+2078,160201098,"Weta, Mali",M,Pundia,Subsistence Farmer,01 Jan 1933
+2079,160443448,"Wi, Sunis",M,Pundia,Subsistence Farmer,04 May 1995
+2080,160190770,"Wiliem, Gibson",M,Pundia,Student,01 Jan 1981
+2081,160190765,"Wiliem, Winson",M,Pundia,Student,01 Jan 1976
+2082,25124210,"William, Gabi",M,Pundia Mol,Carpenter,19 Nov 1987
+2083,25124211,"William, Messi",M,Yara,Student,29 Jan 1996
+2084,160138029,"William, Sertrac",M,Pundia,Not Specified,12 Jan 1998
+2085,25124213,"William, Sikin",M,Yara,Mechanic,12 Jan 1982
+2086,160190776,"Willie, Agra",M,Pundia,Student,19 Feb 1985
+2087,160185509,"Willie, Ipason",M,Pundia,Student,28 Oct 1987
+2088,160193573,"Willie, Jemi",M,Pundia,Student,17 Apr 1983
+2089,160186027,"Willie, Koni",M,Pundia,Student,17 Apr 1983
+2090,160186013,"Willie, Nickson",M,Pundia,Subsistence Farmer,01 Jan 1974
+2091,160186028,"Willie, Nola",M,Pundia,Student,29 Nov 1985
+2092,160187137,"Wilson, Junia",M,Pundia,Student,01 Jan 1989
+2093,160180608,"Yaita, Yake",M,Pundia,Subsistence Farmer,01 Jan 1930
+2094,160180430,"Yake, Mark",M,Pundia,Student,01 Jan 1979
+2095,160180431,"Yake, Moses",M,Pundia,Student,01 Jan 1982
+2096,160220976,"Yake, Nandisu",M,Pundia,Subsistence Farmer,01 Jan 1969
+2097,160180618,"Yake, Noel",M,Pundia,Pastor,01 Jan 1967
+2098,160234829,"Yake, Palus",M,Agolopa,Self Employed,01 Jan 1972
+2099,25124215,"Yake, Philemon",M,Mandipiri,Student,21 Jul 1998
+2100,160180327,"Yake, Timothy",M,Pundia,Student,01 Jan 1977
+2101,160198708,"Yaku, Angela",M,Pundia,Pastor,14 Jun 1959
+2102,160198710,"Yaku, Donold",M,Pundia,Subsistence Farmer,13 Jul 1963
+2103,160201535,"Yaku, Meno",M,Pundia,Subsistence Farmer,11 Oct 1967
+2104,160198554,"Yaku, Randa",M,Pundia,Student,11 Oct 1972
+2105,160185545,"Yalo, Pona",M,Pundia,Subsistence Farmer,01 Jan 1956
+2106,160180586,"Yalo, Yapara",M,Pundia,Subsistence Farmer,01 Jan 1959
+2107,160185542,"Yalo, Yoto",M,Pundia,Subsistence Farmer,01 Jan 1930
+2108,160207507,"Yalura, Benerd",M,Pundia,Teacher,02 Dec 1978
+2109,160233183,"Yalura, Ezikel",M,Yotorora,Student,01 Jan 1993
+2110,160207495,"Yalura, Micheal",M,Pundia,Pastor,01 Nov 1967
+2111,160207650,"Yalura, Peter",M,Pundia,Subsistence Farmer,16 Sep 1965
+2112,160206438,"Yalura, Rodney",M,Pundia,Student,04 Oct 1982
+2113,160187695,"Yamai, Issacc",M,Pundia,Church Worker,01 Jan 1970
+2114,160207478,"Yamai, Kisa",M,Pundia,Subsistence Farmer,01 Jan 1975
+2115,160187329,"Yamai, Nemon",M,Pundia,Student,01 Jan 1985
+2116,160185627,"Yamai, Nickson",M,Pundia,Student,01 Jan 1979
+2117,160187784,"Yamai, Titus",M,Pundia,Mechanic,01 Jan 1974
+2118,160124161,"Yambu, Rame",M,Penomasa,Not Specified,18 Sep 1983
+2119,160173450,"Yanda, Buka",M,Pundia,Subsistence Farmer,01 Jan 1963
+2120,160234980,"Yandi, Livai",M,Agolopa,Student,01 Jan 1982
+2121,160190516,"Yandi, Rex",M,Pundia,Subsistence Farmer,01 Jan 1973
+2122,160189898,"Yano, Mark",M,Pundia,Subsistence Farmer,01 Jan 1973
+2123,160220883,"Yapa, Gita",M,Pundia,Student,01 Jan 1969
+2124,160220825,"Yapa, Joel",M,Pundia,Subsistence Farmer,01 Jan 1967
+2125,160220821,"Yapa, Lumbu",M,Pundia,Subsistence Farmer,01 Jan 1964
+2126,160220816,"Yapa, Moka",M,Pundia,Subsistence Farmer,01 Jan 1950
+2127,160218433,"Yapa, Patrick",M,Pundia,Subsistence Farmer,01 Jan 1983
+2128,160220888,"Yapa, Pisa",M,Pundia,Subsistence Farmer,01 Jan 1960
+2129,160188655,"Yapa, Taru",M,Pundia,Subsistence Farmer,30 Jun 1977
+2130,160218873,"Yapa, Tona",M,Pundia,Subsistence Farmer,01 Jan 1965
+2131,160181095,"Yapa, Wilson",M,Pundia,Subsistence Farmer,01 Jan 1959
+2132,160203713,"Yapaga, Rumben",M,Pundia,Subsistence Farmer,01 Jan 1964
+2133,160180940,"Yapalake, Tala",M,Pundia,Subsistence Farmer,16 Nov 1941
+2134,160176078,"Yapanai, Paita",M,Pundia,Subsistence Farmer,01 Jan 1951
+2135,160188671,"Yasa, Alita",M,Pundia,Subsistence Farmer,11 Dec 1967
+2136,160176165,"Yasa, Lumbu",M,Pundia,Subsistence Farmer,21 Dec 1946
+2137,160176169,"Yasa, Ruri",M,Pundia,Subsistence Farmer,17 Jun 1951
+2138,160221917,"Yawake, Kuma",M,Pundia,Subsistence Farmer,01 Jan 1941
+2139,160219256,"Yawake, Miria",M,Pundia,Subsistence Farmer,01 Jan 1935
+2140,160221909,"Yawake, Nabis",M,Pundia,Subsistence Farmer,01 Jan 1957
+2141,160221898,"Yawake, Nopu",M,Pundia,Subsistence Farmer,01 Jan 1900
+2142,160219253,"Yawake, Omape",M,Pundia,Subsistence Farmer,01 Jan 1932
+2143,160221920,"Yawake, Steven",M,Pundia,Subsistence Farmer,01 Jan 1940
+2144,160222106,"Yawake, Yake",M,Pundia,Subsistence Farmer,01 Jan 1900
+2145,160217830,"Yawi, Anol",M,Pundia,Subsistence Farmer,11 Dec 1990
+2146,160217821,"Yawi, Jorem",M,Pundia,Teacher,14 Nov 1970
+2147,160218049,"Yawi, Loga",M,Pundia,Student,11 Jul 1986
+2148,160216584,"Yawi, Tolex",M,Pundia,Subsistence Farmer,11 May 1966
+2149,160217893,"Yawi, Wamps",M,Pundia,Subsistence Farmer,29 Nov 1962
+2150,160217889,"Yawi, Wanpis",M,Pundia,Subsistence Farmer,16 Jul 1958
+2151,160188213,"Yawili, Amos",M,Pundia,Student,14 Dec 1970
+2152,160185614,"Yawita, Mark",M,Pundia,Subsistence Farmer,01 Jan 1975
+2153,160153853,"Yepi, Lope",M,Pundia,Subsistence Farmer,01 Jan 1952
+2154,160443771,"Yoke, Terry",M,Peali,Student,24 Mar 1995
+2155,160210398,"Yombi, Matin",M,Pundia,Subsistence Farmer,01 Jan 1964
+2156,160204723,"Yombi, Michael",M,Pundia,Subsistence Farmer,01 Jan 1967
+2157,160207476,"Yombi, Mick",M,Pundia,Subsistence Farmer,01 Jan 1967
+2158,160190590,"Yope, Didi",M,Pundia,Subsistence Farmer,01 Jan 1954
+2159,160188649,"Yoto, Jessy",M,Pundia,Student,24 Oct 1966
+2160,160180581,"Yoto, Meato",M,Pundia,Subsistence Farmer,01 Jan 1982
+2161,160185526,"Yoto, Yopolo",M,Pundia,Subsistence Farmer,01 Jan 1959
+2162,160168536,"Yoto, Yuane",M,Pundia,Subsistence Farmer,12 Oct 1958
+2163,160443821,"Yuan, Jerry",M,Mandipiri,Student,20 Jan 2004
+2164,160124190,"Yuane, Jerry",M,Pundia,Not Specified,03 Sep 1998

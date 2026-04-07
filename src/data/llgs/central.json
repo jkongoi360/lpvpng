@@ -1,0 +1,526 @@
+{
+  "provinceId": "central",
+  "electorates": [
+    {
+      "electorateSlug": "abau",
+      "llgs": [
+        {
+          "id": "abau-abau",
+          "name": "Abau LLG",
+          "electorateSlug": "abau",
+          "wards": [
+            {
+              "id": "abau-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2684
+            },
+            {
+              "id": "abau-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3829
+            },
+            {
+              "id": "abau-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2598
+            },
+            {
+              "id": "abau-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2602
+            },
+            {
+              "id": "abau-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1614
+            },
+            {
+              "id": "abau-w06",
+              "name": "Ward 6",
+              "registeredVoters": 3372
+            }
+          ]
+        },
+        {
+          "id": "abau-amazon-bay",
+          "name": "Amazon Bay LLG",
+          "electorateSlug": "abau",
+          "wards": [
+            {
+              "id": "amazon-bay-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2112
+            },
+            {
+              "id": "amazon-bay-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1378
+            },
+            {
+              "id": "amazon-bay-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2452
+            },
+            {
+              "id": "amazon-bay-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2047
+            },
+            {
+              "id": "amazon-bay-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2516
+            },
+            {
+              "id": "amazon-bay-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2530
+            },
+            {
+              "id": "amazon-bay-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2242
+            }
+          ]
+        },
+        {
+          "id": "abau-cloudy-bay",
+          "name": "Cloudy Bay LLG",
+          "electorateSlug": "abau",
+          "wards": [
+            {
+              "id": "cloudy-bay-w01",
+              "name": "Ward 1",
+              "registeredVoters": 6956
+            },
+            {
+              "id": "cloudy-bay-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4823
+            },
+            {
+              "id": "cloudy-bay-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3421
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "rigo",
+      "llgs": [
+        {
+          "id": "rigo-rigo-central",
+          "name": "Rigo Central LLG",
+          "electorateSlug": "rigo",
+          "wards": [
+            {
+              "id": "rigo-central-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1782
+            },
+            {
+              "id": "rigo-central-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1087
+            },
+            {
+              "id": "rigo-central-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1786
+            },
+            {
+              "id": "rigo-central-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2000
+            },
+            {
+              "id": "rigo-central-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1521
+            },
+            {
+              "id": "rigo-central-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1132
+            },
+            {
+              "id": "rigo-central-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1352
+            },
+            {
+              "id": "rigo-central-w08",
+              "name": "Ward 8",
+              "registeredVoters": 870
+            },
+            {
+              "id": "rigo-central-w09",
+              "name": "Ward 9",
+              "registeredVoters": 2253
+            },
+            {
+              "id": "rigo-central-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1018
+            }
+          ]
+        },
+        {
+          "id": "rigo-rigo-coastal",
+          "name": "Rigo Coastal LLG",
+          "electorateSlug": "rigo",
+          "wards": [
+            {
+              "id": "rigo-coastal-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3989
+            },
+            {
+              "id": "rigo-coastal-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2072
+            },
+            {
+              "id": "rigo-coastal-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3655
+            },
+            {
+              "id": "rigo-coastal-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2804
+            },
+            {
+              "id": "rigo-coastal-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2727
+            }
+          ]
+        },
+        {
+          "id": "rigo-kwikila",
+          "name": "Kwikila LLG",
+          "electorateSlug": "rigo",
+          "wards": [
+            {
+              "id": "kwikila-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2686
+            },
+            {
+              "id": "kwikila-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1435
+            },
+            {
+              "id": "kwikila-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2054
+            },
+            {
+              "id": "kwikila-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1493
+            },
+            {
+              "id": "kwikila-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1747
+            },
+            {
+              "id": "kwikila-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2072
+            },
+            {
+              "id": "kwikila-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2886
+            },
+            {
+              "id": "kwikila-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1695
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "kairuku-hiri",
+      "llgs": [
+        {
+          "id": "kairuku-hiri-kairuku",
+          "name": "Kairuku LLG",
+          "electorateSlug": "kairuku-hiri",
+          "wards": [
+            {
+              "id": "kairuku-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2394
+            },
+            {
+              "id": "kairuku-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1555
+            },
+            {
+              "id": "kairuku-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1822
+            },
+            {
+              "id": "kairuku-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1406
+            },
+            {
+              "id": "kairuku-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2338
+            },
+            {
+              "id": "kairuku-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1419
+            },
+            {
+              "id": "kairuku-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2009
+            },
+            {
+              "id": "kairuku-w08",
+              "name": "Ward 8",
+              "registeredVoters": 959
+            },
+            {
+              "id": "kairuku-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1490
+            },
+            {
+              "id": "kairuku-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1951
+            }
+          ]
+        },
+        {
+          "id": "kairuku-hiri-hiri",
+          "name": "Hiri LLG",
+          "electorateSlug": "kairuku-hiri",
+          "wards": [
+            {
+              "id": "hiri-w01",
+              "name": "Ward 1",
+              "registeredVoters": 6861
+            },
+            {
+              "id": "hiri-w02",
+              "name": "Ward 2",
+              "registeredVoters": 5162
+            },
+            {
+              "id": "hiri-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3300
+            }
+          ]
+        },
+        {
+          "id": "kairuku-hiri-bereina-urban",
+          "name": "Bereina Urban LLG",
+          "electorateSlug": "kairuku-hiri",
+          "wards": [
+            {
+              "id": "bereina-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1526
+            },
+            {
+              "id": "bereina-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1652
+            },
+            {
+              "id": "bereina-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1695
+            },
+            {
+              "id": "bereina-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1597
+            },
+            {
+              "id": "bereina-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1411
+            },
+            {
+              "id": "bereina-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1862
+            },
+            {
+              "id": "bereina-urban-w07",
+              "name": "Ward 7",
+              "registeredVoters": 871
+            },
+            {
+              "id": "bereina-urban-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1002
+            },
+            {
+              "id": "bereina-urban-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1888
+            }
+          ]
+        },
+        {
+          "id": "kairuku-hiri-mekeo-kuni",
+          "name": "Mekeo-Kuni LLG",
+          "electorateSlug": "kairuku-hiri",
+          "wards": [
+            {
+              "id": "mekeo-kuni-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2138
+            },
+            {
+              "id": "mekeo-kuni-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1395
+            },
+            {
+              "id": "mekeo-kuni-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2050
+            },
+            {
+              "id": "mekeo-kuni-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1984
+            },
+            {
+              "id": "mekeo-kuni-w05",
+              "name": "Ward 5",
+              "registeredVoters": 937
+            },
+            {
+              "id": "mekeo-kuni-w06",
+              "name": "Ward 6",
+              "registeredVoters": 999
+            },
+            {
+              "id": "mekeo-kuni-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1514
+            },
+            {
+              "id": "mekeo-kuni-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1256
+            },
+            {
+              "id": "mekeo-kuni-w09",
+              "name": "Ward 9",
+              "registeredVoters": 2132
+            },
+            {
+              "id": "mekeo-kuni-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1170
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "goilala",
+      "llgs": [
+        {
+          "id": "goilala-tapini",
+          "name": "Tapini LLG",
+          "electorateSlug": "goilala",
+          "wards": [
+            {
+              "id": "tapini-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4716
+            },
+            {
+              "id": "tapini-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3381
+            },
+            {
+              "id": "tapini-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3460
+            },
+            {
+              "id": "tapini-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3003
+            }
+          ]
+        },
+        {
+          "id": "goilala-guari",
+          "name": "Guari LLG",
+          "electorateSlug": "goilala",
+          "wards": [
+            {
+              "id": "guari-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2679
+            },
+            {
+              "id": "guari-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3364
+            },
+            {
+              "id": "guari-w03",
+              "name": "Ward 3",
+              "registeredVoters": 6647
+            }
+          ]
+        },
+        {
+          "id": "goilala-woitape",
+          "name": "Woitape LLG",
+          "electorateSlug": "goilala",
+          "wards": [
+            {
+              "id": "woitape-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2122
+            },
+            {
+              "id": "woitape-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3867
+            },
+            {
+              "id": "woitape-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3097
+            },
+            {
+              "id": "woitape-w04",
+              "name": "Ward 4",
+              "registeredVoters": 4182
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

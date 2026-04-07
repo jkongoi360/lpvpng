@@ -1,0 +1,1340 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160238849,"Albert, Lucy",F,Apenda,Household Duties,13 Feb 1960
+2,160237341,"Albert, Milfred",F,Apenda,Student,19 May 1989
+3,160238850,"Albert, Nancy",F,Apenda,Household Duties,17 May 1972
+4,160176100,"Albert, Rossela",F,Apenda,Teacher,30 Jan 1972
+5,160238851,"Albert, Semila",F,Apenda,Student,14 Jul 1990
+6,160441327,"Alenda, Emelda",F,Apenda,Student,24 Jun 1998
+7,160441329,"Alenda, Kombur",F,Onne Ama,Store Keeper,23 Dec 1986
+8,160441330,"Alenda, Maria",F,Onne Ama,Household Duties,15 Oct 1986
+9,160441331,"Alenda, Marima",F,Onne Ama,Household Duties,14 Aug 1986
+10,160217931,"Amos, Rose",F,Apenda,Household Duties,09 Nov 1979
+11,160201377,"Amua, Anna",F,Apenda,Household Duties,12 Dec 1977
+12,160201382,"Amua, Josphine",F,Apenda,Housegirl,23 Aug 1979
+13,160199022,"Amua, Lyn",F,Apenda,Housegirl,03 Apr 1977
+14,160199029,"Amua, Rebeca",F,Apenda,Student,23 Sep 1986
+15,160138124,"Anderson, Alice",F,Onne Ama,Teacher,15 Apr 1995
+16,160191025,"Andrew, Mako",F,Apenda,Teacher,20 Sep 1980
+17,160173629,"Anepas, Walo",F,Apenda,Housegirl,23 Dec 1972
+18,25083761,"Anga, Adlaid",F,Onne Ama,Manager,29 May 1986
+19,25083763,"Anga, Belinda",F,Onne Ama,Housegirl,23 May 1985
+20,25083767,"Anga, Kimi",F,Onne Ama,Student,28 Apr 2004
+21,160441335,"Anga, Mom",F,Onne Ama,Subsistence Farmer,09 Jul 1951
+22,160133462,"Anga, Pore",F,Onne Ama,Public Servant,02 Jun 1990
+23,160176113,"Anthon, Lucy",F,Apenda,Household Duties,25 Dec 1970
+24,160201372,"Apkas, Janet",F,Apenda,Household Duties,07 Oct 1969
+25,160201027,"Apkas, Mondolame",F,Apenda,Household Duties,22 Feb 1958
+26,160201367,"Apkas, Rachael",F,Apenda,Student,10 Feb 1988
+27,160239049,"Ata, Grace",F,Apenda,Household Duties,15 Jan 1972
+28,25087332,"Beli, Malaki",F,Onne Ama,Housegirl,20 Nov 1996
+29,160197408,"Beli, Mary",F,Apenda,Housegirl,26 Jul 1943
+30,160197399,"Benjamin, Denila",F,Apenda,Student,27 Jun 1990
+31,160197267,"Benjamin, Magarette",F,Apenda,Household Duties,10 Oct 1973
+32,160197270,"Benjamin, Veronica",F,Apenda,Housegirl,10 Dec 1983
+33,160133429,"Berry, Cathyu",F,Onne Ama,Student,03 Apr 1998
+34,160133425,"Berry, Rebecca",F,Onne Ama,Household Duties,22 May 1986
+35,160185630,"Binowi, Dellie",F,Apenda,Household Duties,20 Jan 1962
+36,160185625,"Binowi, Jenny",F,Apenda,Household Duties,01 Feb 1958
+37,25083772,"Blamey, Julie",F,Onne Ama,Household Duties,29 May 1989
+38,160441336,"Blamey, Polin",F,Onne Ama,Household Duties,07 Aug 1984
+39,160138081,"Bobby, Delma",F,Onne Ama,Student,08 Jun 1997
+40,160138080,"Bobby, Morin",F,Onne Ama,Household Duties,05 Aug 1989
+41,160240745,"Buka, Kelemo",F,Apenda,Subsistence Farmer,25 Sep 1973
+42,160240761,"Buka, Melisa",F,Apenda,Student,03 Jul 1988
+43,160240744,"Buka, Nelson",F,Apenda,Teacher,12 Aug 1975
+44,160240743,"Buka, Ren one",F,Apenda,Subsistence Farmer,05 Nov 1946
+45,160240759,"Buka, Yana",F,Apenda,Cleaner,15 Feb 1969
+46,160237503,"Charlie, Tasina",F,Apenda,Household Duties,17 Mar 1978
+47,160237504,"Charlie, Varsity",F,Apenda,Student,16 Mar 1991
+48,160441337,"Chris, Catylie",F,Onne Ama,Housegirl,08 Dec 1985
+49,160441340,"Chris, Margret",F,Onne Ama,Student,16 Feb 1986
+50,160441343,"Chris, Sai",F,Onne Ama,Store Keeper,02 Sep 2002
+51,25083773,"Chris, Sandy",F,Onne Ama,Student,28 Apr 2004
+52,160441344,"Chris, Shilla",F,Onne Ama,Student,07 Apr 1998
+53,25083775,"Clement, Joy",F,Onne Ama,Student,28 Apr 2004
+54,25083777,"Cletus, Jabian",F,Onne Ama,Student,28 Jul 2002
+55,25083778,"Cletus, Jerrot",F,Onne Ama,Student,24 Sep 1999
+56,25083779,"Cletus, Preslia",F,Onne Ama,Household Duties,20 Nov 1988
+57,160199011,"Daniel, Elie",F,Apenda,Household Duties,25 Apr 1972
+58,160198811,"Daniel, Jerolin",F,Apenda,Student,12 Jun 1990
+59,160133467,"Daniel, Rebecca",F,Onne Ama,Household Duties,21 Jan 1996
+60,160197329,"Daun, Lucy",F,Apenda,Household Duties,24 Aug 1976
+61,160191172,"Daun, Martha",F,Apenda,Housegirl,22 Jul 1987
+62,25083780,"David, Kombina",F,Onne Ama,Student,28 Apr 2004
+63,160138117,"David, Wini",F,Onne Ama,Nurse,09 Sep 1982
+64,160237340,"Dee, Depeny",F,Apenda,Student,10 Mar 1983
+65,160237455,"Dee, Esther",F,Apenda,Student,13 Dec 1989
+66,160238515,"Dee, Helen",F,Apenda,Household Duties,15 Mar 1972
+67,160188426,"Dee, Jenet",F,Apenda,Household Duties,28 Apr 1978
+68,160240882,"Dimo, Cathrina",F,Apenda,Student,12 Mar 1990
+69,160221949,"Dina, Pisimi",F,Apenda,Household Duties,02 May 1975
+70,160201773,"Dominic, Glenda",F,Apenda,Household Duties,10 Sep 1971
+71,160187732,"Dominic, Jane",F,Apenda,Student,03 Apr 1989
+72,160201578,"Dominic, Malai",F,Apenda,Household Duties,04 Dec 1977
+73,160215874,"Ekomu, Mara",F,Apenda,Household Duties,15 Feb 1963
+74,160194710,"Elizah, Dorothy",F,Apenda,Teacher,01 Dec 1974
+75,160240587,"Elizah, Ronda",F,Apenda,Household Duties,13 Mar 1979
+76,160441346,"Elliah, Etty",F,Onne Ama,Student,08 Apr 1968
+77,160185797,"Embosi, Betty",F,Apenda,Student,07 Feb 1989
+78,160185801,"Embosi, Buka",F,Apenda,Student,08 Jan 1988
+79,160441348,"Embosi, Emelin",F,Onne Ama,Student,05 May 2002
+80,160187256,"Embosi, Epeyeme",F,Apenda,Household Duties,20 Oct 1936
+81,160441350,"Embosi, Joshepine",F,Onne Ama,Household Duties,06 Jul 1982
+82,160220765,"Embosi, Mombup",F,Apenda,Household Duties,02 Jun 1957
+83,160187133,"Embosi, Rosa",F,Apenda,Household Duties,01 Sep 1959
+84,160180961,"Embosi, Serima",F,Apenda,Student,02 Jun 1986
+85,160187903,"Enock, Jenny",F,Apenda,Household Duties,15 Dec 1973
+86,160173547,"Epoko, Delma",F,Apenda,Housegirl,16 Apr 1976
+87,160185682,"Epoko, Dodo",F,Apenda,Student,24 Oct 1976
+88,160173535,"Epoko, Elvina",F,Apenda,Student,21 Apr 1984
+89,160178165,"Epoko, Joice",F,Apenda,Student,26 Jul 1982
+90,160173544,"Epoko, Marylin",F,Apenda,Housegirl,30 Oct 1974
+91,160185867,"Epoko, Rose",F,Apenda,Student,09 Oct 1974
+92,160185690,"Epoko, Tapali",F,Apenda,Household Duties,20 Dec 1939
+93,160202535,"Epond, Bepi",F,Apenda,Household Duties,21 Dec 1968
+94,160202295,"Epond, Lina",F,Apenda,Household Duties,31 Oct 1969
+95,160202299,"Epond, Mecklyn",F,Apenda,Student,03 Apr 1979
+96,160441352,"Esom, Easter",F,Onne Ama,Household Duties,28 Apr 2004
+97,160238550,"Esom, Esther",F,Apenda,Household Duties,02 Oct 1980
+98,160237440,"Firman, Depeny",F,Apenda,Student,15 Oct 1989
+99,160188347,"Firman, Francisca",F,Apenda,Household Duties,21 Feb 1976
+100,160188342,"Firman, Lilly",F,Apenda,Household Duties,30 Apr 1974
+101,160191177,"Fobian, Lucy",F,Apenda,Household Duties,30 Oct 1984
+102,160237460,"Fobian, Serah",F,Apenda,Student,13 Feb 1993
+103,160194344,"Francis, Julian",F,Apenda,Household Duties,16 Jul 1981
+104,160189867,"Francis, Susan",F,Apenda,Household Duties,12 Dec 1975
+105,160133333,"Gabriel, Martin",F,Onne Ama,Household Duties,19 Feb 1991
+106,160186029,"Gake, Kelian",F,Apenda,Household Duties,12 Nov 1974
+107,160133367,"George, Northa",F,Onne Ama,Household Duties,28 Jan 1979
+108,25083781,"Gerald, Alisha",F,Onne Ama,Student,28 Apr 2004
+109,25083782,"Gerald, Dada",F,Onne Ama,Student,28 Apr 2004
+110,25083783,"Gerald, Hilda",F,Onne Ama,Building Inspector,28 Apr 2002
+111,25083784,"Gerald, Rosie",F,Onne Ama,Student,28 Apr 2004
+112,160240773,"Gibson, Janet",F,Apenda,Household Duties,05 Oct 1960
+113,160239046,"Gibson, Penina",F,Apenda,Student,13 Mar 1981
+114,160240772,"Gilbert, Lucy",F,Apenda,Household Duties,15 Dec 1985
+115,160218052,"Giru, Cathy",F,Apenda,Household Duties,09 Oct 1980
+116,160237348,"Giru, Samila",F,Apenda,Student,28 Oct 1991
+117,160239205,"Glen, Asinta",F,Apenda,Student,15 Feb 1988
+118,160138096,"Hano, Havi",F,Onne Ama,Student,08 Sep 1997
+119,160133457,"Hano, Havina",F,Onne Ama,Student,21 Nov 1997
+120,160138097,"Hano, Mongo",F,Onne Ama,Household Duties,02 Jul 1996
+121,160133461,"Hano, Regeins",F,Onne Ama,Household Duties,08 Feb 1995
+122,160185507,"Hebe, Jabelyn",F,Apenda,Household Duties,02 Dec 1984
+123,160182969,"Hiripu, Suminogo",F,Apenda,Household Duties,10 Oct 1974
+124,160188438,"Humenge, Lina",F,Apenda,Household Duties,15 Oct 1972
+125,160133445,"Hun, Evelyn",F,Onne Ama,Household Duties,28 Feb 1994
+126,160240879,"Inock, Anita",F,Apenda,Student,17 Nov 1991
+127,160189842,"Ipule, Cendra",F,Apenda,Student,10 Dec 1983
+128,160212699,"Ipule, Evelyn",F,Apenda,Pastor,13 May 1978
+129,160184621,"Ipule, Lilly",F,Apenda,Student,13 Oct 1990
+130,160185819,"Ipule, Lin",F,Apenda,Housegirl,27 Sep 1981
+131,160239203,"Ipule, Nogosi",F,Apenda,Student,19 Jul 1989
+132,160190582,"Ipule, Rosa",F,Apenda,Housegirl,12 Oct 1974
+133,160189844,"Ipule, Sarah",F,Apenda,Student,27 Feb 1987
+134,160239051,"Iropu, Imelda",F,Apenda,Student,10 Nov 1991
+135,160182549,"Iropu, Marklina",F,Apenda,Student,20 Apr 1989
+136,160239052,"Iropu, Nancy",F,Apenda,Household Duties,16 Sep 1980
+137,160198816,"Issac, Helen",F,Apenda,Household Duties,27 Jan 1972
+138,160198846,"Issac, Polina",F,Apenda,Student,25 Oct 1986
+139,160188428,"Jack, Buka",F,Apenda,Household Duties,01 Mar 1967
+140,160187368,"Jack, Delma",F,Apenda,Housegirl,02 Oct 1987
+141,160239197,"Jack, Elis",F,Apenda,Household Duties,14 Nov 1976
+142,160133437,"Jack, Jacky",F,Onne Ama,Student,23 Sep 1994
+143,160190474,"Jack, Kelemo",F,Apenda,Household Duties,07 Oct 1974
+144,160189845,"Jack, Martha",F,Apenda,Housegirl,21 Aug 1978
+145,160189873,"Jack, Mary",F,Apenda,Household Duties,27 Jun 1968
+146,25083786,"Jacob, Evony",F,Onne Ama,Student,28 Apr 2004
+147,160133337,"Jacob, Julie",F,Onne Ama,Household Duties,21 Mar 1987
+148,25083789,"Jacob, Melisha",F,Onne Ama,Household Duties,29 Mar 1996
+149,160216583,"James, Alice",F,Apenda,Student,10 Oct 1990
+150,160237495,"James, Anna",F,Apenda,Household Duties,16 Mar 1979
+151,160239357,"James, Lilly",F,Apenda,Typist,15 Dec 1983
+152,160237494,"James, Mone",F,Apenda,Household Duties,01 Feb 1966
+153,160218374,"James, Monica",F,Apenda,Household Duties,15 Dec 1949
+154,25083790,"Jebedy, Sharon",F,Onne Ama,Student,13 Mar 1993
+155,25083791,"Jerry, Bethney",F,Onne Ama,Self Employed,21 May 1984
+156,160133418,"Jerry, Carol",F,Onne Ama,Student,30 Nov 1997
+157,160237449,"Jersy, Jennifer",F,Apenda,Student,15 Jan 1986
+158,160240764,"Jersy, Joice",F,Apenda,Student,29 Mar 1986
+159,160240763,"Jersy, Melkomb",F,Apenda,Household Duties,21 Mar 1969
+160,160441358,"Jessy, Jenny",F,Onne Ama,Subsistence Farmer,15 Jun 1989
+161,160133451,"Jessy, Joiclyn",F,Onne Ama,Student,21 May 1998
+162,160441359,"Jessy, Josica",F,Onne Ama,Household Duties,15 Jul 1992
+163,160190471,"Jessy, Kang",F,Apenda,Household Duties,01 Jun 1976
+164,160441360,"Jessy, Rose",F,Onne Ama,Household Duties,15 Jun 1991
+165,160185868,"Jessy, Sarah",F,Apenda,Student,24 Aug 1990
+166,160238898,"Jim, Debo",F,Apenda,Student,13 Sep 1994
+167,160210473,"Jim, Dynna",F,Apenda,Household Duties,04 Sep 1981
+168,160239206,"Jim, Fait",F,Apenda,Student,15 Jan 1992
+169,160441362,"Jim, Mercy",F,Onne Ama,Household Duties,16 Nov 1989
+170,160441363,"Jim, Saisai",F,Onne Ama,Student,03 Jul 2003
+171,160199006,"Joebet, Sellie",F,Apenda,Household Duties,26 Sep 1977
+172,25083793,"Joel, Mejoni",F,Onne Ama,Household Duties,13 May 1996
+173,160240757,"John, Esther",F,Apenda,Student,19 Feb 1983
+174,160240758,"John, Everlyn",F,Apenda,Student,19 Nov 1985
+175,160177390,"John, Florence",F,Apenda,Student,10 Oct 1987
+176,160198379,"John, Grace",F,Apenda,Housegirl,04 Jun 1983
+177,160198375,"John, Hylin",F,Apenda,Housegirl,29 Sep 1980
+178,160202305,"John, Jenny",F,Apenda,Household Duties,01 Jan 1976
+179,160239204,"John, Josi",F,Apenda,Student,18 Oct 1994
+180,160194730,"John, Kolsi",F,Apenda,Housegirl,24 Sep 1972
+181,160133468,"John, Lidia",F,Onne Ama,Student,06 Sep 1998
+182,160201402,"John, Magarette",F,Apenda,Household Duties,01 Jan 1977
+183,160185719,"John, Malin",F,Apenda,Household Duties,28 Feb 1982
+184,160177415,"John, Malinu",F,Apenda,Household Duties,17 Jun 1965
+185,160240741,"John, Marlin",F,Apenda,Student,19 Dec 1989
+186,160191190,"John, Mele",F,Apenda,Housegirl,24 Aug 1979
+187,160194735,"John, Nancy",F,Apenda,Student,26 May 1984
+188,160194725,"John, Norin",F,Apenda,Housegirl,10 Sep 1967
+189,160240740,"John, Regina",F,Apenda,Household Duties,13 Jun 1960
+190,160194726,"John, Rose",F,Apenda,Housegirl,23 Jan 1970
+191,160133469,"John, Rose",F,Onne Ama,Household Duties,03 Apr 1995
+192,160212901,"John, Salina",F,Apenda,Household Duties,13 Feb 1960
+193,160237457,"John, Stella",F,Apenda,Household Duties,13 Oct 1959
+194,160177601,"John, Welingnu",F,Apenda,Household Duties,16 Aug 1963
+195,160230711,"Jordan, Marriam",F,Apenda,Household Duties,01 Jan 1984
+196,160218900,"Joseph, Anna",F,Apenda,Household Duties,26 Oct 1962
+197,160217928,"Joseph, Jenny",F,Apenda,Student,16 Dec 1988
+198,160201765,"Joseph, Jepo",F,Apenda,Student,01 Jan 1989
+199,25083795,"Joseph, Jerina",F,Onne Ama,Self Employed,12 Mar 1990
+200,160237442,"Joseph, Kapul",F,Apenda,Student,15 Dec 1989
+201,160237459,"Joseph, Molina",F,Apenda,Student,02 Nov 1985
+202,160218907,"Joseph, Nancy",F,Apenda,Housegirl,12 Oct 1973
+203,160240883,"Joseph, Nancy",F,Apenda,Household Duties,03 Nov 1978
+204,160239177,"Joseph, Norine",F,Apenda,Household Duties,07 Oct 1979
+205,160217925,"Joseph, Rose",F,Apenda,Housegirl,01 Jan 1981
+206,160215861,"Joseph, Ruth",F,Apenda,Household Duties,16 Jul 1970
+207,160240774,"Joseph, Wari",F,Apenda,Household Duties,27 Mar 1966
+208,160240885,"Joseph, Wency",F,Apenda,Student,13 Jan 1982
+209,160201688,"Joseph, Yepi",F,Apenda,Household Duties,24 Nov 1975
+210,160133386,"Joshua, Betty",F,Onne Ama,Household Duties,04 Nov 1995
+211,160239193,"Josuha, Bervelyn",F,Apenda,Housegirl,15 Aug 1982
+212,160133340,"Julias, Rose",F,Onne Ama,Household Duties,12 Jul 1986
+213,160441369,"Julius, Asta",F,Onne Ama,Housegirl,18 May 1993
+214,160239208,"Julius, Rose",F,Apenda,Household Duties,17 Jun 1988
+215,25083798,"Junior, Freda",F,Onne Ama,Student,21 May 2001
+216,25083799,"Junior, Janet",F,Onne Ama,Student,11 May 1989
+217,25083800,"Junior, Meklina",F,Onne Ama,Household Duties,20 Feb 1989
+218,25083802,"Junior, Rodina",F,Onne Ama,Housegirl,21 May 2000
+219,160133334,"Justin, Rebecca",F,Onne Ama,Household Duties,19 Aug 1987
+220,160133463,"Kambleam, Mati",F,Onne Ama,Student,06 Nov 1993
+221,160207512,"Kapanda, Angeola",F,Apenda,Household Duties,16 Mar 1971
+222,160204892,"Kapanda, Anna",F,Apenda,Household Duties,21 Oct 1971
+223,160218896,"Kapanda, Kenepe",F,Apenda,Housegirl,08 Dec 1976
+224,160216565,"Kapanda, Maria",F,Apenda,Housegirl,09 Oct 1980
+225,160201358,"Kapanda, Mirriam",F,Apenda,Student,11 Jan 1985
+226,160207486,"Kapanda, Molu",F,Apenda,Household Duties,21 Aug 1947
+227,160203710,"Kapanda, Nancy",F,Apenda,Student,06 Sep 1988
+228,160199036,"Kapanda, Norren",F,Apenda,Student,02 Feb 1987
+229,160207657,"Kapanda, Rindi",F,Apenda,Household Duties,02 Nov 1948
+230,160237463,"Kapenda, Joyce",F,Apenda,Student,13 Mar 1989
+231,160441371,"Karap, Prisila",F,Onne Ama,Household Duties,28 Oct 1982
+232,160441372,"Karep, Danila",F,Onne Ama,Student,28 Apr 2004
+233,160133430,"Kasu, Puri",F,Onne Ama,Household Duties,14 Jun 1962
+234,160199808,"Kembelom, Akipi",F,Apenda,Household Duties,02 Oct 1952
+235,160191027,"Kembelom, Aneka",F,Apenda,Household Duties,11 Jul 1979
+236,160197272,"Kembelom, Buka",F,Apenda,Housegirl,15 Jun 1977
+237,160199009,"Kembelom, Buru",F,Apenda,Household Duties,24 Jan 1950
+238,160197274,"Kembelom, Christina",F,Apenda,Housegirl,02 Oct 1979
+239,160198830,"Kembelom, Koreyame",F,Apenda,Housegirl,04 Nov 1980
+240,160196619,"Kembelom, Kosonu",F,Apenda,Student,01 Nov 1986
+241,160198835,"Kembelom, Lin",F,Apenda,Housegirl,27 Jan 1981
+242,160191246,"Kembelom, Mande",F,Apenda,Housegirl,24 Jun 1982
+243,160197398,"Kembelom, Polin",F,Apenda,Student,03 Apr 1988
+244,160191034,"Kembelom, Posin",F,Apenda,Housegirl,10 Aug 1979
+245,160197396,"Kembelom, Sanah",F,Apenda,Student,24 Jul 1983
+246,160441373,"Kembeyeli, Ruwdu",F,Onne Ama,Gardener,18 May 1964
+247,160133431,"Kenep, Josica",F,Onne Ama,Student,19 Aug 1998
+248,160133422,"Kenep, Misis",F,Onne Ama,Household Duties,05 Aug 1965
+249,160138079,"Kenep, Morem",F,Onne Ama,Household Duties,09 Jul 1968
+250,160133434,"Kenep, Paula",F,Onne Ama,Student,02 Feb 1999
+251,160133423,"Kenep, Roselyn",F,Onne Ama,Household Duties,07 Jun 1977
+252,160133428,"Kenep, Sendra",F,Onne Ama,Student,09 Aug 1990
+253,160133421,"Kenep, Yopu",F,Onne Ama,Household Duties,09 Jun 1963
+254,160202281,"Kenga, Akipi",F,Apenda,Household Duties,21 Jan 1956
+255,160201282,"Kenga, Helen",F,Apenda,Housegirl,01 Nov 1984
+256,160202479,"Kenga, Yaleme",F,Apenda,Household Duties,28 Aug 1938
+257,160133365,"Kep, Cathy",F,Onne Ama,Sales Women,19 Nov 1998
+258,160198660,"Kep, Cerol",F,Apenda,Student,07 Nov 1988
+259,160138123,"Kep, Jerolyn",F,Onne Ama,Teacher,04 Apr 1984
+260,160198823,"Kep, Lora",F,Apenda,Household Duties,20 Dec 1975
+261,160198810,"Kep, Selpina",F,Apenda,Student,30 Mar 1990
+262,160441382,"Kerap, Everlyn",F,Onne Ama,Nurse,06 Jan 1965
+263,160441384,"Kerap, Gracelyn",F,Onne Ama,Nurse,28 Feb 2001
+264,160441385,"Kerap, Jacklyn",F,Onne Ama,Store Keeper,12 Oct 1982
+265,160441390,"Kerap, Jossy",F,Onne Ama,Store Keeper,06 Jun 1995
+266,160441391,"Kerap, Jossy",F,Onne Ama,Store Keeper,06 Jul 1995
+267,160441392,"Kerap, Joycelyn",F,Onne Ama,Student,18 Jan 2003
+268,160441395,"Kerap, Ladiane",F,Onne Ama,Student,05 Jul 2003
+269,160441396,"Kerap, Laviana",F,Onne Ama,Student,12 Jan 2000
+270,160441399,"Kerap, Malai",F,Onne Ama,Subsistence Farmer,01 Sep 1991
+271,160441401,"Kerap, Merian",F,Onne Ama,Typist,02 Feb 1999
+272,160441402,"Kerap, Nancy",F,Onne Ama,Household Duties,08 May 1989
+273,160441403,"Kerap, Noreen",F,Onne Ama,Magistrate,01 Feb 1989
+274,160441406,"Kerap, Rose",F,Onne Ama,Subsistence Farmer,26 Feb 1990
+275,160240747,"Keri, Sikiri",F,Apenda,Household Duties,11 Mar 1990
+276,160239058,"Kevin, Fidelma",F,Apenda,Student,16 Nov 1990
+277,160239057,"Kevin, Fredda",F,Apenda,Student,30 Mar 1989
+278,160239194,"Kevin, Moreen",F,Apenda,Student,29 Aug 1992
+279,160138119,"Kila, Anna",F,Onne Ama,Teacher,14 Feb 1982
+280,160240696,"Kili, Banti",F,Apenda,Student,16 Jul 1987
+281,160240695,"Kili, Joice",F,Apenda,Student,10 Mar 1983
+282,160190028,"Kili, Kellian",F,Apenda,Household Duties,10 Dec 1951
+283,160190676,"Kili, Loke",F,Apenda,Household Duties,25 May 1950
+284,160230710,"Kili, Posipa",F,Apenda,Household Duties,01 Jan 1981
+285,160190445,"Kili, Ranu",F,Apenda,Household Duties,14 Sep 1954
+286,160190764,"Kili, Roselyn",F,Apenda,Housegirl,24 Mar 1982
+287,160188317,"Kili, Vero",F,Apenda,Household Duties,14 Dec 1961
+288,160441409,"Kilipa, Amenda",F,Onne Ama,Student,06 Jan 2003
+289,160441410,"Kilipa, Delilah",F,Onne Ama,Subsistence Farmer,17 Sep 2001
+290,160210494,"Kilipia, Anna",F,Apenda,Housegirl,27 Jun 1976
+291,160210412,"Kilipia, Betty",F,Apenda,Household Duties,02 Jul 1968
+292,160210552,"Kilipia, Cathy",F,Apenda,Housegirl,25 May 1969
+293,160210496,"Kilipia, Marypita",F,Apenda,Housegirl,21 Apr 1975
+294,160187690,"Kilipia, Otaku",F,Apenda,Housegirl,26 Apr 1979
+295,160180315,"Kilipia, Pombrem",F,Apenda,Household Duties,23 Mar 1960
+296,160210908,"Kilipia, Veronica",F,Apenda,Housegirl,14 Jul 1966
+297,25083807,"Koka, Natasha",F,Onne Ama,Student,28 Apr 2004
+298,25083808,"Koka, Wendi",F,Onne Ama,Student,28 Apr 2004
+299,160201079,"Kongo, Anna",F,Apenda,Household Duties,30 Apr 1980
+300,160173278,"Kongo, Cherish",F,Apenda,Household Duties,14 Dec 1970
+301,160200968,"Kongo, Nelly",F,Apenda,Housegirl,27 May 1985
+302,160201083,"Kongo, Sellie",F,Apenda,Housegirl,11 Apr 1983
+303,160201429,"Kongo, Wali",F,Apenda,Household Duties,08 Feb 1972
+304,160133332,"Laki, Susi",F,Onne Ama,Household Duties,30 Jun 1986
+305,160133348,"Larin, Pore",F,Onne Ama,Household Duties,30 Oct 1995
+306,160238652,"Leslie, Belinda",F,Apenda,Household Duties,13 Feb 1971
+307,160198856,"Leslie, Leonie",F,Apenda,Student,24 May 1990
+308,160197264,"Leslie, Lilly",F,Apenda,Household Duties,29 Oct 1969
+309,160441413,"Lipu, Betty",F,Onne Ama,Subsistence Farmer,12 Jun 1984
+310,160441414,"Lipu, Dafodile",F,Onne Ama,Student,28 Apr 2004
+311,160441415,"Lipu, Magret",F,Onne Ama,Cleaner,13 Jun 1981
+312,160441416,"Lipu, Marigold",F,Onne Ama,Student,08 Sep 2003
+313,160441418,"Lipu, Paul",F,Onne Ama,Teacher,03 Feb 1980
+314,160201587,"Luke, Bepi",F,Apenda,Household Duties,12 Oct 1967
+315,160441419,"Luke, Beziba",F,Onne Ama,Student,13 Oct 2000
+316,160239207,"Luke, Kineme",F,Apenda,Subsistence Farmer,26 May 1965
+317,160238844,"Luke, Lilly",F,Apenda,Student,17 Oct 1989
+318,160441420,"Luke, Merlis",F,Onne Ama,Student,27 Oct 1999
+319,160201025,"Luke, Monica",F,Apenda,Housegirl,12 Mar 1978
+320,160212908,"Luke, Rachael",F,Apenda,Household Duties,29 Nov 1982
+321,160441422,"Luke, Tunu",F,Onne Ama,Student,19 Feb 2000
+322,160201374,"Luke, Veronica",F,Apenda,Student,01 Feb 1980
+323,160237502,"Manase, Betty",F,Apenda,Student,27 Feb 1985
+324,160239201,"Manase, Julie",F,Apenda,Household Duties,02 Oct 1972
+325,25083809,"Marhn, Danilla",F,Onne Ama,Student,28 Apr 2004
+326,160218048,"Mark, Betty",F,Apenda,Housegirl,10 Oct 1982
+327,25083811,"Mark, Dali",F,Onne Ama,Household Duties,28 Apr 2004
+328,160138100,"Mark, Dalila",F,Onne Ama,Student,04 Jan 1999
+329,25083812,"Mark, Delila",F,Onne Ama,Student,28 Oct 2001
+330,160198849,"Mark, Freda",F,Apenda,Student,06 Dec 1987
+331,160168689,"Mark, Helen",F,Apenda,Household Duties,01 Jan 1965
+332,160202403,"Mark, Hevin",F,Apenda,Student,01 Jan 1978
+333,160217904,"Mark, Lucy",F,Apenda,Housegirl,30 Apr 1979
+334,160238651,"Mark, Malin",F,Apenda,Household Duties,01 Jan 1957
+335,160210571,"Mark, Molu",F,Apenda,Household Duties,24 Feb 1947
+336,25083813,"Mark, Nicola",F,Onne Ama,Student,28 Apr 2004
+337,25083814,"Mark, Scola",F,Onne Ama,Student,28 Nov 2000
+338,160202525,"Mark, Wendy",F,Apenda,Household Duties,17 Aug 1975
+339,160176096,"Mart, Monica",F,Apenda,Housegirl,12 Dec 1964
+340,160133465,"Martain, Wari",F,Onne Ama,Household Duties,19 Mar 1994
+341,25083817,"Mat, Lavina",F,Onne Ama,Student,28 Apr 2004
+342,160210973,"Mathew, Anna",F,Apenda,Housegirl,21 Apr 1978
+343,160187563,"Mathew, Betty",F,Apenda,Housegirl,20 Nov 1983
+344,160210214,"Mathew, Enzelin",F,Apenda,Student,28 Nov 1990
+345,160210561,"Mathew, Lucy",F,Apenda,Housegirl,02 Sep 1985
+346,160237337,"Mathew, Lyne",F,Apenda,Subsistence Farmer,15 Jan 1971
+347,160173500,"Mathew, Martha",F,Apenda,Household Duties,20 Jan 1974
+348,160210559,"Mathew, Rose",F,Apenda,Housegirl,05 Mar 1983
+349,160201045,"Max, Awe",F,Apenda,Household Duties,31 Dec 1974
+350,160238883,"Max, Margeret",F,Apenda,Nurse,14 Oct 1957
+351,160173439,"Mekia, Angeol",F,Apenda,Housegirl,24 Jun 1972
+352,160178108,"Mekia, Endiame",F,Apenda,Household Duties,14 May 1936
+353,160177436,"Mekia, Epenogo",F,Apenda,Housegirl,26 Jul 1962
+354,160198370,"Mekia, Mopoame",F,Apenda,Housegirl,04 Jun 1975
+355,160177337,"Mekia, Rotonogo",F,Apenda,Housegirl,14 Nov 1966
+356,160177851,"Mekia, Talopo",F,Apenda,Household Duties,28 Nov 1938
+357,160201381,"Mele, Anna",F,Apenda,Student,11 Oct 1965
+358,160201370,"Mele, Apei",F,Apenda,Subsistence Farmer,03 Nov 1956
+359,25083819,"Melep, Demolin",F,Onne Ama,Student,28 Apr 2003
+360,160198916,"Membi, Malaki",F,Apenda,Housegirl,12 Nov 1951
+361,160198306,"Membi, Monica",F,Apenda,Housegirl,08 Apr 1976
+362,160210474,"Menge, Cathy",F,Apenda,Sister,26 Mar 1959
+363,160441426,"Menge, Hozias",F,Onne Ama,Household Duties,03 Jul 1986
+364,160212907,"Menge, Julie",F,Apenda,Housegirl,02 Aug 1987
+365,160441427,"Menge, Justina",F,Onne Ama,Household Duties,21 Oct 1982
+366,160441428,"Menge, Konny",F,Onne Ama,Student,10 Oct 2003
+367,160210467,"Menge, Kowesini",F,Apenda,Household Duties,12 May 1967
+368,160212903,"Menge, Lina",F,Apenda,Household Duties,07 Oct 1982
+369,160441429,"Menge, Macklina",F,Onne Ama,Subsistence Farmer,12 Nov 1970
+370,160441432,"Menge, Peto",F,Onne Ama,Student,27 Oct 1993
+371,160210472,"Menge, Rachael",F,Apenda,Housegirl,12 Jun 1987
+372,160238884,"Menge, Repname",F,Apenda,Subsistence Farmer,12 Jun 1987
+373,160203732,"Mesi, Akopi",F,Apenda,Housegirl,21 Mar 1973
+374,160185876,"Mesi, Himo",F,Apenda,Household Duties,09 Oct 1936
+375,160185878,"Mesi, Magarette",F,Apenda,Housegirl,19 Dec 1958
+376,160183090,"Michael, Debrah",F,Apenda,Student,03 Mar 1990
+377,160187912,"Michael, Josephine",F,Apenda,Household Duties,24 Aug 1978
+378,160240693,"Michael, Konsy",F,Apenda,Student,16 Apr 1992
+379,160194491,"Michael, Vero",F,Apenda,Household Duties,12 Dec 1957
+380,160202408,"Micheal, Elly",F,Apenda,Student,19 Aug 1983
+381,160202411,"Micheal, Josica",F,Apenda,Student,25 Dec 1988
+382,160202296,"Micheal, Julie",F,Apenda,Household Duties,09 Sep 1955
+383,160202406,"Micheal, Lucy",F,Apenda,Student,31 Dec 1981
+384,160202469,"Micheal, Selly",F,Apenda,Student,16 Oct 1990
+385,160215887,"Miru, Enge",F,Apenda,Household Duties,30 Dec 1931
+386,160213133,"Miru, Josephine",F,Apenda,Housegirl,28 Feb 1978
+387,160215648,"Miru, Kang",F,Apenda,Housegirl,10 Feb 1962
+388,160213122,"Miru, Mary",F,Apenda,Household Duties,27 Nov 1960
+389,160213131,"Miru, Waplame",F,Apenda,Housegirl,01 Jan 1966
+390,160210826,"Monga, Akipi",F,Apenda,Household Duties,28 Dec 1945
+391,160210817,"Monga, Anna",F,Apenda,Student,22 Oct 1975
+392,160212383,"Monga, Ellie",F,Apenda,Student,03 Nov 1984
+393,160237499,"Monga, Everlyn",F,Apenda,Student,06 Oct 1988
+394,160207937,"Monga, Jacklyn",F,Apenda,Student,10 Dec 1990
+395,160210831,"Monga, Jenny",F,Apenda,Typist,28 Oct 1966
+396,160213285,"Monga, Josephine",F,Apenda,Student,27 Oct 1989
+397,160212700,"Monga, Linet",F,Apenda,Household Duties,06 Sep 1983
+398,160210462,"Monga, Mackelyn",F,Apenda,Student,23 Feb 1988
+399,160210938,"Monga, Monam",F,Apenda,Household Duties,02 Nov 1955
+400,160213181,"Monga, Niripa",F,Apenda,Household Duties,04 Apr 1942
+401,160239190,"Monga, Petra",F,Apenda,Student,28 Oct 1993
+402,160212965,"Monga, Poyem",F,Apenda,Household Duties,27 May 1947
+403,160213061,"Monga, Precilla",F,Apenda,Student,24 Jul 1987
+404,160210464,"Monga, Sellie",F,Apenda,Typist,04 Nov 1988
+405,160215871,"Mongo, Akipinu",F,Apenda,Household Duties,06 May 1971
+406,160215860,"Mongo, Semila",F,Apenda,Household Duties,07 Oct 1983
+407,160177675,"Mungu, Dorothy",F,Apenda,Student,16 Dec 1988
+408,160177958,"Mungu, Magarette",F,Apenda,Household Duties,29 Jul 1952
+409,160441433,"Mupi, Maria",F,Onne Ama,Household Duties,09 Nov 1976
+410,160237618,"Nakisi, Susie",F,Apenda,Student,06 Oct 1982
+411,160215476,"Nakisolu, Betty",F,Apenda,Housegirl,20 Oct 1976
+412,160215877,"Nakisolu, Bolu",F,Apenda,Household Duties,10 Dec 1934
+413,160187785,"Nakisolu, Kopame",F,Apenda,Housegirl,24 Feb 1972
+414,160180942,"Nakisolu, Martha",F,Apenda,Student,20 Apr 1990
+415,160187694,"Nakisolu, Mary",F,Apenda,Household Duties,28 Oct 1970
+416,160187687,"Nakisolu, Puri",F,Apenda,Household Duties,24 Feb 1936
+417,160214048,"Nakisolu, Rentiri",F,Apenda,Household Duties,20 Oct 1954
+418,160230725,"Nakisolu, Robin",F,Apenda,Student,01 Jan 1988
+419,160215480,"Nakisolu, Rose",F,Apenda,Housegirl,24 Feb 1977
+420,160441434,"Nandep, Gloria",F,Onne Ama,Subsistence Farmer,09 Sep 1976
+421,160441438,"Napas, Julie",F,Onne Ama,Household Duties,11 Dec 1972
+422,160441440,"Napas, Mercy",F,Onne Ama,Housegirl,04 Jun 1997
+423,160441441,"Napas, Rachael",F,Onne Ama,Household Duties,15 Jul 1993
+424,160198928,"Nawe, Anna",F,Apenda,Household Duties,12 Oct 1968
+425,160198763,"Nawe, Marrian",F,Apenda,Household Duties,31 Dec 1955
+426,160198768,"Nawe, Nancy",F,Apenda,Housegirl,04 Nov 1962
+427,160201717,"Nega, Nogosi",F,Apenda,Household Duties,27 Mar 1959
+428,160201249,"Nega, Sanah",F,Apenda,Household Duties,25 May 1979
+429,160196675,"Negh, Cathy",F,Apenda,Housegirl,25 Jul 1981
+430,160201009,"Nelson, Ake",F,Apenda,Housegirl,16 Aug 1976
+431,160201431,"Nelson, Janet",F,Apenda,Household Duties,14 Jun 1941
+432,160201365,"Nembi, Nenga",F,Apenda,Household Duties,08 Dec 1952
+433,160185499,"Nembo, Cathy",F,Apenda,Housegirl,14 Nov 1980
+434,160187211,"Nembo, Tambonong",F,Apenda,Household Duties,21 Feb 1970
+435,160184369,"Nendep, Bun",F,Apenda,Student,11 May 1990
+436,160441444,"Nendep, Dyian",F,Onne Ama,Student,05 Mar 1986
+437,160198817,"Nendep, Hun",F,Apenda,Household Duties,04 Nov 1964
+438,160198827,"Nendep, Malin",F,Apenda,Household Duties,27 Mar 1980
+439,160198833,"Nendep, Margarette",F,Apenda,Student,12 May 1986
+440,160198829,"Nendep, Susi",F,Apenda,Student,10 Jan 1981
+441,160441447,"Nenga, Ambai",F,Onne Ama,Sister,15 Apr 1981
+442,160133352,"Nenga, Beneta",F,Onne Ama,Student,20 Dec 1994
+443,160133351,"Nenga, Lawa",F,Onne Ama,Student,30 Jul 1997
+444,160441448,"Nenga, Raima",F,Onne Ama,Student,28 Apr 2003
+445,160441449,"Nenga, Romiya",F,Onne Ama,Student,15 Sep 2001
+446,160215499,"Neombu, Hun",F,Apenda,Household Duties,20 Feb 1974
+447,160214022,"Neombu, Magarette",F,Apenda,Household Duties,21 Feb 1958
+448,160187332,"Nikisolu, Rosona",F,Apenda,Housegirl,12 Feb 1978
+449,160138094,"Noel, Dada",F,Onne Ama,Student,11 Aug 1997
+450,160133449,"Noel, Doris",F,Onne Ama,Pastor,06 Apr 1971
+451,160138093,"Noel, Noelin",F,Onne Ama,Student,28 Sep 1995
+452,160138095,"Noel, Susi",F,Onne Ama,Student,21 Feb 1999
+453,160210972,"Norman, Lin",F,Apenda,Household Duties,04 Dec 1962
+454,160237343,"Norman, Sandra",F,Apenda,Student,12 Oct 1986
+455,160210211,"Norman, Steveny",F,Apenda,Student,16 Jan 1989
+456,160441450,"Nup, Venessa",F,Onne Ama,Student,23 Nov 1998
+457,160441452,"Nupi, Stanisha",F,Onne Ama,Subsistence Farmer,16 Jun 2001
+458,160237345,"Obert, Betty",F,Apenda,Household Duties,19 Feb 1961
+459,160133385,"Obert, Joycelyn",F,Onne Ama,Household Duties,24 Oct 1997
+460,160138118,"Obin, Jenny",F,Onne Ama,Household Duties,16 Feb 1987
+461,160214037,"Okom, Kelep",F,Apenda,Student,16 May 1986
+462,160196624,"Ombulap, Helen",F,Apenda,Teacher,28 Nov 1981
+463,160197404,"Ombulap, Julie",F,Apenda,Household Duties,03 Apr 1983
+464,160196622,"Ombulap, Kendem",F,Apenda,Household Duties,24 Sep 1951
+465,160198837,"Ombulap, Mololu",F,Apenda,Household Duties,24 Sep 1951
+466,160178116,"Opolu, Babrra",F,Apenda,Housegirl,09 Nov 1969
+467,160176104,"Opolu, Biresi",F,Apenda,Household Duties,12 Sep 1958
+468,160176101,"Opolu, Mary",F,Apenda,Household Duties,10 Oct 1952
+469,160237497,"Paki, Meyawe",F,Apenda,Household Duties,19 Jan 1980
+470,160133341,"Papol, Potome",F,Onne Ama,Household Duties,29 Mar 1982
+471,25083828,"Papol, Werit",F,Onne Ama,Self Employed,24 May 1999
+472,160187444,"Para, Macklin",F,Apenda,Household Duties,07 Aug 1979
+473,160210553,"Patrick, Ketrin",F,Apenda,Household Duties,25 Nov 1969
+474,160210568,"Patrick, Milrett",F,Apenda,Student,22 Jan 1987
+475,160239195,"Paul, Agnes",F,Apenda,Subsistence Farmer,14 Mar 1973
+476,160133344,"Paul, Angela",F,Onne Ama,Household Duties,16 Jul 1983
+477,160190039,"Paul, Delma",F,Apenda,Household Duties,12 Jan 1976
+478,160238880,"Paul, Lus",F,Apenda,Household Duties,13 Oct 1970
+479,160187908,"Paul, Mary",F,Apenda,Household Duties,28 May 1975
+480,160190365,"Paul, Mirriam",F,Apenda,Student,11 Dec 1982
+481,160197331,"Paul, Nongosi",F,Apenda,Household Duties,12 Mar 1976
+482,160187913,"Paul, Racheal",F,Apenda,Student,12 Dec 1979
+483,160190585,"Paul, Roselyn",F,Apenda,Household Duties,24 Aug 1977
+484,160191213,"Paul, Salle",F,Apenda,Household Duties,03 Jan 1958
+485,160184564,"Paul, Sila",F,Apenda,Student,03 Nov 1990
+486,160239196,"Paul, Susan",F,Apenda,Household Duties,15 Dec 1984
+487,160185725,"Perene, Josephine",F,Apenda,Housegirl,10 Nov 1982
+488,160185533,"Perene, Magarette",F,Apenda,Household Duties,25 Jun 1937
+489,160202277,"Perene, Nogosi",F,Apenda,Household Duties,05 Oct 1938
+490,160133413,"Perene, Semica",F,Onne Ama,Student,31 Dec 1996
+491,160180434,"Perene, Waria",F,Apenda,Household Duties,06 Jan 1958
+492,160189869,"Perene, Wesi",F,Apenda,Household Duties,26 Sep 1966
+493,160441453,"Peter, Debora",F,Onne Ama,Student,03 Nov 2001
+494,160240702,"Peter, Enny",F,Apenda,Student,17 Oct 1984
+495,160240755,"Peter, Mevis",F,Apenda,Student,11 May 1986
+496,160240697,"Peter, Natasa",F,Apenda,Student,01 Sep 1988
+497,160240703,"Peter, Regina",F,Apenda,Household Duties,19 Jul 1964
+498,160133345,"Peter, Regina",F,Onne Ama,Household Duties,13 Jul 1984
+499,160240886,"Peter, Roselyn",F,Apenda,Household Duties,01 Jan 2000
+500,160188504,"Peter, Ziner",F,Apenda,Teacher,27 May 1974
+501,160441455,"Peya, Melisa",F,Onne Ama,Student,28 Mar 2003
+502,160441456,"Peya, Salina",F,Onne Ama,Subsistence Farmer,25 Jun 1986
+503,25083831,"Peye, Jackie",F,Onne Ama,Student,20 May 2002
+504,160193461,"Peye, Kongo",F,Apenda,Household Duties,21 Dec 1972
+505,160194464,"Peye, Ronica",F,Apenda,Student,03 Dec 1982
+506,160238512,"Peye, Veronica",F,Apenda,Student,19 May 1989
+507,160217832,"Philimon, Anna",F,Apenda,Household Duties,28 Aug 1967
+508,160441457,"Philimon, Sheron",F,Onne Ama,Household Duties,25 Mar 1991
+509,160441460,"Philip, Joshinah",F,Onne Ama,Student,12 Dec 1993
+510,160212385,"Philip, Kulubu",F,Apenda,Household Duties,07 Aug 1958
+511,160210898,"Philip, Lilian",F,Apenda,Housegirl,16 Sep 1981
+512,160133342,"Philip, Norin",F,Onne Ama,Teacher,11 Sep 1982
+513,160441461,"Philip, Norin",F,Onne Ama,Teacher,04 Mar 1986
+514,160441462,"Philip, Pastina",F,Onne Ama,Student,03 Sep 2000
+515,160210897,"Philip, Polind",F,Apenda,Housegirl,10 Apr 1978
+516,160441463,"Philip, Shairly",F,Onne Ama,Student,05 Dec 1999
+517,160441465,"Philipus, Dina",F,Onne Ama,Household Duties,15 Mar 1981
+518,160240589,"Piso, Martha",F,Apenda,Household Duties,19 Jan 1991
+519,160133435,"Piso, Sila",F,Onne Ama,Household Duties,09 Oct 1995
+520,160188458,"Poiye, Cathy",F,Apenda,Housegirl,20 Oct 1972
+521,160190748,"Poiye, Susi",F,Apenda,Household Duties,15 Nov 1970
+522,25083834,"Ponj, Elon",F,Onne Ama,Student,22 Mar 2000
+523,25083835,"Ponj, Keroln",F,Onne Ama,Student,28 Apr 2004
+524,25083836,"Ponj, Lina",F,Onne Ama,Student,28 Apr 2004
+525,25083837,"Ponj, Meklyn",F,Onne Ama,Student,19 Jan 2002
+526,25083838,"Ponj, Nomila",F,Onne Ama,Student,26 May 1999
+527,25083839,"Ponj, Priya",F,Onne Ama,Self Employed,11 Feb 1996
+528,160133419,"Pono, Noami",F,Onne Ama,Sales Women,24 Jan 1995
+529,160216586,"Poyei, Mokiriame",F,Apenda,Household Duties,16 Nov 1944
+530,160218050,"Poyei, Nogosi",F,Apenda,Housegirl,01 Jan 1967
+531,160133331,"Preslie, Mirram",F,Onne Ama,Household Duties,15 Nov 1990
+532,160182446,"Puna, Christina",F,Apenda,Student,05 Dec 1989
+533,160138099,"Puna, Clancy",F,Onne Ama,Student,05 Sep 1998
+534,160133473,"Puna, Doris",F,Onne Ama,Household Duties,09 Jun 1991
+535,160182439,"Puna, Judy",F,Apenda,Student,12 Dec 1985
+536,160186079,"Puna, Julica",F,Apenda,Student,17 Jul 1984
+537,160182672,"Puna, Mary",F,Apenda,Student,12 Apr 1988
+538,160182555,"Puna, Natasia",F,Apenda,Student,20 Jan 1989
+539,160213123,"Puna, Regina",F,Apenda,Housegirl,17 Aug 1970
+540,160215092,"Puna, Rekinogo",F,Apenda,Household Duties,06 Feb 1958
+541,160239054,"Puna, Rose",F,Apenda,Teacher,19 Mar 1981
+542,160182694,"Puna, Rossie",F,Apenda,Student,20 Nov 1989
+543,160215879,"Puna, Yowet",F,Apenda,Household Duties,08 Jun 1958
+544,160237444,"Rale, Nancy",F,Apenda,Household Duties,09 Mar 1974
+545,160217819,"Reki, Doris",F,Apenda,Housegirl,30 Dec 1975
+546,160239355,"Reki, Sipora",F,Apenda,Student,19 Jan 1989
+547,160196679,"Rekop, Presilla",F,Apenda,Household Duties,24 Jun 1977
+548,160133355,"Rex, Georgina",F,Onne Ama,Household Duties,24 Mar 1984
+549,160133359,"Rex, Joyce",F,Onne Ama,Student,29 Jan 1999
+550,160133362,"Rex, Jullie",F,Onne Ama,Student,09 Feb 1996
+551,160218889,"Rim, Cerol",F,Apenda,Student,14 Sep 1990
+552,160217907,"Rim, Kapuame",F,Apenda,Household Duties,02 Nov 1970
+553,160441469,"Rim, Kerolyne",F,Onne Ama,Household Duties,28 Apr 2004
+554,160237466,"Rim, Rapo",F,Apenda,Student,16 Jan 1982
+555,160217879,"Rim, Rosa",F,Apenda,Student,27 Oct 1989
+556,160188427,"Rima, Nongoepe",F,Apenda,Housegirl,01 Apr 1971
+557,160176064,"Rimba, Jenita",F,Apenda,Student,24 Jul 1986
+558,160175618,"Rimba, Kangre",F,Apenda,Household Duties,01 Jan 1948
+559,160176060,"Rimba, Wari",F,Apenda,Household Duties,02 Nov 1984
+560,160232004,"Robin, Melisah",F,Apenda,Household Duties,01 Jan 1987
+561,160441471,"Rodi, Joseph",F,Onne Ama,Student,15 Mar 2002
+562,160186022,"Roka, Grace",F,Apenda,Household Duties,15 Dec 1976
+563,160133438,"Rombua, Dainila",F,Onne Ama,Student,27 Aug 1996
+564,160133439,"Rombua, Darosila",F,Onne Ama,Household Duties,18 Feb 1995
+565,160240750,"Ron, Atipa",F,Apenda,Household Duties,23 May 1936
+566,160240770,"Ron, Poyem",F,Apenda,Student,07 Oct 1986
+567,160138089,"Ronny, Dorothy",F,Onne Ama,Household Duties,20 Jan 1994
+568,160138078,"Russel, Jobina",F,Onne Ama,Household Duties,10 May 1987
+569,160441473,"Russel, Netty",F,Onne Ama,Student,05 Jun 1996
+570,160441474,"Russell, Benila",F,Onne Ama,Student,16 Mar 2003
+571,160188215,"Sagaya, Martina",F,Apenda,Student,20 May 1986
+572,160188054,"Sagaya, Rumbame",F,Apenda,Household Duties,31 Dec 1938
+573,25083841,"Samoa, Doris",F,Onne Ama,Household Duties,20 Jan 1996
+574,25083842,"Samson, Enzelin",F,Onne Ama,Teacher,16 Feb 1994
+575,160180421,"Samson, Everlyn",F,Apenda,Household Duties,30 Jan 1955
+576,160180310,"Samson, Jackline",F,Apenda,Household Duties,02 Mar 1959
+577,160238551,"Samson, Lina",F,Apenda,Household Duties,01 Jan 1989
+578,160187417,"Samuel, Lina",F,Apenda,Household Duties,18 Dec 1978
+579,160239354,"Samuel, Sharon",F,Apenda,Household Duties,16 Jun 1976
+580,25083843,"Samuel, Vicky",F,Onne Ama,Teacher,26 Jan 2000
+581,160187328,"Sare, Salian",F,Apenda,Household Duties,23 Apr 1968
+582,160133453,"Saya, Alice",F,Onne Ama,Student,03 Jul 1997
+583,160133452,"Saya, Rondpi",F,Onne Ama,Student,04 Aug 1996
+584,160133410,"Saya, Sillar",F,Onne Ama,Student,10 Jun 1997
+585,160201061,"Sayasi, Ari",F,Apenda,Household Duties,31 Dec 1961
+586,160182704,"Sayasi, Biresi",F,Apenda,Household Duties,13 Oct 1946
+587,160201064,"Sayasi, Cheklla",F,Apenda,Housegirl,10 Oct 1970
+588,160182698,"Sayasi, Hondpong",F,Apenda,Household Duties,20 Nov 1949
+589,160176166,"Sayasi, Magarette",F,Apenda,Housegirl,27 Feb 1970
+590,160176183,"Sayasi, Monica",F,Apenda,Housegirl,15 Sep 1960
+591,160167391,"Sayasi, Popungu",F,Apenda,Student,28 Aug 1986
+592,160167387,"Sayasi, Stella",F,Apenda,Teacher,25 Dec 1987
+593,160171996,"Sayasi, Wape",F,Apenda,Housegirl,21 Oct 1947
+594,160176162,"Sayasi, Wari",F,Apenda,Housegirl,20 Oct 1968
+595,160172025,"Sayasi, Yopu",F,Apenda,Student,04 Dec 1988
+596,160160501,"Senis, Esther",F,Apenda,Housegirl,17 Jul 1981
+597,160237451,"Senis, Jenny",F,Apenda,Household Duties,14 Jan 1984
+598,160133347,"Sepsi, Martha",F,Onne Ama,Household Duties,27 Nov 1996
+599,160218381,"Shark, Maria",F,Apenda,Household Duties,01 Jan 1978
+600,160185726,"Simili, Cathy",F,Apenda,Household Duties,19 Dec 1977
+601,160151430,"Simili, Nancy",F,Apenda,Student,19 Jul 1989
+602,160238847,"Simili, Veronica",F,Apenda,Store Keeper,23 Mar 1990
+603,160215850,"Simon, Buka",F,Apenda,Household Duties,10 Sep 1975
+604,25083845,"Simon, Esrah",F,Onne Ama,Student,12 Mar 2001
+605,160239048,"Simon, Helen",F,Apenda,Student,12 Jan 1992
+606,160237338,"Simon, Janet",F,Apenda,Nurse,20 Dec 1971
+607,160138083,"Simon, Jenny",F,Onne Ama,Household Duties,12 Sep 1996
+608,160238552,"Simon, Joycelyn",F,Apenda,Household Duties,01 Jan 1986
+609,160240588,"Simon, Ruth",F,Apenda,Household Duties,16 Mar 1980
+610,160187901,"Simon, Salian",F,Apenda,Household Duties,22 Feb 1977
+611,25083847,"Simon, Selly",F,Onne Ama,Student,19 Aug 2001
+612,25083848,"Simon, Vickey",F,Onne Ama,Student,28 Apr 2004
+613,160176106,"Soko, Miriam",F,Apenda,Household Duties,26 Apr 1949
+614,160189915,"Steven, Alen",F,Apenda,Household Duties,21 Jul 1972
+615,160138098,"Steven, Bevelyn",F,Onne Ama,Household Duties,02 Apr 1993
+616,160237452,"Steven, Charlote",F,Apenda,Student,19 Jan 1983
+617,160133459,"Steven, Deekay",F,Onne Ama,Household Duties,08 Nov 1994
+618,160190529,"Steven, Doris",F,Apenda,Household Duties,23 May 1970
+619,25083849,"Steven, Maria",F,Onne Ama,Self Employed,19 Jul 1988
+620,25083850,"Steven, Tina",F,Onne Ama,Student,05 Aug 1996
+621,25083851,"Steven, Venisa",F,Onne Ama,Self Employed,11 Feb 1990
+622,25083852,"Steven, Welma",F,Onne Ama,Student,28 Apr 2004
+623,25083853,"Steven, Witna",F,Onne Ama,Student,28 Apr 2003
+624,160188330,"Steven, Yakenog",F,Apenda,Household Duties,22 Jun 1973
+625,160201022,"Suini, Betty",F,Apenda,Student,03 Jul 1980
+626,160201799,"Suini, Julian",F,Apenda,Household Duties,24 Jan 1969
+627,160201758,"Suini, Marala",F,Apenda,Household Duties,05 Mar 1955
+628,160201757,"Suini, Marian",F,Apenda,Household Duties,12 Jul 1945
+629,160201020,"Suini, Nancy",F,Apenda,Household Duties,30 Jun 1966
+630,160187570,"Tepnis, Rachael",F,Apenda,Household Duties,20 Dec 1986
+631,160202417,"Terence, Brestina",F,Apenda,Housegirl,03 May 1986
+632,160202467,"Terence, Joice",F,Apenda,Household Duties,24 Jun 1974
+633,160202419,"Terence, Nicol",F,Apenda,Student,15 Oct 1989
+634,160240746,"Thomas, Agnes",F,Apenda,Household Duties,04 Sep 1967
+635,160201039,"Thomas, Beki",F,Apenda,Household Duties,24 Sep 1975
+636,160441482,"Thomas, Cynthia",F,Onne Ama,Student,15 Jun 2000
+637,160133450,"Thomas, Cyntia",F,Onne Ama,Student,15 Mar 1998
+638,160194737,"Thomas, Delma",F,Apenda,Student,28 Oct 1986
+639,160240700,"Thomas, Dorika",F,Apenda,Student,10 Feb 1986
+640,160196683,"Thomas, Lucy",F,Apenda,Student,24 Dec 1989
+641,160201272,"Thomas, Margarette",F,Apenda,Household Duties,28 Jul 1977
+642,160237447,"Thomas, Papinta",F,Apenda,Store Keeper,06 Oct 1986
+643,160188355,"Thomas, Rachael",F,Apenda,Teacher,12 Apr 1973
+644,25083854,"Tim, Crystol",F,Onne Ama,Student,28 Apr 2004
+645,160188666,"Tim, Lia",F,Apenda,Student,10 Dec 1988
+646,160133447,"Tim, Nodo",F,Onne Ama,Household Duties,18 Sep 1994
+647,160240884,"Tim, Rosa",F,Apenda,Household Duties,17 Feb 1972
+648,160188490,"Tim, Roselyn",F,Apenda,Household Duties,24 Dec 1973
+649,25083858,"Tim, Tina",F,Onne Ama,Household Duties,17 Apr 1991
+650,160138085,"Timon, Eli",F,Onne Ama,Student,05 Jun 1995
+651,160177689,"Timon, Jerol",F,Apenda,Student,25 Oct 1987
+652,160133339,"Timon, Lucy",F,Onne Ama,Household Duties,03 Sep 1983
+653,160239045,"Timon, Lucy",F,Apenda,Household Duties,17 May 1972
+654,160133338,"Timon, Wini",F,Onne Ama,Household Duties,14 Mar 1984
+655,160133289,"Timothy, Roselyn",F,Onne Ama,Household Duties,19 Sep 1981
+656,160216562,"Tinola, Malpi",F,Apenda,Household Duties,17 Feb 1982
+657,160216570,"Tinola, Nancy",F,Apenda,Household Duties,20 Apr 1968
+658,160185591,"Tio, Lina",F,Apenda,Household Duties,09 Apr 1970
+659,160180987,"Tio, Lovina",F,Apenda,Student,01 Oct 1987
+660,160188012,"Tio, Nancy",F,Apenda,Household Duties,15 Oct 1977
+661,160180572,"Tio, Nolenia",F,Apenda,Student,01 Dec 1988
+662,160185549,"Tio, Polenia",F,Apenda,Student,06 Aug 1989
+663,160441485,"Tiyo, Ruth",F,Onne Ama,Nurse,12 Jun 1972
+664,160201674,"Tom, Cathy",F,Apenda,Student,12 Mar 1986
+665,160238769,"Tom, Christina",F,Apenda,Household Duties,12 Dec 1956
+666,160238553,"Tom, Daniela",F,Apenda,Subsistence Farmer,19 Feb 1979
+667,160201556,"Tom, Dorothy",F,Apenda,Household Duties,10 Oct 1984
+668,160133335,"Tom, Julie",F,Onne Ama,Public Servant,17 Sep 1984
+669,160441487,"Tom, Lavina",F,Onne Ama,Typist,30 Dec 1983
+670,160201555,"Tom, Regie",F,Apenda,Household Duties,09 Apr 1977
+671,160441488,"Tom, Roselin",F,Onne Ama,Household Duties,03 Sep 1966
+672,160201677,"Tom, Samanta",F,Apenda,Student,12 Apr 1988
+673,160238770,"Tom, Scolli",F,Apenda,Student,15 Apr 1986
+674,160201671,"Tom, Sendra",F,Apenda,Household Duties,27 Apr 1973
+675,160237620,"Tom, Sila",F,Apenda,Subsistence Farmer,18 May 1980
+676,160201837,"Tom, Susan",F,Apenda,Household Duties,05 Apr 1971
+677,160201756,"Tom, Vera",F,Apenda,Student,10 Sep 1990
+678,160441489,"Tom, Wilma",F,Onne Ama,Subsistence Farmer,21 May 1980
+679,160193482,"Tonny, Luthia",F,Apenda,Household Duties,28 Feb 1971
+680,160160607,"Ukulsi, Anna",F,Apenda,Housegirl,15 Sep 1979
+681,160172024,"Ukulsi, Renone",F,Apenda,Household Duties,15 Oct 1940
+682,25083860,"Wais, Roselyn",F,Onne Ama,Student,11 Nov 2000
+683,160237453,"Walis, Bun",F,Apenda,Student,04 Oct 1980
+684,160240771,"Walis, Maria",F,Apenda,Household Duties,19 Mar 1978
+685,160239359,"Wanpis, Martina",F,Apenda,Household Duties,19 May 1969
+686,25083862,"Wasi, Nondo",F,Onne Ama,Self Employed,11 Feb 1988
+687,25083863,"Wasi, Pamela",F,Onne Ama,Student,28 Apr 2004
+688,160191011,"Wasi, Pondopame",F,Apenda,Household Duties,01 Jan 1930
+689,160215485,"Wemili, Anna",F,Apenda,Household Duties,26 Jun 1977
+690,160237347,"Weno, Everlyn",F,Apenda,Student,06 Oct 1985
+691,160217838,"Weno, Nogosi",F,Apenda,Household Duties,05 Oct 1965
+692,160173503,"Wenol, Akipi",F,Apenda,Household Duties,22 Feb 1964
+693,160198689,"Wenol, Anna",F,Apenda,Housegirl,27 Jul 1979
+694,160173562,"Wenol, Malai",F,Apenda,Housegirl,23 Apr 1969
+695,160173431,"Wenol, Soline",F,Apenda,Housegirl,22 Mar 1967
+696,160193467,"Wepi, Bopu",F,Apenda,Household Duties,28 Nov 1976
+697,25083864,"Wepi, Christy",F,Onne Ama,Student,28 Apr 2004
+698,160197287,"Wepi, Kipuren",F,Apenda,Household Duties,01 Jun 1900
+699,160240765,"Wepi, Lin",F,Apenda,Household Duties,19 Jan 1958
+700,160193567,"Wepi, Margertte",F,Apenda,Household Duties,12 Feb 1944
+701,160230723,"Wepi, Nancy",F,Apenda,Student,01 Jan 1989
+702,160191023,"Wepi, Piso",F,Apenda,Housegirl,12 Jun 1978
+703,160191236,"Wepi, Rose",F,Apenda,Household Duties,12 Apr 1978
+704,160133471,"Wepi, Tina",F,Onne Ama,Student,02 Jan 1999
+705,160138120,"Wepi, Vera",F,Onne Ama,Student,12 Apr 1997
+706,160133460,"Wepi, Walin",F,Onne Ama,Store Keeper,02 Mar 1991
+707,160218865,"Wepo, Betty",F,Apenda,Household Duties,02 Nov 1975
+708,160133350,"Wepo, Ipopia",F,Onne Ama,Household Duties,26 May 1984
+709,160210569,"Wepo, Monica",F,Apenda,Student,10 Dec 1989
+710,160220899,"Wepo, Rachael",F,Apenda,Student,11 Jul 1986
+711,160221908,"Wepo, Sana",F,Apenda,Household Duties,13 Feb 1957
+712,160220984,"Wepo, Wendy",F,Apenda,Student,08 Sep 1988
+713,160219251,"Wepo, Wesi",F,Apenda,Household Duties,22 May 1954
+714,160220893,"Wepo, Wina",F,Apenda,Student,07 Feb 1989
+715,160188491,"Wesi, Bun",F,Apenda,Housegirl,11 Dec 1984
+716,160201839,"Wesi, Sep",F,Apenda,Housegirl,12 Feb 1984
+717,160201836,"Wesi, Sipak",F,Apenda,Subsistence Farmer,25 Dec 1981
+718,160201263,"Weta, Angnes",F,Apenda,Household Duties,29 Dec 1967
+719,160201266,"Weta, Wari",F,Apenda,Housegirl,29 May 1978
+720,160194513,"Wip, Ambiamu",F,Apenda,Household Duties,19 Apr 1960
+721,160190296,"Wip, Margartte",F,Apenda,Housegirl,14 Dec 1984
+722,160197335,"Yandowe, Bianu",F,Apenda,Household Duties,01 Jan 1937
+723,160197180,"Yandowe, Sana",F,Apenda,Housegirl,15 May 1979
+724,25083868,"Yandowe, Selvina",F,Onne Ama,Student,28 Apr 2004
+725,160240881,"Yaripa, Nogosi",F,Apenda,Student,22 Sep 1989
+726,160218523,"Yaripa, Pung",F,Apenda,Household Duties,25 Oct 1970
+727,160210904,"Yawe, Nowet",F,Apenda,Household Duties,25 Jul 1938
+728,160210905,"Yawe, Rekinong",F,Apenda,Housegirl,28 Jan 1948
+729,160210556,"Yawe, Wari",F,Apenda,Housegirl,05 Dec 1988
+730,160190469,"Zebedii, Nowem",F,Apenda,Household Duties,21 Apr 1979
+731,25083758,"Agane, Joseph",M,Onne Ama,Student,28 Apr 2002
+732,160173417,"Albert, Allie",M,Apenda,Student,13 Jan 1988
+733,160218908,"Albert, Andy",M,Apenda,Student,12 Oct 1989
+734,160238516,"Albert, Milford",M,Apenda,Student,07 Dec 1986
+735,160218515,"Albert, Paul",M,Apenda,Student,21 Oct 1990
+736,160237448,"Alenda, Jersy",M,Apenda,Subsistence Farmer,08 Oct 1967
+737,160196704,"Alenda, Joseph",M,Apenda,Subsistence Farmer,22 Sep 1958
+738,160201499,"Alenda, Nega",M,Apenda,Subsistence Farmer,28 Feb 1952
+739,160441332,"Alenda, Otto",M,Onne Ama,Subsistence Farmer,15 Mar 1987
+740,160441333,"Alenda, Russell",M,Onne Ama,Teacher,23 May 1991
+741,160240762,"Alenda, Thomas",M,Apenda,Subsistence Farmer,14 Feb 1966
+742,160199017,"Amua, Henry",M,Apenda,Subsistence Farmer,12 Oct 1967
+743,160239044,"Amua, Junior",M,Apenda,Student,16 Sep 1989
+744,160201371,"Amua, Timothy",M,Apenda,Student,10 Dec 1982
+745,160190514,"Andrew, Emmanuel",M,Apenda,Student,20 Dec 1988
+746,160210407,"Andrew, Ezekiel",M,Apenda,Student,12 Oct 1989
+747,160240698,"Andrew, Jamile",M,Apenda,Student,19 Mar 1990
+748,160133442,"Andrew, Nakisi",M,Onne Ama,Student,19 Aug 1995
+749,160188642,"Andrew, Semix",M,Apenda,Student,22 Mar 1990
+750,160173607,"Anepas, Pope",M,Apenda,Student,31 Oct 1986
+751,25083762,"Anga, Anua",M,Onne Ama,Student,21 Dec 1990
+752,25083764,"Anga, Felix",M,Onne Ama,Student,28 Apr 2002
+753,25083765,"Anga, Jacob",M,Onne Ama,Accountant,21 May 1982
+754,25083766,"Anga, Jaka",M,Onne Ama,Student,28 Apr 2004
+755,25083768,"Anga, Lina",M,Onne Ama,Household Duties,24 Sep 1975
+756,160201033,"Apkas, Samson",M,Apenda,Student,04 Mar 1988
+757,160190670,"Apkas, Samua",M,Apenda,Student,01 Feb 1990
+758,160199014,"Apkas, Samuel",M,Apenda,Student,12 Jan 1987
+759,160201375,"Apkas, Simon",M,Apenda,Student,04 Mar 1985
+760,160239356,"Ata, Steven",M,Apenda,Student,19 Mar 1989
+761,25083769,"Beli, Joe",M,Onne Ama,Self Employed,21 May 1980
+762,160178098,"Beli, Mekia",M,Apenda,Subsistence Farmer,19 Oct 1937
+763,160189846,"Beli, Mesi",M,Apenda,Subsistence Farmer,01 Jan 1934
+764,160187122,"Beli, Mungu",M,Apenda,Subsistence Farmer,01 Jan 1950
+765,160198312,"Beli, Nelson",M,Apenda,Subsistence Farmer,11 Jun 1938
+766,160197302,"Beli, Simon",M,Apenda,Subsistence Farmer,17 Jun 1949
+767,160197379,"Beli, Uku",M,Apenda,Subsistence Farmer,16 Apr 1952
+768,160133441,"Belli, Junior",M,Onne Ama,Student,18 Jul 1996
+769,160214028,"Bepi, Simon",M,Apenda,Cleaner,10 Dec 1970
+770,160187692,"Binowi, Keven",M,Apenda,Teacher,20 Feb 1951
+771,160240756,"Buka, John",M,Apenda,Driver,16 Oct 1962
+772,160240701,"Buka, Peter",M,Apenda,Councillor,19 Mar 1968
+773,160237445,"Buka, Philiphus",M,Apenda,Subsistence Farmer,17 Mar 1970
+774,160240760,"Buka, Pono",M,Apenda,Student,13 Nov 1974
+775,160240742,"Buka, Rale",M,Apenda,Subsistence Farmer,10 Dec 1972
+776,160441338,"Chris, Ferghill",M,Onne Ama,Student,29 Jan 1995
+777,160441339,"Chris, Ferguson",M,Onne Ama,Student,22 Nov 1998
+778,160441341,"Chris, Patrus",M,Onne Ama,Driver,18 Nov 1994
+779,160441342,"Chris, Peeji",M,Onne Ama,Driver,15 Nov 1998
+780,25083774,"Clement, Jason",M,Onne Ama,Student,28 Apr 2004
+781,25083776,"Clement, Satrick",M,Onne Ama,Student,28 Apr 2002
+782,160199013,"Daniel, Iso",M,Apenda,Student,28 Sep 1987
+783,160196725,"David, Issac",M,Apenda,Student,02 Apr 1984
+784,25083749,"David, Norman",M,Onne Ama,Student,28 Apr 2003
+785,160190774,"David, Robin",M,Apenda,Student,18 Mar 1976
+786,160238514,"Dee, Haward",M,Apenda,Student,17 Jan 1985
+787,160188425,"Dee, Inock",M,Apenda,Councillor,24 Oct 1976
+788,160237454,"Dee, Jackie",M,Apenda,Student,15 Nov 1986
+789,160238848,"Dee, Simon",M,Apenda,Student,16 Oct 1982
+790,160221989,"Dina, Oko",M,Apenda,Student,18 Feb 1988
+791,160239352,"Dominic, Nathen",M,Apenda,Storeman,13 Jan 1991
+792,160187747,"Dominic, Russel",M,Apenda,Student,12 Oct 1990
+793,160215838,"Ekomu, David",M,Apenda,Aid Post Orderly,01 Jan 1961
+794,160217837,"Ekomu, Neombu",M,Apenda,Subsistence Farmer,01 Jan 1950
+795,160194711,"Elizah, Nimrod",M,Apenda,Student,09 Dec 1988
+796,160441347,"Embosi, Ammon",M,Onne Ama,Student,14 Feb 2003
+797,160441349,"Embosi, Johnson",M,Onne Ama,Driver,12 Nov 1977
+798,160188068,"Embosi, Mone",M,Apenda,Security,10 May 1978
+799,160187144,"Embosi, Tunu",M,Apenda,Student,11 Jun 1979
+800,160194581,"Endeleme, Nawe",M,Apenda,Subsistence Farmer,12 Jul 1945
+801,160188065,"Epeyeme, Paki",M,Apenda,Driver,15 Dec 1979
+802,160185697,"Epoko, Charlie",M,Apenda,Student,21 Jun 1972
+803,160185609,"Epoko, Elington",M,Apenda,Student,25 Dec 1979
+804,160186041,"Epoko, John",M,Apenda,Worker,23 Feb 1957
+805,160202410,"Epond, Mexon",M,Apenda,Student,20 May 1987
+806,160441351,"Esom, Darucilla",M,Onne Ama,Student,04 Feb 1995
+807,160441353,"Fredy, Philip",M,Onne Ama,Student,06 Apr 2000
+808,160133369,"George, Abel",M,Onne Ama,Sales Women,15 Oct 1998
+809,160133444,"George, Boby",M,Onne Ama,Student,16 Feb 1998
+810,160138126,"George, David",M,Onne Ama,Dental Therapist,15 Jul 1990
+811,160133228,"George, Jerrery",M,Onne Ama,Sales Women,26 Aug 1994
+812,160133370,"George, John",M,Onne Ama,Sales Women,02 Jun 1995
+813,160133368,"George, Joshua",M,Onne Ama,Sales Women,31 May 1998
+814,160239047,"Gibson, Jadie",M,Apenda,Storeman,19 Oct 1986
+815,160237456,"Gibson, Martin",M,Apenda,Student,17 Sep 1983
+816,160201260,"Gilbert, Deric",M,Apenda,Student,27 Oct 1987
+817,160133443,"Gilbert, Jesta",M,Onne Ama,Student,23 Sep 1994
+818,160133287,"Gilbert, Steven",M,Onne Ama,Student,17 Jun 1994
+819,160197253,"Gilbert, Theophil",M,Apenda,Student,08 Oct 1990
+820,160133440,"Gilbert, Titus",M,Onne Ama,Student,24 Dec 1994
+821,160215500,"Giru, Jerry",M,Apenda,Student,31 Dec 1985
+822,160237437,"Giru, Lemek",M,Apenda,Student,02 Dec 1992
+823,160441354,"Glen, Apeli",M,Onne Ama,Subsistence Farmer,15 Sep 1986
+824,160441355,"Glen, Junior",M,Onne Ama,Student,28 Apr 2004
+825,160441356,"Glen, Manu",M,Onne Ama,Student,13 Jun 2000
+826,160196625,"Goawo, Yandowe",M,Apenda,Subsistence Farmer,01 Jan 1934
+827,160133472,"Hano, Aboi",M,Onne Ama,Student,20 Feb 1999
+828,160187381,"Humenge, Paul",M,Apenda,Student,02 Nov 1989
+829,160210209,"Indua, Mathew",M,Apenda,Bricklayer,13 Jun 1951
+830,160201833,"Inua, Wesi",M,Apenda,Subsistence Farmer,02 Jan 1944
+831,160190473,"Ipule, Alu",M,Apenda,Student,25 Jun 1985
+832,160212381,"Ipule, Andrew",M,Apenda,Pastor,12 Jun 1968
+833,160187900,"Ipule, Enock",M,Apenda,Subsistence Farmer,16 Dec 1975
+834,160187909,"Ipule, Michael",M,Apenda,Mechanic,24 Jun 1976
+835,160190467,"Ipule, Zebedi",M,Apenda,Welder,07 Nov 1978
+836,160198847,"Issac, Manu",M,Apenda,Student,04 May 1990
+837,160441357,"Issac, Patual",M,Onne Ama,Student,04 Jun 1993
+838,160190477,"Jack, Jeremiah",M,Apenda,Student,21 Apr 1987
+839,160184504,"Jack, Jerry",M,Apenda,Student,24 Jul 1990
+840,25083785,"Jacob, Alista",M,Onne Ama,Student,25 Apr 1999
+841,25083787,"Jacob, Joshua",M,Onne Ama,Student,28 Apr 2000
+842,25083788,"Jacob, Junior anga",M,Onne Ama,Student,28 Apr 2003
+843,160217888,"James, Alfred",M,Apenda,Student,03 Apr 1986
+844,160239176,"James, Aloise",M,Apenda,Student,15 Oct 1987
+845,160216578,"James, Rabas",M,Apenda,Student,12 Apr 1988
+846,160239050,"James, Sande",M,Apenda,Student,19 Nov 1990
+847,160237501,"Jessy, Daniel",M,Apenda,Student,16 Mar 1993
+848,25083792,"Jethro, Fai",M,Onne Ama,Lecturer,25 Mar 1989
+849,160441361,"Jim, Joshua",M,Onne Ama,Student,11 Apr 2004
+850,160441364,"Jim, Samistisral",M,Onne Ama,Student,28 Apr 2004
+851,25083794,"Joel, Waia",M,Onne Ama,Student,28 Apr 2004
+852,160138087,"John, Andy",M,Onne Ama,Student,04 Aug 1997
+853,160189697,"John, Ban",M,Apenda,Student,01 Dec 1987
+854,160193607,"John, Ben",M,Apenda,Student,23 Sep 1981
+855,160238885,"John, Chris",M,Apenda,Student,01 Jun 1985
+856,160237443,"John, Dickson",M,Apenda,Student,15 Jan 1982
+857,160238886,"John, Gina",M,Apenda,Student,10 Sep 1989
+858,160177395,"John, Jackson",M,Apenda,Student,21 Jun 1989
+859,160239199,"John, Joana",M,Apenda,Student,03 Nov 1992
+860,160239198,"John, Johnny",M,Apenda,Student,02 Jan 1977
+861,160441365,"John, Jud",M,Onne Ama,Student,02 May 2002
+862,160190036,"John, Junior",M,Apenda,Student,13 Mar 1986
+863,160198384,"John, Mano",M,Apenda,Student,30 Oct 1987
+864,160194731,"John, Preslie",M,Apenda,Student,12 Dec 1977
+865,160441366,"John, Rexen",M,Onne Ama,Subsistence Farmer,09 Nov 1991
+866,160133343,"John, Samson",M,Onne Ama,Student,25 Dec 1998
+867,160133458,"John, Wepki",M,Onne Ama,Student,03 Dec 1998
+868,160441367,"John, Willie",M,Onne Ama,Student,16 Dec 2000
+869,160237458,"Joseph, Josopeth",M,Apenda,Student,15 Sep 1982
+870,160441368,"Joseph, Kapul",M,Onne Ama,Subsistence Farmer,15 Apr 1991
+871,160218520,"Joseph, Mackop",M,Apenda,Student,10 Dec 1984
+872,160201583,"Joseph, Pakea",M,Apenda,Student,10 Oct 1985
+873,160133416,"Joseph, Raphael",M,Onne Ama,Student,20 Mar 1997
+874,160201691,"Joseph, Ronal",M,Apenda,Student,04 Mar 1987
+875,160201760,"Joseph, Ronnie",M,Apenda,Student,02 Mar 1984
+876,160133415,"Joseph, Smith",M,Onne Ama,Student,27 Feb 1998
+877,160218909,"Joseph, Thomas",M,Apenda,Subsistence Farmer,11 Sep 1978
+878,25083796,"Joseph, Undi",M,Onne Ama,Student,28 Apr 2004
+879,160239056,"Joshua, Solo",M,Apenda,Student,09 Nov 1993
+880,160441370,"Julius, Benstone",M,Onne Ama,Student,12 Dec 1996
+881,160239358,"Julius, Michael",M,Apenda,Student,15 Nov 1993
+882,25083797,"Junior, Dorish",M,Onne Ama,Household Duties,28 Apr 1980
+883,25083801,"Junior, Repa",M,Onne Ama,Student,28 Apr 2001
+884,25083803,"Junior, Rolina",M,Onne Ama,Student,28 Apr 2004
+885,160238768,"Kambelom, Tom",M,Apenda,Subsistence Farmer,19 Jan 1961
+886,160198548,"Kapanda, Anton",M,Apenda,Student,07 Jan 1984
+887,160207219,"Kapanda, Dina",M,Apenda,Subsistence Farmer,11 Feb 1969
+888,160221931,"Kapanda, Don",M,Apenda,Student,10 Dec 1987
+889,160204163,"Kapanda, Kingi",M,Apenda,Student,12 Apr 1986
+890,160202348,"Kapanda, Noneia",M,Apenda,Student,06 Nov 1989
+891,160198892,"Kapanda, Richard",M,Apenda,Student,02 Apr 1987
+892,160202245,"Kapanda, Wanpis",M,Apenda,Student,12 Mar 1975
+893,160237464,"Kapenda, Joel",M,Apenda,Student,19 May 1990
+894,160133420,"Kasu, Kenep",M,Onne Ama,Clerk,04 Jul 1962
+895,160133448,"Kembe, Noel",M,Onne Ama,Pastor,10 Sep 1973
+896,160220754,"Kembeeli, Joseph",M,Apenda,Subsistence Farmer,07 Sep 1976
+897,160222103,"Kembeeli, Wepo",M,Apenda,Subsistence Farmer,11 Feb 1949
+898,160196613,"Kembelom, Benjamin",M,Apenda,Subsistence Farmer,20 Sep 1971
+899,160196601,"Kembelom, Daniel",M,Apenda,Pastor,09 Oct 1974
+900,160198815,"Kembelom, Issac",M,Apenda,Subsistence Farmer,22 Aug 1970
+901,160196607,"Kembelom, Kep",M,Apenda,Subsistence Farmer,29 Nov 1974
+902,160198828,"Kembelom, Peter",M,Apenda,Subsistence Farmer,21 Mar 1977
+903,160197402,"Kembelom, Rasta",M,Apenda,Student,27 Aug 1989
+904,160198826,"Kembelom, Reti",M,Apenda,Student,10 Jan 1984
+905,160441374,"Kembeyeli, Stanton",M,Onne Ama,Student,01 May 2001
+906,160441375,"Kembeyeli, Staworo",M,Onne Ama,Subsistence Farmer,02 Feb 1992
+907,160198304,"Kemblom, Kongo",M,Apenda,Subsistence Farmer,04 Nov 1959
+908,160133424,"Kenep, Beri",M,Onne Ama,Driver,24 Jun 1984
+909,160133433,"Kenep, Billy",M,Onne Ama,Student,09 Jan 1999
+910,160133426,"Kenep, Bobby",M,Onne Ama,Salesman,12 Nov 1987
+911,160133432,"Kenep, Bullet",M,Onne Ama,Student,03 Mar 1999
+912,160138082,"Kenep, Enoch",M,Onne Ama,Not Specified,06 Feb 1999
+913,160133427,"Kenep, Steven",M,Onne Ama,Student,20 Mar 1999
+914,160201770,"Kenga, Dominic",M,Apenda,Worker,30 Sep 1970
+915,160190060,"Kenga, Johnson",M,Apenda,Student,21 Apr 1988
+916,160196846,"Kenga, Steven",M,Apenda,Teacher,17 May 1976
+917,160196691,"Kenga, Tio",M,Apenda,Subsistence Farmer,27 Apr 1973
+918,160133363,"Kep, Abraham",M,Onne Ama,Sales Women,16 Jan 1985
+919,160441376,"Kep, Manu",M,Onne Ama,Student,08 Sep 1994
+920,160133364,"Kep, Nolpi",M,Onne Ama,Dental Therapist,29 May 1990
+921,160138122,"Kep, Samuel",M,Onne Ama,Not Specified,30 Apr 1996
+922,160441377,"Kerap, Ban",M,Onne Ama,Mechanic,10 Nov 1992
+923,160441378,"Kerap, Ben",M,Onne Ama,Subsistence Farmer,08 May 1996
+924,160441379,"Kerap, Ceekay",M,Onne Ama,Student,12 Dec 2001
+925,160441380,"Kerap, Elijah",M,Onne Ama,Student,05 Jan 2000
+926,160441381,"Kerap, Elstom",M,Onne Ama,Student,05 Jul 2003
+927,160441383,"Kerap, George",M,Onne Ama,Public Servant,25 Dec 1981
+928,160441386,"Kerap, John",M,Onne Ama,Subsistence Farmer,01 Apr 1969
+929,160441387,"Kerap, Jonny boy",M,Onne Ama,Student,03 Feb 2003
+930,160441388,"Kerap, Joram",M,Onne Ama,Student,21 Jan 2000
+931,160441389,"Kerap, Joseph",M,Onne Ama,Accountant,24 Sep 1981
+932,160441393,"Kerap, Kariap",M,Onne Ama,Doctor,01 Aug 1968
+933,160441394,"Kerap, Kerapson",M,Onne Ama,Student,28 Apr 2003
+934,160441397,"Kerap, Ledwin",M,Onne Ama,Student,22 Nov 2000
+935,160441398,"Kerap, Luther",M,Onne Ama,Subsistence Farmer,01 Feb 1984
+936,160441400,"Kerap, Mecquin",M,Onne Ama,Student,12 Nov 2003
+937,160441404,"Kerap, Presley",M,Onne Ama,Technician,08 Nov 1969
+938,160183032,"Keri, Fewal",M,Apenda,Student,10 Apr 1990
+939,160185744,"Keven, Gorden",M,Apenda,Student,14 Dec 1990
+940,160238845,"Kila, Jackie",M,Apenda,Student,13 Feb 1993
+941,160237339,"Kila, Pius",M,Apenda,Student,10 Mar 1991
+942,160190755,"Kili, Andrew",M,Apenda,Teacher,11 Apr 1978
+943,160191039,"Kili, Frank",M,Apenda,Student,02 Oct 1986
+944,160191242,"Kili, James",M,Apenda,Student,23 Jul 1980
+945,160190769,"Kili, Justin",M,Apenda,Student,11 Mar 1984
+946,160188350,"Kili, Peter",M,Apenda,Teacher,23 Jun 1975
+947,160237439,"Kili, Rumbe",M,Apenda,Student,21 Oct 1990
+948,160133412,"Kilipia, Cyrus",M,Onne Ama,Student,24 Oct 1997
+949,160237342,"Kilipia, Lasman",M,Apenda,Student,10 Mar 1985
+950,160210969,"Kilipia, Norman",M,Apenda,Store Keeper,13 Oct 1960
+951,160210212,"Kilipia, Obert",M,Apenda,Driver,20 Oct 1963
+952,160211327,"Kilipia, Stanley",M,Apenda,Subsistence Farmer,06 Nov 1982
+953,160177849,"Kimi, Kotop",M,Apenda,Subsistence Farmer,14 Jul 1952
+954,160441411,"Kinpia, Nupi",M,Onne Ama,Store Keeper,12 Jan 1988
+955,160196686,"Kirepe, John",M,Apenda,Subsistence Farmer,02 Mar 1932
+956,160216581,"Kisim, Kinjup",M,Apenda,Subsistence Farmer,29 Jul 1972
+957,160217891,"Kisim, Nelson",M,Apenda,Student,26 Mar 1984
+958,25083804,"Koka, Jessy",M,Onne Ama,Student,15 Jun 2002
+959,25083805,"Koka, Kaso",M,Onne Ama,Subsistence Farmer,18 Jun 1974
+960,25083806,"Koka, Mulip",M,Onne Ama,Self Employed,15 Dec 1989
+961,25083751,"Koka, Setric",M,Onne Ama,Student,19 Mar 2000
+962,160201151,"Kongo, Arty",M,Apenda,Student,12 Jun 1987
+963,160201000,"Kongo, Kelly",M,Apenda,Student,28 Jul 1990
+964,160184528,"Laki, George",M,Apenda,Student,29 Sep 1990
+965,160198855,"Leslie, Colin",M,Apenda,Student,31 Dec 1986
+966,160198853,"Leslie, Lincon",M,Apenda,Student,30 Jan 1984
+967,160441412,"Lipu, Addamshane",M,Onne Ama,Student,20 May 2000
+968,160441417,"Lipu, Paul",M,Onne Ama,Driver,18 Sep 1985
+969,160133417,"Loepi, Lesley",M,Onne Ama,Student,28 Feb 1999
+970,160201032,"Luke, Benson",M,Apenda,Student,05 Jul 1982
+971,160201363,"Luke, Melen",M,Apenda,Student,08 Apr 1987
+972,160201034,"Luke, Robin",M,Apenda,Student,12 Jul 1984
+973,160441421,"Luke, Samist",M,Onne Ama,Student,19 Jun 2000
+974,160237506,"Luke, Samson",M,Apenda,Student,10 Apr 1992
+975,160441423,"Makon, John",M,Onne Ama,Subsistence Farmer,06 Apr 1956
+976,160204881,"Makup, Kapanda",M,Apenda,Subsistence Farmer,04 Nov 1973
+977,160218064,"Makup, Rim",M,Apenda,Subsistence Farmer,31 Dec 1969
+978,160239202,"Manase, James",M,Apenda,Student,19 Oct 1972
+979,160202530,"Mark, Ali",M,Apenda,Student,21 Mar 1984
+980,25083810,"Mark, Clipe",M,Onne Ama,Student,28 Apr 2002
+981,160182856,"Mark, Firman",M,Apenda,Student,24 May 1988
+982,160202642,"Mark, Joebet",M,Apenda,Teacher,27 Jul 1972
+983,160210501,"Mark, Leslie",M,Apenda,Accountant,01 Mar 1967
+984,160197303,"Mark, Metso",M,Apenda,Teacher,03 May 1975
+985,160197378,"Mark, Nalle",M,Apenda,Subsistence Farmer,21 Aug 1979
+986,160175792,"Mark, Noa",M,Apenda,Student,21 Sep 1990
+987,160133411,"Mark, Noel",M,Onne Ama,Student,31 Dec 1998
+988,160194508,"Mark, Peter",M,Apenda,Subsistence Farmer,21 Nov 1982
+989,160202528,"Mark, Samua",M,Apenda,Student,18 Dec 1981
+990,160216594,"Mark, Wesis",M,Apenda,Subsistence Farmer,25 May 1986
+991,160202536,"Mart, Micheal",M,Apenda,Subsistence Farmer,17 Apr 1950
+992,160201553,"Mart, Tom",M,Apenda,Foreman,12 Feb 1967
+993,160173440,"Mart, Wanpis",M,Apenda,Subsistence Farmer,31 Oct 1981
+994,25083815,"Martin, Maiksn",M,Onne Ama,Student,28 Apr 2001
+995,25083816,"Martin, Sito",M,Onne Ama,Student,28 Apr 2003
+996,25083818,"Mat, Lucas",M,Onne Ama,Self Employed,01 Dec 1984
+997,160173420,"Mathew, Bolla",M,Apenda,Subsistence Farmer,17 Apr 1951
+998,160210903,"Mathew, Hivan",M,Apenda,Carpenter,04 Dec 1973
+999,160210564,"Mathew, Junior",M,Apenda,Student,07 Aug 1987
+1000,160173498,"Mathew, Justin",M,Apenda,Teacher,18 Mar 1967
+1001,160173518,"Mathew, Michen",M,Apenda,Store Keeper,19 Feb 1970
+1002,160210210,"Mathew, Simon",M,Apenda,Worker,24 Jun 1930
+1003,160198858,"Max, Edward",M,Apenda,Student,21 Jul 1989
+1004,160237505,"Max, Kuni",M,Apenda,Student,01 Jan 1983
+1005,160201409,"Mekia, Gibson",M,Apenda,Subsistence Farmer,03 Aug 1973
+1006,160201794,"Mekia, John",M,Apenda,Carpenter,09 Jun 1959
+1007,160177452,"Mekia, Joseph",M,Apenda,Student,07 Nov 1969
+1008,160173453,"Mekia, Membi",M,Apenda,Subsistence Farmer,17 Apr 1974
+1009,160198796,"Mekia, Posu",M,Apenda,Subsistence Farmer,15 Aug 1970
+1010,160230728,"Mekia, Senis",M,Apenda,Student,01 Jan 1988
+1011,160177683,"Mekia, Timon",M,Apenda,Cashier,29 Apr 1957
+1012,160201393,"Mele, Joseph",M,Apenda,Student,01 Dec 1976
+1013,160201546,"Mele, Moses",M,Apenda,Student,22 Feb 1986
+1014,160184499,"Mele, Obert",M,Apenda,Student,10 Feb 1990
+1015,160201388,"Mele, Pesu",M,Apenda,Student,23 Apr 1980
+1016,25083820,"Melep, Willford",M,Onne Ama,Student,28 Apr 2004
+1017,160194599,"Membi, Benny",M,Apenda,Student,13 Dec 1983
+1018,160185495,"Mende, James",M,Apenda,Driver,12 Nov 1969
+1019,160441424,"Menge, Assick",M,Onne Ama,Subsistence Farmer,12 Feb 1986
+1020,160441425,"Menge, Dj",M,Onne Ama,Supervisor,15 Apr 1963
+1021,160212380,"Menge, Glen",M,Apenda,Subsistence Farmer,16 Feb 1958
+1022,160212910,"Menge, Jim",M,Apenda,Forest Officer,03 Feb 1979
+1023,160210469,"Menge, John",M,Apenda,Subsistence Farmer,01 Nov 1957
+1024,160212895,"Menge, Julius",M,Apenda,Houseboy,11 Feb 1989
+1025,160210471,"Menge, Luke",M,Apenda,Houseboy,01 Apr 1985
+1026,160441430,"Menge, O'neil",M,Onne Ama,Driver,06 May 1986
+1027,160441431,"Menge, Ombialu",M,Onne Ama,Student,29 Jan 1992
+1028,160189865,"Mesi, Humenge",M,Apenda,Subsistence Farmer,21 May 1970
+1029,160185723,"Mesi, Jack",M,Apenda,Subsistence Farmer,02 Mar 1964
+1030,160189702,"Mesi, Laki",M,Apenda,Subsistence Farmer,10 Dec 1967
+1031,160189868,"Mesi, Perene",M,Apenda,Carpenter,20 Oct 1961
+1032,160193640,"Michael, Gina",M,Apenda,Student,31 Dec 1983
+1033,160190463,"Michael, Jerol",M,Apenda,Student,27 Apr 1981
+1034,160190461,"Michael, Mark",M,Apenda,Store Keeper,28 Nov 1975
+1035,160202409,"Micheal, Benard",M,Apenda,Student,23 Aug 1986
+1036,25083821,"Micheal, Benet",M,Onne Ama,Subsistence Farmer,28 Apr 2004
+1037,25083822,"Micheal, Emil",M,Onne Ama,Casual Worker,27 Dec 1987
+1038,25083823,"Micheal, Kasua",M,Onne Ama,Baby Sitter,28 Apr 2004
+1039,25083824,"Micheal, Remond",M,Onne Ama,Subsistence Farmer,28 Apr 2004
+1040,160215103,"Miru, Para",M,Apenda,Driver,20 Sep 1964
+1041,160186020,"Miru, Sheperd",M,Apenda,Student,31 Oct 1982
+1042,160176098,"Mondlet, Pennd",M,Apenda,Subsistence Farmer,15 Jul 1950
+1043,160173416,"Mondolet, Kope",M,Apenda,Subsistence Farmer,16 Jun 1958
+1044,160213282,"Monga, Issac",M,Apenda,Student,14 Feb 1986
+1045,160210651,"Monga, Joshua",M,Apenda,Student,22 Jan 1969
+1046,160210475,"Monga, Kepi",M,Apenda,Salesman,03 Apr 1986
+1047,160239055,"Monga, Nupi",M,Apenda,Student,10 Mar 1987
+1048,160239192,"Monga, Palma",M,Apenda,Student,17 Jul 1992
+1049,160239191,"Monga, Pondo",M,Apenda,Student,24 Jul 1990
+1050,160237498,"Monga, Senis",M,Apenda,Student,14 Jul 1993
+1051,160210411,"Monga, Tomson",M,Apenda,Student,06 Nov 1988
+1052,160237500,"Monga, Tuwie",M,Apenda,Student,16 Mar 1991
+1053,160178113,"Mungu, Daniel",M,Apenda,Student,11 Dec 1990
+1054,160177805,"Mungu, Nathan",M,Apenda,Self Employed,20 Jan 1986
+1055,160133288,"Mungu, Vincent",M,Onne Ama,Student,15 Sep 1995
+1056,160237619,"Naki, David",M,Apenda,Student,13 Feb 1984
+1057,160185500,"Nakisolu, Kupu",M,Apenda,Baker,11 Dec 1979
+1058,160185754,"Nakisolu, Peter",M,Apenda,Student,27 Jun 1986
+1059,160187386,"Nakisolu, Piso",M,Apenda,Subsistence Farmer,16 Sep 1981
+1060,160187218,"Nakisolu, Ruku",M,Apenda,Student,23 Feb 1988
+1061,160215881,"Nakisolu, Wemili",M,Apenda,Subsistence Farmer,01 Jan 1978
+1062,160185490,"Nakisolu, Wenge",M,Apenda,Subsistence Farmer,24 Jul 1976
+1063,160441435,"Napas, Howard",M,Onne Ama,Student,19 Oct 2000
+1064,160441436,"Napas, Ipesa",M,Onne Ama,Student,12 Apr 2000
+1065,160441437,"Napas, Jerus",M,Onne Ama,Student,12 Nov 2000
+1066,160441439,"Napas, Junis",M,Onne Ama,Student,12 Apr 1999
+1067,160441442,"Natan, Beriston",M,Onne Ama,Student,08 Feb 1993
+1068,160441443,"Nathanial, Imnuel",M,Onne Ama,Student,07 Apr 1994
+1069,160197247,"Nawe, Iso",M,Apenda,Subsistence Farmer,28 Oct 1972
+1070,160198937,"Nawe, Thomas",M,Apenda,Subsistence Farmer,12 Aug 1952
+1071,160198919,"Nawe, Timothy",M,Apenda,Subsistence Farmer,12 Jan 1959
+1072,160201093,"Nega, Philimon",M,Apenda,Store Keeper,25 Dec 1983
+1073,160198366,"Nega, Rekop",M,Apenda,Store Keeper,26 Jun 1975
+1074,160201662,"Nelson, Hiropu",M,Apenda,Subsistence Farmer,14 Dec 1972
+1075,25083825,"Nem, Cletus",M,Onne Ama,Teacher,15 Apr 1988
+1076,160187242,"Nembo, Omi",M,Apenda,Student,30 Mar 1979
+1077,160187696,"Nembo, Sellie",M,Apenda,Subsistence Farmer,25 Jun 1978
+1078,160198832,"Nendep, David yapso",M,Apenda,Student,23 Jan 1982
+1079,160198824,"Nendep, Esom",M,Apenda,Student,03 Jan 1979
+1080,160441445,"Nendep, Kotu",M,Onne Ama,Student,01 Jan 2000
+1081,160197268,"Nendep, Nende",M,Apenda,Student,07 Feb 1983
+1082,160441446,"Nendep, Philip",M,Onne Ama,Subsistence Farmer,01 Aug 1986
+1083,160198658,"Nendep, Philip soti",M,Apenda,Student,01 May 1977
+1084,160198819,"Nendep, Saka iri",M,Apenda,Subsistence Farmer,11 Oct 1971
+1085,160198822,"Nendep, Walis anga",M,Apenda,Teacher,07 Jan 1976
+1086,160196615,"Nendep, Yosi",M,Apenda,Student,02 Dec 1988
+1087,25083826,"Nenga, Michael",M,Onne Ama,Student,28 Apr 2004
+1088,160215490,"Neombu, Joseph",M,Apenda,Carpenter,22 Jul 1968
+1089,160175615,"Nesi, Rimba",M,Apenda,Subsistence Farmer,20 Feb 1949
+1090,160201262,"Nesi, Weta",M,Apenda,Subsistence Farmer,28 Apr 1961
+1091,160138092,"Noel, Bredly",M,Onne Ama,Student,09 Apr 1993
+1092,160138090,"Noel, Gosen",M,Onne Ama,Subsistence Farmer,04 Oct 1989
+1093,160138091,"Noel, Nips",M,Onne Ama,Student,06 Dec 1997
+1094,160185593,"Noneia, David",M,Apenda,Subsistence Farmer,06 Mar 1967
+1095,160220619,"Noneia, Embosi",M,Apenda,Subsistence Farmer,01 Oct 1956
+1096,160176103,"Nopi, Albert",M,Apenda,Subsistence Farmer,20 Mar 1951
+1097,160237344,"Norman, Hupa",M,Apenda,Student,02 Sep 1984
+1098,160441451,"Nupi, Jetro",M,Onne Ama,Student,05 Dec 1997
+1099,160238518,"Obert, Amoniki",M,Apenda,Subsistence Farmer,18 Sep 1981
+1100,160238517,"Obert, Elbon",M,Apenda,Student,13 Jan 1989
+1101,160237346,"Obert, Handape",M,Apenda,Student,10 Feb 1983
+1102,160187313,"Ogake, Pupua",M,Apenda,Subsistence Farmer,29 Dec 1978
+1103,160215853,"Okom, Toambe",M,Apenda,Student,10 Feb 1988
+1104,160173429,"Olal, Wenol",M,Apenda,Teacher,21 Jan 1957
+1105,160197336,"Ombulap, Repeas",M,Apenda,Student,01 Feb 1986
+1106,160184666,"Ombulap, Titus",M,Apenda,Student,03 Apr 1990
+1107,160217843,"Orpa, Kobeam",M,Apenda,Subsistence Farmer,08 Jul 1982
+1108,160218051,"Orpa, Philimon",M,Apenda,Teacher,07 Aug 1959
+1109,160215993,"Orpa, Robert",M,Apenda,Salesman,28 Feb 1978
+1110,160217818,"Orpa, Viga",M,Apenda,Not Specified,21 Jan 1982
+1111,160185774,"Paki, Solomon",M,Apenda,Student,12 Oct 1990
+1112,25083827,"Papol, Norman",M,Onne Ama,Student,28 Apr 2004
+1113,160187312,"Para, Dickson",M,Apenda,Student,20 Jun 1989
+1114,160239039,"Patrick, Jackie",M,Apenda,Student,17 Feb 1990
+1115,160216587,"Patso, Mark",M,Apenda,Subsistence Farmer,12 Jan 1957
+1116,160191211,"Paul, Buka",M,Apenda,Doctor,27 Jan 1961
+1117,160185817,"Paul, Inock",M,Apenda,Student,24 Oct 1988
+1118,160187914,"Paul, Samson",M,Apenda,Student,15 Apr 1984
+1119,160190377,"Paul, Solomon",M,Apenda,Subsistence Farmer,28 Apr 1979
+1120,160197251,"Pawa, Gilbert",M,Apenda,Carpenter,25 Nov 1971
+1121,160202532,"Perene, Epond",M,Apenda,Subsistence Farmer,10 Sep 1965
+1122,160230727,"Perene, Firman",M,Apenda,Teacher,01 Jan 1983
+1123,160202654,"Perene, Inua",M,Apenda,Subsistence Farmer,02 Jan 1934
+1124,160180330,"Perene, Issac",M,Apenda,Driver,29 Oct 1957
+1125,160189700,"Perene, Jessie",M,Apenda,Teacher,07 Oct 1985
+1126,160202307,"Perene, John",M,Apenda,Driver,21 Sep 1974
+1127,160185728,"Perene, Nathen",M,Apenda,Student,23 Jun 1988
+1128,160133414,"Perene, Ofret",M,Onne Ama,Student,04 Nov 1998
+1129,160188363,"Perene, Sagaya",M,Apenda,Subsistence Farmer,22 Nov 1936
+1130,160180606,"Perene, Samson",M,Apenda,Supervisor,28 Jun 1954
+1131,160202466,"Perene, Terrence",M,Apenda,Teacher,30 Aug 1971
+1132,160201843,"Pesame, Suwini",M,Apenda,Subsistence Farmer,23 Oct 1942
+1133,160237441,"Peter, Kati",M,Apenda,Student,12 Feb 1990
+1134,25083829,"Peter, Maiya",M,Onne Ama,Student,28 Apr 2001
+1135,160441454,"Peter, Maya",M,Onne Ama,Student,23 Mar 2003
+1136,25083830,"Peya, Ryan",M,Onne Ama,Student,28 Apr 2004
+1137,25083832,"Peye, Peus",M,Onne Ama,Student,28 Apr 2004
+1138,160193463,"Peye, Steven",M,Apenda,Student,06 May 1986
+1139,160441458,"Philip, Ceekay",M,Onne Ama,Student,09 Apr 1995
+1140,160441459,"Philip, Fredy",M,Onne Ama,Student,02 Feb 2000
+1141,160210966,"Philip, Nemaya",M,Apenda,Subsistence Farmer,07 Oct 1985
+1142,160210746,"Philip, Papol",M,Apenda,Subsistence Farmer,04 Sep 1968
+1143,160441464,"Philip, Tracy",M,Onne Ama,Student,01 May 2003
+1144,160211329,"Philip, Wanpis",M,Apenda,Subsistence Farmer,01 Jul 1973
+1145,160441466,"Philipus, Ongum",M,Onne Ama,Student,15 Mar 2003
+1146,25083833,"Pinjo, Simon",M,Onne Ama,Self Employed,16 Mar 1977
+1147,160237461,"Piso, Martin",M,Apenda,Student,23 Jan 1991
+1148,160188469,"Poiye, Andrew",M,Apenda,Subsistence Farmer,01 Jan 1971
+1149,160206428,"Polopia, Mark",M,Apenda,Manager,02 Oct 1938
+1150,160217901,"Poyei, Giru",M,Apenda,Teacher,06 Apr 1966
+1151,160214024,"Poyei, Nakisi",M,Apenda,Subsistence Farmer,22 Nov 1969
+1152,160217824,"Poyei, Reki",M,Apenda,Subsistence Farmer,26 Jan 1969
+1153,160217827,"Poyei, Weno",M,Apenda,Subsistence Farmer,03 Oct 1968
+1154,160189866,"Pumb, Frincis",M,Apenda,Subsistence Farmer,27 Jun 1966
+1155,160185871,"Pumb, Jack",M,Apenda,Subsistence Farmer,22 Jan 1969
+1156,160189840,"Pumb, Jessy",M,Apenda,Subsistence Farmer,12 Oct 1971
+1157,160185877,"Pumb, John",M,Apenda,Subsistence Farmer,21 Dec 1976
+1158,160187907,"Pumb, Paul",M,Apenda,Subsistence Farmer,23 Apr 1958
+1159,160193614,"Pumb, Simon",M,Apenda,Pastor,20 Feb 1968
+1160,160133466,"Puna, Daniel",M,Onne Ama,Salesman,30 Jul 1989
+1161,160182855,"Puna, Eke",M,Apenda,Not Specified,22 Feb 1981
+1162,160215472,"Puna, Iropu",M,Apenda,Subsistence Farmer,19 Sep 1972
+1163,160182975,"Puna, Ismile",M,Apenda,Student,16 Apr 1982
+1164,160232012,"Puna, Jordan",M,Apenda,Subsistence Farmer,01 Jan 1985
+1165,160138076,"Puna, Nathan",M,Onne Ama,Student,15 Sep 1996
+1166,160185506,"Puna, Ogake",M,Apenda,Subsistence Farmer,11 Dec 1977
+1167,160239053,"Puna, Rale",M,Apenda,Subsistence Farmer,10 Nov 1979
+1168,160215085,"Puna, Samuel",M,Apenda,Not Specified,24 Oct 1976
+1169,160186034,"Puna, Susi",M,Apenda,Subsistence Farmer,26 Dec 1980
+1170,160175784,"Puna, Topa",M,Apenda,Student,16 Sep 1990
+1171,160191194,"Puringi, Wasi",M,Apenda,Subsistence Farmer,01 Mar 1900
+1172,160441467,"Redeas, Raymon",M,Onne Ama,Student,04 Apr 1993
+1173,160240878,"Reki, Kora",M,Apenda,Student,14 Apr 1986
+1174,160441468,"Rem, Joseph",M,Onne Ama,Mechanic,09 Apr 1979
+1175,160133361,"Rex, Amen",M,Onne Ama,Student,27 Sep 1998
+1176,160133357,"Rex, John",M,Onne Ama,Student,04 Aug 1989
+1177,160133356,"Rex, Koni",M,Onne Ama,Driver,31 Dec 1986
+1178,160133360,"Rex, Pale",M,Onne Ama,Student,14 Nov 1994
+1179,160133358,"Rex, Yamo",M,Onne Ama,Not Specified,17 Oct 1983
+1180,160237465,"Rim, Lerot",M,Apenda,Subsistence Farmer,13 Nov 1980
+1181,160237617,"Rim, Samuel",M,Apenda,Plantation Worker,12 May 1972
+1182,160188429,"Rima, Kila",M,Apenda,Student,04 Jun 1984
+1183,160201584,"Rima, Luke",M,Apenda,Subsistence Farmer,12 Jun 1961
+1184,160193611,"Rima, Peye",M,Apenda,Subsistence Farmer,26 Dec 1968
+1185,160210409,"Rima, Philip",M,Apenda,Subsistence Farmer,02 Nov 1940
+1186,160188370,"Rimba, James",M,Apenda,Student,11 Dec 1989
+1187,160172012,"Rimba, Joel",M,Apenda,Student,27 Jul 1980
+1188,160182428,"Rimba, Martin",M,Apenda,Student,29 Jan 1978
+1189,160176000,"Rimba, Nathen",M,Apenda,Student,26 May 1986
+1190,160441470,"Robin, Azion",M,Onne Ama,Student,28 Apr 2004
+1191,160186026,"Roka, Hebe",M,Apenda,Driver,13 Jun 1980
+1192,160187420,"Roka, Jerry",M,Apenda,Subsistence Farmer,16 Apr 1981
+1193,160215884,"Roka, Miru",M,Apenda,Subsistence Farmer,13 Nov 1930
+1194,160177844,"Roka, Nakisolu",M,Apenda,Subsistence Farmer,13 Aug 1932
+1195,160177960,"Roka, Opolu",M,Apenda,Health Officer,11 Sep 1930
+1196,160185502,"Roka, Rodney",M,Apenda,Subsistence Farmer,14 Nov 1979
+1197,160133366,"Rombo, Anderson",M,Onne Ama,Teacher,07 Jul 1996
+1198,160138125,"Rombo, George",M,Onne Ama,Machinist,24 May 1973
+1199,160133336,"Rombo, Ken",M,Onne Ama,Student,02 Jul 1998
+1200,160190308,"Ron, Billy",M,Apenda,Student,25 Aug 1979
+1201,160240751,"Ron, Inock",M,Apenda,Student,12 Nov 1980
+1202,160190305,"Ron, Willson",M,Apenda,Store Keeper,27 Dec 1976
+1203,160173418,"Ronpip, Mathew",M,Apenda,Policeman,17 May 1942
+1204,160441472,"Russel, Junior",M,Onne Ama,Student,15 Apr 2003
+1205,160441475,"Russell, Benly",M,Onne Ama,Student,26 May 2003
+1206,160441476,"Russell, Mcdozson",M,Onne Ama,Student,15 Mar 2000
+1207,160187251,"Sagaya, Marin",M,Apenda,Student,29 Oct 1990
+1208,160188210,"Sagaya, Mathias",M,Apenda,Subsistence Farmer,30 Aug 1979
+1209,160187917,"Sagaya, Michael",M,Apenda,Student,30 Mar 1988
+1210,160441477,"Saka, Lesenta",M,Onne Ama,Student,03 Dec 1976
+1211,160441478,"Saka, Lesinia",M,Onne Ama,Student,03 Dec 1976
+1212,160441479,"Saka, Lesley",M,Onne Ama,Student,12 Mar 1975
+1213,160441480,"Saka, Pinta",M,Onne Ama,Student,03 Dec 1976
+1214,160133454,"Saya, Sura",M,Onne Ama,Student,05 Aug 1998
+1215,160138077,"Saya, Vagi",M,Onne Ama,Student,01 Jan 1998
+1216,160133409,"Saya, Wanpis",M,Onne Ama,Student,04 Dec 1998
+1217,160176187,"Sayasi, Anepas",M,Apenda,Subsistence Farmer,22 Nov 1949
+1218,160163443,"Sayasi, Elizer",M,Apenda,Student,20 May 1990
+1219,160171866,"Sayasi, Kiwa",M,Apenda,Student,29 Oct 1989
+1220,160173637,"Sayasi, Wosun",M,Apenda,Subsistence Farmer,29 Jan 1972
+1221,160184453,"Senis, Noel",M,Apenda,Student,28 May 1989
+1222,160218363,"Shark, Joel",M,Apenda,Student,09 Aug 1990
+1223,160218384,"Shark, Paul",M,Apenda,Student,12 Sep 1989
+1224,160188432,"Simili, Jaisen",M,Apenda,Student,31 Dec 1984
+1225,25083844,"Simon, Cillford",M,Onne Ama,Student,28 Apr 2004
+1226,160133436,"Simon, Clement",M,Onne Ama,Pastor,09 Jun 1998
+1227,160197385,"Simon, Philimon",M,Apenda,Subsistence Farmer,12 Dec 1978
+1228,160239040,"Simon, Rein",M,Apenda,Student,11 Oct 1989
+1229,25083846,"Simon, Rian",M,Onne Ama,Student,28 Apr 2004
+1230,25083752,"Simon, Samuel",M,Onne Ama,Student,28 Apr 2004
+1231,160190373,"Simon, Samuel",M,Apenda,Student,04 Dec 1984
+1232,160187904,"Simon, Solo",M,Apenda,Student,31 Dec 1988
+1233,160178119,"Soko, Anthon",M,Apenda,Engineer,28 Jun 1971
+1234,160173419,"Soko, Benson",M,Apenda,Carpenter,25 Dec 1975
+1235,160218062,"Soko, Donny",M,Apenda,Student,18 Apr 1981
+1236,160173422,"Soko, Kari",M,Apenda,Student,20 Sep 1977
+1237,160217926,"Soko, Shark",M,Apenda,Subsistence Farmer,04 Jan 1972
+1238,160173425,"Soko, Timon",M,Apenda,Student,17 Oct 1979
+1239,160138088,"Solomon, Alice",M,Onne Ama,Household Duties,24 Sep 1994
+1240,160133354,"Sorolo, Rex",M,Onne Ama,Pastor,29 Sep 1972
+1241,160240767,"Steven, Junior",M,Apenda,Student,15 Mar 1981
+1242,160201565,"Suini, Anda",M,Apenda,Subsistence Farmer,02 Feb 1964
+1243,160201564,"Suini, Ape",M,Apenda,Subsistence Farmer,15 Feb 1959
+1244,160201800,"Suini, Christopher",M,Apenda,Subsistence Farmer,02 Jul 1976
+1245,160188430,"Thomas, Millet",M,Apenda,Student,08 Oct 1988
+1246,160197262,"Thomas, Obert",M,Apenda,Houseboy,26 Dec 1981
+1247,160197191,"Thomas, Obin",M,Apenda,Student,27 Aug 1983
+1248,160201267,"Thomas, Reki",M,Apenda,Security,06 Jul 1968
+1249,160240699,"Thomas, Tommy",M,Apenda,Student,19 Jun 1984
+1250,25083855,"Tim, Mapi",M,Onne Ama,Student,28 Apr 2003
+1251,25083856,"Tim, Rodney",M,Onne Ama,Student,28 Apr 2004
+1252,25083857,"Tim, Stanford",M,Onne Ama,Student,28 Apr 2004
+1253,25083859,"Tim, Wais",M,Onne Ama,Subsistence Farmer,15 Mar 1970
+1254,160173105,"Timon, Jerry",M,Apenda,Student,23 May 1986
+1255,160177705,"Timon, Junior",M,Apenda,Student,24 Dec 1989
+1256,160237496,"Tio, James",M,Apenda,Student,13 Nov 1990
+1257,160441484,"Tiyo, John",M,Onne Ama,Mechanic,26 Mar 1977
+1258,160441486,"Tiyo, Yepitha",M,Onne Ama,Student,15 Dec 2003
+1259,160201841,"Tom, Lucas",M,Apenda,Student,05 Nov 1983
+1260,160238554,"Tom, Peter",M,Apenda,Subsistence Farmer,26 Jan 1976
+1261,160441328,"Tom, Semion",M,Apenda,Student,30 Sep 2000
+1262,160239200,"Tom, Tonny",M,Apenda,Student,13 Jun 1992
+1263,160201559,"Tom, William",M,Apenda,Student,05 Oct 1987
+1264,160240766,"Tony, Elinton",M,Apenda,Student,12 Oct 1990
+1265,160240749,"Tony, Emilton",M,Apenda,Student,15 Jan 1989
+1266,160185516,"Ukulsi, Keri",M,Apenda,Subsistence Farmer,27 Mar 1982
+1267,160183138,"Ukulsi, Kopop",M,Apenda,Subsistence Farmer,20 Nov 1978
+1268,160171898,"Ukulsi, Mark",M,Apenda,Pastor,20 Aug 1962
+1269,160160496,"Ukulsi, Senis",M,Apenda,Self Employed,21 Jun 1980
+1270,25083861,"Wais, Stanford",M,Onne Ama,Student,28 Apr 2002
+1271,160441490,"Walace, Blacky",M,Onne Ama,Student,15 Dec 1975
+1272,160441491,"Walace, Lavintaa",M,Onne Ama,Student,15 Dec 1975
+1273,160218378,"Wape, Kolot",M,Apenda,Subsistence Farmer,24 Nov 1949
+1274,160220728,"Wapo, Stend",M,Apenda,Student,06 Nov 1987
+1275,160188358,"Wasi, Charlie",M,Apenda,Subsistence Farmer,03 Feb 1972
+1276,160190019,"Wasi, Francis",M,Apenda,Worker,11 Oct 1948
+1277,160201562,"Wasi, Joseph",M,Apenda,Electrician,15 Jan 1967
+1278,160138086,"Wasi, Kennedy",M,Onne Ama,Student,29 Nov 1996
+1279,160188351,"Wasi, Thomas",M,Apenda,Driver,15 Dec 1970
+1280,160191252,"Wasi, Tim",M,Apenda,Carpenter,07 Jan 1969
+1281,160237450,"Wemili, Jobe",M,Apenda,Student,05 Nov 1986
+1282,160215493,"Weno, Reti",M,Apenda,Subsistence Farmer,12 Apr 1982
+1283,160201710,"Wenol, Munia",M,Apenda,Student,29 Jan 1989
+1284,160198697,"Wenol, Paul",M,Apenda,Subsistence Farmer,29 Sep 1984
+1285,160201658,"Wenol, Terra",M,Apenda,Subsistence Farmer,25 Jun 1976
+1286,160201650,"Wenol, Ungi",M,Apenda,Sister,25 Jun 1973
+1287,160201494,"Wenol, Wape",M,Apenda,Student,30 Oct 1987
+1288,160191257,"Wepi, Blamey",M,Apenda,Subsistence Farmer,26 Nov 1965
+1289,160133408,"Wepi, Christoper",M,Onne Ama,Student,25 Jul 1998
+1290,160197290,"Wepi, David",M,Apenda,Public Servant,27 Dec 1940
+1291,160187557,"Wepi, Joel",M,Apenda,Student,14 Feb 1984
+1292,160189878,"Wepi, John",M,Apenda,Subsistence Farmer,18 Oct 1982
+1293,160191013,"Wepi, Leslie",M,Apenda,Subsistence Farmer,01 Jan 1978
+1294,160240748,"Wepi, Martin",M,Apenda,Subsistence Farmer,06 Oct 1959
+1295,160193620,"Wepi, Michael",M,Apenda,Store Keeper,12 Nov 1942
+1296,160232013,"Wepi, Paul",M,Apenda,Subsistence Farmer,01 Jan 1986
+1297,160190311,"Wepi, Peter",M,Apenda,Student,24 Sep 1980
+1298,160240768,"Wepi, Rimba",M,Apenda,Not Specified,01 Jan 1946
+1299,160240769,"Wepi, Ron",M,Apenda,Secretary,19 Mar 1932
+1300,160188501,"Wepi, Samuel",M,Apenda,Subsistence Farmer,16 Dec 1977
+1301,160133456,"Wepi, Simon",M,Onne Ama,Student,06 Jan 1999
+1302,160133455,"Wepi, Stanley",M,Onne Ama,Student,09 Nov 1998
+1303,160190517,"Wepi, Steven",M,Apenda,Subsistence Farmer,23 Apr 1964
+1304,160188345,"Wepi, Timon",M,Apenda,Student,19 Aug 1987
+1305,25083865,"Wepi, Titus",M,Onne Ama,Student,28 Nov 1996
+1306,160188339,"Wepi, Tom",M,Apenda,Student,20 Aug 1988
+1307,160133470,"Wepo, John",M,Onne Ama,Gardener,15 Dec 1991
+1308,160207830,"Wepo, Junior",M,Apenda,Student,21 Nov 1990
+1309,160138121,"Wepo, Kestty",M,Onne Ama,Student,28 Feb 1994
+1310,160133349,"Wepo, Lapun",M,Onne Ama,Driver,10 Aug 1998
+1311,160220819,"Wepo, Paul",M,Apenda,Subsistence Farmer,11 Jun 1972
+1312,160133353,"Wepo, Stan",M,Onne Ama,Student,01 Feb 1998
+1313,160220734,"Wepo, Stanick",M,Apenda,Student,01 Apr 1986
+1314,160201840,"Wesi, George",M,Apenda,Mechanic,10 Dec 1985
+1315,160188646,"Wesi, Mathew",M,Apenda,Subsistence Farmer,29 Aug 1979
+1316,160188485,"Wesi, Phill",M,Apenda,Subsistence Farmer,25 Jul 1981
+1317,160188354,"Wesi, Tepnis",M,Apenda,Subsistence Farmer,21 Aug 1981
+1318,160239178,"Wesi, Warop",M,Apenda,Subsistence Farmer,19 Jun 1989
+1319,160197258,"Weta, Wanpis",M,Apenda,Student,31 Dec 1984
+1320,160238846,"Weta, Willson",M,Apenda,Student,20 Feb 1986
+1321,25083866,"Wilson, Nowe",M,Onne Ama,Student,28 Apr 2004
+1322,160138084,"Wilson, Wanpis",M,Onne Ama,Student,09 Aug 1996
+1323,25083867,"Wilson, Weston",M,Onne Ama,Student,28 Apr 2004
+1324,160237462,"Wip, Alister",M,Apenda,Student,19 Apr 1960
+1325,160194497,"Wip, Francis",M,Apenda,Subsistence Farmer,16 May 1979
+1326,160193492,"Wip, Jacob",M,Apenda,Student,02 Jan 1986
+1327,160190306,"Wip, Joseph",M,Apenda,Student,31 Dec 1988
+1328,160441492,"Yand, Joel",M,Onne Ama,Student,03 Jun 1994
+1329,160197178,"Yandelai, Paul",M,Apenda,Subsistence Farmer,27 May 1966
+1330,160197327,"Yandowe, Daun",M,Apenda,Supervisor,04 Oct 1974
+1331,160197338,"Yandowe, Elizah",M,Apenda,Teacher,30 Sep 1971
+1332,160191176,"Yandowe, Fobian",M,Apenda,Subsistence Farmer,29 Apr 1981
+1333,160197188,"Yandowe, Simon",M,Apenda,Pastor,03 Nov 1983
+1334,160194465,"Yandowe, Stanly",M,Apenda,Student,13 Apr 1988
+1335,160240880,"Yaripa, Bency",M,Apenda,Student,19 Feb 1984
+1336,160218382,"Yaripa, Nelson",M,Apenda,Dentist,01 Jan 1967
+1337,160206423,"Yawe, David",M,Apenda,Security,06 Aug 1970
+1338,160206422,"Yawe, Patrick",M,Apenda,Houseboy,21 Apr 1966
+1339,160240694,"Zebedi, Petrus",M,Apenda,Student,12 Jun 1984

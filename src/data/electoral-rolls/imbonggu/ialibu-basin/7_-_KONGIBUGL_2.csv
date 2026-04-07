@@ -1,0 +1,979 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160224434,"Aiko, Noindebo",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1971
+2,160244222,"Aikos, Epakai roya",F,Kongibuglg 2,Household Duties,01 Jan 1980
+3,25086416,"Akiyo, Mary",F,Kongibuglg 2,Subsistence Farmer,28 Apr 2004
+4,25086419,"Alako, Alisah",F,Kongibuglg 2,Student,24 Feb 2004
+5,160244183,"Alako, Lineth",F,Kongibuglg 2,Household Duties,01 Jan 1982
+6,160446247,"Alako, Melisa",F,Kongibuglg 2,Student,22 Mar 2004
+7,160244035,"Alphonse, Rosa",F,Kongibuglg 2,Household Duties,01 Jan 1987
+8,25087520,"Alu, Grace",F,Kongibuglg 2,Household Duties,06 Feb 1985
+9,160206420,"Amba, Linet",F,Kongibuglg 2,Household Duties,01 Jan 1980
+10,160227222,"Amenge, Mepili",F,Kongibuglg 2,Household Duties,01 Jan 1930
+11,160218995,"Amenge, Tamowai",F,Kongibuglg 2,Household Duties,01 Jan 1966
+12,160128577,"Andi, Asenty",F,Kongibuglg 2,Student,12 Sep 1995
+13,160128578,"Andi, Hailyn",F,Kongibuglg 2,Student,04 Mar 1994
+14,160227207,"Andi, Selly",F,Kongibuglg 2,Household Duties,01 Jan 1971
+15,160446346,"Andrew, Cathy",F,Kongibuglg 2,Household Duties,10 Aug 1990
+16,160446342,"Andy, Ailyn",F,Kongibuglg 2,Student,15 Jul 2002
+17,25086426,"Andy, Selena",F,Kongibuglg 2,Student,11 Nov 2002
+18,160215422,"Apa, Tiye",F,Kongibuglg 2,Household Duties,01 Jan 1957
+19,160224291,"Apo, Serah",F,Kongibuglg 2,Household Duties,01 Jan 1940
+20,160227236,"Apol, Belinda",F,Kongibuglg 2,Student,01 Jan 1989
+21,160213922,"Apol, Melita",F,Kongibuglg 2,Not Specified,01 Jan 1972
+22,160446274,"Apol, Polina",F,Kongibuglg 2,Accountant,16 Mar 1993
+23,160210481,"Arume, Pately",F,Kongibuglg 2,Household Duties,01 Jan 1983
+24,160128415,"Benny, Repenjill",F,Kongibuglg 2,Student,03 Mar 1999
+25,25086430,"Benny, Shelma",F,Kongibuglg 2,Student,07 Mar 2004
+26,160215523,"Berepu, Undembo",F,Kongibuglg 2,Household Duties,01 Jan 1968
+27,25086432,"Cain, Ferlyn",F,Kongibuglg 2,Student,12 May 2000
+28,160244168,"Cain, Lenitha",F,Kongibuglg 2,Household Duties,01 Jan 1980
+29,25086434,"David, Davine",F,Kongibuglg 2,Student,01 Mar 2003
+30,160446348,"David, Lyneth",F,Kongibuglg 2,Household Duties,05 Oct 1984
+31,160446321,"Depes, Maya",F,Kongibuglg 2,Nurse,27 May 1993
+32,25086443,"Dickson, Daimen",F,Kongibuglg 2,Student,05 Feb 2001
+33,25086447,"Dickson, Dialah",F,Kongibuglg 2,Student,03 Apr 2003
+34,160446349,"Dickson, Kalin",F,Kongibuglg 2,Teacher,04 Aug 1990
+35,160216074,"Diwi, Anjela",F,Kongibuglg 2,Student,01 Jan 1989
+36,160128348,"Diwi, Anjelyn",F,Kongibuglg 2,Student,08 Aug 1998
+37,160226557,"Diwi, Dinola",F,Kongibuglg 2,Student,01 Jan 1986
+38,160128412,"Diwi, Jaylin",F,Kongibuglg 2,Student,14 Sep 1998
+39,160215030,"Diwi, Puksy",F,Kongibuglg 2,Household Duties,01 Jan 1968
+40,160216510,"Diwi, Viella",F,Kongibuglg 2,Student,01 Jan 1986
+41,160225097,"Dopo, Poina",F,Kongibuglg 2,Household Duties,01 Jan 1973
+42,160244058,"Dupi, Ekambo",F,Kongibuglg 2,Household Duties,01 Jan 1976
+43,160446258,"Dupi, Joan",F,Kongibuglg 2,Student,11 Dec 2000
+44,160446285,"Duucan, Margret",F,Kongibuglg 2,Typist,07 Apr 1997
+45,160128328,"Eage, Dokas",F,Kongibuglg 2,Household Duties,18 Aug 1982
+46,160244166,"Ekai, Emsy",F,Kongibuglg 2,Housegirl,01 Jan 1988
+47,160245628,"Ekai, Tomba",F,Kongibuglg 2,Household Duties,01 Jan 1975
+48,160244165,"Ekai, Yailte",F,Kongibuglg 2,Household Duties,01 Jan 1986
+49,160446249,"Elpis, Matilda",F,Kongibuglg 2,Student,14 Sep 2003
+50,160215063,"Ena, Kaila",F,Kongibuglg 2,Household Duties,17 Mar 1962
+51,160210208,"Enge, Rose",F,Kongibuglg 2,Household Duties,01 Jan 1970
+52,160210865,"Enge tindalu, Lembo",F,Kongibuglg 2,Household Duties,01 Jan 1942
+53,160128329,"Enna, Evelyn",F,Kongibuglg 2,Household Duties,03 Sep 1987
+54,160225106,"Era, Agnes",F,Kongibuglg 2,Household Duties,01 Jan 1961
+55,160224398,"Era, Kuinda",F,Kongibuglg 2,Household Duties,01 Jan 1983
+56,160225233,"Era, Poyem",F,Kongibuglg 2,Household Duties,01 Jan 1978
+57,25086451,"Eric, Melisha",F,Kongibuglg 2,Household Duties,05 Jul 1987
+58,160128333,"Exodus, Alice",F,Kongibuglg 2,Household Duties,25 Jan 1969
+59,160128337,"Exodus, Batcy",F,Kongibuglg 2,Student,09 Nov 1979
+60,160128334,"Exodus, Elis",F,Kongibuglg 2,Household Duties,28 Jun 1971
+61,160446246,"Exodus, Merryem",F,Kongibuglg 2,Household Duties,01 May 1994
+62,160128342,"Francis, Roti",F,Kongibuglg 2,Household Duties,11 Aug 1983
+63,160128343,"Francis, Ruth",F,Kongibuglg 2,Household Duties,15 Jun 1986
+64,160213042,"Gaiyam, Jean",F,Kongibuglg 2,Secretary,01 Jan 1978
+65,160210577,"Garu, Kanoino",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1979
+66,160210455,"Garu, Napuno",F,Kongibuglg 2,Household Duties,01 Jan 1945
+67,160218287,"Hirali, Esther",F,Kongibuglg 2,Household Duties,01 Jan 1967
+68,160225090,"Huks, Alice",F,Kongibuglg 2,Household Duties,01 Jan 1974
+69,160205008,"Iki, Lily",F,Kongibuglg 2,Household Duties,01 Jan 1971
+70,160446316,"Injika, Elis",F,Kongibuglg 2,Household Duties,02 Nov 1989
+71,160128332,"Iwasi, Mariam",F,Kongibuglg 2,Household Duties,01 Jan 1967
+72,160210221,"Jack, Rebecca",F,Kongibuglg 2,Student,03 Apr 1988
+73,160210977,"Jack, Sabbinah",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1984
+74,160446341,"Jackson, Merolyn",F,Kongibuglg 2,Household Duties,04 Sep 1995
+75,160128416,"James, Dolly",F,Kongibuglg 2,Household Duties,14 Nov 1990
+76,160245621,"James, Josica",F,Kongibuglg 2,Student,01 Jan 1989
+77,25086455,"James, Julliana",F,Kongibuglg 2,Student,20 Nov 1999
+78,160245620,"James, Robina",F,Kongibuglg 2,Student,01 Jan 1986
+79,160446299,"Jepeth, Polyn",F,Kongibuglg 2,Nurse,04 Jun 2001
+80,160446243,"Jeremiah, Lyn",F,Kongibuglg 2,Teacher,26 Jul 1999
+81,25086457,"Jess, Pricella",F,Kongibuglg 2,Student,11 Mar 2003
+82,160446276,"Joel, Semilla",F,Kongibuglg 2,Cashier,07 Oct 1994
+83,160225060,"John, Deveni",F,Kongibuglg 2,Student,07 May 1986
+84,160243960,"John, Easther",F,Kongibuglg 2,Household Duties,01 Jan 1974
+85,160226579,"John, Lilly",F,Kongibuglg 2,Student,01 Jan 1987
+86,25086461,"John, Macklyn",F,Kongibuglg 2,Nurse,12 Jan 1999
+87,160128419,"John, Majorie",F,Kongibuglg 2,Student,12 Aug 1992
+88,160225059,"John, Marinah",F,Kongibuglg 2,Student,06 Feb 1980
+89,160128341,"John, Rose",F,Kongibuglg 2,Household Duties,22 May 1988
+90,160218419,"John mondo, Essy",F,Kongibuglg 2,Household Duties,01 Jan 1966
+91,160446242,"Johnny, Elly",F,Kongibuglg 2,Nurse,16 Jul 1998
+92,160216084,"Jonathan, Grace",F,Kongibuglg 2,Student,01 Jan 1986
+93,160216086,"Jonathan, Jessica",F,Kongibuglg 2,Student,01 Jan 1984
+94,160215916,"Jonathan, May",F,Kongibuglg 2,Student,01 Jan 1988
+95,160446266,"Joseph, Nathely",F,Kongibuglg 2,Student,11 Feb 2001
+96,160225045,"Kaite, Bembo",F,Kongibuglg 2,Subsistence Farmer,06 Feb 1981
+97,160225062,"Kaite, Hariye",F,Kongibuglg 2,Subsistence Farmer,10 Aug 1984
+98,160225061,"Kaite, Kepu",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1953
+99,160225046,"Kaite, Pilenge",F,Kongibuglg 2,Student,07 May 1986
+100,160244536,"Kake, Anita",F,Kongibuglg 2,Household Duties,01 Jan 1985
+101,160244542,"Kake, Lembo",F,Kongibuglg 2,Household Duties,01 Jan 1956
+102,160244543,"Kake, Stella",F,Kongibuglg 2,Student,01 Jan 1992
+103,160210734,"Kalatoli, Evelyn",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1976
+104,160226381,"Kalatoli, Kondoli",F,Kongibuglg 2,Household Duties,01 Jan 1950
+105,160213916,"Kamano, Dorothy",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1978
+106,160215020,"Kamano, Las",F,Kongibuglg 2,Household Duties,01 Jan 1969
+107,160216096,"Kamano, Lina",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1984
+108,160205017,"Kambalu, Kuni",F,Kongibuglg 2,Household Duties,01 Jan 1977
+109,160224439,"Kanekane, Bepi",F,Kongibuglg 2,Subsistence Farmer,06 Aug 1985
+110,160210060,"Kanekane, Janet",F,Kongibuglg 2,Not Specified,01 Jan 1980
+111,160210062,"Kanekane, Kuku",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1981
+112,160224441,"Kangi, Mombo",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1944
+113,160213288,"Kanombo, Mombo",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1938
+114,160225092,"Kapal, Limbo",F,Kongibuglg 2,Household Duties,01 Jan 1939
+115,160446324,"Karo, Sendritha",F,Kongibuglg 2,Nurse,28 Apr 1994
+116,160128183,"Kepa, Sharon",F,Kongibuglg 2,Household Duties,28 Jul 1987
+117,160128345,"Kepu, Pollin",F,Kongibuglg 2,Household Duties,23 Apr 1989
+118,160216093,"Kereme, Pilge",F,Kongibuglg 2,Household Duties,01 Jan 1965
+119,160227363,"Kerepa, Anna",F,Kongibuglg 2,Household Duties,01 Jan 1965
+120,160446337,"Kerex, Selesta",F,Kongibuglg 2,Student,16 Jan 2004
+121,160205013,"Kewa, Wai",F,Kongibuglg 2,Household Duties,01 Jan 1948
+122,160226390,"Kewapi, Rami",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1956
+123,160224393,"Kili, Charity",F,Kongibuglg 2,Nurse,01 Jan 1977
+124,160446330,"Kilim, Jeritha",F,Kongibuglg 2,Teacher,06 Dec 1995
+125,160215062,"Kilipia, Patipo namba",F,Kongibuglg 2,Household Duties,01 Jan 1952
+126,160215370,"Kini, Helma",F,Kongibuglg 2,Student,01 Jan 1990
+127,160225184,"Kipunge, Joyce",F,Kongibuglg 2,Student,01 Jan 1987
+128,160225190,"Kipunge, Saina",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1984
+129,160244096,"Kire, Anita",F,Kongibuglg 2,Household Duties,01 Jan 1979
+130,160227356,"Kire, Annita",F,Kongibuglg 2,Household Duties,01 Jan 1971
+131,160225207,"Koke, Elizabeth",F,Kongibuglg 2,Household Duties,01 Jan 1946
+132,160244036,"Koke, Grace",F,Kongibuglg 2,Household Duties,01 Jan 1985
+133,160225063,"Komoiye, Tipul",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1966
+134,160213290,"Kondi, Serah",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1978
+135,160210405,"Kondoly, Poronogo",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1957
+136,25086468,"Kondowa, Lyneth",F,Kongibuglg 2,Typist,11 Oct 1985
+137,160226566,"Kondowa, Melen",F,Kongibuglg 2,Household Duties,01 Jan 1967
+138,160244026,"Kone, Rose",F,Kongibuglg 2,Accountant,01 Jan 1978
+139,160446240,"Kone, Tana",F,Kongibuglg 2,Household Duties,09 Mar 1990
+140,160128481,"Konekago, Puame",F,Kongibuglg 2,Household Duties,10 May 1967
+141,160212392,"Konekango, Kupini",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1981
+142,160210738,"Konekango, Ninde",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1968
+143,160244102,"Korowi, Sharon",F,Kongibuglg 2,Household Duties,01 Jan 1990
+144,160244045,"Koya, Kuni",F,Kongibuglg 2,Household Duties,01 Jan 1975
+145,160244067,"Kuleme, Miri",F,Kongibuglg 2,Household Duties,01 Jan 1976
+146,160244065,"Kuleme, Puru",F,Kongibuglg 2,Household Duties,01 Jan 1958
+147,160210877,"Kuno, Garino",F,Kongibuglg 2,Household Duties,01 Jan 1972
+148,160137610,"Kurisi, Jullian",F,Kongibuglg 2,Household Duties,15 Dec 1985
+149,160128339,"Kurisi, Matina",F,Kongibuglg 2,Household Duties,01 Apr 1981
+150,160128340,"Kurisi, Rosa",F,Kongibuglg 2,Household Duties,25 Jun 1983
+151,160213018,"Lapi, Joycelyn",F,Kongibuglg 2,Household Duties,01 Jan 1972
+152,160207638,"Leke, Panogo",F,Kongibuglg 2,Household Duties,01 Jan 1933
+153,160128352,"Lepi, Jabister",F,Kongibuglg 2,Student,24 Jan 1998
+154,160244318,"Lepi, Murumbu",F,Kongibuglg 2,Household Duties,01 Jan 1985
+155,160216496,"Limbo, Freda",F,Kongibuglg 2,Student,01 Jan 1989
+156,160446307,"Limbo, Melvin",F,Kongibuglg 2,Student,04 Dec 2003
+157,160215021,"Limbo, Nancy",F,Kongibuglg 2,Student,01 Jan 1986
+158,160216504,"Limbo, Sharon",F,Kongibuglg 2,Student,01 Jan 1988
+159,160128304,"Limbo, Stella",F,Kongibuglg 2,Student,08 Sep 1991
+160,160446317,"Livai, Stephany",F,Kongibuglg 2,Cashier,17 Dec 1993
+161,160224282,"Liye, Moro",F,Kongibuglg 2,Household Duties,01 Jan 1950
+162,160202370,"Loiye, Tope",F,Kongibuglg 2,Household Duties,01 Jan 1949
+163,160224409,"Lopeke, Daisy",F,Kongibuglg 2,Housegirl,04 Jan 1988
+164,160224289,"Lopeke, Tollyn",F,Kongibuglg 2,Household Duties,06 May 1983
+165,160244223,"Loten, Cathy",F,Kongibuglg 2,Household Duties,01 Jan 1975
+166,160227205,"Loten, Tera",F,Kongibuglg 2,Household Duties,01 Jan 1978
+167,160446347,"Luke, Betty",F,Kongibuglg 2,Teacher,15 Sep 1992
+168,25086483,"Luke, Melin",F,Kongibuglg 2,Subsistence Farmer,10 Apr 2004
+169,160446264,"Lupiki, Annita",F,Kongibuglg 2,Student,06 Apr 1999
+170,160227234,"Lus, Etmun",F,Kongibuglg 2,Student,01 Jan 1988
+171,160227231,"Lus, Judy",F,Kongibuglg 2,Household Duties,01 Jan 1979
+172,160211323,"Maka, Betty",F,Kongibuglg 2,Household Duties,06 Mar 1980
+173,160210732,"Mala, Molombo",F,Kongibuglg 2,Household Duties,01 Jan 1970
+174,160213038,"Malo, Kandie",F,Kongibuglg 2,Household Duties,01 Jan 1953
+175,160212708,"Malo, Pilembo",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1967
+176,160207120,"Malo, Punde",F,Kongibuglg 2,Household Duties,01 Jan 1942
+177,160207214,"Mambo, Esther",F,Kongibuglg 2,Student,01 Jan 1986
+178,160207223,"Mambo, Kengena",F,Kongibuglg 2,Housegirl,01 Jan 1976
+179,160446233,"Mambo, Nowelyn",F,Kongibuglg 2,Typist,18 Feb 1994
+180,160227364,"Mambo, Punde",F,Kongibuglg 2,Household Duties,01 Jan 1943
+181,160225105,"Mambo, Yara",F,Kongibuglg 2,Household Duties,01 Jan 1986
+182,160210406,"Manda, Wanne",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1955
+183,160244120,"Mara, Cathy",F,Kongibuglg 2,Household Duties,01 Jan 1977
+184,160244055,"Mara, Kuta",F,Kongibuglg 2,Household Duties,01 Jan 1951
+185,160244118,"Mara, Mondi",F,Kongibuglg 2,Household Duties,01 Jan 1971
+186,160244121,"Mara, Soti",F,Kongibuglg 2,Student,01 Jan 1981
+187,160244527,"Marowa, Puksy",F,Kongibuglg 2,Teacher,01 Jan 1973
+188,160244173,"Martin, Kiniye",F,Kongibuglg 2,Household Duties,01 Jan 1985
+189,160244162,"Martin, Mata",F,Kongibuglg 2,Household Duties,01 Jan 1989
+190,160225075,"Marupingi, Kenjil",F,Kongibuglg 2,Household Duties,01 Jan 1947
+191,160210217,"Mathew, Mata",F,Kongibuglg 2,Household Duties,01 Jan 1980
+192,25086489,"Matthew, Justina",F,Kongibuglg 2,Teacher,11 Feb 1998
+193,160446284,"Mawa, Meshel",F,Kongibuglg 2,Student,25 Sep 2002
+194,160210459,"Meato, Tame",F,Kongibuglg 2,Not Specified,01 Jan 1973
+195,160244053,"Mek, Kopu",F,Kongibuglg 2,Teacher,01 Jan 1976
+196,160244052,"Mek, Lina",F,Kongibuglg 2,Nurse,01 Jan 1973
+197,160244207,"Mek, Linet",F,Kongibuglg 2,Student,01 Jan 1987
+198,160244027,"Mek, Tengopale",F,Kongibuglg 2,Household Duties,01 Jan 1949
+199,160225083,"Memege, Atenga",F,Kongibuglg 2,Household Duties,01 Jan 1958
+200,160225088,"Memege, Grace",F,Kongibuglg 2,Student,01 Jan 1988
+201,160225230,"Memege, Jennifer",F,Kongibuglg 2,Student,01 Jan 1984
+202,160225084,"Memege, Maina",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1981
+203,160227217,"Memenge, Moiye",F,Kongibuglg 2,Household Duties,01 Jan 1958
+204,160446334,"Mick, Polyn",F,Kongibuglg 2,Household Duties,20 Nov 1992
+205,25086490,"Mike, Rose",F,Kongibuglg 2,Household Duties,11 Dec 1993
+206,160218425,"Mindily, Yumi",F,Kongibuglg 2,Household Duties,01 Jan 1975
+207,160446297,"Miriye, Mevis",F,Kongibuglg 2,Student,08 Apr 2004
+208,160446298,"Miriye, Rally",F,Kongibuglg 2,Student,08 Sep 2000
+209,25086492,"Miriye, Tracy",F,Kongibuglg 2,Student,20 Mar 2002
+210,160210460,"Moka, Elly",F,Kongibuglg 2,Student,01 Jan 1988
+211,160446283,"Moka, Polyna",F,Kongibuglg 2,Cashier,07 Nov 1998
+212,160210879,"Molombo, Fermilar",F,Kongibuglg 2,Student,01 Jan 1987
+213,160206419,"Molombo, Poiem",F,Kongibuglg 2,Household Duties,01 Jan 1977
+214,160137613,"Molombo, Silla",F,Kongibuglg 2,Student,15 Mar 1998
+215,160218422,"Mondo, Kuni",F,Kongibuglg 2,Household Duties,01 Jan 1966
+216,160213063,"Mondo, Waine",F,Kongibuglg 2,Household Duties,01 Jan 1957
+217,160213055,"Mongea, Tone",F,Kongibuglg 2,Household Duties,01 Jan 1954
+218,160224374,"Mukiye, Anna",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1967
+219,160244051,"Mumburu, Cathy",F,Kongibuglg 2,Clerk,01 Jan 1987
+220,160244031,"Mumburu, Nancy",F,Kongibuglg 2,Household Duties,01 Jan 1976
+221,160244050,"Mumburu, Raitame",F,Kongibuglg 2,Household Duties,01 Jan 1970
+222,160244116,"Mumburu, Sylian",F,Kongibuglg 2,Student,01 Jan 1996
+223,160446289,"Nakanol, Kandiye",F,Kongibuglg 2,Student,03 Apr 2003
+224,160227219,"Nakanoli, Betty",F,Kongibuglg 2,Household Duties,01 Jan 1977
+225,160225082,"Nakanoli, Kully nemenge",F,Kongibuglg 2,Household Duties,01 Jan 1943
+226,25086502,"Nakonili, Joshina",F,Kongibuglg 2,Student,26 Feb 2002
+227,160210502,"Nale, Kurume",F,Kongibuglg 2,Household Duties,01 Jan 1947
+228,160212712,"Nale, Nancy walo",F,Kongibuglg 2,Household Duties,01 Jan 1981
+229,160244182,"Nale, Wai",F,Kongibuglg 2,Household Duties,01 Jan 1950
+230,160128306,"Namba, Agnes",F,Kongibuglg 2,Student,04 Mar 1993
+231,160244037,"Namba, Kailga",F,Kongibuglg 2,Household Duties,01 Jan 1967
+232,25086504,"Namba, Maya",F,Kongibuglg 2,Student,28 Apr 2004
+233,160210886,"Namba, Stepheny",F,Kongibuglg 2,Student,01 Jan 1979
+234,160210207,"Namba, Wenny",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1974
+235,160211321,"Nande, Waki",F,Kongibuglg 2,Household Duties,01 Jan 1978
+236,160215274,"Nandiye, Monica",F,Kongibuglg 2,Household Duties,01 Jan 1961
+237,160137612,"Nane, Rebecca",F,Kongibuglg 2,Household Duties,21 Aug 1982
+238,160224384,"Nanu, Elly",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1970
+239,160128310,"Napie, Anna",F,Kongibuglg 2,Household Duties,19 Mar 1977
+240,160137733,"Napie, Magret",F,Kongibuglg 2,Household Duties,09 Oct 1997
+241,160224426,"Napiye, Esther",F,Kongibuglg 2,Student,03 Apr 1984
+242,160225055,"Napiye, Nila",F,Kongibuglg 2,Student,06 Mar 1986
+243,160224499,"Napiye, Niwi",F,Kongibuglg 2,Student,01 Feb 1985
+244,25086506,"Napiye, Ronilla",F,Kongibuglg 2,Student,12 Mar 2004
+245,160128311,"Natimbo, Beli",F,Kongibuglg 2,Student,10 Oct 1996
+246,160128312,"Natimbo, Julie",F,Kongibuglg 2,Student,14 Mar 1994
+247,160227215,"Natimbo, Kondoli",F,Kongibuglg 2,Household Duties,01 Jan 1968
+248,25086508,"Nick, Sheron",F,Kongibuglg 2,Student,11 Mar 2003
+249,160244064,"Ninde, Easther",F,Kongibuglg 2,Household Duties,01 Jan 1962
+250,160216094,"Ninde, Lewa",F,Kongibuglg 2,Student,03 Feb 1984
+251,160446280,"Nindiye, Leoni",F,Kongibuglg 2,Student,06 Mar 2004
+252,160207118,"Ninge, Lyneth",F,Kongibuglg 2,Student,01 Jan 1981
+253,160207643,"Ninge, Malina",F,Kongibuglg 2,Worker,01 Jan 1970
+254,160207647,"Ninge, Malinda",F,Kongibuglg 2,Student,01 Jan 1989
+255,160202227,"Ninge, Mary",F,Kongibuglg 2,Housegirl,01 Jan 1975
+256,160207113,"Ninge, Rebbeca",F,Kongibuglg 2,Household Duties,01 Jan 1970
+257,160207114,"Ninge, Tiye",F,Kongibuglg 2,Housegirl,01 Jan 1973
+258,160210887,"Nipi, Panjipo",F,Kongibuglg 2,Household Duties,01 Jan 1981
+259,160227361,"Noimbo, Ellen",F,Kongibuglg 2,Household Duties,01 Jan 1986
+260,160446287,"Noimbo, Helvina",F,Kongibuglg 2,Student,11 Apr 2004
+261,160212866,"Noimbo, Malinda",F,Kongibuglg 2,Student,01 Jan 1985
+262,160212386,"Noimbo, Melen",F,Kongibuglg 2,Student,01 Jan 1987
+263,160446288,"Noimbo, Melvin",F,Kongibuglg 2,Student,04 Nov 2002
+264,160212374,"Noli, Ellis",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1981
+265,160210395,"Noli, Kandiye",F,Kongibuglg 2,Store Keeper,01 Jan 1978
+266,160128574,"Noli, Kunduren",F,Kongibuglg 2,Household Duties,01 Mar 1971
+267,160210737,"Noli, Petty",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1974
+268,160227372,"Nome, Ross",F,Kongibuglg 2,Household Duties,01 Jan 1969
+269,160216090,"Nomi, Miriam",F,Kongibuglg 2,Student,09 Aug 1988
+270,160244193,"Nomi, Mopune",F,Kongibuglg 2,Household Duties,01 Jan 1975
+271,160218985,"Nomi, Pollin pavlyn",F,Kongibuglg 2,Student,11 Dec 1989
+272,160212899,"Nopundul, Dolly",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1986
+273,160214012,"Nopundul, Lewa",F,Kongibuglg 2,Student,01 Jan 1986
+274,160244528,"Nume, Ace",F,Kongibuglg 2,Household Duties,01 Jan 1970
+275,160227209,"Nume, Evelin",F,Kongibuglg 2,Household Duties,01 Jan 1961
+276,160215364,"Nume, Maria",F,Kongibuglg 2,Household Duties,01 Jan 1968
+277,160212863,"Nume, Wepoino",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1945
+278,160210457,"Ole, Sina",F,Kongibuglg 2,Household Duties,01 Jan 1979
+279,160128314,"Ombele, Hanilla",F,Kongibuglg 2,Student,17 Jun 1995
+280,160128316,"Ombele, Onila",F,Kongibuglg 2,Student,08 Aug 1993
+281,160216078,"Onga, Jenny",F,Kongibuglg 2,Household Duties,01 Jan 1971
+282,160213921,"Ongoda, Lily",F,Kongibuglg 2,Not Specified,01 Jan 1970
+283,160210417,"Ono, Nopiye",F,Kongibuglg 2,Household Duties,01 Jan 1978
+284,160204878,"Ono, Wendi",F,Kongibuglg 2,Household Duties,01 Jan 1973
+285,160210744,"Opa, Aiye",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1978
+286,160210872,"Opa, Jenny",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1977
+287,160206590,"Opa, Malinda",F,Kongibuglg 2,Not Specified,01 Jan 1988
+288,160210874,"Opa, Marklyn",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1986
+289,160227218,"Opule, Kepe",F,Kongibuglg 2,Household Duties,01 Jan 1978
+290,160206586,"Opule, Mini",F,Kongibuglg 2,Household Duties,01 Jan 1940
+291,160218502,"Orum, Mopune",F,Kongibuglg 2,Household Duties,01 Jan 1968
+292,160244180,"Osborne, Jullie",F,Kongibuglg 2,Household Duties,01 Jan 1980
+293,160446318,"Osward, Joiclyn",F,Kongibuglg 2,Household Duties,08 Dec 1994
+294,160212391,"Paine, Puame",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1948
+295,160210226,"Pandikili, Magani",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1948
+296,160218416,"Panga, Porame",F,Kongibuglg 2,Not Specified,01 Jan 1940
+297,160244043,"Pange, Aki",F,Kongibuglg 2,Household Duties,01 Jan 1962
+298,160446271,"Pange, Pombo",F,Kongibuglg 2,Student,29 Mar 1999
+299,160216681,"Pans, Ruthy",F,Kongibuglg 2,Household Duties,01 Jan 1973
+300,25086514,"Patrick, Dora",F,Kongibuglg 2,Student,06 Jul 2002
+301,25086515,"Pauebo, Shelvina",F,Kongibuglg 2,Student,04 May 2003
+302,160213927,"Paul, Angeola",F,Kongibuglg 2,Student,01 Jan 1989
+303,160446237,"Paul, Anna",F,Kongibuglg 2,Teacher,09 Sep 1989
+304,160215524,"Paul, Joshynah",F,Kongibuglg 2,Student,01 Jan 1983
+305,160446235,"Paul, Melisha",F,Kongibuglg 2,Student,11 Sep 2001
+306,160446234,"Paul, Nathasa",F,Kongibuglg 2,Student,03 Sep 2002
+307,160244059,"Paul, Roselyn",F,Kongibuglg 2,Household Duties,01 Jan 1986
+308,160446236,"Paul, Susan",F,Kongibuglg 2,Household Duties,15 Jul 1989
+309,160225078,"Pawembo, Carolyn",F,Kongibuglg 2,Student,01 Jan 1979
+310,160128318,"Pawembo, Delyn",F,Kongibuglg 2,Student,12 Aug 1998
+311,160225079,"Pawembo, Merolyn",F,Kongibuglg 2,Student,01 Jan 1982
+312,160206593,"Pembo, Tuti",F,Kongibuglg 2,Student,01 Jan 1983
+313,160243961,"Penga, Ainjo",F,Kongibuglg 2,Household Duties,01 Jan 1951
+314,160244174,"Penga, Kepu",F,Kongibuglg 2,Household Duties,01 Jan 1952
+315,160244163,"Penga, Puke",F,Kongibuglg 2,Household Duties,01 Jan 1971
+316,160244091,"Pepena, Dape",F,Kongibuglg 2,Household Duties,01 Jan 1982
+317,160244090,"Pepena, Tope",F,Kongibuglg 2,Household Duties,01 Jan 1958
+318,160227370,"Pera, Kuinda",F,Kongibuglg 2,Student,01 Jan 1989
+319,160446279,"Pera, Kuinda",F,Kongibuglg 2,Self Employed,09 Dec 1995
+320,160226567,"Pera, Merolin",F,Kongibuglg 2,Household Duties,01 Jan 1979
+321,160244194,"Pera, Poyem",F,Kongibuglg 2,Household Duties,01 Jan 1977
+322,160244170,"Pera, Quida",F,Kongibuglg 2,Student,01 Jan 1989
+323,160244171,"Pera, Rachael",F,Kongibuglg 2,Household Duties,01 Jan 1991
+324,160227198,"Pere, Jobina",F,Kongibuglg 2,Student,01 Jan 1981
+325,160227211,"Pere, Monica",F,Kongibuglg 2,Household Duties,01 Jan 1939
+326,160227212,"Pere, Nandame",F,Kongibuglg 2,Household Duties,01 Jan 1937
+327,160202225,"Peter, Elizabeth",F,Kongibuglg 2,Household Duties,01 Jan 1966
+328,160244042,"Peter, Freeda",F,Kongibuglg 2,Household Duties,01 Jan 1974
+329,160210231,"Peter, Lumbino",F,Kongibuglg 2,Household Duties,01 Jan 1945
+330,160446261,"Peter, Semintha",F,Kongibuglg 2,Student,09 Apr 2001
+331,160243726,"Peya, Nema",F,Kongibuglg 2,Household Duties,01 Jan 1950
+332,160244532,"Peya, Ponenge",F,Kongibuglg 2,Household Duties,01 Jan 1980
+333,160244539,"Peya, Rose",F,Kongibuglg 2,Household Duties,01 Jan 1985
+334,25086522,"Philip, Olive",F,Kongibuglg 2,Student,25 Feb 2001
+335,160244057,"Philip, Rose",F,Kongibuglg 2,Household Duties,01 Jan 1981
+336,160213923,"Pil, Lynn",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1985
+337,160224497,"Pilimbo, Margret",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1969
+338,160128344,"Piltimu, Pollin",F,Kongibuglg 2,Household Duties,01 Jan 1985
+339,160243965,"Pinte, Kangu",F,Kongibuglg 2,Household Duties,01 Jan 1959
+340,160244215,"Pinte, Maia",F,Kongibuglg 2,Nurse,01 Jan 1982
+341,160244211,"Pinte, Miti",F,Kongibuglg 2,Household Duties,01 Jan 1964
+342,160244172,"Pipi, Mata",F,Kongibuglg 2,Household Duties,01 Jan 1985
+343,160216505,"Pite pora, Jennifer",F,Kongibuglg 2,Not Specified,01 Jan 1971
+344,160446286,"Plilip, Allie",F,Kongibuglg 2,Student,11 Apr 2004
+345,160446311,"Poiye, Jennifer",F,Kongibuglg 2,Household Duties,22 Mar 1995
+346,160137605,"Pora, Cathy",F,Kongibuglg 2,Student,13 Feb 1996
+347,160128320,"Pora, Kenda",F,Kongibuglg 2,Student,14 Mar 1998
+348,25086528,"Pora, Melisha",F,Kongibuglg 2,Student,17 Mar 2004
+349,160207630,"Pora, Mungubilly",F,Kongibuglg 2,Household Duties,01 Jan 1948
+350,160244181,"Pora, Puksy",F,Kongibuglg 2,Household Duties,01 Jan 1987
+351,160214010,"Porowe, Lewa",F,Kongibuglg 2,Household Duties,01 Jan 1978
+352,160128321,"Puiye, Paine",F,Kongibuglg 2,Household Duties,04 Mar 1976
+353,160128322,"Puiye, Wari",F,Kongibuglg 2,Household Duties,16 Apr 1998
+354,160244083,"Puke, Ambo",F,Kongibuglg 2,Household Duties,01 Jan 1956
+355,160244093,"Puke, Cathy",F,Kongibuglg 2,Household Duties,01 Jan 1982
+356,160244092,"Puke, Maimbo",F,Kongibuglg 2,Household Duties,01 Jan 1978
+357,160244094,"Puke, Yakos",F,Kongibuglg 2,Student,01 Jan 1993
+358,160244030,"Puli, Kerol",F,Kongibuglg 2,Household Duties,01 Jan 1988
+359,160244114,"Pulu, Mone",F,Kongibuglg 2,Household Duties,01 Jan 1984
+360,160244049,"Pulu, Tangopa",F,Kongibuglg 2,Household Duties,01 Jan 1974
+361,160243962,"Pulu, Vency",F,Kongibuglg 2,Student,01 Jan 1977
+362,160226578,"Pulupia, Roapeno",F,Kongibuglg 2,Household Duties,01 Jan 1934
+363,160227377,"Pumbo, Betty",F,Kongibuglg 2,Household Duties,01 Jan 1967
+364,25087526,"Punstar, Mary",F,Kongibuglg 2,Self Employed,11 May 1999
+365,160224401,"Puye, Janet",F,Kongibuglg 2,Student,01 Jan 1976
+366,160224400,"Puye, Lineth",F,Kongibuglg 2,Student,01 Jan 1978
+367,160226372,"Raluweme, Esther",F,Kongibuglg 2,Household Duties,01 Jan 1978
+368,160225216,"Raluweme, Tomambo",F,Kongibuglg 2,Household Duties,01 Jan 1978
+369,160210393,"Rama, Kurume tawa",F,Kongibuglg 2,Household Duties,01 Jan 1947
+370,160225201,"Rami, Kerami",F,Kongibuglg 2,Household Duties,01 Jan 1948
+371,160128324,"Rex, Elina",F,Kongibuglg 2,Student,04 Apr 1994
+372,25086532,"Rex, Ellly",F,Kongibuglg 2,Student,11 Oct 2003
+373,160244321,"Rex, Evelyn",F,Kongibuglg 2,Household Duties,01 Jan 1985
+374,160446309,"Rex, Jovina",F,Kongibuglg 2,Student,06 Nov 2002
+375,25086534,"Rex, Kowapena",F,Kongibuglg 2,Student,28 Oct 2003
+376,160446308,"Rex, Linjina",F,Kongibuglg 2,Student,17 Apr 2004
+377,160243959,"Rex, Mata",F,Kongibuglg 2,Household Duties,01 Jan 1973
+378,160137614,"Rex, Melina",F,Kongibuglg 2,Student,01 Feb 1999
+379,160244169,"Rex, Mellen",F,Kongibuglg 2,Household Duties,01 Jan 1983
+380,25086541,"Rex, Rexnale",F,Kongibuglg 2,Household Duties,12 Mar 1987
+381,160244113,"Rex, Sophina",F,Kongibuglg 2,Household Duties,01 Jan 1980
+382,160446319,"Rex, Velly",F,Kongibuglg 2,Subsistence Farmer,12 Sep 1998
+383,160207628,"Riyepe, Bevelyn",F,Kongibuglg 2,Student,01 Jan 1988
+384,160210206,"Riyepe, Kei",F,Kongibuglg 2,Student,01 Jan 1990
+385,160207626,"Riyepe, Niwi",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1985
+386,160207625,"Riyepe, Tendo",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1983
+387,160213046,"Robert, Davina",F,Kongibuglg 2,Student,01 Jan 1988
+388,160212689,"Robert, Elvina",F,Kongibuglg 2,Student,01 Jan 1985
+389,160446333,"Robert, Jericah",F,Kongibuglg 2,Student,12 Jul 2000
+390,160213051,"Robert, Mondi",F,Kongibuglg 2,Housegirl,01 Jan 1983
+391,160446332,"Robertha, Robert",F,Kongibuglg 2,Student,08 Nov 2001
+392,160446315,"Ronny, Cathy",F,Kongibuglg 2,Household Duties,08 Mar 1995
+393,25087530,"Ronny, Josephine",F,Kongibuglg 2,Household Duties,10 May 1997
+394,160244034,"Roy, Yolly",F,Kongibuglg 2,Teacher,01 Jan 1987
+395,160128327,"Sam, Leah",F,Kongibuglg 2,Household Duties,26 Apr 1992
+396,160243957,"Sam, Mopune",F,Kongibuglg 2,Household Duties,01 Jan 1986
+397,160227226,"Samson, Sina",F,Kongibuglg 2,Household Duties,01 Jan 1964
+398,160244319,"Samson, Sina",F,Kongibuglg 2,Household Duties,01 Jan 1970
+399,160210492,"Sebastain, Elvyn",F,Kongibuglg 2,Student,01 Jan 1984
+400,160128326,"Sebastan, Nathasa",F,Kongibuglg 2,Household Duties,17 Jun 1993
+401,160213056,"Sebastin, Lucy",F,Kongibuglg 2,Household Duties,01 Jan 1957
+402,160244179,"Sent, Aiyembo",F,Kongibuglg 2,Household Duties,01 Jan 1987
+403,160244190,"Sidni, Elice",F,Kongibuglg 2,Household Duties,01 Jan 1982
+404,160446241,"Siti, Dokas",F,Kongibuglg 2,Teacher,07 Nov 1990
+405,160245626,"Solo, Charity",F,Kongibuglg 2,Nurse,01 Jan 1982
+406,160245625,"Solo, Dyan",F,Kongibuglg 2,Lawyer,01 Jan 1981
+407,160245623,"Solo, Elice",F,Kongibuglg 2,Banker,01 Jan 1980
+408,160244316,"Solo, Sheba",F,Kongibuglg 2,Student,01 Jan 1991
+409,160224395,"Solo, Sheba",F,Kongibuglg 2,Student,01 Jan 1984
+410,160446253,"Solomon, Gena",F,Kongibuglg 2,Self Employed,09 Jun 1996
+411,25086547,"Solomon, Sherly",F,Kongibuglg 2,Student,19 Nov 2000
+412,160215053,"Stanley, Cathy",F,Kongibuglg 2,Household Duties,01 Jan 1982
+413,160446336,"Stanley, Stanford",F,Kongibuglg 2,Student,17 Apr 2004
+414,160244178,"Stanley, Veronica",F,Kongibuglg 2,Household Duties,01 Jan 1983
+415,25086550,"Steven, Jayan",F,Kongibuglg 2,Student,10 Apr 2003
+416,25087533,"Steven, Stepheny",F,Kongibuglg 2,Student,06 Aug 2003
+417,25086554,"Steward, Keren",F,Kongibuglg 2,Student,10 Nov 2003
+418,160244221,"Stiven, Maria",F,Kongibuglg 2,Household Duties,01 Jan 1989
+419,160244084,"Talopa, Kuku",F,Kongibuglg 2,Household Duties,01 Jan 1988
+420,160244024,"Talopa, Kurume",F,Kongibuglg 2,Houseboy,01 Jan 1951
+421,160244041,"Talopa, Mondi",F,Kongibuglg 2,Household Duties,01 Jan 1983
+422,160244529,"Tange, Rose",F,Kongibuglg 2,Household Duties,01 Jan 1985
+423,160215025,"Tapoli diwi, Pilimbo",F,Kongibuglg 2,Household Duties,01 Jan 1972
+424,160215419,"Tawa, Komutily",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1969
+425,160205016,"Tawa, Margreth",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1979
+426,160226386,"Teka, Kuta",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1957
+427,160244160,"Teke, Joselin",F,Kongibuglg 2,Household Duties,01 Jan 1984
+428,160227206,"Teke, Joslyn",F,Kongibuglg 2,Household Duties,01 Jan 1974
+429,160128184,"Temane, Serah",F,Kongibuglg 2,Household Duties,11 Sep 1982
+430,160205011,"Tendako, Daina",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1983
+431,160205010,"Tendako, Susan",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1979
+432,160210853,"Tendel, Maria",F,Kongibuglg 2,Household Duties,01 Jan 1967
+433,160213286,"Tendeli, Were guli",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1968
+434,160212711,"Tene, Cathy",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1981
+435,160244123,"Tenge, Mare",F,Kongibuglg 2,Household Duties,01 Jan 1978
+436,160244033,"Tenge, Merol",F,Kongibuglg 2,Household Duties,01 Jan 1982
+437,160244315,"Tenge, Tope",F,Kongibuglg 2,Household Duties,01 Jan 1951
+438,160215425,"Terence, Rachael",F,Kongibuglg 2,Student,06 Jul 1983
+439,160215442,"Terence, Velynah",F,Kongibuglg 2,Student,07 Feb 1985
+440,25086562,"Terum, Jelicah",F,Kongibuglg 2,Student,12 Mar 2004
+441,160244038,"Terum, Lapikambo",F,Kongibuglg 2,Household Duties,01 Jan 1985
+442,160215032,"Thomas, Monica",F,Kongibuglg 2,Household Duties,01 Jan 1969
+443,160205005,"Thresa, Mange",F,Kongibuglg 2,Household Duties,01 Jan 1948
+444,160244167,"Tiki, Serah",F,Kongibuglg 2,Household Duties,01 Jan 1978
+445,25086564,"Timothy, Joan",F,Kongibuglg 2,Student,07 Apr 2004
+446,160446294,"Timothy, Regina",F,Kongibuglg 2,Cashier,05 Jul 1993
+447,160210487,"Tindalu, Kumbiambo",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1970
+448,160212871,"Tindalu, Mellen",F,Kongibuglg 2,Housegirl,01 Jan 1973
+449,160210995,"Tindalu, Piricilla",F,Kongibuglg 2,Student,01 Jan 1985
+450,160224413,"Tiripeiye, Pricillar",F,Kongibuglg 2,Student,06 May 1981
+451,160224294,"Tiripeye, Hellen",F,Kongibuglg 2,Student,06 Oct 1989
+452,160226568,"Tiripeye, Sarah",F,Kongibuglg 2,Household Duties,01 Jan 1938
+453,160224415,"Tiripieye, Jully",F,Kongibuglg 2,Student,07 Sep 1986
+454,160128571,"Tiro, Ferlista",F,Kongibuglg 2,Student,11 Apr 1996
+455,160243958,"Tiro, Vinisy",F,Kongibuglg 2,Household Duties,01 Jan 1977
+456,25086568,"Tiwi, Elisha",F,Kongibuglg 2,Household Duties,28 Apr 1979
+457,160128408,"Tiwi, Josephine",F,Kongibuglg 2,Household Duties,14 Mar 1994
+458,160210847,"Tiwi, Josephine",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1988
+459,160128409,"Tiwi, Judy",F,Kongibuglg 2,Household Duties,01 Aug 1996
+460,160210740,"Tiwi, Polin",F,Kongibuglg 2,Household Duties,01 Jan 1971
+461,160226382,"Tiye, Cathy",F,Kongibuglg 2,Subsistence Farmer,07 Jul 1987
+462,160224051,"Tiye, Mondy",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1975
+463,160128410,"Tiye, Nicolyn",F,Kongibuglg 2,Household Duties,12 Aug 1997
+464,160226395,"Tiye, Thero",F,Kongibuglg 2,Student,06 Jul 1982
+465,160215433,"Tiyewe, Opu",F,Kongibuglg 2,Household Duties,01 Jan 1958
+466,160213308,"Tiyewe, Tope",F,Kongibuglg 2,Household Duties,01 Jan 1951
+467,160244187,"Tokundo, Patel",F,Kongibuglg 2,Household Duties,01 Jan 1978
+468,160226573,"Tomba, Debora",F,Kongibuglg 2,Student,01 Jan 1988
+469,160243724,"Tomba, Lope",F,Kongibuglg 2,Household Duties,01 Jan 1949
+470,160210454,"Tomba, Mange",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1988
+471,160244530,"Tomba, Pilge",F,Kongibuglg 2,Household Duties,01 Jan 1984
+472,160244537,"Tomba, Semila",F,Kongibuglg 2,Student,01 Jan 1992
+473,160243728,"Tomba, Seron",F,Kongibuglg 2,Household Duties,01 Jan 1980
+474,160137707,"Tope, Jesica",F,Kongibuglg 2,Student,12 Dec 1996
+475,160446254,"Tope, Porame",F,Kongibuglg 2,Student,24 Sep 2003
+476,160244164,"Tope, Wiru",F,Kongibuglg 2,Household Duties,01 Jan 1980
+477,160212868,"Torea, Kundren",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1950
+478,160215446,"Toroli, Anna",F,Kongibuglg 2,Household Duties,01 Jan 1967
+479,160215427,"Toroli, Ekare",F,Kongibuglg 2,Household Duties,01 Jan 1968
+480,160215450,"Toroli, Regina",F,Kongibuglg 2,Student,06 Feb 1984
+481,160215452,"Toroli, Rose",F,Kongibuglg 2,Student,07 May 1986
+482,160215430,"Toroli, Stefeni",F,Kongibuglg 2,Student,06 Apr 1988
+483,160128411,"Tukundo, Jill",F,Kongibuglg 2,Student,19 Dec 1997
+484,160210869,"Tukundo, Sina",F,Kongibuglg 2,Student,01 Jan 1987
+485,160244175,"Tukundo, Yumi",F,Kongibuglg 2,Household Duties,01 Jan 1975
+486,160128346,"Uiyako, Theresa",F,Kongibuglg 2,Household Duties,01 Jan 1984
+487,160215019,"Ulu, Yawini",F,Kongibuglg 2,Household Duties,01 Jan 1968
+488,160244210,"Unda, Kerolyn",F,Kongibuglg 2,Household Duties,01 Jan 1990
+489,160244060,"Unda, Macklyn",F,Kongibuglg 2,Household Duties,01 Jan 1987
+490,160244199,"Undi, Jenifer",F,Kongibuglg 2,Household Duties,01 Jan 1980
+491,160244087,"Undi, Lino",F,Kongibuglg 2,Household Duties,01 Jan 1949
+492,160244201,"Undi, Melody",F,Kongibuglg 2,Housegirl,01 Jan 1992
+493,160210985,"Unjowalo, Magret",F,Kongibuglg 2,Household Duties,01 Jan 1975
+494,160128182,"Upe, Jeniffer",F,Kongibuglg 2,Household Duties,29 Mar 1980
+495,160213291,"Wakena, Wain",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1974
+496,160210983,"Wala, Napiye",F,Kongibuglg 2,Teacher,04 Aug 1969
+497,160210832,"Wala, Nindiye",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1953
+498,160202368,"Walawie, Akos",F,Kongibuglg 2,Household Duties,01 Jan 1966
+499,160227225,"Walawiye, Lumbino",F,Kongibuglg 2,Household Duties,01 Jan 1946
+500,160243730,"Wama, Akiri",F,Kongibuglg 2,Household Duties,01 Jan 1951
+501,160243731,"Wama, Rachael",F,Kongibuglg 2,Household Duties,01 Jan 1980
+502,160244535,"Wama, Robini",F,Kongibuglg 2,Household Duties,01 Jan 1976
+503,160137708,"Wamo, Lorin",F,Kongibuglg 2,Student,12 Jan 1996
+504,160210835,"Wamo, Lorina",F,Kongibuglg 2,Student,01 Jan 1984
+505,160128353,"Wandi, Sendi",F,Kongibuglg 2,Student,07 Mar 1998
+506,160215367,"Wanepo, Cerolyn",F,Kongibuglg 2,Housegirl,01 Jan 1983
+507,160210860,"Waniye, Kandiye",F,Kongibuglg 2,Housegirl,01 Jan 1976
+508,160446312,"Waniye, Malinda",F,Kongibuglg 2,Student,13 Apr 2002
+509,160226572,"Waniye, Mando",F,Kongibuglg 2,Household Duties,01 Jan 1948
+510,160210861,"Waniye, Rency",F,Kongibuglg 2,Student,01 Jan 1986
+511,160446314,"Waniye, Wendela",F,Kongibuglg 2,Student,16 Oct 2000
+512,160244097,"Wanpis, Lelly",F,Kongibuglg 2,Household Duties,01 Jan 1980
+513,160243720,"Wapi, Dapes",F,Kongibuglg 2,Household Duties,01 Jan 1952
+514,160244544,"Wapi, Mare",F,Kongibuglg 2,Household Duties,01 Jan 1978
+515,160244547,"Wapi, Silla",F,Kongibuglg 2,Student,01 Jan 1992
+516,160227220,"Wapia, Elizabeth",F,Kongibuglg 2,Household Duties,01 Jan 1958
+517,160225197,"Wapia, Pricillar",F,Kongibuglg 2,Student,01 Jan 1984
+518,160225208,"Wapia, Ruby",F,Kongibuglg 2,Student,01 Jan 1981
+519,160137709,"Wapia, Shelba",F,Kongibuglg 2,Student,09 Jan 1996
+520,160224443,"Wapia, Wendy",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1973
+521,160225213,"Wapu, Monica",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1983
+522,160225211,"Wapu, Telly",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1981
+523,160216076,"Waro, Jipi",F,Kongibuglg 2,Not Specified,01 Jan 1960
+524,160128569,"Wetoli, Lenita",F,Kongibuglg 2,Student,12 Apr 1996
+525,160206588,"Weyap, Mone",F,Kongibuglg 2,Household Duties,01 Jan 1947
+526,160137606,"Wiai, Peter",F,Kongibuglg 2,Household Duties,12 Sep 1976
+527,160244191,"Willie, Janet",F,Kongibuglg 2,Household Duties,01 Jan 1982
+528,160446340,"Wilson, Hevenly",F,Kongibuglg 2,Household Duties,08 Nov 1995
+529,160128354,"Windi, Anila",F,Kongibuglg 2,Student,13 Apr 1993
+530,160446328,"Windi, Fiona",F,Kongibuglg 2,Student,29 Jul 2002
+531,160446329,"Windi, Honilla",F,Kongibuglg 2,Nurse,08 Dec 1995
+532,160446325,"Windi, Sandra",F,Kongibuglg 2,Student,23 Aug 1997
+533,160224283,"Wiru, Maria",F,Kongibuglg 2,Household Duties,01 Jan 1977
+534,160218286,"Wiwi, Makal purul",F,Kongibuglg 2,Household Duties,01 Jan 1938
+535,160218290,"Wiwi, Opambo",F,Kongibuglg 2,Household Duties,01 Jan 1940
+536,160446257,"Yala, Vero",F,Kongibuglg 2,Cashier,24 Nov 1997
+537,160225203,"Yamba, Apuke",F,Kongibuglg 2,Household Duties,01 Jan 1967
+538,160245627,"Yamba, Kerami",F,Kongibuglg 2,Household Duties,01 Jan 1954
+539,160244317,"Yambaki, Susana",F,Kongibuglg 2,Household Duties,01 Jan 1984
+540,160210864,"Yana, Nes",F,Kongibuglg 2,Household Duties,01 Jan 1977
+541,160226396,"Yawa, Kirimbo",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1937
+542,160210420,"Yawa, Ombel",F,Kongibuglg 2,Subsistence Farmer,01 Jan 1957
+543,160210574,"Yopolo, Penga dembo",F,Kongibuglg 2,Household Duties,01 Jan 1967
+544,160244195,"Ainjo, Puke",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1941
+545,25086421,"Alako, Nitola",M,Kongibuglg 2,Student,27 Mar 2001
+546,160226574,"Amba, David tomba",M,Kongibuglg 2,Policeman,01 Jan 1978
+547,160218501,"Amenge, Nomi",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1967
+548,160218816,"Amenge, Wainje",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1947
+549,160210866,"Andorum, Tendeli",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1964
+550,160212874,"Andorum, Wamo",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1949
+551,160210485,"Andorum purum, Tindalu",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1946
+552,160446268,"Andula, Joseph",M,Kongibuglg 2,Fireman,06 Jun 1979
+553,160128580,"Andy, Diwi",M,Kongibuglg 2,Student,10 Dec 1993
+554,160446343,"Andy, Job",M,Kongibuglg 2,Student,06 Nov 1998
+555,25086424,"Andy, Luther",M,Kongibuglg 2,Nurse,28 Apr 1991
+556,160128579,"Apol, Bos",M,Kongibuglg 2,Student,16 Dec 1997
+557,160210982,"Beiye, John",M,Kongibuglg 2,Business man,01 Jan 1967
+558,160210575,"Bembo, Junior",M,Kongibuglg 2,Student,01 Jan 1984
+559,160210456,"Bembo, Nicko",M,Kongibuglg 2,Student,01 Jan 1987
+560,25086428,"Benedic, Velma",M,Kongibuglg 2,Student,05 Jun 2003
+561,160446338,"Benny, Shelby",M,Kongibuglg 2,Student,04 Apr 2004
+562,160446238,"David, Ara",M,Kongibuglg 2,Student,16 Mar 2004
+563,160128581,"David, May",M,Kongibuglg 2,Student,06 Mar 1994
+564,160210479,"David, Nethan",M,Kongibuglg 2,Student,01 Jan 1988
+565,25086436,"David, Tifani",M,Kongibuglg 2,Student,19 Dec 2003
+566,25086438,"David, Zecariah",M,Kongibuglg 2,Self Employed,21 Dec 1994
+567,160446305,"Dewi, Andy",M,Kongibuglg 2,Student,22 Jul 1997
+568,160446306,"Dewi, Junior",M,Kongibuglg 2,Student,02 Mar 1999
+569,160446304,"Dewi, Robert",M,Kongibuglg 2,Student,27 Apr 2004
+570,25086440,"Dickson, Ben",M,Kongibuglg 2,Student,20 May 2000
+571,25086445,"Dickson, Danny",M,Kongibuglg 2,Self Employed,11 Mar 1997
+572,160128350,"Diwi, Bolo",M,Kongibuglg 2,Student,13 Mar 1998
+573,160137710,"Diwi, Junior",M,Kongibuglg 2,Student,25 Feb 1994
+574,25086448,"Duoi, Innocent",M,Kongibuglg 2,Student,24 Jan 2002
+575,160224387,"Dupi, Dapri",M,Kongibuglg 2,Student,07 Oct 1986
+576,160446259,"Dupi, Jef",M,Kongibuglg 2,Student,02 Oct 1998
+577,160446248,"Elpis, Martin",M,Kongibuglg 2,Student,14 Sep 2003
+578,160137609,"Exodus, Kennedy",M,Kongibuglg 2,Subsistence Farmer,23 Apr 1975
+579,160446245,"Exodus, Mayson",M,Kongibuglg 2,Driver,27 Sep 1997
+580,160446244,"Exodus, Pesime",M,Kongibuglg 2,Student,20 Feb 2002
+581,160128335,"Exodus, Rickson",M,Kongibuglg 2,Subsistence Farmer,22 Jan 1973
+582,160215917,"Fay, Jonathan",M,Kongibuglg 2,Student,01 Jan 1990
+583,160210576,"Garu, Ekai",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1968
+584,160244185,"Goroka, Pat",M,Kongibuglg 2,Teacher,01 Jan 1980
+585,160446291,"Guli, Gorden",M,Kongibuglg 2,Student,09 Apr 2001
+586,160128413,"Guli, Jonah",M,Kongibuglg 2,Student,12 Sep 1993
+587,160213287,"Guli, Justin",M,Kongibuglg 2,Student,01 Jan 1984
+588,160128414,"Guli, Kake",M,Kongibuglg 2,Student,18 Sep 1994
+589,160244095,"Ipo, Talopa",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1942
+590,160211322,"Jack, Taitus",M,Kongibuglg 2,Student,01 Jan 1986
+591,160245622,"James, Damien",M,Kongibuglg 2,Student,01 Jan 1992
+592,25086453,"James, Epena",M,Kongibuglg 2,Student,19 Dec 2000
+593,160128417,"James, Sam",M,Kongibuglg 2,Student,07 Jun 1992
+594,160137607,"Joe, Jay",M,Kongibuglg 2,Student,03 Feb 1993
+595,160128331,"Joe, Mox",M,Kongibuglg 2,Subsistence Farmer,06 Jul 1990
+596,160225227,"John, Dangen",M,Kongibuglg 2,Student,25 May 1984
+597,25086459,"John, Dunstan",M,Kongibuglg 2,Teacher,19 Jan 2002
+598,160446345,"John, Hourles",M,Kongibuglg 2,Student,13 May 1993
+599,160128418,"John, Jobby",M,Kongibuglg 2,Student,18 Mar 1995
+600,160137711,"John, Joki",M,Kongibuglg 2,Student,03 Aug 1997
+601,160446303,"John, Jowi",M,Kongibuglg 2,Driver,12 Sep 1997
+602,160137712,"John, Junior",M,Kongibuglg 2,Student,04 May 1994
+603,160128480,"John, Wemin",M,Kongibuglg 2,Student,06 Dec 1990
+604,160224504,"John, Yugine",M,Kongibuglg 2,Student,09 Jul 1982
+605,160446326,"Jonathan, Pellfree",M,Kongibuglg 2,Student,27 Mar 1998
+606,160446327,"Jonathan, Roan",M,Kongibuglg 2,Student,24 Jul 1997
+607,25086462,"Joseph, Nicky",M,Kongibuglg 2,Student,27 Feb 2002
+608,160446267,"Joseph, Numan",M,Kongibuglg 2,Student,05 Feb 2000
+609,160225043,"Kaite, John",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1967
+610,160243733,"Kake, Dick",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1989
+611,160210058,"Kalatoli, Joseph",M,Kongibuglg 2,Fireman,01 Jan 1975
+612,160212370,"Kalatoli, Noimbo",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1968
+613,160216083,"Kamano, Jonathan marowa",M,Kongibuglg 2,Teacher,01 Jan 1967
+614,160213914,"Kamano, Kondi",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1981
+615,160224418,"Kanekane, Diko",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1972
+616,160224386,"Kanekane, Dupi",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1970
+617,160224419,"Kanekane, Mathew",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1972
+618,160223895,"Kanekane, Nandiye",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1968
+619,160225048,"Kanekane, Napiye",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1966
+620,160216513,"Kanoli, Ombel",M,Kongibuglg 2,Not Specified,01 Jan 1968
+621,160224287,"Kapal, Lopeke",M,Kongibuglg 2,Evangelist,01 Jan 1948
+622,160224411,"Kapal, Tiripeye",M,Kongibuglg 2,Teacher,01 Jan 1938
+623,160244054,"Kapu, Mara",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1948
+624,160446323,"Karo, Yap",M,Kongibuglg 2,Student,20 Apr 2000
+625,160226389,"Kepo, Ben",M,Kongibuglg 2,Student,06 May 1986
+626,160226379,"Kepo, Unda",M,Kongibuglg 2,Subsistence Farmer,06 Jul 1981
+627,160225182,"Kera, Paul",M,Kongibuglg 2,Student,04 May 1981
+628,160210979,"Keri, Nakanoli",M,Kongibuglg 2,Subsistence Farmer,22 May 1978
+629,160446331,"Kilim, Semili",M,Kongibuglg 2,Carpenter,21 Jul 1990
+630,160215371,"Kini, Elison",M,Kongibuglg 2,Student,01 Jan 1989
+631,160213917,"Kini, Elvis",M,Kongibuglg 2,Student,01 Jan 1986
+632,160216097,"Kini, Enock",M,Kongibuglg 2,Student,01 Jan 1988
+633,160244161,"Kipu, Penga",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1949
+634,160225206,"Kipunge, Ale",M,Kongibuglg 2,Student,01 Jan 1990
+635,160225183,"Kipunge, Koke",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1980
+636,160225189,"Kipunge, Tiro",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1970
+637,160244534,"Koi, Wama",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1948
+638,160244538,"Koi, Wapi",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1948
+639,160224373,"Koke, Kanekane",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1948
+640,160226380,"Koke, Kera",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1952
+641,25086464,"Koke, Petson",M,Kongibuglg 2,Student,08 Jul 1999
+642,160224440,"Koke, Tiye",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1942
+643,160225187,"Koke, Wapu",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1948
+644,160207621,"Kombea, Riyepe",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1946
+645,160204896,"Kombea, Walawie",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1948
+646,160218986,"Komolamu, Purul",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1936
+647,25086466,"Kondowa, Lendry",M,Kongibuglg 2,Student,14 Sep 1999
+648,25086470,"Kondowa, Nathan",M,Kongibuglg 2,Student,06 Apr 2001
+649,160212377,"Konekango, Jacob",M,Kongibuglg 2,Student,01 Jan 1978
+650,160210976,"Konekango, Rex kondoa",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1976
+651,160446256,"Koya, Andersion",M,Kongibuglg 2,Student,19 Nov 2000
+652,160128301,"Koya, Andy",M,Kongibuglg 2,Student,19 Aug 1997
+653,25086473,"Koya, Gedion",M,Kongibuglg 2,Student,20 May 2002
+654,160243723,"Ku, Tomba",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1946
+655,160244066,"Kuleme, James",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1965
+656,160224391,"Kuno, Solo",M,Kongibuglg 2,Policeman,01 Jan 1978
+657,160224279,"Kuno, Steven",M,Kongibuglg 2,Student,01 Jan 1984
+658,160224397,"Kuno, Yambaki",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1981
+659,160128330,"Kunuma, Joe",M,Kongibuglg 2,Pastor,01 Jan 1976
+660,160137611,"Kurisi, John",M,Kongibuglg 2,Subsistence Farmer,17 Jan 1985
+661,160128302,"Lepi, Jayson",M,Kongibuglg 2,Student,18 Sep 1993
+662,160227671,"Lepi, John",M,Kongibuglg 2,Student,01 Jan 1988
+663,25086475,"Lepi, Nepol",M,Kongibuglg 2,Student,17 Jun 2002
+664,160128347,"Limbo, Binney",M,Kongibuglg 2,Student,13 Jun 1998
+665,160128303,"Limbo, Bonny",M,Kongibuglg 2,Student,08 Dec 1993
+666,160227388,"Limbo, Eric",M,Kongibuglg 2,Student,01 Jan 1986
+667,160224390,"Lopeke, Samuel",M,Kongibuglg 2,Subsistence Farmer,03 Apr 1986
+668,160224288,"Lopeke, Tek",M,Kongibuglg 2,Student,06 Jul 1980
+669,25086476,"Luke, Mark",M,Kongibuglg 2,Subsistence Farmer,10 Dec 1990
+670,25086478,"Luke, Mcken",M,Kongibuglg 2,Self Employed,19 Jan 1999
+671,25086481,"Luke, Mekenzy",M,Kongibuglg 2,Student,25 Feb 2002
+672,25086485,"Lun, David",M,Kongibuglg 2,Student,14 Oct 2000
+673,160446263,"Lupika, Mava",M,Kongibuglg 2,Student,10 Jul 2001
+674,160446262,"Lupiki, Grace",M,Kongibuglg 2,Student,03 Apr 2004
+675,160446250,"Luther, Mick",M,Kongibuglg 2,Student,22 Sep 2001
+676,160227355,"Makanol, Rendi",M,Kongibuglg 2,Student,01 Jan 1982
+677,160244028,"Makinte, Pulu",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1963
+678,160202376,"Mambo, Junior",M,Kongibuglg 2,Student,01 Jan 1990
+679,160207213,"Mambo, Lapua",M,Kongibuglg 2,Student,01 Jan 1973
+680,160207224,"Mambo, Mona",M,Kongibuglg 2,Student,01 Jan 1980
+681,160244117,"Mara, Akele",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1968
+682,160244119,"Mara, John",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1974
+683,25086487,"Mark, Zebedee",M,Kongibuglg 2,Subsistence Farmer,19 Jan 1997
+684,160244062,"Mek, Jacho",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1969
+685,160244056,"Mek, Kama",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1980
+686,160244322,"Mek, Tenge",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1951
+687,160225104,"Memege, Diwi",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1984
+688,160225231,"Memege, Joel",M,Kongibuglg 2,Student,01 Jan 1985
+689,160225232,"Memege, Pera",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1969
+690,160225085,"Memege, Tange",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1981
+691,160212862,"Mikmik, Benedick",M,Kongibuglg 2,Student,01 Jan 1986
+692,160210892,"Mikmik, Maika",M,Kongibuglg 2,Student,01 Jan 1985
+693,160446295,"Mikmik, Pena",M,Kongibuglg 2,Student,06 Mar 2002
+694,160137732,"Mikmik, Polopi",M,Kongibuglg 2,Student,09 Aug 1990
+695,160128305,"Mikmik, Tenis",M,Kongibuglg 2,Student,16 Sep 1993
+696,160446296,"Mikmik, Wenion",M,Kongibuglg 2,Student,06 Jul 2000
+697,160128349,"Miriye, Temo",M,Kongibuglg 2,Student,17 Sep 1998
+698,160244184,"Moiye, Cedric",M,Kongibuglg 2,Student,01 Jan 1989
+699,160205012,"Moka, Jeremaiah",M,Kongibuglg 2,Student,01 Jan 1986
+700,160446282,"Moka, Pelil",M,Kongibuglg 2,Student,23 Dec 2000
+701,25086495,"Molombo, Robert",M,Kongibuglg 2,Student,06 Aug 2001
+702,25086497,"Molombo, Robin",M,Kongibuglg 2,Student,06 Aug 2001
+703,25086500,"Molombo, Sillian",M,Kongibuglg 2,Household Duties,25 Jan 2001
+704,160218291,"Mondo, Nume john",M,Kongibuglg 2,Driver,01 Jan 1959
+705,160244186,"Mondo, Porame",M,Kongibuglg 2,Household Duties,01 Jan 1954
+706,160216679,"Mondo, Tope",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1969
+707,160216682,"Mondo, Tukundo",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1972
+708,160210870,"Mondo, Wanpis",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1981
+709,160215520,"Mongea, Paul",M,Kongibuglg 2,Policeman,01 Jan 1966
+710,160244115,"Mumburu, Paul",M,Kongibuglg 2,Student,01 Jan 1989
+711,160244032,"Mumburu, Solo",M,Kongibuglg 2,Student,01 Jan 1992
+712,160244063,"Mupi, Mumburu",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1964
+713,160224381,"Nadiye, Joel",M,Kongibuglg 2,Student,01 Jan 1988
+714,160446290,"Nakanol, Pembo",M,Kongibuglg 2,Student,04 Jun 2001
+715,160128572,"Nakanoli, Randy",M,Kongibuglg 2,Student,04 Mar 1998
+716,160210458,"Nale, Albert moka",M,Kongibuglg 2,Pastor,01 Jan 1971
+717,160212706,"Nale, Andrew",M,Kongibuglg 2,Student,01 Jan 1984
+718,160210984,"Nale, David",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1973
+719,160212705,"Nale, Kondowa",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1978
+720,160213939,"Namba, Akiyos",M,Kongibuglg 2,Subsistence Farmer,16 Nov 1967
+721,160446293,"Namba, Isso",M,Kongibuglg 2,Student,08 Feb 2001
+722,160215065,"Namba, Jerry",M,Kongibuglg 2,Student,26 Mar 1973
+723,160128308,"Namba, Nalau",M,Kongibuglg 2,Student,15 Jun 1991
+724,160446292,"Namba, Steanly",M,Kongibuglg 2,Student,11 Apr 2004
+725,160213940,"Namba, Terum",M,Kongibuglg 2,Student,01 Nov 1969
+726,160210890,"Nande, Loten",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1971
+727,160128351,"Nande, Tennis",M,Kongibuglg 2,Student,02 Nov 1997
+728,160223897,"Nandie, Alberto",M,Kongibuglg 2,Student,06 May 1989
+729,160128309,"Nandie, Alvi",M,Kongibuglg 2,Student,12 Mar 1995
+730,160128313,"Napie, Jeff",M,Kongibuglg 2,Student,14 Mar 1992
+731,160137734,"Napie, Ronny",M,Kongibuglg 2,Student,16 Sep 1994
+732,160244209,"Napio, Joel",M,Kongibuglg 2,Student,06 Jul 1993
+733,160224382,"Napiye, Johnny",M,Kongibuglg 2,Student,05 Nov 1990
+734,160207637,"Natimbo, Eleaction",M,Kongibuglg 2,Student,01 Jan 1982
+735,160210858,"Natimbo, Peter",M,Kongibuglg 2,Student,01 Jan 1982
+736,160210854,"Natimbo, Seni",M,Kongibuglg 2,Student,01 Jan 1986
+737,160207211,"Nemela, Mambo",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1939
+738,160227229,"Nemela, Pulupia",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1931
+739,160216095,"Ninde, Jephot",M,Kongibuglg 2,Student,06 Jul 1989
+740,160207119,"Ninge, Jacob",M,Kongibuglg 2,Student,01 Jan 1986
+741,160207645,"Ninge, Luke",M,Kongibuglg 2,Student,01 Jan 1978
+742,160207221,"Ninge, Malipu",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1968
+743,25086510,"Noimbo, Gibson",M,Kongibuglg 2,Student,03 Mar 2004
+744,160212375,"Noli, Clifford",M,Kongibuglg 2,Student,01 Jan 1988
+745,160212372,"Noli, Luke",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1972
+746,160212371,"Noli, Philip",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1970
+747,160128570,"Nomi, Douglas",M,Kongibuglg 2,Student,12 Apr 1991
+748,160218976,"Nomi, Jerry",M,Kongibuglg 2,Student,05 Jun 1987
+749,160218503,"Nomi, Lyvai",M,Kongibuglg 2,Student,06 May 1986
+750,160213315,"Nopundul, Andy",M,Kongibuglg 2,Manager,01 Jan 1970
+751,160213028,"Nopundul, Ben",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1984
+752,160212900,"Nopundul, Jackson",M,Kongibuglg 2,Student,01 Jan 1987
+753,160213036,"Nopundul, Joel",M,Kongibuglg 2,Student,01 Jan 1989
+754,160214011,"Nopundul, Kerepa",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1977
+755,160244192,"Nopundul, Niell",M,Kongibuglg 2,Student,01 Jan 1994
+756,160214009,"Nopundul, Paul",M,Kongibuglg 2,Driver,01 Jan 1973
+757,160214013,"Nopundul, Stanley",M,Kongibuglg 2,Driver,01 Jan 1981
+758,160213311,"Nopundul, Thomas",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1968
+759,160213025,"Nopundul, Wilson",M,Kongibuglg 2,Student,01 Jan 1989
+760,160218414,"Nume, Jobi",M,Kongibuglg 2,Student,01 Jan 1986
+761,160218421,"Nume, Jocky",M,Kongibuglg 2,Student,01 Jan 1989
+762,160446300,"Nuriye, Denly",M,Kongibuglg 2,Mechanic,10 May 2001
+763,160446281,"Nyndiye, Franky",M,Kongibuglg 2,Student,20 Feb 2001
+764,160210254,"Omape, Rex",M,Kongibuglg 2,Student,01 Jan 1990
+765,160216080,"Ombel, Edwin",M,Kongibuglg 2,Student,01 Jan 1986
+766,160128315,"Ombele, Kansol",M,Kongibuglg 2,Subsistence Farmer,16 May 1997
+767,160210745,"Opa, Luther",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1981
+768,160210873,"Opa, Martin",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1983
+769,160206592,"Opa, Tommy",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1989
+770,160225195,"Ope, Wapia",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1949
+771,160210880,"Opule, Alako",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1977
+772,160210883,"Opule, Jonah",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1986
+773,160210878,"Opule, Molombo",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1973
+774,160206587,"Opule, Opa",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1948
+775,160210876,"Opule, Pembo",M,Kongibuglg 2,Magistrate,01 Jan 1970
+776,160210578,"Opule, Pipi",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1981
+777,160213941,"Paine, Guli",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1964
+778,160215061,"Paine, Namba",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1955
+779,160244103,"Pambono, Kini",M,Kongibuglg 2,Driver,01 Jan 1960
+780,160446273,"Pange, Epa",M,Kongibuglg 2,Carpenter,26 Jul 1998
+781,160224508,"Pange, John",M,Kongibuglg 2,Student,01 Jan 1989
+782,160446272,"Pange, Michael",M,Kongibuglg 2,Student,07 Sep 1997
+783,160446270,"Pange, Steven",M,Kongibuglg 2,Student,28 Mar 2004
+784,160244112,"Patel, Peter",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1989
+785,25086512,"Patrick, Boas",M,Kongibuglg 2,Student,11 Jun 2000
+786,160446302,"Patrick, Scordi",M,Kongibuglg 2,Student,03 Dec 1998
+787,160244159,"Pauembo, John",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1981
+788,160446339,"Paul, Cliford",M,Kongibuglg 2,Student,08 Mar 2001
+789,160128317,"Pawembo, Chris",M,Kongibuglg 2,Student,18 May 1996
+790,160225080,"Pawembo, Eliza",M,Kongibuglg 2,Student,01 Jan 1988
+791,160225204,"Pawembo, Jeremiah",M,Kongibuglg 2,Student,01 Jan 1985
+792,160206594,"Pembo, Nathen",M,Kongibuglg 2,Student,01 Jan 1990
+793,160243967,"Penga, Berry",M,Kongibuglg 2,Student,01 Jan 1982
+794,160244188,"Penga, Mek",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1974
+795,160244189,"Penga, Mona",M,Kongibuglg 2,Teacher,01 Jan 1978
+796,160244208,"Pepena, Dopo",M,Kongibuglg 2,Student,01 Jan 1990
+797,160244203,"Pepena, Paul",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1978
+798,160244204,"Pepena, Peter",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1974
+799,160244122,"Pepena, Simon",M,Kongibuglg 2,Teacher,01 Jan 1986
+800,160446278,"Pera, Anma",M,Kongibuglg 2,Self Employed,03 May 1999
+801,160446320,"Pera, Pambaone",M,Kongibuglg 2,Student,03 Jul 2002
+802,160446277,"Pera, Solo",M,Kongibuglg 2,Student,28 Apr 2004
+803,160227235,"Pere, Josica",M,Kongibuglg 2,Student,01 Jan 1989
+804,160227379,"Pere, Kaiye",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1966
+805,160227366,"Pere, Korowi",M,Kongibuglg 2,Student,01 Jan 1986
+806,160226565,"Pere, Mathew",M,Kongibuglg 2,Student,01 Jan 1983
+807,160227196,"Pere, Pumbo betty",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1964
+808,160227197,"Pere, Willy",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1964
+809,160224511,"Perel, Lupiki",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1967
+810,160224281,"Perel, Pange",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1948
+811,160224509,"Perel, Puiye",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1966
+812,25086518,"Pers, Senis",M,Kongibuglg 2,Student,05 Aug 2003
+813,160446260,"Peter, Philimon",M,Kongibuglg 2,Student,14 Sep 2003
+814,25086519,"Peter, Tuksy",M,Kongibuglg 2,Student,09 Jul 2003
+815,160243722,"Peya, Mark",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1978
+816,160243729,"Peya, Nickson",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1989
+817,160244533,"Peya, Richie",M,Kongibuglg 2,Student,01 Jan 1993
+818,160215517,"Pil, Apol",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1970
+819,160215532,"Pil, Kambu",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1988
+820,160213920,"Pil, Wetoli",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1968
+821,25086524,"Pili, Jessrail",M,Kongibuglg 2,Student,25 Mar 2002
+822,160243966,"Pinte, Kalo",M,Kongibuglg 2,Student,01 Jan 1986
+823,160244214,"Pinte, Kiniwi",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1978
+824,160244213,"Pinte, Natil",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1972
+825,160244212,"Pinte, Polo",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1968
+826,25086526,"Pipi, Sekuwa",M,Kongibuglg 2,Student,17 Dec 2002
+827,160128336,"Pisimi, Exodus",M,Kongibuglg 2,Student,01 Feb 1977
+828,160216506,"Pora, Gibson",M,Kongibuglg 2,Student,01 Jan 1986
+829,160446313,"Pova, Weniyal",M,Kongibuglg 2,Student,12 Mar 2004
+830,160216501,"Poya, Diwi",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1970
+831,160215017,"Poya, Limbo",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1967
+832,160215023,"Poya, Pora",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1968
+833,160216507,"Poya, Tiki konda",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1973
+834,160210741,"Poya, Wanye",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1950
+835,160244046,"Puiye, Aisak",M,Kongibuglg 2,Student,01 Jan 1987
+836,160446269,"Puiye, Ismaiel",M,Kongibuglg 2,Student,08 Apr 1997
+837,160224402,"Puiye, Issacc",M,Kongibuglg 2,Student,01 Jan 1973
+838,160244044,"Puiye, Iti",M,Kongibuglg 2,Student,01 Jan 1992
+839,160446265,"Puiye, Wavi",M,Kongibuglg 2,Student,11 Mar 2002
+840,160244205,"Puke, Philip",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1986
+841,160244206,"Puke, Pileli",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1989
+842,160244196,"Puke, Toringi",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1974
+843,160243963,"Pulu, David",M,Kongibuglg 2,Student,01 Jan 1981
+844,160244029,"Pulu, Paita",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1981
+845,160244061,"Pulu, Penly",M,Kongibuglg 2,Student,01 Jan 1992
+846,160226561,"Pulupia, David",M,Kongibuglg 2,Student,01 Jan 1987
+847,160226559,"Pulupia, Kire",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1975
+848,160244098,"Pulupia, Petrus",M,Kongibuglg 2,Student,01 Jan 1980
+849,160226560,"Pulupia, Wanpis",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1979
+850,160218987,"Purul, Ninde",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1961
+851,160244089,"Rakelta, Pepena",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1950
+852,160243964,"Rakelta, Pinte",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1952
+853,160227374,"Rama, Pere",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1934
+854,160216512,"Reke, Kanoli",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1948
+855,160446310,"Rex, Deki",M,Kongibuglg 2,Student,23 Apr 2001
+856,160128323,"Rex, Manu",M,Kongibuglg 2,Subsistence Farmer,06 Nov 1998
+857,160244047,"Rex, Ninde",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1987
+858,25086536,"Rex, Obert",M,Kongibuglg 2,Student,14 Aug 2003
+859,25086537,"Rex, Organise",M,Kongibuglg 2,Student,02 Dec 2002
+860,25086539,"Rex, Otison",M,Kongibuglg 2,Student,14 Mar 2004
+861,160446251,"Rex, Otti",M,Kongibuglg 2,Student,11 Jun 2003
+862,160446252,"Rex, Ovvi",M,Kongibuglg 2,Student,22 Jul 2002
+863,160244048,"Rex, Stan",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1984
+864,160446335,"Robert, Amstrong",M,Kongibuglg 2,Student,28 Mar 2000
+865,160128575,"Robert, Elizah",M,Kongibuglg 2,Student,13 Jun 1997
+866,160446232,"Robert, Jerrico",M,Kongibuglg 2,Student,12 Jun 2002
+867,160213907,"Robert, Oliver",M,Kongibuglg 2,Student,01 Jan 1986
+868,160213043,"Robert, Osborne",M,Kongibuglg 2,Student,01 Jan 1978
+869,160213068,"Robert, Oscar",M,Kongibuglg 2,Student,01 Jan 1984
+870,160213935,"Robert, Osten",M,Kongibuglg 2,Student,01 Jan 1989
+871,160213934,"Robert, Osward",M,Kongibuglg 2,Student,01 Jan 1988
+872,160212690,"Robert, Scotty",M,Kongibuglg 2,Student,01 Jan 1987
+873,160213040,"Robert, Steward",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1976
+874,160210855,"Rumbe, Natimbo",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1955
+875,160210849,"Rumbe, Pera",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1969
+876,160210867,"Rumbe, Tiwi",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1968
+877,160137608,"Sama, Exodus",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1964
+878,160128325,"Sebastan, Nany",M,Kongibuglg 2,Subsistence Farmer,12 Aug 1991
+879,160446344,"Sebastein, Kenedy",M,Kongibuglg 2,Student,04 Sep 2002
+880,160210493,"Sebasthan, Kelly",M,Kongibuglg 2,Student,01 Jan 1986
+881,160210346,"Sebasthan, Nicko",M,Kongibuglg 2,Student,01 Jan 1988
+882,160227369,"Sebastian, Kenan",M,Kongibuglg 2,Student,01 Jan 1988
+883,25086545,"Simon, Ezikel",M,Kongibuglg 2,Student,11 Nov 2002
+884,160243956,"Solo, Simeon",M,Kongibuglg 2,Student,01 Jan 1994
+885,160224276,"Solo, Simion",M,Kongibuglg 2,Student,01 Jan 1988
+886,25086548,"Solomon, Solo",M,Kongibuglg 2,Self Employed,19 Oct 1996
+887,25086556,"Steward, Kevin",M,Kongibuglg 2,Student,19 Jan 2001
+888,25086558,"Steward, Kilton",M,Kongibuglg 2,Student,26 Mar 2004
+889,160244040,"Talopa, Ben",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1979
+890,160244085,"Talopa, Jackson",M,Kongibuglg 2,Student,01 Jan 1992
+891,160244025,"Talopa, Pemo",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1975
+892,160244202,"Tamu, Peya",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1950
+893,160446322,"Tange, Joel",M,Kongibuglg 2,Student,17 Apr 2004
+894,160446275,"Tange, Noel",M,Kongibuglg 2,Student,16 Mar 2004
+895,160213929,"Tawa, Kaima",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1967
+896,160213918,"Tawa, Pil",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1946
+897,160213052,"Tawa, Sebastain",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1983
+898,160511172,"Tawa, Stewar",M,Kongibuglg 2,Subsistence Farmer,10 Apr 1998
+899,160213931,"Tawa, Wee terence",M,Kongibuglg 2,Not Specified,01 Jan 1956
+900,160446301,"Teke, Jerad",M,Kongibuglg 2,Student,14 Aug 2002
+901,160227358,"Teke, Nope",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1985
+902,160205009,"Tendako, Samson",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1977
+903,160244086,"Tende, Undi",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1946
+904,160212366,"Tendeli, Sent",M,Kongibuglg 2,Student,01 Jan 1984
+905,160244158,"Tenge, Jut",M,Kongibuglg 2,Student,01 Jan 1986
+906,160244157,"Tenge, Paiye",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1974
+907,160245624,"Tenge, Peya",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1971
+908,160215438,"Terence, Sydney",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1979
+909,160213302,"Terence, Willie",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1979
+910,160213303,"Terence, Yala",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1981
+911,25086560,"Terum, Jaspar",M,Kongibuglg 2,Student,14 Dec 2003
+912,160244176,"Therence, Jano",M,Kongibuglg 2,Student,01 Jan 1987
+913,160244177,"Therence, Mickdom",M,Kongibuglg 2,Student,01 Jan 1990
+914,160226555,"Thomas, Silvia",M,Kongibuglg 2,Student,01 Jan 1988
+915,160215046,"Thomas, Solo",M,Kongibuglg 2,Student,01 Jan 1989
+916,160215033,"Thomas, Starlon",M,Kongibuglg 2,Student,01 Jan 1987
+917,160210992,"Tindalu, Miwa",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1967
+918,160212872,"Tindalu, Yoke",M,Kongibuglg 2,Student,01 Jan 1981
+919,160224293,"Tiripeye, Yali",M,Kongibuglg 2,Student,04 Jun 1987
+920,25086566,"Tiro, Tonnial",M,Kongibuglg 2,Student,14 Jul 1999
+921,160224054,"Tiye, Benny",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1978
+922,160224268,"Tiye, Nichole",M,Kongibuglg 2,Student,07 Aug 1989
+923,160224442,"Tiye, Peter",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1970
+924,160226392,"Tiye, Willie",M,Kongibuglg 2,Subsistence Farmer,06 May 1984
+925,160205006,"Tomba, Alphonse",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1981
+926,160243727,"Tomba, Kama",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1971
+927,160243725,"Tomba, Kopu",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1975
+928,160244531,"Tomba, Punge",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1989
+929,160210573,"Tomba, Roi",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1983
+930,160210453,"Tomba, Steven",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1986
+931,160446255,"Tope, Wiwi",M,Kongibuglg 2,Student,11 Jun 2002
+932,160446239,"Tuksy, Jordan",M,Kongibuglg 2,Carpenter,03 Nov 1994
+933,160205007,"Tungi, Garu",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1944
+934,160244088,"Undi, Jeffry",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1968
+935,160244200,"Undi, Lawerence",M,Kongibuglg 2,Driver,01 Jan 1988
+936,160244197,"Undi, Stiven",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1975
+937,160244198,"Undi, Thomas",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1984
+938,160211324,"Wala, Timothy",M,Kongibuglg 2,Subsistence Farmer,16 Jun 1982
+939,160207470,"Walawie, Nobert",M,Kongibuglg 2,Student,01 Jan 1988
+940,160210203,"Walawie, Pero",M,Kongibuglg 2,Student,01 Jan 1989
+941,160207471,"Walawie, Pewi",M,Kongibuglg 2,Student,01 Jan 1990
+942,160244541,"Wama, Rex",M,Kongibuglg 2,Student,01 Jan 1990
+943,160244540,"Wama, Tende",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1984
+944,160210833,"Wamo, Cain",M,Kongibuglg 2,Student,01 Jan 1977
+945,160210250,"Wamo, Daniel",M,Kongibuglg 2,Student,01 Jan 1982
+946,160212876,"Wamo, Kelo",M,Kongibuglg 2,Student,01 Jan 1986
+947,160212363,"Wamo, Pilly",M,Kongibuglg 2,Student,01 Jan 1990
+948,160210249,"Wamo, Roney",M,Kongibuglg 2,Student,01 Jan 1980
+949,160210490,"Wamo, Wandi",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1969
+950,160210837,"Wamo, Wesly",M,Kongibuglg 2,Student,01 Jan 1988
+951,25086570,"Wandi, Jeff",M,Kongibuglg 2,Student,13 Mar 2001
+952,25086572,"Wandi, Winta",M,Kongibuglg 2,Student,12 Apr 2003
+953,160218423,"Wanepo, Korea",M,Kongibuglg 2,Student,01 Jan 1990
+954,160210850,"Waniye, John",M,Kongibuglg 2,Student,01 Jan 1978
+955,160207639,"Waniye, Semi",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1982
+956,160210862,"Waniye, Solo",M,Kongibuglg 2,Student,01 Jan 1988
+957,160207635,"Waniye, Wapi",M,Kongibuglg 2,Not Specified,01 Jan 1984
+958,160207634,"Waniye, Wini",M,Kongibuglg 2,Student,01 Jan 1980
+959,160244545,"Wapi, Henry",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1986
+960,160244546,"Wapi, Joe",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1989
+961,160128573,"Wapia, Arut",M,Kongibuglg 2,Student,11 Mar 1998
+962,160225198,"Wapia, Jephet",M,Kongibuglg 2,Student,01 Jan 1986
+963,160227221,"Wapia, Peyandi",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1951
+964,160225200,"Wapu, Maika",M,Kongibuglg 2,Student,01 Jan 1986
+965,160243721,"Wari, Daniel",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1983
+966,160218284,"Wiwi, Mondo",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1935
+967,160210894,"Yakela, Kalatoli",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1944
+968,160210889,"Yakela, Nande",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1936
+969,160212388,"Yakela, Noli",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1948
+970,160225215,"Yamba, Lepi",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1972
+971,160225202,"Yamba, Pawembo",M,Kongibuglg 2,Driver,01 Jan 1966
+972,160244039,"Yamo, Mek",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1946
+973,160227362,"Yana, Rex",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1964
+974,160226255,"Yawa, Dick",M,Kongibuglg 2,Student,06 Jul 1981
+975,160226398,"Yawa, Kone",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1974
+976,160226397,"Yawa, Koya",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1970
+977,160226375,"Yawa, Siti",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1978
+978,160243732,"Yoke, Kake",M,Kongibuglg 2,Subsistence Farmer,01 Jan 1953

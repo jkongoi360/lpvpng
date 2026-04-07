@@ -1,0 +1,892 @@
+{
+  "provinceId": "east-sepik",
+  "electorates": [
+    {
+      "electorateSlug": "wewak",
+      "llgs": [
+        {
+          "id": "wewak-wewak-urban",
+          "name": "Wewak Urban LLG",
+          "electorateSlug": "wewak",
+          "wards": [
+            {
+              "id": "wewak-urban-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1868
+            },
+            {
+              "id": "wewak-urban-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1879
+            },
+            {
+              "id": "wewak-urban-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2134
+            },
+            {
+              "id": "wewak-urban-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1835
+            },
+            {
+              "id": "wewak-urban-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2717
+            },
+            {
+              "id": "wewak-urban-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1827
+            },
+            {
+              "id": "wewak-urban-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2444
+            }
+          ]
+        },
+        {
+          "id": "wewak-wewak-rural",
+          "name": "Wewak Rural LLG",
+          "electorateSlug": "wewak",
+          "wards": [
+            {
+              "id": "wewak-rural-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2354
+            },
+            {
+              "id": "wewak-rural-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3873
+            },
+            {
+              "id": "wewak-rural-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2355
+            },
+            {
+              "id": "wewak-rural-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3578
+            },
+            {
+              "id": "wewak-rural-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2002
+            },
+            {
+              "id": "wewak-rural-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2526
+            }
+          ]
+        },
+        {
+          "id": "wewak-but-dagua",
+          "name": "But-Dagua LLG",
+          "electorateSlug": "wewak",
+          "wards": [
+            {
+              "id": "but-dagua-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2907
+            },
+            {
+              "id": "but-dagua-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4447
+            },
+            {
+              "id": "but-dagua-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3999
+            },
+            {
+              "id": "but-dagua-w04",
+              "name": "Ward 4",
+              "registeredVoters": 7567
+            }
+          ]
+        },
+        {
+          "id": "wewak-yangoru",
+          "name": "Yangoru LLG",
+          "electorateSlug": "wewak",
+          "wards": [
+            {
+              "id": "yangoru-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2979
+            },
+            {
+              "id": "yangoru-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2586
+            },
+            {
+              "id": "yangoru-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2688
+            },
+            {
+              "id": "yangoru-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2177
+            },
+            {
+              "id": "yangoru-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3592
+            },
+            {
+              "id": "yangoru-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2928
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "angoram",
+      "llgs": [
+        {
+          "id": "angoram-angoram",
+          "name": "Angoram LLG",
+          "electorateSlug": "angoram",
+          "wards": [
+            {
+              "id": "angoram-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2902
+            },
+            {
+              "id": "angoram-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3523
+            },
+            {
+              "id": "angoram-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3642
+            },
+            {
+              "id": "angoram-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1845
+            },
+            {
+              "id": "angoram-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3056
+            }
+          ]
+        },
+        {
+          "id": "angoram-karawari",
+          "name": "Karawari LLG",
+          "electorateSlug": "angoram",
+          "wards": [
+            {
+              "id": "karawari-w01",
+              "name": "Ward 1",
+              "registeredVoters": 5116
+            },
+            {
+              "id": "karawari-w02",
+              "name": "Ward 2",
+              "registeredVoters": 4490
+            },
+            {
+              "id": "karawari-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1715
+            },
+            {
+              "id": "karawari-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3753
+            }
+          ]
+        },
+        {
+          "id": "angoram-blackwater",
+          "name": "Blackwater LLG",
+          "electorateSlug": "angoram",
+          "wards": [
+            {
+              "id": "blackwater-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3417
+            },
+            {
+              "id": "blackwater-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3242
+            },
+            {
+              "id": "blackwater-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1913
+            },
+            {
+              "id": "blackwater-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2933
+            },
+            {
+              "id": "blackwater-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1917
+            }
+          ]
+        },
+        {
+          "id": "angoram-porapora",
+          "name": "Porapora LLG",
+          "electorateSlug": "angoram",
+          "wards": [
+            {
+              "id": "porapora-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1106
+            },
+            {
+              "id": "porapora-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1673
+            },
+            {
+              "id": "porapora-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1814
+            },
+            {
+              "id": "porapora-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2006
+            },
+            {
+              "id": "porapora-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1103
+            },
+            {
+              "id": "porapora-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2219
+            },
+            {
+              "id": "porapora-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1328
+            },
+            {
+              "id": "porapora-w08",
+              "name": "Ward 8",
+              "registeredVoters": 2301
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "maprik",
+      "llgs": [
+        {
+          "id": "maprik-maprik",
+          "name": "Maprik LLG",
+          "electorateSlug": "maprik",
+          "wards": [
+            {
+              "id": "maprik-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2300
+            },
+            {
+              "id": "maprik-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1809
+            },
+            {
+              "id": "maprik-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1311
+            },
+            {
+              "id": "maprik-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2208
+            },
+            {
+              "id": "maprik-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1134
+            },
+            {
+              "id": "maprik-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2445
+            },
+            {
+              "id": "maprik-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1023
+            },
+            {
+              "id": "maprik-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1639
+            },
+            {
+              "id": "maprik-w09",
+              "name": "Ward 9",
+              "registeredVoters": 2338
+            },
+            {
+              "id": "maprik-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1550
+            }
+          ]
+        },
+        {
+          "id": "maprik-albiges",
+          "name": "Albiges LLG",
+          "electorateSlug": "maprik",
+          "wards": [
+            {
+              "id": "albiges-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1417
+            },
+            {
+              "id": "albiges-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2409
+            },
+            {
+              "id": "albiges-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1791
+            },
+            {
+              "id": "albiges-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1341
+            },
+            {
+              "id": "albiges-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1420
+            },
+            {
+              "id": "albiges-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2137
+            },
+            {
+              "id": "albiges-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2578
+            },
+            {
+              "id": "albiges-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1624
+            },
+            {
+              "id": "albiges-w09",
+              "name": "Ward 9",
+              "registeredVoters": 2193
+            },
+            {
+              "id": "albiges-w10",
+              "name": "Ward 10",
+              "registeredVoters": 1682
+            }
+          ]
+        },
+        {
+          "id": "maprik-north-wosera",
+          "name": "North Wosera LLG",
+          "electorateSlug": "maprik",
+          "wards": [
+            {
+              "id": "north-wosera-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3970
+            },
+            {
+              "id": "north-wosera-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3365
+            },
+            {
+              "id": "north-wosera-w03",
+              "name": "Ward 3",
+              "registeredVoters": 6775
+            },
+            {
+              "id": "north-wosera-w04",
+              "name": "Ward 4",
+              "registeredVoters": 5258
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "wosera-gawi",
+      "llgs": [
+        {
+          "id": "wosera-gawi-wosera",
+          "name": "Wosera LLG",
+          "electorateSlug": "wosera-gawi",
+          "wards": [
+            {
+              "id": "wosera-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2401
+            },
+            {
+              "id": "wosera-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2401
+            },
+            {
+              "id": "wosera-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3254
+            },
+            {
+              "id": "wosera-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2255
+            },
+            {
+              "id": "wosera-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2069
+            },
+            {
+              "id": "wosera-w06",
+              "name": "Ward 6",
+              "registeredVoters": 4827
+            }
+          ]
+        },
+        {
+          "id": "wosera-gawi-gawi",
+          "name": "Gawi LLG",
+          "electorateSlug": "wosera-gawi",
+          "wards": [
+            {
+              "id": "gawi-w01",
+              "name": "Ward 1",
+              "registeredVoters": 4180
+            },
+            {
+              "id": "gawi-w02",
+              "name": "Ward 2",
+              "registeredVoters": 3975
+            },
+            {
+              "id": "gawi-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3213
+            },
+            {
+              "id": "gawi-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2347
+            },
+            {
+              "id": "gawi-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2899
+            },
+            {
+              "id": "gawi-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2050
+            }
+          ]
+        },
+        {
+          "id": "wosera-gawi-tunai-numbo",
+          "name": "Tunai-Numbo LLG",
+          "electorateSlug": "wosera-gawi",
+          "wards": [
+            {
+              "id": "tunai-numbo-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3072
+            },
+            {
+              "id": "tunai-numbo-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2143
+            },
+            {
+              "id": "tunai-numbo-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1594
+            },
+            {
+              "id": "tunai-numbo-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2445
+            },
+            {
+              "id": "tunai-numbo-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1806
+            },
+            {
+              "id": "tunai-numbo-w06",
+              "name": "Ward 6",
+              "registeredVoters": 3374
+            },
+            {
+              "id": "tunai-numbo-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2066
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "yangoru-saussia",
+      "llgs": [
+        {
+          "id": "yangoru-saussia-yangoru",
+          "name": "Yangoru LLG",
+          "electorateSlug": "yangoru-saussia",
+          "wards": [
+            {
+              "id": "yangoru-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2874
+            },
+            {
+              "id": "yangoru-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2114
+            },
+            {
+              "id": "yangoru-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2083
+            },
+            {
+              "id": "yangoru-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3559
+            },
+            {
+              "id": "yangoru-w05",
+              "name": "Ward 5",
+              "registeredVoters": 3412
+            },
+            {
+              "id": "yangoru-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1983
+            },
+            {
+              "id": "yangoru-w07",
+              "name": "Ward 7",
+              "registeredVoters": 3037
+            }
+          ]
+        },
+        {
+          "id": "yangoru-saussia-saussia",
+          "name": "Saussia LLG",
+          "electorateSlug": "yangoru-saussia",
+          "wards": [
+            {
+              "id": "saussia-w01",
+              "name": "Ward 1",
+              "registeredVoters": 3404
+            },
+            {
+              "id": "saussia-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1550
+            },
+            {
+              "id": "saussia-w03",
+              "name": "Ward 3",
+              "registeredVoters": 3599
+            },
+            {
+              "id": "saussia-w04",
+              "name": "Ward 4",
+              "registeredVoters": 2355
+            },
+            {
+              "id": "saussia-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1447
+            },
+            {
+              "id": "saussia-w06",
+              "name": "Ward 6",
+              "registeredVoters": 3216
+            }
+          ]
+        },
+        {
+          "id": "yangoru-saussia-north-coast-east-sepik",
+          "name": "North Coast East Sepik LLG",
+          "electorateSlug": "yangoru-saussia",
+          "wards": [
+            {
+              "id": "north-coast-east-sepik-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2873
+            },
+            {
+              "id": "north-coast-east-sepik-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2116
+            },
+            {
+              "id": "north-coast-east-sepik-w03",
+              "name": "Ward 3",
+              "registeredVoters": 2730
+            },
+            {
+              "id": "north-coast-east-sepik-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1652
+            },
+            {
+              "id": "north-coast-east-sepik-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2151
+            },
+            {
+              "id": "north-coast-east-sepik-w06",
+              "name": "Ward 6",
+              "registeredVoters": 2572
+            },
+            {
+              "id": "north-coast-east-sepik-w07",
+              "name": "Ward 7",
+              "registeredVoters": 2207
+            },
+            {
+              "id": "north-coast-east-sepik-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1133
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electorateSlug": "ambunti-dreikikir",
+      "llgs": [
+        {
+          "id": "ambunti-dreikikir-ambunti",
+          "name": "Ambunti LLG",
+          "electorateSlug": "ambunti-dreikikir",
+          "wards": [
+            {
+              "id": "ambunti-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1676
+            },
+            {
+              "id": "ambunti-w02",
+              "name": "Ward 2",
+              "registeredVoters": 2236
+            },
+            {
+              "id": "ambunti-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1497
+            },
+            {
+              "id": "ambunti-w04",
+              "name": "Ward 4",
+              "registeredVoters": 3031
+            },
+            {
+              "id": "ambunti-w05",
+              "name": "Ward 5",
+              "registeredVoters": 2368
+            }
+          ]
+        },
+        {
+          "id": "ambunti-dreikikir-dreikikir",
+          "name": "Dreikikir LLG",
+          "electorateSlug": "ambunti-dreikikir",
+          "wards": [
+            {
+              "id": "dreikikir-w01",
+              "name": "Ward 1",
+              "registeredVoters": 917
+            },
+            {
+              "id": "dreikikir-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1268
+            },
+            {
+              "id": "dreikikir-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1326
+            },
+            {
+              "id": "dreikikir-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1185
+            },
+            {
+              "id": "dreikikir-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1220
+            },
+            {
+              "id": "dreikikir-w06",
+              "name": "Ward 6",
+              "registeredVoters": 923
+            },
+            {
+              "id": "dreikikir-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1418
+            },
+            {
+              "id": "dreikikir-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1039
+            },
+            {
+              "id": "dreikikir-w09",
+              "name": "Ward 9",
+              "registeredVoters": 907
+            },
+            {
+              "id": "dreikikir-w10",
+              "name": "Ward 10",
+              "registeredVoters": 2109
+            }
+          ]
+        },
+        {
+          "id": "ambunti-dreikikir-wagu",
+          "name": "Wagu LLG",
+          "electorateSlug": "ambunti-dreikikir",
+          "wards": [
+            {
+              "id": "wagu-w01",
+              "name": "Ward 1",
+              "registeredVoters": 1046
+            },
+            {
+              "id": "wagu-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1643
+            },
+            {
+              "id": "wagu-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1757
+            },
+            {
+              "id": "wagu-w04",
+              "name": "Ward 4",
+              "registeredVoters": 1510
+            },
+            {
+              "id": "wagu-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1457
+            },
+            {
+              "id": "wagu-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1324
+            },
+            {
+              "id": "wagu-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1121
+            },
+            {
+              "id": "wagu-w08",
+              "name": "Ward 8",
+              "registeredVoters": 973
+            },
+            {
+              "id": "wagu-w09",
+              "name": "Ward 9",
+              "registeredVoters": 1292
+            },
+            {
+              "id": "wagu-w10",
+              "name": "Ward 10",
+              "registeredVoters": 677
+            }
+          ]
+        },
+        {
+          "id": "ambunti-dreikikir-gawanga",
+          "name": "Gawanga LLG",
+          "electorateSlug": "ambunti-dreikikir",
+          "wards": [
+            {
+              "id": "gawanga-w01",
+              "name": "Ward 1",
+              "registeredVoters": 2045
+            },
+            {
+              "id": "gawanga-w02",
+              "name": "Ward 2",
+              "registeredVoters": 1022
+            },
+            {
+              "id": "gawanga-w03",
+              "name": "Ward 3",
+              "registeredVoters": 1137
+            },
+            {
+              "id": "gawanga-w04",
+              "name": "Ward 4",
+              "registeredVoters": 962
+            },
+            {
+              "id": "gawanga-w05",
+              "name": "Ward 5",
+              "registeredVoters": 1863
+            },
+            {
+              "id": "gawanga-w06",
+              "name": "Ward 6",
+              "registeredVoters": 1957
+            },
+            {
+              "id": "gawanga-w07",
+              "name": "Ward 7",
+              "registeredVoters": 1172
+            },
+            {
+              "id": "gawanga-w08",
+              "name": "Ward 8",
+              "registeredVoters": 1542
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

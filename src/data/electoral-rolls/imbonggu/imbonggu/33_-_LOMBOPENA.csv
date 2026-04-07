@@ -1,0 +1,383 @@
+Seq,Elector Id,"Name (Last, First)",Gender,Location,Occupation,DOB
+1,160444679,"Andrew, Jenniffer",F,LOMBOPENA,Household Duties,10 Jun 1999
+2,160241731,"Andrew, Racheal",F,LOMBOPENA,Household Duties,01 Jan 1984
+3,160241439,"Anis, Silla",F,LOMBOPENA,Household Duties,01 Jan 1989
+4,160124412,"Annis, Chillah",F,LOMBOPENA,Not Specified,12 Feb 1989
+5,160241438,"Bembo, Matina",F,LOMBOPENA,Subsistence Farmer,01 Jan 1981
+6,160444682,"Ben, Serolin",F,LOMBOPENA,Student,11 Jan 2002
+7,160196489,"Bome, Kupini",F,LOMBOPENA,Household Duties,01 Jan 1968
+8,160250079,"Bome, Monica",F,LOMBOPENA,Household Duties,01 Jan 1986
+9,160188513,"Bonnie, Diana",F,LOMBOPENA,Clerk,01 Jan 1970
+10,160124320,"Bumbu, Enna",F,LOMBOPENA,Pastor,15 Aug 1961
+11,160188523,"Charlie, Miriam",F,LOMBOPENA,Household Duties,01 Jan 1980
+12,160444656,"Daniel, Grace",F,LOMBOPENA,Student,04 Sep 2000
+13,160444676,"Danny, Selina",F,LOMBOPENA,Household Duties,18 Oct 1999
+14,160444629,"David, Davina",F,LOMBOPENA,Student,28 Apr 2002
+15,160444603,"David, Rebeca",F,LOMBOPENA,Student,02 Feb 2004
+16,160444670,"Daye, Judy",F,LOMBOPENA,Student,06 Mar 2002
+17,160444687,"Dopo, Diana",F,LOMBOPENA,Student,03 Jun 2002
+18,160136712,"Enna, Kombil",F,LOMBOPENA,Household Duties,18 Aug 1969
+19,160444693,"Enna, Mercy",F,LOMBOPENA,Student,02 Jan 2000
+20,160124323,"Enna, Rebecca",F,LOMBOPENA,Student,05 Dec 1990
+21,160444677,"Felix, Kerolin",F,LOMBOPENA,Household Duties,23 Sep 1987
+22,160444667,"Felix, Penny",F,LOMBOPENA,Household Duties,02 May 1997
+23,160191120,"Gerry, Rombame",F,LOMBOPENA,Household Duties,01 Jan 1972
+24,160193819,"Gilbert, Mary",F,LOMBOPENA,Household Duties,01 Jan 1973
+25,160444672,"Givson, Kathy",F,LOMBOPENA,Student,14 Feb 2000
+26,160136609,"Henry, Elecy",F,LOMBOPENA,Student,13 Apr 1997
+27,160241714,"Jackson, Monica",F,LOMBOPENA,Household Duties,01 Jan 1989
+28,160247186,"Jacob, Jenny",F,LOMBOPENA,Teacher,01 Jan 1975
+29,160196947,"James, Teres",F,LOMBOPENA,Household Duties,01 Jan 1971
+30,160247205,"Jim, Essi",F,LOMBOPENA,Household Duties,12 Feb 1967
+31,160250179,"Jim, Liony",F,LOMBOPENA,Household Duties,01 Jan 1986
+32,160247200,"Jim, Regina",F,LOMBOPENA,Sister,14 Sep 1968
+33,160247190,"Jim, Selina",F,LOMBOPENA,Student,04 Dec 1994
+34,160124416,"Joel, Mati",F,LOMBOPENA,Household Duties,04 Jan 1982
+35,25073938,"John, Linna",F,LOMBOPENA,Subsistence Farmer,10 Apr 1997
+36,160190860,"Kaima, Mati",F,LOMBOPENA,Household Duties,01 Jan 1973
+37,160194144,"Kainge, Meku",F,LOMBOPENA,Household Duties,01 Jan 1957
+38,160188295,"Kalapari, Roselyn",F,LOMBOPENA,Student,01 Jan 1982
+39,160444689,"Kawa, Reggy",F,LOMBOPENA,Student,08 Feb 2004
+40,160250186,"Kelly, Judy",F,LOMBOPENA,Household Duties,01 Jan 1982
+41,160247304,"Kelly, Maria",F,LOMBOPENA,Student,01 Jan 1992
+42,160252027,"Kelly, Mary",F,LOMBOPENA,Household Duties,01 Jan 1979
+43,160197128,"Kelly, Mayambo",F,LOMBOPENA,Household Duties,01 Jan 1970
+44,160247303,"Kelly, Milinde",F,LOMBOPENA,Student,01 Jan 1990
+45,160247195,"Kelly, Monica",F,LOMBOPENA,Student,01 Jan 1993
+46,160197130,"Kelly, Sande",F,LOMBOPENA,Student,01 Jan 1981
+47,160124421,"Kepa, Lynna",F,LOMBOPENA,Pastor,08 May 1967
+48,160249443,"Kera, Jeniffer",F,LOMBOPENA,Household Duties,01 Jan 1980
+49,160190618,"Kina, Dolly",F,LOMBOPENA,Student,01 Jan 1987
+50,160136632,"Kipulu, Melynda",F,LOMBOPENA,Household Duties,02 Oct 1993
+51,160184890,"Kondowa, Janet",F,LOMBOPENA,Not Specified,01 Jan 1980
+52,160185030,"Kondowa, Lowaiye",F,LOMBOPENA,Household Duties,01 Jan 1966
+53,160444659,"Kopu, Pili",F,LOMBOPENA,Student,03 May 1997
+54,160207061,"Ku, Julie",F,LOMBOPENA,Student,01 Jan 1982
+55,160206913,"Ku, Tino",F,LOMBOPENA,Household Duties,01 Jan 1966
+56,160194647,"Kuleko, Wesly",F,LOMBOPENA,Household Duties,01 Jan 1971
+57,160188271,"Kuno, Alice",F,LOMBOPENA,Not Specified,01 Jan 1969
+58,160124447,"Kupini, Dollie",F,LOMBOPENA,Student,11 May 1990
+59,160247187,"Kuruwe, Mini",F,LOMBOPENA,Subsistence Farmer,01 Jan 1931
+60,160184830,"Langi, Wipa",F,LOMBOPENA,Household Duties,01 Jan 1939
+61,160241727,"Lapi, Penne",F,LOMBOPENA,Household Duties,01 Jan 1963
+62,160249069,"Lgope, Moye",F,LOMBOPENA,Student,01 Jan 1994
+63,160241726,"Lgoraiye, Helen",F,LOMBOPENA,Housegirl,01 Jan 1987
+64,160250065,"Lgoraiye, Kipuno",F,LOMBOPENA,Household Duties,01 Jan 1945
+65,160241716,"Logoraiye, Ambuno",F,LOMBOPENA,Household Duties,01 Jan 1952
+66,160185201,"Loraiye, Henny",F,LOMBOPENA,Not Specified,01 Jan 1989
+67,160185172,"Loraiye, Mone",F,LOMBOPENA,Household Duties,01 Jan 1970
+68,160185173,"Loraiye, Penny",F,LOMBOPENA,Not Specified,01 Jan 1984
+69,160444650,"Ltingi, Nancy",F,LOMBOPENA,Store Keeper,13 Feb 1998
+70,160124419,"Lucas, Jerothy",F,LOMBOPENA,Subsistence Farmer,01 Jul 1996
+71,160250185,"Luke, Jessica",F,LOMBOPENA,Student,01 Jan 1989
+72,160444633,"Luke, Malinda",F,LOMBOPENA,Housegirl,15 May 2003
+73,160444624,"Malin, Malinda",F,LOMBOPENA,Student,07 Jul 2001
+74,160124317,"Malipiye, Chillah",F,LOMBOPENA,Household Duties,10 Sep 1990
+75,160241452,"Mambo, Essi",F,LOMBOPENA,Subsistence Farmer,01 Jan 1949
+76,160207069,"Mara, Monica",F,LOMBOPENA,Household Duties,01 Jan 1947
+77,160193726,"Mare, Rarame",F,LOMBOPENA,Household Duties,01 Jan 1961
+78,160207785,"Mare, Wari",F,LOMBOPENA,Household Duties,01 Jan 1969
+79,160444655,"Mark, Kerolyen",F,LOMBOPENA,Household Duties,01 Jul 1998
+80,160444605,"Marowa, Elci",F,LOMBOPENA,Student,25 Aug 2003
+81,160191371,"Marowa, Joan",F,LOMBOPENA,Student,01 Jan 1986
+82,160191369,"Marowa, Josephine",F,LOMBOPENA,Student,01 Jan 1982
+83,160196143,"Marowa, Rose",F,LOMBOPENA,Household Duties,01 Jan 1969
+84,160124316,"Marowa, Serinah",F,LOMBOPENA,Household Duties,03 Apr 1998
+85,160124439,"Martin, Marlyn",F,LOMBOPENA,Student,14 Mar 1999
+86,160207760,"Matas, Sentra",F,LOMBOPENA,Household Duties,01 Jan 1973
+87,160193826,"Max, Christina",F,LOMBOPENA,Household Duties,01 Jan 1979
+88,160191353,"Mek, Date",F,LOMBOPENA,Baby Sitter,01 Jan 1981
+89,160191355,"Mek, Wambiri",F,LOMBOPENA,Not Specified,01 Jan 1984
+90,160185022,"Mendeli, Bos",F,LOMBOPENA,Household Duties,01 Jan 1967
+91,160124446,"Mendep, Rebecca",F,LOMBOPENA,Student,02 May 1998
+92,160250345,"Mendep, Tenis",F,LOMBOPENA,Household Duties,01 Jan 1993
+93,160185164,"Mona, Rebecca",F,LOMBOPENA,Household Duties,01 Jan 1979
+94,160188281,"Mone, Suka",F,LOMBOPENA,Household Duties,01 Jan 1971
+95,160207781,"Mukiye, Hellen",F,LOMBOPENA,Not Specified,01 Jan 1988
+96,160184891,"Mukiye, Taiye",F,LOMBOPENA,Household Duties,01 Jan 1967
+97,160136599,"Nambano, Marko",F,LOMBOPENA,Pastor,01 Apr 1989
+98,160250172,"Napa, Lembo",F,LOMBOPENA,Household Duties,01 Jan 1944
+99,160207905,"Natil, Pule",F,LOMBOPENA,Household Duties,01 Jan 1962
+100,160124411,"Nema, Annita",F,LOMBOPENA,Household Duties,06 Jun 1997
+101,160124319,"Nema, Dorothy",F,LOMBOPENA,Household Duties,02 Jul 1996
+102,160206893,"Nendo, Moti",F,LOMBOPENA,Not Specified,01 Jan 1980
+103,160241729,"Nicholas, Lewa",F,LOMBOPENA,Household Duties,01 Jan 1969
+104,160184546,"Ninde, Mondopa",F,LOMBOPENA,Household Duties,01 Jan 1961
+105,160191398,"Ninde, Tenis",F,LOMBOPENA,Student,01 Jan 1979
+106,160196055,"Nindiye, Jenny",F,LOMBOPENA,Student,01 Jan 1983
+107,160241435,"Nokopo, Robi",F,LOMBOPENA,Household Duties,01 Jan 1975
+108,160124426,"Onno, Jenny",F,LOMBOPENA,Subsistence Farmer,11 May 1997
+109,160136607,"Onno, Rosala",F,LOMBOPENA,Student,25 Feb 1999
+110,160444613,"Ono, Dolly",F,LOMBOPENA,Student,19 Feb 2004
+111,160184911,"Panjipo, Savina",F,LOMBOPENA,Household Duties,01 Jan 1972
+112,160250072,"Paul, Esther",F,LOMBOPENA,Household Duties,01 Jan 1982
+113,160190623,"Pembo, Dorothy",F,LOMBOPENA,Household Duties,01 Jan 1972
+114,160196239,"Pera, Kumul",F,LOMBOPENA,Household Duties,01 Jan 1966
+115,160185186,"Philip, Pilge",F,LOMBOPENA,Household Duties,01 Jan 1968
+116,160191348,"Philip, Rose",F,LOMBOPENA,Household Duties,01 Jan 1971
+117,160250182,"Pila, Alice",F,LOMBOPENA,Household Duties,01 Jan 1976
+118,160185177,"Piyele, Lowaiye",F,LOMBOPENA,Household Duties,01 Jan 1967
+119,160124593,"Polomiye, Anica",F,LOMBOPENA,Student,11 Apr 1999
+120,160124601,"Pombo, Joy",F,LOMBOPENA,Student,19 Jul 1998
+121,160184837,"Pora, Lucy",F,LOMBOPENA,Household Duties,01 Jan 1980
+122,160250069,"Pora, Nemo",F,LOMBOPENA,Household Duties,01 Jan 1977
+123,160250080,"Pote, Jessica",F,LOMBOPENA,Household Duties,01 Jan 2000
+124,160250081,"Pote, Marilyn",F,LOMBOPENA,Household Duties,01 Jan 1990
+125,160185009,"Puru, Mary",F,LOMBOPENA,Household Duties,01 Jan 1983
+126,160247309,"Rakenda, Lewa",F,LOMBOPENA,Subsistence Farmer,14 Jun 1981
+127,160185024,"Rami, Rose",F,LOMBOPENA,Household Duties,01 Jan 1981
+128,160124427,"Raymond, Sallin",F,LOMBOPENA,Student,01 Mar 1999
+129,160444636,"Rex, Linda",F,LOMBOPENA,Gardener,10 Feb 2000
+130,160136714,"Rex, Marlynda",F,LOMBOPENA,Household Duties,10 Feb 1999
+131,160250342,"Rex, Porame",F,LOMBOPENA,Household Duties,01 Jan 1965
+132,160136611,"Robert, Roslyn",F,LOMBOPENA,Subsistence Farmer,06 Mar 1992
+133,160136612,"Robert, Wendy",F,LOMBOPENA,Subsistence Farmer,23 Apr 1982
+134,160136605,"Ruben, Mersy",F,LOMBOPENA,Student,02 Mar 1998
+135,160444617,"Ruben, Mesi",F,LOMBOPENA,Student,10 Apr 2004
+136,160444686,"Ruben, Serol",F,LOMBOPENA,Student,15 Jul 2003
+137,160444614,"Ruben, Sinda",F,LOMBOPENA,Student,10 Sep 2001
+138,160249067,"Samuel, Dessy",F,LOMBOPENA,Student,01 Jan 1987
+139,160193561,"Simon, Benedett",F,LOMBOPENA,Household Duties,01 Jan 1969
+140,160196206,"Simon, Epa",F,LOMBOPENA,Household Duties,01 Jan 1975
+141,160188533,"Simon, Grace",F,LOMBOPENA,Household Duties,01 Jan 1973
+142,160136711,"Simon, Linda",F,LOMBOPENA,Subsistence Farmer,13 Apr 1997
+143,160246950,"Steven, Betty",F,LOMBOPENA,Household Duties,01 Jan 1967
+144,160247308,"Steven, Cathy",F,LOMBOPENA,Student,01 Jan 1993
+145,160444678,"Steven, Wema",F,LOMBOPENA,Household Duties,17 Jan 1990
+146,160184841,"Taket, Karapos",F,LOMBOPENA,Household Duties,01 Jan 1971
+147,160190626,"Tamsen, Joan",F,LOMBOPENA,Household Duties,01 Jan 1979
+148,160185204,"Tapoli, Kepume",F,LOMBOPENA,Household Duties,01 Jan 1965
+149,160184991,"Tapoli, Wali",F,LOMBOPENA,Student,01 Jan 1986
+150,160241715,"Tapure, Rose",F,LOMBOPENA,Household Duties,01 Jan 1979
+151,160189775,"Tendeli, Andi",F,LOMBOPENA,Not Specified,01 Jan 1984
+152,160193240,"Tenge, Julie",F,LOMBOPENA,Household Duties,01 Jan 1974
+153,160187863,"Terry, Eileen",F,LOMBOPENA,Student,01 Jan 1981
+154,160187865,"Terry, Ruth",F,LOMBOPENA,Student,01 Jan 1982
+155,160444609,"Tie, Magaret",F,LOMBOPENA,Household Duties,18 Jul 1979
+156,160191296,"Timbo, Eiyembo",F,LOMBOPENA,Household Duties,01 Jan 1965
+157,160124594,"Timothy, Melysah",F,LOMBOPENA,Household Duties,14 Feb 1998
+158,160444675,"Tipora, Lenda",F,LOMBOPENA,Student,20 Nov 2003
+159,160124434,"Tiye, Dorothy",F,LOMBOPENA,Subsistence Farmer,23 Feb 1997
+160,160184860,"Tomano, Cecilia",F,LOMBOPENA,Student,01 Jan 1981
+161,160185146,"Tommy, Garol",F,LOMBOPENA,Household Duties,01 Jan 1978
+162,160185152,"Tondoiye, Mareya",F,LOMBOPENA,Household Duties,01 Jan 1965
+163,160241724,"Tonny, Jacklyn",F,LOMBOPENA,Household Duties,01 Jan 1983
+164,160124592,"Tonny, Roselyn",F,LOMBOPENA,Student,12 Mar 1997
+165,160185379,"Tope, Lino",F,LOMBOPENA,Not Specified,01 Jan 1977
+166,160190856,"Tope, Rose",F,LOMBOPENA,Household Duties,01 Jan 2000
+167,160185253,"Tope, Torome",F,LOMBOPENA,Household Duties,01 Jan 1966
+168,160184846,"Toropo, Pandea",F,LOMBOPENA,Household Duties,01 Jan 1956
+169,160185192,"Turi, Kuli",F,LOMBOPENA,Household Duties,01 Jan 1969
+170,160185179,"Waioye, Jennifer",F,LOMBOPENA,Student,01 Jan 1981
+171,160182800,"Waiye, Penny",F,LOMBOPENA,Not Specified,01 Jan 1978
+172,160185274,"Wanjowa, Lawa",F,LOMBOPENA,Household Duties,01 Jan 1964
+173,160241734,"Wanpis, Betty",F,LOMBOPENA,Household Duties,01 Jan 1968
+174,160185168,"Wanpis, Dina",F,LOMBOPENA,Household Duties,01 Jan 1971
+175,160184893,"Wariye, Ini",F,LOMBOPENA,Household Duties,01 Jan 1967
+176,160444668,"Wenege, Melen",F,LOMBOPENA,Student,06 May 1995
+177,160444666,"Were wex ko, Jertoy",F,LOMBOPENA,Student,04 Sep 2000
+178,160250064,"Wete, Pegamololi",F,LOMBOPENA,Household Duties,01 Jan 1960
+179,160124318,"Willie, Malinda",F,LOMBOPENA,Student,12 Mar 1999
+180,160124588,"Willie, Semila",F,LOMBOPENA,Not Specified,03 Jan 1999
+181,160444631,"Wini, Resol",F,LOMBOPENA,Housegirl,07 Oct 2001
+182,160124445,"Winnie, Rebecca",F,LOMBOPENA,Student,05 Oct 1998
+183,160124591,"Yakopos, Alen",F,LOMBOPENA,Subsistence Farmer,12 Apr 1998
+184,160444685,"Yakopose, Ruth",F,LOMBOPENA,Student,19 Mar 2003
+185,160250177,"Yamba, Rake",F,LOMBOPENA,Subsistence Farmer,01 Jan 1948
+186,160250346,"Yando, Mary",F,LOMBOPENA,Household Duties,01 Jan 1981
+187,160444658,"Yapa, Joina",F,LOMBOPENA,Student,07 May 2002
+188,160444688,"Yombi, Elizabirth",F,LOMBOPENA,Student,04 Mar 2003
+189,160185184,"Yunumi, Rose",F,LOMBOPENA,Student,01 Jan 1988
+190,160198439,"Aiye, Kipulu",M,LOMBOPENA,Subsistence Farmer,01 Jan 1936
+191,160188290,"Aiye, Pawa",M,LOMBOPENA,Student,01 Jan 1981
+192,160191293,"Akea, Mek",M,LOMBOPENA,Subsistence Farmer,01 Jan 1965
+193,160185031,"Alopambo, Norman",M,LOMBOPENA,Student,01 Jan 1982
+194,160241720,"Ari, Lapi",M,LOMBOPENA,Subsistence Farmer,01 Jan 1956
+195,160189761,"Bonnie, Keven",M,LOMBOPENA,Student,01 Jan 1983
+196,160444619,"Daniel, Mawi",M,LOMBOPENA,Student,17 May 2002
+197,160444622,"Dicksen, Mairon",M,LOMBOPENA,Subsistence Farmer,16 Mar 2001
+198,160444660,"Emba, Pete",M,LOMBOPENA,Student,06 Jul 2001
+199,160193263,"Enge, Gerry",M,LOMBOPENA,Driver,01 Jan 1969
+200,160124324,"Enna, Ezekial",M,LOMBOPENA,Student,29 Apr 1990
+201,160124322,"Enna, Steven",M,LOMBOPENA,Student,30 Oct 1993
+202,160124321,"Enna, Timothy",M,LOMBOPENA,Worker,26 Mar 1990
+203,160193091,"Gerry, Santu",M,LOMBOPENA,Student,01 Jan 1980
+204,160193112,"Gerry, Simon",M,LOMBOPENA,Store Keeper,01 Jan 1973
+205,160241434,"Gini, Nokopo",M,LOMBOPENA,Subsistence Farmer,01 Jan 1966
+206,160188530,"Imbiye, Peter",M,LOMBOPENA,Salesman,01 Jan 1969
+207,160196457,"James, Cain",M,LOMBOPENA,Student,01 Jan 1981
+208,160444681,"James, Jamie",M,LOMBOPENA,Student,13 Nov 2001
+209,160136606,"Jeffery, Deno",M,LOMBOPENA,Student,23 Apr 1996
+210,160444643,"Jekop, Jeromy",M,LOMBOPENA,Student,05 Feb 2001
+211,160246565,"Jim, Goliath",M,LOMBOPENA,Student,06 May 1988
+212,160188520,"Kambenda, Imbiye",M,LOMBOPENA,Subsistence Farmer,01 Jan 1941
+213,160185170,"Kambu, Kipulu",M,LOMBOPENA,Subsistence Farmer,01 Jan 1959
+214,160249460,"Kandipo, Moro",M,LOMBOPENA,Subsistence Farmer,01 Jan 1971
+215,160250191,"Kandipo, Pora",M,LOMBOPENA,Subsistence Farmer,01 Jan 1974
+216,160250193,"Kariya, Bagson",M,LOMBOPENA,Student,01 Jan 1994
+217,160241719,"Kariya, Jackson",M,LOMBOPENA,Subsistence Farmer,01 Jan 1986
+218,160124587,"Kawa, Christopher",M,LOMBOPENA,Student,03 Jan 1999
+219,160444690,"Kawa, Enoch",M,LOMBOPENA,Student,21 Mar 2002
+220,160250071,"Keko, Kariya",M,LOMBOPENA,Subsistence Farmer,01 Jan 1954
+221,160252026,"Kelly, Lukas",M,LOMBOPENA,Houseboy,01 Jan 1988
+222,160196221,"Kelly, Stanely",M,LOMBOPENA,Student,01 Jan 1983
+223,160124422,"Kepa, Clandy",M,LOMBOPENA,Student,21 Sep 1996
+224,160124420,"Kera, Junior",M,LOMBOPENA,Student,03 Jun 1998
+225,160185001,"Keriye, Opa",M,LOMBOPENA,Subsistence Farmer,01 Jan 1967
+226,160190778,"Kewei, Charlie",M,LOMBOPENA,Electrician,01 Jan 1978
+227,160190780,"Kewei, John",M,LOMBOPENA,Student,01 Jan 1980
+228,160184834,"Kina, Wesly",M,LOMBOPENA,Student,01 Jan 1981
+229,160196485,"Kipulu, Bome",M,LOMBOPENA,Subsistence Farmer,01 Jan 1961
+230,160196213,"Kipulu, Kelly",M,LOMBOPENA,Subsistence Farmer,01 Jan 1964
+231,160196975,"Kipulu, Kondi",M,LOMBOPENA,Labourer,01 Jan 1970
+232,160196970,"Kipulu, Pera",M,LOMBOPENA,Driver,01 Jan 1967
+233,160185171,"Kipulu, Wanpis",M,LOMBOPENA,Subsistence Farmer,01 Jan 1968
+234,160185051,"Kipulu, Yote",M,LOMBOPENA,Not Specified,01 Jan 1971
+235,160185180,"Kitopa, Kuli",M,LOMBOPENA,Carpenter,01 Jan 1968
+236,160185040,"Kitopa, Mukiye",M,LOMBOPENA,Subsistence Farmer,01 Jan 1966
+237,160193725,"Kondolkango, Mare",M,LOMBOPENA,Subsistence Farmer,01 Jan 1936
+238,160184889,"Kondowa, Tenis",M,LOMBOPENA,Subsistence Farmer,01 Jan 1970
+239,160136600,"Kopu, Philimon",M,LOMBOPENA,Household Duties,28 Jan 1995
+240,160444665,"Kopu, Stanport",M,LOMBOPENA,Student,09 Feb 2003
+241,160194803,"Kuleko, Daniel",M,LOMBOPENA,Student,01 Jan 1980
+242,160250082,"Kuleko, Peter",M,LOMBOPENA,Welder,01 Jan 1971
+243,160194653,"Kuleko, Vincent",M,LOMBOPENA,Student,01 Jan 1985
+244,160191134,"Kumo, Dominic",M,LOMBOPENA,Baker,01 Jan 1971
+245,160188276,"Kuno, Deto",M,LOMBOPENA,Student,01 Jan 1988
+246,160188268,"Kuno, Jeffery",M,LOMBOPENA,Student,01 Jan 1983
+247,160185000,"Kup, Tamindi",M,LOMBOPENA,Subsistence Farmer,01 Jan 1969
+248,160124425,"Kupini, Jeremaia",M,LOMBOPENA,Student,15 Apr 1997
+249,160184999,"Kuru, David",M,LOMBOPENA,Student,01 Jan 1990
+250,160241441,"Kurukle, Tokopo",M,LOMBOPENA,Driver,01 Jan 1972
+251,160248942,"Kurune, Steven",M,LOMBOPENA,Worker,01 Jan 1956
+252,160444611,"Lando, Parila",M,LOMBOPENA,Student,06 Aug 2003
+253,160184832,"Langi, Kina",M,LOMBOPENA,Manager,01 Jan 1964
+254,160185190,"Langi, Pora",M,LOMBOPENA,Driver,01 Jan 1976
+255,160249066,"Lgope, Jeffrey",M,LOMBOPENA,Subsistence Farmer,01 Jan 1985
+256,160249058,"Lgope, Katidi",M,LOMBOPENA,Student,01 Jan 1995
+257,160249060,"Lgope, Padeya",M,LOMBOPENA,Subsistence Farmer,01 Jan 1982
+258,160250073,"Lgoraiye, David",M,LOMBOPENA,Subsistence Farmer,01 Jan 1973
+259,160241717,"Lgoraiye, Nepol",M,LOMBOPENA,Subsistence Farmer,01 Jan 1983
+260,160249439,"Lgoraiye, Pila",M,LOMBOPENA,Subsistence Farmer,01 Jan 1969
+261,160250170,"Lgoraiye, Simon",M,LOMBOPENA,Student,01 Jan 1990
+262,160241446,"Lopeke, Nicholas",M,LOMBOPENA,Subsistence Farmer,01 Jan 1965
+263,160247311,"Ltingi, John",M,LOMBOPENA,Student,01 Jan 1990
+264,160444651,"Ltingi, Wesly",M,LOMBOPENA,Teacher,13 Feb 1998
+265,160444653,"Lukas, Jeremaia",M,LOMBOPENA,Student,07 Jun 1999
+266,160444634,"Luke, Affet",M,LOMBOPENA,Student,19 Apr 2001
+267,160124597,"Luke, Norman",M,LOMBOPENA,Student,09 Mar 1996
+268,160185191,"Magaile, Turi",M,LOMBOPENA,Subsistence Farmer,01 Jan 1966
+269,160241448,"Maka, Bembo",M,LOMBOPENA,Subsistence Farmer,01 Jan 1971
+270,160247184,"Maka, Ltingi",M,LOMBOPENA,Subsistence Farmer,01 Jan 1944
+271,160444644,"Mambo, Ferman",M,LOMBOPENA,Subsistence Farmer,02 Mar 2004
+272,160196190,"Mane, Geven",M,LOMBOPENA,Driver,01 Jan 1971
+273,160195747,"Mane, Marowa",M,LOMBOPENA,Store Keeper,01 Jan 1974
+274,160196298,"Mane, Steven",M,LOMBOPENA,Baker,01 Jan 1977
+275,160207764,"Mare, Paul",M,LOMBOPENA,Student,01 Jan 1988
+276,160207762,"Mare, Willie",M,LOMBOPENA,Driver,01 Jan 1985
+277,160444692,"Marowa, Lesley",M,LOMBOPENA,Student,01 May 2003
+278,160124314,"Marowa, Lisley",M,LOMBOPENA,Student,03 Apr 1998
+279,160444663,"Martin, Erson",M,LOMBOPENA,Student,07 Apr 2000
+280,160250175,"Marupe, Wete",M,LOMBOPENA,Subsistence Farmer,01 Jan 1956
+281,160444673,"Mathew, Tenis",M,LOMBOPENA,Subsistence Farmer,13 Mar 1999
+282,160444671,"Maxion, Gipsion",M,LOMBOPENA,Student,05 Mar 2002
+283,160191356,"Mek, Jacob",M,LOMBOPENA,Student,01 Jan 1987
+284,160185167,"Mendeli, Jepo",M,LOMBOPENA,Not Specified,01 Jan 1982
+285,160185166,"Mendeli, Taket",M,LOMBOPENA,Subsistence Farmer,01 Jan 1971
+286,160250341,"Mendep, Roman",M,LOMBOPENA,Subsistence Farmer,01 Jan 2000
+287,160136610,"Mike, Newman",M,LOMBOPENA,Household Duties,09 May 1998
+288,160444694,"Miriye, Jerry",M,LOMBOPENA,Student,05 Mar 2003
+289,160250189,"Mokoiye, Fabian",M,LOMBOPENA,Subsistence Farmer,01 Jan 1968
+290,160209754,"Mondoli, Robert",M,LOMBOPENA,Student,01 Jan 1990
+291,160444646,"Moro, Netan",M,LOMBOPENA,Gardener,19 Jan 2002
+292,160241728,"Moro, Peter",M,LOMBOPENA,Subsistence Farmer,01 Jan 1988
+293,160241725,"Moro, Tiye",M,LOMBOPENA,Houseboy,01 Jan 1990
+294,160184992,"Mukiye, Kole",M,LOMBOPENA,Student,01 Jan 1979
+295,160124415,"Namba, George",M,LOMBOPENA,Pastor,09 Aug 1969
+296,160185161,"Nanu, Mona",M,LOMBOPENA,Worker,01 Jan 1970
+297,160207801,"Natil, Matas",M,LOMBOPENA,Store Keeper,01 Jan 1972
+298,160207895,"Natil, Tolo",M,LOMBOPENA,Baker,01 Jan 1980
+299,160248945,"Nema, Kuruwe",M,LOMBOPENA,Subsistence Farmer,01 Jan 1949
+300,160444606,"Nick, Jayson",M,LOMBOPENA,Student,01 Jan 2004
+301,160124437,"Nick, Tenis",M,LOMBOPENA,Student,11 Apr 1999
+302,160184540,"Ninde, Kanop",M,LOMBOPENA,Baker,01 Jan 1967
+303,160184547,"Ninde, Kondowa",M,LOMBOPENA,Salesman,01 Jan 1970
+304,160193248,"Ninde, Tonny",M,LOMBOPENA,Student,01 Jan 1986
+305,160184543,"Ninge, James",M,LOMBOPENA,Student,01 Jan 1981
+306,160184867,"Ninge, Ludwik",M,LOMBOPENA,Subsistence Farmer,01 Jan 1960
+307,160184696,"Ninge, Michael",M,LOMBOPENA,Student,01 Jan 1979
+308,160184544,"Ninge, Nick",M,LOMBOPENA,Student,01 Jan 1983
+309,160136601,"Niye, Kepa",M,LOMBOPENA,Pastor,02 May 1963
+310,160124430,"Nowe, Ismieal",M,LOMBOPENA,Student,10 Mar 1997
+311,160185029,"Nugili, Kondola",M,LOMBOPENA,Subsistence Farmer,01 Jan 1950
+312,160444674,"Onno, Junior",M,LOMBOPENA,Student,06 Jul 2003
+313,160191359,"Opiye, Timbo",M,LOMBOPENA,Subsistence Farmer,01 Jan 1965
+314,160184727,"Paka, Puru",M,LOMBOPENA,Subsistence Farmer,01 Jan 1967
+315,160187877,"Palarutowi, Monda",M,LOMBOPENA,Not Specified,01 Jan 1981
+316,160124436,"Palus, Appol",M,LOMBOPENA,Student,02 Apr 1999
+317,160247300,"Pani, Rakenda",M,LOMBOPENA,Subsistence Farmer,15 Jul 1944
+318,160184731,"Paul, Damien",M,LOMBOPENA,Student,01 Jan 1985
+319,160184881,"Paul, Gideon",M,LOMBOPENA,Student,01 Jan 1982
+320,160124429,"Pawa, Solomon",M,LOMBOPENA,Student,11 Feb 1999
+321,160444623,"Peke, Lipision",M,LOMBOPENA,Student,10 May 2003
+322,160250347,"Peter, Jeremiah",M,LOMBOPENA,Subsistence Farmer,01 Jan 1994
+323,160249077,"Pinjele, Wanpis",M,LOMBOPENA,Pastor,01 Jan 1961
+324,160196182,"Pokeya, Mane",M,LOMBOPENA,Subsistence Farmer,01 Jan 1947
+325,160196158,"Pokeya, Nindiye",M,LOMBOPENA,Subsistence Farmer,01 Jan 1950
+326,160189753,"Pone, Kama",M,LOMBOPENA,Student,01 Jan 1989
+327,160444645,"Pora, Ismail",M,LOMBOPENA,Student,07 Oct 2003
+328,160207767,"Pora, Ku",M,LOMBOPENA,Magistrate,01 Jan 1964
+329,160184726,"Puki, Lopeke",M,LOMBOPENA,Catechist,01 Jan 1966
+330,160444680,"Raymond, Chain",M,LOMBOPENA,Student,09 Dec 2000
+331,160136604,"Robert, Elmax",M,LOMBOPENA,Student,13 Feb 1999
+332,160444628,"Robert, Robin",M,LOMBOPENA,Driver,10 Feb 1998
+333,160136608,"Robert, Sailas",M,LOMBOPENA,Student,14 Mar 1999
+334,160444620,"Ruben, Gebee",M,LOMBOPENA,Student,11 May 1999
+335,160136603,"Ruben, Jonnah",M,LOMBOPENA,Student,04 May 1998
+336,160124442,"Steven, Robin",M,LOMBOPENA,Student,28 Sep 1997
+337,160444639,"Steven, Ronol",M,LOMBOPENA,Student,05 Apr 2004
+338,160246792,"Steven, Ruben",M,LOMBOPENA,Student,01 Jan 1991
+339,160185052,"Telepo, Loraiye",M,LOMBOPENA,Subsistence Farmer,01 Jan 1966
+340,160185199,"Telepo, Tondoiye",M,LOMBOPENA,Subsistence Farmer,01 Jan 1961
+341,160196250,"Tendel, James",M,LOMBOPENA,Subsistence Farmer,01 Jan 1969
+342,160184873,"Terry, Ali",M,LOMBOPENA,Student,01 Jan 1987
+343,160184875,"Terry, Neithan",M,LOMBOPENA,Student,01 Jan 1990
+344,160124589,"Tipora, Appol",M,LOMBOPENA,Subsistence Farmer,12 Apr 1998
+345,160444684,"Tipora, Wama",M,LOMBOPENA,Student,16 Sep 2001
+346,160124600,"Tiri, Joe",M,LOMBOPENA,Household Duties,03 Nov 1998
+347,160250074,"Tiri, Jonah",M,LOMBOPENA,Student,01 Jan 1994
+348,160184862,"Tomano, George",M,LOMBOPENA,Student,01 Jan 1983
+349,160184858,"Tomano, Simon",M,LOMBOPENA,Student,01 Jan 1979
+350,160185211,"Tondoiye, Gabriel",M,LOMBOPENA,Not Specified,01 Jan 1983
+351,160250340,"Toringi, Kera",M,LOMBOPENA,Subsistence Farmer,01 Jan 1979
+352,160250188,"Toringi, Tendako",M,LOMBOPENA,Subsistence Farmer,01 Jan 1984
+353,160195949,"Tua, Luke",M,LOMBOPENA,Baker,01 Jan 1979
+354,160195973,"Tua, Mark",M,LOMBOPENA,Subsistence Farmer,01 Jan 1975
+355,160194739,"Tua, Max",M,LOMBOPENA,Student,01 Jan 1985
+356,160195716,"Tua, Onda",M,LOMBOPENA,Labourer,01 Jan 1972
+357,160124441,"Turi, Ruthy",M,LOMBOPENA,Subsistence Farmer,01 Apr 1992
+358,160169132,"Turi, Samson",M,LOMBOPENA,Not Specified,01 Jan 1979
+359,160185193,"Turi, Simon",M,LOMBOPENA,Student,01 Jan 1981
+360,160250066,"Undi, Rex",M,LOMBOPENA,Peace Officer,01 Jan 1959
+361,160444637,"Wanege, Dackles",M,LOMBOPENA,Subsistence Farmer,22 Sep 2000
+362,160185149,"Wangua, Kitopa",M,LOMBOPENA,Subsistence Farmer,01 Jan 1936
+363,160249462,"Wanpis, Issac",M,LOMBOPENA,Student,01 Jan 1994
+364,160124326,"Wanpis, Isso",M,LOMBOPENA,Subsistence Farmer,20 Jan 1999
+365,160249078,"Wanpis, Joel",M,LOMBOPENA,Subsistence Farmer,01 Jan 1988
+366,160249056,"Wanpis, Matin",M,LOMBOPENA,Subsistence Farmer,01 Jan 1986
+367,160249064,"Wapo, Lgope",M,LOMBOPENA,Subsistence Farmer,01 Jan 1944
+368,160250187,"Wapo, Toringi",M,LOMBOPENA,Subsistence Farmer,01 Jan 1939
+369,160444657,"Wenege, Pekeye",M,LOMBOPENA,Self Employed,04 Feb 1998
+370,160124440,"Wete, Iso",M,LOMBOPENA,Student,23 Mar 1998
+371,160444695,"Willie, Ezikel",M,LOMBOPENA,Student,07 Feb 2000
+372,160246796,"Wini, Inok",M,LOMBOPENA,Student,01 Jan 1994
+373,160247209,"Wini, Steven",M,LOMBOPENA,Subsistence Farmer,01 Jan 1984
+374,160124590,"Yakopos, Steven",M,LOMBOPENA,Sales Women,14 Mar 1996
+375,160124431,"Yapa, Jonnah",M,LOMBOPENA,Student,02 Apr 1999
+376,160444664,"Yapa, Joshua",M,LOMBOPENA,Student,04 Jul 2001
+377,160188529,"Yoko, Willie",M,LOMBOPENA,Subsistence Farmer,01 Jan 1961
+378,160167349,"Yoko, Wini",M,LOMBOPENA,Subsistence Farmer,01 Jan 1900
+379,160124315,"Yombi, Jacob",M,LOMBOPENA,Student,05 Mar 1997
+380,160444691,"Yombi, Jacob",M,LOMBOPENA,Student,30 Apr 2003
+381,160195710,"Yoropa, Geven",M,LOMBOPENA,Student,01 Jan 1982
+382,160195961,"Yoropa, Norman",M,LOMBOPENA,Student,01 Jan 1985
