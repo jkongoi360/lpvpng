@@ -445,6 +445,93 @@
               "registeredVoters": 382
             }
           ]
+        },
+        {
+          "id": "imbonggu-ialibu-urban",
+          "name": "IALIBU URBAN LLG",
+          "electorateSlug": "imbonggu",
+          "wards": [
+            {
+              "id": "imbonggu-ialibu-urban-1---ialibu-01",
+              "name": "1 - IALIBU 01",
+              "registeredVoters": 532
+            },
+            {
+              "id": "imbonggu-ialibu-urban-2---ialibu-02",
+              "name": "2 - IALIBU 02",
+              "registeredVoters": 405
+            },
+            {
+              "id": "imbonggu-ialibu-urban-3---ialibu-03",
+              "name": "3 - IALIBU 03",
+              "registeredVoters": 498
+            },
+            {
+              "id": "imbonggu-ialibu-urban-4---yameyame-1",
+              "name": "4 - YAMEYAME 1",
+              "registeredVoters": 457
+            },
+            {
+              "id": "imbonggu-ialibu-urban-5---topopugl-1",
+              "name": "5 - TOPOPUGL 1",
+              "registeredVoters": 230
+            },
+            {
+              "id": "imbonggu-ialibu-urban-6---topopugl-2",
+              "name": "6 - TOPOPUGL 2",
+              "registeredVoters": 587
+            },
+            {
+              "id": "imbonggu-ialibu-urban-7---ialibu-4",
+              "name": "7 - IALIBU 4",
+              "registeredVoters": 226
+            },
+            {
+              "id": "imbonggu-ialibu-urban-8---yameyame-2",
+              "name": "8 - YAMEYAME 2",
+              "registeredVoters": 349
+            },
+            {
+              "id": "imbonggu-ialibu-urban-9---kokogla",
+              "name": "9 - KOKOGLA",
+              "registeredVoters": 785
+            },
+            {
+              "id": "imbonggu-ialibu-urban-10---kendal-2",
+              "name": "10 - KENDAL 2",
+              "registeredVoters": 562
+            },
+            {
+              "id": "imbonggu-ialibu-urban-11---kendal-3",
+              "name": "11 - KENDAL 3",
+              "registeredVoters": 435
+            },
+            {
+              "id": "imbonggu-ialibu-urban-12---kendal-4",
+              "name": "12 - KENDAL 4",
+              "registeredVoters": 504
+            },
+            {
+              "id": "imbonggu-ialibu-urban-13---lana",
+              "name": "13 - LANA",
+              "registeredVoters": 351
+            },
+            {
+              "id": "imbonggu-ialibu-urban-14---topopulu",
+              "name": "14 - TOPOPULU",
+              "registeredVoters": 226
+            },
+            {
+              "id": "imbonggu-ialibu-urban-15---yali-kuli",
+              "name": "15 - YALI-KULI",
+              "registeredVoters": 219
+            },
+            {
+              "id": "imbonggu-ialibu-urban-16---yakena",
+              "name": "16 - YAKENA",
+              "registeredVoters": 488
+            }
+          ]
         }
       ]
     },
