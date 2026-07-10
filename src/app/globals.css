@@ -131,3 +131,220 @@
     @apply font-sans;
   }
 }
+
+/* ==========================================================================
+   Voter Distribution map (Leaflet)
+
+   Styles below target the Leaflet `DivIcon` HTML and Leaflet popup/tooltip
+   markup. The DivIcon HTML is built as a plain string in
+   `population-map.tsx`, so Tailwind's utility classes can't be used there —
+   the classes have to exist in the global stylesheet.
+   ========================================================================== */
+
+.popup-title {
+  font-weight: 700;
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+
+.popup-llg {
+  font-size: 11px;
+  color: #64748b;
+  margin-bottom: 6px;
+}
+
+.popup-row {
+  font-size: 12px;
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 2px 0;
+}
+
+.popup-btn {
+  margin-top: 8px;
+  width: 100%;
+  background: #f1f5f9;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  padding: 5px 10px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #0f172a;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.popup-btn:hover {
+  background: #e2e8f0;
+}
+
+.map-toolbar {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 500;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(6px);
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 6px 10px;
+  font-size: 12px;
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
+}
+
+.map-toolbar-label {
+  color: #475569;
+  font-weight: 500;
+}
+
+.map-toolbar-btn {
+  background: #0f172a;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 5px 10px;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.map-toolbar-btn:hover:not(:disabled) {
+  background: #1e293b;
+}
+
+.map-toolbar-btn:disabled {
+  background: #cbd5e1;
+  color: #f1f5f9;
+  cursor: not-allowed;
+}
+
+.boundary-tooltip {
+  background: rgba(220, 38, 38, 0.95);
+  color: white;
+  border: none;
+  font-weight: 600;
+  font-size: 12px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+.boundary-tooltip::before {
+  border-top-color: rgba(220, 38, 38, 0.95) !important;
+}
+
+.ward-marker {
+  background: transparent !important;
+  border: none !important;
+}
+
+.ward-pin {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  cursor: grab;
+  font-family: inherit;
+}
+
+.ward-pin:active {
+  cursor: grabbing;
+}
+
+.ward-pin-card {
+  display: flex;
+  align-items: stretch;
+  height: 44px;
+  background: white;
+  border: 1.5px solid;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(15, 23, 42, 0.25);
+  overflow: hidden;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+
+.ward-pin:hover .ward-pin-card {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(15, 23, 42, 0.3);
+}
+
+.ward-pin-num {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 30px;
+  padding: 0 4px;
+  color: white;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: -0.02em;
+}
+
+.ward-pin-text {
+  flex: 1;
+  min-width: 0;
+  padding: 4px 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1px;
+}
+
+.ward-pin-name {
+  font-size: 11px;
+  font-weight: 600;
+  color: #0f172a;
+  line-height: 1.15;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ward-pin-voters {
+  font-size: 10px;
+  color: #475569;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.1;
+}
+
+.ward-pin-stem-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.ward-pin-stem {
+  width: 2px;
+  height: 8px;
+  border-radius: 0 0 1px 1px;
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.25);
+}
+
+.ward-pin.selected .ward-pin-card {
+  border-color: #f59e0b;
+  animation: ward-pin-pulse 1.3s ease-in-out infinite;
+}
+
+.ward-pin.selected .ward-pin-num {
+  background: #f59e0b !important;
+}
+
+.ward-pin.selected .ward-pin-stem {
+  background: #f59e0b !important;
+}
+
+@keyframes ward-pin-pulse {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgba(245, 158, 11, 0.55),
+      0 2px 6px rgba(15, 23, 42, 0.25);
+  }
+  50% {
+    box-shadow: 0 0 0 10px rgba(245, 158, 11, 0),
+      0 4px 16px rgba(245, 158, 11, 0.5);
+  }
+}

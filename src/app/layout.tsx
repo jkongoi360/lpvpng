@@ -59,6 +59,12 @@ export default function RootLayout({
                   Open Seats
                 </Link>
                 <Link
+                  href="/voter-distribution"
+                  className="text-zinc-300 hover:text-png-gold transition-colors"
+                >
+                  Voter Distribution
+                </Link>
+                <Link
                   href="/about"
                   className="text-zinc-300 hover:text-png-gold transition-colors"
                 >

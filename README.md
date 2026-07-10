@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PNG LPV Election Simulator 2027
+
+A Next.js application for simulating Papua New Guinea's Limited Preferential Voting (LPV) elections, ward by ward, across all electorates.
 
 ## Getting Started
 
-First, run the development server:
+Install dependencies and run the dev server:
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Environment Variables
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The site is password-protected. Create `.env.local` in the project root:
 
-## Learn More
+```
+SITE_PASSWORD=your_password_here
+```
 
-To learn more about Next.js, take a look at the following resources:
+Without `SITE_PASSWORD`, the `/api/auth` endpoint returns a 500 error.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Data Structure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- `src/data/electorates.json` — all 89 Open electorates with province, seat type, and total registered voters.
+- `src/data/llgs/<province>.json` — LLGs and wards grouped by electorate.
+- `src/data/electoral-rolls/<electorate>/<llg>/<ward>.csv` — raw electoral roll exports (reference only; not used at runtime).
 
-## Deploy on Vercel
+## Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Production runs on a DigitalOcean droplet under PM2 (process name `lpvpng`). The site is served from `/var/www/lpvpng`. Pushes to `main` are deployed manually:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+ssh root@<droplet> "cd /var/www/lpvpng && git pull origin main && npx next build && pm2 restart lpvpng --update-env"
+```
+
+`SITE_PASSWORD` must be set in `/var/www/lpvpng/.env.local` on the server.

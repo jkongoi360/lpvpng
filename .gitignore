@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local sqlite dev db (root-level ./data only; prod DB lives outside the repo).
+# src/data/ is real committed app data and is NOT matched by /data/.
+/data/
+*.db
+*.db-shm
+*.db-wal
