@@ -5,6 +5,10 @@
 export const SESSION_COOKIE_NAME = "smartvoter_session";
 export const SESSION_MAX_AGE = 7 * 24 * 60 * 60; // seconds
 
+// Short-lived cookies used mid-flow (Edge + Node safe, same HMAC scheme).
+export const LOGIN_PENDING_COOKIE = "login_pending";
+export const OAUTH_STATE_COOKIE = "oauth_state";
+
 // Helpers return Uint8Array (a TypedArray) and we pass them directly to
 // SubtleCrypto. Web Crypto checks BufferSource via a TypedArray-aware path,
 // which avoids cross-realm `instanceof ArrayBuffer` failures that bite when
@@ -120,4 +124,26 @@ export async function verifySession(
   const email = b64UrlToString(emailB64);
   if (!email) return null;
   return { email };
+}
+
+// Generic signed, expiring value — same scheme as sessions, for short-lived
+// mid-flow cookies (login-pending email, OAuth state).
+export async function signValue(value: string, ttlSec: number): Promise<string> {
+  const expiry = Date.now() + ttlSec * 1000;
+  const b64 = bytesToB64Url(strToBytes(value));
+  const payload = `${b64}.${expiry}`;
+  return `${payload}.${await signPayload(payload)}`;
+}
+
+export async function verifyValue(
+  token: string | undefined | null
+): Promise<string | null> {
+  if (!token) return null;
+  const parts = token.split(".");
+  if (parts.length !== 3) return null;
+  const [b64, expiryStr, sig] = parts;
+  if (!(await verifyPayload(`${b64}.${expiryStr}`, sig))) return null;
+  const expiry = Number(expiryStr);
+  if (!Number.isFinite(expiry) || expiry < Date.now()) return null;
+  return b64UrlToString(b64);
 }

@@ -11,7 +11,7 @@ import {
 // visitors to register or sign in. The actual data (electorates, simulations,
 // maps) lives behind auth — see src/proxy.ts.
 export const metadata = {
-  title: "SmartVoter PNG — Limited Preferential Voting Simulator 2027",
+  title: "SmartVoter PNG — Limited Preferential Voting 2027",
   description:
     "Explore Papua New Guinea's Limited Preferential Voting system and simulate the 2027 General Elections, ward by ward.",
 };
@@ -46,7 +46,7 @@ export default function Home() {
             SmartVoter PNG
           </h1>
           <p className="mt-3 text-lg font-medium text-png-gold">
-            Limited Preferential Voting Simulator · 2027 General Elections
+            Limited Preferential Voting · 2027 General Elections
           </p>
           <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-zinc-300">
             An interactive tool for exploring Papua New Guinea&apos;s Limited
@@ -68,7 +68,7 @@ export default function Home() {
             </Link>
           </div>
           <p className="mt-4 text-sm text-zinc-400">
-            A free account is required to access the simulator and electorate
+            A free account is required to access the tools and electorate
             data.
           </p>
         </div>
@@ -127,7 +127,7 @@ export default function Home() {
       {/* Bottom CTA */}
       <section className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 py-16 text-center">
         <h2 className="text-2xl font-bold tracking-tight text-zinc-900">
-          Ready to explore the 2027 simulator?
+          Ready to explore the 2027 elections?
         </h2>
         <div className="mt-6 flex items-center justify-center gap-3">
           <Link

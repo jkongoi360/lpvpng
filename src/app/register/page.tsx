@@ -10,6 +10,7 @@ import {
   authErrorClass,
   authNoticeClass,
 } from "@/components/auth/auth-shell";
+import { GoogleButton } from "@/components/auth/google-button";
 
 export default function RegisterPage() {
   const [email, setEmail] = useState("");
@@ -53,7 +54,7 @@ export default function RegisterPage() {
   return (
     <AuthShell
       title="Create your account"
-      subtitle="PNG LPV Election Simulator 2027"
+      subtitle="PNG Limited Preferential Voting · 2027"
       footer={
         <p>
           Already have an account? <AuthLink href="/login">Sign in</AuthLink>
@@ -64,6 +65,7 @@ export default function RegisterPage() {
         <div className={authNoticeClass}>{notice}</div>
       ) : (
         <form onSubmit={handleSubmit} className="space-y-5">
+          <GoogleButton next="/" />
           <div>
             <label htmlFor="email" className={authLabelClass}>
               Email

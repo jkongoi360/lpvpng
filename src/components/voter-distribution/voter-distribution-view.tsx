@@ -198,8 +198,8 @@ export default function VoterDistributionView({
         ))}
 
         <p className="mt-4 border-t border-zinc-100 pt-3 text-[11px] leading-relaxed text-zinc-400">
-          Ward and registered-voter data sourced from the PNG LPV Election
-          Simulator dataset. Per-ward coordinates are seeded from saved
+          Ward and registered-voter data sourced from the SmartVoter PNG
+          dataset. Per-ward coordinates are seeded from saved
           overrides; wards without overrides fall back to a deterministic
           golden-angle spiral around an approximate LLG centroid.
         </p>

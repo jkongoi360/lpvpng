@@ -81,6 +81,23 @@ export async function sendVerificationEmail(to: string, token: string) {
   );
 }
 
+export async function sendOtpEmail(to: string, code: string) {
+  const html = `<div style="font-family:system-ui,sans-serif;max-width:480px;margin:0 auto;padding:24px">
+    <div style="display:flex;gap:4px;margin-bottom:16px">
+      <span style="display:inline-block;width:10px;height:28px;background:#CE1126;border-radius:2px"></span>
+      <span style="display:inline-block;width:10px;height:28px;background:#000;border-radius:2px"></span>
+      <span style="display:inline-block;width:10px;height:28px;background:#FCD116;border-radius:2px"></span>
+    </div>
+    <h1 style="font-size:20px;margin:0 0 8px">Your sign-in code</h1>
+    <p style="color:#334155;line-height:1.5">Enter this code to finish signing in to SmartVoter PNG. It expires in 10 minutes.</p>
+    <p style="font-size:34px;font-weight:700;letter-spacing:8px;color:#0f172a;margin:20px 0">${code}</p>
+    <p style="color:#94a3b8;font-size:12px">If you didn't try to sign in, you can ignore this email and your account stays secure.</p>
+  </div>`;
+  // The code IS the sensitive payload here, so pass it as the "link" arg for
+  // the log-fallback so it's still testable without a mail provider.
+  await send(to, "Your SmartVoter PNG sign-in code", html, `code: ${code}`);
+}
+
 export async function sendResetEmail(to: string, token: string) {
   const link = `${appUrl()}/reset-password?token=${token}`;
   await send(

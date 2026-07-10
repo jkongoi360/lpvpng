@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "PNG LPV Election Simulator 2027",
+  title: "SmartVoter PNG — Limited Preferential Voting 2027",
   description:
-    "Simulate Papua New Guinea's Limited Preferential Voting system for the 2027 general elections",
+    "Explore Papua New Guinea's Limited Preferential Voting system for the 2027 general elections",
 };
 
 export default function RootLayout({

@@ -7,7 +7,7 @@ import { ELECTORATES_WITH_MAPS } from "@/data/maps/registry";
 import VoterDistributionPage from "@/components/voter-distribution/voter-distribution-page";
 
 export const metadata = {
-  title: "Voter Distribution — PNG LPV Simulator",
+  title: "Voter Distribution — SmartVoter PNG",
   description:
     "Ward-by-ward registered voter distribution map for PNG Open electorates.",
 };

@@ -76,8 +76,8 @@ export function SiteChrome({ children }: { children: React.ReactNode }) {
 
       <footer className="border-t bg-zinc-50 py-6">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center text-sm text-zinc-500">
-          SmartVoter PNG &mdash; Limited Preferential Voting Simulator for the
-          2027 General Elections
+          SmartVoter PNG &mdash; Limited Preferential Voting · 2027 General
+          Elections
         </div>
       </footer>
     </>

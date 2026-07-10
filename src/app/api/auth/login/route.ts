@@ -1,14 +1,15 @@
 import { NextResponse } from "next/server";
-import {
-  SESSION_COOKIE_NAME,
-  SESSION_MAX_AGE,
-  signSession,
-} from "@/lib/session";
+import { LOGIN_PENDING_COOKIE, signValue } from "@/lib/session";
 import { verifyPassword } from "@/lib/password";
-import { getUserByEmail } from "@/lib/db";
+import { getUserByEmail, createOtp } from "@/lib/db";
+import { sendOtpEmail } from "@/lib/email";
 
 export const runtime = "nodejs";
 
+const PENDING_TTL_SEC = 10 * 60; // must cover the OTP lifetime
+
+// Step 1 of login: check credentials, then issue an emailed OTP. NO session is
+// granted here — the browser must complete /api/auth/verify-otp with the code.
 export async function POST(req: Request) {
   let body: { email?: unknown; password?: unknown } | null = null;
   try {
@@ -29,7 +30,6 @@ export async function POST(req: Request) {
   }
 
   const user = getUserByEmail(email);
-  // Generic message for both unknown-user and wrong-password → no enumeration.
   if (!user || !verifyPassword(password, user.password_hash)) {
     return NextResponse.json({ error: "Invalid credentials" }, { status: 401 });
   }
@@ -40,17 +40,23 @@ export async function POST(req: Request) {
     );
   }
 
-  const token = await signSession(user.email);
-  const res = NextResponse.json({
-    success: true,
-    email: user.email,
-    isAdmin: !!user.is_admin,
-  });
-  res.cookies.set(SESSION_COOKIE_NAME, token, {
+  const code = createOtp(user.id);
+  try {
+    await sendOtpEmail(user.email, code);
+  } catch {
+    return NextResponse.json(
+      { error: "Could not send your sign-in code. Please try again." },
+      { status: 502 }
+    );
+  }
+
+  const res = NextResponse.json({ otpRequired: true, email: user.email });
+  // Bind the pending login to this browser so only it can complete step 2.
+  res.cookies.set(LOGIN_PENDING_COOKIE, await signValue(user.email, PENDING_TTL_SEC), {
     httpOnly: true,
     secure: process.env.NODE_ENV === "production",
     sameSite: "lax",
-    maxAge: SESSION_MAX_AGE,
+    maxAge: PENDING_TTL_SEC,
     path: "/",
   });
   return res;
