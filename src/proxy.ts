@@ -5,7 +5,12 @@ import { SESSION_COOKIE_NAME, verifySession } from "@/lib/session";
 // Runs on the Edge runtime — only Web Crypto is available here, which is
 // exactly what verifySession() uses. No DB access here; the signed cookie is
 // validated statelessly.
+// Public routes: the onboarding landing, the LPV explainer, auth pages/APIs.
+// Everything else (electorate data, simulations, maps, save-coordinates) is
+// gated behind a valid session.
+const PUBLIC_EXACT = ["/"];
 const PUBLIC_PREFIXES = [
+  "/about",
   "/login",
   "/register",
   "/forgot-password",
@@ -17,7 +22,10 @@ const PUBLIC_PREFIXES = [
 export async function proxy(req: NextRequest) {
   const { pathname } = req.nextUrl;
 
-  if (PUBLIC_PREFIXES.some((p) => pathname === p || pathname.startsWith(p + "/"))) {
+  if (
+    PUBLIC_EXACT.includes(pathname) ||
+    PUBLIC_PREFIXES.some((p) => pathname === p || pathname.startsWith(p + "/"))
+  ) {
     return NextResponse.next();
   }
 
