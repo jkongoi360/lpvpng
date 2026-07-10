@@ -12,12 +12,19 @@ import { findOrCreateGoogleUser } from "@/lib/db";
 
 export const runtime = "nodejs";
 
+// Public base for redirects — behind nginx req.url is the internal
+// localhost:3030, so build user-facing redirects from APP_URL.
+function baseOf(reqUrl: URL): string {
+  return (process.env.APP_URL || reqUrl.origin).replace(/\/$/, "");
+}
+
 // Google redirects back here with ?code&state. Verify state (CSRF), exchange
 // the code, then sign the user straight in — Google logins skip the email OTP.
 export async function GET(req: Request) {
   const url = new URL(req.url);
+  const base = baseOf(url);
   const fail = (e: string) =>
-    NextResponse.redirect(new URL(`/login?error=${e}`, url));
+    NextResponse.redirect(`${base}/login?error=${e}`);
 
   if (!googleEnabled()) return fail("google_unavailable");
 
@@ -39,7 +46,7 @@ export async function GET(req: Request) {
 
   // Only allow safe local redirects.
   const dest = next.startsWith("/") && !next.startsWith("//") ? next : "/";
-  const res = NextResponse.redirect(new URL(dest, url));
+  const res = NextResponse.redirect(`${base}${dest}`);
   res.cookies.set(SESSION_COOKIE_NAME, await signSession(user.email), {
     httpOnly: true,
     secure: process.env.NODE_ENV === "production",

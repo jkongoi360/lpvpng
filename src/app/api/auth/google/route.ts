@@ -4,6 +4,12 @@ import { googleEnabled, googleAuthUrl } from "@/lib/oauth";
 
 export const runtime = "nodejs";
 
+// Public base for redirects — behind nginx, req.url resolves to the internal
+// localhost:3030, so build user-facing redirects from APP_URL.
+function base(reqUrl: URL): string {
+  return (process.env.APP_URL || reqUrl.origin).replace(/\/$/, "");
+}
+
 // Starts the Google OAuth flow: stash a signed state (CSRF + the post-login
 // redirect target) in a cookie and bounce to Google's consent screen.
 export async function GET(req: Request) {
@@ -11,7 +17,7 @@ export async function GET(req: Request) {
   const next = url.searchParams.get("next") || "/";
 
   if (!googleEnabled()) {
-    return NextResponse.redirect(new URL("/login?error=google_unavailable", url));
+    return NextResponse.redirect(`${base(url)}/login?error=google_unavailable`);
   }
 
   // Random state, with the desired redirect encoded alongside it.
