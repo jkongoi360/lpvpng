@@ -48,6 +48,12 @@ export function SiteChrome({ children }: { children: React.ReactNode }) {
                   Regional
                 </Link>
                 <Link
+                  href="/governors"
+                  className="text-zinc-300 hover:text-png-gold transition-colors"
+                >
+                  Governors
+                </Link>
+                <Link
                   href="/open"
                   className="text-zinc-300 hover:text-png-gold transition-colors"
                 >
