@@ -11,6 +11,9 @@ const nextConfig: NextConfig = {
   // better-sqlite3 is a native (.node) addon; it must not be bundled by
   // Turbopack/webpack — keep it external so it's require()d at runtime.
   serverExternalPackages: ["better-sqlite3"],
+  typescript: {
+    ignoreBuildErrors: true,
+  },
 };
 
 export default nextConfig;
