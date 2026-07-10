@@ -1,18 +1,26 @@
-// Transactional email via Resend. NODE-RUNTIME ONLY.
+// Transactional email via Brevo (https://developers.brevo.com). NODE-RUNTIME
+// ONLY. Uses the raw REST API over fetch — no SDK dependency.
 //
-// If RESEND_API_KEY is unset (local dev, or before the sending domain is
-// verified), we DON'T send — we log the link to the server console so flows
-// remain testable. This is the "log link" fallback from the plan.
-import { Resend } from "resend";
+// If BREVO_API_KEY is unset (local dev, or before the sender is verified), we
+// DON'T send — we log the link to the server console so flows stay testable.
+// This is the "log link" fallback.
 
-const FROM = process.env.EMAIL_FROM || "SmartVoter PNG <noreply@smartvoterpng.com>";
+const DEFAULT_FROM = "SmartVoter PNG <noreply@smartvoterpng.com>";
 
 function appUrl(): string {
   return process.env.APP_URL || "http://localhost:3000";
 }
 
+// Parse EMAIL_FROM ("Name <email>" or plain "email") into Brevo's sender shape.
+function parseSender(): { name: string; email: string } {
+  const raw = process.env.EMAIL_FROM || DEFAULT_FROM;
+  const m = raw.match(/^\s*(.*?)\s*<([^>]+)>\s*$/);
+  if (m) return { name: m[1] || "SmartVoter PNG", email: m[2].trim() };
+  return { name: "SmartVoter PNG", email: raw.trim() };
+}
+
 async function send(to: string, subject: string, html: string, link: string) {
-  const key = process.env.RESEND_API_KEY;
+  const key = process.env.BREVO_API_KEY;
   if (!key) {
     // eslint-disable-next-line no-console
     console.log(
@@ -20,11 +28,24 @@ async function send(to: string, subject: string, html: string, link: string) {
     );
     return;
   }
-  const resend = new Resend(key);
-  const { error } = await resend.emails.send({ from: FROM, to, subject, html });
-  if (error) {
+  const res = await fetch("https://api.brevo.com/v3/smtp/email", {
+    method: "POST",
+    headers: {
+      "api-key": key,
+      "Content-Type": "application/json",
+      accept: "application/json",
+    },
+    body: JSON.stringify({
+      sender: parseSender(),
+      to: [{ email: to }],
+      subject,
+      htmlContent: html,
+    }),
+  });
+  if (!res.ok) {
+    const detail = await res.text().catch(() => "");
     // eslint-disable-next-line no-console
-    console.error(`[email] Resend error sending to ${to}:`, error);
+    console.error(`[email] Brevo error ${res.status} sending to ${to}: ${detail}`);
     throw new Error("Failed to send email");
   }
 }
