@@ -5,7 +5,7 @@
 // DON'T send — we log the link to the server console so flows stay testable.
 // This is the "log link" fallback.
 
-const DEFAULT_FROM = "SmartVoter PNG <noreply@smartvoterpng.com>";
+const DEFAULT_FROM = "SmartVoter PNG <noreply@smartelectorates.com>";
 
 function appUrl(): string {
   return process.env.APP_URL || "http://localhost:3000";
