@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 
-type AuthState = { authed: boolean; email?: string; guest?: boolean };
+type AuthState = { authed: boolean; email?: string; guest?: boolean; paid?: boolean };
 
 // Top-right auth controls. Fetches session state on mount and shows either
 // Sign in / Register (logged out), a Guest badge + upgrade link (guest), or
@@ -19,7 +19,7 @@ export function HeaderAuth() {
       .then((r) => (r.ok ? r.json() : { authenticated: false }))
       .then((j) => {
         if (!cancelled)
-          setState({ authed: !!j.authenticated, email: j.email, guest: !!j.guest });
+          setState({ authed: !!j.authenticated, email: j.email, guest: !!j.guest, paid: !!j.paid });
       })
       .catch(() => {
         if (!cancelled) setState({ authed: false });
@@ -62,6 +62,14 @@ export function HeaderAuth() {
           <span className="hidden sm:inline text-xs text-zinc-400">
             {state.email}
           </span>
+        )}
+        {!state.paid && (
+          <Link
+            href="/access"
+            className="rounded-md bg-png-gold px-3 py-1.5 text-sm font-semibold text-png-black hover:bg-png-gold/90 transition-colors"
+          >
+            Get full access
+          </Link>
         )}
         <button
           onClick={logout}

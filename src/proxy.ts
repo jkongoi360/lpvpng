@@ -18,6 +18,7 @@ const PUBLIC_PREFIXES = [
   "/reset-password",
   "/verify-email",
   "/api/auth",
+  "/api/stripe/webhook",
 ];
 
 export async function proxy(req: NextRequest) {

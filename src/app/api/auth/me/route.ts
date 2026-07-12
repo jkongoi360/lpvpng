@@ -23,5 +23,6 @@ export async function GET() {
     authenticated: true,
     email: user.email,
     isAdmin: !!user.is_admin,
+    paid: !!user.paid || !!user.is_admin,
   });
 }

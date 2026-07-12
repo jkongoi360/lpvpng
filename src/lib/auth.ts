@@ -1,7 +1,8 @@
 // Shared auth helpers for Node-runtime route handlers. NODE-RUNTIME ONLY
 // (imports db). Do not import from middleware.
 import { cookies } from "next/headers";
-import { SESSION_COOKIE_NAME, verifySession } from "@/lib/session";
+import { redirect } from "next/navigation";
+import { SESSION_COOKIE_NAME, GUEST_EMAIL, verifySession } from "@/lib/session";
 import { getUserByEmail, type User } from "@/lib/db";
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -24,7 +25,33 @@ export function passwordProblem(pw: string): string | null {
 export async function getSessionUser(): Promise<User | null> {
   const token = (await cookies()).get(SESSION_COOKIE_NAME)?.value;
   const session = await verifySession(token);
-  if (!session) return null;
+  if (!session || session.email === GUEST_EMAIL) return null;
   const user = getUserByEmail(session.email);
   return user ?? null;
+}
+
+export type AccessTier = "full" | "guest" | "unpaid" | "none";
+
+// Resolves the caller's access tier:
+//  full   — admin or a user who has paid the one-time fee
+//  guest  — a valid 1-hour guest session
+//  unpaid — logged-in user who hasn't paid
+//  none   — no valid session
+export async function getAccess(): Promise<{ tier: AccessTier; user: User | null }> {
+  const token = (await cookies()).get(SESSION_COOKIE_NAME)?.value;
+  const session = await verifySession(token);
+  if (!session) return { tier: "none", user: null };
+  if (session.email === GUEST_EMAIL) return { tier: "guest", user: null };
+  const user = getUserByEmail(session.email);
+  if (!user) return { tier: "none", user: null };
+  if (user.is_admin || user.paid) return { tier: "full", user };
+  return { tier: "unpaid", user };
+}
+
+// Guard for the core data pages. Full + guest may view; unpaid users are sent
+// to the paywall; no session goes to login.
+export async function requireFullAccess(): Promise<void> {
+  const { tier } = await getAccess();
+  if (tier === "full" || tier === "guest") return;
+  redirect(tier === "unpaid" ? "/access" : "/login");
 }

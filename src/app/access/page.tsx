@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { PayButton } from "@/components/pay-button";
 
 export const metadata = {
   title: "Full Access — Smart Electorates",
@@ -39,26 +39,20 @@ export default function AccessPage() {
           </ol>
         </div>
 
-        <div className="mt-8 flex flex-wrap gap-3">
+        <div className="mt-8">
+          <PayButton />
+        </div>
+
+        <p className="mt-6 text-xs text-zinc-500">
+          Prefer to pay another way?{" "}
           <a
             href={`mailto:${ADMIN_EMAIL}?subject=Full%20access%20to%20Smart%20Electorates%20(K2500)`}
-            className="rounded-lg bg-[#CE1126] px-6 py-3 font-semibold text-white hover:bg-[#CE1126]/90"
+            className="text-[#CE1126] underline underline-offset-2"
           >
-            Contact us to pay
-          </a>
-          <Link
-            href="/register"
-            className="rounded-lg border border-zinc-300 px-6 py-3 font-semibold text-zinc-700 hover:bg-zinc-50"
-          >
-            Create an account
-          </Link>
-          <Link
-            href="/login"
-            className="rounded-lg border border-zinc-300 px-6 py-3 font-semibold text-zinc-700 hover:bg-zinc-50"
-          >
-            Sign in
-          </Link>
-        </div>
+            Contact us
+          </a>{" "}
+          to arrange payment manually.
+        </p>
       </div>
     </div>
   );

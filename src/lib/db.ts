@@ -19,6 +19,9 @@ export type User = {
   first_login_at: string | null;
   auth_provider: string; // 'password' | 'google'
   google_sub: string | null;
+  paid: number; // 0 | 1 — one-time full-access fee paid
+  paid_at: string | null;
+  stripe_session_id: string | null;
 };
 
 export type TokenKind = "verify" | "reset" | "otp";
@@ -91,9 +94,31 @@ function migrate(db: Database.Database) {
     );
   if (!userCols.has("google_sub"))
     db.exec("ALTER TABLE users ADD COLUMN google_sub TEXT");
+  if (!userCols.has("paid")) {
+    db.exec("ALTER TABLE users ADD COLUMN paid INTEGER NOT NULL DEFAULT 0");
+    // Grandfather everyone who already had an account so no existing user is
+    // locked out when the paywall goes live.
+    db.exec("UPDATE users SET paid = 1");
+  }
+  if (!userCols.has("paid_at"))
+    db.exec("ALTER TABLE users ADD COLUMN paid_at TEXT");
+  if (!userCols.has("stripe_session_id"))
+    db.exec("ALTER TABLE users ADD COLUMN stripe_session_id TEXT");
   const tokenCols = cols("tokens");
   if (!tokenCols.has("attempts"))
     db.exec("ALTER TABLE tokens ADD COLUMN attempts INTEGER NOT NULL DEFAULT 0");
+}
+
+export function markPaid(userId: number, sessionId: string): void {
+  getDb()
+    .prepare(
+      "UPDATE users SET paid = 1, paid_at = datetime('now'), stripe_session_id = ? WHERE id = ?"
+    )
+    .run(sessionId, userId);
+}
+
+export function getUserById(id: number): User | undefined {
+  return getDb().prepare("SELECT * FROM users WHERE id = ?").get(id) as User | undefined;
 }
 
 // Seed the bootstrap admin from env once, if not already present. Reuses the
