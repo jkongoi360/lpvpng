@@ -5,6 +5,12 @@
 export const SESSION_COOKIE_NAME = "smartvoter_session";
 export const SESSION_MAX_AGE = 7 * 24 * 60 * 60; // seconds
 
+// Guest access: anonymous, view-only, expires after 1 hour. The session
+// "email" is this sentinel — it's not a real account (no '@'), so DB lookups
+// for it return nothing and admin/write actions stay blocked.
+export const GUEST_EMAIL = "guest";
+export const GUEST_MAX_AGE = 60 * 60; // 1 hour (seconds)
+
 // Short-lived cookies used mid-flow (Edge + Node safe, same HMAC scheme).
 export const LOGIN_PENDING_COOKIE = "login_pending";
 export const OAUTH_STATE_COOKIE = "oauth_state";

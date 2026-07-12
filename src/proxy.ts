@@ -11,6 +11,7 @@ import { SESSION_COOKIE_NAME, verifySession } from "@/lib/session";
 const PUBLIC_EXACT = ["/"];
 const PUBLIC_PREFIXES = [
   "/about",
+  "/access",
   "/login",
   "/register",
   "/forgot-password",

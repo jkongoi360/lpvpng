@@ -33,6 +33,25 @@ function LoginForm() {
   const [error, setError] = useState(urlError ? ERRORS[urlError] || "Sign-in failed." : "");
   const [notice, setNotice] = useState("");
   const [loading, setLoading] = useState(false);
+  const [guestLoading, setGuestLoading] = useState(false);
+
+  async function continueAsGuest() {
+    setError("");
+    setGuestLoading(true);
+    try {
+      const res = await fetch("/api/auth/guest", { method: "POST" });
+      if (res.ok) {
+        router.replace(next);
+        router.refresh();
+      } else {
+        setError("Could not start a guest session. Please try again.");
+        setGuestLoading(false);
+      }
+    } catch {
+      setError("Something went wrong. Please try again.");
+      setGuestLoading(false);
+    }
+  }
 
   async function submitPassword(e: React.FormEvent) {
     e.preventDefault();
@@ -228,6 +247,25 @@ function LoginForm() {
             {loading ? "Signing in…" : "Continue"}
           </button>
         </form>
+
+        {/* Guest access */}
+        <div className="flex items-center gap-3 text-xs text-white/40">
+          <div className="h-px flex-1 bg-white/20" />
+          just browsing?
+          <div className="h-px flex-1 bg-white/20" />
+        </div>
+        <button
+          type="button"
+          onClick={continueAsGuest}
+          disabled={guestLoading}
+          className="w-full rounded-lg border border-white/30 py-3 font-semibold text-white transition-colors hover:bg-white/10 disabled:opacity-50"
+        >
+          {guestLoading ? "Starting…" : "Continue as guest (1 hour, view only)"}
+        </button>
+        <p className="text-center text-xs text-white/50">
+          Guest access is free for 1 hour.{" "}
+          <AuthLink href="/access">Full access — K2,500</AuthLink>
+        </p>
       </div>
     </AuthShell>
   );

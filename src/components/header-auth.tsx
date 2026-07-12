@@ -4,10 +4,11 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 
-type AuthState = { authed: boolean; email?: string };
+type AuthState = { authed: boolean; email?: string; guest?: boolean };
 
 // Top-right auth controls. Fetches session state on mount and shows either
-// Sign in / Register (guest) or the user's email + Sign out (logged in).
+// Sign in / Register (logged out), a Guest badge + upgrade link (guest), or
+// the user's email + Sign out (logged in).
 export function HeaderAuth() {
   const [state, setState] = useState<AuthState | null>(null);
   const router = useRouter();
@@ -18,7 +19,7 @@ export function HeaderAuth() {
       .then((r) => (r.ok ? r.json() : { authenticated: false }))
       .then((j) => {
         if (!cancelled)
-          setState({ authed: !!j.authenticated, email: j.email });
+          setState({ authed: !!j.authenticated, email: j.email, guest: !!j.guest });
       })
       .catch(() => {
         if (!cancelled) setState({ authed: false });
@@ -37,6 +38,22 @@ export function HeaderAuth() {
 
   // Reserve space while loading to avoid layout shift.
   if (!state) return <div className="h-9 w-24" aria-hidden />;
+
+  if (state.guest) {
+    return (
+      <div className="flex items-center gap-2">
+        <span className="hidden sm:inline rounded-full bg-png-gold/20 px-2.5 py-1 text-xs font-semibold text-png-gold">
+          Guest · view only
+        </span>
+        <Link
+          href="/access"
+          className="rounded-md bg-png-red px-3 py-1.5 text-sm font-semibold text-white hover:bg-png-red/90 transition-colors"
+        >
+          Get full access
+        </Link>
+      </div>
+    );
+  }
 
   if (state.authed) {
     return (
