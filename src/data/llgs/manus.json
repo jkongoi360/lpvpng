@@ -5,170 +5,741 @@
       "electorateSlug": "manus",
       "llgs": [
         {
+          "id": "manus-aua-wuvulu",
+          "name": "Aua Wuvulu LLG",
+          "electorateSlug": "manus",
+          "wards": [
+            {
+              "id": "manus-aua-wuvulu-1-auna-1",
+              "name": "1 - AUNA 1",
+              "registeredVoters": 145
+            },
+            {
+              "id": "manus-aua-wuvulu-2-onnei-1",
+              "name": "2 - ONNEI 1",
+              "registeredVoters": 215
+            },
+            {
+              "id": "manus-aua-wuvulu-3-auna-island-1",
+              "name": "3 - AUNA ISLAND 1",
+              "registeredVoters": 172
+            },
+            {
+              "id": "manus-aua-wuvulu-4-aua-2",
+              "name": "4 - AUA (2)",
+              "registeredVoters": 200
+            },
+            {
+              "id": "manus-aua-wuvulu-5-onnei-2",
+              "name": "5 - ONNEI (2)",
+              "registeredVoters": 140
+            },
+            {
+              "id": "manus-aua-wuvulu-6-auna-2",
+              "name": "6 - AUNA (2)",
+              "registeredVoters": 129
+            }
+          ]
+        },
+        {
+          "id": "manus-balopa",
+          "name": "Balopa LLG",
+          "electorateSlug": "manus",
+          "wards": [
+            {
+              "id": "manus-balopa-1-mouk",
+              "name": "1 - MOUK",
+              "registeredVoters": 190
+            },
+            {
+              "id": "manus-balopa-2-lipan",
+              "name": "2 - LIPAN",
+              "registeredVoters": 304
+            },
+            {
+              "id": "manus-balopa-3-sone",
+              "name": "3 - SONE",
+              "registeredVoters": 369
+            },
+            {
+              "id": "manus-balopa-4-porioi",
+              "name": "4 - PORIOI",
+              "registeredVoters": 245
+            },
+            {
+              "id": "manus-balopa-5-buait",
+              "name": "5 - BUAIT",
+              "registeredVoters": 162
+            },
+            {
+              "id": "manus-balopa-6-baon",
+              "name": "6 - BAON",
+              "registeredVoters": 131
+            },
+            {
+              "id": "manus-balopa-7-solang",
+              "name": "7 - SOLANG",
+              "registeredVoters": 176
+            },
+            {
+              "id": "manus-balopa-8-rei",
+              "name": "8 - REI",
+              "registeredVoters": 358
+            },
+            {
+              "id": "manus-balopa-9-lako",
+              "name": "9 - LAKO",
+              "registeredVoters": 122
+            }
+          ]
+        },
+        {
+          "id": "manus-bisakani-sopariebu-kabin",
+          "name": "Bisakani /Sopariebu Kabin LLG",
+          "electorateSlug": "manus",
+          "wards": [
+            {
+              "id": "manus-bisakani-sopariebu-kabin-1-salien",
+              "name": "1 - SALIEN",
+              "registeredVoters": 364
+            },
+            {
+              "id": "manus-bisakani-sopariebu-kabin-2-niho",
+              "name": "2 - NIHO",
+              "registeredVoters": 448
+            },
+            {
+              "id": "manus-bisakani-sopariebu-kabin-3-kali",
+              "name": "3 - KALI",
+              "registeredVoters": 240
+            },
+            {
+              "id": "manus-bisakani-sopariebu-kabin-4-maso",
+              "name": "4 - MASO",
+              "registeredVoters": 361
+            },
+            {
+              "id": "manus-bisakani-sopariebu-kabin-5-matahai",
+              "name": "5 - MATAHAI",
+              "registeredVoters": 172
+            },
+            {
+              "id": "manus-bisakani-sopariebu-kabin-6-salapai",
+              "name": "6 - SALAPAI",
+              "registeredVoters": 372
+            },
+            {
+              "id": "manus-bisakani-sopariebu-kabin-7-lessau",
+              "name": "7 - LESSAU",
+              "registeredVoters": 277
+            },
+            {
+              "id": "manus-bisakani-sopariebu-kabin-8-harengau",
+              "name": "8 - HARENGAU",
+              "registeredVoters": 254
+            },
+            {
+              "id": "manus-bisakani-sopariebu-kabin-9-jowan-1",
+              "name": "9 - JOWAN 1",
+              "registeredVoters": 372
+            },
+            {
+              "id": "manus-bisakani-sopariebu-kabin-10-jowan-2",
+              "name": "10 - JOWAN 2",
+              "registeredVoters": 71
+            },
+            {
+              "id": "manus-bisakani-sopariebu-kabin-11-nyada",
+              "name": "11 - NYADA",
+              "registeredVoters": 243
+            },
+            {
+              "id": "manus-bisakani-sopariebu-kabin-12-levei",
+              "name": "12 - LEVEI",
+              "registeredVoters": 402
+            },
+            {
+              "id": "manus-bisakani-sopariebu-kabin-13-sori-2",
+              "name": "13 - SORI 2",
+              "registeredVoters": 116
+            },
+            {
+              "id": "manus-bisakani-sopariebu-kabin-14-sori-1",
+              "name": "14 - SORI 1",
+              "registeredVoters": 149
+            }
+          ]
+        },
+        {
+          "id": "manus-lelemadih-bupi-chupei",
+          "name": "Lelemadih /Bupi Chupei LLG",
+          "electorateSlug": "manus",
+          "wards": [
+            {
+              "id": "manus-lelemadih-bupi-chupei-1-malalpang",
+              "name": "1 - MALALPANG",
+              "registeredVoters": 65
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-2-horan",
+              "name": "2 - HORAN",
+              "registeredVoters": 197
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-3-powat",
+              "name": "3 - POWAT",
+              "registeredVoters": 213
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-4-maraman",
+              "name": "4 - MARAMAN",
+              "registeredVoters": 114
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-5-lopahan",
+              "name": "5 - LOPAHAN",
+              "registeredVoters": 147
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-6-ndrakot",
+              "name": "6 - NDRAKOT",
+              "registeredVoters": 132
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-7-lowa",
+              "name": "7 - LOWA",
+              "registeredVoters": 234
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-8-ahus",
+              "name": "8 - AHUS",
+              "registeredVoters": 429
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-9-yiringou",
+              "name": "9 - YIRINGOU",
+              "registeredVoters": 305
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-10-bowat-1",
+              "name": "10 - BOWAT 1",
+              "registeredVoters": 358
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-11-lundret",
+              "name": "11 - LUNDRET",
+              "registeredVoters": 312
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-12-rossum",
+              "name": "12 - ROSSUM",
+              "registeredVoters": 357
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-13-dungoumasih",
+              "name": "13 - DUNGOUMASIH",
+              "registeredVoters": 732
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-14-buliso",
+              "name": "14 - BULISO",
+              "registeredVoters": 180
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-15-warambei",
+              "name": "15 - WARAMBEI",
+              "registeredVoters": 228
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-16-pityluh",
+              "name": "16 - PITYLUH",
+              "registeredVoters": 389
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-17-hawai",
+              "name": "17 - HAWAI",
+              "registeredVoters": 171
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-18-sapon-buliat",
+              "name": "18 - SAPON BULIAT",
+              "registeredVoters": 180
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-19-sapon-ndranir",
+              "name": "19 - SAPON NDRANIR",
+              "registeredVoters": 78
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-20-ndrilou-koronat",
+              "name": "20 - NDRILOU KORONAT",
+              "registeredVoters": 324
+            },
+            {
+              "id": "manus-lelemadih-bupi-chupei-21-wena-peheu-std",
+              "name": "21 - WENA PEHEU STD",
+              "registeredVoters": 155
+            }
+          ]
+        },
+        {
           "id": "manus-lorengau-urban",
           "name": "Lorengau Urban LLG",
           "electorateSlug": "manus",
           "wards": [
             {
-              "id": "lorengau-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1094
+              "id": "manus-lorengau-urban-1-salasia",
+              "name": "1 - SALASIA",
+              "registeredVoters": 902
             },
             {
-              "id": "lorengau-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 724
+              "id": "manus-lorengau-urban-2-lorengau-east",
+              "name": "2 - LORENGAU EAST",
+              "registeredVoters": 693
             },
             {
-              "id": "lorengau-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1315
+              "id": "manus-lorengau-urban-3-kaunsil-center",
+              "name": "3 - KAUNSIL CENTER",
+              "registeredVoters": 1070
             },
             {
-              "id": "lorengau-urban-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1142
+              "id": "manus-lorengau-urban-4-national-broadcasting-co",
+              "name": "4 - NATIONAL BROADCASTING CO",
+              "registeredVoters": 445
             },
             {
-              "id": "lorengau-urban-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1330
+              "id": "manus-lorengau-urban-5-pihimanus",
+              "name": "5 - PIHIMANUS",
+              "registeredVoters": 614
             },
             {
-              "id": "lorengau-urban-w06",
-              "name": "Ward 6",
-              "registeredVoters": 745
+              "id": "manus-lorengau-urban-6-nabu",
+              "name": "6 - NABU",
+              "registeredVoters": 757
             },
             {
-              "id": "lorengau-urban-w07",
-              "name": "Ward 7",
-              "registeredVoters": 752
-            },
-            {
-              "id": "lorengau-urban-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1711
-            },
-            {
-              "id": "lorengau-urban-w09",
-              "name": "Ward 9",
-              "registeredVoters": 878
-            },
-            {
-              "id": "lorengau-urban-w10",
-              "name": "Ward 10",
-              "registeredVoters": 1322
+              "id": "manus-lorengau-urban-7-prince-william-oval",
+              "name": "7 - PRINCE WILLIAM OVAL",
+              "registeredVoters": 1268
             }
           ]
         },
         {
-          "id": "manus-north-coast-manus",
-          "name": "North Coast Manus LLG",
+          "id": "manus-los-negros",
+          "name": "Los Negros LLG",
           "electorateSlug": "manus",
           "wards": [
             {
-              "id": "north-coast-manus-w01",
-              "name": "Ward 1",
-              "registeredVoters": 4197
+              "id": "manus-los-negros-1-loniu",
+              "name": "1 - LONIU",
+              "registeredVoters": 387
             },
             {
-              "id": "north-coast-manus-w02",
-              "name": "Ward 2",
-              "registeredVoters": 4107
+              "id": "manus-los-negros-2-lolak",
+              "name": "2 - LOLAK",
+              "registeredVoters": 119
             },
             {
-              "id": "north-coast-manus-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2087
+              "id": "manus-los-negros-3-lombrum",
+              "name": "3 - LOMBRUM",
+              "registeredVoters": 829
+            },
+            {
+              "id": "manus-los-negros-4-papitalai",
+              "name": "4 - PAPITALAI",
+              "registeredVoters": 211
+            },
+            {
+              "id": "manus-los-negros-5-naringel",
+              "name": "5 - NARINGEL",
+              "registeredVoters": 272
+            },
+            {
+              "id": "manus-los-negros-6-riuriu",
+              "name": "6 - RIURIU",
+              "registeredVoters": 186
+            },
+            {
+              "id": "manus-los-negros-7-salamei-settlement",
+              "name": "7 - SALAMEI SETTLEMENT",
+              "registeredVoters": 432
+            },
+            {
+              "id": "manus-los-negros-8-mokareng",
+              "name": "8 - MOKARENG",
+              "registeredVoters": 289
             }
           ]
         },
         {
-          "id": "manus-south-coast-manus",
-          "name": "South Coast Manus LLG",
+          "id": "manus-nali-sopat-penabu",
+          "name": "Nali Sopat /Penabu LLG",
           "electorateSlug": "manus",
           "wards": [
             {
-              "id": "south-coast-manus-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1757
+              "id": "manus-nali-sopat-penabu-1-n-drapitou",
+              "name": "1 - N'DRAPITOU",
+              "registeredVoters": 199
             },
             {
-              "id": "south-coast-manus-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1360
+              "id": "manus-nali-sopat-penabu-2-soheneriu",
+              "name": "2 - SOHENERIU",
+              "registeredVoters": 140
             },
             {
-              "id": "south-coast-manus-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2129
+              "id": "manus-nali-sopat-penabu-3-kapou",
+              "name": "3 - KAPOU",
+              "registeredVoters": 148
             },
             {
-              "id": "south-coast-manus-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1518
+              "id": "manus-nali-sopat-penabu-4-bulihan",
+              "name": "4 - BULIHAN",
+              "registeredVoters": 134
             },
             {
-              "id": "south-coast-manus-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1550
+              "id": "manus-nali-sopat-penabu-5-karun",
+              "name": "5 - KARUN",
+              "registeredVoters": 169
             },
             {
-              "id": "south-coast-manus-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1823
+              "id": "manus-nali-sopat-penabu-6-sirrah",
+              "name": "6 - SIRRAH",
+              "registeredVoters": 254
             },
             {
-              "id": "south-coast-manus-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2142
+              "id": "manus-nali-sopat-penabu-7-lawes",
+              "name": "7 - LAWES",
+              "registeredVoters": 353
+            },
+            {
+              "id": "manus-nali-sopat-penabu-8-nohang",
+              "name": "8 - NOHANG",
+              "registeredVoters": 112
+            },
+            {
+              "id": "manus-nali-sopat-penabu-9-katin",
+              "name": "9 - KATIN",
+              "registeredVoters": 249
+            },
+            {
+              "id": "manus-nali-sopat-penabu-10-lowaiya",
+              "name": "10 - LOWAIYA",
+              "registeredVoters": 220
+            },
+            {
+              "id": "manus-nali-sopat-penabu-11-lapap",
+              "name": "11 - LAPAP",
+              "registeredVoters": 197
+            },
+            {
+              "id": "manus-nali-sopat-penabu-12-maleh",
+              "name": "12 - MALEH",
+              "registeredVoters": 167
+            },
+            {
+              "id": "manus-nali-sopat-penabu-13-mbunai",
+              "name": "13 - MBUNAI",
+              "registeredVoters": 278
+            },
+            {
+              "id": "manus-nali-sopat-penabu-14-pere-1",
+              "name": "14 - PERE 1",
+              "registeredVoters": 96
+            },
+            {
+              "id": "manus-nali-sopat-penabu-15-pere-2",
+              "name": "15 - PERE 2",
+              "registeredVoters": 113
+            },
+            {
+              "id": "manus-nali-sopat-penabu-16-pachal",
+              "name": "16 - PACHAL",
+              "registeredVoters": 100
+            },
+            {
+              "id": "manus-nali-sopat-penabu-17-machaparloh",
+              "name": "17 - MACHAPARLOH",
+              "registeredVoters": 127
+            },
+            {
+              "id": "manus-nali-sopat-penabu-18-patusi",
+              "name": "18 - PATUSI",
+              "registeredVoters": 174
             }
           ]
         },
         {
-          "id": "manus-islands",
-          "name": "Islands LLG",
+          "id": "manus-ningoherm",
+          "name": "Ningoherm LLG",
           "electorateSlug": "manus",
           "wards": [
             {
-              "id": "islands-w01",
-              "name": "Ward 1",
-              "registeredVoters": 803
+              "id": "manus-ningoherm-1-pateku",
+              "name": "1 - PATEKU",
+              "registeredVoters": 232
             },
             {
-              "id": "islands-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1053
+              "id": "manus-ningoherm-2-lau",
+              "name": "2 - LAU",
+              "registeredVoters": 195
             },
             {
-              "id": "islands-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1005
+              "id": "manus-ningoherm-3-pihon",
+              "name": "3 - PIHON",
+              "registeredVoters": 339
             },
             {
-              "id": "islands-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1804
+              "id": "manus-ningoherm-4-liot",
+              "name": "4 - LIOT",
+              "registeredVoters": 91
             },
             {
-              "id": "islands-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1276
+              "id": "manus-ningoherm-5-luf",
+              "name": "5 - LUF",
+              "registeredVoters": 183
             },
             {
-              "id": "islands-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1201
+              "id": "manus-ningoherm-6-amik",
+              "name": "6 - AMIK",
+              "registeredVoters": 179
+            }
+          ]
+        },
+        {
+          "id": "manus-pobuma",
+          "name": "Pobuma LLG",
+          "electorateSlug": "manus",
+          "wards": [
+            {
+              "id": "manus-pobuma-1-m-buke-whal",
+              "name": "1 - M’BUKE/WHAL",
+              "registeredVoters": 408
             },
             {
-              "id": "islands-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2372
+              "id": "manus-pobuma-2-bundrahei-sabondralis",
+              "name": "2 - BUNDRAHEI/SABONDRALIS",
+              "registeredVoters": 826
             },
             {
-              "id": "islands-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1186
+              "id": "manus-pobuma-3-likum",
+              "name": "3 - LIKUM",
+              "registeredVoters": 644
+            },
+            {
+              "id": "manus-pobuma-4-babun",
+              "name": "4 - BABUN",
+              "registeredVoters": 353
+            },
+            {
+              "id": "manus-pobuma-5-butjou",
+              "name": "5 - BUTJOU",
+              "registeredVoters": 570
+            },
+            {
+              "id": "manus-pobuma-6-timoenai",
+              "name": "6 - TIMOENAI",
+              "registeredVoters": 508
+            },
+            {
+              "id": "manus-pobuma-7-pohowadeyaha",
+              "name": "7 - POHOWADEYAHA",
+              "registeredVoters": 326
+            },
+            {
+              "id": "manus-pobuma-8-jekal",
+              "name": "8 - JEKAL",
+              "registeredVoters": 126
+            },
+            {
+              "id": "manus-pobuma-9-peli-patu",
+              "name": "9 - PELI PATU",
+              "registeredVoters": 260
+            }
+          ]
+        },
+        {
+          "id": "manus-pomutu-kurti-andra",
+          "name": "Pomutu/Kurti-Andra LLG",
+          "electorateSlug": "manus",
+          "wards": [
+            {
+              "id": "manus-pomutu-kurti-andra-1-ponam-island",
+              "name": "1 - PONAM ISLAND",
+              "registeredVoters": 379
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-2-tulu-1",
+              "name": "2 - TULU 1",
+              "registeredVoters": 256
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-3-tulu-2",
+              "name": "3 - TULU 2",
+              "registeredVoters": 130
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-4-lahapau",
+              "name": "4 - LAHAPAU",
+              "registeredVoters": 116
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-5-bundralis-catholic-mission",
+              "name": "5 - BUNDRALIS CATHOLIC MISSION",
+              "registeredVoters": 30
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-6-lehewa",
+              "name": "6 - LEHEWA",
+              "registeredVoters": 95
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-7-saha",
+              "name": "7 - SAHA",
+              "registeredVoters": 135
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-8-n-drehet",
+              "name": "8 - N’ DREHET",
+              "registeredVoters": 452
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-9-liap",
+              "name": "9 - LIAP",
+              "registeredVoters": 478
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-10-derimbat",
+              "name": "10 - DERIMBAT",
+              "registeredVoters": 397
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-11-andra-island",
+              "name": "11 - ANDRA ISLAND",
+              "registeredVoters": 392
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-12-souh",
+              "name": "12 - SOUH",
+              "registeredVoters": 392
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-13-mundrau",
+              "name": "13 - MUNDRAU",
+              "registeredVoters": 167
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-14-patlok",
+              "name": "14 - PATLOK",
+              "registeredVoters": 172
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-15-mundrupudeu",
+              "name": "15 - MUNDRUPUDEU",
+              "registeredVoters": 114
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-16-pundru",
+              "name": "16 - PUNDRU",
+              "registeredVoters": 164
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-17-wamandra",
+              "name": "17 - WAMANDRA",
+              "registeredVoters": 138
+            },
+            {
+              "id": "manus-pomutu-kurti-andra-18-ndrumunun",
+              "name": "18 - NDRUMUNUN",
+              "registeredVoters": 95
+            }
+          ]
+        },
+        {
+          "id": "manus-rapatona",
+          "name": "Rapatona LLG",
+          "electorateSlug": "manus",
+          "wards": [
+            {
+              "id": "manus-rapatona-1-mokarah",
+              "name": "1 - MOKARAH",
+              "registeredVoters": 222
+            },
+            {
+              "id": "manus-rapatona-2-hahai",
+              "name": "2 - HAHAI",
+              "registeredVoters": 357
+            },
+            {
+              "id": "manus-rapatona-3-tong",
+              "name": "3 - TONG",
+              "registeredVoters": 89
+            },
+            {
+              "id": "manus-rapatona-4-nauna",
+              "name": "4 - NAUNA",
+              "registeredVoters": 299
+            },
+            {
+              "id": "manus-rapatona-5-polobuli",
+              "name": "5 - POLOBULI",
+              "registeredVoters": 458
+            },
+            {
+              "id": "manus-rapatona-6-kuluo",
+              "name": "6 - KULUO",
+              "registeredVoters": 427
+            },
+            {
+              "id": "manus-rapatona-7-penchal",
+              "name": "7 - PENCHAL",
+              "registeredVoters": 365
+            },
+            {
+              "id": "manus-rapatona-8-lenkau",
+              "name": "8 - LENKAU",
+              "registeredVoters": 267
+            },
+            {
+              "id": "manus-rapatona-9-mouklen",
+              "name": "9 - MOUKLEN",
+              "registeredVoters": 234
+            }
+          ]
+        },
+        {
+          "id": "manus-tetidu",
+          "name": "Tetidu LLG",
+          "electorateSlug": "manus",
+          "wards": [
+            {
+              "id": "manus-tetidu-1-buyang",
+              "name": "1 - BUYANG",
+              "registeredVoters": 433
+            },
+            {
+              "id": "manus-tetidu-2-kawaliap",
+              "name": "2 - KAWALIAP",
+              "registeredVoters": 396
+            },
+            {
+              "id": "manus-tetidu-3-tingou",
+              "name": "3 - TINGOU",
+              "registeredVoters": 370
+            },
+            {
+              "id": "manus-tetidu-4-londru",
+              "name": "4 - LONDRU",
+              "registeredVoters": 318
+            },
+            {
+              "id": "manus-tetidu-5-pitariat",
+              "name": "5 - PITARIAT",
+              "registeredVoters": 382
+            },
+            {
+              "id": "manus-tetidu-6-tawi",
+              "name": "6 - TAWI",
+              "registeredVoters": 357
             }
           ]
         }

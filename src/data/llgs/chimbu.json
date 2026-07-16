@@ -10,180 +10,360 @@
           "electorateSlug": "kundiawa-gembogl",
           "wards": [
             {
-              "id": "kundiawa-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1511
+              "id": "kundiawa-gembogl-kundiawa-urban-1-nono-market",
+              "name": "1 - NONO MARKET",
+              "registeredVoters": 610
             },
             {
-              "id": "kundiawa-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2675
+              "id": "kundiawa-gembogl-kundiawa-urban-2-sikirap-market",
+              "name": "2 - SIKIRAP MARKET",
+              "registeredVoters": 1123
             },
             {
-              "id": "kundiawa-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2331
+              "id": "kundiawa-gembogl-kundiawa-urban-3-kundiawa-dist-office",
+              "name": "3 - KUNDIAWA DIST. OFFICE",
+              "registeredVoters": 1121
             },
             {
-              "id": "kundiawa-urban-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1685
+              "id": "kundiawa-gembogl-kundiawa-urban-4-ega-lutheran-church-1",
+              "name": "4 - EGA LUTHERAN CHURCH 1",
+              "registeredVoters": 1370
             },
             {
-              "id": "kundiawa-urban-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1967
+              "id": "kundiawa-gembogl-kundiawa-urban-5-ega-lutheran-church-2",
+              "name": "5 - EGA LUTHERAN CHURCH 2",
+              "registeredVoters": 978
             },
             {
-              "id": "kundiawa-urban-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1674
+              "id": "kundiawa-gembogl-kundiawa-urban-6-ega-lutheran-church-3",
+              "name": "6 - EGA LUTHERAN CHURCH 3",
+              "registeredVoters": 1315
             },
             {
-              "id": "kundiawa-urban-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2643
+              "id": "kundiawa-gembogl-kundiawa-urban-7-mirane",
+              "name": "7 - MIRANE",
+              "registeredVoters": 680
             },
             {
-              "id": "kundiawa-urban-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1316
+              "id": "kundiawa-gembogl-kundiawa-urban-8-yuwai",
+              "name": "8 - YUWAI",
+              "registeredVoters": 144
+            },
+            {
+              "id": "kundiawa-gembogl-kundiawa-urban-9-gaman-makan",
+              "name": "9 - GAMAN MAKAN",
+              "registeredVoters": 527
             }
           ]
         },
         {
-          "id": "kundiawa-gembogl-gembogl",
-          "name": "Gembogl LLG",
+          "id": "kundiawa-gembogl-mt-wilhelm",
+          "name": "Mt. Wilhelm LLG",
           "electorateSlug": "kundiawa-gembogl",
           "wards": [
             {
-              "id": "gembogl-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1877
+              "id": "kundiawa-gembogl-mt-wilhelm-1-maglau-wandigle",
+              "name": "1 - MAGLAU WANDIGLE",
+              "registeredVoters": 1778
             },
             {
-              "id": "gembogl-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1850
+              "id": "kundiawa-gembogl-mt-wilhelm-2-maglau-komkane-1",
+              "name": "2 - MAGLAU KOMKANE 1",
+              "registeredVoters": 510
             },
             {
-              "id": "gembogl-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1960
+              "id": "kundiawa-gembogl-mt-wilhelm-3-maglau-komkane-2",
+              "name": "3 - MAGLAU KOMKANE 2",
+              "registeredVoters": 1267
             },
             {
-              "id": "gembogl-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2908
+              "id": "kundiawa-gembogl-mt-wilhelm-4-maglau-denglaku-1",
+              "name": "4 - MAGLAU DENGLAKU 1",
+              "registeredVoters": 814
             },
             {
-              "id": "gembogl-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2208
+              "id": "kundiawa-gembogl-mt-wilhelm-5-maglau",
+              "name": "5 - MAGLAU",
+              "registeredVoters": 1302
             },
             {
-              "id": "gembogl-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1128
+              "id": "kundiawa-gembogl-mt-wilhelm-6-maglau-denglaku-2",
+              "name": "6 - MAGLAU DENGLAKU 2",
+              "registeredVoters": 1251
             },
             {
-              "id": "gembogl-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2692
+              "id": "kundiawa-gembogl-mt-wilhelm-7-inaugl-4",
+              "name": "7 - INAUGL 4",
+              "registeredVoters": 696
             },
             {
-              "id": "gembogl-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1581
+              "id": "kundiawa-gembogl-mt-wilhelm-8-inaugl-2",
+              "name": "8 - INAUGL 2",
+              "registeredVoters": 993
+            },
+            {
+              "id": "kundiawa-gembogl-mt-wilhelm-9-inaugl-3",
+              "name": "9 - INAUGL 3",
+              "registeredVoters": 717
+            },
+            {
+              "id": "kundiawa-gembogl-mt-wilhelm-10-inaugl-kunaiku",
+              "name": "10 - INAUGL KUNAIKU",
+              "registeredVoters": 408
+            },
+            {
+              "id": "kundiawa-gembogl-mt-wilhelm-11-inaugl-1",
+              "name": "11 - INAUGL 1",
+              "registeredVoters": 936
+            },
+            {
+              "id": "kundiawa-gembogl-mt-wilhelm-12-kugulkane-1",
+              "name": "12 - KUGULKANE 1",
+              "registeredVoters": 1753
+            },
+            {
+              "id": "kundiawa-gembogl-mt-wilhelm-13-kugulkane-2",
+              "name": "13 - KUGULKANE 2",
+              "registeredVoters": 1093
+            },
+            {
+              "id": "kundiawa-gembogl-mt-wilhelm-14-kugulkane-3",
+              "name": "14 - KUGULKANE 3",
+              "registeredVoters": 538
+            },
+            {
+              "id": "kundiawa-gembogl-mt-wilhelm-15-kugulkane-4",
+              "name": "15 - KUGULKANE 4",
+              "registeredVoters": 992
+            },
+            {
+              "id": "kundiawa-gembogl-mt-wilhelm-16-kugulkane-5",
+              "name": "16 - KUGULKANE 5",
+              "registeredVoters": 664
+            },
+            {
+              "id": "kundiawa-gembogl-mt-wilhelm-17-kugulkane-6",
+              "name": "17 - KUGULKANE 6",
+              "registeredVoters": 1627
+            },
+            {
+              "id": "kundiawa-gembogl-mt-wilhelm-18-mainagle",
+              "name": "18 - MAINAGLE",
+              "registeredVoters": 243
             }
           ]
         },
         {
-          "id": "kundiawa-gembogl-sinasina-east",
-          "name": "Sinasina East LLG",
+          "id": "kundiawa-gembogl-niglkande",
+          "name": "Niglkande LLG",
           "electorateSlug": "kundiawa-gembogl",
           "wards": [
             {
-              "id": "sinasina-east-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1421
+              "id": "kundiawa-gembogl-niglkande-1-kewandeku-1",
+              "name": "1 - KEWANDEKU 1",
+              "registeredVoters": 1036
             },
             {
-              "id": "sinasina-east-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1359
+              "id": "kundiawa-gembogl-niglkande-2-girai-tamagle-1",
+              "name": "2 - GIRAI TAMAGLE 1",
+              "registeredVoters": 824
             },
             {
-              "id": "sinasina-east-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1378
+              "id": "kundiawa-gembogl-niglkande-3-girai-tamagle-2",
+              "name": "3 - GIRAI TAMAGLE 2",
+              "registeredVoters": 1018
             },
             {
-              "id": "sinasina-east-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1821
+              "id": "kundiawa-gembogl-niglkande-4-nunuiomane-1",
+              "name": "4 - NUNUIOMANE 1",
+              "registeredVoters": 1207
             },
             {
-              "id": "sinasina-east-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1693
+              "id": "kundiawa-gembogl-niglkande-5-nunuiomane-2",
+              "name": "5 - NUNUIOMANE 2",
+              "registeredVoters": 1091
             },
             {
-              "id": "sinasina-east-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1324
+              "id": "kundiawa-gembogl-niglkande-6-kewandeku-2",
+              "name": "6 - KEWANDEKU 2",
+              "registeredVoters": 958
             },
             {
-              "id": "sinasina-east-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1457
+              "id": "kundiawa-gembogl-niglkande-7-kengaglku-kalaku-1",
+              "name": "7 - KENGAGLKU KALAKU 1",
+              "registeredVoters": 966
             },
             {
-              "id": "sinasina-east-w08",
-              "name": "Ward 8",
-              "registeredVoters": 967
+              "id": "kundiawa-gembogl-niglkande-8-kengaglku-kalaku-2",
+              "name": "8 - KENGAGLKU KALAKU 2",
+              "registeredVoters": 1475
             },
             {
-              "id": "sinasina-east-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1260
+              "id": "kundiawa-gembogl-niglkande-9-kombri-2",
+              "name": "9 - KOMBRI 2",
+              "registeredVoters": 588
             },
             {
-              "id": "sinasina-east-w10",
-              "name": "Ward 10",
-              "registeredVoters": 1011
+              "id": "kundiawa-gembogl-niglkande-10-ganden-koraglku",
+              "name": "10 - GANDEN KORAGLKU",
+              "registeredVoters": 699
+            },
+            {
+              "id": "kundiawa-gembogl-niglkande-11-koromba",
+              "name": "11 - KOROMBA",
+              "registeredVoters": 859
+            },
+            {
+              "id": "kundiawa-gembogl-niglkande-12-kengaglku-krukgugl",
+              "name": "12 - KENGAGLKU KRUKGUGL",
+              "registeredVoters": 933
+            },
+            {
+              "id": "kundiawa-gembogl-niglkande-13-girai-tamagle-3",
+              "name": "13 - GIRAI TAMAGLE 3",
+              "registeredVoters": 798
+            },
+            {
+              "id": "kundiawa-gembogl-niglkande-14-grai-bona",
+              "name": "14 - GRAI BONA",
+              "registeredVoters": 987
+            },
+            {
+              "id": "kundiawa-gembogl-niglkande-15-kengalku-genai",
+              "name": "15 - KENGALKU GENAI",
+              "registeredVoters": 204
+            },
+            {
+              "id": "kundiawa-gembogl-niglkande-16-kombri-gogme",
+              "name": "16 - KOMBRI GOGME",
+              "registeredVoters": 519
+            },
+            {
+              "id": "kundiawa-gembogl-niglkande-17-gandin",
+              "name": "17 - GANDIN",
+              "registeredVoters": 509
+            },
+            {
+              "id": "kundiawa-gembogl-niglkande-18-mitnade-koromba",
+              "name": "18 - MITNADE KOROMBA",
+              "registeredVoters": 626
             }
           ]
         },
         {
-          "id": "kundiawa-gembogl-dom",
-          "name": "Dom LLG",
+          "id": "kundiawa-gembogl-waiye",
+          "name": "Waiye LLG",
           "electorateSlug": "kundiawa-gembogl",
           "wards": [
             {
-              "id": "dom-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2936
+              "id": "kundiawa-gembogl-waiye-1-kupau",
+              "name": "1 - KUPAU",
+              "registeredVoters": 1758
             },
             {
-              "id": "dom-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2281
+              "id": "kundiawa-gembogl-waiye-2-pari",
+              "name": "2 - PARI",
+              "registeredVoters": 2323
             },
             {
-              "id": "dom-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3881
+              "id": "kundiawa-gembogl-waiye-3-kurumugl",
+              "name": "3 - KURUMUGL",
+              "registeredVoters": 1391
             },
             {
-              "id": "dom-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2192
+              "id": "kundiawa-gembogl-waiye-4-nogoma",
+              "name": "4 - NOGOMA",
+              "registeredVoters": 2048
             },
             {
-              "id": "dom-w05",
-              "name": "Ward 5",
-              "registeredVoters": 3360
+              "id": "kundiawa-gembogl-waiye-5-koglai",
+              "name": "5 - KOGLAI",
+              "registeredVoters": 845
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-6-anigl",
+              "name": "6 - ANIGL",
+              "registeredVoters": 838
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-7-guo",
+              "name": "7 - GUO",
+              "registeredVoters": 2297
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-8-wandi",
+              "name": "8 - WANDI",
+              "registeredVoters": 1798
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-9-yuagle",
+              "name": "9 - YUAGLE",
+              "registeredVoters": 1059
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-10-mindima",
+              "name": "10 - MINDIMA",
+              "registeredVoters": 1651
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-11-gor-1",
+              "name": "11 - GOR 1",
+              "registeredVoters": 1559
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-12-gor-2",
+              "name": "12 - GOR 2",
+              "registeredVoters": 1268
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-13-koroma",
+              "name": "13 - KOROMA",
+              "registeredVoters": 1961
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-14-nogar-1",
+              "name": "14 - NOGAR 1",
+              "registeredVoters": 1043
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-15-nogar-2",
+              "name": "15 - NOGAR 2",
+              "registeredVoters": 1090
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-16-gere",
+              "name": "16 - GERE",
+              "registeredVoters": 831
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-17-kombugl",
+              "name": "17 - KOMBUGL",
+              "registeredVoters": 892
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-18-dingimambuno",
+              "name": "18 - DINGIMAMBUNO",
+              "registeredVoters": 1801
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-19-ouna",
+              "name": "19 - OUNA",
+              "registeredVoters": 756
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-20-nend",
+              "name": "20 - NEND",
+              "registeredVoters": 1299
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-21-keramugl",
+              "name": "21 - KERAMUGL",
+              "registeredVoters": 1019
+            },
+            {
+              "id": "kundiawa-gembogl-waiye-22-ningorma",
+              "name": "22 - NINGORMA",
+              "registeredVoters": 377
             }
           ]
         }
@@ -198,54 +378,94 @@
           "electorateSlug": "chuave",
           "wards": [
             {
-              "id": "chuave-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1528
+              "id": "chuave-chuave-1-sirikoge",
+              "name": "1 - SIRIKOGE",
+              "registeredVoters": 629
             },
             {
-              "id": "chuave-w02",
-              "name": "Ward 2",
-              "registeredVoters": 913
+              "id": "chuave-chuave-2-emegi",
+              "name": "2 - EMEGI",
+              "registeredVoters": 768
             },
             {
-              "id": "chuave-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1155
+              "id": "chuave-chuave-3-membimangi",
+              "name": "3 - MEMBIMANGI",
+              "registeredVoters": 816
             },
             {
-              "id": "chuave-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1410
+              "id": "chuave-chuave-4-togoma",
+              "name": "4 - TOGOMA",
+              "registeredVoters": 1269
             },
             {
-              "id": "chuave-w05",
-              "name": "Ward 5",
-              "registeredVoters": 975
+              "id": "chuave-chuave-5-agugu",
+              "name": "5 - AGUGU",
+              "registeredVoters": 864
             },
             {
-              "id": "chuave-w06",
-              "name": "Ward 6",
-              "registeredVoters": 846
+              "id": "chuave-chuave-6-kautambandi",
+              "name": "6 - KAUTAMBANDI",
+              "registeredVoters": 1226
             },
             {
-              "id": "chuave-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1460
+              "id": "chuave-chuave-7-maimagu",
+              "name": "7 - MAIMAGU",
+              "registeredVoters": 1252
             },
             {
-              "id": "chuave-w08",
-              "name": "Ward 8",
-              "registeredVoters": 971
+              "id": "chuave-chuave-8-goi",
+              "name": "8 - GOI",
+              "registeredVoters": 1158
             },
             {
-              "id": "chuave-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1065
+              "id": "chuave-chuave-9-mainamo",
+              "name": "9 - MAINAMO",
+              "registeredVoters": 940
             },
             {
-              "id": "chuave-w10",
-              "name": "Ward 10",
-              "registeredVoters": 1618
+              "id": "chuave-chuave-10-keu-1",
+              "name": "10 - KEU 1",
+              "registeredVoters": 1008
+            },
+            {
+              "id": "chuave-chuave-11-keu-2",
+              "name": "11 - KEU 2",
+              "registeredVoters": 777
+            },
+            {
+              "id": "chuave-chuave-12-onoma",
+              "name": "12 - ONOMA",
+              "registeredVoters": 855
+            },
+            {
+              "id": "chuave-chuave-13-eigun",
+              "name": "13 - EIGUN",
+              "registeredVoters": 1898
+            },
+            {
+              "id": "chuave-chuave-14-manini",
+              "name": "14 - MANINI",
+              "registeredVoters": 145
+            },
+            {
+              "id": "chuave-chuave-15-membimagi-2",
+              "name": "15 - MEMBIMAGI 2",
+              "registeredVoters": 446
+            },
+            {
+              "id": "chuave-chuave-16-yu-graun-bruk",
+              "name": "16 - YU GRAUN BRUK",
+              "registeredVoters": 388
+            },
+            {
+              "id": "chuave-chuave-17-agugu-2",
+              "name": "17 - AGUGU 2",
+              "registeredVoters": 263
+            },
+            {
+              "id": "chuave-chuave-18-ketotapasi",
+              "name": "18 - KETOTAPASI",
+              "registeredVoters": 226
             }
           ]
         },
@@ -255,76 +475,84 @@
           "electorateSlug": "chuave",
           "wards": [
             {
-              "id": "elimbari-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1577
+              "id": "chuave-elimbari-1-monono",
+              "name": "1 - MONONO",
+              "registeredVoters": 918
             },
             {
-              "id": "elimbari-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3468
+              "id": "chuave-elimbari-2-gogo-1",
+              "name": "2 - GOGO 1",
+              "registeredVoters": 683
             },
             {
-              "id": "elimbari-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1777
+              "id": "chuave-elimbari-3-gogo-2",
+              "name": "3 - GOGO 2",
+              "registeredVoters": 612
             },
             {
-              "id": "elimbari-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1765
+              "id": "chuave-elimbari-4-kuraigure",
+              "name": "4 - KURAIGURE",
+              "registeredVoters": 1072
             },
             {
-              "id": "elimbari-w05",
-              "name": "Ward 5",
-              "registeredVoters": 3082
+              "id": "chuave-elimbari-5-kurere-1",
+              "name": "5 - KURERE 1",
+              "registeredVoters": 871
             },
             {
-              "id": "elimbari-w06",
-              "name": "Ward 6",
-              "registeredVoters": 3382
-            }
-          ]
-        },
-        {
-          "id": "chuave-nomane-north",
-          "name": "Nomane North LLG",
-          "electorateSlug": "chuave",
-          "wards": [
-            {
-              "id": "nomane-north-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2069
+              "id": "chuave-elimbari-6-kurere-2",
+              "name": "6 - KURERE 2",
+              "registeredVoters": 685
             },
             {
-              "id": "nomane-north-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1609
+              "id": "chuave-elimbari-7-giriu-1",
+              "name": "7 - GIRIU 1",
+              "registeredVoters": 640
             },
             {
-              "id": "nomane-north-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1561
+              "id": "chuave-elimbari-8-giriu-2",
+              "name": "8 - GIRIU 2",
+              "registeredVoters": 1206
             },
             {
-              "id": "nomane-north-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1323
+              "id": "chuave-elimbari-9-wangoi",
+              "name": "9 - WANGOI",
+              "registeredVoters": 1383
             },
             {
-              "id": "nomane-north-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1154
+              "id": "chuave-elimbari-10-kororume-1",
+              "name": "10 - KORORUME 1",
+              "registeredVoters": 749
             },
             {
-              "id": "nomane-north-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2437
+              "id": "chuave-elimbari-11-kororume-2",
+              "name": "11 - KORORUME 2",
+              "registeredVoters": 783
             },
             {
-              "id": "nomane-north-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1835
+              "id": "chuave-elimbari-12-pimuritoroi",
+              "name": "12 - PIMURITOROI",
+              "registeredVoters": 606
+            },
+            {
+              "id": "chuave-elimbari-13-pimuri",
+              "name": "13 - PIMURI",
+              "registeredVoters": 532
+            },
+            {
+              "id": "chuave-elimbari-14-pimuri-oroma",
+              "name": "14 - PIMURI (OROMA)",
+              "registeredVoters": 558
+            },
+            {
+              "id": "chuave-elimbari-15-karaweri-1",
+              "name": "15 - KARAWERI 1",
+              "registeredVoters": 631
+            },
+            {
+              "id": "chuave-elimbari-16-karaweri-2",
+              "name": "16 - KARAWERI 2",
+              "registeredVoters": 695
             }
           ]
         },
@@ -334,29 +562,139 @@
           "electorateSlug": "chuave",
           "wards": [
             {
-              "id": "siane-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3388
+              "id": "chuave-siane-1-kereku",
+              "name": "1 - KEREKU",
+              "registeredVoters": 792
             },
             {
-              "id": "siane-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3238
+              "id": "chuave-siane-2-waisime",
+              "name": "2 - WAISIME",
+              "registeredVoters": 833
             },
             {
-              "id": "siane-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1639
+              "id": "chuave-siane-3-moreva-1",
+              "name": "3 - MOREVA 1",
+              "registeredVoters": 336
             },
             {
-              "id": "siane-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2693
+              "id": "chuave-siane-4-moreva-2",
+              "name": "4 - MOREVA 2",
+              "registeredVoters": 728
             },
             {
-              "id": "siane-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2142
+              "id": "chuave-siane-5-nime",
+              "name": "5 - NIME",
+              "registeredVoters": 575
+            },
+            {
+              "id": "chuave-siane-6-fokowe",
+              "name": "6 - FOKOWE",
+              "registeredVoters": 666
+            },
+            {
+              "id": "chuave-siane-7-kumo",
+              "name": "7 - KUMO",
+              "registeredVoters": 392
+            },
+            {
+              "id": "chuave-siane-8-atino",
+              "name": "8 - ATINO",
+              "registeredVoters": 315
+            },
+            {
+              "id": "chuave-siane-9-irafaiufa",
+              "name": "9 - IRAFAIUFA",
+              "registeredVoters": 509
+            },
+            {
+              "id": "chuave-siane-10-komuni-1",
+              "name": "10 - KOMUNI 1",
+              "registeredVoters": 496
+            },
+            {
+              "id": "chuave-siane-11-famundi",
+              "name": "11 - FAMUNDI",
+              "registeredVoters": 425
+            },
+            {
+              "id": "chuave-siane-12-seine",
+              "name": "12 - SEINE",
+              "registeredVoters": 1051
+            },
+            {
+              "id": "chuave-siane-13-rabiufa",
+              "name": "13 - RABIUFA",
+              "registeredVoters": 474
+            },
+            {
+              "id": "chuave-siane-14-rumbuiufa",
+              "name": "14 - RUMBUIUFA",
+              "registeredVoters": 473
+            },
+            {
+              "id": "chuave-siane-15-andomono",
+              "name": "15 - ANDOMONO",
+              "registeredVoters": 366
+            },
+            {
+              "id": "chuave-siane-16-feremena",
+              "name": "16 - FEREMENA",
+              "registeredVoters": 533
+            },
+            {
+              "id": "chuave-siane-17-wafo",
+              "name": "17 - WAFO",
+              "registeredVoters": 715
+            },
+            {
+              "id": "chuave-siane-18-lofaifo",
+              "name": "18 - LOFAIFO",
+              "registeredVoters": 573
+            },
+            {
+              "id": "chuave-siane-19-loanoi",
+              "name": "19 - LOANOI",
+              "registeredVoters": 886
+            },
+            {
+              "id": "chuave-siane-20-nomanena",
+              "name": "20 - NOMANENA",
+              "registeredVoters": 442
+            },
+            {
+              "id": "chuave-siane-21-kemami",
+              "name": "21 - KEMAMI",
+              "registeredVoters": 623
+            },
+            {
+              "id": "chuave-siane-22-nomane",
+              "name": "22 - NOMANE",
+              "registeredVoters": 769
+            },
+            {
+              "id": "chuave-siane-23-norifo",
+              "name": "23 - NORIFO",
+              "registeredVoters": 662
+            },
+            {
+              "id": "chuave-siane-24-komborufa",
+              "name": "24 - KOMBORUFA",
+              "registeredVoters": 548
+            },
+            {
+              "id": "chuave-siane-25-foinawa",
+              "name": "25 - FOINAWA",
+              "registeredVoters": 501
+            },
+            {
+              "id": "chuave-siane-26-komni-2",
+              "name": "26 - KOMNI 2",
+              "registeredVoters": 503
+            },
+            {
+              "id": "chuave-siane-27-kifiufa",
+              "name": "27 - KIFIUFA",
+              "registeredVoters": 681
             }
           ]
         }
@@ -371,120 +709,263 @@
           "electorateSlug": "sinasina-yonggamugl",
           "wards": [
             {
-              "id": "sinasina-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1773
+              "id": "sinasina-yonggamugl-sinasina-1-bulagesible",
+              "name": "1 - BULAGESIBLE",
+              "registeredVoters": 1128
             },
             {
-              "id": "sinasina-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2468
+              "id": "sinasina-yonggamugl-sinasina-2-gilmai-arebi",
+              "name": "2 - GILMAI/AREBI",
+              "registeredVoters": 622
             },
             {
-              "id": "sinasina-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2416
+              "id": "sinasina-yonggamugl-sinasina-3-maima",
+              "name": "3 - MAIMA",
+              "registeredVoters": 645
             },
             {
-              "id": "sinasina-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3877
+              "id": "sinasina-yonggamugl-sinasina-4-temisnowai",
+              "name": "4 - TEMISNOWAI",
+              "registeredVoters": 618
             },
             {
-              "id": "sinasina-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1698
+              "id": "sinasina-yonggamugl-sinasina-5-galaku",
+              "name": "5 - GALAKU",
+              "registeredVoters": 647
+            },
+            {
+              "id": "sinasina-yonggamugl-sinasina-6-klai",
+              "name": "6 - KLAI",
+              "registeredVoters": 1387
+            },
+            {
+              "id": "sinasina-yonggamugl-sinasina-7-masul-1",
+              "name": "7 - MASUL 1",
+              "registeredVoters": 877
+            },
+            {
+              "id": "sinasina-yonggamugl-sinasina-8-masul-2",
+              "name": "8 - MASUL 2",
+              "registeredVoters": 1035
+            },
+            {
+              "id": "sinasina-yonggamugl-sinasina-9-yalemesi",
+              "name": "9 - YALEMESI",
+              "registeredVoters": 831
+            },
+            {
+              "id": "sinasina-yonggamugl-sinasina-10-yalkomno",
+              "name": "10 - YALKOMNO",
+              "registeredVoters": 907
+            },
+            {
+              "id": "sinasina-yonggamugl-sinasina-11-kapma-kapmagaren",
+              "name": "11 - KAPMA (KAPMAGAREN)",
+              "registeredVoters": 1536
+            },
+            {
+              "id": "sinasina-yonggamugl-sinasina-12-kapma-kapmamark",
+              "name": "12 - KAPMA (KAPMAMARK)",
+              "registeredVoters": 822
+            },
+            {
+              "id": "sinasina-yonggamugl-sinasina-13-woma",
+              "name": "13 - WOMA",
+              "registeredVoters": 885
+            },
+            {
+              "id": "sinasina-yonggamugl-sinasina-14-kautabandi",
+              "name": "14 - KAUTABANDI",
+              "registeredVoters": 478
             }
           ]
         },
         {
-          "id": "sinasina-yonggamugl-yonggamugl",
-          "name": "Yonggamugl LLG",
+          "id": "sinasina-yonggamugl-suwai",
+          "name": "Suwai LLG",
           "electorateSlug": "sinasina-yonggamugl",
           "wards": [
             {
-              "id": "yonggamugl-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2181
+              "id": "sinasina-yonggamugl-suwai-1-dugul",
+              "name": "1 - DUGUL",
+              "registeredVoters": 1649
             },
             {
-              "id": "yonggamugl-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2577
+              "id": "sinasina-yonggamugl-suwai-2-oglewaula",
+              "name": "2 - OGLEWAULA",
+              "registeredVoters": 1334
             },
             {
-              "id": "yonggamugl-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1773
+              "id": "sinasina-yonggamugl-suwai-3-bomaiku",
+              "name": "3 - BOMAIKU",
+              "registeredVoters": 1460
             },
             {
-              "id": "yonggamugl-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2230
+              "id": "sinasina-yonggamugl-suwai-4-du-1",
+              "name": "4 - DU 1",
+              "registeredVoters": 795
             },
             {
-              "id": "yonggamugl-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1802
+              "id": "sinasina-yonggamugl-suwai-5-du-2",
+              "name": "5 - DU 2",
+              "registeredVoters": 754
             },
             {
-              "id": "yonggamugl-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1830
+              "id": "sinasina-yonggamugl-suwai-6-du-3",
+              "name": "6 - DU 3",
+              "registeredVoters": 531
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-7-kiriyu-sipa",
+              "name": "7 - KIRIYU/SIPA",
+              "registeredVoters": 700
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-8-aniku",
+              "name": "8 - ANIKU",
+              "registeredVoters": 1178
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-9-kirku-korul",
+              "name": "9 - KIRKU/KORUL",
+              "registeredVoters": 1116
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-10-niniku",
+              "name": "10 - NINIKU",
+              "registeredVoters": 678
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-11-piga",
+              "name": "11 - PIGA",
+              "registeredVoters": 1226
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-12-kagle",
+              "name": "12 - KAGLE",
+              "registeredVoters": 1134
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-13-digakane",
+              "name": "13 - DIGAKANE",
+              "registeredVoters": 1242
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-14-kumankane",
+              "name": "14 - KUMANKANE",
+              "registeredVoters": 1023
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-15-au-erakane",
+              "name": "15 - AU/ERAKANE",
+              "registeredVoters": 641
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-16-kagugl",
+              "name": "16 - KAGUGL",
+              "registeredVoters": 1703
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-17-yoruaku",
+              "name": "17 - YORUAKU",
+              "registeredVoters": 987
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-18-segima",
+              "name": "18 - SEGIMA",
+              "registeredVoters": 892
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-19-kuiam",
+              "name": "19 - KUIAM",
+              "registeredVoters": 782
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-20-maribebi-kui",
+              "name": "20 - MARIBEBI KUI",
+              "registeredVoters": 915
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-21-kebil-1",
+              "name": "21 - KEBIL 1",
+              "registeredVoters": 570
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-22-kebil-2",
+              "name": "22 - KEBIL 2",
+              "registeredVoters": 760
+            },
+            {
+              "id": "sinasina-yonggamugl-suwai-23-kaepai",
+              "name": "23 - KAEPAI",
+              "registeredVoters": 1470
             }
           ]
         },
         {
-          "id": "sinasina-yonggamugl-gunangi",
-          "name": "Gunangi LLG",
+          "id": "sinasina-yonggamugl-yongomugl",
+          "name": "Yongomugl LLG",
           "electorateSlug": "sinasina-yonggamugl",
           "wards": [
             {
-              "id": "gunangi-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2337
+              "id": "sinasina-yonggamugl-yongomugl-1-mogl-kauglan-gondumakane",
+              "name": "1 - MOGL/KAUGLAN GONDUMAKANE",
+              "registeredVoters": 2500
             },
             {
-              "id": "gunangi-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2881
+              "id": "sinasina-yonggamugl-yongomugl-2-kagai-kondumakane",
+              "name": "2 - KAGAI KONDUMAKANE",
+              "registeredVoters": 2238
             },
             {
-              "id": "gunangi-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2066
+              "id": "sinasina-yonggamugl-yongomugl-3-guruma-1",
+              "name": "3 - GURUMA 1",
+              "registeredVoters": 2122
             },
             {
-              "id": "gunangi-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2615
+              "id": "sinasina-yonggamugl-yongomugl-4-guruma-2",
+              "name": "4 - GURUMA 2",
+              "registeredVoters": 1077
             },
             {
-              "id": "gunangi-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1768
-            }
-          ]
-        },
-        {
-          "id": "sinasina-yonggamugl-tabare",
-          "name": "Tabare LLG",
-          "electorateSlug": "sinasina-yonggamugl",
-          "wards": [
-            {
-              "id": "tabare-w01",
-              "name": "Ward 1",
-              "registeredVoters": 4934
+              "id": "sinasina-yonggamugl-yongomugl-5-muasugo",
+              "name": "5 - MUASUGO",
+              "registeredVoters": 801
             },
             {
-              "id": "tabare-w02",
-              "name": "Ward 2",
-              "registeredVoters": 4339
+              "id": "sinasina-yonggamugl-yongomugl-6-mai-1",
+              "name": "6 - MAI 1",
+              "registeredVoters": 1122
             },
             {
-              "id": "tabare-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3177
+              "id": "sinasina-yonggamugl-yongomugl-7-mai-2",
+              "name": "7 - MAI 2",
+              "registeredVoters": 1206
+            },
+            {
+              "id": "sinasina-yonggamugl-yongomugl-8-niglguma-1",
+              "name": "8 - NIGLGUMA 1",
+              "registeredVoters": 796
+            },
+            {
+              "id": "sinasina-yonggamugl-yongomugl-9-niglguma-2",
+              "name": "9 - NIGLGUMA 2",
+              "registeredVoters": 649
+            },
+            {
+              "id": "sinasina-yonggamugl-yongomugl-10-niglguma-3",
+              "name": "10 - NIGLGUMA 3",
+              "registeredVoters": 658
+            },
+            {
+              "id": "sinasina-yonggamugl-yongomugl-11-ku-1",
+              "name": "11 - KU 1",
+              "registeredVoters": 1178
+            },
+            {
+              "id": "sinasina-yonggamugl-yongomugl-12-ku-2",
+              "name": "12 - KU 2",
+              "registeredVoters": 1251
             }
           ]
         }
@@ -494,180 +975,258 @@
       "electorateSlug": "gumine",
       "llgs": [
         {
+          "id": "gumine-bomai-kunmai",
+          "name": "Bomai/Kunmai LLG",
+          "electorateSlug": "gumine",
+          "wards": [
+            {
+              "id": "gumine-bomai-kunmai-1-era-1",
+              "name": "1 - ERA 1",
+              "registeredVoters": 622
+            },
+            {
+              "id": "gumine-bomai-kunmai-2-era-2",
+              "name": "2 - ERA 2",
+              "registeredVoters": 718
+            },
+            {
+              "id": "gumine-bomai-kunmai-3-era-buli",
+              "name": "3 - ERA (BULI)",
+              "registeredVoters": 1002
+            },
+            {
+              "id": "gumine-bomai-kunmai-4-omdara",
+              "name": "4 - OMDARA",
+              "registeredVoters": 804
+            },
+            {
+              "id": "gumine-bomai-kunmai-5-kua",
+              "name": "5 - KUA",
+              "registeredVoters": 676
+            },
+            {
+              "id": "gumine-bomai-kunmai-6-dia",
+              "name": "6 - DIA",
+              "registeredVoters": 597
+            },
+            {
+              "id": "gumine-bomai-kunmai-7-kopan",
+              "name": "7 - KOPAN",
+              "registeredVoters": 679
+            },
+            {
+              "id": "gumine-bomai-kunmai-8-yuri",
+              "name": "8 - YURI",
+              "registeredVoters": 996
+            },
+            {
+              "id": "gumine-bomai-kunmai-9-delku",
+              "name": "9 - DELKU",
+              "registeredVoters": 816
+            },
+            {
+              "id": "gumine-bomai-kunmai-10-ainaku",
+              "name": "10 - AINAKU",
+              "registeredVoters": 852
+            },
+            {
+              "id": "gumine-bomai-kunmai-11-kawaleku",
+              "name": "11 - KAWALEKU",
+              "registeredVoters": 2754
+            },
+            {
+              "id": "gumine-bomai-kunmai-12-nebiku",
+              "name": "12 - NEBIKU",
+              "registeredVoters": 558
+            },
+            {
+              "id": "gumine-bomai-kunmai-13-nilki-aina",
+              "name": "13 - NILKI AINA",
+              "registeredVoters": 110
+            },
+            {
+              "id": "gumine-bomai-kunmai-14-delaina-yone",
+              "name": "14 - DELAINA YONE",
+              "registeredVoters": 306
+            }
+          ]
+        },
+        {
           "id": "gumine-gumine",
           "name": "Gumine LLG",
           "electorateSlug": "gumine",
           "wards": [
             {
-              "id": "gumine-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1436
+              "id": "gumine-gumine-1-tagala",
+              "name": "1 - TAGALA",
+              "registeredVoters": 658
             },
             {
-              "id": "gumine-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1526
+              "id": "gumine-gumine-2-omkolai-1",
+              "name": "2 - OMKOLAI 1",
+              "registeredVoters": 1227
             },
             {
-              "id": "gumine-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1372
+              "id": "gumine-gumine-3-omkolai-2",
+              "name": "3 - OMKOLAI 2",
+              "registeredVoters": 1447
             },
             {
-              "id": "gumine-w04",
-              "name": "Ward 4",
-              "registeredVoters": 827
+              "id": "gumine-gumine-4-yani",
+              "name": "4 - YANI",
+              "registeredVoters": 1169
             },
             {
-              "id": "gumine-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1139
+              "id": "gumine-gumine-5-minlinkane",
+              "name": "5 - MINLINKANE",
+              "registeredVoters": 977
             },
             {
-              "id": "gumine-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1331
+              "id": "gumine-gumine-6-bomaigaulin",
+              "name": "6 - BOMAIGAULIN",
+              "registeredVoters": 1942
             },
             {
-              "id": "gumine-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1586
+              "id": "gumine-gumine-7-kipaku",
+              "name": "7 - KIPAKU",
+              "registeredVoters": 807
             },
             {
-              "id": "gumine-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1328
+              "id": "gumine-gumine-8-aleku",
+              "name": "8 - ALEKU",
+              "registeredVoters": 1573
             },
             {
-              "id": "gumine-w09",
-              "name": "Ward 9",
-              "registeredVoters": 595
+              "id": "gumine-gumine-9-kaleku",
+              "name": "9 - KALEKU",
+              "registeredVoters": 1288
+            },
+            {
+              "id": "gumine-gumine-10-koiaku",
+              "name": "10 - KOIAKU",
+              "registeredVoters": 1088
+            },
+            {
+              "id": "gumine-gumine-11-nigemarime",
+              "name": "11 - NIGEMARIME",
+              "registeredVoters": 979
+            },
+            {
+              "id": "gumine-gumine-12-gumine-station",
+              "name": "12 - GUMINE STATION",
+              "registeredVoters": 216
+            },
+            {
+              "id": "gumine-gumine-13-kunarku",
+              "name": "13 - KUNARKU",
+              "registeredVoters": 1183
+            },
+            {
+              "id": "gumine-gumine-14-milaku",
+              "name": "14 - MILAKU",
+              "registeredVoters": 1068
+            },
+            {
+              "id": "gumine-gumine-15-neraku-1",
+              "name": "15 - NERAKU 1",
+              "registeredVoters": 654
+            },
+            {
+              "id": "gumine-gumine-16-egeku",
+              "name": "16 - EGEKU",
+              "registeredVoters": 909
+            },
+            {
+              "id": "gumine-gumine-17-neraku-2",
+              "name": "17 - NERAKU 2",
+              "registeredVoters": 607
+            },
+            {
+              "id": "gumine-gumine-18-sabamingaulin",
+              "name": "18 - SABAMINGAULIN",
+              "registeredVoters": 535
+            },
+            {
+              "id": "gumine-gumine-19-sanigekain",
+              "name": "19 - SANIGEKAIN",
+              "registeredVoters": 549
+            },
+            {
+              "id": "gumine-gumine-20-satobuku",
+              "name": "20 - SATOBUKU",
+              "registeredVoters": 769
+            },
+            {
+              "id": "gumine-gumine-21-kumaikaine",
+              "name": "21 - KUMAIKAINE",
+              "registeredVoters": 1149
             }
           ]
         },
         {
-          "id": "gumine-digine",
-          "name": "Digine LLG",
+          "id": "gumine-mt-digine",
+          "name": "Mt. Digine LLG",
           "electorateSlug": "gumine",
           "wards": [
             {
-              "id": "digine-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2388
+              "id": "gumine-mt-digine-1-gorma",
+              "name": "1 - GORMA",
+              "registeredVoters": 622
             },
             {
-              "id": "digine-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1974
+              "id": "gumine-mt-digine-2-kel-1",
+              "name": "2 - KEL 1",
+              "registeredVoters": 833
             },
             {
-              "id": "digine-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1704
+              "id": "gumine-mt-digine-3-kel-2",
+              "name": "3 - KEL 2",
+              "registeredVoters": 2604
             },
             {
-              "id": "digine-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1940
+              "id": "gumine-mt-digine-4-digime",
+              "name": "4 - DIGIME",
+              "registeredVoters": 824
             },
             {
-              "id": "digine-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1420
+              "id": "gumine-mt-digine-5-sipagul",
+              "name": "5 - SIPAGUL",
+              "registeredVoters": 1720
             },
             {
-              "id": "digine-w06",
-              "name": "Ward 6",
-              "registeredVoters": 965
-            }
-          ]
-        },
-        {
-          "id": "gumine-golin",
-          "name": "Golin LLG",
-          "electorateSlug": "gumine",
-          "wards": [
-            {
-              "id": "golin-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1323
+              "id": "gumine-mt-digine-6-genabona",
+              "name": "6 - GENABONA",
+              "registeredVoters": 2106
             },
             {
-              "id": "golin-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1465
+              "id": "gumine-mt-digine-7-kariglmaril",
+              "name": "7 - KARIGLMARIL",
+              "registeredVoters": 2995
             },
             {
-              "id": "golin-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1092
+              "id": "gumine-mt-digine-8-gaima",
+              "name": "8 - GAIMA",
+              "registeredVoters": 2020
             },
             {
-              "id": "golin-w04",
-              "name": "Ward 4",
-              "registeredVoters": 949
+              "id": "gumine-mt-digine-9-munuma",
+              "name": "9 - MUNUMA",
+              "registeredVoters": 3276
             },
             {
-              "id": "golin-w05",
-              "name": "Ward 5",
-              "registeredVoters": 859
+              "id": "gumine-mt-digine-10-oldale-1",
+              "name": "10 - OLDALE 1",
+              "registeredVoters": 1476
             },
             {
-              "id": "golin-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1657
+              "id": "gumine-mt-digine-11-oldale-2",
+              "name": "11 - OLDALE 2",
+              "registeredVoters": 920
             },
             {
-              "id": "golin-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1436
-            },
-            {
-              "id": "golin-w08",
-              "name": "Ward 8",
-              "registeredVoters": 953
-            },
-            {
-              "id": "golin-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1305
-            },
-            {
-              "id": "golin-w10",
-              "name": "Ward 10",
-              "registeredVoters": 1037
-            }
-          ]
-        },
-        {
-          "id": "gumine-salt-nomane",
-          "name": "Salt-Nomane LLG",
-          "electorateSlug": "gumine",
-          "wards": [
-            {
-              "id": "salt-nomane-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2320
-            },
-            {
-              "id": "salt-nomane-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2364
-            },
-            {
-              "id": "salt-nomane-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1853
-            },
-            {
-              "id": "salt-nomane-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2541
-            },
-            {
-              "id": "salt-nomane-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1972
+              "id": "gumine-mt-digine-12-oldale-3",
+              "name": "12 - OLDALE 3",
+              "registeredVoters": 767
             }
           ]
         }
@@ -677,165 +1236,335 @@
       "electorateSlug": "kerowagi",
       "llgs": [
         {
-          "id": "kerowagi-kerowagi",
-          "name": "Kerowagi LLG",
-          "electorateSlug": "kerowagi",
-          "wards": [
-            {
-              "id": "kerowagi-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3983
-            },
-            {
-              "id": "kerowagi-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2747
-            },
-            {
-              "id": "kerowagi-w03",
-              "name": "Ward 3",
-              "registeredVoters": 4086
-            },
-            {
-              "id": "kerowagi-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2257
-            }
-          ]
-        },
-        {
           "id": "kerowagi-gena-waugla",
-          "name": "Gena-Waugla LLG",
+          "name": "Gena/Waugla LLG",
           "electorateSlug": "kerowagi",
           "wards": [
             {
-              "id": "gena-waugla-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1567
+              "id": "kerowagi-gena-waugla-1-gena-komainde",
+              "name": "1 - GENA KOMAINDE",
+              "registeredVoters": 1230
             },
             {
-              "id": "gena-waugla-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1267
+              "id": "kerowagi-gena-waugla-2-gena-wimba",
+              "name": "2 - GENA WIMBA",
+              "registeredVoters": 829
             },
             {
-              "id": "gena-waugla-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2971
+              "id": "kerowagi-gena-waugla-3-genakeglaku",
+              "name": "3 - GENAKEGLAKU",
+              "registeredVoters": 934
             },
             {
-              "id": "gena-waugla-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1324
+              "id": "kerowagi-gena-waugla-4-genatowaku",
+              "name": "4 - GENATOWAKU",
+              "registeredVoters": 1400
             },
             {
-              "id": "gena-waugla-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2009
+              "id": "kerowagi-gena-waugla-5-gena-bonduku-1",
+              "name": "5 - GENA BONDUKU 1",
+              "registeredVoters": 970
             },
             {
-              "id": "gena-waugla-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2538
+              "id": "kerowagi-gena-waugla-6-gena-bonduku-2",
+              "name": "6 - GENA BONDUKU 2",
+              "registeredVoters": 764
+            },
+            {
+              "id": "kerowagi-gena-waugla-7-wauglamugluaku",
+              "name": "7 - WAUGLAMUGLUAKU",
+              "registeredVoters": 2314
+            },
+            {
+              "id": "kerowagi-gena-waugla-8-wauglayaglemauglonem",
+              "name": "8 - WAUGLAYAGLEMAUGLONEM",
+              "registeredVoters": 2079
+            },
+            {
+              "id": "kerowagi-gena-waugla-9-siamgugla",
+              "name": "9 - SIAMGUGLA",
+              "registeredVoters": 2094
+            },
+            {
+              "id": "kerowagi-gena-waugla-10-kombuku",
+              "name": "10 - KOMBUKU",
+              "registeredVoters": 1771
+            },
+            {
+              "id": "kerowagi-gena-waugla-11-siambuglawaugku",
+              "name": "11 - SIAMBUGLAWAUGKU",
+              "registeredVoters": 1398
+            },
+            {
+              "id": "kerowagi-gena-waugla-12-siambuglawauka",
+              "name": "12 - SIAMBUGLAWAUKA",
+              "registeredVoters": 864
+            },
+            {
+              "id": "kerowagi-gena-waugla-13-genayogomba",
+              "name": "13 - GENAYOGOMBA",
+              "registeredVoters": 1253
+            },
+            {
+              "id": "kerowagi-gena-waugla-14-boom-gate",
+              "name": "14 - BOOM GATE",
+              "registeredVoters": 1226
             }
           ]
         },
         {
-          "id": "kerowagi-kunabau",
-          "name": "Kunabau LLG",
+          "id": "kerowagi-kerowagi-urban",
+          "name": "Kerowagi Urban LLG",
           "electorateSlug": "kerowagi",
           "wards": [
             {
-              "id": "kunabau-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2689
+              "id": "kerowagi-kerowagi-urban-1-dawage",
+              "name": "1 - DAWAGE",
+              "registeredVoters": 360
             },
             {
-              "id": "kunabau-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1957
+              "id": "kerowagi-kerowagi-urban-2-kimagl",
+              "name": "2 - KIMAGL",
+              "registeredVoters": 578
             },
             {
-              "id": "kunabau-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1293
+              "id": "kerowagi-kerowagi-urban-3-kamagl",
+              "name": "3 - KAMAGL",
+              "registeredVoters": 553
             },
             {
-              "id": "kunabau-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2945
+              "id": "kerowagi-kerowagi-urban-4-siku",
+              "name": "4 - SIKU",
+              "registeredVoters": 578
             },
             {
-              "id": "kunabau-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1336
+              "id": "kerowagi-kerowagi-urban-5-pagau",
+              "name": "5 - PAGAU",
+              "registeredVoters": 573
             },
             {
-              "id": "kunabau-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1893
-            },
-            {
-              "id": "kunabau-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2388
+              "id": "kerowagi-kerowagi-urban-6-wagi",
+              "name": "6 - WAGI",
+              "registeredVoters": 777
             }
           ]
         },
         {
-          "id": "kerowagi-mitnande",
-          "name": "Mitnande LLG",
+          "id": "kerowagi-kup",
+          "name": "Kup LLG",
           "electorateSlug": "kerowagi",
           "wards": [
             {
-              "id": "mitnande-w01",
-              "name": "Ward 1",
-              "registeredVoters": 959
+              "id": "kerowagi-kup-1-kumga",
+              "name": "1 - KUMGA",
+              "registeredVoters": 1091
             },
             {
-              "id": "mitnande-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1827
+              "id": "kerowagi-kup-2-kumabonmeku",
+              "name": "2 - KUMABONMEKU",
+              "registeredVoters": 648
             },
             {
-              "id": "mitnande-w03",
-              "name": "Ward 3",
-              "registeredVoters": 963
+              "id": "kerowagi-kup-3-yuri",
+              "name": "3 - YURI",
+              "registeredVoters": 1014
             },
             {
-              "id": "mitnande-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1249
+              "id": "kerowagi-kup-4-kumadeingeku",
+              "name": "4 - KUMADEINGEKU",
+              "registeredVoters": 685
             },
             {
-              "id": "mitnande-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1838
+              "id": "kerowagi-kup-5-kumakindindimgapam",
+              "name": "5 - KUMAKINDINDIMGAPAM",
+              "registeredVoters": 898
             },
             {
-              "id": "mitnande-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1214
+              "id": "kerowagi-kup-6-enduglananginku-1",
+              "name": "6 - ENDUGLANANGINKU 1",
+              "registeredVoters": 1682
             },
             {
-              "id": "mitnande-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1587
+              "id": "kerowagi-kup-7-enduglananginku-2",
+              "name": "7 - ENDUGLANANGINKU 2",
+              "registeredVoters": 1443
             },
             {
-              "id": "mitnande-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1313
+              "id": "kerowagi-kup-8-enduglananginku-3",
+              "name": "8 - ENDUGLANANGINKU 3",
+              "registeredVoters": 981
             },
             {
-              "id": "mitnande-w09",
-              "name": "Ward 9",
-              "registeredVoters": 954
+              "id": "kerowagi-kup-9-bandi-no-2-wd-9",
+              "name": "9 - BANDI No 2 (WD 9)",
+              "registeredVoters": 1016
             },
             {
-              "id": "mitnande-w10",
-              "name": "Ward 10",
-              "registeredVoters": 996
+              "id": "kerowagi-kup-10-bandi-no-2-wd-10",
+              "name": "10 - BANDI No 2 (WD 10)",
+              "registeredVoters": 607
+            },
+            {
+              "id": "kerowagi-kup-11-bandi-no-1",
+              "name": "11 - BANDI NO. 1",
+              "registeredVoters": 803
+            },
+            {
+              "id": "kerowagi-kup-12-neragaima",
+              "name": "12 - NERAGAIMA",
+              "registeredVoters": 758
+            },
+            {
+              "id": "kerowagi-kup-13-kualuar",
+              "name": "13 - KUALUAR",
+              "registeredVoters": 299
+            },
+            {
+              "id": "kerowagi-kup-14-konmugl",
+              "name": "14 - KONMUGL",
+              "registeredVoters": 447
+            },
+            {
+              "id": "kerowagi-kup-15-kimemb",
+              "name": "15 - KIMEMB",
+              "registeredVoters": 265
+            },
+            {
+              "id": "kerowagi-kup-16-ulwal",
+              "name": "16 - ULWAL",
+              "registeredVoters": 424
+            }
+          ]
+        },
+        {
+          "id": "kerowagi-lower-upper-koronigl",
+          "name": "Lower-Upper Koronigl LLG",
+          "electorateSlug": "kerowagi",
+          "wards": [
+            {
+              "id": "kerowagi-lower-upper-koronigl-1-dagemitna-1",
+              "name": "1 - DAGEMITNA 1",
+              "registeredVoters": 1589
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-2-dagemitna-2",
+              "name": "2 - DAGEMITNA 2",
+              "registeredVoters": 309
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-3-dagemitna-3",
+              "name": "3 - DAGEMITNA 3",
+              "registeredVoters": 593
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-4-dageyogombo-1",
+              "name": "4 - DAGEYOGOMBO 1",
+              "registeredVoters": 1519
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-5-dageyogombo-2",
+              "name": "5 - DAGEYOGOMBO 2",
+              "registeredVoters": 261
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-6-kamaneku-1",
+              "name": "6 - KAMANEKU 1",
+              "registeredVoters": 1439
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-7-kamaneku-2",
+              "name": "7 - KAMANEKU 2",
+              "registeredVoters": 1845
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-8-siku",
+              "name": "8 - SIKU",
+              "registeredVoters": 1187
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-9-pagau-1",
+              "name": "9 - PAGAU 1",
+              "registeredVoters": 1428
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-10-pagau-2",
+              "name": "10 - PAGAU 2",
+              "registeredVoters": 1309
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-11-pagau-sibaigu",
+              "name": "11 - PAGAU/SIBAIGU",
+              "registeredVoters": 1457
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-12-pagau-3",
+              "name": "12 - PAGAU 3",
+              "registeredVoters": 1315
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-13-pagau-4",
+              "name": "13 - PAGAU 4",
+              "registeredVoters": 976
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-14-giraiku-1",
+              "name": "14 - GIRAIKU 1",
+              "registeredVoters": 760
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-15-giraiku-2",
+              "name": "15 - GIRAIKU 2",
+              "registeredVoters": 444
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-16-giraiku-3",
+              "name": "16 - GIRAIKU 3",
+              "registeredVoters": 644
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-17-bindiku",
+              "name": "17 - BINDIKU",
+              "registeredVoters": 684
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-18-damba",
+              "name": "18 - DAMBA",
+              "registeredVoters": 1453
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-19-nimaikane",
+              "name": "19 - NIMAIKANE",
+              "registeredVoters": 1570
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-20-dageyogomba",
+              "name": "20 - DAGEYOGOMBA",
+              "registeredVoters": 1930
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-21-dagemitna-4",
+              "name": "21 - DAGEMITNA 4",
+              "registeredVoters": 662
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-22-kamaneku-siambugla",
+              "name": "22 - KAMANEKU-SIAMBUGLA",
+              "registeredVoters": 1985
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-23-kumbal",
+              "name": "23 - KUMBAL",
+              "registeredVoters": 234
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-24-miunde",
+              "name": "24 - MIUNDE",
+              "registeredVoters": 450
+            },
+            {
+              "id": "kerowagi-lower-upper-koronigl-25-negembia",
+              "name": "25 - NEGEMBIA",
+              "registeredVoters": 321
             }
           ]
         }
@@ -850,39 +1579,139 @@
           "electorateSlug": "karimui-nomane",
           "wards": [
             {
-              "id": "karimui-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1018
+              "id": "karimui-nomane-karimui-1-yuro-1",
+              "name": "1 - YURO 1",
+              "registeredVoters": 1387
             },
             {
-              "id": "karimui-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1013
+              "id": "karimui-nomane-karimui-2-yuro-2",
+              "name": "2 - YURO 2",
+              "registeredVoters": 894
             },
             {
-              "id": "karimui-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2062
+              "id": "karimui-nomane-karimui-3-huwaiyo",
+              "name": "3 - HUWAIYO",
+              "registeredVoters": 659
             },
             {
-              "id": "karimui-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1505
+              "id": "karimui-nomane-karimui-4-wario",
+              "name": "4 - WARIO",
+              "registeredVoters": 919
             },
             {
-              "id": "karimui-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1962
+              "id": "karimui-nomane-karimui-5-karimui-station-1",
+              "name": "5 - KARIMUI STATION 1",
+              "registeredVoters": 633
             },
             {
-              "id": "karimui-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2245
+              "id": "karimui-nomane-karimui-6-karimui-station-2",
+              "name": "6 - KARIMUI STATION 2",
+              "registeredVoters": 961
             },
             {
-              "id": "karimui-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1325
+              "id": "karimui-nomane-karimui-7-norowai",
+              "name": "7 - NOROWAI",
+              "registeredVoters": 645
+            },
+            {
+              "id": "karimui-nomane-karimui-8-boisamaru-1",
+              "name": "8 - BOISAMARU 1",
+              "registeredVoters": 759
+            },
+            {
+              "id": "karimui-nomane-karimui-9-boisamaru-2",
+              "name": "9 - BOISAMARU 2",
+              "registeredVoters": 412
+            },
+            {
+              "id": "karimui-nomane-karimui-10-yogoromaru",
+              "name": "10 - YOGOROMARU",
+              "registeredVoters": 582
+            },
+            {
+              "id": "karimui-nomane-karimui-11-dibe-1",
+              "name": "11 - DIBE 1",
+              "registeredVoters": 422
+            },
+            {
+              "id": "karimui-nomane-karimui-12-dibe-2",
+              "name": "12 - DIBE 2",
+              "registeredVoters": 397
+            },
+            {
+              "id": "karimui-nomane-karimui-13-negabo",
+              "name": "13 - NEGABO",
+              "registeredVoters": 868
+            },
+            {
+              "id": "karimui-nomane-karimui-14-tua-1",
+              "name": "14 - TUA 1",
+              "registeredVoters": 336
+            },
+            {
+              "id": "karimui-nomane-karimui-15-tua-2",
+              "name": "15 - TUA 2",
+              "registeredVoters": 777
+            },
+            {
+              "id": "karimui-nomane-karimui-16-masi",
+              "name": "16 - MASI",
+              "registeredVoters": 409
+            },
+            {
+              "id": "karimui-nomane-karimui-17-maina-1",
+              "name": "17 - MAINA 1",
+              "registeredVoters": 639
+            },
+            {
+              "id": "karimui-nomane-karimui-18-maina-2",
+              "name": "18 - MAINA 2",
+              "registeredVoters": 525
+            },
+            {
+              "id": "karimui-nomane-karimui-19-solari",
+              "name": "19 - SOLARI",
+              "registeredVoters": 959
+            },
+            {
+              "id": "karimui-nomane-karimui-20-sola",
+              "name": "20 - SOLA",
+              "registeredVoters": 326
+            },
+            {
+              "id": "karimui-nomane-karimui-21-waiamani",
+              "name": "21 - WAIAMANI",
+              "registeredVoters": 512
+            },
+            {
+              "id": "karimui-nomane-karimui-22-dobea",
+              "name": "22 - DOBEA",
+              "registeredVoters": 568
+            },
+            {
+              "id": "karimui-nomane-karimui-23-orotabe",
+              "name": "23 - OROTABE",
+              "registeredVoters": 409
+            },
+            {
+              "id": "karimui-nomane-karimui-24-unane",
+              "name": "24 - UNANE",
+              "registeredVoters": 359
+            },
+            {
+              "id": "karimui-nomane-karimui-25-suruka",
+              "name": "25 - SURUKA",
+              "registeredVoters": 364
+            },
+            {
+              "id": "karimui-nomane-karimui-26-haia",
+              "name": "26 - HAIA",
+              "registeredVoters": 981
+            },
+            {
+              "id": "karimui-nomane-karimui-27-soliabeto",
+              "name": "27 - SOLIABETO",
+              "registeredVoters": 937
             }
           ]
         },
@@ -892,71 +1721,206 @@
           "electorateSlug": "karimui-nomane",
           "wards": [
             {
-              "id": "nomane-w01",
-              "name": "Ward 1",
-              "registeredVoters": 930
+              "id": "karimui-nomane-nomane-1-dekamane",
+              "name": "1 - DEKAMANE",
+              "registeredVoters": 877
             },
             {
-              "id": "nomane-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1461
+              "id": "karimui-nomane-nomane-2-awma",
+              "name": "2 - AWMA",
+              "registeredVoters": 512
             },
             {
-              "id": "nomane-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1169
+              "id": "karimui-nomane-nomane-3-gaimo",
+              "name": "3 - GAIMO",
+              "registeredVoters": 841
             },
             {
-              "id": "nomane-w04",
-              "name": "Ward 4",
-              "registeredVoters": 910
+              "id": "karimui-nomane-nomane-4-kolu",
+              "name": "4 - KOLU",
+              "registeredVoters": 1008
             },
             {
-              "id": "nomane-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2059
+              "id": "karimui-nomane-nomane-5-oru",
+              "name": "5 - ORU",
+              "registeredVoters": 867
             },
             {
-              "id": "nomane-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1889
+              "id": "karimui-nomane-nomane-6-monowari",
+              "name": "6 - MONOWARI",
+              "registeredVoters": 672
             },
             {
-              "id": "nomane-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1679
+              "id": "karimui-nomane-nomane-7-kora",
+              "name": "7 - KORA",
+              "registeredVoters": 508
             },
             {
-              "id": "nomane-w08",
-              "name": "Ward 8",
-              "registeredVoters": 799
+              "id": "karimui-nomane-nomane-8-dama",
+              "name": "8 - DAMA",
+              "registeredVoters": 328
             },
             {
-              "id": "nomane-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1563
+              "id": "karimui-nomane-nomane-9-hopum",
+              "name": "9 - HOPUM",
+              "registeredVoters": 388
+            },
+            {
+              "id": "karimui-nomane-nomane-10-yuwai",
+              "name": "10 - YUWAI",
+              "registeredVoters": 291
+            },
+            {
+              "id": "karimui-nomane-nomane-11-apuri",
+              "name": "11 - APURI",
+              "registeredVoters": 486
+            },
+            {
+              "id": "karimui-nomane-nomane-12-kukama",
+              "name": "12 - KUKAMA",
+              "registeredVoters": 658
+            },
+            {
+              "id": "karimui-nomane-nomane-13-kalem",
+              "name": "13 - KALEM",
+              "registeredVoters": 359
+            },
+            {
+              "id": "karimui-nomane-nomane-14-waula",
+              "name": "14 - WAULA",
+              "registeredVoters": 622
+            },
+            {
+              "id": "karimui-nomane-nomane-15-menawan",
+              "name": "15 - MENAWAN",
+              "registeredVoters": 220
             }
           ]
         },
         {
-          "id": "karimui-nomane-daribi",
-          "name": "Daribi LLG",
+          "id": "karimui-nomane-salt-sol",
+          "name": "Salt (Sol) LLG",
           "electorateSlug": "karimui-nomane",
           "wards": [
             {
-              "id": "daribi-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2709
+              "id": "karimui-nomane-salt-sol-1-baniwera",
+              "name": "1 - BANIWERA",
+              "registeredVoters": 1180
             },
             {
-              "id": "daribi-w02",
-              "name": "Ward 2",
-              "registeredVoters": 4233
+              "id": "karimui-nomane-salt-sol-2-sua-begen",
+              "name": "2 - SUA BEGEN",
+              "registeredVoters": 793
             },
             {
-              "id": "daribi-w03",
-              "name": "Ward 3",
-              "registeredVoters": 6026
+              "id": "karimui-nomane-salt-sol-3-dirima-2",
+              "name": "3 - DIRIMA  2",
+              "registeredVoters": 1074
+            },
+            {
+              "id": "karimui-nomane-salt-sol-4-dayani",
+              "name": "4 - DAYANI",
+              "registeredVoters": 849
+            },
+            {
+              "id": "karimui-nomane-salt-sol-5-goroba",
+              "name": "5 - GOROBA",
+              "registeredVoters": 531
+            },
+            {
+              "id": "karimui-nomane-salt-sol-6-aina",
+              "name": "6 - AINA",
+              "registeredVoters": 674
+            },
+            {
+              "id": "karimui-nomane-salt-sol-7-perwi",
+              "name": "7 - PERWI",
+              "registeredVoters": 580
+            },
+            {
+              "id": "karimui-nomane-salt-sol-8-yopakeni",
+              "name": "8 - YOPAKENI",
+              "registeredVoters": 865
+            },
+            {
+              "id": "karimui-nomane-salt-sol-9-yopaeri-1",
+              "name": "9 - YOPAERI 1",
+              "registeredVoters": 1306
+            },
+            {
+              "id": "karimui-nomane-salt-sol-10-mogiagi",
+              "name": "10 - MOGIAGI",
+              "registeredVoters": 520
+            },
+            {
+              "id": "karimui-nomane-salt-sol-11-morini-kori",
+              "name": "11 - MORINI-KORI",
+              "registeredVoters": 596
+            },
+            {
+              "id": "karimui-nomane-salt-sol-12-yopakul",
+              "name": "12 - YOPAKUL",
+              "registeredVoters": 272
+            },
+            {
+              "id": "karimui-nomane-salt-sol-13-waido",
+              "name": "13 - WAIDO",
+              "registeredVoters": 824
+            },
+            {
+              "id": "karimui-nomane-salt-sol-14-tapiekul",
+              "name": "14 - TAPIEKUL",
+              "registeredVoters": 515
+            },
+            {
+              "id": "karimui-nomane-salt-sol-15-kobiebalmil",
+              "name": "15 - KOBIEBALMIL",
+              "registeredVoters": 638
+            },
+            {
+              "id": "karimui-nomane-salt-sol-16-tapai",
+              "name": "16 - TAPAI",
+              "registeredVoters": 855
+            },
+            {
+              "id": "karimui-nomane-salt-sol-17-yuribol",
+              "name": "17 - YURIBOL",
+              "registeredVoters": 858
+            },
+            {
+              "id": "karimui-nomane-salt-sol-18-mirima",
+              "name": "18 - MIRIMA",
+              "registeredVoters": 678
+            },
+            {
+              "id": "karimui-nomane-salt-sol-19-bori",
+              "name": "19 - BORI",
+              "registeredVoters": 593
+            },
+            {
+              "id": "karimui-nomane-salt-sol-20-mulugra",
+              "name": "20 - MULUGRA",
+              "registeredVoters": 539
+            },
+            {
+              "id": "karimui-nomane-salt-sol-21-mankon",
+              "name": "21 - MANKON",
+              "registeredVoters": 633
+            },
+            {
+              "id": "karimui-nomane-salt-sol-22-kama",
+              "name": "22 - KAMA",
+              "registeredVoters": 1332
+            },
+            {
+              "id": "karimui-nomane-salt-sol-23-gaima",
+              "name": "23 - GAIMA",
+              "registeredVoters": 1186
+            },
+            {
+              "id": "karimui-nomane-salt-sol-24-sua",
+              "name": "24 - SUA",
+              "registeredVoters": 1670
             }
           ]
         }

@@ -10,39 +10,173 @@
           "electorateSlug": "kavieng",
           "wards": [
             {
-              "id": "kavieng-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2449
+              "id": "kavieng-kavieng-urban-1-kavieng-urban-13-68",
+              "name": "1 - KAVIENG URBAN 13-68",
+              "registeredVoters": 2801
             },
             {
-              "id": "kavieng-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2874
+              "id": "kavieng-kavieng-urban-2-kavieng-urban-2-sect-241",
+              "name": "2 - KAVIENG URBAN 2/SECT.241",
+              "registeredVoters": 1804
             },
             {
-              "id": "kavieng-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2673
+              "id": "kavieng-kavieng-urban-3-kavieng-urban-3-sect-1-17-58-73-80",
+              "name": "3 - KAVIENG URBAN 3/SECT 1, 17, 58, 73 &80",
+              "registeredVoters": 1353
             },
             {
-              "id": "kavieng-urban-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2066
+              "id": "kavieng-kavieng-urban-4-bagail",
+              "name": "4 - BAGAIL",
+              "registeredVoters": 877
             },
             {
-              "id": "kavieng-urban-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1269
+              "id": "kavieng-kavieng-urban-5-kulangit",
+              "name": "5 - KULANGIT",
+              "registeredVoters": 1686
             },
             {
-              "id": "kavieng-urban-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1578
+              "id": "kavieng-kavieng-urban-6-pabliang",
+              "name": "6 - PABLIANG",
+              "registeredVoters": 889
+            }
+          ]
+        },
+        {
+          "id": "kavieng-lovongai",
+          "name": "Lovongai LLG",
+          "electorateSlug": "kavieng",
+          "wards": [
+            {
+              "id": "kavieng-lovongai-1-taskul",
+              "name": "1 - TASKUL",
+              "registeredVoters": 164
             },
             {
-              "id": "kavieng-urban-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2720
+              "id": "kavieng-lovongai-2-patiagaga",
+              "name": "2 - PATIAGAGA",
+              "registeredVoters": 1053
+            },
+            {
+              "id": "kavieng-lovongai-3-konomatalik",
+              "name": "3 - KONOMATALIK",
+              "registeredVoters": 611
+            },
+            {
+              "id": "kavieng-lovongai-4-ungakum",
+              "name": "4 - UNGAKUM",
+              "registeredVoters": 414
+            },
+            {
+              "id": "kavieng-lovongai-5-tsoi",
+              "name": "5 - TSOI",
+              "registeredVoters": 772
+            },
+            {
+              "id": "kavieng-lovongai-6-mosuang",
+              "name": "6 - MOSUANG",
+              "registeredVoters": 780
+            },
+            {
+              "id": "kavieng-lovongai-7-puas",
+              "name": "7 - PUAS",
+              "registeredVoters": 960
+            },
+            {
+              "id": "kavieng-lovongai-8-meterankasing",
+              "name": "8 - METERANKASING",
+              "registeredVoters": 410
+            },
+            {
+              "id": "kavieng-lovongai-9-noipuas",
+              "name": "9 - NOIPUAS",
+              "registeredVoters": 631
+            },
+            {
+              "id": "kavieng-lovongai-10-sosson",
+              "name": "10 - SOSSON",
+              "registeredVoters": 393
+            },
+            {
+              "id": "kavieng-lovongai-11-tingwon",
+              "name": "11 - TINGWON",
+              "registeredVoters": 261
+            },
+            {
+              "id": "kavieng-lovongai-12-umbukul",
+              "name": "12 - UMBUKUL",
+              "registeredVoters": 650
+            },
+            {
+              "id": "kavieng-lovongai-13-baungung",
+              "name": "13 - BAUNGUNG",
+              "registeredVoters": 649
+            },
+            {
+              "id": "kavieng-lovongai-14-meteselen",
+              "name": "14 - METESELEN",
+              "registeredVoters": 1123
+            },
+            {
+              "id": "kavieng-lovongai-15-tioputuk",
+              "name": "15 - TIOPUTUK",
+              "registeredVoters": 673
+            },
+            {
+              "id": "kavieng-lovongai-16-lovongai",
+              "name": "16 - LOVONGAI",
+              "registeredVoters": 1679
+            },
+            {
+              "id": "kavieng-lovongai-17-meterankang",
+              "name": "17 - METERANKANG",
+              "registeredVoters": 1015
+            },
+            {
+              "id": "kavieng-lovongai-18-lungatang",
+              "name": "18 - LUNGATANG",
+              "registeredVoters": 386
+            },
+            {
+              "id": "kavieng-lovongai-19-kulingei",
+              "name": "19 - KULINGEI",
+              "registeredVoters": 660
+            }
+          ]
+        },
+        {
+          "id": "kavieng-murat",
+          "name": "Murat LLG",
+          "electorateSlug": "kavieng",
+          "wards": [
+            {
+              "id": "kavieng-murat-1-tasitel",
+              "name": "1 - TASITEL",
+              "registeredVoters": 624
+            },
+            {
+              "id": "kavieng-murat-2-magien",
+              "name": "2 - MAGIEN",
+              "registeredVoters": 336
+            },
+            {
+              "id": "kavieng-murat-3-loliang",
+              "name": "3 - LOLIANG",
+              "registeredVoters": 224
+            },
+            {
+              "id": "kavieng-murat-4-palakau",
+              "name": "4 - PALAKAU",
+              "registeredVoters": 731
+            },
+            {
+              "id": "kavieng-murat-5-emira",
+              "name": "5 - EMIRA",
+              "registeredVoters": 390
+            },
+            {
+              "id": "kavieng-murat-6-tench",
+              "name": "6 - TENCH",
+              "registeredVoters": 62
             }
           ]
         },
@@ -52,56 +186,94 @@
           "electorateSlug": "kavieng",
           "wards": [
             {
-              "id": "tikana-w01",
-              "name": "Ward 1",
-              "registeredVoters": 5205
+              "id": "kavieng-tikana-1-enang",
+              "name": "1 - ENANG",
+              "registeredVoters": 565
             },
             {
-              "id": "tikana-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3803
+              "id": "kavieng-tikana-2-nonovaul",
+              "name": "2 - NONOVAUL",
+              "registeredVoters": 1033
             },
             {
-              "id": "tikana-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2683
+              "id": "kavieng-tikana-3-panapai",
+              "name": "3 - PANAPAI",
+              "registeredVoters": 809
             },
             {
-              "id": "tikana-w04",
-              "name": "Ward 4",
-              "registeredVoters": 5740
-            }
-          ]
-        },
-        {
-          "id": "kavieng-central-new-ireland",
-          "name": "Central New Ireland LLG",
-          "electorateSlug": "kavieng",
-          "wards": [
-            {
-              "id": "central-new-ireland-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3285
+              "id": "kavieng-tikana-4-kaselok",
+              "name": "4 - KASELOK",
+              "registeredVoters": 1090
             },
             {
-              "id": "central-new-ireland-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3234
+              "id": "kavieng-tikana-5-bagatare",
+              "name": "5 - BAGATARE",
+              "registeredVoters": 482
             },
             {
-              "id": "central-new-ireland-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2401
+              "id": "kavieng-tikana-6-lokono",
+              "name": "6 - LOKONO",
+              "registeredVoters": 285
             },
             {
-              "id": "central-new-ireland-w04",
-              "name": "Ward 4",
-              "registeredVoters": 4297
+              "id": "kavieng-tikana-7-ngavalus",
+              "name": "7 - NGAVALUS",
+              "registeredVoters": 1648
             },
             {
-              "id": "central-new-ireland-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2951
+              "id": "kavieng-tikana-8-paruai",
+              "name": "8 - PARUAI",
+              "registeredVoters": 992
+            },
+            {
+              "id": "kavieng-tikana-9-lemakot",
+              "name": "9 - LEMAKOT",
+              "registeredVoters": 2303
+            },
+            {
+              "id": "kavieng-tikana-10-panamana",
+              "name": "10 - PANAMANA",
+              "registeredVoters": 833
+            },
+            {
+              "id": "kavieng-tikana-11-madina",
+              "name": "11 - MADINA",
+              "registeredVoters": 995
+            },
+            {
+              "id": "kavieng-tikana-12-kafkaf",
+              "name": "12 - KAFKAF",
+              "registeredVoters": 812
+            },
+            {
+              "id": "kavieng-tikana-13-namasalang",
+              "name": "13 - NAMASALANG",
+              "registeredVoters": 615
+            },
+            {
+              "id": "kavieng-tikana-14-belifu",
+              "name": "14 - BELIFU",
+              "registeredVoters": 423
+            },
+            {
+              "id": "kavieng-tikana-15-pangeifua",
+              "name": "15 - PANGEIFUA",
+              "registeredVoters": 458
+            },
+            {
+              "id": "kavieng-tikana-16-lamusmus",
+              "name": "16 - LAMUSMUS",
+              "registeredVoters": 945
+            },
+            {
+              "id": "kavieng-tikana-17-leon",
+              "name": "17 - LEON",
+              "registeredVoters": 563
+            },
+            {
+              "id": "kavieng-tikana-18-lapai",
+              "name": "18 - LAPAI",
+              "registeredVoters": 1332
             }
           ]
         }
@@ -111,24 +283,315 @@
       "electorateSlug": "namatanai",
       "llgs": [
         {
-          "id": "namatanai-namatanai-urban",
-          "name": "Namatanai Urban LLG",
+          "id": "namatanai-konoagil",
+          "name": "Konoagil LLG",
           "electorateSlug": "namatanai",
           "wards": [
             {
-              "id": "namatanai-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3714
+              "id": "namatanai-konoagil-1-weilo",
+              "name": "1 - WEILO",
+              "registeredVoters": 1039
             },
             {
-              "id": "namatanai-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3753
+              "id": "namatanai-konoagil-2-rei",
+              "name": "2 - REI",
+              "registeredVoters": 334
             },
             {
-              "id": "namatanai-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 5428
+              "id": "namatanai-konoagil-3-kamiang",
+              "name": "3 - KAMIANG",
+              "registeredVoters": 232
+            },
+            {
+              "id": "namatanai-konoagil-4-morkon",
+              "name": "4 - MORKON",
+              "registeredVoters": 246
+            },
+            {
+              "id": "namatanai-konoagil-5-kamilai",
+              "name": "5 - KAMILAI",
+              "registeredVoters": 223
+            },
+            {
+              "id": "namatanai-konoagil-6-bakum",
+              "name": "6 - BAKUM",
+              "registeredVoters": 221
+            },
+            {
+              "id": "namatanai-konoagil-7-pukunmal",
+              "name": "7 - PUKUNMAL",
+              "registeredVoters": 242
+            },
+            {
+              "id": "namatanai-konoagil-8-matkamlagir",
+              "name": "8 - MATKAMLAGIR",
+              "registeredVoters": 166
+            },
+            {
+              "id": "namatanai-konoagil-9-beriotar",
+              "name": "9 - BERIOTAR",
+              "registeredVoters": 101
+            },
+            {
+              "id": "namatanai-konoagil-10-bakok",
+              "name": "10 - BAKOK",
+              "registeredVoters": 179
+            },
+            {
+              "id": "namatanai-konoagil-11-lambom",
+              "name": "11 - LAMBOM",
+              "registeredVoters": 417
+            },
+            {
+              "id": "namatanai-konoagil-12-lamassa",
+              "name": "12 - LAMASSA",
+              "registeredVoters": 349
+            },
+            {
+              "id": "namatanai-konoagil-13-kabaman",
+              "name": "13 - KABAMAN",
+              "registeredVoters": 387
+            },
+            {
+              "id": "namatanai-konoagil-14-kait",
+              "name": "14 - KAIT",
+              "registeredVoters": 348
+            },
+            {
+              "id": "namatanai-konoagil-15-watpi",
+              "name": "15 - WATPI",
+              "registeredVoters": 575
+            },
+            {
+              "id": "namatanai-konoagil-16-tambakar",
+              "name": "16 - TAMBAKAR",
+              "registeredVoters": 538
+            },
+            {
+              "id": "namatanai-konoagil-17-siaman",
+              "name": "17 - SIAMAN",
+              "registeredVoters": 474
+            }
+          ]
+        },
+        {
+          "id": "namatanai-matalai",
+          "name": "Matalai LLG",
+          "electorateSlug": "namatanai",
+          "wards": [
+            {
+              "id": "namatanai-matalai-1-ratavis",
+              "name": "1 - RATAVIS",
+              "registeredVoters": 569
+            },
+            {
+              "id": "namatanai-matalai-2-hibaling",
+              "name": "2 - HIBALING",
+              "registeredVoters": 465
+            },
+            {
+              "id": "namatanai-matalai-3-hilolon",
+              "name": "3 - HILOLON",
+              "registeredVoters": 493
+            },
+            {
+              "id": "namatanai-matalai-4-himau",
+              "name": "4 - HIMAU",
+              "registeredVoters": 392
+            },
+            {
+              "id": "namatanai-matalai-5-nokon",
+              "name": "5 - NOKON",
+              "registeredVoters": 307
+            },
+            {
+              "id": "namatanai-matalai-6-huris",
+              "name": "6 - HURIS",
+              "registeredVoters": 381
+            },
+            {
+              "id": "namatanai-matalai-7-hipakat",
+              "name": "7 - HIPAKAT",
+              "registeredVoters": 336
+            },
+            {
+              "id": "namatanai-matalai-8-kebeng",
+              "name": "8 - KEBENG",
+              "registeredVoters": 240
+            },
+            {
+              "id": "namatanai-matalai-9-ruka",
+              "name": "9 - RUKA",
+              "registeredVoters": 211
+            },
+            {
+              "id": "namatanai-matalai-10-sena",
+              "name": "10 - SENA",
+              "registeredVoters": 324
+            },
+            {
+              "id": "namatanai-matalai-11-muliama",
+              "name": "11 - MULIAMA",
+              "registeredVoters": 545
+            }
+          ]
+        },
+        {
+          "id": "namatanai-namatanai",
+          "name": "Namatanai LLG",
+          "electorateSlug": "namatanai",
+          "wards": [
+            {
+              "id": "namatanai-namatanai-1-palabong",
+              "name": "1 - PALABONG",
+              "registeredVoters": 688
+            },
+            {
+              "id": "namatanai-namatanai-2-kabanut",
+              "name": "2 - KABANUT",
+              "registeredVoters": 592
+            },
+            {
+              "id": "namatanai-namatanai-3-matakan",
+              "name": "3 - MATAKAN",
+              "registeredVoters": 613
+            },
+            {
+              "id": "namatanai-namatanai-4-burau",
+              "name": "4 - BURAU",
+              "registeredVoters": 569
+            },
+            {
+              "id": "namatanai-namatanai-5-rasirik",
+              "name": "5 - RASIRIK",
+              "registeredVoters": 676
+            },
+            {
+              "id": "namatanai-namatanai-6-labur",
+              "name": "6 - LABUR",
+              "registeredVoters": 587
+            },
+            {
+              "id": "namatanai-namatanai-7-lolobar",
+              "name": "7 - LOLOBAR",
+              "registeredVoters": 702
+            },
+            {
+              "id": "namatanai-namatanai-8-kanapit",
+              "name": "8 - KANAPIT",
+              "registeredVoters": 394
+            },
+            {
+              "id": "namatanai-namatanai-9-pire",
+              "name": "9 - PIRE",
+              "registeredVoters": 556
+            },
+            {
+              "id": "namatanai-namatanai-10-namatanai",
+              "name": "10 - NAMATANAI",
+              "registeredVoters": 1004
+            },
+            {
+              "id": "namatanai-namatanai-11-namatanai-town",
+              "name": "11 - NAMATANAI TOWN",
+              "registeredVoters": 540
+            },
+            {
+              "id": "namatanai-namatanai-12-salimun",
+              "name": "12 - SALIMUN",
+              "registeredVoters": 905
+            },
+            {
+              "id": "namatanai-namatanai-13-bisapu",
+              "name": "13 - BISAPU",
+              "registeredVoters": 841
+            },
+            {
+              "id": "namatanai-namatanai-14-sopau",
+              "name": "14 - SOPAU",
+              "registeredVoters": 796
+            }
+          ]
+        },
+        {
+          "id": "namatanai-nimamar",
+          "name": "Nimamar LLG",
+          "electorateSlug": "namatanai",
+          "wards": [
+            {
+              "id": "namatanai-nimamar-1-londolovit",
+              "name": "1 - LONDOLOVIT",
+              "registeredVoters": 1338
+            },
+            {
+              "id": "namatanai-nimamar-2-puput",
+              "name": "2 - PUPUT",
+              "registeredVoters": 494
+            },
+            {
+              "id": "namatanai-nimamar-3-matakues",
+              "name": "3 - MATAKUES",
+              "registeredVoters": 771
+            },
+            {
+              "id": "namatanai-nimamar-4-lataul",
+              "name": "4 - LATAUL",
+              "registeredVoters": 452
+            },
+            {
+              "id": "namatanai-nimamar-5-komat",
+              "name": "5 - KOMAT",
+              "registeredVoters": 649
+            },
+            {
+              "id": "namatanai-nimamar-6-palie",
+              "name": "6 - PALIE",
+              "registeredVoters": 320
+            },
+            {
+              "id": "namatanai-nimamar-7-hurtol",
+              "name": "7 - HURTOL",
+              "registeredVoters": 571
+            },
+            {
+              "id": "namatanai-nimamar-8-samo",
+              "name": "8 - SAMO",
+              "registeredVoters": 698
+            },
+            {
+              "id": "namatanai-nimamar-9-lamboar",
+              "name": "9 - LAMBOAR",
+              "registeredVoters": 451
+            },
+            {
+              "id": "namatanai-nimamar-10-kosmaium",
+              "name": "10 - KOSMAIUM",
+              "registeredVoters": 495
+            },
+            {
+              "id": "namatanai-nimamar-11-kuanie",
+              "name": "11 - KUANIE",
+              "registeredVoters": 2227
+            },
+            {
+              "id": "namatanai-nimamar-12-malie",
+              "name": "12 - MALIE",
+              "registeredVoters": 476
+            },
+            {
+              "id": "namatanai-nimamar-13-malal",
+              "name": "13 - MALAL",
+              "registeredVoters": 582
+            },
+            {
+              "id": "namatanai-nimamar-14-ton",
+              "name": "14 - TON",
+              "registeredVoters": 506
+            },
+            {
+              "id": "namatanai-nimamar-15-mahur",
+              "name": "15 - MAHUR",
+              "registeredVoters": 556
             }
           ]
         },
@@ -138,81 +601,191 @@
           "electorateSlug": "namatanai",
           "wards": [
             {
-              "id": "sentral-niu-ailan-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2929
+              "id": "namatanai-sentral-niu-ailan-1-simberi",
+              "name": "1 - SIMBERI",
+              "registeredVoters": 1254
             },
             {
-              "id": "sentral-niu-ailan-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2199
+              "id": "namatanai-sentral-niu-ailan-2-tatau",
+              "name": "2 - TATAU",
+              "registeredVoters": 810
             },
             {
-              "id": "sentral-niu-ailan-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3635
+              "id": "namatanai-sentral-niu-ailan-3-datava",
+              "name": "3 - DATAVA",
+              "registeredVoters": 585
             },
             {
-              "id": "sentral-niu-ailan-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2510
+              "id": "namatanai-sentral-niu-ailan-4-mapua",
+              "name": "4 - MAPUA",
+              "registeredVoters": 463
             },
             {
-              "id": "sentral-niu-ailan-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2512
+              "id": "namatanai-sentral-niu-ailan-5-wang",
+              "name": "5 - WANG",
+              "registeredVoters": 776
             },
             {
-              "id": "sentral-niu-ailan-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2588
+              "id": "namatanai-sentral-niu-ailan-6-tandis",
+              "name": "6 - TANDIS",
+              "registeredVoters": 1066
+            },
+            {
+              "id": "namatanai-sentral-niu-ailan-7-lossu",
+              "name": "7 - LOSSU",
+              "registeredVoters": 1282
+            },
+            {
+              "id": "namatanai-sentral-niu-ailan-8-konos",
+              "name": "8 - KONOS",
+              "registeredVoters": 1317
+            },
+            {
+              "id": "namatanai-sentral-niu-ailan-9-kimadan",
+              "name": "9 - KIMADAN",
+              "registeredVoters": 1128
+            },
+            {
+              "id": "namatanai-sentral-niu-ailan-10-lelet",
+              "name": "10 - LELET",
+              "registeredVoters": 851
+            },
+            {
+              "id": "namatanai-sentral-niu-ailan-11-dalom",
+              "name": "11 - DALOM",
+              "registeredVoters": 755
+            },
+            {
+              "id": "namatanai-sentral-niu-ailan-12-lemeris",
+              "name": "12 - LEMERIS",
+              "registeredVoters": 621
+            },
+            {
+              "id": "namatanai-sentral-niu-ailan-13-bulu",
+              "name": "13 - BULU",
+              "registeredVoters": 352
+            },
+            {
+              "id": "namatanai-sentral-niu-ailan-14-karu",
+              "name": "14 - KARU",
+              "registeredVoters": 656
+            },
+            {
+              "id": "namatanai-sentral-niu-ailan-15-komalu",
+              "name": "15 - KOMALU",
+              "registeredVoters": 725
+            },
+            {
+              "id": "namatanai-sentral-niu-ailan-16-komalapuo",
+              "name": "16 - KOMALAPUO",
+              "registeredVoters": 494
+            },
+            {
+              "id": "namatanai-sentral-niu-ailan-17-daun",
+              "name": "17 - DAUN",
+              "registeredVoters": 482
+            },
+            {
+              "id": "namatanai-sentral-niu-ailan-18-messi",
+              "name": "18 - MESSI",
+              "registeredVoters": 736
+            },
+            {
+              "id": "namatanai-sentral-niu-ailan-19-ugana",
+              "name": "19 - UGANA",
+              "registeredVoters": 335
+            },
+            {
+              "id": "namatanai-sentral-niu-ailan-20-lamau",
+              "name": "20 - LAMAU",
+              "registeredVoters": 696
+            },
+            {
+              "id": "namatanai-sentral-niu-ailan-21-patlanga",
+              "name": "21 - PATLANGA",
+              "registeredVoters": 293
+            },
+            {
+              "id": "namatanai-sentral-niu-ailan-22-panaras",
+              "name": "22 - PANARAS",
+              "registeredVoters": 541
             }
           ]
         },
         {
-          "id": "namatanai-tanir-lihir",
-          "name": "Tanir-Lihir LLG",
+          "id": "namatanai-tanir",
+          "name": "Tanir LLG",
           "electorateSlug": "namatanai",
           "wards": [
             {
-              "id": "tanir-lihir-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2305
+              "id": "namatanai-tanir-1-taonsip",
+              "name": "1 - TAONSIP",
+              "registeredVoters": 660
             },
             {
-              "id": "tanir-lihir-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1842
+              "id": "namatanai-tanir-2-fonli",
+              "name": "2 - FONLI",
+              "registeredVoters": 868
             },
             {
-              "id": "tanir-lihir-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2337
+              "id": "namatanai-tanir-3-kamunaseo",
+              "name": "3 - KAMUNASEO",
+              "registeredVoters": 325
             },
             {
-              "id": "tanir-lihir-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1047
+              "id": "namatanai-tanir-4-amfar",
+              "name": "4 - AMFAR",
+              "registeredVoters": 533
             },
             {
-              "id": "tanir-lihir-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1962
+              "id": "namatanai-tanir-5-sungkin",
+              "name": "5 - SUNGKIN",
+              "registeredVoters": 433
             },
             {
-              "id": "tanir-lihir-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2583
+              "id": "namatanai-tanir-6-put",
+              "name": "6 - PUT",
+              "registeredVoters": 604
             },
             {
-              "id": "tanir-lihir-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1102
+              "id": "namatanai-tanir-7-nonu",
+              "name": "7 - NONU",
+              "registeredVoters": 273
             },
             {
-              "id": "tanir-lihir-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1890
+              "id": "namatanai-tanir-8-lif",
+              "name": "8 - LIF",
+              "registeredVoters": 255
+            },
+            {
+              "id": "namatanai-tanir-9-tefa",
+              "name": "9 - TEFA",
+              "registeredVoters": 190
+            },
+            {
+              "id": "namatanai-tanir-10-natong",
+              "name": "10 - NATONG",
+              "registeredVoters": 334
+            },
+            {
+              "id": "namatanai-tanir-11-basakala",
+              "name": "11 - BASAKALA",
+              "registeredVoters": 297
+            },
+            {
+              "id": "namatanai-tanir-12-balankolen",
+              "name": "12 - BALANKOLEN",
+              "registeredVoters": 213
+            },
+            {
+              "id": "namatanai-tanir-13-kamgot",
+              "name": "13 - KAMGOT",
+              "registeredVoters": 402
+            },
+            {
+              "id": "namatanai-tanir-14-balangit",
+              "name": "14 - BALANGIT",
+              "registeredVoters": 398
             }
           ]
         }

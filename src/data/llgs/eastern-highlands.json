@@ -5,130 +5,108 @@
       "electorateSlug": "goroka",
       "llgs": [
         {
+          "id": "goroka-gahuka",
+          "name": "Gahuka LLG",
+          "electorateSlug": "goroka",
+          "wards": [
+            {
+              "id": "goroka-gahuka-1-upper-yaukave",
+              "name": "1 - UPPER YAUKAVE",
+              "registeredVoters": 2611
+            },
+            {
+              "id": "goroka-gahuka-2-lower-yaukave",
+              "name": "2 - LOWER YAUKAVE",
+              "registeredVoters": 4030
+            },
+            {
+              "id": "goroka-gahuka-3-kami-seigu",
+              "name": "3 - KAMI-SEIGU",
+              "registeredVoters": 6138
+            },
+            {
+              "id": "goroka-gahuka-4-kama",
+              "name": "4 - KAMA",
+              "registeredVoters": 10914
+            },
+            {
+              "id": "goroka-gahuka-5-fimito",
+              "name": "5 - FIMITO",
+              "registeredVoters": 4950
+            },
+            {
+              "id": "goroka-gahuka-6-kotuni",
+              "name": "6 - KOTUNI",
+              "registeredVoters": 3348
+            },
+            {
+              "id": "goroka-gahuka-7-gahuka",
+              "name": "7 - GAHUKA",
+              "registeredVoters": 4854
+            },
+            {
+              "id": "goroka-gahuka-8-gehamo-kefamo",
+              "name": "8 - GEHAMO (KEFAMO)",
+              "registeredVoters": 8638
+            }
+          ]
+        },
+        {
           "id": "goroka-goroka-urban",
           "name": "Goroka Urban LLG",
           "electorateSlug": "goroka",
           "wards": [
             {
-              "id": "goroka-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 7179
+              "id": "goroka-goroka-urban-1-north-goroka-1",
+              "name": "1 - NORTH GOROKA 1",
+              "registeredVoters": 2385
             },
             {
-              "id": "goroka-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 5870
+              "id": "goroka-goroka-urban-2-north-goroka-2",
+              "name": "2 - NORTH GOROKA 2",
+              "registeredVoters": 1322
             },
             {
-              "id": "goroka-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 5042
+              "id": "goroka-goroka-urban-3-kama-housing-commission",
+              "name": "3 - KAMA HOUSING COMMISSION",
+              "registeredVoters": 3247
+            },
+            {
+              "id": "goroka-goroka-urban-4-mount-kiss-south",
+              "name": "4 - MOUNT KISS SOUTH",
+              "registeredVoters": 4078
+            },
+            {
+              "id": "goroka-goroka-urban-5-west-goroka",
+              "name": "5 - WEST GOROKA",
+              "registeredVoters": 4321
             }
           ]
         },
         {
-          "id": "goroka-gahuku",
-          "name": "Gahuku LLG",
+          "id": "goroka-mimanalo",
+          "name": "Mimanalo LLG",
           "electorateSlug": "goroka",
           "wards": [
             {
-              "id": "gahuku-w01",
-              "name": "Ward 1",
-              "registeredVoters": 5404
+              "id": "goroka-mimanalo-1-zomaga",
+              "name": "1 - ZOMAGA",
+              "registeredVoters": 8884
             },
             {
-              "id": "gahuku-w02",
-              "name": "Ward 2",
-              "registeredVoters": 5707
+              "id": "goroka-mimanalo-2-ifiyufa",
+              "name": "2 - IFIYUFA",
+              "registeredVoters": 5472
             },
             {
-              "id": "gahuku-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3632
+              "id": "goroka-mimanalo-3-nokondi",
+              "name": "3 - NOKONDI",
+              "registeredVoters": 4688
             },
             {
-              "id": "gahuku-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3187
-            }
-          ]
-        },
-        {
-          "id": "goroka-upper-asaro",
-          "name": "Upper Asaro LLG",
-          "electorateSlug": "goroka",
-          "wards": [
-            {
-              "id": "upper-asaro-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2528
-            },
-            {
-              "id": "upper-asaro-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1687
-            },
-            {
-              "id": "upper-asaro-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1384
-            },
-            {
-              "id": "upper-asaro-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2109
-            },
-            {
-              "id": "upper-asaro-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1742
-            },
-            {
-              "id": "upper-asaro-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1323
-            },
-            {
-              "id": "upper-asaro-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1523
-            },
-            {
-              "id": "upper-asaro-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1733
-            },
-            {
-              "id": "upper-asaro-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1840
-            },
-            {
-              "id": "upper-asaro-w10",
-              "name": "Ward 10",
-              "registeredVoters": 2391
-            }
-          ]
-        },
-        {
-          "id": "goroka-watabung",
-          "name": "Watabung LLG",
-          "electorateSlug": "goroka",
-          "wards": [
-            {
-              "id": "watabung-w01",
-              "name": "Ward 1",
-              "registeredVoters": 7148
-            },
-            {
-              "id": "watabung-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3807
-            },
-            {
-              "id": "watabung-w03",
-              "name": "Ward 3",
-              "registeredVoters": 6145
+              "id": "goroka-mimanalo-4-kabiufa-no-2",
+              "name": "4 - KABIUFA No. 2",
+              "registeredVoters": 6363
             }
           ]
         }
@@ -138,133 +116,138 @@
       "electorateSlug": "daulo",
       "llgs": [
         {
-          "id": "daulo-daulo",
-          "name": "Daulo LLG",
+          "id": "daulo-lower-asaro",
+          "name": "Lower Asaro LLG",
           "electorateSlug": "daulo",
           "wards": [
             {
-              "id": "daulo-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2009
+              "id": "daulo-lower-asaro-1-korepa",
+              "name": "1 - KOREPA",
+              "registeredVoters": 3523
             },
             {
-              "id": "daulo-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2222
+              "id": "daulo-lower-asaro-2-mand-yamayufa",
+              "name": "2 - MAND-YAMAYUFA",
+              "registeredVoters": 7198
             },
             {
-              "id": "daulo-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3373
+              "id": "daulo-lower-asaro-3-asaro-no-1",
+              "name": "3 - ASARO NO. 1",
+              "registeredVoters": 3343
             },
             {
-              "id": "daulo-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2617
+              "id": "daulo-lower-asaro-4-asaro-no-2",
+              "name": "4 - ASARO NO. 2",
+              "registeredVoters": 4008
             },
             {
-              "id": "daulo-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1782
+              "id": "daulo-lower-asaro-5-tafeto-wantirifu",
+              "name": "5 - TAFETO WANTIRIFU",
+              "registeredVoters": 772
             },
             {
-              "id": "daulo-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2131
+              "id": "daulo-lower-asaro-6-gamiyuho",
+              "name": "6 - GAMIYUHO",
+              "registeredVoters": 1896
             },
             {
-              "id": "daulo-w07",
-              "name": "Ward 7",
-              "registeredVoters": 3042
+              "id": "daulo-lower-asaro-7-lunumbeyuho",
+              "name": "7 - LUNUMBEYUHO",
+              "registeredVoters": 3422
+            },
+            {
+              "id": "daulo-lower-asaro-8-kanosa",
+              "name": "8 - KANOSA",
+              "registeredVoters": 1855
+            },
+            {
+              "id": "daulo-lower-asaro-9-kofena",
+              "name": "9 - KOFENA",
+              "registeredVoters": 1515
             }
           ]
         },
         {
-          "id": "daulo-asaro-watabung",
-          "name": "Asaro-Watabung LLG",
+          "id": "daulo-upper-asaro",
+          "name": "Upper Asaro LLG",
           "electorateSlug": "daulo",
           "wards": [
             {
-              "id": "asaro-watabung-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2916
+              "id": "daulo-upper-asaro-1-anengu",
+              "name": "1 - ANENGU",
+              "registeredVoters": 1047
             },
             {
-              "id": "asaro-watabung-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2340
+              "id": "daulo-upper-asaro-2-kombianngu-amaiufa",
+              "name": "2 - KOMBIANNGU-AMAIUFA",
+              "registeredVoters": 2103
             },
             {
-              "id": "asaro-watabung-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2224
+              "id": "daulo-upper-asaro-3-namta",
+              "name": "3 - NAMTA",
+              "registeredVoters": 1839
             },
             {
-              "id": "asaro-watabung-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1503
+              "id": "daulo-upper-asaro-4-pikosa",
+              "name": "4 - PIKOSA",
+              "registeredVoters": 2405
             },
             {
-              "id": "asaro-watabung-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1689
+              "id": "daulo-upper-asaro-5-aneguyufa",
+              "name": "5 - ANEGUYUFA",
+              "registeredVoters": 2505
             },
             {
-              "id": "asaro-watabung-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2138
+              "id": "daulo-upper-asaro-6-kwonggi-1",
+              "name": "6 - KWONGGI 1",
+              "registeredVoters": 2536
             },
             {
-              "id": "asaro-watabung-w07",
-              "name": "Ward 7",
-              "registeredVoters": 3655
+              "id": "daulo-upper-asaro-7-kwonggi-2",
+              "name": "7 - KWONGGI 2",
+              "registeredVoters": 2344
             },
             {
-              "id": "asaro-watabung-w08",
-              "name": "Ward 8",
-              "registeredVoters": 3029
+              "id": "daulo-upper-asaro-8-wesan",
+              "name": "8 - WESAN",
+              "registeredVoters": 859
             }
           ]
         },
         {
-          "id": "daulo-kamaliki",
-          "name": "Kamaliki LLG",
+          "id": "daulo-watabung",
+          "name": "Watabung LLG",
           "electorateSlug": "daulo",
           "wards": [
             {
-              "id": "kamaliki-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1872
+              "id": "daulo-watabung-1-mangiro",
+              "name": "1 - MANGIRO",
+              "registeredVoters": 2283
             },
             {
-              "id": "kamaliki-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2357
+              "id": "daulo-watabung-2-kenangi",
+              "name": "2 - KENANGI",
+              "registeredVoters": 2144
             },
             {
-              "id": "kamaliki-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3077
+              "id": "daulo-watabung-3-koningi",
+              "name": "3 - KONINGI",
+              "registeredVoters": 1371
             },
             {
-              "id": "kamaliki-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3321
+              "id": "daulo-watabung-4-atarero",
+              "name": "4 - ATARERO",
+              "registeredVoters": 2869
             },
             {
-              "id": "kamaliki-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1808
+              "id": "daulo-watabung-5-konofongiva",
+              "name": "5 - KONOFONGIVA",
+              "registeredVoters": 2428
             },
             {
-              "id": "kamaliki-w06",
-              "name": "Ward 6",
-              "registeredVoters": 3229
-            },
-            {
-              "id": "kamaliki-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1770
+              "id": "daulo-watabung-6-yamofe",
+              "name": "6 - YAMOFE",
+              "registeredVoters": 2495
             }
           ]
         }
@@ -274,148 +257,173 @@
       "electorateSlug": "henganofi",
       "llgs": [
         {
-          "id": "henganofi-henganofi",
-          "name": "Henganofi LLG",
+          "id": "henganofi-dunantina",
+          "name": "Dunantina LLG",
           "electorateSlug": "henganofi",
           "wards": [
             {
-              "id": "henganofi-w01",
-              "name": "Ward 1",
-              "registeredVoters": 981
+              "id": "henganofi-dunantina-1-lihona",
+              "name": "1 - LIHONA",
+              "registeredVoters": 1119
             },
             {
-              "id": "henganofi-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1939
+              "id": "henganofi-dunantina-2-kuyahapa",
+              "name": "2 - KUYAHAPA",
+              "registeredVoters": 1885
             },
             {
-              "id": "henganofi-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1299
+              "id": "henganofi-dunantina-3-kesevaka-no-2",
+              "name": "3 - KESEVAKA NO. 2",
+              "registeredVoters": 1089
             },
             {
-              "id": "henganofi-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1646
+              "id": "henganofi-dunantina-4-kesevaka-no-1",
+              "name": "4 - KESEVAKA NO. 1",
+              "registeredVoters": 1705
             },
             {
-              "id": "henganofi-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1819
+              "id": "henganofi-dunantina-5-haguragave",
+              "name": "5 - HAGURAGAVE",
+              "registeredVoters": 1104
             },
             {
-              "id": "henganofi-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1672
+              "id": "henganofi-dunantina-6-kiviringka",
+              "name": "6 - KIVIRINGKA",
+              "registeredVoters": 821
             },
             {
-              "id": "henganofi-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1516
+              "id": "henganofi-dunantina-7-herave",
+              "name": "7 - HERAVE",
+              "registeredVoters": 1887
             },
             {
-              "id": "henganofi-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1483
-            },
-            {
-              "id": "henganofi-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1668
-            },
-            {
-              "id": "henganofi-w10",
-              "name": "Ward 10",
-              "registeredVoters": 969
+              "id": "henganofi-dunantina-8-kemenave",
+              "name": "8 - KEMENAVE",
+              "registeredVoters": 1793
             }
           ]
         },
         {
-          "id": "henganofi-kafe-dunantina",
-          "name": "Kafe-Dunantina LLG",
+          "id": "henganofi-fayantina",
+          "name": "Fayantina LLG",
           "electorateSlug": "henganofi",
           "wards": [
             {
-              "id": "kafe-dunantina-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2924
+              "id": "henganofi-fayantina-1-yate",
+              "name": "1 - YATE",
+              "registeredVoters": 2751
             },
             {
-              "id": "kafe-dunantina-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1634
+              "id": "henganofi-fayantina-2-kuru",
+              "name": "2 - KURU",
+              "registeredVoters": 907
             },
             {
-              "id": "kafe-dunantina-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2500
+              "id": "henganofi-fayantina-3-yameve",
+              "name": "3 - YAMEVE",
+              "registeredVoters": 2179
             },
             {
-              "id": "kafe-dunantina-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2823
+              "id": "henganofi-fayantina-4-kripave",
+              "name": "4 - KRIPAVE",
+              "registeredVoters": 1541
             },
             {
-              "id": "kafe-dunantina-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2301
+              "id": "henganofi-fayantina-5-fayantina",
+              "name": "5 - FAYANTINA",
+              "registeredVoters": 2304
             },
             {
-              "id": "kafe-dunantina-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1380
+              "id": "henganofi-fayantina-6-nunofi",
+              "name": "6 - NUNOFI",
+              "registeredVoters": 1304
+            },
+            {
+              "id": "henganofi-fayantina-7-fore",
+              "name": "7 - FORE",
+              "registeredVoters": 1579
+            },
+            {
+              "id": "henganofi-fayantina-8-kuana",
+              "name": "8 - KUANA",
+              "registeredVoters": 4039
+            },
+            {
+              "id": "henganofi-fayantina-9-numuyagave",
+              "name": "9 - NUMUYAGAVE",
+              "registeredVoters": 1289
+            },
+            {
+              "id": "henganofi-fayantina-10-krebave",
+              "name": "10 - KREBAVE",
+              "registeredVoters": 2135
+            },
+            {
+              "id": "henganofi-fayantina-11-kofionka",
+              "name": "11 - KOFIONKA",
+              "registeredVoters": 2665
             }
           ]
         },
         {
-          "id": "henganofi-bena-bena-south",
-          "name": "Bena-Bena South LLG",
+          "id": "henganofi-kafetina",
+          "name": "Kafetina LLG",
           "electorateSlug": "henganofi",
           "wards": [
             {
-              "id": "bena-bena-south-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1359
+              "id": "henganofi-kafetina-1-kompri",
+              "name": "1 - KOMPRI",
+              "registeredVoters": 1938
             },
             {
-              "id": "bena-bena-south-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2301
-            },
-            {
-              "id": "bena-bena-south-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1937
-            },
-            {
-              "id": "bena-bena-south-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1272
-            },
-            {
-              "id": "bena-bena-south-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1854
-            },
-            {
-              "id": "bena-bena-south-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1117
-            },
-            {
-              "id": "bena-bena-south-w07",
-              "name": "Ward 7",
+              "id": "henganofi-kafetina-2-krevanofi",
+              "name": "2 - KREVANOFI",
               "registeredVoters": 1374
             },
             {
-              "id": "bena-bena-south-w08",
-              "name": "Ward 8",
-              "registeredVoters": 2047
+              "id": "henganofi-kafetina-3-avani",
+              "name": "3 - AVANI",
+              "registeredVoters": 1905
             },
             {
-              "id": "bena-bena-south-w09",
-              "name": "Ward 9",
-              "registeredVoters": 2107
+              "id": "henganofi-kafetina-4-ababe",
+              "name": "4 - ABABE",
+              "registeredVoters": 1800
+            },
+            {
+              "id": "henganofi-kafetina-5-yohotegave",
+              "name": "5 - YOHOTEGAVE",
+              "registeredVoters": 818
+            },
+            {
+              "id": "henganofi-kafetina-6-fomurenave",
+              "name": "6 - FOMURENAVE",
+              "registeredVoters": 2534
+            },
+            {
+              "id": "henganofi-kafetina-7-finintugu",
+              "name": "7 - FININTUGU",
+              "registeredVoters": 2573
+            },
+            {
+              "id": "henganofi-kafetina-8-kamanonka",
+              "name": "8 - KAMANONKA",
+              "registeredVoters": 1118
+            },
+            {
+              "id": "henganofi-kafetina-9-tebega",
+              "name": "9 - TEBEGA",
+              "registeredVoters": 1865
+            },
+            {
+              "id": "henganofi-kafetina-10-tebenofi",
+              "name": "10 - TEBENOFI",
+              "registeredVoters": 2392
+            },
+            {
+              "id": "henganofi-kafetina-11-henganofi-station",
+              "name": "11 - HENGANOFI STATION",
+              "registeredVoters": 747
             }
           ]
         }
@@ -425,135 +433,165 @@
       "electorateSlug": "kainantu",
       "llgs": [
         {
-          "id": "kainantu-kainantu-urban",
-          "name": "Kainantu Urban LLG",
-          "electorateSlug": "kainantu",
-          "wards": [
-            {
-              "id": "kainantu-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 5392
-            },
-            {
-              "id": "kainantu-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 5743
-            },
-            {
-              "id": "kainantu-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3867
-            }
-          ]
-        },
-        {
           "id": "kainantu-agarabi",
           "name": "Agarabi LLG",
           "electorateSlug": "kainantu",
           "wards": [
             {
-              "id": "agarabi-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3343
+              "id": "kainantu-agarabi-1-ramu",
+              "name": "1 - RAMU",
+              "registeredVoters": 3296
             },
             {
-              "id": "agarabi-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3336
+              "id": "kainantu-agarabi-2-onkono",
+              "name": "2 - ONKONO",
+              "registeredVoters": 2991
             },
             {
-              "id": "agarabi-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1589
+              "id": "kainantu-agarabi-3-aubana",
+              "name": "3 - AUBANA",
+              "registeredVoters": 4040
             },
             {
-              "id": "agarabi-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3792
+              "id": "kainantu-agarabi-4-pakino",
+              "name": "4 - PAKINO",
+              "registeredVoters": 704
             },
             {
-              "id": "agarabi-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1921
+              "id": "kainantu-agarabi-5-anonapa",
+              "name": "5 - ANONAPA",
+              "registeredVoters": 2061
+            },
+            {
+              "id": "kainantu-agarabi-6-akuintenu",
+              "name": "6 - AKUINTENU",
+              "registeredVoters": 4441
+            },
+            {
+              "id": "kainantu-agarabi-7-anawa-yonki",
+              "name": "7 - ANAWA/YONKI",
+              "registeredVoters": 2128
+            },
+            {
+              "id": "kainantu-agarabi-8-yonki-no-1",
+              "name": "8 - YONKI NO. 1",
+              "registeredVoters": 4332
             }
           ]
         },
         {
-          "id": "kainantu-obura-south",
-          "name": "Obura South LLG",
+          "id": "kainantu-kainantu-urban",
+          "name": "Kainantu Urban LLG",
           "electorateSlug": "kainantu",
           "wards": [
             {
-              "id": "obura-south-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1677
+              "id": "kainantu-kainantu-urban-1-district-office",
+              "name": "1 - DISTRICT OFFICE",
+              "registeredVoters": 441
             },
             {
-              "id": "obura-south-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2424
+              "id": "kainantu-kainantu-urban-2-kainantu-hospital",
+              "name": "2 - KAINANTU HOSPITAL",
+              "registeredVoters": 568
             },
             {
-              "id": "obura-south-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1311
+              "id": "kainantu-kainantu-urban-3-bani-road-settlement",
+              "name": "3 - BANI ROAD SETTLEMENT",
+              "registeredVoters": 378
             },
             {
-              "id": "obura-south-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2098
+              "id": "kainantu-kainantu-urban-4-police-barracks",
+              "name": "4 - POLICE BARRACKS",
+              "registeredVoters": 1781
             },
             {
-              "id": "obura-south-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1315
+              "id": "kainantu-kainantu-urban-5-aiyura-urban",
+              "name": "5 - AIYURA URBAN",
+              "registeredVoters": 528
             },
             {
-              "id": "obura-south-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2147
+              "id": "kainantu-kainantu-urban-6-ukarumpa",
+              "name": "6 - UKARUMPA",
+              "registeredVoters": 225
             },
             {
-              "id": "obura-south-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2148
-            },
-            {
-              "id": "obura-south-w08",
-              "name": "Ward 8",
-              "registeredVoters": 954
-            },
-            {
-              "id": "obura-south-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1519
+              "id": "kainantu-kainantu-urban-7-yonki-urban",
+              "name": "7 - YONKI URBAN",
+              "registeredVoters": 632
             }
           ]
         },
         {
-          "id": "kainantu-gadsup",
-          "name": "Gadsup LLG",
+          "id": "kainantu-kamano-no-1",
+          "name": "Kamano No. 1 LLG",
           "electorateSlug": "kainantu",
           "wards": [
             {
-              "id": "gadsup-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3245
+              "id": "kainantu-kamano-no-1-1-onapinka",
+              "name": "1 - ONAPINKA",
+              "registeredVoters": 2556
             },
             {
-              "id": "gadsup-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2648
+              "id": "kainantu-kamano-no-1-2-taranofi",
+              "name": "2 - TARANOFI",
+              "registeredVoters": 2238
             },
             {
-              "id": "gadsup-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2750
+              "id": "kainantu-kamano-no-1-3-iva",
+              "name": "3 - IVA",
+              "registeredVoters": 3454
             },
             {
-              "id": "gadsup-w04",
-              "name": "Ward 4",
-              "registeredVoters": 6032
+              "id": "kainantu-kamano-no-1-4-omena",
+              "name": "4 - OMENA",
+              "registeredVoters": 946
+            },
+            {
+              "id": "kainantu-kamano-no-1-5-ino-onka",
+              "name": "5 - INO’ONKA",
+              "registeredVoters": 366
+            },
+            {
+              "id": "kainantu-kamano-no-1-6-bush-kamano",
+              "name": "6 - BUSH  KAMANO",
+              "registeredVoters": 5112
+            }
+          ]
+        },
+        {
+          "id": "kainantu-kamano-no-2",
+          "name": "Kamano No. 2 LLG",
+          "electorateSlug": "kainantu",
+          "wards": [
+            {
+              "id": "kainantu-kamano-no-2-1-sohe",
+              "name": "1 - SOHE",
+              "registeredVoters": 3146
+            },
+            {
+              "id": "kainantu-kamano-no-2-2-usurufa",
+              "name": "2 - USURUFA",
+              "registeredVoters": 2968
+            },
+            {
+              "id": "kainantu-kamano-no-2-3-karifa-tafesa",
+              "name": "3 - KARIFA/TAFESA",
+              "registeredVoters": 2806
+            },
+            {
+              "id": "kainantu-kamano-no-2-4-ijavinon-ta",
+              "name": "4 - IJAVINON-TA",
+              "registeredVoters": 3577
+            },
+            {
+              "id": "kainantu-kamano-no-2-5-anumaga",
+              "name": "5 - ANUMAGA",
+              "registeredVoters": 4201
+            },
+            {
+              "id": "kainantu-kamano-no-2-6-yamaso",
+              "name": "6 - YAMASO",
+              "registeredVoters": 1450
             }
           ]
         }
@@ -563,54 +601,69 @@
       "electorateSlug": "lufa",
       "llgs": [
         {
-          "id": "lufa-lufa",
-          "name": "Lufa LLG",
+          "id": "lufa-mt-michael",
+          "name": "Mt. Michael LLG",
           "electorateSlug": "lufa",
           "wards": [
             {
-              "id": "lufa-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1929
+              "id": "lufa-mt-michael-1-agotu",
+              "name": "1 - AGOTU",
+              "registeredVoters": 1157
             },
             {
-              "id": "lufa-w02",
-              "name": "Ward 2",
-              "registeredVoters": 859
+              "id": "lufa-mt-michael-2-hegeturu",
+              "name": "2 - HEGETURU",
+              "registeredVoters": 1121
             },
             {
-              "id": "lufa-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1702
+              "id": "lufa-mt-michael-3-fiamotava",
+              "name": "3 - FIAMOTAVA",
+              "registeredVoters": 595
             },
             {
-              "id": "lufa-w04",
-              "name": "Ward 4",
-              "registeredVoters": 969
+              "id": "lufa-mt-michael-4-megino-no-1",
+              "name": "4 - MEGINO NO. 1",
+              "registeredVoters": 1291
             },
             {
-              "id": "lufa-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1099
+              "id": "lufa-mt-michael-5-gouno",
+              "name": "5 - GOUNO",
+              "registeredVoters": 1789
             },
             {
-              "id": "lufa-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1667
+              "id": "lufa-mt-michael-6-beha",
+              "name": "6 - BEHA",
+              "registeredVoters": 886
             },
             {
-              "id": "lufa-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1620
+              "id": "lufa-mt-michael-7-korowa",
+              "name": "7 - KOROWA",
+              "registeredVoters": 1313
             },
             {
-              "id": "lufa-w08",
-              "name": "Ward 8",
-              "registeredVoters": 829
+              "id": "lufa-mt-michael-8-lufa-station",
+              "name": "8 - LUFA STATION",
+              "registeredVoters": 2657
             },
             {
-              "id": "lufa-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1909
+              "id": "lufa-mt-michael-9-hairo",
+              "name": "9 - HAIRO",
+              "registeredVoters": 1241
+            },
+            {
+              "id": "lufa-mt-michael-10-menilo",
+              "name": "10 - MENILO",
+              "registeredVoters": 713
+            },
+            {
+              "id": "lufa-mt-michael-11-hagaulo",
+              "name": "11 - HAGAULO",
+              "registeredVoters": 787
+            },
+            {
+              "id": "lufa-mt-michael-12-kuruku",
+              "name": "12 - KURUKU",
+              "registeredVoters": 1269
             }
           ]
         },
@@ -620,106 +673,111 @@
           "electorateSlug": "lufa",
           "wards": [
             {
-              "id": "unavi-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2030
+              "id": "lufa-unavi-1-megino-no-2",
+              "name": "1 - MEGINO NO. 2",
+              "registeredVoters": 582
             },
             {
-              "id": "unavi-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1864
+              "id": "lufa-unavi-2-maimafu",
+              "name": "2 - MAIMAFU",
+              "registeredVoters": 689
             },
             {
-              "id": "unavi-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1792
+              "id": "lufa-unavi-3-kuasa",
+              "name": "3 - KUASA",
+              "registeredVoters": 1180
             },
             {
-              "id": "unavi-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1845
+              "id": "lufa-unavi-4-kora-mane-no-2",
+              "name": "4 - KORA/MANE NO. 2",
+              "registeredVoters": 1225
             },
             {
-              "id": "unavi-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1546
+              "id": "lufa-unavi-5-maiva",
+              "name": "5 - MAIVA",
+              "registeredVoters": 839
             },
             {
-              "id": "unavi-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1578
+              "id": "lufa-unavi-6-ubaigubi",
+              "name": "6 - UBAIGUBI",
+              "registeredVoters": 1647
             },
             {
-              "id": "unavi-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1402
+              "id": "lufa-unavi-7-herowana",
+              "name": "7 - HEROWANA",
+              "registeredVoters": 712
             },
             {
-              "id": "unavi-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1800
+              "id": "lufa-unavi-8-agibu",
+              "name": "8 - AGIBU",
+              "registeredVoters": 793
             },
             {
-              "id": "unavi-w09",
-              "name": "Ward 9",
-              "registeredVoters": 932
-            },
-            {
-              "id": "unavi-w10",
-              "name": "Ward 10",
-              "registeredVoters": 1264
+              "id": "lufa-unavi-9-mane-no-1",
+              "name": "9 - MANE NO. 1",
+              "registeredVoters": 921
             }
           ]
         },
         {
-          "id": "lufa-labogai",
-          "name": "Labogai LLG",
+          "id": "lufa-yagari",
+          "name": "Yagari LLG",
           "electorateSlug": "lufa",
           "wards": [
             {
-              "id": "labogai-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1394
+              "id": "lufa-yagari-1-higivavi",
+              "name": "1 - HIGIVAVI",
+              "registeredVoters": 1254
             },
             {
-              "id": "labogai-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2174
+              "id": "lufa-yagari-2-oliguti",
+              "name": "2 - OLIGUTI",
+              "registeredVoters": 2079
             },
             {
-              "id": "labogai-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2138
+              "id": "lufa-yagari-3-kami",
+              "name": "3 - KAMI",
+              "registeredVoters": 2045
             },
             {
-              "id": "labogai-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1691
+              "id": "lufa-yagari-4-forapi-no-1",
+              "name": "4 - FORAPI NO. 1",
+              "registeredVoters": 1573
             },
             {
-              "id": "labogai-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1470
+              "id": "lufa-yagari-5-litipinaga",
+              "name": "5 - LITIPINAGA",
+              "registeredVoters": 1422
             },
             {
-              "id": "labogai-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1793
+              "id": "lufa-yagari-6-gotomi",
+              "name": "6 - GOTOMI",
+              "registeredVoters": 3288
             },
             {
-              "id": "labogai-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1578
+              "id": "lufa-yagari-7-lufugu",
+              "name": "7 - LUFUGU",
+              "registeredVoters": 1350
             },
             {
-              "id": "labogai-w08",
-              "name": "Ward 8",
-              "registeredVoters": 785
+              "id": "lufa-yagari-8-kiseveroka",
+              "name": "8 - KISEVEROKA",
+              "registeredVoters": 2180
             },
             {
-              "id": "labogai-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1477
+              "id": "lufa-yagari-9-kogoraipa",
+              "name": "9 - KOGORAIPA",
+              "registeredVoters": 1211
+            },
+            {
+              "id": "lufa-yagari-10-daginava",
+              "name": "10 - DAGINAVA",
+              "registeredVoters": 1385
+            },
+            {
+              "id": "lufa-yagari-11-nupuru",
+              "name": "11 - NUPURU",
+              "registeredVoters": 2907
             }
           ]
         }
@@ -729,128 +787,550 @@
       "electorateSlug": "obura-wonenara",
       "llgs": [
         {
-          "id": "obura-wonenara-obura",
-          "name": "Obura LLG",
+          "id": "obura-wonenara-gadsup",
+          "name": "Gadsup LLG",
           "electorateSlug": "obura-wonenara",
           "wards": [
             {
-              "id": "obura-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2188
+              "id": "obura-wonenara-gadsup-1-oroma",
+              "name": "1 - OROMA",
+              "registeredVoters": 1043
             },
             {
-              "id": "obura-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2033
+              "id": "obura-wonenara-gadsup-2-kassam",
+              "name": "2 - KASSAM",
+              "registeredVoters": 2198
             },
             {
-              "id": "obura-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2842
+              "id": "obura-wonenara-gadsup-3-mamarain",
+              "name": "3 - MAMARAIN",
+              "registeredVoters": 1344
             },
             {
-              "id": "obura-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1354
+              "id": "obura-wonenara-gadsup-4-binumarien",
+              "name": "4 - BINUMARIEN",
+              "registeredVoters": 419
             },
             {
-              "id": "obura-w05",
-              "name": "Ward 5",
-              "registeredVoters": 3047
+              "id": "obura-wonenara-gadsup-5-pundibasa-1",
+              "name": "5 - PUNDIBASA 1",
+              "registeredVoters": 811
             },
             {
-              "id": "obura-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2653
+              "id": "obura-wonenara-gadsup-6-pundibasa-2",
+              "name": "6 - PUNDIBASA 2",
+              "registeredVoters": 1030
             },
             {
-              "id": "obura-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1624
+              "id": "obura-wonenara-gadsup-7-tombedaka",
+              "name": "7 - TOMBEDAKA",
+              "registeredVoters": 1022
+            },
+            {
+              "id": "obura-wonenara-gadsup-8-kurangka-kambaidam",
+              "name": "8 - KURANGKA KAMBAIDAM",
+              "registeredVoters": 950
+            },
+            {
+              "id": "obura-wonenara-gadsup-9-kundana",
+              "name": "9 - KUNDANA",
+              "registeredVoters": 2024
+            },
+            {
+              "id": "obura-wonenara-gadsup-10-arau",
+              "name": "10 - ARAU",
+              "registeredVoters": 1343
+            },
+            {
+              "id": "obura-wonenara-gadsup-11-binakemu",
+              "name": "11 - BINAKEMU",
+              "registeredVoters": 1284
+            },
+            {
+              "id": "obura-wonenara-gadsup-12-onaningka",
+              "name": "12 - ONANINGKA",
+              "registeredVoters": 1018
+            },
+            {
+              "id": "obura-wonenara-gadsup-13-ikana",
+              "name": "13 - IKANA",
+              "registeredVoters": 1205
+            },
+            {
+              "id": "obura-wonenara-gadsup-14-akuna",
+              "name": "14 - AKUNA",
+              "registeredVoters": 1981
+            },
+            {
+              "id": "obura-wonenara-gadsup-15-yomungka",
+              "name": "15 - YOMUNGKA",
+              "registeredVoters": 1873
+            },
+            {
+              "id": "obura-wonenara-gadsup-16-iranompa",
+              "name": "16 - IRANOMPA",
+              "registeredVoters": 559
+            },
+            {
+              "id": "obura-wonenara-gadsup-17-aserangka",
+              "name": "17 - ASERANGKA",
+              "registeredVoters": 519
+            },
+            {
+              "id": "obura-wonenara-gadsup-18-krawefa-ukarumpa",
+              "name": "18 - KRAWEFA UKARUMPA",
+              "registeredVoters": 499
+            },
+            {
+              "id": "obura-wonenara-gadsup-19-binure",
+              "name": "19 - BINURE",
+              "registeredVoters": 202
+            },
+            {
+              "id": "obura-wonenara-gadsup-20-urona-blockholders",
+              "name": "20 - URONA BLOCKHOLDERS",
+              "registeredVoters": 865
             }
           ]
         },
         {
-          "id": "obura-wonenara-wonenara",
-          "name": "Wonenara LLG",
+          "id": "obura-wonenara-lamari",
+          "name": "Lamari LLG",
           "electorateSlug": "obura-wonenara",
           "wards": [
             {
-              "id": "wonenara-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2705
+              "id": "obura-wonenara-lamari-1-motokara",
+              "name": "1 - MOTOKARA",
+              "registeredVoters": 753
             },
             {
-              "id": "wonenara-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2407
+              "id": "obura-wonenara-lamari-2-atakara",
+              "name": "2 - ATAKARA",
+              "registeredVoters": 734
             },
             {
-              "id": "wonenara-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2164
+              "id": "obura-wonenara-lamari-3-numbaira",
+              "name": "3 - NUMBAIRA",
+              "registeredVoters": 437
             },
             {
-              "id": "wonenara-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2552
+              "id": "obura-wonenara-lamari-4-bibeori",
+              "name": "4 - BIBEORI",
+              "registeredVoters": 788
             },
             {
-              "id": "wonenara-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1905
+              "id": "obura-wonenara-lamari-5-baira-no-1",
+              "name": "5 - BAIRA NO.1",
+              "registeredVoters": 591
             },
             {
-              "id": "wonenara-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1469
+              "id": "obura-wonenara-lamari-6-baira-no-2",
+              "name": "6 - BAIRA NO. 2",
+              "registeredVoters": 585
+            },
+            {
+              "id": "obura-wonenara-lamari-7-mei-auna",
+              "name": "7 - MEI’AUNA",
+              "registeredVoters": 351
+            },
+            {
+              "id": "obura-wonenara-lamari-8-ogurataba",
+              "name": "8 - OGURATABA",
+              "registeredVoters": 896
+            },
+            {
+              "id": "obura-wonenara-lamari-9-bi-api-arata",
+              "name": "9 - BI'API'ARATA",
+              "registeredVoters": 551
+            },
+            {
+              "id": "obura-wonenara-lamari-10-bakumpa",
+              "name": "10 - BAKUMPA",
+              "registeredVoters": 427
+            },
+            {
+              "id": "obura-wonenara-lamari-11-kawaina-no-1",
+              "name": "11 - KAWAINA NO. 1",
+              "registeredVoters": 647
+            },
+            {
+              "id": "obura-wonenara-lamari-12-komboro",
+              "name": "12 - KOMBORO",
+              "registeredVoters": 1595
+            },
+            {
+              "id": "obura-wonenara-lamari-13-obura-patrol-post",
+              "name": "13 - OBURA PATROL POST",
+              "registeredVoters": 98
+            },
+            {
+              "id": "obura-wonenara-lamari-14-kaurona",
+              "name": "14 - KAURONA",
+              "registeredVoters": 636
+            },
+            {
+              "id": "obura-wonenara-lamari-15-kurunumbura",
+              "name": "15 - KURUNUMBURA",
+              "registeredVoters": 668
+            },
+            {
+              "id": "obura-wonenara-lamari-16-yunura",
+              "name": "16 - YUNURA",
+              "registeredVoters": 932
+            },
+            {
+              "id": "obura-wonenara-lamari-17-asara",
+              "name": "17 - ASARA",
+              "registeredVoters": 1057
+            },
+            {
+              "id": "obura-wonenara-lamari-18-himarata",
+              "name": "18 - HIMARATA",
+              "registeredVoters": 693
+            },
+            {
+              "id": "obura-wonenara-lamari-19-anima",
+              "name": "19 - ANIMA",
+              "registeredVoters": 1964
+            },
+            {
+              "id": "obura-wonenara-lamari-20-tunana",
+              "name": "20 - TUNANA",
+              "registeredVoters": 1270
+            },
+            {
+              "id": "obura-wonenara-lamari-21-ahea",
+              "name": "21 - AHEA",
+              "registeredVoters": 833
+            },
+            {
+              "id": "obura-wonenara-lamari-22-habi-ina",
+              "name": "22 - HABI’INA",
+              "registeredVoters": 1016
+            },
+            {
+              "id": "obura-wonenara-lamari-23-oraura",
+              "name": "23 - ORAURA",
+              "registeredVoters": 1776
+            },
+            {
+              "id": "obura-wonenara-lamari-24-kokombira",
+              "name": "24 - KOKOMBIRA",
+              "registeredVoters": 814
+            },
+            {
+              "id": "obura-wonenara-lamari-25-pinata",
+              "name": "25 - PINATA",
+              "registeredVoters": 428
+            },
+            {
+              "id": "obura-wonenara-lamari-26-owena",
+              "name": "26 - OWENA",
+              "registeredVoters": 311
+            },
+            {
+              "id": "obura-wonenara-lamari-27-tainoraba",
+              "name": "27 - TAINORABA",
+              "registeredVoters": 664
+            },
+            {
+              "id": "obura-wonenara-lamari-28-mobutasa",
+              "name": "28 - MOBUTASA",
+              "registeredVoters": 347
+            },
+            {
+              "id": "obura-wonenara-lamari-29-agamusi",
+              "name": "29 - AGAMUSI",
+              "registeredVoters": 332
             }
           ]
         },
         {
-          "id": "obura-wonenara-okapa-south",
-          "name": "Okapa South LLG",
+          "id": "obura-wonenara-tairora",
+          "name": "Tairora LLG",
           "electorateSlug": "obura-wonenara",
           "wards": [
             {
-              "id": "okapa-south-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1295
+              "id": "obura-wonenara-tairora-1-osararo",
+              "name": "1 - OSARARO",
+              "registeredVoters": 689
             },
             {
-              "id": "okapa-south-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1611
+              "id": "obura-wonenara-tairora-2-saiyora",
+              "name": "2 - SAIYORA",
+              "registeredVoters": 580
             },
             {
-              "id": "okapa-south-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2269
+              "id": "obura-wonenara-tairora-3-andandara",
+              "name": "3 - ANDANDARA",
+              "registeredVoters": 1131
             },
             {
-              "id": "okapa-south-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1623
+              "id": "obura-wonenara-tairora-4-elandora",
+              "name": "4 - ELANDORA",
+              "registeredVoters": 662
             },
             {
-              "id": "okapa-south-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2217
+              "id": "obura-wonenara-tairora-5-barabuna-batainabura",
+              "name": "5 - BARABUNA BATAINABURA",
+              "registeredVoters": 1140
             },
             {
-              "id": "okapa-south-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1256
+              "id": "obura-wonenara-tairora-6-bae-e",
+              "name": "6 - BAE'E",
+              "registeredVoters": 423
             },
             {
-              "id": "okapa-south-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2305
+              "id": "obura-wonenara-tairora-7-kamanangkera",
+              "name": "7 - KAMANANGKERA",
+              "registeredVoters": 520
             },
             {
-              "id": "okapa-south-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1158
+              "id": "obura-wonenara-tairora-8-avoara",
+              "name": "8 - AVOARA",
+              "registeredVoters": 124
+            },
+            {
+              "id": "obura-wonenara-tairora-9-norikori",
+              "name": "9 - NORIKORI",
+              "registeredVoters": 2374
+            },
+            {
+              "id": "obura-wonenara-tairora-10-nombia",
+              "name": "10 - NOMBIA",
+              "registeredVoters": 1142
+            },
+            {
+              "id": "obura-wonenara-tairora-11-babari",
+              "name": "11 - BABARI",
+              "registeredVoters": 935
+            },
+            {
+              "id": "obura-wonenara-tairora-12-tontona",
+              "name": "12 - TONTONA",
+              "registeredVoters": 946
+            },
+            {
+              "id": "obura-wonenara-tairora-13-makia",
+              "name": "13 - MAKIA",
+              "registeredVoters": 515
+            },
+            {
+              "id": "obura-wonenara-tairora-14-barabundora",
+              "name": "14 - BARABUNDORA",
+              "registeredVoters": 656
+            },
+            {
+              "id": "obura-wonenara-tairora-15-kobuta",
+              "name": "15 - KOBUTA",
+              "registeredVoters": 1291
+            },
+            {
+              "id": "obura-wonenara-tairora-16-bararanda",
+              "name": "16 - BARARANDA",
+              "registeredVoters": 489
+            },
+            {
+              "id": "obura-wonenara-tairora-17-matona",
+              "name": "17 - MATONA",
+              "registeredVoters": 1046
+            },
+            {
+              "id": "obura-wonenara-tairora-18-ontenu",
+              "name": "18 - ONTENU",
+              "registeredVoters": 937
+            },
+            {
+              "id": "obura-wonenara-tairora-19-kosa",
+              "name": "19 - KOSA",
+              "registeredVoters": 805
+            },
+            {
+              "id": "obura-wonenara-tairora-20-bonta",
+              "name": "20 - BONTA",
+              "registeredVoters": 885
+            },
+            {
+              "id": "obura-wonenara-tairora-21-aparira",
+              "name": "21 - APARIRA",
+              "registeredVoters": 559
+            }
+          ]
+        },
+        {
+          "id": "obura-wonenara-yelia",
+          "name": "Yelia LLG",
+          "electorateSlug": "obura-wonenara",
+          "wards": [
+            {
+              "id": "obura-wonenara-yelia-1-garipme",
+              "name": "1 - GARIPME",
+              "registeredVoters": 613
+            },
+            {
+              "id": "obura-wonenara-yelia-2-marawaka-station",
+              "name": "2 - MARAWAKA STATION",
+              "registeredVoters": 461
+            },
+            {
+              "id": "obura-wonenara-yelia-3-kwalusila",
+              "name": "3 - KWALUSILA",
+              "registeredVoters": 680
+            },
+            {
+              "id": "obura-wonenara-yelia-4-marawaka",
+              "name": "4 - MARAWAKA",
+              "registeredVoters": 792
+            },
+            {
+              "id": "obura-wonenara-yelia-5-giliwato",
+              "name": "5 - GILIWATO",
+              "registeredVoters": 466
+            },
+            {
+              "id": "obura-wonenara-yelia-6-gawoi",
+              "name": "6 - GAWOI",
+              "registeredVoters": 616
+            },
+            {
+              "id": "obura-wonenara-yelia-7-sindainya",
+              "name": "7 - SINDAINYA",
+              "registeredVoters": 616
+            },
+            {
+              "id": "obura-wonenara-yelia-8-jerkiru",
+              "name": "8 - JERKIRU",
+              "registeredVoters": 791
+            },
+            {
+              "id": "obura-wonenara-yelia-9-yamuru",
+              "name": "9 - YAMURU",
+              "registeredVoters": 685
+            },
+            {
+              "id": "obura-wonenara-yelia-10-mala",
+              "name": "10 - MALA",
+              "registeredVoters": 290
+            },
+            {
+              "id": "obura-wonenara-yelia-11-sinei",
+              "name": "11 - SINEI",
+              "registeredVoters": 511
+            },
+            {
+              "id": "obura-wonenara-yelia-12-asenave",
+              "name": "12 - ASENAVE",
+              "registeredVoters": 437
+            },
+            {
+              "id": "obura-wonenara-yelia-13-boiko",
+              "name": "13 - BOIKO",
+              "registeredVoters": 463
+            },
+            {
+              "id": "obura-wonenara-yelia-14-malari",
+              "name": "14 - MALARI",
+              "registeredVoters": 516
+            },
+            {
+              "id": "obura-wonenara-yelia-15-davelavi",
+              "name": "15 - DAVELAVI",
+              "registeredVoters": 1792
+            },
+            {
+              "id": "obura-wonenara-yelia-16-yiwane",
+              "name": "16 - YIWANE",
+              "registeredVoters": 661
+            },
+            {
+              "id": "obura-wonenara-yelia-17-sesai",
+              "name": "17 - SESAI",
+              "registeredVoters": 476
+            },
+            {
+              "id": "obura-wonenara-yelia-18-kandui",
+              "name": "18 - KANDUI",
+              "registeredVoters": 434
+            },
+            {
+              "id": "obura-wonenara-yelia-19-dengkwi",
+              "name": "19 - DENGKWI",
+              "registeredVoters": 325
+            },
+            {
+              "id": "obura-wonenara-yelia-20-ijelelukore",
+              "name": "20 - IJELELUKORE",
+              "registeredVoters": 455
+            },
+            {
+              "id": "obura-wonenara-yelia-21-nire",
+              "name": "21 - NIRE",
+              "registeredVoters": 562
+            },
+            {
+              "id": "obura-wonenara-yelia-22-pinji",
+              "name": "22 - PINJI",
+              "registeredVoters": 669
+            },
+            {
+              "id": "obura-wonenara-yelia-23-ororingo",
+              "name": "23 - ORORINGO",
+              "registeredVoters": 771
+            },
+            {
+              "id": "obura-wonenara-yelia-24-wiobo",
+              "name": "24 - WIOBO",
+              "registeredVoters": 725
+            },
+            {
+              "id": "obura-wonenara-yelia-25-yanyi",
+              "name": "25 - YANYI",
+              "registeredVoters": 876
+            },
+            {
+              "id": "obura-wonenara-yelia-26-wapme-wonenara",
+              "name": "26 - WAPME/WONENARA",
+              "registeredVoters": 658
+            },
+            {
+              "id": "obura-wonenara-yelia-27-butnari-karmamba",
+              "name": "27 - BUTNARI/KARMAMBA",
+              "registeredVoters": 577
+            },
+            {
+              "id": "obura-wonenara-yelia-28-yabwiara",
+              "name": "28 - YABWIARA",
+              "registeredVoters": 356
+            },
+            {
+              "id": "obura-wonenara-yelia-29-orobina",
+              "name": "29 - OROBINA",
+              "registeredVoters": 664
+            },
+            {
+              "id": "obura-wonenara-yelia-30-andakombi",
+              "name": "30 - ANDAKOMBI",
+              "registeredVoters": 1271
+            },
+            {
+              "id": "obura-wonenara-yelia-31-me-enaka",
+              "name": "31 - ME'ENAKA",
+              "registeredVoters": 296
+            },
+            {
+              "id": "obura-wonenara-yelia-32-yakana",
+              "name": "32 - YAKANA",
+              "registeredVoters": 563
+            },
+            {
+              "id": "obura-wonenara-yelia-33-simogu",
+              "name": "33 - SIMOGU",
+              "registeredVoters": 434
+            },
+            {
+              "id": "obura-wonenara-yelia-34-narasaka",
+              "name": "34 - NARASAKA",
+              "registeredVoters": 282
             }
           ]
         }
@@ -860,103 +1340,186 @@
       "electorateSlug": "okapa",
       "llgs": [
         {
-          "id": "okapa-okapa",
-          "name": "Okapa LLG",
+          "id": "okapa-east-okapa",
+          "name": "East Okapa LLG",
           "electorateSlug": "okapa",
           "wards": [
             {
-              "id": "okapa-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3230
+              "id": "okapa-east-okapa-1-purosa",
+              "name": "1 - PUROSA",
+              "registeredVoters": 1949
             },
             {
-              "id": "okapa-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2673
+              "id": "okapa-east-okapa-2-awarosa",
+              "name": "2 - AWAROSA",
+              "registeredVoters": 783
             },
             {
-              "id": "okapa-w03",
-              "name": "Ward 3",
-              "registeredVoters": 6834
+              "id": "okapa-east-okapa-3-orie",
+              "name": "3 - ORIE",
+              "registeredVoters": 1886
             },
             {
-              "id": "okapa-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3808
+              "id": "okapa-east-okapa-4-iwaki",
+              "name": "4 - IWAKI",
+              "registeredVoters": 2284
+            },
+            {
+              "id": "okapa-east-okapa-5-ivingo",
+              "name": "5 - IVINGO",
+              "registeredVoters": 2891
+            },
+            {
+              "id": "okapa-east-okapa-6-paigatasa",
+              "name": "6 - PAIGATASA",
+              "registeredVoters": 1156
+            },
+            {
+              "id": "okapa-east-okapa-7-oma-kasoru",
+              "name": "7 - OMA KASORU",
+              "registeredVoters": 1496
+            },
+            {
+              "id": "okapa-east-okapa-8-yasubi",
+              "name": "8 - YASUBI",
+              "registeredVoters": 3666
+            },
+            {
+              "id": "okapa-east-okapa-9-yagusa",
+              "name": "9 - YAGUSA",
+              "registeredVoters": 3449
+            },
+            {
+              "id": "okapa-east-okapa-10-ibusa",
+              "name": "10 - IBUSA",
+              "registeredVoters": 5526
+            },
+            {
+              "id": "okapa-east-okapa-11-wantogavarasa",
+              "name": "11 - WANTOGAVARASA",
+              "registeredVoters": 5503
+            },
+            {
+              "id": "okapa-east-okapa-12-ofafina",
+              "name": "12 - OFAFINA",
+              "registeredVoters": 5212
+            },
+            {
+              "id": "okapa-east-okapa-13-okapa-town",
+              "name": "13 - OKAPA TOWN",
+              "registeredVoters": 418
+            },
+            {
+              "id": "okapa-east-okapa-14-kawaina",
+              "name": "14 - KAWAINA",
+              "registeredVoters": 1221
+            },
+            {
+              "id": "okapa-east-okapa-15-amaira",
+              "name": "15 - AMAIRA",
+              "registeredVoters": 3089
+            },
+            {
+              "id": "okapa-east-okapa-16-asempa",
+              "name": "16 - ASEMPA",
+              "registeredVoters": 1605
+            },
+            {
+              "id": "okapa-east-okapa-17-sefuna",
+              "name": "17 - SEFUNA",
+              "registeredVoters": 1854
             }
           ]
         },
         {
-          "id": "okapa-okapa-south",
-          "name": "Okapa South LLG",
+          "id": "okapa-west-okapa",
+          "name": "West Okapa LLG",
           "electorateSlug": "okapa",
           "wards": [
             {
-              "id": "okapa-south-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3863
+              "id": "okapa-west-okapa-1-kemiu",
+              "name": "1 - KEMIU",
+              "registeredVoters": 2865
             },
             {
-              "id": "okapa-south-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3023
+              "id": "okapa-west-okapa-2-kokopi",
+              "name": "2 - KOKOPI",
+              "registeredVoters": 1397
             },
             {
-              "id": "okapa-south-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2877
+              "id": "okapa-west-okapa-3-wayoepa",
+              "name": "3 - WAYOEPA",
+              "registeredVoters": 2075
             },
             {
-              "id": "okapa-south-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2618
+              "id": "okapa-west-okapa-4-tarabo",
+              "name": "4 - TARABO",
+              "registeredVoters": 2543
             },
             {
-              "id": "okapa-south-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1478
-            }
-          ]
-        },
-        {
-          "id": "okapa-fore",
-          "name": "Fore LLG",
-          "electorateSlug": "okapa",
-          "wards": [
-            {
-              "id": "fore-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2389
+              "id": "okapa-west-okapa-5-ke-efu",
+              "name": "5 - KE'EFU",
+              "registeredVoters": 4930
             },
             {
-              "id": "fore-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2702
+              "id": "okapa-west-okapa-6-yagana",
+              "name": "6 - YAGANA",
+              "registeredVoters": 2028
             },
             {
-              "id": "fore-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1951
+              "id": "okapa-west-okapa-7-haga",
+              "name": "7 - HAGA",
+              "registeredVoters": 1457
             },
             {
-              "id": "fore-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1413
+              "id": "okapa-west-okapa-8-henagaru",
+              "name": "8 - HENAGARU",
+              "registeredVoters": 2822
             },
             {
-              "id": "fore-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2565
+              "id": "okapa-west-okapa-9-orandatu",
+              "name": "9 - ORANDATU",
+              "registeredVoters": 1031
             },
             {
-              "id": "fore-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2378
+              "id": "okapa-west-okapa-10-amuraisa",
+              "name": "10 - AMURAISA",
+              "registeredVoters": 1869
             },
             {
-              "id": "fore-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2536
+              "id": "okapa-west-okapa-11-hogaveru",
+              "name": "11 - HOGAVERU",
+              "registeredVoters": 2213
+            },
+            {
+              "id": "okapa-west-okapa-12-aivesa",
+              "name": "12 - AIVESA",
+              "registeredVoters": 2381
+            },
+            {
+              "id": "okapa-west-okapa-13-tarotu-mane",
+              "name": "13 - TAROTU-MANE",
+              "registeredVoters": 3228
+            },
+            {
+              "id": "okapa-west-okapa-14-tunukau",
+              "name": "14 - TUNUKAU",
+              "registeredVoters": 3040
+            },
+            {
+              "id": "okapa-west-okapa-15-agivu",
+              "name": "15 - AGIVU",
+              "registeredVoters": 2008
+            },
+            {
+              "id": "okapa-west-okapa-16-amusa",
+              "name": "16 - AMUSA",
+              "registeredVoters": 2500
+            },
+            {
+              "id": "okapa-west-okapa-17-keteve",
+              "name": "17 - KETEVE",
+              "registeredVoters": 1481
             }
           ]
         }
@@ -966,103 +1529,123 @@
       "electorateSlug": "unggai-bena",
       "llgs": [
         {
-          "id": "unggai-bena-unggai",
-          "name": "Unggai LLG",
+          "id": "unggai-bena-lower-bena",
+          "name": "Lower Bena LLG",
           "electorateSlug": "unggai-bena",
           "wards": [
             {
-              "id": "unggai-w01",
-              "name": "Ward 1",
-              "registeredVoters": 5439
+              "id": "unggai-bena-lower-bena-1-siokie",
+              "name": "1 - SIOKIE",
+              "registeredVoters": 2037
             },
             {
-              "id": "unggai-w02",
-              "name": "Ward 2",
-              "registeredVoters": 4638
+              "id": "unggai-bena-lower-bena-2-katagu",
+              "name": "2 - KATAGU",
+              "registeredVoters": 3288
             },
             {
-              "id": "unggai-w03",
-              "name": "Ward 3",
-              "registeredVoters": 7055
+              "id": "unggai-bena-lower-bena-3-ketarabo",
+              "name": "3 - KETARABO",
+              "registeredVoters": 3074
             },
             {
-              "id": "unggai-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3897
+              "id": "unggai-bena-lower-bena-4-korofeigu",
+              "name": "4 - KOROFEIGU",
+              "registeredVoters": 3502
+            },
+            {
+              "id": "unggai-bena-lower-bena-5-magitu",
+              "name": "5 - MAGITU",
+              "registeredVoters": 2790
+            },
+            {
+              "id": "unggai-bena-lower-bena-6-hofagaiufa",
+              "name": "6 - HOFAGAIUFA",
+              "registeredVoters": 2337
+            },
+            {
+              "id": "unggai-bena-lower-bena-7-lambo",
+              "name": "7 - LAMBO",
+              "registeredVoters": 2974
             }
           ]
         },
         {
-          "id": "unggai-bena-bena",
-          "name": "Bena LLG",
+          "id": "unggai-bena-ungai",
+          "name": "Ungai LLG",
           "electorateSlug": "unggai-bena",
           "wards": [
             {
-              "id": "bena-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2157
+              "id": "unggai-bena-ungai-1-aligayufa",
+              "name": "1 - ALIGAYUFA",
+              "registeredVoters": 2411
             },
             {
-              "id": "bena-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2812
+              "id": "unggai-bena-ungai-2-yabiyufa",
+              "name": "2 - YABIYUFA",
+              "registeredVoters": 1627
             },
             {
-              "id": "bena-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1734
+              "id": "unggai-bena-ungai-3-atirigu-efaku",
+              "name": "3 - ATIRIGU-EFAKU",
+              "registeredVoters": 4418
             },
             {
-              "id": "bena-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2582
+              "id": "unggai-bena-ungai-4-orumba",
+              "name": "4 - ORUMBA",
+              "registeredVoters": 2322
             },
             {
-              "id": "bena-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2864
+              "id": "unggai-bena-ungai-5-orumbafoe",
+              "name": "5 - ORUMBAFOE",
+              "registeredVoters": 2450
             },
             {
-              "id": "bena-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1580
-            },
-            {
-              "id": "bena-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1961
-            },
-            {
-              "id": "bena-w08",
-              "name": "Ward 8",
-              "registeredVoters": 2235
+              "id": "unggai-bena-ungai-6-yauna-koko",
+              "name": "6 - YAUNA-KOKO",
+              "registeredVoters": 3233
             }
           ]
         },
         {
-          "id": "unggai-bena-asaro-valley",
-          "name": "Asaro Valley LLG",
+          "id": "unggai-bena-upper-bena",
+          "name": "Upper Bena LLG",
           "electorateSlug": "unggai-bena",
           "wards": [
             {
-              "id": "asaro-valley-w01",
-              "name": "Ward 1",
-              "registeredVoters": 6100
+              "id": "unggai-bena-upper-bena-1-mohuveto",
+              "name": "1 - MOHUVETO",
+              "registeredVoters": 2736
             },
             {
-              "id": "asaro-valley-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3987
+              "id": "unggai-bena-upper-bena-2-naiyufa-nipuvo",
+              "name": "2 - NAIYUFA-NIPUVO",
+              "registeredVoters": 1246
             },
             {
-              "id": "asaro-valley-w03",
-              "name": "Ward 3",
-              "registeredVoters": 5751
+              "id": "unggai-bena-upper-bena-3-megunagu",
+              "name": "3 - MEGUNAGU",
+              "registeredVoters": 1238
             },
             {
-              "id": "asaro-valley-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2696
+              "id": "unggai-bena-upper-bena-4-sigerehei",
+              "name": "4 - SIGEREHEI",
+              "registeredVoters": 1741
+            },
+            {
+              "id": "unggai-bena-upper-bena-5-liorofa",
+              "name": "5 - LIOROFA",
+              "registeredVoters": 1459
+            },
+            {
+              "id": "unggai-bena-upper-bena-6-kuritafa-megabo-2",
+              "name": "6 - KURITAFA-MEGABO 2",
+              "registeredVoters": 1195
+            },
+            {
+              "id": "unggai-bena-upper-bena-7-kogaru-megabo-1",
+              "name": "7 - KOGARU-MEGABO 1",
+              "registeredVoters": 1332
             }
           ]
         }

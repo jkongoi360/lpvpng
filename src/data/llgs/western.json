@@ -5,49 +5,196 @@
       "electorateSlug": "north-fly",
       "llgs": [
         {
+          "id": "north-fly-kiunga",
+          "name": "Kiunga LLG",
+          "electorateSlug": "north-fly",
+          "wards": [
+            {
+              "id": "north-fly-kiunga-1-briompinai",
+              "name": "1 - BRIOMPINAI",
+              "registeredVoters": 438
+            },
+            {
+              "id": "north-fly-kiunga-2-timindemasok",
+              "name": "2 - TIMINDEMASOK",
+              "registeredVoters": 417
+            },
+            {
+              "id": "north-fly-kiunga-3-atkamba",
+              "name": "3 - ATKAMBA",
+              "registeredVoters": 402
+            },
+            {
+              "id": "north-fly-kiunga-4-dome",
+              "name": "4 - DOME",
+              "registeredVoters": 198
+            },
+            {
+              "id": "north-fly-kiunga-5-gi",
+              "name": "5 - GI",
+              "registeredVoters": 290
+            },
+            {
+              "id": "north-fly-kiunga-6-gre",
+              "name": "6 - GRE",
+              "registeredVoters": 281
+            },
+            {
+              "id": "north-fly-kiunga-7-griengas",
+              "name": "7 - GRIENGAS",
+              "registeredVoters": 265
+            },
+            {
+              "id": "north-fly-kiunga-8-drindamasuk",
+              "name": "8 - DRINDAMASUK",
+              "registeredVoters": 2168
+            },
+            {
+              "id": "north-fly-kiunga-9-drimgas",
+              "name": "9 - DRIMGAS",
+              "registeredVoters": 217
+            },
+            {
+              "id": "north-fly-kiunga-10-gasuke",
+              "name": "10 - GASUKE",
+              "registeredVoters": 152
+            },
+            {
+              "id": "north-fly-kiunga-11-gusiore",
+              "name": "11 - GUSIORE",
+              "registeredVoters": 106
+            },
+            {
+              "id": "north-fly-kiunga-12-timingondok",
+              "name": "12 - TIMINGONDOK",
+              "registeredVoters": 324
+            },
+            {
+              "id": "north-fly-kiunga-13-drimskai",
+              "name": "13 - DRIMSKAI",
+              "registeredVoters": 115
+            },
+            {
+              "id": "north-fly-kiunga-14-timinsiriap",
+              "name": "14 - TIMINSIRIAP",
+              "registeredVoters": 150
+            },
+            {
+              "id": "north-fly-kiunga-15-kukujaba",
+              "name": "15 - KUKUJABA",
+              "registeredVoters": 490
+            },
+            {
+              "id": "north-fly-kiunga-16-membok",
+              "name": "16 - MEMBOK",
+              "registeredVoters": 337
+            },
+            {
+              "id": "north-fly-kiunga-17-erekta",
+              "name": "17 - EREKTA",
+              "registeredVoters": 108
+            },
+            {
+              "id": "north-fly-kiunga-18-moian",
+              "name": "18 - MOIAN",
+              "registeredVoters": 406
+            },
+            {
+              "id": "north-fly-kiunga-19-komokpin",
+              "name": "19 - KOMOKPIN",
+              "registeredVoters": 180
+            },
+            {
+              "id": "north-fly-kiunga-20-menemsore",
+              "name": "20 - MENEMSORE",
+              "registeredVoters": 384
+            },
+            {
+              "id": "north-fly-kiunga-21-miasomnai",
+              "name": "21 - MIASOMNAI",
+              "registeredVoters": 238
+            },
+            {
+              "id": "north-fly-kiunga-22-tiomnai",
+              "name": "22 - TIOMNAI",
+              "registeredVoters": 334
+            },
+            {
+              "id": "north-fly-kiunga-23-konkonda",
+              "name": "23 - KONKONDA",
+              "registeredVoters": 95
+            },
+            {
+              "id": "north-fly-kiunga-24-yulawas",
+              "name": "24 - YULAWAS",
+              "registeredVoters": 97
+            },
+            {
+              "id": "north-fly-kiunga-25-diabi",
+              "name": "25 - DIABI",
+              "registeredVoters": 114
+            },
+            {
+              "id": "north-fly-kiunga-26-dabike",
+              "name": "26 - DABIKE",
+              "registeredVoters": 197
+            },
+            {
+              "id": "north-fly-kiunga-27-ieran",
+              "name": "27 - IERAN",
+              "registeredVoters": 107
+            },
+            {
+              "id": "north-fly-kiunga-28-iogi",
+              "name": "28 - IOGI",
+              "registeredVoters": 143
+            },
+            {
+              "id": "north-fly-kiunga-29-ralengre",
+              "name": "29 - RALENGRE",
+              "registeredVoters": 247
+            },
+            {
+              "id": "north-fly-kiunga-30-tamifen",
+              "name": "30 - TAMIFEN",
+              "registeredVoters": 106
+            }
+          ]
+        },
+        {
           "id": "north-fly-kiunga-urban",
           "name": "Kiunga Urban LLG",
           "electorateSlug": "north-fly",
           "wards": [
             {
-              "id": "kiunga-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1311
+              "id": "north-fly-kiunga-urban-1-mepu",
+              "name": "1 - MEPU",
+              "registeredVoters": 2360
             },
             {
-              "id": "kiunga-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2229
+              "id": "north-fly-kiunga-urban-2-parama-monfort-cath-mssn",
+              "name": "2 - PARAMA-MONFORT CATH. MSSN.",
+              "registeredVoters": 1727
             },
             {
-              "id": "kiunga-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2443
+              "id": "north-fly-kiunga-urban-3-green-tree",
+              "name": "3 - GREEN TREE",
+              "registeredVoters": 2822
             },
             {
-              "id": "kiunga-urban-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1202
+              "id": "north-fly-kiunga-urban-4-samagos-hongas",
+              "name": "4 - SAMAGOS HONGAS",
+              "registeredVoters": 1724
             },
             {
-              "id": "kiunga-urban-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2904
+              "id": "north-fly-kiunga-urban-5-sare-kiunga-voc-centre",
+              "name": "5 - SARE/KIUNGA VOC. CENTRE",
+              "registeredVoters": 1915
             },
             {
-              "id": "kiunga-urban-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1460
-            },
-            {
-              "id": "kiunga-urban-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2257
-            },
-            {
-              "id": "kiunga-urban-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1873
+              "id": "north-fly-kiunga-urban-6-smike-hospital",
+              "name": "6 - SMIKE HOSPITAL",
+              "registeredVoters": 1494
             }
           ]
         },
@@ -57,39 +204,124 @@
           "electorateSlug": "north-fly",
           "wards": [
             {
-              "id": "ningerum-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1870
+              "id": "north-fly-ningerum-1-ambaga",
+              "name": "1 - AMBAGA",
+              "registeredVoters": 399
             },
             {
-              "id": "ningerum-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2734
+              "id": "north-fly-ningerum-2-kungim",
+              "name": "2 - KUNGIM",
+              "registeredVoters": 352
             },
             {
-              "id": "ningerum-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2551
+              "id": "north-fly-ningerum-3-tengkim",
+              "name": "3 - TENGKIM",
+              "registeredVoters": 385
             },
             {
-              "id": "ningerum-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1979
+              "id": "north-fly-ningerum-4-hukim",
+              "name": "4 - HUKIM",
+              "registeredVoters": 328
             },
             {
-              "id": "ningerum-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1954
+              "id": "north-fly-ningerum-5-tarakbits",
+              "name": "5 - TARAKBITS",
+              "registeredVoters": 461
             },
             {
-              "id": "ningerum-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1876
+              "id": "north-fly-ningerum-6-ambaga",
+              "name": "6 - AMBAGA",
+              "registeredVoters": 324
             },
             {
-              "id": "ningerum-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1712
+              "id": "north-fly-ningerum-7-kwikim",
+              "name": "7 - KWIKIM",
+              "registeredVoters": 277
+            },
+            {
+              "id": "north-fly-ningerum-8-bankim-1",
+              "name": "8 - BANKIM 1",
+              "registeredVoters": 550
+            },
+            {
+              "id": "north-fly-ningerum-9-wulimkanatgo",
+              "name": "9 - WULIMKANATGO",
+              "registeredVoters": 477
+            },
+            {
+              "id": "north-fly-ningerum-10-kolebon",
+              "name": "10 - KOLEBON",
+              "registeredVoters": 210
+            },
+            {
+              "id": "north-fly-ningerum-11-wogam",
+              "name": "11 - WOGAM",
+              "registeredVoters": 260
+            },
+            {
+              "id": "north-fly-ningerum-12-hiorenkia",
+              "name": "12 - HIORENKIA",
+              "registeredVoters": 690
+            },
+            {
+              "id": "north-fly-ningerum-13-sisimakam",
+              "name": "13 - SISIMAKAM",
+              "registeredVoters": 941
+            },
+            {
+              "id": "north-fly-ningerum-14-mohomtienai",
+              "name": "14 - MOHOMTIENAI",
+              "registeredVoters": 561
+            },
+            {
+              "id": "north-fly-ningerum-15-runai",
+              "name": "15 - RUNAI",
+              "registeredVoters": 290
+            },
+            {
+              "id": "north-fly-ningerum-16-hawenai",
+              "name": "16 - HAWENAI",
+              "registeredVoters": 1016
+            },
+            {
+              "id": "north-fly-ningerum-17-tmoknai",
+              "name": "17 - TMOKNAI",
+              "registeredVoters": 637
+            },
+            {
+              "id": "north-fly-ningerum-18-sonai",
+              "name": "18 - SONAI",
+              "registeredVoters": 599
+            },
+            {
+              "id": "north-fly-ningerum-19-pampenai",
+              "name": "19 - PAMPENAI",
+              "registeredVoters": 724
+            },
+            {
+              "id": "north-fly-ningerum-20-yenkenai",
+              "name": "20 - YENKENAI",
+              "registeredVoters": 673
+            },
+            {
+              "id": "north-fly-ningerum-21-matkomrae",
+              "name": "21 - MATKOMRAE",
+              "registeredVoters": 610
+            },
+            {
+              "id": "north-fly-ningerum-22-dande",
+              "name": "22 - DANDE",
+              "registeredVoters": 639
+            },
+            {
+              "id": "north-fly-ningerum-23-miamrae",
+              "name": "23 - MIAMRAE",
+              "registeredVoters": 963
+            },
+            {
+              "id": "north-fly-ningerum-24-ningerum-station",
+              "name": "24 - NINGERUM STATION",
+              "registeredVoters": 2341
             }
           ]
         },
@@ -99,61 +331,156 @@
           "electorateSlug": "north-fly",
           "wards": [
             {
-              "id": "olsobip-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3056
+              "id": "north-fly-olsobip-1-bolngong",
+              "name": "1 - BOLNGONG",
+              "registeredVoters": 78
             },
             {
-              "id": "olsobip-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3942
+              "id": "north-fly-olsobip-2-kongabip",
+              "name": "2 - KONGABIP",
+              "registeredVoters": 227
             },
             {
-              "id": "olsobip-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2985
+              "id": "north-fly-olsobip-3-laubip",
+              "name": "3 - LAUBIP",
+              "registeredVoters": 140
             },
             {
-              "id": "olsobip-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2972
+              "id": "north-fly-olsobip-4-imigabip",
+              "name": "4 - IMIGABIP",
+              "registeredVoters": 356
+            },
+            {
+              "id": "north-fly-olsobip-5-tamtem",
+              "name": "5 - TAMTEM",
+              "registeredVoters": 112
+            },
+            {
+              "id": "north-fly-olsobip-6-glogobip",
+              "name": "6 - GLOGOBIP",
+              "registeredVoters": 344
+            },
+            {
+              "id": "north-fly-olsobip-7-bolibip",
+              "name": "7 - BOLIBIP",
+              "registeredVoters": 138
+            },
+            {
+              "id": "north-fly-olsobip-8-darabip",
+              "name": "8 - DARABIP",
+              "registeredVoters": 126
+            },
+            {
+              "id": "north-fly-olsobip-9-duminak",
+              "name": "9 - DUMINAK",
+              "registeredVoters": 253
+            },
+            {
+              "id": "north-fly-olsobip-10-biangabip",
+              "name": "10 - BIANGABIP",
+              "registeredVoters": 362
+            },
+            {
+              "id": "north-fly-olsobip-11-selbang",
+              "name": "11 - SELBANG",
+              "registeredVoters": 275
+            },
+            {
+              "id": "north-fly-olsobip-12-seltamin",
+              "name": "12 - SELTAMIN",
+              "registeredVoters": 241
+            },
+            {
+              "id": "north-fly-olsobip-13-fagobip",
+              "name": "13 - FAGOBIP",
+              "registeredVoters": 124
+            },
+            {
+              "id": "north-fly-olsobip-14-saganabip",
+              "name": "14 - SAGANABIP",
+              "registeredVoters": 216
+            },
+            {
+              "id": "north-fly-olsobip-15-yasap",
+              "name": "15 - YASAP",
+              "registeredVoters": 399
+            },
+            {
+              "id": "north-fly-olsobip-16-dahamo",
+              "name": "16 - DAHAMO",
+              "registeredVoters": 242
             }
           ]
         },
         {
-          "id": "north-fly-star-mountains",
-          "name": "Star Mountains LLG",
+          "id": "north-fly-star-mountain",
+          "name": "Star Mountain LLG",
           "electorateSlug": "north-fly",
           "wards": [
             {
-              "id": "star-mountains-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2003
+              "id": "north-fly-star-mountain-1-atemkit",
+              "name": "1 - ATEMKIT",
+              "registeredVoters": 168
             },
             {
-              "id": "star-mountains-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1547
+              "id": "north-fly-star-mountain-2-kavorabip",
+              "name": "2 - KAVORABIP",
+              "registeredVoters": 271
             },
             {
-              "id": "star-mountains-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3792
+              "id": "north-fly-star-mountain-3-bulterm",
+              "name": "3 - BULTERM",
+              "registeredVoters": 703
             },
             {
-              "id": "star-mountains-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1982
+              "id": "north-fly-star-mountain-4-finanlbin",
+              "name": "4 - FINANLBIN",
+              "registeredVoters": 212
             },
             {
-              "id": "star-mountains-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2499
+              "id": "north-fly-star-mountain-5-wangbin",
+              "name": "5 - WANGBIN",
+              "registeredVoters": 438
             },
             {
-              "id": "star-mountains-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2727
+              "id": "north-fly-star-mountain-6-migalsimbip",
+              "name": "6 - MIGALSIMBIP",
+              "registeredVoters": 574
+            },
+            {
+              "id": "north-fly-star-mountain-7-nioksikwi",
+              "name": "7 - NIOKSIKWI",
+              "registeredVoters": 96
+            },
+            {
+              "id": "north-fly-star-mountain-8-ok-tedi-town",
+              "name": "8 - OK TEDI TOWN",
+              "registeredVoters": 89
+            },
+            {
+              "id": "north-fly-star-mountain-9-kumkit",
+              "name": "9 - KUMKIT",
+              "registeredVoters": 117
+            },
+            {
+              "id": "north-fly-star-mountain-10-ankits",
+              "name": "10 - ANKITS",
+              "registeredVoters": 85
+            },
+            {
+              "id": "north-fly-star-mountain-11-kawemtigin",
+              "name": "11 - KAWEMTIGIN",
+              "registeredVoters": 205
+            },
+            {
+              "id": "north-fly-star-mountain-12-korokit",
+              "name": "12 - KOROKIT",
+              "registeredVoters": 138
+            },
+            {
+              "id": "north-fly-star-mountain-13-tabubil-town",
+              "name": "13 - TABUBIL TOWN",
+              "registeredVoters": 7723
             }
           ]
         }
@@ -163,170 +490,487 @@
       "electorateSlug": "middle-fly",
       "llgs": [
         {
-          "id": "middle-fly-balimo-urban",
-          "name": "Balimo Urban LLG",
+          "id": "middle-fly-bedamuni",
+          "name": "Bedamuni LLG",
           "electorateSlug": "middle-fly",
           "wards": [
             {
-              "id": "balimo-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1392
+              "id": "middle-fly-bedamuni-1-sefolobi",
+              "name": "1 - Sefolobi",
+              "registeredVoters": 258
             },
             {
-              "id": "balimo-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2070
+              "id": "middle-fly-bedamuni-2-adumari",
+              "name": "2 - Adumari",
+              "registeredVoters": 442
             },
             {
-              "id": "balimo-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1681
+              "id": "middle-fly-bedamuni-3-kono-2",
+              "name": "3 - Kono 2",
+              "registeredVoters": 156
             },
             {
-              "id": "balimo-urban-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1967
+              "id": "middle-fly-bedamuni-4-kono-1",
+              "name": "4 - Kono 1",
+              "registeredVoters": 245
             },
             {
-              "id": "balimo-urban-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1421
+              "id": "middle-fly-bedamuni-5-igibia",
+              "name": "5 - Igibia",
+              "registeredVoters": 149
             },
             {
-              "id": "balimo-urban-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1261
+              "id": "middle-fly-bedamuni-6-sedado",
+              "name": "6 - Sedado",
+              "registeredVoters": 40
+            },
+            {
+              "id": "middle-fly-bedamuni-7-gamisi",
+              "name": "7 - Gamisi",
+              "registeredVoters": 76
+            },
+            {
+              "id": "middle-fly-bedamuni-8-wagolobi",
+              "name": "8 - Wagolobi",
+              "registeredVoters": 178
+            },
+            {
+              "id": "middle-fly-bedamuni-9-habi",
+              "name": "9 - Habi",
+              "registeredVoters": 395
+            },
+            {
+              "id": "middle-fly-bedamuni-10-ugulubabi",
+              "name": "10 - Ugulubabi",
+              "registeredVoters": 187
+            },
+            {
+              "id": "middle-fly-bedamuni-11-fuma",
+              "name": "11 - Fuma",
+              "registeredVoters": 705
+            },
+            {
+              "id": "middle-fly-bedamuni-12-banisato",
+              "name": "12 - Banisato",
+              "registeredVoters": 85
+            },
+            {
+              "id": "middle-fly-bedamuni-13-ugubi",
+              "name": "13 - Ugubi",
+              "registeredVoters": 196
+            },
+            {
+              "id": "middle-fly-bedamuni-14-soiya",
+              "name": "14 - Soiya",
+              "registeredVoters": 13
+            },
+            {
+              "id": "middle-fly-bedamuni-15-alowabi",
+              "name": "15 - Alowabi",
+              "registeredVoters": 62
+            },
+            {
+              "id": "middle-fly-bedamuni-16-hafimi",
+              "name": "16 - Hafimi",
+              "registeredVoters": 263
+            },
+            {
+              "id": "middle-fly-bedamuni-17-mabumanibi",
+              "name": "17 - Mabumanibi",
+              "registeredVoters": 41
+            },
+            {
+              "id": "middle-fly-bedamuni-18-igimi",
+              "name": "18 - Igimi",
+              "registeredVoters": 293
+            },
+            {
+              "id": "middle-fly-bedamuni-19-sesemi",
+              "name": "19 - Sesemi",
+              "registeredVoters": 85
+            },
+            {
+              "id": "middle-fly-bedamuni-20-kofabi",
+              "name": "20 - Kofabi",
+              "registeredVoters": 338
+            },
+            {
+              "id": "middle-fly-bedamuni-21-safibi",
+              "name": "21 - Safibi",
+              "registeredVoters": 60
+            },
+            {
+              "id": "middle-fly-bedamuni-22-tigasubi",
+              "name": "22 - Tigasubi",
+              "registeredVoters": 113
+            },
+            {
+              "id": "middle-fly-bedamuni-23-bubusmabi",
+              "name": "23 - Bubusmabi",
+              "registeredVoters": 201
+            },
+            {
+              "id": "middle-fly-bedamuni-24-moungulu-station",
+              "name": "24 - Moungulu Station",
+              "registeredVoters": 87
+            },
+            {
+              "id": "middle-fly-bedamuni-25-obemi",
+              "name": "25 - Obemi",
+              "registeredVoters": 219
             }
           ]
         },
         {
-          "id": "middle-fly-bamu",
-          "name": "Bamu LLG",
+          "id": "middle-fly-fly-zibo",
+          "name": "Fly Zibo LLG",
           "electorateSlug": "middle-fly",
           "wards": [
             {
-              "id": "bamu-w01",
-              "name": "Ward 1",
-              "registeredVoters": 702
+              "id": "middle-fly-fly-zibo-1-lewame",
+              "name": "1 - Lewame",
+              "registeredVoters": 151
             },
             {
-              "id": "bamu-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1056
+              "id": "middle-fly-fly-zibo-2-boikumawa",
+              "name": "2 - Boikumawa",
+              "registeredVoters": 239
             },
             {
-              "id": "bamu-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1245
+              "id": "middle-fly-fly-zibo-3-kaviananga",
+              "name": "3 - Kaviananga",
+              "registeredVoters": 1376
             },
             {
-              "id": "bamu-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1151
+              "id": "middle-fly-fly-zibo-4-komavai",
+              "name": "4 - Komavai",
+              "registeredVoters": 261
             },
             {
-              "id": "bamu-w05",
-              "name": "Ward 5",
+              "id": "middle-fly-fly-zibo-5-wangawanga",
+              "name": "5 - Wangawanga",
+              "registeredVoters": 616
+            },
+            {
+              "id": "middle-fly-fly-zibo-6-boset",
+              "name": "6 - Boset",
               "registeredVoters": 682
             },
             {
-              "id": "bamu-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1438
+              "id": "middle-fly-fly-zibo-7-manda",
+              "name": "7 - Manda",
+              "registeredVoters": 412
             },
             {
-              "id": "bamu-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1335
+              "id": "middle-fly-fly-zibo-8-mipan",
+              "name": "8 - Mipan",
+              "registeredVoters": 364
             },
             {
-              "id": "bamu-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1088
-            },
-            {
-              "id": "bamu-w09",
-              "name": "Ward 9",
-              "registeredVoters": 808
-            },
-            {
-              "id": "bamu-w10",
-              "name": "Ward 10",
-              "registeredVoters": 811
+              "id": "middle-fly-fly-zibo-9-kuem",
+              "name": "9 - Kuem",
+              "registeredVoters": 242
             }
           ]
         },
         {
-          "id": "middle-fly-gogodala",
-          "name": "Gogodala LLG",
+          "id": "middle-fly-lake-murray",
+          "name": "Lake Murray LLG",
           "electorateSlug": "middle-fly",
           "wards": [
             {
-              "id": "gogodala-w01",
-              "name": "Ward 1",
-              "registeredVoters": 907
+              "id": "middle-fly-lake-murray-1-upova",
+              "name": "1 - Upova",
+              "registeredVoters": 149
             },
             {
-              "id": "gogodala-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1685
+              "id": "middle-fly-lake-murray-2-buseki",
+              "name": "2 - Buseki",
+              "registeredVoters": 71
             },
             {
-              "id": "gogodala-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1113
+              "id": "middle-fly-lake-murray-3-nago",
+              "name": "3 - Nago",
+              "registeredVoters": 206
             },
             {
-              "id": "gogodala-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1049
+              "id": "middle-fly-lake-murray-4-boimbalavu",
+              "name": "4 - Boimbalavu",
+              "registeredVoters": 218
             },
             {
-              "id": "gogodala-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1632
+              "id": "middle-fly-lake-murray-5-maka",
+              "name": "5 - Maka",
+              "registeredVoters": 178
             },
             {
-              "id": "gogodala-w06",
-              "name": "Ward 6",
-              "registeredVoters": 819
+              "id": "middle-fly-lake-murray-6-magipopo",
+              "name": "6 - Magipopo",
+              "registeredVoters": 143
             },
             {
-              "id": "gogodala-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1119
+              "id": "middle-fly-lake-murray-7-usukof",
+              "name": "7 - Usukof",
+              "registeredVoters": 509
             },
             {
-              "id": "gogodala-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1402
+              "id": "middle-fly-lake-murray-8-kapikam",
+              "name": "8 - Kapikam",
+              "registeredVoters": 296
             },
             {
-              "id": "gogodala-w09",
-              "name": "Ward 9",
-              "registeredVoters": 939
+              "id": "middle-fly-lake-murray-9-dimu",
+              "name": "9 - Dimu",
+              "registeredVoters": 274
+            },
+            {
+              "id": "middle-fly-lake-murray-10-pangoa",
+              "name": "10 - Pangoa",
+              "registeredVoters": 146
+            },
+            {
+              "id": "middle-fly-lake-murray-11-lake-murray-station",
+              "name": "11 - Lake Murray Station",
+              "registeredVoters": 752
+            },
+            {
+              "id": "middle-fly-lake-murray-12-tagum",
+              "name": "12 - Tagum",
+              "registeredVoters": 204
+            },
+            {
+              "id": "middle-fly-lake-murray-13-miwa",
+              "name": "13 - Miwa",
+              "registeredVoters": 823
+            },
+            {
+              "id": "middle-fly-lake-murray-14-kusikina",
+              "name": "14 - Kusikina",
+              "registeredVoters": 410
             }
           ]
         },
         {
-          "id": "middle-fly-suki-fly-delta",
-          "name": "Suki-Fly Delta LLG",
+          "id": "middle-fly-nomad",
+          "name": "Nomad LLG",
           "electorateSlug": "middle-fly",
           "wards": [
             {
-              "id": "suki-fly-delta-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2190
+              "id": "middle-fly-nomad-1-wasubi",
+              "name": "1 - Wasubi",
+              "registeredVoters": 192
             },
             {
-              "id": "suki-fly-delta-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3311
+              "id": "middle-fly-nomad-2-hanomasebi",
+              "name": "2 - Hanomasebi",
+              "registeredVoters": 131
             },
             {
-              "id": "suki-fly-delta-w03",
-              "name": "Ward 3",
-              "registeredVoters": 5024
+              "id": "middle-fly-nomad-3-defolomosom",
+              "name": "3 - Defolomosom",
+              "registeredVoters": 41
+            },
+            {
+              "id": "middle-fly-nomad-4-yulabi",
+              "name": "4 - Yulabi",
+              "registeredVoters": 168
+            },
+            {
+              "id": "middle-fly-nomad-5-alowobi",
+              "name": "5 - Alowobi",
+              "registeredVoters": 19
+            },
+            {
+              "id": "middle-fly-nomad-6-dadalibi",
+              "name": "6 - Dadalibi",
+              "registeredVoters": 48
+            },
+            {
+              "id": "middle-fly-nomad-7-hesalibi",
+              "name": "7 - Hesalibi",
+              "registeredVoters": 39
+            },
+            {
+              "id": "middle-fly-nomad-8-honabi",
+              "name": "8 - Honabi",
+              "registeredVoters": 91
+            },
+            {
+              "id": "middle-fly-nomad-9-undugomi",
+              "name": "9 - Undugomi",
+              "registeredVoters": 42
+            },
+            {
+              "id": "middle-fly-nomad-10-kukudobi",
+              "name": "10 - Kukudobi",
+              "registeredVoters": 109
+            },
+            {
+              "id": "middle-fly-nomad-11-gasumi",
+              "name": "11 - Gasumi",
+              "registeredVoters": 13
+            },
+            {
+              "id": "middle-fly-nomad-12-sokabi",
+              "name": "12 - Sokabi",
+              "registeredVoters": 145
+            },
+            {
+              "id": "middle-fly-nomad-13-sirigubi",
+              "name": "13 - Sirigubi",
+              "registeredVoters": 148
+            },
+            {
+              "id": "middle-fly-nomad-14-testabi",
+              "name": "14 - Testabi",
+              "registeredVoters": 176
+            },
+            {
+              "id": "middle-fly-nomad-15-giwobi",
+              "name": "15 - Giwobi",
+              "registeredVoters": 25
+            },
+            {
+              "id": "middle-fly-nomad-16-kwobi",
+              "name": "16 - Kwobi",
+              "registeredVoters": 181
+            },
+            {
+              "id": "middle-fly-nomad-17-honenabi",
+              "name": "17 - Honenabi",
+              "registeredVoters": 55
+            },
+            {
+              "id": "middle-fly-nomad-18-sodiobi",
+              "name": "18 - Sodiobi",
+              "registeredVoters": 93
+            },
+            {
+              "id": "middle-fly-nomad-19-tliliyaibi",
+              "name": "19 - Tliliyaibi",
+              "registeredVoters": 82
+            },
+            {
+              "id": "middle-fly-nomad-20-wambi",
+              "name": "20 - Wambi",
+              "registeredVoters": 120
+            },
+            {
+              "id": "middle-fly-nomad-21-sosoiyebi",
+              "name": "21 - Sosoiyebi",
+              "registeredVoters": 13
+            },
+            {
+              "id": "middle-fly-nomad-22-ayedubi",
+              "name": "22 - Ayedubi",
+              "registeredVoters": 13
+            },
+            {
+              "id": "middle-fly-nomad-23-tinahae",
+              "name": "23 - Tinahae",
+              "registeredVoters": 16
+            },
+            {
+              "id": "middle-fly-nomad-24-bulogo",
+              "name": "24 - Bulogo",
+              "registeredVoters": 16
+            },
+            {
+              "id": "middle-fly-nomad-25-tobi",
+              "name": "25 - Tobi",
+              "registeredVoters": 5
+            },
+            {
+              "id": "middle-fly-nomad-26-juha",
+              "name": "26 - Juha",
+              "registeredVoters": 62
+            },
+            {
+              "id": "middle-fly-nomad-27-suabi",
+              "name": "27 - Suabi",
+              "registeredVoters": 226
+            },
+            {
+              "id": "middle-fly-nomad-28-nomad-station",
+              "name": "28 - Nomad Station",
+              "registeredVoters": 188
+            }
+          ]
+        },
+        {
+          "id": "middle-fly-pa-a",
+          "name": "Pa'A LLG",
+          "electorateSlug": "middle-fly",
+          "wards": [
+            {
+              "id": "middle-fly-pa-a-1-igeibira",
+              "name": "1 - Igeibira",
+              "registeredVoters": 133
+            },
+            {
+              "id": "middle-fly-pa-a-2-desina",
+              "name": "2 - Desina",
+              "registeredVoters": 46
+            },
+            {
+              "id": "middle-fly-pa-a-3-beledina",
+              "name": "3 - Beledina",
+              "registeredVoters": 168
+            },
+            {
+              "id": "middle-fly-pa-a-4-debolola",
+              "name": "4 - Debolola",
+              "registeredVoters": 30
+            },
+            {
+              "id": "middle-fly-pa-a-5-yavo",
+              "name": "5 - Yavo",
+              "registeredVoters": 67
+            },
+            {
+              "id": "middle-fly-pa-a-6-gabuo",
+              "name": "6 - Gabuo",
+              "registeredVoters": 13
+            },
+            {
+              "id": "middle-fly-pa-a-7-kuda",
+              "name": "7 - Kuda",
+              "registeredVoters": 147
+            },
+            {
+              "id": "middle-fly-pa-a-8-debapari",
+              "name": "8 - Debapari",
+              "registeredVoters": 121
+            },
+            {
+              "id": "middle-fly-pa-a-9-yorks",
+              "name": "9 - Yorks",
+              "registeredVoters": 64
+            },
+            {
+              "id": "middle-fly-pa-a-10-yomora",
+              "name": "10 - Yomora",
+              "registeredVoters": 90
+            },
+            {
+              "id": "middle-fly-pa-a-11-wakiana",
+              "name": "11 - Wakiana",
+              "registeredVoters": 164
+            },
+            {
+              "id": "middle-fly-pa-a-12-pipila",
+              "name": "12 - Pipila",
+              "registeredVoters": 85
+            },
+            {
+              "id": "middle-fly-pa-a-13-tegena",
+              "name": "13 - Tegena",
+              "registeredVoters": 124
+            },
+            {
+              "id": "middle-fly-pa-a-14-tehina",
+              "name": "14 - Tehina",
+              "registeredVoters": 25
             }
           ]
         }
@@ -341,108 +985,208 @@
           "electorateSlug": "south-fly",
           "wards": [
             {
-              "id": "daru-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2276
+              "id": "south-fly-daru-urban-1-darowaro",
+              "name": "1 - DAROWARO",
+              "registeredVoters": 1513
             },
             {
-              "id": "daru-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1940
+              "id": "south-fly-daru-urban-2-iaru",
+              "name": "2 - IARU",
+              "registeredVoters": 2101
             },
             {
-              "id": "daru-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1696
+              "id": "south-fly-daru-urban-3-tamati",
+              "name": "3 - TAMATI",
+              "registeredVoters": 2382
             },
             {
-              "id": "daru-urban-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1668
-            },
-            {
-              "id": "daru-urban-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1291
-            },
-            {
-              "id": "daru-urban-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1504
+              "id": "south-fly-daru-urban-4-karakara",
+              "name": "4 - KARAKARA",
+              "registeredVoters": 2068
             }
           ]
         },
         {
-          "id": "south-fly-kiwai",
-          "name": "Kiwai LLG",
+          "id": "south-fly-fly-kiwai",
+          "name": "Fly Kiwai LLG",
           "electorateSlug": "south-fly",
           "wards": [
             {
-              "id": "kiwai-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1221
+              "id": "south-fly-fly-kiwai-1-sewirimabu",
+              "name": "1 - SEWIRIMABU",
+              "registeredVoters": 473
             },
             {
-              "id": "kiwai-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1418
+              "id": "south-fly-fly-kiwai-2-koabu",
+              "name": "2 - KOABU",
+              "registeredVoters": 367
             },
             {
-              "id": "kiwai-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1252
+              "id": "south-fly-fly-kiwai-3-madame",
+              "name": "3 - MADAME",
+              "registeredVoters": 200
             },
             {
-              "id": "kiwai-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1011
+              "id": "south-fly-fly-kiwai-4-wederehiamo",
+              "name": "4 - WEDEREHIAMO",
+              "registeredVoters": 227
             },
             {
-              "id": "kiwai-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1217
+              "id": "south-fly-fly-kiwai-5-sepe",
+              "name": "5 - SEPE",
+              "registeredVoters": 162
             },
             {
-              "id": "kiwai-w06",
-              "name": "Ward 6",
-              "registeredVoters": 772
+              "id": "south-fly-fly-kiwai-6-kubira",
+              "name": "6 - KUBIRA",
+              "registeredVoters": 232
             },
             {
-              "id": "kiwai-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1568
+              "id": "south-fly-fly-kiwai-7-iasa",
+              "name": "7 - IASA",
+              "registeredVoters": 144
             },
             {
-              "id": "kiwai-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1239
+              "id": "south-fly-fly-kiwai-8-samari",
+              "name": "8 - SAMARI",
+              "registeredVoters": 316
             },
             {
-              "id": "kiwai-w09",
-              "name": "Ward 9",
-              "registeredVoters": 734
+              "id": "south-fly-fly-kiwai-9-ipisa",
+              "name": "9 - IPISA",
+              "registeredVoters": 133
+            },
+            {
+              "id": "south-fly-fly-kiwai-10-sagasia",
+              "name": "10 - SAGASIA",
+              "registeredVoters": 157
+            },
+            {
+              "id": "south-fly-fly-kiwai-11-u-uwo",
+              "name": "11 - U’UWO",
+              "registeredVoters": 311
+            },
+            {
+              "id": "south-fly-fly-kiwai-12-wapi",
+              "name": "12 - WAPI",
+              "registeredVoters": 343
+            },
+            {
+              "id": "south-fly-fly-kiwai-13-wabada",
+              "name": "13 - WABADA",
+              "registeredVoters": 379
+            },
+            {
+              "id": "south-fly-fly-kiwai-14-maipani",
+              "name": "14 - MAIPANI",
+              "registeredVoters": 422
+            },
+            {
+              "id": "south-fly-fly-kiwai-15-tire-ere",
+              "name": "15 - TIRE’ERE",
+              "registeredVoters": 526
+            },
+            {
+              "id": "south-fly-fly-kiwai-16-sagero",
+              "name": "16 - SAGERO",
+              "registeredVoters": 259
+            },
+            {
+              "id": "south-fly-fly-kiwai-17-maduduo",
+              "name": "17 - MADUDUO",
+              "registeredVoters": 254
+            },
+            {
+              "id": "south-fly-fly-kiwai-18-wariobodoro",
+              "name": "18 - WARIOBODORO",
+              "registeredVoters": 497
+            },
+            {
+              "id": "south-fly-fly-kiwai-19-arato",
+              "name": "19 - ARATO",
+              "registeredVoters": 225
+            },
+            {
+              "id": "south-fly-fly-kiwai-20-keneme",
+              "name": "20 - KENEME",
+              "registeredVoters": 235
+            },
+            {
+              "id": "south-fly-fly-kiwai-21-aberegerema",
+              "name": "21 - ABEREGEREMA",
+              "registeredVoters": 590
+            },
+            {
+              "id": "south-fly-fly-kiwai-22-doumori",
+              "name": "22 - DOUMORI",
+              "registeredVoters": 415
             }
           ]
         },
         {
-          "id": "south-fly-oriomo",
-          "name": "Oriomo LLG",
+          "id": "south-fly-fore-coast-kiwai",
+          "name": "Fore-Coast Kiwai LLG",
           "electorateSlug": "south-fly",
           "wards": [
             {
-              "id": "oriomo-w01",
-              "name": "Ward 1",
-              "registeredVoters": 5274
+              "id": "south-fly-fore-coast-kiwai-1-sui",
+              "name": "1 - SUI",
+              "registeredVoters": 400
             },
             {
-              "id": "oriomo-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2370
+              "id": "south-fly-fore-coast-kiwai-2-parama",
+              "name": "2 - PARAMA",
+              "registeredVoters": 374
             },
             {
-              "id": "oriomo-w03",
-              "name": "Ward 3",
-              "registeredVoters": 4970
+              "id": "south-fly-fore-coast-kiwai-3-katatai",
+              "name": "3 - KATATAI",
+              "registeredVoters": 246
+            },
+            {
+              "id": "south-fly-fore-coast-kiwai-4-kadawa",
+              "name": "4 - KADAWA",
+              "registeredVoters": 400
+            },
+            {
+              "id": "south-fly-fore-coast-kiwai-5-tureture",
+              "name": "5 - TURETURE",
+              "registeredVoters": 300
+            },
+            {
+              "id": "south-fly-fore-coast-kiwai-6-mawoto",
+              "name": "6 - MAWOTO",
+              "registeredVoters": 130
+            },
+            {
+              "id": "south-fly-fore-coast-kiwai-7-kori",
+              "name": "7 - KORI",
+              "registeredVoters": 354
+            },
+            {
+              "id": "south-fly-fore-coast-kiwai-8-mabudawan",
+              "name": "8 - MABUDAWAN",
+              "registeredVoters": 610
+            },
+            {
+              "id": "south-fly-fore-coast-kiwai-9-sigabaduru",
+              "name": "9 - SIGABADURU",
+              "registeredVoters": 312
+            },
+            {
+              "id": "south-fly-fore-coast-kiwai-10-buzi",
+              "name": "10 - BUZI",
+              "registeredVoters": 292
+            },
+            {
+              "id": "south-fly-fore-coast-kiwai-11-mari",
+              "name": "11 - MARI",
+              "registeredVoters": 285
+            },
+            {
+              "id": "south-fly-fore-coast-kiwai-12-bula",
+              "name": "12 - BULA",
+              "registeredVoters": 236
             }
           ]
         },
@@ -452,24 +1196,241 @@
           "electorateSlug": "south-fly",
           "wards": [
             {
-              "id": "morehead-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3519
+              "id": "south-fly-morehead-1-weranere",
+              "name": "1 - WERANERE",
+              "registeredVoters": 220
             },
             {
-              "id": "morehead-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3185
+              "id": "south-fly-morehead-2-wemnevere",
+              "name": "2 - WEMNEVERE",
+              "registeredVoters": 326
             },
             {
-              "id": "morehead-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2100
+              "id": "south-fly-morehead-3-mibini",
+              "name": "3 - MIBINI",
+              "registeredVoters": 189
             },
             {
-              "id": "morehead-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3071
+              "id": "south-fly-morehead-4-garaita",
+              "name": "4 - GARAITA",
+              "registeredVoters": 582
+            },
+            {
+              "id": "south-fly-morehead-5-pongariki",
+              "name": "5 - PONGARIKI",
+              "registeredVoters": 354
+            },
+            {
+              "id": "south-fly-morehead-6-dimisisi",
+              "name": "6 - DIMISISI",
+              "registeredVoters": 347
+            },
+            {
+              "id": "south-fly-morehead-7-sibidiri",
+              "name": "7 - SIBIDIRI",
+              "registeredVoters": 301
+            },
+            {
+              "id": "south-fly-morehead-8-limol",
+              "name": "8 - LIMOL",
+              "registeredVoters": 269
+            },
+            {
+              "id": "south-fly-morehead-9-keru",
+              "name": "9 - KERU",
+              "registeredVoters": 690
+            },
+            {
+              "id": "south-fly-morehead-10-pukaduka",
+              "name": "10 - PUKADUKA",
+              "registeredVoters": 1184
+            },
+            {
+              "id": "south-fly-morehead-11-kiriwo",
+              "name": "11 - KIRIWO",
+              "registeredVoters": 345
+            },
+            {
+              "id": "south-fly-morehead-12-aiwe",
+              "name": "12 - AIWE",
+              "registeredVoters": 501
+            },
+            {
+              "id": "south-fly-morehead-13-wanide",
+              "name": "13 - WANIDE",
+              "registeredVoters": 279
+            },
+            {
+              "id": "south-fly-morehead-14-kandarisa",
+              "name": "14 - KANDARISA",
+              "registeredVoters": 211
+            },
+            {
+              "id": "south-fly-morehead-15-rouku",
+              "name": "15 - ROUKU",
+              "registeredVoters": 293
+            },
+            {
+              "id": "south-fly-morehead-16-morehead-station",
+              "name": "16 - MOREHEAD STATION",
+              "registeredVoters": 146
+            },
+            {
+              "id": "south-fly-morehead-17-bebedebban",
+              "name": "17 - BEBEDEBBAN",
+              "registeredVoters": 338
+            },
+            {
+              "id": "south-fly-morehead-18-aniawa",
+              "name": "18 - ANIAWA",
+              "registeredVoters": 491
+            },
+            {
+              "id": "south-fly-morehead-19-kautru",
+              "name": "19 - KAUTRU",
+              "registeredVoters": 499
+            },
+            {
+              "id": "south-fly-morehead-20-kondobo",
+              "name": "20 - KONDOBO",
+              "registeredVoters": 369
+            },
+            {
+              "id": "south-fly-morehead-21-malam",
+              "name": "21 - MALAM",
+              "registeredVoters": 338
+            }
+          ]
+        },
+        {
+          "id": "south-fly-oriomo-buturi",
+          "name": "Oriomo-Buturi LLG",
+          "electorateSlug": "south-fly",
+          "wards": [
+            {
+              "id": "south-fly-oriomo-buturi-1-dorogori",
+              "name": "1 - DOROGORI",
+              "registeredVoters": 297
+            },
+            {
+              "id": "south-fly-oriomo-buturi-2-wuroi",
+              "name": "2 - WUROI",
+              "registeredVoters": 176
+            },
+            {
+              "id": "south-fly-oriomo-buturi-3-wonie",
+              "name": "3 - WONIE",
+              "registeredVoters": 198
+            },
+            {
+              "id": "south-fly-oriomo-buturi-4-iamega",
+              "name": "4 - IAMEGA",
+              "registeredVoters": 174
+            },
+            {
+              "id": "south-fly-oriomo-buturi-5-wipim",
+              "name": "5 - WIPIM",
+              "registeredVoters": 282
+            },
+            {
+              "id": "south-fly-oriomo-buturi-6-gamaeve",
+              "name": "6 - GAMAEVE",
+              "registeredVoters": 99
+            },
+            {
+              "id": "south-fly-oriomo-buturi-7-tewara",
+              "name": "7 - TEWARA",
+              "registeredVoters": 302
+            },
+            {
+              "id": "south-fly-oriomo-buturi-8-kapal",
+              "name": "8 - KAPAL",
+              "registeredVoters": 155
+            },
+            {
+              "id": "south-fly-oriomo-buturi-9-upiara",
+              "name": "9 - UPIARA",
+              "registeredVoters": 235
+            },
+            {
+              "id": "south-fly-oriomo-buturi-10-giringarede",
+              "name": "10 - GIRINGAREDE",
+              "registeredVoters": 228
+            },
+            {
+              "id": "south-fly-oriomo-buturi-11-u-ume",
+              "name": "11 - U’UME",
+              "registeredVoters": 233
+            },
+            {
+              "id": "south-fly-oriomo-buturi-12-masingara",
+              "name": "12 - MASINGARA",
+              "registeredVoters": 361
+            },
+            {
+              "id": "south-fly-oriomo-buturi-13-kunini",
+              "name": "13 - KUNINI",
+              "registeredVoters": 176
+            },
+            {
+              "id": "south-fly-oriomo-buturi-14-irupi",
+              "name": "14 - IRUPI",
+              "registeredVoters": 344
+            },
+            {
+              "id": "south-fly-oriomo-buturi-15-waidoro",
+              "name": "15 - WAIDORO",
+              "registeredVoters": 336
+            },
+            {
+              "id": "south-fly-oriomo-buturi-16-kulalai",
+              "name": "16 - KULALAI",
+              "registeredVoters": 352
+            },
+            {
+              "id": "south-fly-oriomo-buturi-17-wamorong",
+              "name": "17 - WAMORONG",
+              "registeredVoters": 322
+            },
+            {
+              "id": "south-fly-oriomo-buturi-18-sebe",
+              "name": "18 - SEBE",
+              "registeredVoters": 242
+            },
+            {
+              "id": "south-fly-oriomo-buturi-19-wim",
+              "name": "19 - WIM",
+              "registeredVoters": 264
+            },
+            {
+              "id": "south-fly-oriomo-buturi-20-sogale",
+              "name": "20 - SOGALE",
+              "registeredVoters": 157
+            },
+            {
+              "id": "south-fly-oriomo-buturi-21-kurunti",
+              "name": "21 - KURUNTI",
+              "registeredVoters": 171
+            },
+            {
+              "id": "south-fly-oriomo-buturi-22-abam",
+              "name": "22 - ABAM",
+              "registeredVoters": 351
+            },
+            {
+              "id": "south-fly-oriomo-buturi-23-boze",
+              "name": "23 - BOZE",
+              "registeredVoters": 238
+            },
+            {
+              "id": "south-fly-oriomo-buturi-24-bisuaka",
+              "name": "24 - BISUAKA",
+              "registeredVoters": 111
+            },
+            {
+              "id": "south-fly-oriomo-buturi-25-podare",
+              "name": "25 - PODARE",
+              "registeredVoters": 227
             }
           ]
         }
@@ -479,138 +1440,674 @@
       "electorateSlug": "delta-fly",
       "llgs": [
         {
-          "id": "delta-fly-wawoi-falls",
-          "name": "Wawoi Falls LLG",
+          "id": "delta-fly-aramia-gogodala",
+          "name": "Aramia Gogodala LLG",
           "electorateSlug": "delta-fly",
           "wards": [
             {
-              "id": "wawoi-falls-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2430
+              "id": "delta-fly-aramia-gogodala-1-ali",
+              "name": "1 - ALI",
+              "registeredVoters": 367
             },
             {
-              "id": "wawoi-falls-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1351
+              "id": "delta-fly-aramia-gogodala-2-kaibako",
+              "name": "2 - KAIBAKO",
+              "registeredVoters": 326
             },
             {
-              "id": "wawoi-falls-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1706
+              "id": "delta-fly-aramia-gogodala-3-bogola",
+              "name": "3 - BOGOLA",
+              "registeredVoters": 166
             },
             {
-              "id": "wawoi-falls-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1804
+              "id": "delta-fly-aramia-gogodala-4-makapa",
+              "name": "4 - MAKAPA",
+              "registeredVoters": 818
             },
             {
-              "id": "wawoi-falls-w05",
-              "name": "Ward 5",
-              "registeredVoters": 3825
+              "id": "delta-fly-aramia-gogodala-5-kaniya",
+              "name": "5 - KANIYA",
+              "registeredVoters": 424
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-6-wasapea",
+              "name": "6 - WASAPEA",
+              "registeredVoters": 146
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-7-saweta",
+              "name": "7 - SAWETA",
+              "registeredVoters": 235
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-8-isago",
+              "name": "8 - ISAGO",
+              "registeredVoters": 468
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-9-pikiwa",
+              "name": "9 - PIKIWA",
+              "registeredVoters": 533
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-10-semabo",
+              "name": "10 - SEMABO",
+              "registeredVoters": 257
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-11-pisi",
+              "name": "11 - PISI",
+              "registeredVoters": 611
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-12-awaba",
+              "name": "12 - AWABA",
+              "registeredVoters": 289
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-13-samaki",
+              "name": "13 - SAMAKI",
+              "registeredVoters": 163
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-14-widama-dadi",
+              "name": "14 - WIDAMA (DADI)",
+              "registeredVoters": 398
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-15-aketa",
+              "name": "15 - AKETA",
+              "registeredVoters": 501
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-16-kawito",
+              "name": "16 - KAWITO",
+              "registeredVoters": 67
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-17-togowa-ike",
+              "name": "17 - TOGOWA (IKE)",
+              "registeredVoters": 354
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-18-yau",
+              "name": "18 - YAU",
+              "registeredVoters": 400
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-19-mirawa",
+              "name": "19 - MIRAWA",
+              "registeredVoters": 75
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-20-ago",
+              "name": "20 - AGO",
+              "registeredVoters": 717
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-21-alibi",
+              "name": "21 - ALIBI",
+              "registeredVoters": 473
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-22-dogono",
+              "name": "22 - DOGONO",
+              "registeredVoters": 462
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-23-tai",
+              "name": "23 - TAI",
+              "registeredVoters": 279
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-24-kotale",
+              "name": "24 - KOTALE",
+              "registeredVoters": 471
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-25-kewa",
+              "name": "25 - KEWA",
+              "registeredVoters": 456
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-26-wagaduba-kini",
+              "name": "26 - WAGADUBA (KINI)",
+              "registeredVoters": 296
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-27-waligi",
+              "name": "27 - WALIGI",
+              "registeredVoters": 525
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-28-kimama",
+              "name": "28 - KIMAMA",
+              "registeredVoters": 1314
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-29-uladu",
+              "name": "29 - ULADU",
+              "registeredVoters": 368
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-30-bamustu",
+              "name": "30 - BAMUSTU",
+              "registeredVoters": 331
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-31-kala",
+              "name": "31 - KALA",
+              "registeredVoters": 155
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-32-wakesaba",
+              "name": "32 - WAKESABA",
+              "registeredVoters": 47
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-33-ugu",
+              "name": "33 - UGU",
+              "registeredVoters": 201
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-34-madila",
+              "name": "34 - MADILA",
+              "registeredVoters": 193
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-35-kebane",
+              "name": "35 - KEBANE",
+              "registeredVoters": 144
+            },
+            {
+              "id": "delta-fly-aramia-gogodala-36-kaenewa",
+              "name": "36 - KAENEWA",
+              "registeredVoters": 284
             }
           ]
         },
         {
-          "id": "delta-fly-bamu-south",
-          "name": "Bamu South LLG",
+          "id": "delta-fly-balimo-urban",
+          "name": "Balimo Urban LLG",
           "electorateSlug": "delta-fly",
           "wards": [
             {
-              "id": "bamu-south-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1558
+              "id": "delta-fly-balimo-urban-1-wasaeya-odalo",
+              "name": "1 - WASAEYA/ODALO",
+              "registeredVoters": 391
             },
             {
-              "id": "bamu-south-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1621
+              "id": "delta-fly-balimo-urban-2-owa",
+              "name": "2 - OWA",
+              "registeredVoters": 777
             },
             {
-              "id": "bamu-south-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1110
+              "id": "delta-fly-balimo-urban-3-ulukuku",
+              "name": "3 - ULUKUKU",
+              "registeredVoters": 286
             },
             {
-              "id": "bamu-south-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1092
+              "id": "delta-fly-balimo-urban-4-page",
+              "name": "4 - PAGE",
+              "registeredVoters": 263
             },
             {
-              "id": "bamu-south-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1577
+              "id": "delta-fly-balimo-urban-5-igida",
+              "name": "5 - IGIDA",
+              "registeredVoters": 216
             },
             {
-              "id": "bamu-south-w06",
-              "name": "Ward 6",
-              "registeredVoters": 673
-            },
-            {
-              "id": "bamu-south-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1237
-            },
-            {
-              "id": "bamu-south-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1416
-            },
-            {
-              "id": "bamu-south-w09",
-              "name": "Ward 9",
-              "registeredVoters": 722
-            },
-            {
-              "id": "bamu-south-w10",
-              "name": "Ward 10",
-              "registeredVoters": 1326
+              "id": "delta-fly-balimo-urban-6-eno-bayase",
+              "name": "6 - ENO (BAYASE)",
+              "registeredVoters": 250
             }
           ]
         },
         {
-          "id": "delta-fly-lake-murray",
-          "name": "Lake Murray LLG",
+          "id": "delta-fly-bamu",
+          "name": "Bamu LLG",
           "electorateSlug": "delta-fly",
           "wards": [
             {
-              "id": "lake-murray-w01",
-              "name": "Ward 1",
-              "registeredVoters": 926
+              "id": "delta-fly-bamu-1-emeti-govt-station",
+              "name": "1 - Emeti Govt. Station",
+              "registeredVoters": 174
             },
             {
-              "id": "lake-murray-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1520
+              "id": "delta-fly-bamu-2-iowa",
+              "name": "2 - Iowa",
+              "registeredVoters": 243
             },
             {
-              "id": "lake-murray-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1096
+              "id": "delta-fly-bamu-3-miruwo",
+              "name": "3 - Miruwo",
+              "registeredVoters": 302
             },
             {
-              "id": "lake-murray-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1330
+              "id": "delta-fly-bamu-4-sogere",
+              "name": "4 - Sogere",
+              "registeredVoters": 73
             },
             {
-              "id": "lake-murray-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1622
+              "id": "delta-fly-bamu-5-wakau",
+              "name": "5 - Wakau",
+              "registeredVoters": 166
             },
             {
-              "id": "lake-murray-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2168
+              "id": "delta-fly-bamu-6-bina",
+              "name": "6 - Bina",
+              "registeredVoters": 55
             },
             {
-              "id": "lake-murray-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1392
+              "id": "delta-fly-bamu-7-bina-2",
+              "name": "7 - Bina 2",
+              "registeredVoters": 185
             },
             {
-              "id": "lake-murray-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1880
+              "id": "delta-fly-bamu-8-oropai",
+              "name": "8 - Oropai",
+              "registeredVoters": 87
+            },
+            {
+              "id": "delta-fly-bamu-9-wario",
+              "name": "9 - Wario",
+              "registeredVoters": 55
+            },
+            {
+              "id": "delta-fly-bamu-10-sisiami-1",
+              "name": "10 - Sisiami 1",
+              "registeredVoters": 172
+            },
+            {
+              "id": "delta-fly-bamu-11-sisiami-2",
+              "name": "11 - Sisiami 2",
+              "registeredVoters": 96
+            },
+            {
+              "id": "delta-fly-bamu-12-torobina",
+              "name": "12 - Torobina",
+              "registeredVoters": 229
+            },
+            {
+              "id": "delta-fly-bamu-13-aniadai",
+              "name": "13 - Aniadai",
+              "registeredVoters": 107
+            },
+            {
+              "id": "delta-fly-bamu-14-bamio",
+              "name": "14 - Bamio",
+              "registeredVoters": 181
+            },
+            {
+              "id": "delta-fly-bamu-15-upati",
+              "name": "15 - Upati",
+              "registeredVoters": 119
+            },
+            {
+              "id": "delta-fly-bamu-16-buingi",
+              "name": "16 - Buingi",
+              "registeredVoters": 125
+            },
+            {
+              "id": "delta-fly-bamu-17-pirupiru-1-darawi",
+              "name": "17 - Pirupiru 1/Darawi",
+              "registeredVoters": 131
+            },
+            {
+              "id": "delta-fly-bamu-18-pirupiru-2-sibara",
+              "name": "18 - Pirupiru 2/Sibara",
+              "registeredVoters": 135
+            },
+            {
+              "id": "delta-fly-bamu-19-airuwa-binouri",
+              "name": "19 - Airuwa Binouri",
+              "registeredVoters": 45
+            },
+            {
+              "id": "delta-fly-bamu-20-nemeti",
+              "name": "20 - Nemeti",
+              "registeredVoters": 98
+            },
+            {
+              "id": "delta-fly-bamu-21-ibuo",
+              "name": "21 - Ibuo",
+              "registeredVoters": 300
+            },
+            {
+              "id": "delta-fly-bamu-22-gamai-mapoia",
+              "name": "22 - Gamai Mapoia",
+              "registeredVoters": 73
+            },
+            {
+              "id": "delta-fly-bamu-23-ukusi",
+              "name": "23 - Ukusi",
+              "registeredVoters": 70
+            }
+          ]
+        },
+        {
+          "id": "delta-fly-fly-gogodala",
+          "name": "Fly Gogodala LLG",
+          "electorateSlug": "delta-fly",
+          "wards": [
+            {
+              "id": "delta-fly-fly-gogodala-1-waliyama",
+              "name": "1 - Waliyama",
+              "registeredVoters": 228
+            },
+            {
+              "id": "delta-fly-fly-gogodala-2-kawiyapo",
+              "name": "2 - Kawiyapo",
+              "registeredVoters": 313
+            },
+            {
+              "id": "delta-fly-fly-gogodala-3-alibi",
+              "name": "3 - Alibi",
+              "registeredVoters": 214
+            },
+            {
+              "id": "delta-fly-fly-gogodala-4-awi-gaima-old-patrol-post",
+              "name": "4 - Awi (Gaima) Old Patrol Post",
+              "registeredVoters": 49
+            },
+            {
+              "id": "delta-fly-fly-gogodala-5-pagona",
+              "name": "5 - Pagona",
+              "registeredVoters": 429
+            },
+            {
+              "id": "delta-fly-fly-gogodala-6-konedobo",
+              "name": "6 - Konedobo",
+              "registeredVoters": 173
+            },
+            {
+              "id": "delta-fly-fly-gogodala-7-padaeya",
+              "name": "7 - Padaeya",
+              "registeredVoters": 287
+            },
+            {
+              "id": "delta-fly-fly-gogodala-8-kelogwa-kubu",
+              "name": "8 - Kelogwa (Kubu)",
+              "registeredVoters": 189
+            },
+            {
+              "id": "delta-fly-fly-gogodala-9-duwaba",
+              "name": "9 - Duwaba",
+              "registeredVoters": 249
+            },
+            {
+              "id": "delta-fly-fly-gogodala-10-dede-wasua",
+              "name": "10 - Dede (Wasua)",
+              "registeredVoters": 703
+            },
+            {
+              "id": "delta-fly-fly-gogodala-11-baidowa",
+              "name": "11 - Baidowa",
+              "registeredVoters": 52
+            },
+            {
+              "id": "delta-fly-fly-gogodala-12-aduru-kirituara",
+              "name": "12 - Aduru (Kirituara)",
+              "registeredVoters": 237
+            },
+            {
+              "id": "delta-fly-fly-gogodala-13-sialowa",
+              "name": "13 - Sialowa",
+              "registeredVoters": 252
+            },
+            {
+              "id": "delta-fly-fly-gogodala-14-dewara",
+              "name": "14 - Dewara",
+              "registeredVoters": 556
+            },
+            {
+              "id": "delta-fly-fly-gogodala-15-suame",
+              "name": "15 - Suame",
+              "registeredVoters": 410
+            },
+            {
+              "id": "delta-fly-fly-gogodala-16-negotor",
+              "name": "16 - Negotor",
+              "registeredVoters": 87
+            },
+            {
+              "id": "delta-fly-fly-gogodala-17-lewada",
+              "name": "17 - Lewada",
+              "registeredVoters": 242
+            },
+            {
+              "id": "delta-fly-fly-gogodala-18-mutam",
+              "name": "18 - Mutam",
+              "registeredVoters": 153
+            },
+            {
+              "id": "delta-fly-fly-gogodala-19-tapila",
+              "name": "19 - Tapila",
+              "registeredVoters": 152
+            },
+            {
+              "id": "delta-fly-fly-gogodala-20-baramura",
+              "name": "20 - Baramura",
+              "registeredVoters": 155
+            },
+            {
+              "id": "delta-fly-fly-gogodala-21-madiri",
+              "name": "21 - Madiri",
+              "registeredVoters": 128
+            },
+            {
+              "id": "delta-fly-fly-gogodala-22-tirio",
+              "name": "22 - Tirio",
+              "registeredVoters": 143
+            }
+          ]
+        },
+        {
+          "id": "delta-fly-tabo",
+          "name": "Tabo LLG",
+          "electorateSlug": "delta-fly",
+          "wards": [
+            {
+              "id": "delta-fly-tabo-1-sasairi",
+              "name": "1 - Sasairi",
+              "registeredVoters": 89
+            },
+            {
+              "id": "delta-fly-tabo-2-gopi-kuria",
+              "name": "2 - Gopi (Kuria)",
+              "registeredVoters": 60
+            },
+            {
+              "id": "delta-fly-tabo-3-garu",
+              "name": "3 - Garu",
+              "registeredVoters": 197
+            },
+            {
+              "id": "delta-fly-tabo-4-aragi",
+              "name": "4 - Aragi",
+              "registeredVoters": 129
+            },
+            {
+              "id": "delta-fly-tabo-5-agero",
+              "name": "5 - Agero",
+              "registeredVoters": 62
+            },
+            {
+              "id": "delta-fly-tabo-6-arikinapi-tapapi",
+              "name": "6 - Arikinapi/Tapapi",
+              "registeredVoters": 97
+            },
+            {
+              "id": "delta-fly-tabo-7-bimaramio",
+              "name": "7 - Bimaramio",
+              "registeredVoters": 136
+            },
+            {
+              "id": "delta-fly-tabo-8-asaramio",
+              "name": "8 - Asaramio",
+              "registeredVoters": 139
+            },
+            {
+              "id": "delta-fly-tabo-9-etere",
+              "name": "9 - Etere",
+              "registeredVoters": 72
+            },
+            {
+              "id": "delta-fly-tabo-10-amogowa",
+              "name": "10 - Amogowa",
+              "registeredVoters": 100
+            },
+            {
+              "id": "delta-fly-tabo-11-kowawisi",
+              "name": "11 - Kowawisi",
+              "registeredVoters": 33
+            },
+            {
+              "id": "delta-fly-tabo-12-sarau",
+              "name": "12 - Sarau",
+              "registeredVoters": 217
+            },
+            {
+              "id": "delta-fly-tabo-13-kenedibi",
+              "name": "13 - Kenedibi",
+              "registeredVoters": 353
+            },
+            {
+              "id": "delta-fly-tabo-14-urio",
+              "name": "14 - Urio",
+              "registeredVoters": 280
+            },
+            {
+              "id": "delta-fly-tabo-15-waya",
+              "name": "15 - Waya",
+              "registeredVoters": 197
+            },
+            {
+              "id": "delta-fly-tabo-16-saiwase",
+              "name": "16 - Saiwase",
+              "registeredVoters": 179
+            },
+            {
+              "id": "delta-fly-tabo-17-kawano",
+              "name": "17 - Kawano",
+              "registeredVoters": 60
+            }
+          ]
+        },
+        {
+          "id": "delta-fly-wawoi-guavi",
+          "name": "Wawoi Guavi LLG",
+          "electorateSlug": "delta-fly",
+          "wards": [
+            {
+              "id": "delta-fly-wawoi-guavi-1-samokapa",
+              "name": "1 - Samokapa",
+              "registeredVoters": 185
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-2-magila",
+              "name": "2 - Magila",
+              "registeredVoters": 183
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-3-lake-campbel",
+              "name": "3 - Lake Campbel",
+              "registeredVoters": 172
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-4-kukunesi",
+              "name": "4 - Kukunesi",
+              "registeredVoters": 50
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-5-turisi",
+              "name": "5 - Turisi",
+              "registeredVoters": 64
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-6-kaseki",
+              "name": "6 - Kaseki",
+              "registeredVoters": 276
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-7-kalamo",
+              "name": "7 - Kalamo",
+              "registeredVoters": 174
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-8-kulele",
+              "name": "8 - Kulele",
+              "registeredVoters": 155
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-9-kawalasi",
+              "name": "9 - Kawalasi",
+              "registeredVoters": 219
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-10-naisula",
+              "name": "10 - Naisula",
+              "registeredVoters": 397
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-11-keatomaio",
+              "name": "11 - Keatomaio",
+              "registeredVoters": 37
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-12-kamusi-l-camp",
+              "name": "12 - Kamusi L/Camp",
+              "registeredVoters": 2144
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-13-wariho",
+              "name": "13 - Wariho",
+              "registeredVoters": 313
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-14-kubiai",
+              "name": "14 - Kubiai",
+              "registeredVoters": 17
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-15-sasalama",
+              "name": "15 - Sasalama",
+              "registeredVoters": 494
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-16-sasalama-2",
+              "name": "16 - Sasalama 2",
+              "registeredVoters": 187
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-17-daiapi",
+              "name": "17 - Daiapi",
+              "registeredVoters": 74
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-18-pariemi",
+              "name": "18 - Pariemi",
+              "registeredVoters": 672
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-19-bibisa",
+              "name": "19 - Bibisa",
+              "registeredVoters": 343
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-20-panakawa",
+              "name": "20 - Panakawa",
+              "registeredVoters": 736
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-21-gagoro",
+              "name": "21 - Gagoro",
+              "registeredVoters": 116
+            },
+            {
+              "id": "delta-fly-wawoi-guavi-22-matakaia",
+              "name": "22 - Matakaia",
+              "registeredVoters": 57
             }
           ]
         }

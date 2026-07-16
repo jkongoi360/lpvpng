@@ -5,185 +5,396 @@
       "electorateSlug": "talasea",
       "llgs": [
         {
-          "id": "talasea-talasea",
-          "name": "Talasea LLG",
+          "id": "talasea-central-nakanai",
+          "name": "Central Nakanai LLG",
           "electorateSlug": "talasea",
           "wards": [
             {
-              "id": "talasea-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1334
+              "id": "talasea-central-nakanai-1-malasi",
+              "name": "1 - MALASI",
+              "registeredVoters": 745
             },
             {
-              "id": "talasea-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1829
+              "id": "talasea-central-nakanai-2-kaiamu-sulu",
+              "name": "2 - KAIAMU/SULU",
+              "registeredVoters": 456
             },
             {
-              "id": "talasea-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1571
+              "id": "talasea-central-nakanai-3-sale-sege",
+              "name": "3 - SALE/SEGE",
+              "registeredVoters": 606
             },
             {
-              "id": "talasea-w04",
-              "name": "Ward 4",
-              "registeredVoters": 843
+              "id": "talasea-central-nakanai-4-uasilau",
+              "name": "4 - UASILAU",
+              "registeredVoters": 1273
             },
             {
-              "id": "talasea-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1126
+              "id": "talasea-central-nakanai-5-salelubu",
+              "name": "5 - SALELUBU",
+              "registeredVoters": 571
             },
             {
-              "id": "talasea-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1484
+              "id": "talasea-central-nakanai-6-silanga-1",
+              "name": "6 - SILANGA 1",
+              "registeredVoters": 638
             },
             {
-              "id": "talasea-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1809
+              "id": "talasea-central-nakanai-7-silanga-2",
+              "name": "7 - SILANGA 2",
+              "registeredVoters": 1204
             },
             {
-              "id": "talasea-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1777
+              "id": "talasea-central-nakanai-8-tarobi",
+              "name": "8 - TAROBI",
+              "registeredVoters": 637
             },
             {
-              "id": "talasea-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1408
+              "id": "talasea-central-nakanai-9-marapu",
+              "name": "9 - MARAPU",
+              "registeredVoters": 597
             },
             {
-              "id": "talasea-w10",
-              "name": "Ward 10",
-              "registeredVoters": 1026
+              "id": "talasea-central-nakanai-10-mamota",
+              "name": "10 - MAMOTA",
+              "registeredVoters": 1328
+            },
+            {
+              "id": "talasea-central-nakanai-11-kapiura",
+              "name": "11 - KAPIURA",
+              "registeredVoters": 738
+            },
+            {
+              "id": "talasea-central-nakanai-12-ubae",
+              "name": "12 - UBAE",
+              "registeredVoters": 974
+            },
+            {
+              "id": "talasea-central-nakanai-13-bereme",
+              "name": "13 - BEREME",
+              "registeredVoters": 700
             }
           ]
         },
         {
-          "id": "talasea-hoskins-urban",
-          "name": "Hoskins Urban LLG",
+          "id": "talasea-east-nakanai",
+          "name": "East Nakanai LLG",
           "electorateSlug": "talasea",
           "wards": [
             {
-              "id": "hoskins-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3942
+              "id": "talasea-east-nakanai-1-baea",
+              "name": "1 - BAEA",
+              "registeredVoters": 396
             },
             {
-              "id": "hoskins-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 4036
+              "id": "talasea-east-nakanai-2-noau",
+              "name": "2 - NOAU",
+              "registeredVoters": 905
             },
             {
-              "id": "hoskins-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1846
+              "id": "talasea-east-nakanai-3-ubili",
+              "name": "3 - UBILI",
+              "registeredVoters": 1275
             },
             {
-              "id": "hoskins-urban-w04",
-              "name": "Ward 4",
-              "registeredVoters": 4030
+              "id": "talasea-east-nakanai-4-navo",
+              "name": "4 - NAVO",
+              "registeredVoters": 1240
             },
             {
-              "id": "hoskins-urban-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2372
+              "id": "talasea-east-nakanai-5-lolobau",
+              "name": "5 - LOLOBAU",
+              "registeredVoters": 740
+            },
+            {
+              "id": "talasea-east-nakanai-6-kabaia",
+              "name": "6 - KABAIA",
+              "registeredVoters": 1427
+            },
+            {
+              "id": "talasea-east-nakanai-7-soi",
+              "name": "7 - SOI",
+              "registeredVoters": 2207
+            },
+            {
+              "id": "talasea-east-nakanai-8-barema",
+              "name": "8 - BAREMA",
+              "registeredVoters": 2320
+            },
+            {
+              "id": "talasea-east-nakanai-9-wilelo",
+              "name": "9 - WILELO",
+              "registeredVoters": 2993
+            },
+            {
+              "id": "talasea-east-nakanai-10-apupul",
+              "name": "10 - APUPUL",
+              "registeredVoters": 1889
+            },
+            {
+              "id": "talasea-east-nakanai-11-kerakea",
+              "name": "11 - KERAKEA",
+              "registeredVoters": 48
+            },
+            {
+              "id": "talasea-east-nakanai-12-bialla",
+              "name": "12 - BIALLA",
+              "registeredVoters": 2453
+            },
+            {
+              "id": "talasea-east-nakanai-13-ewasse",
+              "name": "13 - EWASSE",
+              "registeredVoters": 1553
+            },
+            {
+              "id": "talasea-east-nakanai-14-tiauru",
+              "name": "14 - TIAURU",
+              "registeredVoters": 1712
             }
           ]
         },
         {
-          "id": "talasea-bialla",
-          "name": "Bialla LLG",
+          "id": "talasea-hoskins",
+          "name": "Hoskins LLG",
           "electorateSlug": "talasea",
           "wards": [
             {
-              "id": "bialla-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1790
+              "id": "talasea-hoskins-1-garua",
+              "name": "1 - GARUA",
+              "registeredVoters": 2779
             },
             {
-              "id": "bialla-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1899
+              "id": "talasea-hoskins-2-kwalakesi",
+              "name": "2 - KWALAKESI",
+              "registeredVoters": 2351
             },
             {
-              "id": "bialla-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2527
+              "id": "talasea-hoskins-3-hoskins",
+              "name": "3 - HOSKINS",
+              "registeredVoters": 1287
             },
             {
-              "id": "bialla-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2999
+              "id": "talasea-hoskins-4-kalu",
+              "name": "4 - KALU",
+              "registeredVoters": 2555
             },
             {
-              "id": "bialla-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2026
+              "id": "talasea-hoskins-5-valoka",
+              "name": "5 - VALOKA",
+              "registeredVoters": 1589
             },
             {
-              "id": "bialla-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2487
+              "id": "talasea-hoskins-6-rikausiki",
+              "name": "6 - RIKAUSIKI",
+              "registeredVoters": 2476
+            },
+            {
+              "id": "talasea-hoskins-7-kagagu",
+              "name": "7 - KAGAGU",
+              "registeredVoters": 1591
+            },
+            {
+              "id": "talasea-hoskins-8-malala",
+              "name": "8 - MALALA",
+              "registeredVoters": 1912
+            },
+            {
+              "id": "talasea-hoskins-9-pokili",
+              "name": "9 - POKILI",
+              "registeredVoters": 1488
             }
           ]
         },
         {
-          "id": "talasea-ewase",
-          "name": "Ewase LLG",
+          "id": "talasea-mosa",
+          "name": "Mosa LLG",
           "electorateSlug": "talasea",
           "wards": [
             {
-              "id": "ewase-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1895
+              "id": "talasea-mosa-1-gamapili",
+              "name": "1 - GAMAPILI",
+              "registeredVoters": 2561
             },
             {
-              "id": "ewase-w02",
-              "name": "Ward 2",
-              "registeredVoters": 982
+              "id": "talasea-mosa-2-bugal",
+              "name": "2 - BUGAL",
+              "registeredVoters": 4948
             },
             {
-              "id": "ewase-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1555
+              "id": "talasea-mosa-3-kavui",
+              "name": "3 - KAVUI",
+              "registeredVoters": 4106
             },
             {
-              "id": "ewase-w04",
-              "name": "Ward 4",
+              "id": "talasea-mosa-4-gaopore",
+              "name": "4 - GAOPORE",
+              "registeredVoters": 3072
+            },
+            {
+              "id": "talasea-mosa-5-laheri",
+              "name": "5 - LAHERI",
+              "registeredVoters": 1262
+            },
+            {
+              "id": "talasea-mosa-6-bebere",
+              "name": "6 - BEBERE",
+              "registeredVoters": 4673
+            },
+            {
+              "id": "talasea-mosa-7-tamba",
+              "name": "7 - TAMBA",
+              "registeredVoters": 1804
+            },
+            {
+              "id": "talasea-mosa-8-sarakolok",
+              "name": "8 - SARAKOLOK",
+              "registeredVoters": 4275
+            }
+          ]
+        },
+        {
+          "id": "talasea-bali-witu",
+          "name": "Bali/Witu LLG",
+          "electorateSlug": "talasea",
+          "wards": [
+            {
+              "id": "talasea-bali-witu-1-penata",
+              "name": "1 - PENATA",
+              "registeredVoters": 1689
+            },
+            {
+              "id": "talasea-bali-witu-2-garomatong",
+              "name": "2 - GAROMATONG",
+              "registeredVoters": 2117
+            },
+            {
+              "id": "talasea-bali-witu-3-kumburi",
+              "name": "3 - KUMBURI",
               "registeredVoters": 1548
             },
             {
-              "id": "ewase-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1031
+              "id": "talasea-bali-witu-4-lovanua",
+              "name": "4 - LOVANUA",
+              "registeredVoters": 2541
             },
             {
-              "id": "ewase-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1886
+              "id": "talasea-bali-witu-5-mundua",
+              "name": "5 - MUNDUA",
+              "registeredVoters": 1404
             },
             {
-              "id": "ewase-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1754
+              "id": "talasea-bali-witu-6-west-garove",
+              "name": "6 - WEST GAROVE",
+              "registeredVoters": 1828
             },
             {
-              "id": "ewase-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1079
+              "id": "talasea-bali-witu-7-east-gavore",
+              "name": "7 - EAST GAVORE",
+              "registeredVoters": 1704
+            }
+          ]
+        },
+        {
+          "id": "talasea-kimbe-urban",
+          "name": "Kimbe Urban LLG",
+          "electorateSlug": "talasea",
+          "wards": [
+            {
+              "id": "talasea-kimbe-urban-1-gila",
+              "name": "1 - GILA",
+              "registeredVoters": 3665
             },
             {
-              "id": "ewase-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1982
+              "id": "talasea-kimbe-urban-2-lupoi",
+              "name": "2 - LUPOI",
+              "registeredVoters": 1364
             },
             {
-              "id": "ewase-w10",
-              "name": "Ward 10",
-              "registeredVoters": 913
+              "id": "talasea-kimbe-urban-3-malawara",
+              "name": "3 - MALAWARA",
+              "registeredVoters": 1080
+            },
+            {
+              "id": "talasea-kimbe-urban-4-tuveni",
+              "name": "4 - TUVENI",
+              "registeredVoters": 2176
+            },
+            {
+              "id": "talasea-kimbe-urban-5-palangani",
+              "name": "5 - PALANGANI",
+              "registeredVoters": 1483
+            },
+            {
+              "id": "talasea-kimbe-urban-6-matapapua",
+              "name": "6 - MATAPAPUA",
+              "registeredVoters": 3258
+            },
+            {
+              "id": "talasea-kimbe-urban-7-lechi",
+              "name": "7 - LECHI",
+              "registeredVoters": 3409
+            },
+            {
+              "id": "talasea-kimbe-urban-8-naruaka",
+              "name": "8 - NARUAKA",
+              "registeredVoters": 609
+            }
+          ]
+        },
+        {
+          "id": "talasea-talasea-rural",
+          "name": "Talasea Rural LLG",
+          "electorateSlug": "talasea",
+          "wards": [
+            {
+              "id": "talasea-talasea-rural-1-nalabu",
+              "name": "1 - NALABU",
+              "registeredVoters": 6142
+            },
+            {
+              "id": "talasea-talasea-rural-2-boge",
+              "name": "2 - BOGE",
+              "registeredVoters": 7050
+            },
+            {
+              "id": "talasea-talasea-rural-3-gabuna",
+              "name": "3 - GABUNA",
+              "registeredVoters": 1330
+            },
+            {
+              "id": "talasea-talasea-rural-4-bola",
+              "name": "4 - BOLA",
+              "registeredVoters": 957
+            },
+            {
+              "id": "talasea-talasea-rural-5-warou",
+              "name": "5 - WAROU",
+              "registeredVoters": 1441
+            },
+            {
+              "id": "talasea-talasea-rural-6-tabekemeli",
+              "name": "6 - TABEKEMELI",
+              "registeredVoters": 1709
+            },
+            {
+              "id": "talasea-talasea-rural-7-bulu",
+              "name": "7 - BULU",
+              "registeredVoters": 1563
+            },
+            {
+              "id": "talasea-talasea-rural-8-valupai",
+              "name": "8 - VALUPAI",
+              "registeredVoters": 1484
+            },
+            {
+              "id": "talasea-talasea-rural-9-baliondo",
+              "name": "9 - BALIONDO",
+              "registeredVoters": 1519
+            },
+            {
+              "id": "talasea-talasea-rural-10-bunga",
+              "name": "10 - BUNGA",
+              "registeredVoters": 1843
             }
           ]
         }
@@ -193,49 +404,44 @@
       "electorateSlug": "kandrian-gloucester",
       "llgs": [
         {
-          "id": "kandrian-gloucester-kandrian",
-          "name": "Kandrian LLG",
+          "id": "kandrian-gloucester-gasmata",
+          "name": "Gasmata LLG",
           "electorateSlug": "kandrian-gloucester",
           "wards": [
             {
-              "id": "kandrian-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1854
+              "id": "kandrian-gloucester-gasmata-1-amio",
+              "name": "1 - AMIO",
+              "registeredVoters": 1301
             },
             {
-              "id": "kandrian-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1436
+              "id": "kandrian-gloucester-gasmata-2-poronga",
+              "name": "2 - PORONGA",
+              "registeredVoters": 1175
             },
             {
-              "id": "kandrian-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1937
+              "id": "kandrian-gloucester-gasmata-3-tesopol",
+              "name": "3 - TESOPOL",
+              "registeredVoters": 765
             },
             {
-              "id": "kandrian-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1957
+              "id": "kandrian-gloucester-gasmata-4-akolet",
+              "name": "4 - AKOLET",
+              "registeredVoters": 1676
             },
             {
-              "id": "kandrian-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1390
+              "id": "kandrian-gloucester-gasmata-5-aigon",
+              "name": "5 - AIGON",
+              "registeredVoters": 966
             },
             {
-              "id": "kandrian-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1187
+              "id": "kandrian-gloucester-gasmata-6-kasuio",
+              "name": "6 - KASUIO",
+              "registeredVoters": 2479
             },
             {
-              "id": "kandrian-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1322
-            },
-            {
-              "id": "kandrian-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1510
+              "id": "kandrian-gloucester-gasmata-7-asirim",
+              "name": "7 - ASIRIM",
+              "registeredVoters": 373
             }
           ]
         },
@@ -245,96 +451,245 @@
           "electorateSlug": "kandrian-gloucester",
           "wards": [
             {
-              "id": "gloucester-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1449
+              "id": "kandrian-gloucester-gloucester-1-aumo",
+              "name": "1 - AUMO",
+              "registeredVoters": 1352
             },
             {
-              "id": "gloucester-w02",
-              "name": "Ward 2",
-              "registeredVoters": 946
+              "id": "kandrian-gloucester-gloucester-2-aisega",
+              "name": "2 - AISEGA",
+              "registeredVoters": 696
             },
             {
-              "id": "gloucester-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1080
+              "id": "kandrian-gloucester-gloucester-3-somate",
+              "name": "3 - SOMATE",
+              "registeredVoters": 1103
             },
             {
-              "id": "gloucester-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1256
+              "id": "kandrian-gloucester-gloucester-4-kilenge",
+              "name": "4 - KILENGE",
+              "registeredVoters": 2435
             },
             {
-              "id": "gloucester-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1897
+              "id": "kandrian-gloucester-gloucester-5-airagilpua",
+              "name": "5 - AIRAGILPUA",
+              "registeredVoters": 1417
             },
             {
-              "id": "gloucester-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1077
+              "id": "kandrian-gloucester-gloucester-6-gakiu",
+              "name": "6 - GAKIU",
+              "registeredVoters": 1388
             },
             {
-              "id": "gloucester-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2153
+              "id": "kandrian-gloucester-gloucester-7-alaido",
+              "name": "7 - ALAIDO",
+              "registeredVoters": 988
             },
             {
-              "id": "gloucester-w08",
-              "name": "Ward 8",
-              "registeredVoters": 914
-            },
-            {
-              "id": "gloucester-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1925
+              "id": "kandrian-gloucester-gloucester-8-gurrissi",
+              "name": "8 - GURRISSI",
+              "registeredVoters": 795
             }
           ]
         },
         {
-          "id": "kandrian-gloucester-gasmata",
-          "name": "Gasmata LLG",
+          "id": "kandrian-gloucester-kandrian-coastal",
+          "name": "Kandrian Coastal LLG",
           "electorateSlug": "kandrian-gloucester",
           "wards": [
             {
-              "id": "gasmata-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2150
+              "id": "kandrian-gloucester-kandrian-coastal-1-amnge",
+              "name": "1 - AMNGE",
+              "registeredVoters": 951
             },
             {
-              "id": "gasmata-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2433
+              "id": "kandrian-gloucester-kandrian-coastal-2-apalik",
+              "name": "2 - APALIK",
+              "registeredVoters": 278
             },
             {
-              "id": "gasmata-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2208
+              "id": "kandrian-gloucester-kandrian-coastal-3-aeglep",
+              "name": "3 - AEGLEP",
+              "registeredVoters": 1352
             },
             {
-              "id": "gasmata-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1110
+              "id": "kandrian-gloucester-kandrian-coastal-4-kandrian",
+              "name": "4 - KANDRIAN",
+              "registeredVoters": 777
             },
             {
-              "id": "gasmata-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1480
+              "id": "kandrian-gloucester-kandrian-coastal-5-kaul",
+              "name": "5 - KAUL",
+              "registeredVoters": 573
             },
             {
-              "id": "gasmata-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1450
+              "id": "kandrian-gloucester-kandrian-coastal-6-loko-nambis",
+              "name": "6 - LOKO NAMBIS",
+              "registeredVoters": 788
             },
             {
-              "id": "gasmata-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2586
+              "id": "kandrian-gloucester-kandrian-coastal-7-ioudo",
+              "name": "7 - IOUDO",
+              "registeredVoters": 1609
             },
             {
-              "id": "gasmata-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1317
+              "id": "kandrian-gloucester-kandrian-coastal-8-vinum",
+              "name": "8 - VINUM",
+              "registeredVoters": 1383
+            },
+            {
+              "id": "kandrian-gloucester-kandrian-coastal-9-pililo",
+              "name": "9 - PILILO",
+              "registeredVoters": 1040
+            },
+            {
+              "id": "kandrian-gloucester-kandrian-coastal-10-agulo",
+              "name": "10 - AGULO",
+              "registeredVoters": 725
+            },
+            {
+              "id": "kandrian-gloucester-kandrian-coastal-11-ivangnga",
+              "name": "11 - IVANGNGA",
+              "registeredVoters": 1012
+            },
+            {
+              "id": "kandrian-gloucester-kandrian-coastal-12-naplavui",
+              "name": "12 - NAPLAVUI",
+              "registeredVoters": 821
+            }
+          ]
+        },
+        {
+          "id": "kandrian-gloucester-kandrian-inland",
+          "name": "Kandrian Inland LLG",
+          "electorateSlug": "kandrian-gloucester",
+          "wards": [
+            {
+              "id": "kandrian-gloucester-kandrian-inland-1-akivru",
+              "name": "1 - AKIVRU",
+              "registeredVoters": 1083
+            },
+            {
+              "id": "kandrian-gloucester-kandrian-inland-2-gogor",
+              "name": "2 - GOGOR",
+              "registeredVoters": 1326
+            },
+            {
+              "id": "kandrian-gloucester-kandrian-inland-3-loko-bush",
+              "name": "3 - LOKO BUSH",
+              "registeredVoters": 1096
+            },
+            {
+              "id": "kandrian-gloucester-kandrian-inland-4-kalakin",
+              "name": "4 - KALAKIN",
+              "registeredVoters": 305
+            },
+            {
+              "id": "kandrian-gloucester-kandrian-inland-5-miu",
+              "name": "5 - MIU",
+              "registeredVoters": 778
+            },
+            {
+              "id": "kandrian-gloucester-kandrian-inland-6-avet",
+              "name": "6 - AVET",
+              "registeredVoters": 676
+            },
+            {
+              "id": "kandrian-gloucester-kandrian-inland-7-awon",
+              "name": "7 - AWON",
+              "registeredVoters": 1568
+            },
+            {
+              "id": "kandrian-gloucester-kandrian-inland-8-amumsong",
+              "name": "8 - AMUMSONG",
+              "registeredVoters": 770
+            },
+            {
+              "id": "kandrian-gloucester-kandrian-inland-9-palan",
+              "name": "9 - PALAN",
+              "registeredVoters": 969
+            },
+            {
+              "id": "kandrian-gloucester-kandrian-inland-10-asengseng",
+              "name": "10 - ASENGSENG",
+              "registeredVoters": 495
+            },
+            {
+              "id": "kandrian-gloucester-kandrian-inland-11-ngolu",
+              "name": "11 - NGOLU",
+              "registeredVoters": 607
+            }
+          ]
+        },
+        {
+          "id": "kandrian-gloucester-kove-kaliai",
+          "name": "Kove/Kaliai LLG",
+          "electorateSlug": "kandrian-gloucester",
+          "wards": [
+            {
+              "id": "kandrian-gloucester-kove-kaliai-1-kakota",
+              "name": "1 - KAKOTA",
+              "registeredVoters": 1527
+            },
+            {
+              "id": "kandrian-gloucester-kove-kaliai-2-talasea",
+              "name": "2 - TALASEA",
+              "registeredVoters": 1160
+            },
+            {
+              "id": "kandrian-gloucester-kove-kaliai-3-poitala",
+              "name": "3 - POITALA",
+              "registeredVoters": 1253
+            },
+            {
+              "id": "kandrian-gloucester-kove-kaliai-4-kalmaruhi",
+              "name": "4 - KALMARUHI",
+              "registeredVoters": 1563
+            },
+            {
+              "id": "kandrian-gloucester-kove-kaliai-5-sisili-sapulo",
+              "name": "5 - SISILI SAPULO",
+              "registeredVoters": 1193
+            },
+            {
+              "id": "kandrian-gloucester-kove-kaliai-6-mongamonga",
+              "name": "6 - MONGAMONGA",
+              "registeredVoters": 1908
+            },
+            {
+              "id": "kandrian-gloucester-kove-kaliai-7-akivilik",
+              "name": "7 - AKIVILIK",
+              "registeredVoters": 1751
+            },
+            {
+              "id": "kandrian-gloucester-kove-kaliai-8-lusi",
+              "name": "8 - LUSI",
+              "registeredVoters": 1178
+            },
+            {
+              "id": "kandrian-gloucester-kove-kaliai-9-anemsahe",
+              "name": "9 - ANEMSAHE",
+              "registeredVoters": 1070
+            },
+            {
+              "id": "kandrian-gloucester-kove-kaliai-10-aria-i",
+              "name": "10 - ARIA (I)",
+              "registeredVoters": 572
+            },
+            {
+              "id": "kandrian-gloucester-kove-kaliai-11-aria-ii",
+              "name": "11 - ARIA (II)",
+              "registeredVoters": 535
+            },
+            {
+              "id": "kandrian-gloucester-kove-kaliai-12-mouk",
+              "name": "12 - MOUK",
+              "registeredVoters": 1799
+            },
+            {
+              "id": "kandrian-gloucester-kove-kaliai-13-lamogai",
+              "name": "13 - LAMOGAI",
+              "registeredVoters": 819
             }
           ]
         }

@@ -10,170 +10,577 @@
           "electorateSlug": "anglimp-south-wahgi",
           "wards": [
             {
-              "id": "anglimp-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2847
+              "id": "anglimp-south-wahgi-anglimp-1-rogomp-1",
+              "name": "1 - ROGOMP 1",
+              "registeredVoters": 743
             },
             {
-              "id": "anglimp-w02",
-              "name": "Ward 2",
-              "registeredVoters": 4539
+              "id": "anglimp-south-wahgi-anglimp-2-kenapek",
+              "name": "2 - KENAPEK",
+              "registeredVoters": 552
             },
             {
-              "id": "anglimp-w03",
-              "name": "Ward 3",
-              "registeredVoters": 4588
+              "id": "anglimp-south-wahgi-anglimp-3-rogomp-2",
+              "name": "3 - ROGOMP 2",
+              "registeredVoters": 668
             },
             {
-              "id": "anglimp-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3696
-            }
-          ]
-        },
-        {
-          "id": "anglimp-south-wahgi-south-wahgi",
-          "name": "South Wahgi LLG",
-          "electorateSlug": "anglimp-south-wahgi",
-          "wards": [
-            {
-              "id": "south-wahgi-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2202
+              "id": "anglimp-south-wahgi-anglimp-4-kar-tanim-mobile",
+              "name": "4 - KAR TANIM MOBILE",
+              "registeredVoters": 485
             },
             {
-              "id": "south-wahgi-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2180
+              "id": "anglimp-south-wahgi-anglimp-5-ketepam-1",
+              "name": "5 - KETEPAM 1",
+              "registeredVoters": 851
             },
             {
-              "id": "south-wahgi-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2911
+              "id": "anglimp-south-wahgi-anglimp-6-hap-wara",
+              "name": "6 - HAP WARA",
+              "registeredVoters": 776
             },
             {
-              "id": "south-wahgi-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3871
+              "id": "anglimp-south-wahgi-anglimp-7-ketepam-2",
+              "name": "7 - KETEPAM 2",
+              "registeredVoters": 1157
             },
             {
-              "id": "south-wahgi-w05",
-              "name": "Ward 5",
-              "registeredVoters": 4985
-            }
-          ]
-        },
-        {
-          "id": "anglimp-south-wahgi-banz-urban",
-          "name": "Banz Urban LLG",
-          "electorateSlug": "anglimp-south-wahgi",
-          "wards": [
-            {
-              "id": "banz-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1724
+              "id": "anglimp-south-wahgi-anglimp-8-las-paraka",
+              "name": "8 - LAS PARAKA",
+              "registeredVoters": 777
             },
             {
-              "id": "banz-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1365
+              "id": "anglimp-south-wahgi-anglimp-9-ketepam-3",
+              "name": "9 - KETEPAM 3",
+              "registeredVoters": 1086
             },
             {
-              "id": "banz-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2654
+              "id": "anglimp-south-wahgi-anglimp-10-nkv",
+              "name": "10 - NKV",
+              "registeredVoters": 1275
             },
             {
-              "id": "banz-urban-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1855
+              "id": "anglimp-south-wahgi-anglimp-11-rukraka",
+              "name": "11 - RUKRAKA",
+              "registeredVoters": 507
             },
             {
-              "id": "banz-urban-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1444
+              "id": "anglimp-south-wahgi-anglimp-12-kr-project",
+              "name": "12 - KR PROJECT",
+              "registeredVoters": 657
             },
             {
-              "id": "banz-urban-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1159
+              "id": "anglimp-south-wahgi-anglimp-13-papen-1",
+              "name": "13 - PAPEN 1",
+              "registeredVoters": 1592
             },
             {
-              "id": "banz-urban-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2382
+              "id": "anglimp-south-wahgi-anglimp-14-kindeng-1",
+              "name": "14 - KINDENG 1",
+              "registeredVoters": 1618
             },
             {
-              "id": "banz-urban-w08",
-              "name": "Ward 8",
-              "registeredVoters": 2162
+              "id": "anglimp-south-wahgi-anglimp-15-uk-reserve-block",
+              "name": "15 - UK RESERVE BLOCK",
+              "registeredVoters": 816
             },
             {
-              "id": "banz-urban-w09",
-              "name": "Ward 9",
-              "registeredVoters": 2244
+              "id": "anglimp-south-wahgi-anglimp-16-kindeng-2",
+              "name": "16 - KINDENG 2",
+              "registeredVoters": 1620
             },
             {
-              "id": "banz-urban-w10",
-              "name": "Ward 10",
+              "id": "anglimp-south-wahgi-anglimp-17-enga-block",
+              "name": "17 - ENGA BLOCK",
+              "registeredVoters": 969
+            },
+            {
+              "id": "anglimp-south-wahgi-anglimp-18-kindeng-3",
+              "name": "18 - KINDENG 3",
+              "registeredVoters": 967
+            },
+            {
+              "id": "anglimp-south-wahgi-anglimp-19-mugamamp",
+              "name": "19 - MUGAMAMP",
+              "registeredVoters": 1411
+            },
+            {
+              "id": "anglimp-south-wahgi-anglimp-20-mandan",
+              "name": "20 - MANDAN",
               "registeredVoters": 1612
+            },
+            {
+              "id": "anglimp-south-wahgi-anglimp-21-ketepung-1",
+              "name": "21 - KETEPUNG 1",
+              "registeredVoters": 1032
+            },
+            {
+              "id": "anglimp-south-wahgi-anglimp-22-ketepung-2",
+              "name": "22 - KETEPUNG 2",
+              "registeredVoters": 1436
+            },
+            {
+              "id": "anglimp-south-wahgi-anglimp-23-papalambe-kuriki",
+              "name": "23 - PAPALAMBE KURIKI",
+              "registeredVoters": 827
+            },
+            {
+              "id": "anglimp-south-wahgi-anglimp-24-dopdop-1",
+              "name": "24 - DOPDOP 1",
+              "registeredVoters": 1630
+            },
+            {
+              "id": "anglimp-south-wahgi-anglimp-25-dopdop-2",
+              "name": "25 - DOPDOP 2",
+              "registeredVoters": 2493
+            },
+            {
+              "id": "anglimp-south-wahgi-anglimp-26-emi",
+              "name": "26 - EMI",
+              "registeredVoters": 558
+            },
+            {
+              "id": "anglimp-south-wahgi-anglimp-27-dopdop-3",
+              "name": "27 - DOPDOP 3",
+              "registeredVoters": 683
+            },
+            {
+              "id": "anglimp-south-wahgi-anglimp-28-dopdop-4",
+              "name": "28 - DOPDOP 4",
+              "registeredVoters": 1866
             }
           ]
         },
         {
-          "id": "anglimp-south-wahgi-kugilka",
-          "name": "Kugilka LLG",
+          "id": "anglimp-south-wahgi-kambia",
+          "name": "Kambia LLG",
           "electorateSlug": "anglimp-south-wahgi",
           "wards": [
             {
-              "id": "kugilka-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1548
+              "id": "anglimp-south-wahgi-kambia-1-mt-au",
+              "name": "1 - MT.AU",
+              "registeredVoters": 490
             },
             {
-              "id": "kugilka-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1051
+              "id": "anglimp-south-wahgi-kambia-2-giliai",
+              "name": "2 - GILIAI",
+              "registeredVoters": 290
             },
             {
-              "id": "kugilka-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1544
+              "id": "anglimp-south-wahgi-kambia-3-olate",
+              "name": "3 - OLATE",
+              "registeredVoters": 158
             },
             {
-              "id": "kugilka-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2533
+              "id": "anglimp-south-wahgi-kambia-4-usinge",
+              "name": "4 - USINGE",
+              "registeredVoters": 141
             },
             {
-              "id": "kugilka-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1914
+              "id": "anglimp-south-wahgi-kambia-5-oknisip",
+              "name": "5 - OKNISIP",
+              "registeredVoters": 141
             },
             {
-              "id": "kugilka-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2333
+              "id": "anglimp-south-wahgi-kambia-6-meru",
+              "name": "6 - MERU",
+              "registeredVoters": 287
             },
             {
-              "id": "kugilka-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1809
+              "id": "anglimp-south-wahgi-kambia-7-olu",
+              "name": "7 - OLU",
+              "registeredVoters": 276
             },
             {
-              "id": "kugilka-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1559
+              "id": "anglimp-south-wahgi-kambia-8-elwil",
+              "name": "8 - ELWIL",
+              "registeredVoters": 396
             },
             {
-              "id": "kugilka-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1541
+              "id": "anglimp-south-wahgi-kambia-9-tsikoi",
+              "name": "9 - TSIKOI",
+              "registeredVoters": 168
+            }
+          ]
+        },
+        {
+          "id": "anglimp-south-wahgi-kudjip",
+          "name": "Kudjip LLG",
+          "electorateSlug": "anglimp-south-wahgi",
+          "wards": [
+            {
+              "id": "anglimp-south-wahgi-kudjip-1-taimil",
+              "name": "1 - TAIMIL",
+              "registeredVoters": 1049
             },
             {
-              "id": "kugilka-w10",
-              "name": "Ward 10",
-              "registeredVoters": 1118
+              "id": "anglimp-south-wahgi-kudjip-2-piang",
+              "name": "2 - PIANG",
+              "registeredVoters": 1084
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-3-tombil",
+              "name": "3 - TOMBIL",
+              "registeredVoters": 867
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-4-kugark",
+              "name": "4 - KUGARK",
+              "registeredVoters": 594
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-5-kawil",
+              "name": "5 - KAWIL",
+              "registeredVoters": 1007
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-6-mareban",
+              "name": "6 - MAREBAN",
+              "registeredVoters": 952
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-7-kurumul",
+              "name": "7 - KURUMUL",
+              "registeredVoters": 985
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-8-kunzmung",
+              "name": "8 - KUNZMUNG",
+              "registeredVoters": 1061
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-9-kumbrak",
+              "name": "9 - KUMBRAK",
+              "registeredVoters": 692
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-10-puri",
+              "name": "10 - PURI",
+              "registeredVoters": 1422
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-11-kungar",
+              "name": "11 - KUNGAR",
+              "registeredVoters": 1318
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-12-kudjip-rural",
+              "name": "12 - KUDJIP RURAL",
+              "registeredVoters": 1623
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-13-kuplang",
+              "name": "13 - KUPLANG",
+              "registeredVoters": 2384
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-14-kawi",
+              "name": "14 - KAWI",
+              "registeredVoters": 1781
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-15-kudjip-hospital-station",
+              "name": "15 - KUDJIP HOSPITAL/STATION",
+              "registeredVoters": 216
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-16-kudjip-plantation",
+              "name": "16 - KUDJIP PLANTATION",
+              "registeredVoters": 1344
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-17-keram-block",
+              "name": "17 - KERAM BLOCK",
+              "registeredVoters": 1114
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-18-kia",
+              "name": "18 - KIA",
+              "registeredVoters": 855
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-19-kumdi",
+              "name": "19 - KUMDI",
+              "registeredVoters": 1597
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-20-aviamp",
+              "name": "20 - AVIAMP",
+              "registeredVoters": 1685
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-21-mamulka",
+              "name": "21 - MAMULKA",
+              "registeredVoters": 3541
+            },
+            {
+              "id": "anglimp-south-wahgi-kudjip-22-tun",
+              "name": "22 - TUN",
+              "registeredVoters": 931
+            }
+          ]
+        },
+        {
+          "id": "anglimp-south-wahgi-kuna-komon",
+          "name": "Kuna-Komon LLG",
+          "electorateSlug": "anglimp-south-wahgi",
+          "wards": [
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-1-kaip-1",
+              "name": "1 - KAIP 1",
+              "registeredVoters": 732
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-2-managa",
+              "name": "2 - MANAGA",
+              "registeredVoters": 574
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-3-kaip-2",
+              "name": "3 - KAIP 2",
+              "registeredVoters": 1038
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-4-kaip-3",
+              "name": "4 - KAIP 3",
+              "registeredVoters": 1181
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-5-poga-1",
+              "name": "5 - POGA 1",
+              "registeredVoters": 1485
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-6-poga-2",
+              "name": "6 - POGA 2",
+              "registeredVoters": 1223
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-7-wurup-1",
+              "name": "7 - WURUP 1",
+              "registeredVoters": 806
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-8-six-mile",
+              "name": "8 - SIX MILE",
+              "registeredVoters": 935
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-9-wurup-2",
+              "name": "9 - WURUP 2",
+              "registeredVoters": 676
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-10-lati",
+              "name": "10 - LATI",
+              "registeredVoters": 773
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-11-wurup-3",
+              "name": "11 - WURUP 3",
+              "registeredVoters": 606
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-12-wurup-4",
+              "name": "12 - WURUP 4",
+              "registeredVoters": 805
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-13-kiliga-1",
+              "name": "13 - KILIGA 1",
+              "registeredVoters": 1293
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-14-konda-ala",
+              "name": "14 - KONDA ALA",
+              "registeredVoters": 1508
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-15-kiliga-2",
+              "name": "15 - KILIGA 2",
+              "registeredVoters": 1520
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-16-ulya-1",
+              "name": "16 - ULYA 1",
+              "registeredVoters": 4304
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-17-kuki-kipan",
+              "name": "17 - KUKI KIPAN",
+              "registeredVoters": 1194
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-18-panga",
+              "name": "18 - PANGA",
+              "registeredVoters": 1733
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-19-kutubulg-1",
+              "name": "19 - KUTUBULG 1",
+              "registeredVoters": 1082
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-20-komon",
+              "name": "20 - KOMON",
+              "registeredVoters": 1456
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-21-kutubulg-2",
+              "name": "21 - KUTUBULG 2",
+              "registeredVoters": 1217
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-22-avi-1",
+              "name": "22 - AVI 1",
+              "registeredVoters": 2293
+            },
+            {
+              "id": "anglimp-south-wahgi-kuna-komon-23-avi-2",
+              "name": "23 - AVI 2",
+              "registeredVoters": 1899
+            }
+          ]
+        },
+        {
+          "id": "anglimp-south-wahgi-minj",
+          "name": "Minj LLG",
+          "electorateSlug": "anglimp-south-wahgi",
+          "wards": [
+            {
+              "id": "anglimp-south-wahgi-minj-1-tumbang",
+              "name": "1 - TUMBANG",
+              "registeredVoters": 2574
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-2-minj-mu",
+              "name": "2 - MINJ MU",
+              "registeredVoters": 1217
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-3-rot-bung",
+              "name": "3 - ROT BUNG",
+              "registeredVoters": 2709
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-4-kosge",
+              "name": "4 - KOSGE",
+              "registeredVoters": 1304
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-5-agenmol",
+              "name": "5 - AGENMOL",
+              "registeredVoters": 1958
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-6-minj-town",
+              "name": "6 - MINJ TOWN",
+              "registeredVoters": 643
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-7-ngunba-tsens",
+              "name": "7 - NGUNBA TSENS",
+              "registeredVoters": 3470
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-8-gabingal",
+              "name": "8 - GABINGAL",
+              "registeredVoters": 657
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-9-kumblang",
+              "name": "9 - KUMBLANG",
+              "registeredVoters": 702
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-10-kupa",
+              "name": "10 - KUPA",
+              "registeredVoters": 2166
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-11-alua",
+              "name": "11 - ALUA",
+              "registeredVoters": 988
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-12-dup-gaukwa",
+              "name": "12 - DUP/GAUKWA",
+              "registeredVoters": 1232
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-13-kamang",
+              "name": "13 - KAMANG",
+              "registeredVoters": 1595
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-14-konjambi",
+              "name": "14 - KONJAMBI",
+              "registeredVoters": 2858
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-15-olubus",
+              "name": "15 - OLUBUS",
+              "registeredVoters": 1508
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-16-pugamil",
+              "name": "16 - PUGAMIL",
+              "registeredVoters": 2600
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-17-tsigmil",
+              "name": "17 - TSIGMIL",
+              "registeredVoters": 1439
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-18-tsigmil-factory",
+              "name": "18 - TSIGMIL FACTORY",
+              "registeredVoters": 1635
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-19-danal",
+              "name": "19 - DANAL",
+              "registeredVoters": 844
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-20-begbe",
+              "name": "20 - BEGBE",
+              "registeredVoters": 1839
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-21-tumba",
+              "name": "21 - TUMBA",
+              "registeredVoters": 1597
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-22-ngumgil",
+              "name": "22 - NGUMGIL",
+              "registeredVoters": 1036
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-23-kugmar",
+              "name": "23 - KUGMAR",
+              "registeredVoters": 1007
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-24-ngamar",
+              "name": "24 - NGAMAR",
+              "registeredVoters": 555
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-25-taikan",
+              "name": "25 - TAIKAN",
+              "registeredVoters": 419
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-26-djeck",
+              "name": "26 - DJECK",
+              "registeredVoters": 1171
+            },
+            {
+              "id": "anglimp-south-wahgi-minj-27-garmang",
+              "name": "27 - GARMANG",
+              "registeredVoters": 1139
             }
           ]
         }
@@ -183,81 +590,251 @@
       "electorateSlug": "jimi",
       "llgs": [
         {
-          "id": "jimi-jimi",
-          "name": "Jimi LLG",
+          "id": "jimi-koinambe",
+          "name": "Koinambe LLG",
           "electorateSlug": "jimi",
           "wards": [
             {
-              "id": "jimi-w01",
-              "name": "Ward 1",
-              "registeredVoters": 7036
+              "id": "jimi-koinambe-1-togban",
+              "name": "1 - TOGBAN",
+              "registeredVoters": 1006
             },
             {
-              "id": "jimi-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3221
+              "id": "jimi-koinambe-2-mashomb",
+              "name": "2 - MASHOMB",
+              "registeredVoters": 378
             },
             {
-              "id": "jimi-w03",
-              "name": "Ward 3",
-              "registeredVoters": 5237
+              "id": "jimi-koinambe-3-deka",
+              "name": "3 - DEKA",
+              "registeredVoters": 144
+            },
+            {
+              "id": "jimi-koinambe-4-kwima",
+              "name": "4 - KWIMA",
+              "registeredVoters": 1371
+            },
+            {
+              "id": "jimi-koinambe-5-kupeng",
+              "name": "5 - KUPENG",
+              "registeredVoters": 538
+            },
+            {
+              "id": "jimi-koinambe-6-komungwai",
+              "name": "6 - KOMUNGWAI",
+              "registeredVoters": 250
+            },
+            {
+              "id": "jimi-koinambe-7-kompiai",
+              "name": "7 - KOMPIAI",
+              "registeredVoters": 669
+            },
+            {
+              "id": "jimi-koinambe-8-injim",
+              "name": "8 - INJIM",
+              "registeredVoters": 374
+            },
+            {
+              "id": "jimi-koinambe-9-tswengkai",
+              "name": "9 - TSWENGKAI",
+              "registeredVoters": 605
+            },
+            {
+              "id": "jimi-koinambe-10-bokopai",
+              "name": "10 - BOKOPAI",
+              "registeredVoters": 753
+            },
+            {
+              "id": "jimi-koinambe-11-yumbagema",
+              "name": "11 - YUMBAGEMA",
+              "registeredVoters": 625
+            },
+            {
+              "id": "jimi-koinambe-12-koinambe",
+              "name": "12 - KOINAMBE",
+              "registeredVoters": 491
+            },
+            {
+              "id": "jimi-koinambe-13-kandambiamp",
+              "name": "13 - KANDAMBIAMP",
+              "registeredVoters": 542
+            },
+            {
+              "id": "jimi-koinambe-14-tsembant",
+              "name": "14 - TSEMBANT",
+              "registeredVoters": 307
+            },
+            {
+              "id": "jimi-koinambe-15-ginjiji",
+              "name": "15 - GINJIJI",
+              "registeredVoters": 472
+            },
+            {
+              "id": "jimi-koinambe-16-tumbungi",
+              "name": "16 - TUMBUNGI",
+              "registeredVoters": 44
+            },
+            {
+              "id": "jimi-koinambe-17-gondoband",
+              "name": "17 - GONDOBAND",
+              "registeredVoters": 332
+            },
+            {
+              "id": "jimi-koinambe-18-waim",
+              "name": "18 - WAIM",
+              "registeredVoters": 310
+            },
+            {
+              "id": "jimi-koinambe-19-tsarap",
+              "name": "19 - TSARAP",
+              "registeredVoters": 369
+            },
+            {
+              "id": "jimi-koinambe-20-meren",
+              "name": "20 - MEREN",
+              "registeredVoters": 131
+            },
+            {
+              "id": "jimi-koinambe-21-tsendiap",
+              "name": "21 - TSENDIAP",
+              "registeredVoters": 319
+            },
+            {
+              "id": "jimi-koinambe-22-runimp",
+              "name": "22 - RUNIMP",
+              "registeredVoters": 108
             }
           ]
         },
         {
-          "id": "jimi-upper-jimi",
-          "name": "Upper Jimi LLG",
+          "id": "jimi-kol",
+          "name": "Kol LLG",
           "electorateSlug": "jimi",
           "wards": [
             {
-              "id": "upper-jimi-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1107
+              "id": "jimi-kol-1-maipka-kol-station",
+              "name": "1 - MAIPKA/KOL STATION",
+              "registeredVoters": 1600
             },
             {
-              "id": "upper-jimi-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1850
+              "id": "jimi-kol-2-wamku",
+              "name": "2 - WAMKU",
+              "registeredVoters": 2002
             },
             {
-              "id": "upper-jimi-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1876
+              "id": "jimi-kol-3-kuimin",
+              "name": "3 - KUIMIN",
+              "registeredVoters": 660
             },
             {
-              "id": "upper-jimi-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1452
+              "id": "jimi-kol-4-meginapol",
+              "name": "4 - MEGINAPOL",
+              "registeredVoters": 684
             },
             {
-              "id": "upper-jimi-w05",
-              "name": "Ward 5",
-              "registeredVoters": 897
+              "id": "jimi-kol-5-mogom",
+              "name": "5 - MOGOM",
+              "registeredVoters": 1065
             },
             {
-              "id": "upper-jimi-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1137
+              "id": "jimi-kol-6-maime",
+              "name": "6 - MAIME",
+              "registeredVoters": 601
             },
             {
-              "id": "upper-jimi-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1996
+              "id": "jimi-kol-7-kunomol",
+              "name": "7 - KUNOMOL",
+              "registeredVoters": 1230
             },
             {
-              "id": "upper-jimi-w08",
-              "name": "Ward 8",
-              "registeredVoters": 829
+              "id": "jimi-kol-8-kuma",
+              "name": "8 - KUMA",
+              "registeredVoters": 403
             },
             {
-              "id": "upper-jimi-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1317
+              "id": "jimi-kol-9-gebal",
+              "name": "9 - GEBAL",
+              "registeredVoters": 445
             },
             {
-              "id": "upper-jimi-w10",
-              "name": "Ward 10",
-              "registeredVoters": 1656
+              "id": "jimi-kol-10-iwaramul",
+              "name": "10 - IWARAMUL",
+              "registeredVoters": 723
+            },
+            {
+              "id": "jimi-kol-11-dungo",
+              "name": "11 - DUNGO",
+              "registeredVoters": 470
+            },
+            {
+              "id": "jimi-kol-12-bubulsinga",
+              "name": "12 - BUBULSINGA",
+              "registeredVoters": 588
+            },
+            {
+              "id": "jimi-kol-13-omun",
+              "name": "13 - OMUN",
+              "registeredVoters": 525
+            },
+            {
+              "id": "jimi-kol-14-kalimbkul",
+              "name": "14 - KALIMBKUL",
+              "registeredVoters": 437
+            },
+            {
+              "id": "jimi-kol-15-bubkale",
+              "name": "15 - BUBKALE",
+              "registeredVoters": 1058
+            },
+            {
+              "id": "jimi-kol-16-bial",
+              "name": "16 - BIAL",
+              "registeredVoters": 307
+            },
+            {
+              "id": "jimi-kol-17-kosap",
+              "name": "17 - KOSAP",
+              "registeredVoters": 691
+            },
+            {
+              "id": "jimi-kol-18-kurunga",
+              "name": "18 - KURUNGA",
+              "registeredVoters": 529
+            },
+            {
+              "id": "jimi-kol-19-kaulo",
+              "name": "19 - KAULO",
+              "registeredVoters": 1210
+            },
+            {
+              "id": "jimi-kol-20-mokuna",
+              "name": "20 - MOKUNA",
+              "registeredVoters": 868
+            },
+            {
+              "id": "jimi-kol-21-yambdop",
+              "name": "21 - YAMBDOP",
+              "registeredVoters": 682
+            },
+            {
+              "id": "jimi-kol-22-waramanz-1",
+              "name": "22 - WARAMANZ 1",
+              "registeredVoters": 1520
+            },
+            {
+              "id": "jimi-kol-23-waramanz-2",
+              "name": "23 - WARAMANZ 2",
+              "registeredVoters": 937
+            },
+            {
+              "id": "jimi-kol-24-gakip",
+              "name": "24 - GAKIP",
+              "registeredVoters": 701
+            },
+            {
+              "id": "jimi-kol-25-junk-arbid",
+              "name": "25 - JUNK/ARBID",
+              "registeredVoters": 671
             }
           ]
         },
@@ -267,19 +844,119 @@
           "electorateSlug": "jimi",
           "wards": [
             {
-              "id": "tabibuga-w01",
-              "name": "Ward 1",
-              "registeredVoters": 4557
+              "id": "jimi-tabibuga-1-mogini",
+              "name": "1 - MOGINI",
+              "registeredVoters": 556
             },
             {
-              "id": "tabibuga-w02",
-              "name": "Ward 2",
-              "registeredVoters": 7581
+              "id": "jimi-tabibuga-2-koriom",
+              "name": "2 - KORIOM",
+              "registeredVoters": 823
             },
             {
-              "id": "tabibuga-w03",
-              "name": "Ward 3",
-              "registeredVoters": 4030
+              "id": "jimi-tabibuga-3-kwiop",
+              "name": "3 - KWIOP",
+              "registeredVoters": 766
+            },
+            {
+              "id": "jimi-tabibuga-4-tsingoropa",
+              "name": "4 - TSINGOROPA",
+              "registeredVoters": 1095
+            },
+            {
+              "id": "jimi-tabibuga-5-kwuipun",
+              "name": "5 - KWUIPUN",
+              "registeredVoters": 648
+            },
+            {
+              "id": "jimi-tabibuga-6-pondolo",
+              "name": "6 - PONDOLO",
+              "registeredVoters": 395
+            },
+            {
+              "id": "jimi-tabibuga-7-wum",
+              "name": "7 - WUM",
+              "registeredVoters": 608
+            },
+            {
+              "id": "jimi-tabibuga-8-tsenga",
+              "name": "8 - TSENGA",
+              "registeredVoters": 1426
+            },
+            {
+              "id": "jimi-tabibuga-9-telta",
+              "name": "9 - TELTA",
+              "registeredVoters": 1531
+            },
+            {
+              "id": "jimi-tabibuga-10-menjim",
+              "name": "10 - MENJIM",
+              "registeredVoters": 1326
+            },
+            {
+              "id": "jimi-tabibuga-11-maikmol",
+              "name": "11 - MAIKMOL",
+              "registeredVoters": 697
+            },
+            {
+              "id": "jimi-tabibuga-12-toli",
+              "name": "12 - TOLI",
+              "registeredVoters": 717
+            },
+            {
+              "id": "jimi-tabibuga-13-ongolmol",
+              "name": "13 - ONGOLMOL",
+              "registeredVoters": 553
+            },
+            {
+              "id": "jimi-tabibuga-14-por",
+              "name": "14 - POR",
+              "registeredVoters": 454
+            },
+            {
+              "id": "jimi-tabibuga-15-kaul",
+              "name": "15 - KAUL",
+              "registeredVoters": 1047
+            },
+            {
+              "id": "jimi-tabibuga-16-karap",
+              "name": "16 - KARAP",
+              "registeredVoters": 1546
+            },
+            {
+              "id": "jimi-tabibuga-17-gulka",
+              "name": "17 - GULKA",
+              "registeredVoters": 636
+            },
+            {
+              "id": "jimi-tabibuga-18-manemp",
+              "name": "18 - MANEMP",
+              "registeredVoters": 331
+            },
+            {
+              "id": "jimi-tabibuga-19-magin",
+              "name": "19 - MAGIN",
+              "registeredVoters": 564
+            },
+            {
+              "id": "jimi-tabibuga-20-gukum",
+              "name": "20 - GUKUM",
+              "registeredVoters": 648
+            },
+            {
+              "id": "jimi-tabibuga-21-korenju",
+              "name": "21 - KORENJU",
+              "registeredVoters": 839
+            },
+            {
+              "id": "jimi-tabibuga-22-tabibuga-station",
+              "name": "22 - TABIBUGA STATION",
+              "registeredVoters": 1207
+            },
+            {
+              "id": "jimi-tabibuga-23-warames",
+              "name": "23 - WARAMES",
+              "registeredVoters": 916
             }
           ]
         }

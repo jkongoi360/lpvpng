@@ -5,133 +5,181 @@
       "electorateSlug": "madang",
       "llgs": [
         {
+          "id": "madang-amenob",
+          "name": "Amenob LLG",
+          "electorateSlug": "madang",
+          "wards": [
+            {
+              "id": "madang-amenob-1-kranket-island",
+              "name": "1 - KRANKET ISLAND",
+              "registeredVoters": 2685
+            },
+            {
+              "id": "madang-amenob-2-furan",
+              "name": "2 - FURAN",
+              "registeredVoters": 1147
+            },
+            {
+              "id": "madang-amenob-3-braheim",
+              "name": "3 - BRAHEIM",
+              "registeredVoters": 901
+            },
+            {
+              "id": "madang-amenob-4-mis",
+              "name": "4 - MIS",
+              "registeredVoters": 2831
+            },
+            {
+              "id": "madang-amenob-5-siar",
+              "name": "5 - SIAR",
+              "registeredVoters": 2223
+            },
+            {
+              "id": "madang-amenob-6-riwo",
+              "name": "6 - RIWO",
+              "registeredVoters": 3968
+            },
+            {
+              "id": "madang-amenob-7-nobonob",
+              "name": "7 - NOBONOB",
+              "registeredVoters": 3044
+            },
+            {
+              "id": "madang-amenob-8-budad",
+              "name": "8 - BUDAD",
+              "registeredVoters": 1467
+            },
+            {
+              "id": "madang-amenob-9-gegeri",
+              "name": "9 - GEGERI",
+              "registeredVoters": 458
+            },
+            {
+              "id": "madang-amenob-10-sek",
+              "name": "10 - SEK",
+              "registeredVoters": 1895
+            },
+            {
+              "id": "madang-amenob-11-bagupi",
+              "name": "11 - BAGUPI",
+              "registeredVoters": 356
+            },
+            {
+              "id": "madang-amenob-12-abar",
+              "name": "12 - ABAR",
+              "registeredVoters": 455
+            },
+            {
+              "id": "madang-amenob-13-baiteta",
+              "name": "13 - BAITETA",
+              "registeredVoters": 1083
+            },
+            {
+              "id": "madang-amenob-14-dogia",
+              "name": "14 - DOGIA",
+              "registeredVoters": 1441
+            },
+            {
+              "id": "madang-amenob-15-aiyap",
+              "name": "15 - AIYAP",
+              "registeredVoters": 1524
+            },
+            {
+              "id": "madang-amenob-16-sein",
+              "name": "16 - SEIN",
+              "registeredVoters": 1588
+            },
+            {
+              "id": "madang-amenob-17-bilbil",
+              "name": "17 - BILBIL",
+              "registeredVoters": 2884
+            },
+            {
+              "id": "madang-amenob-18-yabob",
+              "name": "18 - YABOB",
+              "registeredVoters": 2469
+            },
+            {
+              "id": "madang-amenob-19-omuru",
+              "name": "19 - OMURU",
+              "registeredVoters": 1923
+            },
+            {
+              "id": "madang-amenob-20-umun",
+              "name": "20 - UMUN",
+              "registeredVoters": 1724
+            },
+            {
+              "id": "madang-amenob-21-fulumu",
+              "name": "21 - FULUMU",
+              "registeredVoters": 2038
+            },
+            {
+              "id": "madang-amenob-22-matepi",
+              "name": "22 - MATEPI",
+              "registeredVoters": 810
+            },
+            {
+              "id": "madang-amenob-23-utu",
+              "name": "23 - UTU",
+              "registeredVoters": 966
+            }
+          ]
+        },
+        {
           "id": "madang-madang-urban",
           "name": "Madang Urban LLG",
           "electorateSlug": "madang",
           "wards": [
             {
-              "id": "madang-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2145
+              "id": "madang-madang-urban-1-yamilon",
+              "name": "1 - YAMILON",
+              "registeredVoters": 684
             },
             {
-              "id": "madang-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2190
+              "id": "madang-madang-urban-2-kalibobo",
+              "name": "2 - KALIBOBO",
+              "registeredVoters": 984
             },
             {
-              "id": "madang-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 4578
+              "id": "madang-madang-urban-3-yabong",
+              "name": "3 - YABONG",
+              "registeredVoters": 1543
             },
             {
-              "id": "madang-urban-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2953
+              "id": "madang-madang-urban-4-kusbau",
+              "name": "4 - KUSBAU",
+              "registeredVoters": 1538
             },
             {
-              "id": "madang-urban-w05",
-              "name": "Ward 5",
-              "registeredVoters": 3174
-            }
-          ]
-        },
-        {
-          "id": "madang-north-coast",
-          "name": "North Coast LLG",
-          "electorateSlug": "madang",
-          "wards": [
-            {
-              "id": "north-coast-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2534
+              "id": "madang-madang-urban-5-nabasa",
+              "name": "5 - NABASA",
+              "registeredVoters": 2363
             },
             {
-              "id": "north-coast-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2236
+              "id": "madang-madang-urban-6-tarangau",
+              "name": "6 - TARANGAU",
+              "registeredVoters": 2447
             },
             {
-              "id": "north-coast-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1670
+              "id": "madang-madang-urban-7-taleo",
+              "name": "7 - TALEO",
+              "registeredVoters": 6822
             },
             {
-              "id": "north-coast-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1642
+              "id": "madang-madang-urban-8-dca",
+              "name": "8 - DCA",
+              "registeredVoters": 4167
             },
             {
-              "id": "north-coast-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1472
+              "id": "madang-madang-urban-9-sisiak",
+              "name": "9 - SISIAK",
+              "registeredVoters": 5109
             },
             {
-              "id": "north-coast-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2086
-            },
-            {
-              "id": "north-coast-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1380
-            }
-          ]
-        },
-        {
-          "id": "madang-ambenob",
-          "name": "Ambenob LLG",
-          "electorateSlug": "madang",
-          "wards": [
-            {
-              "id": "ambenob-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1953
-            },
-            {
-              "id": "ambenob-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1296
-            },
-            {
-              "id": "ambenob-w03",
-              "name": "Ward 3",
-              "registeredVoters": 886
-            },
-            {
-              "id": "ambenob-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1641
-            },
-            {
-              "id": "ambenob-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1435
-            },
-            {
-              "id": "ambenob-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1308
-            },
-            {
-              "id": "ambenob-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1227
-            },
-            {
-              "id": "ambenob-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1359
-            },
-            {
-              "id": "ambenob-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1017
-            },
-            {
-              "id": "ambenob-w10",
-              "name": "Ward 10",
-              "registeredVoters": 2277
+              "id": "madang-madang-urban-10-meiro",
+              "name": "10 - MEIRO",
+              "registeredVoters": 4165
             }
           ]
         },
@@ -141,81 +189,84 @@
           "electorateSlug": "madang",
           "wards": [
             {
-              "id": "transgogol-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2071
+              "id": "madang-transgogol-1-barik",
+              "name": "1 - BARIK",
+              "registeredVoters": 945
             },
             {
-              "id": "transgogol-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3738
+              "id": "madang-transgogol-2-mawan",
+              "name": "2 - MAWAN",
+              "registeredVoters": 1923
             },
             {
-              "id": "transgogol-w03",
-              "name": "Ward 3",
-              "registeredVoters": 4375
+              "id": "madang-transgogol-3-wabusarik",
+              "name": "3 - WABUSARIK",
+              "registeredVoters": 1092
             },
             {
-              "id": "transgogol-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3680
+              "id": "madang-transgogol-4-bemal",
+              "name": "4 - BEMAL",
+              "registeredVoters": 1198
             },
             {
-              "id": "transgogol-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2871
-            }
-          ]
-        },
-        {
-          "id": "madang-sumgilbar",
-          "name": "Sumgilbar LLG",
-          "electorateSlug": "madang",
-          "wards": [
-            {
-              "id": "sumgilbar-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1747
+              "id": "madang-transgogol-5-berin",
+              "name": "5 - BERIN",
+              "registeredVoters": 856
             },
             {
-              "id": "sumgilbar-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2112
+              "id": "madang-transgogol-6-garinam",
+              "name": "6 - GARINAM",
+              "registeredVoters": 1009
             },
             {
-              "id": "sumgilbar-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1520
+              "id": "madang-transgogol-7-barum",
+              "name": "7 - BARUM",
+              "registeredVoters": 1128
             },
             {
-              "id": "sumgilbar-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1647
+              "id": "madang-transgogol-8-gonoa",
+              "name": "8 - GONOA",
+              "registeredVoters": 1147
             },
             {
-              "id": "sumgilbar-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1618
+              "id": "madang-transgogol-9-tadup",
+              "name": "9 - TADUP",
+              "registeredVoters": 793
             },
             {
-              "id": "sumgilbar-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1977
+              "id": "madang-transgogol-10-yagi",
+              "name": "10 - YAGI",
+              "registeredVoters": 478
             },
             {
-              "id": "sumgilbar-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1677
+              "id": "madang-transgogol-11-kagi",
+              "name": "11 - KAGI",
+              "registeredVoters": 392
             },
             {
-              "id": "sumgilbar-w08",
-              "name": "Ward 8",
-              "registeredVoters": 991
+              "id": "madang-transgogol-12-bai",
+              "name": "12 - BAI",
+              "registeredVoters": 361
             },
             {
-              "id": "sumgilbar-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1571
+              "id": "madang-transgogol-13-ebenan",
+              "name": "13 - EBENAN",
+              "registeredVoters": 883
+            },
+            {
+              "id": "madang-transgogol-14-magila",
+              "name": "14 - MAGILA",
+              "registeredVoters": 330
+            },
+            {
+              "id": "madang-transgogol-15-kosilanta",
+              "name": "15 - KOSILANTA",
+              "registeredVoters": 271
+            },
+            {
+              "id": "madang-transgogol-16-magilan",
+              "name": "16 - MAGILAN",
+              "registeredVoters": 329
             }
           ]
         }
@@ -225,98 +276,473 @@
       "electorateSlug": "bogia",
       "llgs": [
         {
-          "id": "bogia-bogia",
-          "name": "Bogia LLG",
+          "id": "bogia-almami",
+          "name": "Almami LLG",
           "electorateSlug": "bogia",
           "wards": [
             {
-              "id": "bogia-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1577
+              "id": "bogia-almami-1-ambana",
+              "name": "1 - AMBANA",
+              "registeredVoters": 584
             },
             {
-              "id": "bogia-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2417
+              "id": "bogia-almami-2-lilau",
+              "name": "2 - LILAU",
+              "registeredVoters": 659
             },
             {
-              "id": "bogia-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2557
+              "id": "bogia-almami-3-moap",
+              "name": "3 - MOAP",
+              "registeredVoters": 448
             },
             {
-              "id": "bogia-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1929
+              "id": "bogia-almami-4-bimat",
+              "name": "4 - BIMAT",
+              "registeredVoters": 247
             },
             {
-              "id": "bogia-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2226
+              "id": "bogia-almami-5-suaru",
+              "name": "5 - SUARU",
+              "registeredVoters": 499
             },
             {
-              "id": "bogia-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2464
+              "id": "bogia-almami-6-turutap",
+              "name": "6 - TURUTAP",
+              "registeredVoters": 301
             },
             {
-              "id": "bogia-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2559
+              "id": "bogia-almami-7-gurube",
+              "name": "7 - GURUBE",
+              "registeredVoters": 284
             },
             {
-              "id": "bogia-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1617
+              "id": "bogia-almami-8-wagaeday",
+              "name": "8 - WAGAEDAY",
+              "registeredVoters": 225
+            },
+            {
+              "id": "bogia-almami-9-wanaru",
+              "name": "9 - WANARU",
+              "registeredVoters": 364
+            },
+            {
+              "id": "bogia-almami-10-adibal",
+              "name": "10 - ADIBAL",
+              "registeredVoters": 399
+            },
+            {
+              "id": "bogia-almami-11-dumudum",
+              "name": "11 - DUMUDUM",
+              "registeredVoters": 350
+            },
+            {
+              "id": "bogia-almami-12-guam",
+              "name": "12 - GUAM",
+              "registeredVoters": 279
+            },
+            {
+              "id": "bogia-almami-13-wadaginam",
+              "name": "13 - WADAGINAM",
+              "registeredVoters": 802
+            },
+            {
+              "id": "bogia-almami-14-sirikin",
+              "name": "14 - SIRIKIN",
+              "registeredVoters": 625
+            },
+            {
+              "id": "bogia-almami-15-sanavat",
+              "name": "15 - SANAVAT",
+              "registeredVoters": 224
+            },
+            {
+              "id": "bogia-almami-16-yakiba",
+              "name": "16 - YAKIBA",
+              "registeredVoters": 195
+            },
+            {
+              "id": "bogia-almami-17-yavera",
+              "name": "17 - YAVERA",
+              "registeredVoters": 154
+            },
+            {
+              "id": "bogia-almami-18-mugumat",
+              "name": "18 - MUGUMAT",
+              "registeredVoters": 444
+            },
+            {
+              "id": "bogia-almami-19-suvat",
+              "name": "19 - SUVAT",
+              "registeredVoters": 518
+            },
+            {
+              "id": "bogia-almami-20-dugumor",
+              "name": "20 - DUGUMOR",
+              "registeredVoters": 921
+            },
+            {
+              "id": "bogia-almami-21-busip",
+              "name": "21 - BUSIP",
+              "registeredVoters": 589
+            },
+            {
+              "id": "bogia-almami-22-tamakot",
+              "name": "22 - TAMAKOT",
+              "registeredVoters": 471
+            },
+            {
+              "id": "bogia-almami-23-malala-1",
+              "name": "23 - MALALA 1",
+              "registeredVoters": 667
+            },
+            {
+              "id": "bogia-almami-24-sapra",
+              "name": "24 - SAPRA",
+              "registeredVoters": 905
+            },
+            {
+              "id": "bogia-almami-25-malala-2",
+              "name": "25 - MALALA 2",
+              "registeredVoters": 424
+            },
+            {
+              "id": "bogia-almami-26-susure",
+              "name": "26 - SUSURE",
+              "registeredVoters": 271
+            },
+            {
+              "id": "bogia-almami-27-manugar",
+              "name": "27 - MANUGAR",
+              "registeredVoters": 349
+            },
+            {
+              "id": "bogia-almami-28-gugubar",
+              "name": "28 - GUGUBAR",
+              "registeredVoters": 171
+            },
+            {
+              "id": "bogia-almami-29-ulatapun",
+              "name": "29 - ULATAPUN",
+              "registeredVoters": 202
+            },
+            {
+              "id": "bogia-almami-30-misibura",
+              "name": "30 - MISIBURA",
+              "registeredVoters": 258
+            },
+            {
+              "id": "bogia-almami-31-papur",
+              "name": "31 - PAPUR",
+              "registeredVoters": 376
+            },
+            {
+              "id": "bogia-almami-32-wawak",
+              "name": "32 - WAWAK",
+              "registeredVoters": 484
+            },
+            {
+              "id": "bogia-almami-33-korak",
+              "name": "33 - KORAK",
+              "registeredVoters": 286
+            },
+            {
+              "id": "bogia-almami-34-sikor",
+              "name": "34 - SIKOR",
+              "registeredVoters": 554
+            },
+            {
+              "id": "bogia-almami-35-toto",
+              "name": "35 - TOTO",
+              "registeredVoters": 261
+            },
+            {
+              "id": "bogia-almami-36-medebur",
+              "name": "36 - MEDEBUR",
+              "registeredVoters": 625
             }
           ]
         },
         {
-          "id": "bogia-manam",
-          "name": "Manam LLG",
+          "id": "bogia-iabu",
+          "name": "Iabu LLG",
           "electorateSlug": "bogia",
           "wards": [
             {
-              "id": "manam-w01",
-              "name": "Ward 1",
-              "registeredVoters": 4687
+              "id": "bogia-iabu-1-baliau",
+              "name": "1 - BALIAU",
+              "registeredVoters": 977
             },
             {
-              "id": "manam-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2901
+              "id": "bogia-iabu-2-dangale",
+              "name": "2 - DANGALE",
+              "registeredVoters": 334
             },
             {
-              "id": "manam-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2820
+              "id": "bogia-iabu-3-koalang",
+              "name": "3 - KOALANG",
+              "registeredVoters": 258
             },
             {
-              "id": "manam-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3577
+              "id": "bogia-iabu-4-boakure",
+              "name": "4 - BOAKURE",
+              "registeredVoters": 268
+            },
+            {
+              "id": "bogia-iabu-5-abaria",
+              "name": "5 - ABARIA",
+              "registeredVoters": 391
+            },
+            {
+              "id": "bogia-iabu-6-warisi",
+              "name": "6 - WARISI",
+              "registeredVoters": 205
+            },
+            {
+              "id": "bogia-iabu-7-dugulaba",
+              "name": "7 - DUGULABA",
+              "registeredVoters": 917
+            },
+            {
+              "id": "bogia-iabu-8-budua",
+              "name": "8 - BUDUA",
+              "registeredVoters": 213
+            },
+            {
+              "id": "bogia-iabu-9-madauri",
+              "name": "9 - MADAURI",
+              "registeredVoters": 223
+            },
+            {
+              "id": "bogia-iabu-10-waia",
+              "name": "10 - WAIA",
+              "registeredVoters": 321
+            },
+            {
+              "id": "bogia-iabu-11-jogari",
+              "name": "11 - JOGARI",
+              "registeredVoters": 527
+            },
+            {
+              "id": "bogia-iabu-12-yassa",
+              "name": "12 - YASSA",
+              "registeredVoters": 441
+            },
+            {
+              "id": "bogia-iabu-13-kuluguma",
+              "name": "13 - KULUGUMA",
+              "registeredVoters": 365
+            },
+            {
+              "id": "bogia-iabu-14-boda",
+              "name": "14 - BODA",
+              "registeredVoters": 621
+            },
+            {
+              "id": "bogia-iabu-15-bieng",
+              "name": "15 - BIENG",
+              "registeredVoters": 248
             }
           ]
         },
         {
-          "id": "bogia-tangu-andarum",
-          "name": "Tangu-Andarum LLG",
+          "id": "bogia-yawar",
+          "name": "Yawar LLG",
           "electorateSlug": "bogia",
           "wards": [
             {
-              "id": "tangu-andarum-w01",
-              "name": "Ward 1",
-              "registeredVoters": 6722
+              "id": "bogia-yawar-1-marangis",
+              "name": "1 - MARANGIS",
+              "registeredVoters": 406
             },
             {
-              "id": "tangu-andarum-w02",
-              "name": "Ward 2",
-              "registeredVoters": 4806
+              "id": "bogia-yawar-2-kaiyan",
+              "name": "2 - KAIYAN",
+              "registeredVoters": 795
             },
             {
-              "id": "tangu-andarum-w03",
-              "name": "Ward 3",
-              "registeredVoters": 4640
+              "id": "bogia-yawar-3-galek",
+              "name": "3 - GALEK",
+              "registeredVoters": 907
+            },
+            {
+              "id": "bogia-yawar-4-kabuk",
+              "name": "4 - KABUK",
+              "registeredVoters": 533
+            },
+            {
+              "id": "bogia-yawar-5-daiden",
+              "name": "5 - DAIDEN",
+              "registeredVoters": 414
+            },
+            {
+              "id": "bogia-yawar-6-goinbang",
+              "name": "6 - GOINBANG",
+              "registeredVoters": 842
+            },
+            {
+              "id": "bogia-yawar-7-awar",
+              "name": "7 - AWAR",
+              "registeredVoters": 406
+            },
+            {
+              "id": "bogia-yawar-8-nubia",
+              "name": "8 - NUBIA",
+              "registeredVoters": 392
+            },
+            {
+              "id": "bogia-yawar-9-seven-1",
+              "name": "9 - SEVEN 1",
+              "registeredVoters": 705
+            },
+            {
+              "id": "bogia-yawar-10-rugasak",
+              "name": "10 - RUGASAK",
+              "registeredVoters": 880
+            },
+            {
+              "id": "bogia-yawar-11-kosakosa",
+              "name": "11 - KOSAKOSA",
+              "registeredVoters": 839
+            },
+            {
+              "id": "bogia-yawar-12-bogia",
+              "name": "12 - BOGIA",
+              "registeredVoters": 228
+            },
+            {
+              "id": "bogia-yawar-13-sepa",
+              "name": "13 - SEPA",
+              "registeredVoters": 356
+            },
+            {
+              "id": "bogia-yawar-14-warames",
+              "name": "14 - WARAMES",
+              "registeredVoters": 751
+            },
+            {
+              "id": "bogia-yawar-15-banang",
+              "name": "15 - BANANG",
+              "registeredVoters": 313
+            },
+            {
+              "id": "bogia-yawar-16-hansa-bay",
+              "name": "16 - HANSA BAY",
+              "registeredVoters": 783
+            },
+            {
+              "id": "bogia-yawar-17-wemnem",
+              "name": "17 - WEMNEM",
+              "registeredVoters": 777
+            },
+            {
+              "id": "bogia-yawar-18-kumnung",
+              "name": "18 - KUMNUNG",
+              "registeredVoters": 521
+            },
+            {
+              "id": "bogia-yawar-19-akukum",
+              "name": "19 - AKUKUM",
+              "registeredVoters": 681
+            },
+            {
+              "id": "bogia-yawar-20-korak",
+              "name": "20 - KORAK",
+              "registeredVoters": 176
+            },
+            {
+              "id": "bogia-yawar-21-mikarew",
+              "name": "21 - MIKAREW",
+              "registeredVoters": 1149
+            },
+            {
+              "id": "bogia-yawar-22-abegini",
+              "name": "22 - ABEGINI",
+              "registeredVoters": 672
+            },
+            {
+              "id": "bogia-yawar-23-dinam",
+              "name": "23 - DINAM",
+              "registeredVoters": 767
+            },
+            {
+              "id": "bogia-yawar-24-apengan",
+              "name": "24 - APENGAN",
+              "registeredVoters": 300
+            },
+            {
+              "id": "bogia-yawar-25-ariangon",
+              "name": "25 - ARIANGON",
+              "registeredVoters": 900
+            },
+            {
+              "id": "bogia-yawar-26-amber",
+              "name": "26 - AMBER",
+              "registeredVoters": 740
+            },
+            {
+              "id": "bogia-yawar-27-aringen",
+              "name": "27 - ARINGEN",
+              "registeredVoters": 527
+            },
+            {
+              "id": "bogia-yawar-28-sirin",
+              "name": "28 - SIRIN",
+              "registeredVoters": 499
+            },
+            {
+              "id": "bogia-yawar-29-wazamb",
+              "name": "29 - WAZAMB",
+              "registeredVoters": 1140
+            },
+            {
+              "id": "bogia-yawar-30-amuk",
+              "name": "30 - AMUK",
+              "registeredVoters": 695
+            },
+            {
+              "id": "bogia-yawar-31-duapmung",
+              "name": "31 - DUAPMUNG",
+              "registeredVoters": 526
+            },
+            {
+              "id": "bogia-yawar-32-andarum",
+              "name": "32 - ANDARUM",
+              "registeredVoters": 452
+            },
+            {
+              "id": "bogia-yawar-33-isung",
+              "name": "33 - ISUNG",
+              "registeredVoters": 430
+            },
+            {
+              "id": "bogia-yawar-34-barit",
+              "name": "34 - BARIT",
+              "registeredVoters": 693
+            },
+            {
+              "id": "bogia-yawar-35-zukin",
+              "name": "35 - ZUKIN",
+              "registeredVoters": 1476
+            },
+            {
+              "id": "bogia-yawar-36-wokam",
+              "name": "36 - WOKAM",
+              "registeredVoters": 846
+            },
+            {
+              "id": "bogia-yawar-37-taringi",
+              "name": "37 - TARINGI",
+              "registeredVoters": 365
+            },
+            {
+              "id": "bogia-yawar-38-wanam",
+              "name": "38 - WANAM",
+              "registeredVoters": 441
+            },
+            {
+              "id": "bogia-yawar-39-akurai",
+              "name": "39 - AKURAI",
+              "registeredVoters": 693
             }
           ]
         }
@@ -326,148 +752,179 @@
       "electorateSlug": "middle-ramu",
       "llgs": [
         {
-          "id": "middle-ramu-middle-ramu",
-          "name": "Middle Ramu LLG",
+          "id": "middle-ramu-arabaka",
+          "name": "Arabaka LLG",
           "electorateSlug": "middle-ramu",
           "wards": [
             {
-              "id": "middle-ramu-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1406
+              "id": "middle-ramu-arabaka-1-gonmu",
+              "name": "1 - GONMU",
+              "registeredVoters": 1445
             },
             {
-              "id": "middle-ramu-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1112
+              "id": "middle-ramu-arabaka-2-wobu",
+              "name": "2 - WOBU",
+              "registeredVoters": 662
             },
             {
-              "id": "middle-ramu-w03",
-              "name": "Ward 3",
-              "registeredVoters": 886
+              "id": "middle-ramu-arabaka-3-atiapi",
+              "name": "3 - ATIAPI",
+              "registeredVoters": 556
             },
             {
-              "id": "middle-ramu-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1380
+              "id": "middle-ramu-arabaka-4-diam",
+              "name": "4 - DIAM",
+              "registeredVoters": 484
             },
             {
-              "id": "middle-ramu-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1313
+              "id": "middle-ramu-arabaka-5-moibu",
+              "name": "5 - MOIBU",
+              "registeredVoters": 633
             },
             {
-              "id": "middle-ramu-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1168
+              "id": "middle-ramu-arabaka-6-sabu",
+              "name": "6 - SABU",
+              "registeredVoters": 528
             },
             {
-              "id": "middle-ramu-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1521
+              "id": "middle-ramu-arabaka-7-nodabu",
+              "name": "7 - NODABU",
+              "registeredVoters": 624
             },
             {
-              "id": "middle-ramu-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1185
+              "id": "middle-ramu-arabaka-8-paibu",
+              "name": "8 - PAIBU",
+              "registeredVoters": 531
             },
             {
-              "id": "middle-ramu-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1124
+              "id": "middle-ramu-arabaka-9-dibu",
+              "name": "9 - DIBU",
+              "registeredVoters": 646
             },
             {
-              "id": "middle-ramu-w10",
-              "name": "Ward 10",
-              "registeredVoters": 1703
-            }
-          ]
-        },
-        {
-          "id": "middle-ramu-aiome",
-          "name": "Aiome LLG",
-          "electorateSlug": "middle-ramu",
-          "wards": [
-            {
-              "id": "aiome-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1704
+              "id": "middle-ramu-arabaka-10-gerengaru",
+              "name": "10 - GERENGARU",
+              "registeredVoters": 710
             },
             {
-              "id": "aiome-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2399
+              "id": "middle-ramu-arabaka-11-chungribu",
+              "name": "11 - CHUNGRIBU",
+              "registeredVoters": 697
             },
             {
-              "id": "aiome-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1441
+              "id": "middle-ramu-arabaka-12-wangebu",
+              "name": "12 - WANGEBU",
+              "registeredVoters": 725
             },
             {
-              "id": "aiome-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1447
+              "id": "middle-ramu-arabaka-13-kwanga",
+              "name": "13 - KWANGA",
+              "registeredVoters": 913
             },
             {
-              "id": "aiome-w05",
-              "name": "Ward 5",
-              "registeredVoters": 3517
+              "id": "middle-ramu-arabaka-14-igana",
+              "name": "14 - IGANA",
+              "registeredVoters": 733
             },
             {
-              "id": "aiome-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2353
+              "id": "middle-ramu-arabaka-15-misingi-mwingi",
+              "name": "15 - MISINGI (MWINGI)",
+              "registeredVoters": 1650
             },
             {
-              "id": "aiome-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1796
-            }
-          ]
-        },
-        {
-          "id": "middle-ramu-simbai",
-          "name": "Simbai LLG",
-          "electorateSlug": "middle-ramu",
-          "wards": [
-            {
-              "id": "simbai-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1793
+              "id": "middle-ramu-arabaka-16-jumbar",
+              "name": "16 - JUMBAR",
+              "registeredVoters": 549
             },
             {
-              "id": "simbai-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1576
+              "id": "middle-ramu-arabaka-17-jabis",
+              "name": "17 - JABIS",
+              "registeredVoters": 331
             },
             {
-              "id": "simbai-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1375
+              "id": "middle-ramu-arabaka-18-bunumgum",
+              "name": "18 - BUNUMGUM",
+              "registeredVoters": 337
             },
             {
-              "id": "simbai-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1810
+              "id": "middle-ramu-arabaka-19-gosingi",
+              "name": "19 - GOSINGI",
+              "registeredVoters": 662
             },
             {
-              "id": "simbai-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1795
+              "id": "middle-ramu-arabaka-20-mereto",
+              "name": "20 - MERETO",
+              "registeredVoters": 462
             },
             {
-              "id": "simbai-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1735
+              "id": "middle-ramu-arabaka-21-akurukai",
+              "name": "21 - AKURUKAI",
+              "registeredVoters": 228
             },
             {
-              "id": "simbai-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1326
+              "id": "middle-ramu-arabaka-22-wawapi",
+              "name": "22 - WAWAPI",
+              "registeredVoters": 318
             },
             {
-              "id": "simbai-w08",
-              "name": "Ward 8",
-              "registeredVoters": 861
+              "id": "middle-ramu-arabaka-23-pungambu",
+              "name": "23 - PUNGAMBU",
+              "registeredVoters": 279
+            },
+            {
+              "id": "middle-ramu-arabaka-24-rarapi",
+              "name": "24 - RARAPI",
+              "registeredVoters": 334
+            },
+            {
+              "id": "middle-ramu-arabaka-25-awam-isowak",
+              "name": "25 - AWAM/ISOWAK",
+              "registeredVoters": 279
+            },
+            {
+              "id": "middle-ramu-arabaka-26-pasingap",
+              "name": "26 - PASINGAP",
+              "registeredVoters": 420
+            },
+            {
+              "id": "middle-ramu-arabaka-27-itarangu",
+              "name": "27 - ITARANGU",
+              "registeredVoters": 355
+            },
+            {
+              "id": "middle-ramu-arabaka-28-atemble",
+              "name": "28 - ATEMBLE",
+              "registeredVoters": 260
+            },
+            {
+              "id": "middle-ramu-arabaka-29-kurakem",
+              "name": "29 - KURAKEM",
+              "registeredVoters": 349
+            },
+            {
+              "id": "middle-ramu-arabaka-30-iragarat",
+              "name": "30 - IRAGARAT",
+              "registeredVoters": 669
+            },
+            {
+              "id": "middle-ramu-arabaka-31-anamunk",
+              "name": "31 - ANAMUNK",
+              "registeredVoters": 513
+            },
+            {
+              "id": "middle-ramu-arabaka-32-apanam",
+              "name": "32 - APANAM",
+              "registeredVoters": 434
+            },
+            {
+              "id": "middle-ramu-arabaka-33-jogoi",
+              "name": "33 - JOGOI",
+              "registeredVoters": 230
+            },
+            {
+              "id": "middle-ramu-arabaka-34-sotobu",
+              "name": "34 - SOTOBU",
+              "registeredVoters": 552
             }
           ]
         },
@@ -477,44 +934,325 @@
           "electorateSlug": "middle-ramu",
           "wards": [
             {
-              "id": "josephstaal-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1638
+              "id": "middle-ramu-josephstaal-1-ingalava",
+              "name": "1 - INGALAVA",
+              "registeredVoters": 854
             },
             {
-              "id": "josephstaal-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1105
+              "id": "middle-ramu-josephstaal-2-bogen",
+              "name": "2 - BOGEN",
+              "registeredVoters": 599
             },
             {
-              "id": "josephstaal-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2183
+              "id": "middle-ramu-josephstaal-3-osum",
+              "name": "3 - OSUM",
+              "registeredVoters": 735
             },
             {
-              "id": "josephstaal-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1372
+              "id": "middle-ramu-josephstaal-4-makapai",
+              "name": "4 - MAKAPAI",
+              "registeredVoters": 555
             },
             {
-              "id": "josephstaal-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1286
+              "id": "middle-ramu-josephstaal-5-mindivi",
+              "name": "5 - MINDIVI",
+              "registeredVoters": 1379
             },
             {
-              "id": "josephstaal-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2063
+              "id": "middle-ramu-josephstaal-6-mandugar",
+              "name": "6 - MANDUGAR",
+              "registeredVoters": 1135
             },
             {
-              "id": "josephstaal-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2222
+              "id": "middle-ramu-josephstaal-7-pangasav",
+              "name": "7 - PANGASAV",
+              "registeredVoters": 631
             },
             {
-              "id": "josephstaal-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1156
+              "id": "middle-ramu-josephstaal-8-kisila",
+              "name": "8 - KISILA",
+              "registeredVoters": 230
+            },
+            {
+              "id": "middle-ramu-josephstaal-9-kokopogasa",
+              "name": "9 - KOKOPOGASA",
+              "registeredVoters": 452
+            },
+            {
+              "id": "middle-ramu-josephstaal-10-kangarangat",
+              "name": "10 - KANGARANGAT",
+              "registeredVoters": 252
+            },
+            {
+              "id": "middle-ramu-josephstaal-11-iamamuk",
+              "name": "11 - IAMAMUK",
+              "registeredVoters": 189
+            },
+            {
+              "id": "middle-ramu-josephstaal-12-inasi",
+              "name": "12 - INASI",
+              "registeredVoters": 138
+            },
+            {
+              "id": "middle-ramu-josephstaal-13-mavunai",
+              "name": "13 - MAVUNAI",
+              "registeredVoters": 633
+            },
+            {
+              "id": "middle-ramu-josephstaal-14-katiati",
+              "name": "14 - KATIATI",
+              "registeredVoters": 985
+            },
+            {
+              "id": "middle-ramu-josephstaal-15-niksapai",
+              "name": "15 - NIKSAPAI",
+              "registeredVoters": 269
+            },
+            {
+              "id": "middle-ramu-josephstaal-16-ivarai",
+              "name": "16 - IVARAI",
+              "registeredVoters": 311
+            },
+            {
+              "id": "middle-ramu-josephstaal-17-kimbugor",
+              "name": "17 - KIMBUGOR",
+              "registeredVoters": 520
+            },
+            {
+              "id": "middle-ramu-josephstaal-18-indavi",
+              "name": "18 - INDAVI",
+              "registeredVoters": 257
+            },
+            {
+              "id": "middle-ramu-josephstaal-19-gutepuk",
+              "name": "19 - GUTEPUK",
+              "registeredVoters": 1188
+            }
+          ]
+        },
+        {
+          "id": "middle-ramu-kovon",
+          "name": "Kovon LLG",
+          "electorateSlug": "middle-ramu",
+          "wards": [
+            {
+              "id": "middle-ramu-kovon-1-salemp",
+              "name": "1 - SALEMP",
+              "registeredVoters": 516
+            },
+            {
+              "id": "middle-ramu-kovon-2-sonvak",
+              "name": "2 - SONVAK",
+              "registeredVoters": 1301
+            },
+            {
+              "id": "middle-ramu-kovon-3-wowo",
+              "name": "3 - WOWO",
+              "registeredVoters": 884
+            },
+            {
+              "id": "middle-ramu-kovon-4-angavle",
+              "name": "4 - ANGAVLE",
+              "registeredVoters": 328
+            },
+            {
+              "id": "middle-ramu-kovon-5-wulim",
+              "name": "5 - WULIM",
+              "registeredVoters": 503
+            },
+            {
+              "id": "middle-ramu-kovon-6-yahl",
+              "name": "6 - YAHL",
+              "registeredVoters": 287
+            },
+            {
+              "id": "middle-ramu-kovon-7-aradip",
+              "name": "7 - ARADIP",
+              "registeredVoters": 407
+            },
+            {
+              "id": "middle-ramu-kovon-8-fitako",
+              "name": "8 - FITAKO",
+              "registeredVoters": 492
+            },
+            {
+              "id": "middle-ramu-kovon-9-sangapi",
+              "name": "9 - SANGAPI",
+              "registeredVoters": 935
+            },
+            {
+              "id": "middle-ramu-kovon-10-goibam",
+              "name": "10 - GOIBAM",
+              "registeredVoters": 595
+            },
+            {
+              "id": "middle-ramu-kovon-11-gubaine",
+              "name": "11 - GUBAINE",
+              "registeredVoters": 1069
+            },
+            {
+              "id": "middle-ramu-kovon-12-gebrau",
+              "name": "12 - GEBRAU",
+              "registeredVoters": 535
+            },
+            {
+              "id": "middle-ramu-kovon-13-tingi",
+              "name": "13 - TINGI",
+              "registeredVoters": 492
+            },
+            {
+              "id": "middle-ramu-kovon-14-mamusi",
+              "name": "14 - MAMUSI",
+              "registeredVoters": 283
+            },
+            {
+              "id": "middle-ramu-kovon-15-yilu",
+              "name": "15 - YILU",
+              "registeredVoters": 421
+            }
+          ]
+        },
+        {
+          "id": "middle-ramu-simbai",
+          "name": "Simbai LLG",
+          "electorateSlug": "middle-ramu",
+          "wards": [
+            {
+              "id": "middle-ramu-simbai-1-ainong",
+              "name": "1 - AINONG",
+              "registeredVoters": 501
+            },
+            {
+              "id": "middle-ramu-simbai-2-momuk",
+              "name": "2 - MOMUK",
+              "registeredVoters": 1020
+            },
+            {
+              "id": "middle-ramu-simbai-3-kaironk",
+              "name": "3 - KAIRONK",
+              "registeredVoters": 481
+            },
+            {
+              "id": "middle-ramu-simbai-4-fongoi",
+              "name": "4 - FONGOI",
+              "registeredVoters": 428
+            },
+            {
+              "id": "middle-ramu-simbai-5-fundum",
+              "name": "5 - FUNDUM",
+              "registeredVoters": 743
+            },
+            {
+              "id": "middle-ramu-simbai-6-gubun",
+              "name": "6 - GUBUN",
+              "registeredVoters": 1161
+            },
+            {
+              "id": "middle-ramu-simbai-7-nugunt",
+              "name": "7 - NUGUNT",
+              "registeredVoters": 1397
+            },
+            {
+              "id": "middle-ramu-simbai-8-koki",
+              "name": "8 - KOKI",
+              "registeredVoters": 704
+            },
+            {
+              "id": "middle-ramu-simbai-9-yambuglem",
+              "name": "9 - YAMBUGLEM",
+              "registeredVoters": 490
+            },
+            {
+              "id": "middle-ramu-simbai-10-kerevin",
+              "name": "10 - KEREVIN",
+              "registeredVoters": 565
+            },
+            {
+              "id": "middle-ramu-simbai-11-kurumdeck",
+              "name": "11 - KURUMDECK",
+              "registeredVoters": 1020
+            },
+            {
+              "id": "middle-ramu-simbai-12-kandum",
+              "name": "12 - KANDUM",
+              "registeredVoters": 743
+            },
+            {
+              "id": "middle-ramu-simbai-13-giringiri",
+              "name": "13 - GIRINGIRI",
+              "registeredVoters": 522
+            },
+            {
+              "id": "middle-ramu-simbai-14-aigram",
+              "name": "14 - AIGRAM",
+              "registeredVoters": 786
+            },
+            {
+              "id": "middle-ramu-simbai-15-dundulomp",
+              "name": "15 - DUNDULOMP",
+              "registeredVoters": 373
+            },
+            {
+              "id": "middle-ramu-simbai-16-kampanying",
+              "name": "16 - KAMPANYING",
+              "registeredVoters": 666
+            },
+            {
+              "id": "middle-ramu-simbai-17-babaimi",
+              "name": "17 - BABAIMI",
+              "registeredVoters": 739
+            },
+            {
+              "id": "middle-ramu-simbai-18-kumbruf",
+              "name": "18 - KUMBRUF",
+              "registeredVoters": 1737
+            },
+            {
+              "id": "middle-ramu-simbai-19-tsungup",
+              "name": "19 - TSUNGUP",
+              "registeredVoters": 951
+            }
+          ]
+        },
+        {
+          "id": "middle-ramu-wanuma",
+          "name": "Wanuma LLG",
+          "electorateSlug": "middle-ramu",
+          "wards": [
+            {
+              "id": "middle-ramu-wanuma-1-kamambu",
+              "name": "1 - KAMAMBU",
+              "registeredVoters": 359
+            },
+            {
+              "id": "middle-ramu-wanuma-2-wanuma",
+              "name": "2 - WANUMA",
+              "registeredVoters": 311
+            },
+            {
+              "id": "middle-ramu-wanuma-3-kawat",
+              "name": "3 - KAWAT",
+              "registeredVoters": 497
+            },
+            {
+              "id": "middle-ramu-wanuma-4-atitau",
+              "name": "4 - ATITAU",
+              "registeredVoters": 217
+            },
+            {
+              "id": "middle-ramu-wanuma-5-megirau",
+              "name": "5 - MEGIRAU",
+              "registeredVoters": 576
+            },
+            {
+              "id": "middle-ramu-wanuma-6-avatamur",
+              "name": "6 - AVATAMUR",
+              "registeredVoters": 649
+            },
+            {
+              "id": "middle-ramu-wanuma-7-koguma",
+              "name": "7 - KOGUMA",
+              "registeredVoters": 285
             }
           ]
         }
@@ -524,135 +1262,450 @@
       "electorateSlug": "rai-coast",
       "llgs": [
         {
-          "id": "rai-coast-rai-coast",
-          "name": "Rai Coast LLG",
-          "electorateSlug": "rai-coast",
-          "wards": [
-            {
-              "id": "rai-coast-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1919
-            },
-            {
-              "id": "rai-coast-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1499
-            },
-            {
-              "id": "rai-coast-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2653
-            },
-            {
-              "id": "rai-coast-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1916
-            },
-            {
-              "id": "rai-coast-w05",
-              "name": "Ward 5",
-              "registeredVoters": 3551
-            },
-            {
-              "id": "rai-coast-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1636
-            }
-          ]
-        },
-        {
-          "id": "rai-coast-nahu-rawa",
-          "name": "Nahu Rawa LLG",
-          "electorateSlug": "rai-coast",
-          "wards": [
-            {
-              "id": "nahu-rawa-w01",
-              "name": "Ward 1",
-              "registeredVoters": 4438
-            },
-            {
-              "id": "nahu-rawa-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2918
-            },
-            {
-              "id": "nahu-rawa-w03",
-              "name": "Ward 3",
-              "registeredVoters": 5637
-            }
-          ]
-        },
-        {
           "id": "rai-coast-astrolabe-bay",
           "name": "Astrolabe Bay LLG",
           "electorateSlug": "rai-coast",
           "wards": [
             {
-              "id": "astrolabe-bay-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3605
+              "id": "rai-coast-astrolabe-bay-1-kul",
+              "name": "1 - KUL",
+              "registeredVoters": 954
             },
             {
-              "id": "astrolabe-bay-w02",
-              "name": "Ward 2",
-              "registeredVoters": 6179
+              "id": "rai-coast-astrolabe-bay-2-bangri",
+              "name": "2 - BANGRI",
+              "registeredVoters": 546
             },
             {
-              "id": "astrolabe-bay-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2885
+              "id": "rai-coast-astrolabe-bay-3-bang",
+              "name": "3 - BANG",
+              "registeredVoters": 979
+            },
+            {
+              "id": "rai-coast-astrolabe-bay-4-bongu",
+              "name": "4 - BONGU",
+              "registeredVoters": 773
+            },
+            {
+              "id": "rai-coast-astrolabe-bay-5-boram",
+              "name": "5 - BORAM",
+              "registeredVoters": 619
+            },
+            {
+              "id": "rai-coast-astrolabe-bay-6-male",
+              "name": "6 - MALE",
+              "registeredVoters": 986
+            },
+            {
+              "id": "rai-coast-astrolabe-bay-7-lalok",
+              "name": "7 - LALOK",
+              "registeredVoters": 768
+            },
+            {
+              "id": "rai-coast-astrolabe-bay-8-kulel",
+              "name": "8 - KULEL",
+              "registeredVoters": 1274
+            },
+            {
+              "id": "rai-coast-astrolabe-bay-9-saipa",
+              "name": "9 - SAIPA",
+              "registeredVoters": 450
+            },
+            {
+              "id": "rai-coast-astrolabe-bay-10-bom",
+              "name": "10 - BOM",
+              "registeredVoters": 1109
+            },
+            {
+              "id": "rai-coast-astrolabe-bay-11-jamjam",
+              "name": "11 - JAMJAM",
+              "registeredVoters": 1732
+            },
+            {
+              "id": "rai-coast-astrolabe-bay-12-kwato",
+              "name": "12 - KWATO",
+              "registeredVoters": 740
+            },
+            {
+              "id": "rai-coast-astrolabe-bay-13-erima",
+              "name": "13 - ERIMA",
+              "registeredVoters": 1547
+            },
+            {
+              "id": "rai-coast-astrolabe-bay-14-ato",
+              "name": "14 - ATO",
+              "registeredVoters": 1250
+            },
+            {
+              "id": "rai-coast-astrolabe-bay-15-ileg",
+              "name": "15 - ILEG",
+              "registeredVoters": 79
             }
           ]
         },
         {
-          "id": "rai-coast-saidor",
-          "name": "Saidor LLG",
+          "id": "rai-coast-naho-rawa",
+          "name": "Naho-Rawa LLG",
           "electorateSlug": "rai-coast",
           "wards": [
             {
-              "id": "saidor-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1798
+              "id": "rai-coast-naho-rawa-1-gurumbo",
+              "name": "1 - GURUMBO",
+              "registeredVoters": 230
             },
             {
-              "id": "saidor-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1238
+              "id": "rai-coast-naho-rawa-2-mungoui",
+              "name": "2 - MUNGOUI",
+              "registeredVoters": 399
             },
             {
-              "id": "saidor-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1262
+              "id": "rai-coast-naho-rawa-3-ranara",
+              "name": "3 - RANARA",
+              "registeredVoters": 392
             },
             {
-              "id": "saidor-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1469
+              "id": "rai-coast-naho-rawa-4-boro",
+              "name": "4 - BORO",
+              "registeredVoters": 311
             },
             {
-              "id": "saidor-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1594
+              "id": "rai-coast-naho-rawa-5-tauta",
+              "name": "5 - TAUTA",
+              "registeredVoters": 478
             },
             {
-              "id": "saidor-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1378
+              "id": "rai-coast-naho-rawa-6-barim",
+              "name": "6 - BARIM",
+              "registeredVoters": 663
             },
             {
-              "id": "saidor-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1616
+              "id": "rai-coast-naho-rawa-7-goiro",
+              "name": "7 - GOIRO",
+              "registeredVoters": 504
             },
             {
-              "id": "saidor-w08",
-              "name": "Ward 8",
-              "registeredVoters": 2119
+              "id": "rai-coast-naho-rawa-8-mungo",
+              "name": "8 - MUNGO",
+              "registeredVoters": 653
             },
             {
-              "id": "saidor-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1476
+              "id": "rai-coast-naho-rawa-9-numbaiya",
+              "name": "9 - NUMBAIYA",
+              "registeredVoters": 352
+            },
+            {
+              "id": "rai-coast-naho-rawa-10-gomumu",
+              "name": "10 - GOMUMU",
+              "registeredVoters": 896
+            },
+            {
+              "id": "rai-coast-naho-rawa-11-saranga",
+              "name": "11 - SARANGA",
+              "registeredVoters": 776
+            },
+            {
+              "id": "rai-coast-naho-rawa-12-serengo",
+              "name": "12 - SERENGO",
+              "registeredVoters": 455
+            },
+            {
+              "id": "rai-coast-naho-rawa-13-kikipe",
+              "name": "13 - KIKIPE",
+              "registeredVoters": 1075
+            },
+            {
+              "id": "rai-coast-naho-rawa-14-wamunde",
+              "name": "14 - WAMUNDE",
+              "registeredVoters": 552
+            },
+            {
+              "id": "rai-coast-naho-rawa-15-wari",
+              "name": "15 - WARI",
+              "registeredVoters": 303
+            },
+            {
+              "id": "rai-coast-naho-rawa-16-butemu",
+              "name": "16 - BUTEMU",
+              "registeredVoters": 780
+            },
+            {
+              "id": "rai-coast-naho-rawa-17-bakokona",
+              "name": "17 - BAKOKONA",
+              "registeredVoters": 501
+            },
+            {
+              "id": "rai-coast-naho-rawa-18-senei",
+              "name": "18 - SENEI",
+              "registeredVoters": 390
+            },
+            {
+              "id": "rai-coast-naho-rawa-19-gumbarami",
+              "name": "19 - GUMBARAMI",
+              "registeredVoters": 447
+            },
+            {
+              "id": "rai-coast-naho-rawa-20-sewe",
+              "name": "20 - SEWE",
+              "registeredVoters": 353
+            }
+          ]
+        },
+        {
+          "id": "rai-coast-nayudo",
+          "name": "Nayudo LLG",
+          "electorateSlug": "rai-coast",
+          "wards": [
+            {
+              "id": "rai-coast-nayudo-1-kopbo",
+              "name": "1 - KOPBO",
+              "registeredVoters": 625
+            },
+            {
+              "id": "rai-coast-nayudo-2-maom",
+              "name": "2 - MAOM",
+              "registeredVoters": 536
+            },
+            {
+              "id": "rai-coast-nayudo-3-tapen",
+              "name": "3 - TAPEN",
+              "registeredVoters": 408
+            },
+            {
+              "id": "rai-coast-nayudo-4-boana",
+              "name": "4 - BOANA",
+              "registeredVoters": 509
+            },
+            {
+              "id": "rai-coast-nayudo-5-tazon",
+              "name": "5 - TAZON",
+              "registeredVoters": 196
+            },
+            {
+              "id": "rai-coast-nayudo-6-kwembum",
+              "name": "6 - KWEMBUM",
+              "registeredVoters": 523
+            },
+            {
+              "id": "rai-coast-nayudo-7-weskokop",
+              "name": "7 - WESKOKOP",
+              "registeredVoters": 709
+            },
+            {
+              "id": "rai-coast-nayudo-8-taip",
+              "name": "8 - TAIP",
+              "registeredVoters": 396
+            },
+            {
+              "id": "rai-coast-nayudo-9-bambu",
+              "name": "9 - BAMBU",
+              "registeredVoters": 250
+            },
+            {
+              "id": "rai-coast-nayudo-10-memeng",
+              "name": "10 - MEMENG",
+              "registeredVoters": 313
+            },
+            {
+              "id": "rai-coast-nayudo-11-sewan",
+              "name": "11 - SEWAN",
+              "registeredVoters": 817
+            },
+            {
+              "id": "rai-coast-nayudo-12-kandambo",
+              "name": "12 - KANDAMBO",
+              "registeredVoters": 737
+            },
+            {
+              "id": "rai-coast-nayudo-13-miok",
+              "name": "13 - MIOK",
+              "registeredVoters": 460
+            },
+            {
+              "id": "rai-coast-nayudo-14-tariknan",
+              "name": "14 - TARIKNAN",
+              "registeredVoters": 410
+            },
+            {
+              "id": "rai-coast-nayudo-15-mibu",
+              "name": "15 - MIBU",
+              "registeredVoters": 603
+            }
+          ]
+        },
+        {
+          "id": "rai-coast-rai-coast",
+          "name": "Rai Coast LLG",
+          "electorateSlug": "rai-coast",
+          "wards": [
+            {
+              "id": "rai-coast-rai-coast-1-bonga",
+              "name": "1 - BONGA",
+              "registeredVoters": 819
+            },
+            {
+              "id": "rai-coast-rai-coast-2-kepolak",
+              "name": "2 - KEPOLAK",
+              "registeredVoters": 572
+            },
+            {
+              "id": "rai-coast-rai-coast-3-baru",
+              "name": "3 - BARU",
+              "registeredVoters": 640
+            },
+            {
+              "id": "rai-coast-rai-coast-4-mamgak",
+              "name": "4 - MAMGAK",
+              "registeredVoters": 1044
+            },
+            {
+              "id": "rai-coast-rai-coast-5-mur",
+              "name": "5 - MUR",
+              "registeredVoters": 1001
+            },
+            {
+              "id": "rai-coast-rai-coast-6-umboldi",
+              "name": "6 - UMBOLDI",
+              "registeredVoters": 990
+            },
+            {
+              "id": "rai-coast-rai-coast-7-kakimar",
+              "name": "7 - KAKIMAR",
+              "registeredVoters": 701
+            },
+            {
+              "id": "rai-coast-rai-coast-8-saidor",
+              "name": "8 - SAIDOR",
+              "registeredVoters": 415
+            },
+            {
+              "id": "rai-coast-rai-coast-9-yaimas",
+              "name": "9 - YAIMAS",
+              "registeredVoters": 801
+            },
+            {
+              "id": "rai-coast-rai-coast-10-waibol",
+              "name": "10 - WAIBOL",
+              "registeredVoters": 529
+            },
+            {
+              "id": "rai-coast-rai-coast-11-biliau",
+              "name": "11 - BILIAU",
+              "registeredVoters": 1479
+            },
+            {
+              "id": "rai-coast-rai-coast-12-sibog",
+              "name": "12 - SIBOG",
+              "registeredVoters": 640
+            },
+            {
+              "id": "rai-coast-rai-coast-13-suri",
+              "name": "13 - SURI",
+              "registeredVoters": 715
+            },
+            {
+              "id": "rai-coast-rai-coast-14-bagalawa",
+              "name": "14 - BAGALAWA",
+              "registeredVoters": 351
+            },
+            {
+              "id": "rai-coast-rai-coast-15-lamtup",
+              "name": "15 - LAMTUP",
+              "registeredVoters": 603
+            },
+            {
+              "id": "rai-coast-rai-coast-16-maibang",
+              "name": "16 - MAIBANG",
+              "registeredVoters": 828
+            },
+            {
+              "id": "rai-coast-rai-coast-17-yorkia",
+              "name": "17 - YORKIA",
+              "registeredVoters": 676
+            },
+            {
+              "id": "rai-coast-rai-coast-18-sari",
+              "name": "18 - SARI",
+              "registeredVoters": 619
+            },
+            {
+              "id": "rai-coast-rai-coast-19-sorang",
+              "name": "19 - SORANG",
+              "registeredVoters": 484
+            },
+            {
+              "id": "rai-coast-rai-coast-20-kiambaui",
+              "name": "20 - KIAMBAUI",
+              "registeredVoters": 452
+            },
+            {
+              "id": "rai-coast-rai-coast-21-matoko",
+              "name": "21 - MATOKO",
+              "registeredVoters": 504
+            },
+            {
+              "id": "rai-coast-rai-coast-22-gogou",
+              "name": "22 - GOGOU",
+              "registeredVoters": 582
+            },
+            {
+              "id": "rai-coast-rai-coast-23-sarakiri",
+              "name": "23 - SARAKIRI",
+              "registeredVoters": 254
+            },
+            {
+              "id": "rai-coast-rai-coast-24-kwongo",
+              "name": "24 - KWONGO",
+              "registeredVoters": 463
+            },
+            {
+              "id": "rai-coast-rai-coast-25-basor",
+              "name": "25 - BASOR",
+              "registeredVoters": 1078
+            },
+            {
+              "id": "rai-coast-rai-coast-26-simididi",
+              "name": "26 - SIMIDIDI",
+              "registeredVoters": 253
+            },
+            {
+              "id": "rai-coast-rai-coast-27-kubigam",
+              "name": "27 - KUBIGAM",
+              "registeredVoters": 385
+            },
+            {
+              "id": "rai-coast-rai-coast-28-kulilau",
+              "name": "28 - KULILAU",
+              "registeredVoters": 973
+            },
+            {
+              "id": "rai-coast-rai-coast-29-orinma",
+              "name": "29 - ORINMA",
+              "registeredVoters": 575
+            },
+            {
+              "id": "rai-coast-rai-coast-30-mebu",
+              "name": "30 - MEBU",
+              "registeredVoters": 823
+            },
+            {
+              "id": "rai-coast-rai-coast-31-guhu",
+              "name": "31 - GUHU",
+              "registeredVoters": 569
+            },
+            {
+              "id": "rai-coast-rai-coast-32-malaia",
+              "name": "32 - MALAIA",
+              "registeredVoters": 256
+            },
+            {
+              "id": "rai-coast-rai-coast-33-bok",
+              "name": "33 - BOK",
+              "registeredVoters": 859
+            },
+            {
+              "id": "rai-coast-rai-coast-34-matafun",
+              "name": "34 - MATAFUN",
+              "registeredVoters": 349
             }
           ]
         }
@@ -662,123 +1715,343 @@
       "electorateSlug": "sumkar",
       "llgs": [
         {
-          "id": "sumkar-sumkar",
-          "name": "Sumkar LLG",
+          "id": "sumkar-north-karkar",
+          "name": "North Karkar LLG",
           "electorateSlug": "sumkar",
           "wards": [
             {
-              "id": "sumkar-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1501
+              "id": "sumkar-north-karkar-1-badilu",
+              "name": "1 - BADILU",
+              "registeredVoters": 403
             },
             {
-              "id": "sumkar-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1952
+              "id": "sumkar-north-karkar-2-matiu",
+              "name": "2 - MATIU",
+              "registeredVoters": 806
             },
             {
-              "id": "sumkar-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1903
+              "id": "sumkar-north-karkar-3-apare",
+              "name": "3 - APARE",
+              "registeredVoters": 615
             },
             {
-              "id": "sumkar-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2237
+              "id": "sumkar-north-karkar-4-kaviak",
+              "name": "4 - KAVIAK",
+              "registeredVoters": 1409
             },
             {
-              "id": "sumkar-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2041
+              "id": "sumkar-north-karkar-5-kinim",
+              "name": "5 - KINIM",
+              "registeredVoters": 113
             },
             {
-              "id": "sumkar-w06",
-              "name": "Ward 6",
-              "registeredVoters": 4236
+              "id": "sumkar-north-karkar-6-narer",
+              "name": "6 - NARER",
+              "registeredVoters": 891
             },
             {
-              "id": "sumkar-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2467
+              "id": "sumkar-north-karkar-7-urara",
+              "name": "7 - URARA",
+              "registeredVoters": 1679
+            },
+            {
+              "id": "sumkar-north-karkar-8-bangme",
+              "name": "8 - BANGME",
+              "registeredVoters": 912
+            },
+            {
+              "id": "sumkar-north-karkar-9-gial",
+              "name": "9 - GIAL",
+              "registeredVoters": 1035
+            },
+            {
+              "id": "sumkar-north-karkar-10-tugutugu",
+              "name": "10 - TUGUTUGU",
+              "registeredVoters": 797
+            },
+            {
+              "id": "sumkar-north-karkar-11-dimer",
+              "name": "11 - DIMER",
+              "registeredVoters": 1000
+            },
+            {
+              "id": "sumkar-north-karkar-12-kaul-1",
+              "name": "12 - KAUL 1",
+              "registeredVoters": 1326
+            },
+            {
+              "id": "sumkar-north-karkar-13-kaul-3",
+              "name": "13 - KAUL 3",
+              "registeredVoters": 1267
+            },
+            {
+              "id": "sumkar-north-karkar-14-mapor",
+              "name": "14 - MAPOR",
+              "registeredVoters": 824
             }
           ]
         },
         {
-          "id": "sumkar-karkar-island",
-          "name": "Karkar Island LLG",
+          "id": "sumkar-south-karkar",
+          "name": "South Karkar LLG",
           "electorateSlug": "sumkar",
           "wards": [
             {
-              "id": "karkar-island-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1615
+              "id": "sumkar-south-karkar-1-muluk",
+              "name": "1 - MULUK",
+              "registeredVoters": 1402
             },
             {
-              "id": "karkar-island-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1160
+              "id": "sumkar-south-karkar-2-kubam",
+              "name": "2 - KUBAM",
+              "registeredVoters": 933
             },
             {
-              "id": "karkar-island-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2214
+              "id": "sumkar-south-karkar-3-kavailo",
+              "name": "3 - KAVAILO",
+              "registeredVoters": 876
             },
             {
-              "id": "karkar-island-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1153
+              "id": "sumkar-south-karkar-4-pain",
+              "name": "4 - PAIN",
+              "registeredVoters": 966
             },
             {
-              "id": "karkar-island-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1201
+              "id": "sumkar-south-karkar-5-komoria",
+              "name": "5 - KOMORIA",
+              "registeredVoters": 971
             },
             {
-              "id": "karkar-island-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1676
+              "id": "sumkar-south-karkar-6-patilo",
+              "name": "6 - PATILO",
+              "registeredVoters": 1415
             },
             {
-              "id": "karkar-island-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2361
+              "id": "sumkar-south-karkar-7-biu",
+              "name": "7 - BIU",
+              "registeredVoters": 1296
             },
             {
-              "id": "karkar-island-w08",
-              "name": "Ward 8",
-              "registeredVoters": 2269
+              "id": "sumkar-south-karkar-8-did",
+              "name": "8 - DID",
+              "registeredVoters": 862
             },
             {
-              "id": "karkar-island-w09",
-              "name": "Ward 9",
-              "registeredVoters": 2711
+              "id": "sumkar-south-karkar-9-gamog",
+              "name": "9 - GAMOG",
+              "registeredVoters": 1425
             },
             {
-              "id": "karkar-island-w10",
-              "name": "Ward 10",
-              "registeredVoters": 1210
+              "id": "sumkar-south-karkar-10-kurum",
+              "name": "10 - KURUM",
+              "registeredVoters": 805
+            },
+            {
+              "id": "sumkar-south-karkar-11-liloi",
+              "name": "11 - LILOI",
+              "registeredVoters": 1113
+            },
+            {
+              "id": "sumkar-south-karkar-12-marup",
+              "name": "12 - MARUP",
+              "registeredVoters": 1295
+            },
+            {
+              "id": "sumkar-south-karkar-13-kevasop",
+              "name": "13 - KEVASOP",
+              "registeredVoters": 851
+            },
+            {
+              "id": "sumkar-south-karkar-14-mangar",
+              "name": "14 - MANGAR",
+              "registeredVoters": 638
+            },
+            {
+              "id": "sumkar-south-karkar-15-bafor",
+              "name": "15 - BAFOR",
+              "registeredVoters": 1066
+            },
+            {
+              "id": "sumkar-south-karkar-16-kuduk",
+              "name": "16 - KUDUK",
+              "registeredVoters": 1161
+            },
+            {
+              "id": "sumkar-south-karkar-17-bujon",
+              "name": "17 - BUJON",
+              "registeredVoters": 1313
+            },
+            {
+              "id": "sumkar-south-karkar-18-marangis",
+              "name": "18 - MARANGIS",
+              "registeredVoters": 1109
+            },
+            {
+              "id": "sumkar-south-karkar-19-keng",
+              "name": "19 - KENG",
+              "registeredVoters": 797
             }
           ]
         },
         {
-          "id": "sumkar-bagasin",
-          "name": "Bagasin LLG",
+          "id": "sumkar-sumgilbar",
+          "name": "Sumgilbar LLG",
           "electorateSlug": "sumkar",
           "wards": [
             {
-              "id": "bagasin-w01",
-              "name": "Ward 1",
-              "registeredVoters": 6900
+              "id": "sumkar-sumgilbar-1-bunabun",
+              "name": "1 - BUNABUN",
+              "registeredVoters": 1173
             },
             {
-              "id": "bagasin-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3078
+              "id": "sumkar-sumgilbar-2-sewan",
+              "name": "2 - SEWAN",
+              "registeredVoters": 620
             },
             {
-              "id": "bagasin-w03",
-              "name": "Ward 3",
-              "registeredVoters": 5422
+              "id": "sumkar-sumgilbar-3-murukanam",
+              "name": "3 - MURUKANAM",
+              "registeredVoters": 527
+            },
+            {
+              "id": "sumkar-sumgilbar-4-tokain",
+              "name": "4 - TOKAIN",
+              "registeredVoters": 808
+            },
+            {
+              "id": "sumkar-sumgilbar-5-imbrab",
+              "name": "5 - IMBRAB",
+              "registeredVoters": 185
+            },
+            {
+              "id": "sumkar-sumgilbar-6-mirap",
+              "name": "6 - MIRAP",
+              "registeredVoters": 650
+            },
+            {
+              "id": "sumkar-sumgilbar-7-karkum",
+              "name": "7 - KARKUM",
+              "registeredVoters": 697
+            },
+            {
+              "id": "sumkar-sumgilbar-8-sarang",
+              "name": "8 - SARANG",
+              "registeredVoters": 1816
+            },
+            {
+              "id": "sumkar-sumgilbar-9-basken",
+              "name": "9 - BASKEN",
+              "registeredVoters": 595
+            },
+            {
+              "id": "sumkar-sumgilbar-10-budum",
+              "name": "10 - BUDUM",
+              "registeredVoters": 445
+            },
+            {
+              "id": "sumkar-sumgilbar-11-garup",
+              "name": "11 - GARUP",
+              "registeredVoters": 885
+            },
+            {
+              "id": "sumkar-sumgilbar-12-megiar",
+              "name": "12 - MEGIAR",
+              "registeredVoters": 728
+            },
+            {
+              "id": "sumkar-sumgilbar-13-biranis",
+              "name": "13 - BIRANIS",
+              "registeredVoters": 705
+            },
+            {
+              "id": "sumkar-sumgilbar-14-udisi",
+              "name": "14 - UDISI",
+              "registeredVoters": 1234
+            },
+            {
+              "id": "sumkar-sumgilbar-15-aronis",
+              "name": "15 - ARONIS",
+              "registeredVoters": 906
+            },
+            {
+              "id": "sumkar-sumgilbar-16-bunu",
+              "name": "16 - BUNU",
+              "registeredVoters": 674
+            },
+            {
+              "id": "sumkar-sumgilbar-17-matukar",
+              "name": "17 - MATUKAR",
+              "registeredVoters": 655
+            },
+            {
+              "id": "sumkar-sumgilbar-18-wasab",
+              "name": "18 - WASAB",
+              "registeredVoters": 532
+            },
+            {
+              "id": "sumkar-sumgilbar-19-bemdik",
+              "name": "19 - BEMDIK",
+              "registeredVoters": 355
+            },
+            {
+              "id": "sumkar-sumgilbar-20-banap",
+              "name": "20 - BANAP",
+              "registeredVoters": 1894
+            },
+            {
+              "id": "sumkar-sumgilbar-21-deba",
+              "name": "21 - DEBA",
+              "registeredVoters": 670
+            },
+            {
+              "id": "sumkar-sumgilbar-22-kawe",
+              "name": "22 - KAWE",
+              "registeredVoters": 1077
+            },
+            {
+              "id": "sumkar-sumgilbar-23-balakbak",
+              "name": "23 - BALAKBAK",
+              "registeredVoters": 281
+            },
+            {
+              "id": "sumkar-sumgilbar-24-balbe",
+              "name": "24 - BALBE",
+              "registeredVoters": 197
+            },
+            {
+              "id": "sumkar-sumgilbar-25-abab",
+              "name": "25 - ABAB",
+              "registeredVoters": 427
+            },
+            {
+              "id": "sumkar-sumgilbar-26-dimert",
+              "name": "26 - DIMERT",
+              "registeredVoters": 1336
+            },
+            {
+              "id": "sumkar-sumgilbar-27-bubno",
+              "name": "27 - BUBNO",
+              "registeredVoters": 278
+            },
+            {
+              "id": "sumkar-sumgilbar-28-asimbin",
+              "name": "28 - ASIMBIN",
+              "registeredVoters": 413
+            },
+            {
+              "id": "sumkar-sumgilbar-29-perene",
+              "name": "29 - PERENE",
+              "registeredVoters": 432
+            },
+            {
+              "id": "sumkar-sumgilbar-30-katekot",
+              "name": "30 - KATEKOT",
+              "registeredVoters": 387
+            },
+            {
+              "id": "sumkar-sumgilbar-31-hinihon",
+              "name": "31 - HINIHON",
+              "registeredVoters": 730
             }
           ]
         }
@@ -788,123 +2061,373 @@
       "electorateSlug": "usino-bundi",
       "llgs": [
         {
-          "id": "usino-bundi-usino",
-          "name": "Usino LLG",
-          "electorateSlug": "usino-bundi",
-          "wards": [
-            {
-              "id": "usino-w01",
-              "name": "Ward 1",
-              "registeredVoters": 4149
-            },
-            {
-              "id": "usino-w02",
-              "name": "Ward 2",
-              "registeredVoters": 4702
-            },
-            {
-              "id": "usino-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2583
-            },
-            {
-              "id": "usino-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3076
-            }
-          ]
-        },
-        {
           "id": "usino-bundi-bundi",
           "name": "Bundi LLG",
           "electorateSlug": "usino-bundi",
           "wards": [
             {
-              "id": "bundi-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2855
+              "id": "usino-bundi-bundi-1-bundi-kara",
+              "name": "1 - BUNDI-KARA",
+              "registeredVoters": 557
             },
             {
-              "id": "bundi-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2540
+              "id": "usino-bundi-bundi-2-mendi-kara",
+              "name": "2 - MENDI-KARA",
+              "registeredVoters": 1212
             },
             {
-              "id": "bundi-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2115
+              "id": "usino-bundi-bundi-3-bononi",
+              "name": "3 - BONONI",
+              "registeredVoters": 901
             },
             {
-              "id": "bundi-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1747
+              "id": "usino-bundi-bundi-4-kariso-kara",
+              "name": "4 - KARISO-KARA",
+              "registeredVoters": 498
             },
             {
-              "id": "bundi-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1983
+              "id": "usino-bundi-bundi-5-gobug-agu",
+              "name": "5 - GOBUG-AGU",
+              "registeredVoters": 221
             },
             {
-              "id": "bundi-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2735
+              "id": "usino-bundi-bundi-6-yandara",
+              "name": "6 - YANDARA",
+              "registeredVoters": 1781
+            },
+            {
+              "id": "usino-bundi-bundi-7-kindaukevi",
+              "name": "7 - KINDAUKEVI",
+              "registeredVoters": 321
+            },
+            {
+              "id": "usino-bundi-bundi-8-karamuke",
+              "name": "8 - KARAMUKE",
+              "registeredVoters": 556
+            },
+            {
+              "id": "usino-bundi-bundi-9-marum",
+              "name": "9 - MARUM",
+              "registeredVoters": 431
+            },
+            {
+              "id": "usino-bundi-bundi-10-mokinangi",
+              "name": "10 - MOKINANGI",
+              "registeredVoters": 213
+            },
+            {
+              "id": "usino-bundi-bundi-11-bogai",
+              "name": "11 - BOGAI",
+              "registeredVoters": 242
+            },
+            {
+              "id": "usino-bundi-bundi-12-emegari",
+              "name": "12 - EMEGARI",
+              "registeredVoters": 1084
+            },
+            {
+              "id": "usino-bundi-bundi-13-kobum",
+              "name": "13 - KOBUM",
+              "registeredVoters": 286
+            },
+            {
+              "id": "usino-bundi-bundi-14-aranam",
+              "name": "14 - ARANAM",
+              "registeredVoters": 670
+            },
+            {
+              "id": "usino-bundi-bundi-15-pupuneri",
+              "name": "15 - PUPUNERI",
+              "registeredVoters": 435
+            },
+            {
+              "id": "usino-bundi-bundi-16-hua",
+              "name": "16 - HUA",
+              "registeredVoters": 122
+            },
+            {
+              "id": "usino-bundi-bundi-17-promisi",
+              "name": "17 - PROMISI",
+              "registeredVoters": 305
+            },
+            {
+              "id": "usino-bundi-bundi-18-brahman",
+              "name": "18 - BRAHMAN",
+              "registeredVoters": 732
+            },
+            {
+              "id": "usino-bundi-bundi-19-tauya",
+              "name": "19 - TAUYA",
+              "registeredVoters": 494
+            },
+            {
+              "id": "usino-bundi-bundi-20-genari",
+              "name": "20 - GENARI",
+              "registeredVoters": 405
+            },
+            {
+              "id": "usino-bundi-bundi-21-faita",
+              "name": "21 - FAITA",
+              "registeredVoters": 415
+            },
+            {
+              "id": "usino-bundi-bundi-22-krumbukari",
+              "name": "22 - KRUMBUKARI",
+              "registeredVoters": 1406
             }
           ]
         },
         {
-          "id": "usino-bundi-brahman",
-          "name": "Brahman LLG",
+          "id": "usino-bundi-gama",
+          "name": "Gama LLG",
           "electorateSlug": "usino-bundi",
           "wards": [
             {
-              "id": "brahman-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1830
+              "id": "usino-bundi-gama-1-aingdai",
+              "name": "1 - AINGDAI",
+              "registeredVoters": 492
             },
             {
-              "id": "brahman-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1825
+              "id": "usino-bundi-gama-2-forogo",
+              "name": "2 - FOROGO",
+              "registeredVoters": 703
             },
             {
-              "id": "brahman-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1331
+              "id": "usino-bundi-gama-3-kenainj",
+              "name": "3 - KENAINJ",
+              "registeredVoters": 1007
             },
             {
-              "id": "brahman-w04",
-              "name": "Ward 4",
-              "registeredVoters": 835
+              "id": "usino-bundi-gama-4-komoraga",
+              "name": "4 - KOMORAGA",
+              "registeredVoters": 610
             },
             {
-              "id": "brahman-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1786
+              "id": "usino-bundi-gama-5-tungaga",
+              "name": "5 - TUNGAGA",
+              "registeredVoters": 575
             },
             {
-              "id": "brahman-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1856
+              "id": "usino-bundi-gama-6-bank",
+              "name": "6 - BANK",
+              "registeredVoters": 952
             },
             {
-              "id": "brahman-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1532
+              "id": "usino-bundi-gama-7-kinibong",
+              "name": "7 - KINIBONG",
+              "registeredVoters": 1042
             },
             {
-              "id": "brahman-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1308
+              "id": "usino-bundi-gama-8-kombaku",
+              "name": "8 - KOMBAKU",
+              "registeredVoters": 543
             },
             {
-              "id": "brahman-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1506
+              "id": "usino-bundi-gama-9-gai",
+              "name": "9 - GAI",
+              "registeredVoters": 904
             },
             {
-              "id": "brahman-w10",
-              "name": "Ward 10",
-              "registeredVoters": 759
+              "id": "usino-bundi-gama-10-nimbla",
+              "name": "10 - NIMBLA",
+              "registeredVoters": 940
+            },
+            {
+              "id": "usino-bundi-gama-11-gunts",
+              "name": "11 - GUNTS",
+              "registeredVoters": 680
+            },
+            {
+              "id": "usino-bundi-gama-12-useruk",
+              "name": "12 - USERUK",
+              "registeredVoters": 326
+            },
+            {
+              "id": "usino-bundi-gama-13-wobu",
+              "name": "13 - WOBU",
+              "registeredVoters": 422
+            },
+            {
+              "id": "usino-bundi-gama-14-mange",
+              "name": "14 - MANGE",
+              "registeredVoters": 725
+            }
+          ]
+        },
+        {
+          "id": "usino-bundi-usino",
+          "name": "Usino LLG",
+          "electorateSlug": "usino-bundi",
+          "wards": [
+            {
+              "id": "usino-bundi-usino-1-bumbu",
+              "name": "1 - BUMBU",
+              "registeredVoters": 2311
+            },
+            {
+              "id": "usino-bundi-usino-2-bora",
+              "name": "2 - BORA",
+              "registeredVoters": 2188
+            },
+            {
+              "id": "usino-bundi-usino-3-warias",
+              "name": "3 - WARIAS",
+              "registeredVoters": 436
+            },
+            {
+              "id": "usino-bundi-usino-4-hamlet-2",
+              "name": "4 - HAMLET 2",
+              "registeredVoters": 825
+            },
+            {
+              "id": "usino-bundi-usino-5-pukpuk",
+              "name": "5 - PUKPUK",
+              "registeredVoters": 1099
+            },
+            {
+              "id": "usino-bundi-usino-6-sankain",
+              "name": "6 - SANKAIN",
+              "registeredVoters": 1933
+            },
+            {
+              "id": "usino-bundi-usino-7-dumpu",
+              "name": "7 - DUMPU",
+              "registeredVoters": 1496
+            },
+            {
+              "id": "usino-bundi-usino-8-kesawai",
+              "name": "8 - KESAWAI",
+              "registeredVoters": 412
+            },
+            {
+              "id": "usino-bundi-usino-9-aliveti",
+              "name": "9 - ALIVETI",
+              "registeredVoters": 273
+            },
+            {
+              "id": "usino-bundi-usino-10-koropa",
+              "name": "10 - KOROPA",
+              "registeredVoters": 1244
+            },
+            {
+              "id": "usino-bundi-usino-11-sausi",
+              "name": "11 - SAUSI",
+              "registeredVoters": 905
+            },
+            {
+              "id": "usino-bundi-usino-12-ungoru",
+              "name": "12 - UNGORU",
+              "registeredVoters": 772
+            },
+            {
+              "id": "usino-bundi-usino-13-aiyambe",
+              "name": "13 - AIYAMBE",
+              "registeredVoters": 1343
+            },
+            {
+              "id": "usino-bundi-usino-14-walium",
+              "name": "14 - WALIUM",
+              "registeredVoters": 637
+            },
+            {
+              "id": "usino-bundi-usino-15-uria",
+              "name": "15 - URIA",
+              "registeredVoters": 933
+            },
+            {
+              "id": "usino-bundi-usino-16-danaru",
+              "name": "16 - DANARU",
+              "registeredVoters": 1123
+            },
+            {
+              "id": "usino-bundi-usino-17-igurue",
+              "name": "17 - IGURUE",
+              "registeredVoters": 686
+            },
+            {
+              "id": "usino-bundi-usino-18-poine",
+              "name": "18 - POINE",
+              "registeredVoters": 841
+            },
+            {
+              "id": "usino-bundi-usino-19-merioi",
+              "name": "19 - MERIOI",
+              "registeredVoters": 839
+            },
+            {
+              "id": "usino-bundi-usino-20-mopo",
+              "name": "20 - MOPO",
+              "registeredVoters": 599
+            },
+            {
+              "id": "usino-bundi-usino-21-animinik",
+              "name": "21 - ANIMINIK",
+              "registeredVoters": 417
+            },
+            {
+              "id": "usino-bundi-usino-22-negeri",
+              "name": "22 - NEGERI",
+              "registeredVoters": 796
+            },
+            {
+              "id": "usino-bundi-usino-23-begesin",
+              "name": "23 - BEGESIN",
+              "registeredVoters": 352
+            },
+            {
+              "id": "usino-bundi-usino-24-koinegur",
+              "name": "24 - KOINEGUR",
+              "registeredVoters": 307
+            },
+            {
+              "id": "usino-bundi-usino-25-baisop",
+              "name": "25 - BAISOP",
+              "registeredVoters": 232
+            },
+            {
+              "id": "usino-bundi-usino-26-gasua",
+              "name": "26 - GASUA",
+              "registeredVoters": 226
+            },
+            {
+              "id": "usino-bundi-usino-27-owour",
+              "name": "27 - OWOUR",
+              "registeredVoters": 497
+            },
+            {
+              "id": "usino-bundi-usino-28-komas",
+              "name": "28 - KOMAS",
+              "registeredVoters": 500
+            },
+            {
+              "id": "usino-bundi-usino-29-arimore",
+              "name": "29 - ARIMORE",
+              "registeredVoters": 531
+            },
+            {
+              "id": "usino-bundi-usino-30-usino",
+              "name": "30 - USINO",
+              "registeredVoters": 1132
+            },
+            {
+              "id": "usino-bundi-usino-31-begei",
+              "name": "31 - BEGEI",
+              "registeredVoters": 1050
+            },
+            {
+              "id": "usino-bundi-usino-32-garaligut",
+              "name": "32 - GARALIGUT",
+              "registeredVoters": 515
+            },
+            {
+              "id": "usino-bundi-usino-33-sepu",
+              "name": "33 - SEPU",
+              "registeredVoters": 670
+            },
+            {
+              "id": "usino-bundi-usino-34-kukapang",
+              "name": "34 - KUKAPANG",
+              "registeredVoters": 554
             }
           ]
         }

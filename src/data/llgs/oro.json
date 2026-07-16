@@ -5,128 +5,546 @@
       "electorateSlug": "ijivitari",
       "llgs": [
         {
+          "id": "ijivitari-afore",
+          "name": "Afore LLG",
+          "electorateSlug": "ijivitari",
+          "wards": [
+            {
+              "id": "ijivitari-afore-1-yoivi",
+              "name": "1 - YOIVI",
+              "registeredVoters": 718
+            },
+            {
+              "id": "ijivitari-afore-2-niniuri",
+              "name": "2 - NINIURI",
+              "registeredVoters": 678
+            },
+            {
+              "id": "ijivitari-afore-3-kawowoki",
+              "name": "3 - KAWOWOKI",
+              "registeredVoters": 427
+            },
+            {
+              "id": "ijivitari-afore-4-kaura",
+              "name": "4 - KAURA",
+              "registeredVoters": 682
+            },
+            {
+              "id": "ijivitari-afore-5-siurani",
+              "name": "5 - SIURANI",
+              "registeredVoters": 647
+            },
+            {
+              "id": "ijivitari-afore-6-kowena",
+              "name": "6 - KOWENA",
+              "registeredVoters": 658
+            },
+            {
+              "id": "ijivitari-afore-7-dea",
+              "name": "7 - DEA",
+              "registeredVoters": 772
+            },
+            {
+              "id": "ijivitari-afore-8-siribu",
+              "name": "8 - SIRIBU",
+              "registeredVoters": 463
+            },
+            {
+              "id": "ijivitari-afore-9-natanga",
+              "name": "9 - NATANGA",
+              "registeredVoters": 841
+            },
+            {
+              "id": "ijivitari-afore-10-gora",
+              "name": "10 - GORA",
+              "registeredVoters": 464
+            },
+            {
+              "id": "ijivitari-afore-11-tahama",
+              "name": "11 - TAHAMA",
+              "registeredVoters": 672
+            },
+            {
+              "id": "ijivitari-afore-12-umbuara",
+              "name": "12 - UMBUARA",
+              "registeredVoters": 671
+            },
+            {
+              "id": "ijivitari-afore-13-kokoro",
+              "name": "13 - KOKORO",
+              "registeredVoters": 490
+            },
+            {
+              "id": "ijivitari-afore-14-ufia",
+              "name": "14 - UFIA",
+              "registeredVoters": 584
+            },
+            {
+              "id": "ijivitari-afore-15-toma",
+              "name": "15 - TOMA",
+              "registeredVoters": 563
+            },
+            {
+              "id": "ijivitari-afore-16-aiari",
+              "name": "16 - AIARI",
+              "registeredVoters": 87
+            },
+            {
+              "id": "ijivitari-afore-17-yaure",
+              "name": "17 - YAURE",
+              "registeredVoters": 114
+            },
+            {
+              "id": "ijivitari-afore-18-gorabuna",
+              "name": "18 - GORABUNA",
+              "registeredVoters": 266
+            }
+          ]
+        },
+        {
+          "id": "ijivitari-safia",
+          "name": "Safia LLG",
+          "electorateSlug": "ijivitari",
+          "wards": [
+            {
+              "id": "ijivitari-safia-1-namudi",
+              "name": "1 - NAMUDI",
+              "registeredVoters": 259
+            },
+            {
+              "id": "ijivitari-safia-2-sinua",
+              "name": "2 - SINUA",
+              "registeredVoters": 230
+            },
+            {
+              "id": "ijivitari-safia-3-moro",
+              "name": "3 - MORO",
+              "registeredVoters": 385
+            },
+            {
+              "id": "ijivitari-safia-4-jari",
+              "name": "4 - JARI",
+              "registeredVoters": 256
+            },
+            {
+              "id": "ijivitari-safia-5-tuturawaru",
+              "name": "5 - TUTURAWARU",
+              "registeredVoters": 159
+            },
+            {
+              "id": "ijivitari-safia-6-safia",
+              "name": "6 - SAFIA",
+              "registeredVoters": 239
+            },
+            {
+              "id": "ijivitari-safia-7-obea",
+              "name": "7 - OBEA",
+              "registeredVoters": 314
+            },
+            {
+              "id": "ijivitari-safia-8-karisoa",
+              "name": "8 - KARISOA",
+              "registeredVoters": 894
+            },
+            {
+              "id": "ijivitari-safia-9-momoiogo",
+              "name": "9 - MOMOIOGO",
+              "registeredVoters": 705
+            },
+            {
+              "id": "ijivitari-safia-10-kinjaki",
+              "name": "10 - KINJAKI",
+              "registeredVoters": 272
+            },
+            {
+              "id": "ijivitari-safia-11-embesa",
+              "name": "11 - EMBESA",
+              "registeredVoters": 512
+            },
+            {
+              "id": "ijivitari-safia-12-koira",
+              "name": "12 - KOIRA",
+              "registeredVoters": 259
+            },
+            {
+              "id": "ijivitari-safia-13-domara",
+              "name": "13 - DOMARA",
+              "registeredVoters": 158
+            }
+          ]
+        },
+        {
+          "id": "ijivitari-tufi",
+          "name": "Tufi LLG",
+          "electorateSlug": "ijivitari",
+          "wards": [
+            {
+              "id": "ijivitari-tufi-1-kewansapsap",
+              "name": "1 - KEWANSAPSAP",
+              "registeredVoters": 563
+            },
+            {
+              "id": "ijivitari-tufi-2-marua",
+              "name": "2 - MARUA",
+              "registeredVoters": 799
+            },
+            {
+              "id": "ijivitari-tufi-3-uiaku",
+              "name": "3 - UIAKU",
+              "registeredVoters": 437
+            },
+            {
+              "id": "ijivitari-tufi-4-ganjiga",
+              "name": "4 - GANJIGA",
+              "registeredVoters": 418
+            },
+            {
+              "id": "ijivitari-tufi-5-rainu",
+              "name": "5 - RAINU",
+              "registeredVoters": 1316
+            },
+            {
+              "id": "ijivitari-tufi-6-koreaf",
+              "name": "6 - KOREAF",
+              "registeredVoters": 330
+            },
+            {
+              "id": "ijivitari-tufi-7-ajoa",
+              "name": "7 - AJOA",
+              "registeredVoters": 819
+            },
+            {
+              "id": "ijivitari-tufi-8-itoto",
+              "name": "8 - ITOTO",
+              "registeredVoters": 366
+            },
+            {
+              "id": "ijivitari-tufi-9-giriwa",
+              "name": "9 - GIRIWA",
+              "registeredVoters": 526
+            },
+            {
+              "id": "ijivitari-tufi-10-managa",
+              "name": "10 - MANAGA",
+              "registeredVoters": 454
+            },
+            {
+              "id": "ijivitari-tufi-11-jebo",
+              "name": "11 - JEBO",
+              "registeredVoters": 639
+            },
+            {
+              "id": "ijivitari-tufi-12-baga",
+              "name": "12 - BAGA",
+              "registeredVoters": 483
+            },
+            {
+              "id": "ijivitari-tufi-13-kwave",
+              "name": "13 - KWAVE",
+              "registeredVoters": 466
+            },
+            {
+              "id": "ijivitari-tufi-14-foduma",
+              "name": "14 - FODUMA",
+              "registeredVoters": 515
+            },
+            {
+              "id": "ijivitari-tufi-15-gavide",
+              "name": "15 - GAVIDE",
+              "registeredVoters": 581
+            },
+            {
+              "id": "ijivitari-tufi-16-berebona",
+              "name": "16 - BEREBONA",
+              "registeredVoters": 672
+            },
+            {
+              "id": "ijivitari-tufi-17-natukwaba",
+              "name": "17 - NATUKWABA",
+              "registeredVoters": 265
+            },
+            {
+              "id": "ijivitari-tufi-18-ako",
+              "name": "18 - AKO",
+              "registeredVoters": 532
+            },
+            {
+              "id": "ijivitari-tufi-19-guruguru",
+              "name": "19 - GURUGURU",
+              "registeredVoters": 222
+            },
+            {
+              "id": "ijivitari-tufi-20-gobe",
+              "name": "20 - GOBE",
+              "registeredVoters": 455
+            }
+          ]
+        },
+        {
+          "id": "ijivitari-oro-bay-east",
+          "name": "Oro Bay East LLG",
+          "electorateSlug": "ijivitari",
+          "wards": [
+            {
+              "id": "ijivitari-oro-bay-east-1-sariri",
+              "name": "1 - SARIRI",
+              "registeredVoters": 716
+            },
+            {
+              "id": "ijivitari-oro-bay-east-2-gunimba",
+              "name": "2 - GUNIMBA",
+              "registeredVoters": 436
+            },
+            {
+              "id": "ijivitari-oro-bay-east-3-jegerakambo",
+              "name": "3 - JEGERAKAMBO",
+              "registeredVoters": 437
+            },
+            {
+              "id": "ijivitari-oro-bay-east-4-emo",
+              "name": "4 - EMO",
+              "registeredVoters": 1090
+            },
+            {
+              "id": "ijivitari-oro-bay-east-5-boreara",
+              "name": "5 - BOREARA",
+              "registeredVoters": 555
+            },
+            {
+              "id": "ijivitari-oro-bay-east-6-waiwa",
+              "name": "6 - WAIWA",
+              "registeredVoters": 617
+            },
+            {
+              "id": "ijivitari-oro-bay-east-7-beama",
+              "name": "7 - BEAMA",
+              "registeredVoters": 1083
+            },
+            {
+              "id": "ijivitari-oro-bay-east-8-baberada",
+              "name": "8 - BABERADA",
+              "registeredVoters": 765
+            },
+            {
+              "id": "ijivitari-oro-bay-east-9-dombada",
+              "name": "9 - DOMBADA",
+              "registeredVoters": 792
+            },
+            {
+              "id": "ijivitari-oro-bay-east-10-hanakiro",
+              "name": "10 - HANAKIRO",
+              "registeredVoters": 785
+            },
+            {
+              "id": "ijivitari-oro-bay-east-11-kararata",
+              "name": "11 - KARARATA",
+              "registeredVoters": 1458
+            },
+            {
+              "id": "ijivitari-oro-bay-east-12-borio",
+              "name": "12 - BORIO",
+              "registeredVoters": 909
+            },
+            {
+              "id": "ijivitari-oro-bay-east-13-barisari",
+              "name": "13 - BARISARI",
+              "registeredVoters": 1556
+            },
+            {
+              "id": "ijivitari-oro-bay-east-14-siremi",
+              "name": "14 - SIREMI",
+              "registeredVoters": 961
+            }
+          ]
+        },
+        {
+          "id": "ijivitari-oro-bay-north",
+          "name": "Oro Bay North LLG",
+          "electorateSlug": "ijivitari",
+          "wards": [
+            {
+              "id": "ijivitari-oro-bay-north-1-buna",
+              "name": "1 - BUNA",
+              "registeredVoters": 1056
+            },
+            {
+              "id": "ijivitari-oro-bay-north-2-gurara",
+              "name": "2 - GURARA",
+              "registeredVoters": 610
+            },
+            {
+              "id": "ijivitari-oro-bay-north-3-orobefari",
+              "name": "3 - OROBEFARI",
+              "registeredVoters": 686
+            },
+            {
+              "id": "ijivitari-oro-bay-north-4-konje",
+              "name": "4 - KONJE",
+              "registeredVoters": 730
+            },
+            {
+              "id": "ijivitari-oro-bay-north-5-kausada",
+              "name": "5 - KAUSADA",
+              "registeredVoters": 622
+            },
+            {
+              "id": "ijivitari-oro-bay-north-6-jinanga",
+              "name": "6 - JINANGA",
+              "registeredVoters": 384
+            },
+            {
+              "id": "ijivitari-oro-bay-north-7-bakumbari",
+              "name": "7 - BAKUMBARI",
+              "registeredVoters": 742
+            },
+            {
+              "id": "ijivitari-oro-bay-north-8-kurereda",
+              "name": "8 - KUREREDA",
+              "registeredVoters": 826
+            },
+            {
+              "id": "ijivitari-oro-bay-north-9-oure",
+              "name": "9 - OURE",
+              "registeredVoters": 423
+            },
+            {
+              "id": "ijivitari-oro-bay-north-10-aure",
+              "name": "10 - AURE",
+              "registeredVoters": 755
+            },
+            {
+              "id": "ijivitari-oro-bay-north-11-dewatutu",
+              "name": "11 - DEWATUTU",
+              "registeredVoters": 852
+            },
+            {
+              "id": "ijivitari-oro-bay-north-12-bindari",
+              "name": "12 - BINDARI",
+              "registeredVoters": 711
+            }
+          ]
+        },
+        {
           "id": "ijivitari-popondetta-urban",
           "name": "Popondetta Urban LLG",
           "electorateSlug": "ijivitari",
           "wards": [
             {
-              "id": "popondetta-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2232
+              "id": "ijivitari-popondetta-urban-1-popondetta-urban-1",
+              "name": "1 - POPONDETTA URBAN 1",
+              "registeredVoters": 2126
             },
             {
-              "id": "popondetta-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2374
+              "id": "ijivitari-popondetta-urban-2-popondetta-urban-2",
+              "name": "2 - POPONDETTA URBAN 2",
+              "registeredVoters": 1843
             },
             {
-              "id": "popondetta-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1950
+              "id": "ijivitari-popondetta-urban-3-popondetta-urban-3",
+              "name": "3 - POPONDETTA URBAN 3",
+              "registeredVoters": 2452
             },
             {
-              "id": "popondetta-urban-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2088
+              "id": "ijivitari-popondetta-urban-4-popondetta-urban-4",
+              "name": "4 - POPONDETTA URBAN 4",
+              "registeredVoters": 1275
             },
             {
-              "id": "popondetta-urban-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1630
+              "id": "ijivitari-popondetta-urban-5-popondetta-urban-5",
+              "name": "5 - POPONDETTA URBAN 5",
+              "registeredVoters": 1213
             },
             {
-              "id": "popondetta-urban-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1646
+              "id": "ijivitari-popondetta-urban-6-gewoto",
+              "name": "6 - GEWOTO",
+              "registeredVoters": 1310
             },
             {
-              "id": "popondetta-urban-w07",
-              "name": "Ward 7",
-              "registeredVoters": 3547
+              "id": "ijivitari-popondetta-urban-7-sewa",
+              "name": "7 - SEWA",
+              "registeredVoters": 1916
+            },
+            {
+              "id": "ijivitari-popondetta-urban-8-isuga",
+              "name": "8 - ISUGA",
+              "registeredVoters": 2769
+            },
+            {
+              "id": "ijivitari-popondetta-urban-9-dobuduru",
+              "name": "9 - DOBUDURU",
+              "registeredVoters": 1747
+            },
+            {
+              "id": "ijivitari-popondetta-urban-10-sorovi",
+              "name": "10 - SOROVI",
+              "registeredVoters": 2394
+            },
+            {
+              "id": "ijivitari-popondetta-urban-11-east-ambogo",
+              "name": "11 - EAST AMBOGO",
+              "registeredVoters": 1684
             }
           ]
         },
         {
-          "id": "ijivitari-kokoda",
-          "name": "Kokoda LLG",
+          "id": "ijivitari-sangara-hurundi",
+          "name": "Sangara Hurundi LLG",
           "electorateSlug": "ijivitari",
           "wards": [
             {
-              "id": "kokoda-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1243
+              "id": "ijivitari-sangara-hurundi-1-new-warisota",
+              "name": "1 - NEW WARISOTA",
+              "registeredVoters": 443
             },
             {
-              "id": "kokoda-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1720
+              "id": "ijivitari-sangara-hurundi-2-ehu",
+              "name": "2 - EHU",
+              "registeredVoters": 804
             },
             {
-              "id": "kokoda-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1385
+              "id": "ijivitari-sangara-hurundi-3-ahoru-beuru",
+              "name": "3 - AHORU/ BEURU",
+              "registeredVoters": 1227
             },
             {
-              "id": "kokoda-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1511
+              "id": "ijivitari-sangara-hurundi-4-west-ambogo-sangara",
+              "name": "4 - WEST AMBOGO (SANGARA)",
+              "registeredVoters": 1033
             },
             {
-              "id": "kokoda-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1465
+              "id": "ijivitari-sangara-hurundi-5-sangara-health-centre",
+              "name": "5 - SANGARA HEALTH CENTRE",
+              "registeredVoters": 676
             },
             {
-              "id": "kokoda-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1546
+              "id": "ijivitari-sangara-hurundi-6-sangara-no-1",
+              "name": "6 - SANGARA NO. 1",
+              "registeredVoters": 1980
             },
             {
-              "id": "kokoda-w07",
-              "name": "Ward 7",
-              "registeredVoters": 663
+              "id": "ijivitari-sangara-hurundi-7-irihambo-1",
+              "name": "7 - IRIHAMBO 1",
+              "registeredVoters": 200
             },
             {
-              "id": "kokoda-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1018
+              "id": "ijivitari-sangara-hurundi-8-irihambo-2",
+              "name": "8 - IRIHAMBO 2",
+              "registeredVoters": 285
             },
             {
-              "id": "kokoda-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1443
+              "id": "ijivitari-sangara-hurundi-9-sangara-no-2",
+              "name": "9 - SANGARA NO. 2",
+              "registeredVoters": 869
             },
             {
-              "id": "kokoda-w10",
-              "name": "Ward 10",
-              "registeredVoters": 1287
-            }
-          ]
-        },
-        {
-          "id": "ijivitari-oro-bay",
-          "name": "Oro Bay LLG",
-          "electorateSlug": "ijivitari",
-          "wards": [
-            {
-              "id": "oro-bay-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2479
+              "id": "ijivitari-sangara-hurundi-10-isivini-sangara-3",
+              "name": "10 - ISIVINI (SANGARA 3)",
+              "registeredVoters": 1745
             },
             {
-              "id": "oro-bay-w02",
-              "name": "Ward 2",
-              "registeredVoters": 5543
-            },
-            {
-              "id": "oro-bay-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3613
-            },
-            {
-              "id": "oro-bay-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3133
+              "id": "ijivitari-sangara-hurundi-11-horau",
+              "name": "11 - HORAU",
+              "registeredVoters": 608
             }
           ]
         }
@@ -136,108 +554,360 @@
       "electorateSlug": "sohe",
       "llgs": [
         {
-          "id": "sohe-saiho",
-          "name": "Saiho LLG",
+          "id": "sohe-higaturu",
+          "name": "Higaturu LLG",
           "electorateSlug": "sohe",
           "wards": [
             {
-              "id": "saiho-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2117
+              "id": "sohe-higaturu-1-hohorita",
+              "name": "1 - HOHORITA",
+              "registeredVoters": 1259
             },
             {
-              "id": "saiho-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3913
+              "id": "sohe-higaturu-2-igora-oil-palm-blocks",
+              "name": "2 - IGORA OIL PALM BLOCKS",
+              "registeredVoters": 1596
             },
             {
-              "id": "saiho-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3548
+              "id": "sohe-higaturu-3-koipa",
+              "name": "3 - KOIPA",
+              "registeredVoters": 865
             },
             {
-              "id": "saiho-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3984
+              "id": "sohe-higaturu-4-kiorota",
+              "name": "4 - KIOROTA",
+              "registeredVoters": 2074
+            },
+            {
+              "id": "sohe-higaturu-5-barevoturu",
+              "name": "5 - BAREVOTURU",
+              "registeredVoters": 1382
+            },
+            {
+              "id": "sohe-higaturu-6-kendata",
+              "name": "6 - KENDATA",
+              "registeredVoters": 918
+            },
+            {
+              "id": "sohe-higaturu-7-duve",
+              "name": "7 - DUVE",
+              "registeredVoters": 1418
+            },
+            {
+              "id": "sohe-higaturu-8-kongohambou",
+              "name": "8 - KONGOHAMBOU",
+              "registeredVoters": 1231
+            },
+            {
+              "id": "sohe-higaturu-9-binduta",
+              "name": "9 - BINDUTA",
+              "registeredVoters": 1188
+            },
+            {
+              "id": "sohe-higaturu-10-handarituru",
+              "name": "10 - HANDARITURU",
+              "registeredVoters": 1912
+            },
+            {
+              "id": "sohe-higaturu-11-awala",
+              "name": "11 - AWALA",
+              "registeredVoters": 1369
+            },
+            {
+              "id": "sohe-higaturu-12-sui",
+              "name": "12 - SUI",
+              "registeredVoters": 928
+            },
+            {
+              "id": "sohe-higaturu-13-boru",
+              "name": "13 - BORU",
+              "registeredVoters": 857
+            },
+            {
+              "id": "sohe-higaturu-14-mumuni",
+              "name": "14 - MUMUNI",
+              "registeredVoters": 1125
+            },
+            {
+              "id": "sohe-higaturu-15-koropata",
+              "name": "15 - KOROPATA",
+              "registeredVoters": 1583
+            },
+            {
+              "id": "sohe-higaturu-16-sirembi",
+              "name": "16 - SIREMBI",
+              "registeredVoters": 1404
+            },
+            {
+              "id": "sohe-higaturu-17-hungiri",
+              "name": "17 - HUNGIRI",
+              "registeredVoters": 1080
+            },
+            {
+              "id": "sohe-higaturu-18-sakita",
+              "name": "18 - SAKITA",
+              "registeredVoters": 1953
+            },
+            {
+              "id": "sohe-higaturu-19-papoga",
+              "name": "19 - PAPOGA",
+              "registeredVoters": 2092
+            },
+            {
+              "id": "sohe-higaturu-20-ongoho",
+              "name": "20 - ONGOHO",
+              "registeredVoters": 1161
             }
           ]
         },
         {
-          "id": "sohe-ioma",
-          "name": "Ioma LLG",
+          "id": "sohe-kira",
+          "name": "Kira LLG",
           "electorateSlug": "sohe",
           "wards": [
             {
-              "id": "ioma-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2037
+              "id": "sohe-kira-1-pepeware",
+              "name": "1 - PEPEWARE",
+              "registeredVoters": 431
             },
             {
-              "id": "ioma-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1985
+              "id": "sohe-kira-2-gobe",
+              "name": "2 - GOBE",
+              "registeredVoters": 468
             },
             {
-              "id": "ioma-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2217
+              "id": "sohe-kira-3-upupuro",
+              "name": "3 - UPUPURO",
+              "registeredVoters": 479
             },
             {
-              "id": "ioma-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2834
+              "id": "sohe-kira-4-juwera",
+              "name": "4 - JUWERA",
+              "registeredVoters": 577
             },
             {
-              "id": "ioma-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2541
-            },
-            {
-              "id": "ioma-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1089
-            },
-            {
-              "id": "ioma-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1952
+              "id": "sohe-kira-5-oibo",
+              "name": "5 - OIBO",
+              "registeredVoters": 299
             }
           ]
         },
         {
-          "id": "sohe-tufi",
-          "name": "Tufi LLG",
+          "id": "sohe-kokoda",
+          "name": "Kokoda LLG",
           "electorateSlug": "sohe",
           "wards": [
             {
-              "id": "tufi-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1700
+              "id": "sohe-kokoda-1-asimba",
+              "name": "1 - ASIMBA",
+              "registeredVoters": 842
             },
             {
-              "id": "tufi-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2244
+              "id": "sohe-kokoda-2-kovelo",
+              "name": "2 - KOVELO",
+              "registeredVoters": 452
             },
             {
-              "id": "tufi-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1798
+              "id": "sohe-kokoda-3-mamba-estate",
+              "name": "3 - MAMBA ESTATE",
+              "registeredVoters": 1355
             },
             {
-              "id": "tufi-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2082
+              "id": "sohe-kokoda-4-amada",
+              "name": "4 - AMADA",
+              "registeredVoters": 694
             },
             {
-              "id": "tufi-w05",
-              "name": "Ward 5",
-              "registeredVoters": 4264
+              "id": "sohe-kokoda-5-kokoda-station",
+              "name": "5 - KOKODA STATION",
+              "registeredVoters": 356
             },
             {
-              "id": "tufi-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1846
+              "id": "sohe-kokoda-6-koagea-block",
+              "name": "6 - KOAGEA BLOCK",
+              "registeredVoters": 484
+            },
+            {
+              "id": "sohe-kokoda-7-kebara",
+              "name": "7 - KEBARA",
+              "registeredVoters": 1353
+            },
+            {
+              "id": "sohe-kokoda-8-abuari",
+              "name": "8 - ABUARI",
+              "registeredVoters": 206
+            },
+            {
+              "id": "sohe-kokoda-9-alola",
+              "name": "9 - ALOLA",
+              "registeredVoters": 128
+            },
+            {
+              "id": "sohe-kokoda-10-waju",
+              "name": "10 - WAJU",
+              "registeredVoters": 977
+            },
+            {
+              "id": "sohe-kokoda-11-hangiri",
+              "name": "11 - HANGIRI",
+              "registeredVoters": 491
+            },
+            {
+              "id": "sohe-kokoda-12-ambene",
+              "name": "12 - AMBENE",
+              "registeredVoters": 386
+            },
+            {
+              "id": "sohe-kokoda-13-ilimo",
+              "name": "13 - ILIMO",
+              "registeredVoters": 996
+            },
+            {
+              "id": "sohe-kokoda-14-hamara",
+              "name": "14 - HAMARA",
+              "registeredVoters": 483
+            },
+            {
+              "id": "sohe-kokoda-15-ajeka",
+              "name": "15 - AJEKA",
+              "registeredVoters": 966
+            },
+            {
+              "id": "sohe-kokoda-16-evasuru",
+              "name": "16 - EVASURU",
+              "registeredVoters": 577
+            },
+            {
+              "id": "sohe-kokoda-17-asisi",
+              "name": "17 - ASISI",
+              "registeredVoters": 720
+            },
+            {
+              "id": "sohe-kokoda-18-sairope",
+              "name": "18 - SAIROPE",
+              "registeredVoters": 714
+            },
+            {
+              "id": "sohe-kokoda-19-putembo",
+              "name": "19 - PUTEMBO",
+              "registeredVoters": 637
+            },
+            {
+              "id": "sohe-kokoda-20-asafa",
+              "name": "20 - ASAFA",
+              "registeredVoters": 570
+            },
+            {
+              "id": "sohe-kokoda-21-wora",
+              "name": "21 - WORA",
+              "registeredVoters": 430
+            },
+            {
+              "id": "sohe-kokoda-22-emo-river",
+              "name": "22 - EMO RIVER",
+              "registeredVoters": 637
+            },
+            {
+              "id": "sohe-kokoda-23-usilo",
+              "name": "23 - USILO",
+              "registeredVoters": 379
+            },
+            {
+              "id": "sohe-kokoda-24-duau",
+              "name": "24 - DUAU",
+              "registeredVoters": 194
+            }
+          ]
+        },
+        {
+          "id": "sohe-tamata",
+          "name": "Tamata LLG",
+          "electorateSlug": "sohe",
+          "wards": [
+            {
+              "id": "sohe-tamata-1-huratan",
+              "name": "1 - HURATAN",
+              "registeredVoters": 1057
+            },
+            {
+              "id": "sohe-tamata-2-oitatande",
+              "name": "2 - OITATANDE",
+              "registeredVoters": 1065
+            },
+            {
+              "id": "sohe-tamata-3-kikinonda",
+              "name": "3 - KIKINONDA",
+              "registeredVoters": 999
+            },
+            {
+              "id": "sohe-tamata-4-korisata",
+              "name": "4 - KORISATA",
+              "registeredVoters": 987
+            },
+            {
+              "id": "sohe-tamata-5-utikirari",
+              "name": "5 - UTIKIRARI",
+              "registeredVoters": 608
+            },
+            {
+              "id": "sohe-tamata-6-kurereda",
+              "name": "6 - KUREREDA",
+              "registeredVoters": 590
+            },
+            {
+              "id": "sohe-tamata-7-jino",
+              "name": "7 - JINO",
+              "registeredVoters": 1305
+            },
+            {
+              "id": "sohe-tamata-8-sia",
+              "name": "8 - SIA",
+              "registeredVoters": 929
+            },
+            {
+              "id": "sohe-tamata-9-manau",
+              "name": "9 - MANAU",
+              "registeredVoters": 563
+            },
+            {
+              "id": "sohe-tamata-10-deboin",
+              "name": "10 - DEBOIN",
+              "registeredVoters": 535
+            },
+            {
+              "id": "sohe-tamata-11-kataure",
+              "name": "11 - KATAURE",
+              "registeredVoters": 453
+            },
+            {
+              "id": "sohe-tamata-12-tubi",
+              "name": "12 - TUBI",
+              "registeredVoters": 547
+            },
+            {
+              "id": "sohe-tamata-13-aindi",
+              "name": "13 - AINDI",
+              "registeredVoters": 446
+            },
+            {
+              "id": "sohe-tamata-14-nindewari",
+              "name": "14 - NINDEWARI",
+              "registeredVoters": 487
+            },
+            {
+              "id": "sohe-tamata-15-ewore",
+              "name": "15 - EWORE",
+              "registeredVoters": 773
+            },
+            {
+              "id": "sohe-tamata-16-bovera",
+              "name": "16 - BOVERA",
+              "registeredVoters": 526
+            },
+            {
+              "id": "sohe-tamata-17-tave",
+              "name": "17 - TAVE",
+              "registeredVoters": 535
             }
           ]
         }

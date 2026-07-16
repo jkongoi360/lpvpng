@@ -5,44 +5,433 @@
       "electorateSlug": "kerema",
       "llgs": [
         {
+          "id": "kerema-kaintiba",
+          "name": "Kaintiba LLG",
+          "electorateSlug": "kerema",
+          "wards": [
+            {
+              "id": "kerema-kaintiba-1-bema",
+              "name": "1 - Bema",
+              "registeredVoters": 175
+            },
+            {
+              "id": "kerema-kaintiba-2-keatanga",
+              "name": "2 - Keatanga",
+              "registeredVoters": 86
+            },
+            {
+              "id": "kerema-kaintiba-3-yambona",
+              "name": "3 - Yambona",
+              "registeredVoters": 299
+            },
+            {
+              "id": "kerema-kaintiba-4-mine",
+              "name": "4 - Mine",
+              "registeredVoters": 358
+            },
+            {
+              "id": "kerema-kaintiba-5-wimka",
+              "name": "5 - Wimka",
+              "registeredVoters": 585
+            },
+            {
+              "id": "kerema-kaintiba-6-hambuini",
+              "name": "6 - Hambuini",
+              "registeredVoters": 1050
+            },
+            {
+              "id": "kerema-kaintiba-7-wempango",
+              "name": "7 - Wempango",
+              "registeredVoters": 402
+            },
+            {
+              "id": "kerema-kaintiba-8-hava",
+              "name": "8 - Hava",
+              "registeredVoters": 51
+            },
+            {
+              "id": "kerema-kaintiba-9-kaingo",
+              "name": "9 - Kaingo",
+              "registeredVoters": 292
+            },
+            {
+              "id": "kerema-kaintiba-10-hambia",
+              "name": "10 - Hambia",
+              "registeredVoters": 939
+            },
+            {
+              "id": "kerema-kaintiba-11-titamunga",
+              "name": "11 - Titamunga",
+              "registeredVoters": 72
+            },
+            {
+              "id": "kerema-kaintiba-12-iwau",
+              "name": "12 - Iwau",
+              "registeredVoters": 152
+            },
+            {
+              "id": "kerema-kaintiba-13-yemepango",
+              "name": "13 - Yemepango",
+              "registeredVoters": 420
+            },
+            {
+              "id": "kerema-kaintiba-14-hewapango",
+              "name": "14 - Hewapango",
+              "registeredVoters": 124
+            },
+            {
+              "id": "kerema-kaintiba-15-yeplepai",
+              "name": "15 - Yeplepai",
+              "registeredVoters": 257
+            },
+            {
+              "id": "kerema-kaintiba-16-mapuhuyuhua",
+              "name": "16 - Mapuhuyuhua",
+              "registeredVoters": 156
+            },
+            {
+              "id": "kerema-kaintiba-17-suwato",
+              "name": "17 - Suwato",
+              "registeredVoters": 105
+            },
+            {
+              "id": "kerema-kaintiba-18-karangea",
+              "name": "18 - Karangea",
+              "registeredVoters": 154
+            },
+            {
+              "id": "kerema-kaintiba-19-iwawia",
+              "name": "19 - Iwawia",
+              "registeredVoters": 221
+            },
+            {
+              "id": "kerema-kaintiba-20-koeamunga",
+              "name": "20 - Koeamunga",
+              "registeredVoters": 494
+            },
+            {
+              "id": "kerema-kaintiba-21-hata",
+              "name": "21 - Hata",
+              "registeredVoters": 140
+            },
+            {
+              "id": "kerema-kaintiba-22-koengasa",
+              "name": "22 - Koengasa",
+              "registeredVoters": 130
+            },
+            {
+              "id": "kerema-kaintiba-23-kengo",
+              "name": "23 - Kengo",
+              "registeredVoters": 876
+            },
+            {
+              "id": "kerema-kaintiba-24-teingama",
+              "name": "24 - Teingama",
+              "registeredVoters": 727
+            },
+            {
+              "id": "kerema-kaintiba-25-hapataewa",
+              "name": "25 - Hapataewa",
+              "registeredVoters": 199
+            },
+            {
+              "id": "kerema-kaintiba-26-imendu",
+              "name": "26 - Imendu",
+              "registeredVoters": 271
+            },
+            {
+              "id": "kerema-kaintiba-27-kaintiba-station",
+              "name": "27 - Kaintiba Station",
+              "registeredVoters": 245
+            },
+            {
+              "id": "kerema-kaintiba-28-yoe-mission",
+              "name": "28 - Yoe Mission",
+              "registeredVoters": 194
+            },
+            {
+              "id": "kerema-kaintiba-29-ikose",
+              "name": "29 - Ikose",
+              "registeredVoters": 187
+            },
+            {
+              "id": "kerema-kaintiba-30-yakitangwa",
+              "name": "30 - Yakitangwa",
+              "registeredVoters": 89
+            },
+            {
+              "id": "kerema-kaintiba-31-kavaini",
+              "name": "31 - Kavaini",
+              "registeredVoters": 330
+            }
+          ]
+        },
+        {
+          "id": "kerema-kaipi-melaripi",
+          "name": "Kaipi/Melaripi LLG",
+          "electorateSlug": "kerema",
+          "wards": [
+            {
+              "id": "kerema-kaipi-melaripi-1-silo-no-1",
+              "name": "1 - Silo No.1",
+              "registeredVoters": 420
+            },
+            {
+              "id": "kerema-kaipi-melaripi-2-silo-no-2",
+              "name": "2 - Silo No.2",
+              "registeredVoters": 597
+            },
+            {
+              "id": "kerema-kaipi-melaripi-3-avere",
+              "name": "3 - Avere",
+              "registeredVoters": 255
+            },
+            {
+              "id": "kerema-kaipi-melaripi-4-kavako",
+              "name": "4 - Kavako",
+              "registeredVoters": 272
+            },
+            {
+              "id": "kerema-kaipi-melaripi-5-pomara",
+              "name": "5 - Pomara",
+              "registeredVoters": 494
+            },
+            {
+              "id": "kerema-kaipi-melaripi-6-mora-a",
+              "name": "6 - Mora'a",
+              "registeredVoters": 390
+            },
+            {
+              "id": "kerema-kaipi-melaripi-7-pukari",
+              "name": "7 - Pukari",
+              "registeredVoters": 104
+            },
+            {
+              "id": "kerema-kaipi-melaripi-8-toare",
+              "name": "8 - Toare",
+              "registeredVoters": 244
+            },
+            {
+              "id": "kerema-kaipi-melaripi-9-karama-no-1",
+              "name": "9 - Karama No.1",
+              "registeredVoters": 414
+            },
+            {
+              "id": "kerema-kaipi-melaripi-10-karama-no-2",
+              "name": "10 - Karama No.2",
+              "registeredVoters": 306
+            },
+            {
+              "id": "kerema-kaipi-melaripi-11-moroi",
+              "name": "11 - Moroi",
+              "registeredVoters": 420
+            },
+            {
+              "id": "kerema-kaipi-melaripi-12-elava",
+              "name": "12 - Elava",
+              "registeredVoters": 313
+            },
+            {
+              "id": "kerema-kaipi-melaripi-13-aru",
+              "name": "13 - Aru",
+              "registeredVoters": 302
+            },
+            {
+              "id": "kerema-kaipi-melaripi-14-koaru",
+              "name": "14 - Koaru",
+              "registeredVoters": 523
+            },
+            {
+              "id": "kerema-kaipi-melaripi-15-ipihia",
+              "name": "15 - Ipihia",
+              "registeredVoters": 139
+            },
+            {
+              "id": "kerema-kaipi-melaripi-16-meporo",
+              "name": "16 - Meporo",
+              "registeredVoters": 289
+            },
+            {
+              "id": "kerema-kaipi-melaripi-17-wina",
+              "name": "17 - Wina",
+              "registeredVoters": 47
+            },
+            {
+              "id": "kerema-kaipi-melaripi-18-ewaini",
+              "name": "18 - Ewaini",
+              "registeredVoters": 54
+            },
+            {
+              "id": "kerema-kaipi-melaripi-19-mamamu",
+              "name": "19 - Mamamu",
+              "registeredVoters": 98
+            },
+            {
+              "id": "kerema-kaipi-melaripi-20-mupa",
+              "name": "20 - Mupa",
+              "registeredVoters": 51
+            },
+            {
+              "id": "kerema-kaipi-melaripi-21-laura",
+              "name": "21 - Laura",
+              "registeredVoters": 384
+            }
+          ]
+        },
+        {
           "id": "kerema-kerema-urban",
           "name": "Kerema Urban LLG",
           "electorateSlug": "kerema",
           "wards": [
             {
-              "id": "kerema-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2052
+              "id": "kerema-kerema-urban-1-kerema-1",
+              "name": "1 - Kerema 1",
+              "registeredVoters": 359
             },
             {
-              "id": "kerema-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2559
+              "id": "kerema-kerema-urban-2-kerema-2",
+              "name": "2 - Kerema 2",
+              "registeredVoters": 409
             },
             {
-              "id": "kerema-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2638
+              "id": "kerema-kerema-urban-3-kerema-3",
+              "name": "3 - Kerema 3",
+              "registeredVoters": 160
             },
             {
-              "id": "kerema-urban-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2680
+              "id": "kerema-kerema-urban-4-kerema-4",
+              "name": "4 - Kerema 4",
+              "registeredVoters": 394
             },
             {
-              "id": "kerema-urban-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2306
+              "id": "kerema-kerema-urban-5-kerema-5",
+              "name": "5 - Kerema 5",
+              "registeredVoters": 277
             },
             {
-              "id": "kerema-urban-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1803
+              "id": "kerema-kerema-urban-6-kerema-6",
+              "name": "6 - Kerema 6",
+              "registeredVoters": 179
             },
             {
-              "id": "kerema-urban-w07",
-              "name": "Ward 7",
-              "registeredVoters": 876
+              "id": "kerema-kerema-urban-7-rabia-camp",
+              "name": "7 - Rabia Camp",
+              "registeredVoters": 135
+            },
+            {
+              "id": "kerema-kerema-urban-8-luluitera",
+              "name": "8 - Luluitera",
+              "registeredVoters": 479
+            },
+            {
+              "id": "kerema-kerema-urban-9-siviri",
+              "name": "9 - Siviri",
+              "registeredVoters": 401
+            },
+            {
+              "id": "kerema-kerema-urban-10-iripe",
+              "name": "10 - Iripe",
+              "registeredVoters": 210
+            },
+            {
+              "id": "kerema-kerema-urban-11-karaeta",
+              "name": "11 - Karaeta",
+              "registeredVoters": 330
+            },
+            {
+              "id": "kerema-kerema-urban-12-popoharo-eoea",
+              "name": "12 - Popoharo/Eoea",
+              "registeredVoters": 141
+            },
+            {
+              "id": "kerema-kerema-urban-13-poroti",
+              "name": "13 - Poroti",
+              "registeredVoters": 77
+            },
+            {
+              "id": "kerema-kerema-urban-14-uriri",
+              "name": "14 - Uriri",
+              "registeredVoters": 567
+            },
+            {
+              "id": "kerema-kerema-urban-15-epo",
+              "name": "15 - Epo",
+              "registeredVoters": 272
+            },
+            {
+              "id": "kerema-kerema-urban-16-lou",
+              "name": "16 - Lou",
+              "registeredVoters": 163
+            },
+            {
+              "id": "kerema-kerema-urban-17-mei-i-no-1",
+              "name": "17 - Mei'I No.1",
+              "registeredVoters": 343
+            },
+            {
+              "id": "kerema-kerema-urban-18-mei-i-no-2",
+              "name": "18 - Mei'I No.2",
+              "registeredVoters": 422
+            },
+            {
+              "id": "kerema-kerema-urban-19-uaripi",
+              "name": "19 - Uaripi",
+              "registeredVoters": 335
+            },
+            {
+              "id": "kerema-kerema-urban-20-petoe",
+              "name": "20 - Petoe",
+              "registeredVoters": 153
+            },
+            {
+              "id": "kerema-kerema-urban-21-avuipi",
+              "name": "21 - Avuipi",
+              "registeredVoters": 337
+            },
+            {
+              "id": "kerema-kerema-urban-22-lapari",
+              "name": "22 - Lapari",
+              "registeredVoters": 260
+            },
+            {
+              "id": "kerema-kerema-urban-23-ilovapare",
+              "name": "23 - Ilovapare",
+              "registeredVoters": 251
+            },
+            {
+              "id": "kerema-kerema-urban-24-mirakera",
+              "name": "24 - Mirakera",
+              "registeredVoters": 520
+            },
+            {
+              "id": "kerema-kerema-urban-25-namohoroi",
+              "name": "25 - Namohoroi",
+              "registeredVoters": 556
+            },
+            {
+              "id": "kerema-kerema-urban-26-didimaua",
+              "name": "26 - Didimaua",
+              "registeredVoters": 538
+            },
+            {
+              "id": "kerema-kerema-urban-27-ma-atupe",
+              "name": "27 - Ma'atupe",
+              "registeredVoters": 51
+            },
+            {
+              "id": "kerema-kerema-urban-28-asepopo",
+              "name": "28 - Asepopo",
+              "registeredVoters": 85
+            },
+            {
+              "id": "kerema-kerema-urban-29-murua",
+              "name": "29 - Murua",
+              "registeredVoters": 506
+            },
+            {
+              "id": "kerema-kerema-urban-30-silaura",
+              "name": "30 - Silaura",
+              "registeredVoters": 47
             }
           ]
         },
@@ -52,83 +441,559 @@
           "electorateSlug": "kerema",
           "wards": [
             {
-              "id": "kotidanga-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3004
+              "id": "kerema-kotidanga-1-kopi-awa",
+              "name": "1 - Kopi'awa",
+              "registeredVoters": 580
             },
             {
-              "id": "kotidanga-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2247
+              "id": "kerema-kotidanga-2-kanabea-catholic-mission",
+              "name": "2 - Kanabea Catholic Mission",
+              "registeredVoters": 527
             },
             {
-              "id": "kotidanga-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2219
+              "id": "kerema-kotidanga-3-ipayu",
+              "name": "3 - Ipayu",
+              "registeredVoters": 343
             },
             {
-              "id": "kotidanga-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1214
+              "id": "kerema-kotidanga-4-tikiani",
+              "name": "4 - Tikiani",
+              "registeredVoters": 380
             },
             {
-              "id": "kotidanga-w05",
-              "name": "Ward 5",
-              "registeredVoters": 3068
+              "id": "kerema-kotidanga-5-manimango",
+              "name": "5 - Manimango",
+              "registeredVoters": 470
             },
             {
-              "id": "kotidanga-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1400
+              "id": "kerema-kotidanga-6-yeka",
+              "name": "6 - Yeka",
+              "registeredVoters": 350
+            },
+            {
+              "id": "kerema-kotidanga-7-kenauwa",
+              "name": "7 - Kenauwa",
+              "registeredVoters": 305
+            },
+            {
+              "id": "kerema-kotidanga-8-wemawa",
+              "name": "8 - Wemawa",
+              "registeredVoters": 460
+            },
+            {
+              "id": "kerema-kotidanga-9-kwemka",
+              "name": "9 - Kwemka",
+              "registeredVoters": 147
+            },
+            {
+              "id": "kerema-kotidanga-10-aniawa",
+              "name": "10 - Aniawa",
+              "registeredVoters": 73
+            },
+            {
+              "id": "kerema-kotidanga-11-iwandu",
+              "name": "11 - Iwandu",
+              "registeredVoters": 492
+            },
+            {
+              "id": "kerema-kotidanga-12-maiwakata",
+              "name": "12 - Maiwakata",
+              "registeredVoters": 507
+            },
+            {
+              "id": "kerema-kotidanga-13-hawakabia",
+              "name": "13 - Hawakabia",
+              "registeredVoters": 589
+            },
+            {
+              "id": "kerema-kotidanga-14-kamina",
+              "name": "14 - Kamina",
+              "registeredVoters": 174
+            },
+            {
+              "id": "kerema-kotidanga-15-moiwa",
+              "name": "15 - Moiwa",
+              "registeredVoters": 365
+            },
+            {
+              "id": "kerema-kotidanga-16-tiawa",
+              "name": "16 - Tiawa",
+              "registeredVoters": 406
+            },
+            {
+              "id": "kerema-kotidanga-17-paina",
+              "name": "17 - Paina",
+              "registeredVoters": 359
+            },
+            {
+              "id": "kerema-kotidanga-18-meiwari",
+              "name": "18 - Meiwari",
+              "registeredVoters": 420
+            },
+            {
+              "id": "kerema-kotidanga-19-kutumbiawa",
+              "name": "19 - Kutumbiawa",
+              "registeredVoters": 520
+            },
+            {
+              "id": "kerema-kotidanga-20-kotidanga",
+              "name": "20 - Kotidanga",
+              "registeredVoters": 281
+            },
+            {
+              "id": "kerema-kotidanga-21-arikau",
+              "name": "21 - Arikau",
+              "registeredVoters": 166
+            },
+            {
+              "id": "kerema-kotidanga-22-ipaea",
+              "name": "22 - Ipaea",
+              "registeredVoters": 387
             }
           ]
         },
         {
-          "id": "kerema-ihu",
-          "name": "Ihu LLG",
+          "id": "kerema-malalaua-urban",
+          "name": "Malalaua Urban LLG",
           "electorateSlug": "kerema",
           "wards": [
             {
-              "id": "ihu-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3826
+              "id": "kerema-malalaua-urban-1-malalaua-no-1",
+              "name": "1 - Malalaua No.1",
+              "registeredVoters": 352
             },
             {
-              "id": "ihu-w02",
-              "name": "Ward 2",
-              "registeredVoters": 5037
+              "id": "kerema-malalaua-urban-2-malalaua-no-2",
+              "name": "2 - Malalaua No.2",
+              "registeredVoters": 285
             },
             {
-              "id": "ihu-w03",
-              "name": "Ward 3",
-              "registeredVoters": 4395
+              "id": "kerema-malalaua-urban-3-keke",
+              "name": "3 - Keke",
+              "registeredVoters": 186
+            },
+            {
+              "id": "kerema-malalaua-urban-4-tapala",
+              "name": "4 - Tapala",
+              "registeredVoters": 156
+            },
+            {
+              "id": "kerema-malalaua-urban-5-uto",
+              "name": "5 - Uto",
+              "registeredVoters": 177
+            },
+            {
+              "id": "kerema-malalaua-urban-6-kauri",
+              "name": "6 - Kauri",
+              "registeredVoters": 3
+            },
+            {
+              "id": "kerema-malalaua-urban-7-malalaua-high-school",
+              "name": "7 - Malalaua High School",
+              "registeredVoters": 45
+            },
+            {
+              "id": "kerema-malalaua-urban-8-kirivako",
+              "name": "8 - Kirivako",
+              "registeredVoters": 63
             }
           ]
         },
         {
-          "id": "kerema-east-kerema",
-          "name": "East Kerema LLG",
+          "id": "kerema-moripi",
+          "name": "Moripi LLG",
           "electorateSlug": "kerema",
           "wards": [
             {
-              "id": "east-kerema-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3890
+              "id": "kerema-moripi-1-lese-avihara",
+              "name": "1 - Lese Avihara",
+              "registeredVoters": 851
             },
             {
-              "id": "east-kerema-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2131
+              "id": "kerema-moripi-2-lese-kavora",
+              "name": "2 - Lese Kavora",
+              "registeredVoters": 707
             },
             {
-              "id": "east-kerema-w03",
-              "name": "Ward 3",
-              "registeredVoters": 4450
+              "id": "kerema-moripi-3-lese-oalai",
+              "name": "3 - Lese Oalai",
+              "registeredVoters": 1454
             },
             {
-              "id": "east-kerema-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2629
+              "id": "kerema-moripi-4-lese-ilava",
+              "name": "4 - Lese Ilava",
+              "registeredVoters": 389
+            },
+            {
+              "id": "kerema-moripi-5-easo-highway",
+              "name": "5 - Easo Highway",
+              "registeredVoters": 425
+            },
+            {
+              "id": "kerema-moripi-6-hake-raepa",
+              "name": "6 - Hake Raepa",
+              "registeredVoters": 190
+            },
+            {
+              "id": "kerema-moripi-7-miaru-east",
+              "name": "7 - Miaru East",
+              "registeredVoters": 481
+            },
+            {
+              "id": "kerema-moripi-8-miaru-west",
+              "name": "8 - Miaru West",
+              "registeredVoters": 410
+            },
+            {
+              "id": "kerema-moripi-9-mirapo",
+              "name": "9 - Mirapo",
+              "registeredVoters": 357
+            },
+            {
+              "id": "kerema-moripi-10-iokea-no-4",
+              "name": "10 - Iokea No.4",
+              "registeredVoters": 514
+            },
+            {
+              "id": "kerema-moripi-11-iokea-no-3",
+              "name": "11 - Iokea No.3",
+              "registeredVoters": 400
+            },
+            {
+              "id": "kerema-moripi-12-iokea-no-2",
+              "name": "12 - Iokea No.2",
+              "registeredVoters": 563
+            },
+            {
+              "id": "kerema-moripi-13-iokea-no-1",
+              "name": "13 - Iokea No.1",
+              "registeredVoters": 560
+            },
+            {
+              "id": "kerema-moripi-14-sarota",
+              "name": "14 - Sarota",
+              "registeredVoters": 359
+            },
+            {
+              "id": "kerema-moripi-15-morio",
+              "name": "15 - Morio",
+              "registeredVoters": 166
+            },
+            {
+              "id": "kerema-moripi-16-laurava",
+              "name": "16 - Laurava",
+              "registeredVoters": 235
+            },
+            {
+              "id": "kerema-moripi-17-rove",
+              "name": "17 - Rove",
+              "registeredVoters": 242
+            }
+          ]
+        },
+        {
+          "id": "kerema-taure-lakekamu",
+          "name": "Taure/Lakekamu LLG",
+          "electorateSlug": "kerema",
+          "wards": [
+            {
+              "id": "kerema-taure-lakekamu-1-heatoare-no-1",
+              "name": "1 - Heatoare No.1",
+              "registeredVoters": 512
+            },
+            {
+              "id": "kerema-taure-lakekamu-2-heatoare-no-2",
+              "name": "2 - Heatoare No.2",
+              "registeredVoters": 324
+            },
+            {
+              "id": "kerema-taure-lakekamu-3-heavala-no-1",
+              "name": "3 - Heavala No.1",
+              "registeredVoters": 1073
+            },
+            {
+              "id": "kerema-taure-lakekamu-4-heavala-no-2",
+              "name": "4 - Heavala No.2",
+              "registeredVoters": 330
+            },
+            {
+              "id": "kerema-taure-lakekamu-5-lalafuru",
+              "name": "5 - Lalafuru",
+              "registeredVoters": 245
+            },
+            {
+              "id": "kerema-taure-lakekamu-6-terapo",
+              "name": "6 - Terapo",
+              "registeredVoters": 642
+            },
+            {
+              "id": "kerema-taure-lakekamu-7-iopoe",
+              "name": "7 - Iopoe",
+              "registeredVoters": 407
+            },
+            {
+              "id": "kerema-taure-lakekamu-8-savaiviri",
+              "name": "8 - Savaiviri",
+              "registeredVoters": 399
+            },
+            {
+              "id": "kerema-taure-lakekamu-9-kakaro",
+              "name": "9 - Kakaro",
+              "registeredVoters": 342
+            },
+            {
+              "id": "kerema-taure-lakekamu-10-iruki",
+              "name": "10 - Iruki",
+              "registeredVoters": 80
+            },
+            {
+              "id": "kerema-taure-lakekamu-11-mirimas",
+              "name": "11 - Mirimas",
+              "registeredVoters": 272
+            },
+            {
+              "id": "kerema-taure-lakekamu-12-okavai",
+              "name": "12 - Okavai",
+              "registeredVoters": 326
+            },
+            {
+              "id": "kerema-taure-lakekamu-13-urulau",
+              "name": "13 - Urulau",
+              "registeredVoters": 306
+            },
+            {
+              "id": "kerema-taure-lakekamu-14-ungima",
+              "name": "14 - Ungima",
+              "registeredVoters": 64
+            },
+            {
+              "id": "kerema-taure-lakekamu-15-keremahaua",
+              "name": "15 - Keremahaua",
+              "registeredVoters": 115
+            },
+            {
+              "id": "kerema-taure-lakekamu-16-nukeva",
+              "name": "16 - Nukeva",
+              "registeredVoters": 122
+            },
+            {
+              "id": "kerema-taure-lakekamu-17-nanamoto",
+              "name": "17 - Nanamoto",
+              "registeredVoters": 153
+            },
+            {
+              "id": "kerema-taure-lakekamu-18-putei",
+              "name": "18 - Putei",
+              "registeredVoters": 300
+            },
+            {
+              "id": "kerema-taure-lakekamu-19-kakiva",
+              "name": "19 - Kakiva",
+              "registeredVoters": 604
+            },
+            {
+              "id": "kerema-taure-lakekamu-20-yeva",
+              "name": "20 - Yeva",
+              "registeredVoters": 198
+            },
+            {
+              "id": "kerema-taure-lakekamu-21-wanto",
+              "name": "21 - Wanto",
+              "registeredVoters": 459
+            },
+            {
+              "id": "kerema-taure-lakekamu-22-santo-maria",
+              "name": "22 - Santo Maria",
+              "registeredVoters": 98
+            },
+            {
+              "id": "kerema-taure-lakekamu-23-titikaini",
+              "name": "23 - Titikaini",
+              "registeredVoters": 940
+            },
+            {
+              "id": "kerema-taure-lakekamu-24-numare",
+              "name": "24 - Numare",
+              "registeredVoters": 169
+            },
+            {
+              "id": "kerema-taure-lakekamu-25-marukapota",
+              "name": "25 - Marukapota",
+              "registeredVoters": 169
+            },
+            {
+              "id": "kerema-taure-lakekamu-26-kotai",
+              "name": "26 - Kotai",
+              "registeredVoters": 175
+            }
+          ]
+        },
+        {
+          "id": "kerema-toaripi",
+          "name": "Toaripi LLG",
+          "electorateSlug": "kerema",
+          "wards": [
+            {
+              "id": "kerema-toaripi-1-lelefiru",
+              "name": "1 - Lelefiru",
+              "registeredVoters": 442
+            },
+            {
+              "id": "kerema-toaripi-2-hamuhamu",
+              "name": "2 - Hamuhamu",
+              "registeredVoters": 322
+            },
+            {
+              "id": "kerema-toaripi-3-kukipi",
+              "name": "3 - Kukipi",
+              "registeredVoters": 341
+            },
+            {
+              "id": "kerema-toaripi-4-marekea",
+              "name": "4 - Marekea",
+              "registeredVoters": 225
+            },
+            {
+              "id": "kerema-toaripi-5-isapeape",
+              "name": "5 - Isapeape",
+              "registeredVoters": 459
+            },
+            {
+              "id": "kerema-toaripi-6-uritai-west",
+              "name": "6 - Uritai West",
+              "registeredVoters": 277
+            },
+            {
+              "id": "kerema-toaripi-7-uritai-east",
+              "name": "7 - Uritai East",
+              "registeredVoters": 249
+            },
+            {
+              "id": "kerema-toaripi-8-mirivase",
+              "name": "8 - Mirivase",
+              "registeredVoters": 298
+            },
+            {
+              "id": "kerema-toaripi-9-lalapipi",
+              "name": "9 - Lalapipi",
+              "registeredVoters": 352
+            },
+            {
+              "id": "kerema-toaripi-10-popo-mikafiru",
+              "name": "10 - Popo Mikafiru",
+              "registeredVoters": 422
+            },
+            {
+              "id": "kerema-toaripi-11-popo-luluapo",
+              "name": "11 - Popo Luluapo",
+              "registeredVoters": 457
+            },
+            {
+              "id": "kerema-toaripi-12-popo-kaisava",
+              "name": "12 - Popo Kaisava",
+              "registeredVoters": 402
+            }
+          ]
+        },
+        {
+          "id": "kerema-wake",
+          "name": "Wake LLG",
+          "electorateSlug": "kerema",
+          "wards": [
+            {
+              "id": "kerema-wake-1-komako-1",
+              "name": "1 - Komako 1",
+              "registeredVoters": 515
+            },
+            {
+              "id": "kerema-wake-2-komako-2",
+              "name": "2 - Komako 2",
+              "registeredVoters": 473
+            },
+            {
+              "id": "kerema-wake-3-kwaiyu",
+              "name": "3 - Kwaiyu",
+              "registeredVoters": 590
+            },
+            {
+              "id": "kerema-wake-4-bu-u",
+              "name": "4 - Bu'u",
+              "registeredVoters": 299
+            },
+            {
+              "id": "kerema-wake-5-sinde",
+              "name": "5 - Sinde",
+              "registeredVoters": 64
+            },
+            {
+              "id": "kerema-wake-6-hangkai",
+              "name": "6 - Hangkai",
+              "registeredVoters": 52
+            },
+            {
+              "id": "kerema-wake-7-yaukua",
+              "name": "7 - Yaukua",
+              "registeredVoters": 182
+            },
+            {
+              "id": "kerema-wake-8-kaminakawa",
+              "name": "8 - Kaminakawa",
+              "registeredVoters": 320
+            },
+            {
+              "id": "kerema-wake-9-paingone",
+              "name": "9 - Paingone",
+              "registeredVoters": 98
+            },
+            {
+              "id": "kerema-wake-10-anea",
+              "name": "10 - Anea",
+              "registeredVoters": 199
+            },
+            {
+              "id": "kerema-wake-11-wake",
+              "name": "11 - Wake",
+              "registeredVoters": 358
+            },
+            {
+              "id": "kerema-wake-12-eiya",
+              "name": "12 - Eiya",
+              "registeredVoters": 61
+            },
+            {
+              "id": "kerema-wake-13-aminawa",
+              "name": "13 - Aminawa",
+              "registeredVoters": 365
+            },
+            {
+              "id": "kerema-wake-14-imbawa",
+              "name": "14 - Imbawa",
+              "registeredVoters": 262
+            },
+            {
+              "id": "kerema-wake-15-m-bauya",
+              "name": "15 - M'Bauya",
+              "registeredVoters": 261
+            },
+            {
+              "id": "kerema-wake-16-paingoba",
+              "name": "16 - Paingoba",
+              "registeredVoters": 249
+            },
+            {
+              "id": "kerema-wake-17-tapa",
+              "name": "17 - Tapa",
+              "registeredVoters": 115
+            },
+            {
+              "id": "kerema-wake-18-maikrami",
+              "name": "18 - Maikrami",
+              "registeredVoters": 80
+            },
+            {
+              "id": "kerema-wake-19-tapngawa",
+              "name": "19 - Tapngawa",
+              "registeredVoters": 196
             }
           ]
         }
@@ -138,148 +1003,749 @@
       "electorateSlug": "kikori",
       "llgs": [
         {
-          "id": "kikori-kikori",
-          "name": "Kikori LLG",
-          "electorateSlug": "kikori",
-          "wards": [
-            {
-              "id": "kikori-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1425
-            },
-            {
-              "id": "kikori-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2321
-            },
-            {
-              "id": "kikori-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2201
-            },
-            {
-              "id": "kikori-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1691
-            },
-            {
-              "id": "kikori-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1305
-            },
-            {
-              "id": "kikori-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1414
-            },
-            {
-              "id": "kikori-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1631
-            },
-            {
-              "id": "kikori-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1438
-            }
-          ]
-        },
-        {
           "id": "kikori-baimuru",
           "name": "Baimuru LLG",
           "electorateSlug": "kikori",
           "wards": [
             {
-              "id": "baimuru-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1688
+              "id": "kikori-baimuru-1-amepoke",
+              "name": "1 - Amepoke",
+              "registeredVoters": 257
             },
             {
-              "id": "baimuru-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1888
+              "id": "kikori-baimuru-2-karurua",
+              "name": "2 - Karurua",
+              "registeredVoters": 693
             },
             {
-              "id": "baimuru-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1559
+              "id": "kikori-baimuru-3-inaua",
+              "name": "3 - Inaua",
+              "registeredVoters": 154
             },
             {
-              "id": "baimuru-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2055
+              "id": "kikori-baimuru-4-bekoro",
+              "name": "4 - Bekoro",
+              "registeredVoters": 256
             },
             {
-              "id": "baimuru-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1422
+              "id": "kikori-baimuru-5-mariki",
+              "name": "5 - Mariki",
+              "registeredVoters": 169
             },
             {
-              "id": "baimuru-w06",
-              "name": "Ward 6",
-              "registeredVoters": 976
+              "id": "kikori-baimuru-6-upaia",
+              "name": "6 - Upaia",
+              "registeredVoters": 171
             },
             {
-              "id": "baimuru-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1236
+              "id": "kikori-baimuru-7-varia",
+              "name": "7 - Varia",
+              "registeredVoters": 293
             },
             {
-              "id": "baimuru-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1846
+              "id": "kikori-baimuru-8-korovake-1",
+              "name": "8 - Korovake 1",
+              "registeredVoters": 379
             },
             {
-              "id": "baimuru-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1298
+              "id": "kikori-baimuru-9-korovake-2",
+              "name": "9 - Korovake 2",
+              "registeredVoters": 318
+            },
+            {
+              "id": "kikori-baimuru-10-ara-ava",
+              "name": "10 - Ara'ava",
+              "registeredVoters": 441
+            },
+            {
+              "id": "kikori-baimuru-11-ukunukua",
+              "name": "11 - Ukunukua",
+              "registeredVoters": 132
+            },
+            {
+              "id": "kikori-baimuru-12-kairimai",
+              "name": "12 - Kairimai",
+              "registeredVoters": 277
+            },
+            {
+              "id": "kikori-baimuru-13-dr-calvert",
+              "name": "13 - Dr. Calvert",
+              "registeredVoters": 52
+            },
+            {
+              "id": "kikori-baimuru-14-kinipo",
+              "name": "14 - Kinipo",
+              "registeredVoters": 317
+            },
+            {
+              "id": "kikori-baimuru-15-ikinu",
+              "name": "15 - Ikinu",
+              "registeredVoters": 169
+            },
+            {
+              "id": "kikori-baimuru-16-akoma",
+              "name": "16 - Akoma",
+              "registeredVoters": 310
+            },
+            {
+              "id": "kikori-baimuru-17-old-iare",
+              "name": "17 - Old Iare",
+              "registeredVoters": 47
+            },
+            {
+              "id": "kikori-baimuru-18-evara",
+              "name": "18 - Evara",
+              "registeredVoters": 235
+            },
+            {
+              "id": "kikori-baimuru-19-aikavaravi",
+              "name": "19 - Aikavaravi",
+              "registeredVoters": 319
+            },
+            {
+              "id": "kikori-baimuru-20-mapaio",
+              "name": "20 - Mapaio",
+              "registeredVoters": 361
+            },
+            {
+              "id": "kikori-baimuru-21-kapai1-2",
+              "name": "21 - Kapai1&2",
+              "registeredVoters": 239
+            },
+            {
+              "id": "kikori-baimuru-22-apiope",
+              "name": "22 - Apiope",
+              "registeredVoters": 278
+            },
+            {
+              "id": "kikori-baimuru-23-aumu",
+              "name": "23 - Aumu",
+              "registeredVoters": 233
+            },
+            {
+              "id": "kikori-baimuru-24-poroi",
+              "name": "24 - Poroi",
+              "registeredVoters": 194
+            },
+            {
+              "id": "kikori-baimuru-25-subu",
+              "name": "25 - Subu",
+              "registeredVoters": 52
+            },
+            {
+              "id": "kikori-baimuru-26-wabo-station",
+              "name": "26 - Wabo Station",
+              "registeredVoters": 54
+            },
+            {
+              "id": "kikori-baimuru-27-wabo-village",
+              "name": "27 - Wabo Village",
+              "registeredVoters": 362
+            },
+            {
+              "id": "kikori-baimuru-28-uraru",
+              "name": "28 - Uraru",
+              "registeredVoters": 139
+            },
+            {
+              "id": "kikori-baimuru-29-haia",
+              "name": "29 - Haia",
+              "registeredVoters": 1107
+            },
+            {
+              "id": "kikori-baimuru-30-japramaru",
+              "name": "30 - Japramaru",
+              "registeredVoters": 65
+            },
+            {
+              "id": "kikori-baimuru-31-putjano",
+              "name": "31 - Putjano",
+              "registeredVoters": 197
+            },
+            {
+              "id": "kikori-baimuru-32-taiswara",
+              "name": "32 - Taiswara",
+              "registeredVoters": 68
+            },
+            {
+              "id": "kikori-baimuru-33-jerimatu",
+              "name": "33 - Jerimatu",
+              "registeredVoters": 204
+            },
+            {
+              "id": "kikori-baimuru-34-baimuru-1",
+              "name": "34 - Baimuru 1",
+              "registeredVoters": 403
+            },
+            {
+              "id": "kikori-baimuru-35-baimuru-2",
+              "name": "35 - Baimuru 2",
+              "registeredVoters": 317
+            },
+            {
+              "id": "kikori-baimuru-36-maipenairu",
+              "name": "36 - Maipenairu",
+              "registeredVoters": 189
             }
           ]
         },
         {
-          "id": "kikori-kaintiba",
-          "name": "Kaintiba LLG",
+          "id": "kikori-east-ihu",
+          "name": "East Ihu LLG",
           "electorateSlug": "kikori",
           "wards": [
             {
-              "id": "kaintiba-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2256
+              "id": "kikori-east-ihu-1-loveholo",
+              "name": "1 - Loveholo",
+              "registeredVoters": 179
             },
             {
-              "id": "kaintiba-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1097
+              "id": "kikori-east-ihu-2-hiru",
+              "name": "2 - Hiru",
+              "registeredVoters": 176
             },
             {
-              "id": "kaintiba-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1746
+              "id": "kikori-east-ihu-3-ovahulu",
+              "name": "3 - Ovahulu",
+              "registeredVoters": 318
             },
             {
-              "id": "kaintiba-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1506
+              "id": "kikori-east-ihu-4-ova-a",
+              "name": "4 - Ova'a",
+              "registeredVoters": 372
             },
             {
-              "id": "kaintiba-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1231
+              "id": "kikori-east-ihu-5-lohiki",
+              "name": "5 - Lohiki",
+              "registeredVoters": 36
             },
             {
-              "id": "kaintiba-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1195
+              "id": "kikori-east-ihu-6-vailala-east",
+              "name": "6 - Vailala East",
+              "registeredVoters": 631
             },
             {
-              "id": "kaintiba-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2322
+              "id": "kikori-east-ihu-7-karokaro",
+              "name": "7 - Karokaro",
+              "registeredVoters": 178
             },
             {
-              "id": "kaintiba-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1615
+              "id": "kikori-east-ihu-8-harona",
+              "name": "8 - Harona",
+              "registeredVoters": 177
+            },
+            {
+              "id": "kikori-east-ihu-9-lui",
+              "name": "9 - Lui",
+              "registeredVoters": 173
+            },
+            {
+              "id": "kikori-east-ihu-10-herehere",
+              "name": "10 - Herehere",
+              "registeredVoters": 313
+            },
+            {
+              "id": "kikori-east-ihu-11-aivau",
+              "name": "11 - Aivau",
+              "registeredVoters": 255
+            },
+            {
+              "id": "kikori-east-ihu-12-keoalahu",
+              "name": "12 - Keoalahu",
+              "registeredVoters": 406
+            },
+            {
+              "id": "kikori-east-ihu-13-keakea",
+              "name": "13 - Keakea",
+              "registeredVoters": 311
+            },
+            {
+              "id": "kikori-east-ihu-14-lapokera",
+              "name": "14 - Lapokera",
+              "registeredVoters": 396
+            },
+            {
+              "id": "kikori-east-ihu-15-iori",
+              "name": "15 - Iori",
+              "registeredVoters": 298
+            },
+            {
+              "id": "kikori-east-ihu-16-akapiru",
+              "name": "16 - Akapiru",
+              "registeredVoters": 842
+            },
+            {
+              "id": "kikori-east-ihu-17-pivo",
+              "name": "17 - Pivo",
+              "registeredVoters": 220
+            },
+            {
+              "id": "kikori-east-ihu-18-heawa",
+              "name": "18 - Heawa",
+              "registeredVoters": 150
+            },
+            {
+              "id": "kikori-east-ihu-19-opumiri",
+              "name": "19 - Opumiri",
+              "registeredVoters": 166
+            },
+            {
+              "id": "kikori-east-ihu-20-mairava",
+              "name": "20 - Mairava",
+              "registeredVoters": 207
+            },
+            {
+              "id": "kikori-east-ihu-21-hepea",
+              "name": "21 - Hepea",
+              "registeredVoters": 272
+            },
+            {
+              "id": "kikori-east-ihu-22-balepa",
+              "name": "22 - Balepa",
+              "registeredVoters": 166
+            },
+            {
+              "id": "kikori-east-ihu-23-opa",
+              "name": "23 - Opa",
+              "registeredVoters": 79
+            },
+            {
+              "id": "kikori-east-ihu-24-opularia",
+              "name": "24 - Opularia",
+              "registeredVoters": 173
+            }
+          ]
+        },
+        {
+          "id": "kikori-east-kikori",
+          "name": "East Kikori LLG",
+          "electorateSlug": "kikori",
+          "wards": [
+            {
+              "id": "kikori-east-kikori-1-negebare",
+              "name": "1 - Negebare",
+              "registeredVoters": 301
+            },
+            {
+              "id": "kikori-east-kikori-2-tekerapo",
+              "name": "2 - Tekerapo",
+              "registeredVoters": 74
+            },
+            {
+              "id": "kikori-east-kikori-3-tetrabare",
+              "name": "3 - Tetrabare",
+              "registeredVoters": 72
+            },
+            {
+              "id": "kikori-east-kikori-4-tobare",
+              "name": "4 - Tobare",
+              "registeredVoters": 256
+            },
+            {
+              "id": "kikori-east-kikori-5-sera",
+              "name": "5 - Sera",
+              "registeredVoters": 127
+            },
+            {
+              "id": "kikori-east-kikori-6-omo",
+              "name": "6 - Omo",
+              "registeredVoters": 112
+            },
+            {
+              "id": "kikori-east-kikori-7-kabarau",
+              "name": "7 - Kabarau",
+              "registeredVoters": 357
+            },
+            {
+              "id": "kikori-east-kikori-8-morere",
+              "name": "8 - Morere",
+              "registeredVoters": 71
+            },
+            {
+              "id": "kikori-east-kikori-9-ero",
+              "name": "9 - Ero",
+              "registeredVoters": 619
+            },
+            {
+              "id": "kikori-east-kikori-10-samoa",
+              "name": "10 - Samoa",
+              "registeredVoters": 108
+            },
+            {
+              "id": "kikori-east-kikori-11-wouwou",
+              "name": "11 - Wouwou",
+              "registeredVoters": 74
+            },
+            {
+              "id": "kikori-east-kikori-12-tetehui",
+              "name": "12 - Tetehui",
+              "registeredVoters": 547
+            },
+            {
+              "id": "kikori-east-kikori-13-tovei",
+              "name": "13 - Tovei",
+              "registeredVoters": 251
+            },
+            {
+              "id": "kikori-east-kikori-14-nahoromere",
+              "name": "14 - Nahoromere",
+              "registeredVoters": 239
+            },
+            {
+              "id": "kikori-east-kikori-15-aimei",
+              "name": "15 - Aimei",
+              "registeredVoters": 238
+            },
+            {
+              "id": "kikori-east-kikori-16-gibi",
+              "name": "16 - Gibi",
+              "registeredVoters": 505
+            },
+            {
+              "id": "kikori-east-kikori-17-meakoma",
+              "name": "17 - Meakoma",
+              "registeredVoters": 109
+            },
+            {
+              "id": "kikori-east-kikori-18-homobavi",
+              "name": "18 - Homobavi",
+              "registeredVoters": 315
+            },
+            {
+              "id": "kikori-east-kikori-19-mirakoiravi",
+              "name": "19 - Mirakoiravi",
+              "registeredVoters": 295
+            },
+            {
+              "id": "kikori-east-kikori-20-ubuo",
+              "name": "20 - Ubuo",
+              "registeredVoters": 648
+            },
+            {
+              "id": "kikori-east-kikori-21-aibigae",
+              "name": "21 - Aibigae",
+              "registeredVoters": 190
+            },
+            {
+              "id": "kikori-east-kikori-22-gauri",
+              "name": "22 - Gauri",
+              "registeredVoters": 183
+            },
+            {
+              "id": "kikori-east-kikori-23-kinomere",
+              "name": "23 - Kinomere",
+              "registeredVoters": 242
+            },
+            {
+              "id": "kikori-east-kikori-24-kivaumai",
+              "name": "24 - Kivaumai",
+              "registeredVoters": 571
+            },
+            {
+              "id": "kikori-east-kikori-25-larimia",
+              "name": "25 - Larimia",
+              "registeredVoters": 269
+            },
+            {
+              "id": "kikori-east-kikori-26-mairipepa",
+              "name": "26 - Mairipepa",
+              "registeredVoters": 111
+            },
+            {
+              "id": "kikori-east-kikori-27-morovamu",
+              "name": "27 - Morovamu",
+              "registeredVoters": 175
+            },
+            {
+              "id": "kikori-east-kikori-28-veraibari",
+              "name": "28 - Veraibari",
+              "registeredVoters": 222
+            },
+            {
+              "id": "kikori-east-kikori-29-eramaipua",
+              "name": "29 - Eramaipua",
+              "registeredVoters": 355
+            }
+          ]
+        },
+        {
+          "id": "kikori-kikori-urban",
+          "name": "Kikori Urban LLG",
+          "electorateSlug": "kikori",
+          "wards": [
+            {
+              "id": "kikori-kikori-urban-1-kopi",
+              "name": "1 - Kopi",
+              "registeredVoters": 196
+            },
+            {
+              "id": "kikori-kikori-urban-2-irimiku",
+              "name": "2 - Irimiku",
+              "registeredVoters": 149
+            },
+            {
+              "id": "kikori-kikori-urban-3-ogomabu",
+              "name": "3 - Ogomabu",
+              "registeredVoters": 126
+            },
+            {
+              "id": "kikori-kikori-urban-4-kikori-council-compound",
+              "name": "4 - Kikori Council Compound",
+              "registeredVoters": 96
+            },
+            {
+              "id": "kikori-kikori-urban-5-dodobai-water-front",
+              "name": "5 - Dodobai Water Front",
+              "registeredVoters": 30
+            },
+            {
+              "id": "kikori-kikori-urban-6-delta",
+              "name": "6 - Delta",
+              "registeredVoters": 72
+            },
+            {
+              "id": "kikori-kikori-urban-7-hospital",
+              "name": "7 - Hospital",
+              "registeredVoters": 70
+            },
+            {
+              "id": "kikori-kikori-urban-8-keakea",
+              "name": "8 - Keakea",
+              "registeredVoters": 141
+            },
+            {
+              "id": "kikori-kikori-urban-9-doibo",
+              "name": "9 - Doibo",
+              "registeredVoters": 113
+            },
+            {
+              "id": "kikori-kikori-urban-10-babaio",
+              "name": "10 - Babaio",
+              "registeredVoters": 109
+            },
+            {
+              "id": "kikori-kikori-urban-11-babaguna",
+              "name": "11 - Babaguna",
+              "registeredVoters": 212
+            },
+            {
+              "id": "kikori-kikori-urban-12-kikori-station",
+              "name": "12 - Kikori Station",
+              "registeredVoters": 645
+            }
+          ]
+        },
+        {
+          "id": "kikori-west-ihu",
+          "name": "West Ihu LLG",
+          "electorateSlug": "kikori",
+          "wards": [
+            {
+              "id": "kikori-west-ihu-1-hepere",
+              "name": "1 - Hepere",
+              "registeredVoters": 137
+            },
+            {
+              "id": "kikori-west-ihu-2-avavu",
+              "name": "2 - Avavu",
+              "registeredVoters": 370
+            },
+            {
+              "id": "kikori-west-ihu-3-kilavi",
+              "name": "3 - Kilavi",
+              "registeredVoters": 158
+            },
+            {
+              "id": "kikori-west-ihu-4-arehava",
+              "name": "4 - Arehava",
+              "registeredVoters": 210
+            },
+            {
+              "id": "kikori-west-ihu-5-harevavo",
+              "name": "5 - Harevavo",
+              "registeredVoters": 433
+            },
+            {
+              "id": "kikori-west-ihu-6-marea",
+              "name": "6 - Marea",
+              "registeredVoters": 123
+            },
+            {
+              "id": "kikori-west-ihu-7-kaivukovu",
+              "name": "7 - Kaivukovu",
+              "registeredVoters": 342
+            },
+            {
+              "id": "kikori-west-ihu-8-larihairu",
+              "name": "8 - Larihairu",
+              "registeredVoters": 285
+            },
+            {
+              "id": "kikori-west-ihu-9-iuku",
+              "name": "9 - Iuku",
+              "registeredVoters": 223
+            },
+            {
+              "id": "kikori-west-ihu-10-mareke",
+              "name": "10 - Mareke",
+              "registeredVoters": 390
+            },
+            {
+              "id": "kikori-west-ihu-11-kavava",
+              "name": "11 - Kavava",
+              "registeredVoters": 304
+            },
+            {
+              "id": "kikori-west-ihu-12-marimurua",
+              "name": "12 - Marimurua",
+              "registeredVoters": 177
+            },
+            {
+              "id": "kikori-west-ihu-13-lariau",
+              "name": "13 - Lariau",
+              "registeredVoters": 280
+            },
+            {
+              "id": "kikori-west-ihu-14-herekela",
+              "name": "14 - Herekela",
+              "registeredVoters": 151
+            },
+            {
+              "id": "kikori-west-ihu-15-pakovavu",
+              "name": "15 - Pakovavu",
+              "registeredVoters": 284
+            },
+            {
+              "id": "kikori-west-ihu-16-miae",
+              "name": "16 - Miae",
+              "registeredVoters": 176
+            },
+            {
+              "id": "kikori-west-ihu-17-ihu-station",
+              "name": "17 - Ihu Station",
+              "registeredVoters": 321
+            },
+            {
+              "id": "kikori-west-ihu-18-maevere",
+              "name": "18 - Maevere",
+              "registeredVoters": 92
+            },
+            {
+              "id": "kikori-west-ihu-19-auma",
+              "name": "19 - Auma",
+              "registeredVoters": 355
+            },
+            {
+              "id": "kikori-west-ihu-20-hiloi",
+              "name": "20 - Hiloi",
+              "registeredVoters": 222
+            }
+          ]
+        },
+        {
+          "id": "kikori-west-kikori",
+          "name": "West Kikori LLG",
+          "electorateSlug": "kikori",
+          "wards": [
+            {
+              "id": "kikori-west-kikori-1-haivaro",
+              "name": "1 - Haivaro",
+              "registeredVoters": 286
+            },
+            {
+              "id": "kikori-west-kikori-2-surnakarimo",
+              "name": "2 - Surnakarimo",
+              "registeredVoters": 225
+            },
+            {
+              "id": "kikori-west-kikori-3-moka-no-1-2",
+              "name": "3 - Moka No.1&2",
+              "registeredVoters": 269
+            },
+            {
+              "id": "kikori-west-kikori-4-faia",
+              "name": "4 - Faia",
+              "registeredVoters": 123
+            },
+            {
+              "id": "kikori-west-kikori-5-komaio",
+              "name": "5 - Komaio",
+              "registeredVoters": 540
+            },
+            {
+              "id": "kikori-west-kikori-6-morigi",
+              "name": "6 - Morigi",
+              "registeredVoters": 23
+            },
+            {
+              "id": "kikori-west-kikori-7-meagio",
+              "name": "7 - Meagio",
+              "registeredVoters": 156
+            },
+            {
+              "id": "kikori-west-kikori-8-ekeirau",
+              "name": "8 - Ekeirau",
+              "registeredVoters": 159
+            },
+            {
+              "id": "kikori-west-kikori-9-gibu",
+              "name": "9 - Gibu",
+              "registeredVoters": 84
+            },
+            {
+              "id": "kikori-west-kikori-10-mapoia",
+              "name": "10 - Mapoia",
+              "registeredVoters": 86
+            },
+            {
+              "id": "kikori-west-kikori-11-kibeni",
+              "name": "11 - Kibeni",
+              "registeredVoters": 260
+            },
+            {
+              "id": "kikori-west-kikori-12-gibidai",
+              "name": "12 - Gibidai",
+              "registeredVoters": 142
+            },
+            {
+              "id": "kikori-west-kikori-13-omati-gihiteri",
+              "name": "13 - Omati-Gihiteri",
+              "registeredVoters": 405
+            },
+            {
+              "id": "kikori-west-kikori-14-omati-iba",
+              "name": "14 - Omati-Iba",
+              "registeredVoters": 59
+            },
+            {
+              "id": "kikori-west-kikori-15-baina",
+              "name": "15 - Baina",
+              "registeredVoters": 1071
+            },
+            {
+              "id": "kikori-west-kikori-16-kaiam-1-2",
+              "name": "16 - Kaiam 1&2",
+              "registeredVoters": 353
+            },
+            {
+              "id": "kikori-west-kikori-17-apeawa",
+              "name": "17 - Apeawa",
+              "registeredVoters": 188
+            },
+            {
+              "id": "kikori-west-kikori-18-bisi",
+              "name": "18 - Bisi",
+              "registeredVoters": 126
+            },
+            {
+              "id": "kikori-west-kikori-19-dobima",
+              "name": "19 - Dobima",
+              "registeredVoters": 129
+            },
+            {
+              "id": "kikori-west-kikori-20-kemei",
+              "name": "20 - Kemei",
+              "registeredVoters": 143
             }
           ]
         }

@@ -5,24 +5,236 @@
       "electorateSlug": "vanimo-green",
       "llgs": [
         {
-          "id": "vanimo-green-vanimo-urban",
-          "name": "Vanimo Urban LLG",
+          "id": "vanimo-green-amanab",
+          "name": "Amanab LLG",
           "electorateSlug": "vanimo-green",
           "wards": [
             {
-              "id": "vanimo-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 5563
+              "id": "vanimo-green-amanab-1-bibriari",
+              "name": "1 - BIBRIARI",
+              "registeredVoters": 377
             },
             {
-              "id": "vanimo-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 7455
+              "id": "vanimo-green-amanab-2-porumun",
+              "name": "2 - PORUMUN",
+              "registeredVoters": 280
             },
             {
-              "id": "vanimo-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3624
+              "id": "vanimo-green-amanab-3-itomi",
+              "name": "3 - ITOMI",
+              "registeredVoters": 272
+            },
+            {
+              "id": "vanimo-green-amanab-4-mamamura",
+              "name": "4 - MAMAMURA",
+              "registeredVoters": 365
+            },
+            {
+              "id": "vanimo-green-amanab-5-wahai",
+              "name": "5 - WAHAI",
+              "registeredVoters": 229
+            },
+            {
+              "id": "vanimo-green-amanab-6-kamberatoro",
+              "name": "6 - KAMBERATORO",
+              "registeredVoters": 288
+            },
+            {
+              "id": "vanimo-green-amanab-7-kofiniau",
+              "name": "7 - KOFINIAU",
+              "registeredVoters": 305
+            },
+            {
+              "id": "vanimo-green-amanab-8-iafar",
+              "name": "8 - IAFAR",
+              "registeredVoters": 360
+            },
+            {
+              "id": "vanimo-green-amanab-9-naineri",
+              "name": "9 - NAINERI",
+              "registeredVoters": 413
+            },
+            {
+              "id": "vanimo-green-amanab-10-wamuru",
+              "name": "10 - WAMURU",
+              "registeredVoters": 403
+            },
+            {
+              "id": "vanimo-green-amanab-11-aheri",
+              "name": "11 - AHERI",
+              "registeredVoters": 326
+            },
+            {
+              "id": "vanimo-green-amanab-12-amanab-station",
+              "name": "12 - AMANAB STATION",
+              "registeredVoters": 65
+            },
+            {
+              "id": "vanimo-green-amanab-13-iveig",
+              "name": "13 - IVEIG",
+              "registeredVoters": 358
+            },
+            {
+              "id": "vanimo-green-amanab-14-akraminag",
+              "name": "14 - AKRAMINAG",
+              "registeredVoters": 493
+            },
+            {
+              "id": "vanimo-green-amanab-15-masineri-nai-no-2",
+              "name": "15 - MASINERI-NAI NO. 2",
+              "registeredVoters": 402
+            },
+            {
+              "id": "vanimo-green-amanab-16-utai",
+              "name": "16 - UTAI",
+              "registeredVoters": 282
+            },
+            {
+              "id": "vanimo-green-amanab-17-guriaso",
+              "name": "17 - GURIASO",
+              "registeredVoters": 408
+            },
+            {
+              "id": "vanimo-green-amanab-18-komtari",
+              "name": "18 - KOMTARI",
+              "registeredVoters": 340
+            }
+          ]
+        },
+        {
+          "id": "vanimo-green-bewani-wutung-onei",
+          "name": "Bewani-Wutung Onei LLG",
+          "electorateSlug": "vanimo-green",
+          "wards": [
+            {
+              "id": "vanimo-green-bewani-wutung-onei-1-wutung",
+              "name": "1 - WUTUNG",
+              "registeredVoters": 574
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-2-musu",
+              "name": "2 - MUSU",
+              "registeredVoters": 277
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-3-yaukono",
+              "name": "3 - YAUKONO",
+              "registeredVoters": 253
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-4-yoko",
+              "name": "4 - YOKO",
+              "registeredVoters": 423
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-5-warimo",
+              "name": "5 - WARIMO",
+              "registeredVoters": 852
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-6-vanimo-lido",
+              "name": "6 - VANIMO (LIDO)",
+              "registeredVoters": 1254
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-7-ningra",
+              "name": "7 - NINGRA",
+              "registeredVoters": 503
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-8-rawo",
+              "name": "8 - RAWO",
+              "registeredVoters": 190
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-9-poko",
+              "name": "9 - POKO",
+              "registeredVoters": 211
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-10-nowake",
+              "name": "10 - NOWAKE",
+              "registeredVoters": 301
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-11-leitre",
+              "name": "11 - LEITRE",
+              "registeredVoters": 570
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-12-puari",
+              "name": "12 - PUARI",
+              "registeredVoters": 177
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-13-onei",
+              "name": "13 - ONEI",
+              "registeredVoters": 147
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-14-osol",
+              "name": "14 - OSOL",
+              "registeredVoters": 487
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-15-krisa",
+              "name": "15 - KRISA",
+              "registeredVoters": 388
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-16-ossima",
+              "name": "16 - OSSIMA",
+              "registeredVoters": 1092
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-17-kilipau",
+              "name": "17 - KILIPAU",
+              "registeredVoters": 538
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-18-ilup",
+              "name": "18 - ILUP",
+              "registeredVoters": 632
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-19-amoi",
+              "name": "19 - AMOI",
+              "registeredVoters": 220
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-20-somboi",
+              "name": "20 - SOMBOI",
+              "registeredVoters": 347
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-21-ituly",
+              "name": "21 - ITULY",
+              "registeredVoters": 332
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-22-skotiaho",
+              "name": "22 - SKOTIAHO",
+              "registeredVoters": 181
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-23-ainbai",
+              "name": "23 - AINBAI",
+              "registeredVoters": 169
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-24-sumumini",
+              "name": "24 - SUMUMINI",
+              "registeredVoters": 511
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-25-imbio-2",
+              "name": "25 - IMBIO 2",
+              "registeredVoters": 507
+            },
+            {
+              "id": "vanimo-green-bewani-wutung-onei-26-imbrinis",
+              "name": "26 - IMBRINIS",
+              "registeredVoters": 373
             }
           ]
         },
@@ -32,101 +244,370 @@
           "electorateSlug": "vanimo-green",
           "wards": [
             {
-              "id": "green-river-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1500
+              "id": "vanimo-green-green-river-1-yibru",
+              "name": "1 - YIBRU",
+              "registeredVoters": 322
             },
             {
-              "id": "green-river-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2353
+              "id": "vanimo-green-green-river-2-miniabru",
+              "name": "2 - MINIABRU",
+              "registeredVoters": 130
             },
             {
-              "id": "green-river-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2320
+              "id": "vanimo-green-green-river-3-auiya",
+              "name": "3 - AUIYA",
+              "registeredVoters": 141
             },
             {
-              "id": "green-river-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1730
+              "id": "vanimo-green-green-river-4-kambriap",
+              "name": "4 - KAMBRIAP",
+              "registeredVoters": 135
             },
             {
-              "id": "green-river-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1262
+              "id": "vanimo-green-green-river-5-fonginum",
+              "name": "5 - FONGINUM",
+              "registeredVoters": 122
             },
             {
-              "id": "green-river-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1324
+              "id": "vanimo-green-green-river-6-iuri",
+              "name": "6 - IURI",
+              "registeredVoters": 126
             },
             {
-              "id": "green-river-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2334
+              "id": "vanimo-green-green-river-7-tingirapu",
+              "name": "7 - TINGIRAPU",
+              "registeredVoters": 107
             },
             {
-              "id": "green-river-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1866
+              "id": "vanimo-green-green-river-8-amini",
+              "name": "8 - AMINI",
+              "registeredVoters": 193
             },
             {
-              "id": "green-river-w09",
-              "name": "Ward 9",
-              "registeredVoters": 2063
+              "id": "vanimo-green-green-river-9-samunai",
+              "name": "9 - SAMUNAI",
+              "registeredVoters": 161
             },
             {
-              "id": "green-river-w10",
-              "name": "Ward 10",
-              "registeredVoters": 1610
+              "id": "vanimo-green-green-river-10-merewei",
+              "name": "10 - MEREWEI",
+              "registeredVoters": 132
+            },
+            {
+              "id": "vanimo-green-green-river-11-biaka",
+              "name": "11 - BIAKA",
+              "registeredVoters": 287
+            },
+            {
+              "id": "vanimo-green-green-river-12-marakwini",
+              "name": "12 - MARAKWINI",
+              "registeredVoters": 146
+            },
+            {
+              "id": "vanimo-green-green-river-13-dila",
+              "name": "13 - DILA",
+              "registeredVoters": 270
+            },
+            {
+              "id": "vanimo-green-green-river-14-nagatiman",
+              "name": "14 - NAGATIMAN",
+              "registeredVoters": 94
+            },
+            {
+              "id": "vanimo-green-green-river-15-rawei",
+              "name": "15 - RAWEI",
+              "registeredVoters": 127
+            },
+            {
+              "id": "vanimo-green-green-river-16-hogru",
+              "name": "16 - HOGRU",
+              "registeredVoters": 266
+            },
+            {
+              "id": "vanimo-green-green-river-17-dieru",
+              "name": "17 - DIERU",
+              "registeredVoters": 328
+            },
+            {
+              "id": "vanimo-green-green-river-18-abaru",
+              "name": "18 - ABARU",
+              "registeredVoters": 186
+            },
+            {
+              "id": "vanimo-green-green-river-19-simia",
+              "name": "19 - SIMIA",
+              "registeredVoters": 179
+            },
+            {
+              "id": "vanimo-green-green-river-20-trowari",
+              "name": "20 - TROWARI",
+              "registeredVoters": 121
+            },
+            {
+              "id": "vanimo-green-green-river-21-panangen",
+              "name": "21 - PANANGEN",
+              "registeredVoters": 80
+            },
+            {
+              "id": "vanimo-green-green-river-22-korobasi",
+              "name": "22 - KOROBASI",
+              "registeredVoters": 131
+            },
+            {
+              "id": "vanimo-green-green-river-23-wabuku",
+              "name": "23 - WABUKU",
+              "registeredVoters": 71
+            },
+            {
+              "id": "vanimo-green-green-river-24-weiku",
+              "name": "24 - WEIKU",
+              "registeredVoters": 118
             }
           ]
         },
         {
-          "id": "vanimo-green-kilimeri",
-          "name": "Kilimeri LLG",
+          "id": "vanimo-green-vanimo-urban",
+          "name": "Vanimo Urban LLG",
           "electorateSlug": "vanimo-green",
           "wards": [
             {
-              "id": "kilimeri-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2410
+              "id": "vanimo-green-vanimo-urban-1-tower",
+              "name": "1 - TOWER",
+              "registeredVoters": 354
             },
             {
-              "id": "kilimeri-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1810
+              "id": "vanimo-green-vanimo-urban-2-dalimakepa",
+              "name": "2 - DALIMAKEPA",
+              "registeredVoters": 443
             },
             {
-              "id": "kilimeri-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2059
+              "id": "vanimo-green-vanimo-urban-3-wesdeco",
+              "name": "3 - WESDECO",
+              "registeredVoters": 851
             },
             {
-              "id": "kilimeri-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1823
+              "id": "vanimo-green-vanimo-urban-4-dasi-daunda",
+              "name": "4 - DASI/DAUNDA",
+              "registeredVoters": 831
             },
             {
-              "id": "kilimeri-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2281
+              "id": "vanimo-green-vanimo-urban-5-kongkong-damili",
+              "name": "5 - KONGKONG/DAMILI",
+              "registeredVoters": 978
             },
             {
-              "id": "kilimeri-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2100
+              "id": "vanimo-green-vanimo-urban-6-transmeter-sawmill",
+              "name": "6 - TRANSMETER/SAWMILL",
+              "registeredVoters": 1485
             },
             {
-              "id": "kilimeri-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2187
+              "id": "vanimo-green-vanimo-urban-7-peiwi-coastal",
+              "name": "7 - PEIWI COASTAL",
+              "registeredVoters": 844
             },
             {
-              "id": "kilimeri-w08",
-              "name": "Ward 8",
-              "registeredVoters": 2798
+              "id": "vanimo-green-vanimo-urban-8-waraston",
+              "name": "8 - WARASTON",
+              "registeredVoters": 1066
+            },
+            {
+              "id": "vanimo-green-vanimo-urban-9-west-wusipi",
+              "name": "9 - WEST WUSIPI",
+              "registeredVoters": 336
+            },
+            {
+              "id": "vanimo-green-vanimo-urban-10-east-wusipi",
+              "name": "10 - EAST WUSIPI",
+              "registeredVoters": 694
+            }
+          ]
+        },
+        {
+          "id": "vanimo-green-walsa",
+          "name": "Walsa LLG",
+          "electorateSlug": "vanimo-green",
+          "wards": [
+            {
+              "id": "vanimo-green-walsa-1-doandai",
+              "name": "1 - DOANDAI",
+              "registeredVoters": 455
+            },
+            {
+              "id": "vanimo-green-walsa-2-smock",
+              "name": "2 - SMOCK",
+              "registeredVoters": 311
+            },
+            {
+              "id": "vanimo-green-walsa-3-namola",
+              "name": "3 - NAMOLA",
+              "registeredVoters": 294
+            },
+            {
+              "id": "vanimo-green-walsa-4-dauchendi",
+              "name": "4 - DAUCHENDI",
+              "registeredVoters": 408
+            },
+            {
+              "id": "vanimo-green-walsa-5-epmi",
+              "name": "5 - EPMI",
+              "registeredVoters": 364
+            },
+            {
+              "id": "vanimo-green-walsa-6-doponendi",
+              "name": "6 - DOPONENDI",
+              "registeredVoters": 201
+            },
+            {
+              "id": "vanimo-green-walsa-7-wainda",
+              "name": "7 - WAINDA",
+              "registeredVoters": 195
+            },
+            {
+              "id": "vanimo-green-walsa-8-holosa",
+              "name": "8 - HOLOSA",
+              "registeredVoters": 300
+            },
+            {
+              "id": "vanimo-green-walsa-9-daundi",
+              "name": "9 - DAUNDI",
+              "registeredVoters": 354
+            },
+            {
+              "id": "vanimo-green-walsa-10-tamina-1",
+              "name": "10 - TAMINA 1",
+              "registeredVoters": 149
+            },
+            {
+              "id": "vanimo-green-walsa-11-fas-1",
+              "name": "11 - FAS 1",
+              "registeredVoters": 440
+            },
+            {
+              "id": "vanimo-green-walsa-12-waina",
+              "name": "12 - WAINA",
+              "registeredVoters": 381
+            },
+            {
+              "id": "vanimo-green-walsa-13-punda",
+              "name": "13 - PUNDA",
+              "registeredVoters": 390
+            }
+          ]
+        },
+        {
+          "id": "vanimo-green-yabalhai",
+          "name": "Yabalhai LLG",
+          "electorateSlug": "vanimo-green",
+          "wards": [
+            {
+              "id": "vanimo-green-yabalhai-1-wagu",
+              "name": "1 - WAGU",
+              "registeredVoters": 260
+            },
+            {
+              "id": "vanimo-green-yabalhai-2-beimap",
+              "name": "2 - BEIMAP",
+              "registeredVoters": 151
+            },
+            {
+              "id": "vanimo-green-yabalhai-3-seiawi",
+              "name": "3 - SEIAWI",
+              "registeredVoters": 184
+            },
+            {
+              "id": "vanimo-green-yabalhai-4-amto-1",
+              "name": "4 - AMTO 1",
+              "registeredVoters": 231
+            },
+            {
+              "id": "vanimo-green-yabalhai-5-bisiabru",
+              "name": "5 - BISIABRU",
+              "registeredVoters": 175
+            },
+            {
+              "id": "vanimo-green-yabalhai-6-idam-1",
+              "name": "6 - IDAM 1",
+              "registeredVoters": 587
+            },
+            {
+              "id": "vanimo-green-yabalhai-7-idam-2",
+              "name": "7 - IDAM 2",
+              "registeredVoters": 354
+            },
+            {
+              "id": "vanimo-green-yabalhai-8-hufi",
+              "name": "8 - HUFI",
+              "registeredVoters": 155
+            },
+            {
+              "id": "vanimo-green-yabalhai-9-biake-1",
+              "name": "9 - BIAKE 1",
+              "registeredVoters": 110
+            },
+            {
+              "id": "vanimo-green-yabalhai-10-kaiseiru",
+              "name": "10 - KAISEIRU",
+              "registeredVoters": 228
+            },
+            {
+              "id": "vanimo-green-yabalhai-11-sokmaiyon",
+              "name": "11 - SOKMAIYON",
+              "registeredVoters": 225
+            },
+            {
+              "id": "vanimo-green-yabalhai-12-kobraru",
+              "name": "12 - KOBRARU",
+              "registeredVoters": 159
+            },
+            {
+              "id": "vanimo-green-yabalhai-13-yabru-1",
+              "name": "13 - YABRU 1",
+              "registeredVoters": 283
+            },
+            {
+              "id": "vanimo-green-yabalhai-14-buna",
+              "name": "14 - BUNA",
+              "registeredVoters": 166
+            },
+            {
+              "id": "vanimo-green-yabalhai-15-mahanei",
+              "name": "15 - MAHANEI",
+              "registeredVoters": 233
+            },
+            {
+              "id": "vanimo-green-yabalhai-16-mukuasi",
+              "name": "16 - MUKUASI",
+              "registeredVoters": 323
+            },
+            {
+              "id": "vanimo-green-yabalhai-17-bifro",
+              "name": "17 - BIFRO",
+              "registeredVoters": 254
+            },
+            {
+              "id": "vanimo-green-yabalhai-18-baio",
+              "name": "18 - BAIO",
+              "registeredVoters": 205
+            },
+            {
+              "id": "vanimo-green-yabalhai-19-biake-2",
+              "name": "19 - BIAKE 2",
+              "registeredVoters": 88
+            },
+            {
+              "id": "vanimo-green-yabalhai-20-yabru-2",
+              "name": "20 - YABRU 2",
+              "registeredVoters": 218
+            },
+            {
+              "id": "vanimo-green-yabalhai-21-baiwai",
+              "name": "21 - BAIWAI",
+              "registeredVoters": 125
+            },
+            {
+              "id": "vanimo-green-yabalhai-22-sinou",
+              "name": "22 - SINOU",
+              "registeredVoters": 183
             }
           ]
         }
@@ -136,113 +617,450 @@
       "electorateSlug": "nuku",
       "llgs": [
         {
+          "id": "nuku-maimai-wanwan",
+          "name": "Maimai Wanwan LLG",
+          "electorateSlug": "nuku",
+          "wards": [
+            {
+              "id": "nuku-maimai-wanwan-1-yimin",
+              "name": "1 - YIMIN",
+              "registeredVoters": 345
+            },
+            {
+              "id": "nuku-maimai-wanwan-2-nau-alu",
+              "name": "2 - NAU'ALU",
+              "registeredVoters": 401
+            },
+            {
+              "id": "nuku-maimai-wanwan-3-ulap",
+              "name": "3 - ULAP",
+              "registeredVoters": 618
+            },
+            {
+              "id": "nuku-maimai-wanwan-4-yimut",
+              "name": "4 - YIMUT",
+              "registeredVoters": 340
+            },
+            {
+              "id": "nuku-maimai-wanwan-5-vei",
+              "name": "5 - VEI",
+              "registeredVoters": 326
+            },
+            {
+              "id": "nuku-maimai-wanwan-6-yimauwi",
+              "name": "6 - YIMAUWI",
+              "registeredVoters": 349
+            },
+            {
+              "id": "nuku-maimai-wanwan-7-yauwo",
+              "name": "7 - YAUWO",
+              "registeredVoters": 501
+            },
+            {
+              "id": "nuku-maimai-wanwan-8-maimai",
+              "name": "8 - MAIMAI",
+              "registeredVoters": 275
+            },
+            {
+              "id": "nuku-maimai-wanwan-9-aimukuli",
+              "name": "9 - AIMUKULI",
+              "registeredVoters": 331
+            },
+            {
+              "id": "nuku-maimai-wanwan-10-makafim",
+              "name": "10 - MAKAFIM",
+              "registeredVoters": 693
+            },
+            {
+              "id": "nuku-maimai-wanwan-11-yulen",
+              "name": "11 - YULEN",
+              "registeredVoters": 196
+            },
+            {
+              "id": "nuku-maimai-wanwan-12-yemeraba",
+              "name": "12 - YEMERABA",
+              "registeredVoters": 242
+            },
+            {
+              "id": "nuku-maimai-wanwan-13-wemil",
+              "name": "13 - WEMIL",
+              "registeredVoters": 263
+            },
+            {
+              "id": "nuku-maimai-wanwan-14-leiko",
+              "name": "14 - LEIKO",
+              "registeredVoters": 528
+            },
+            {
+              "id": "nuku-maimai-wanwan-15-waniwomoko",
+              "name": "15 - WANIWOMOKO",
+              "registeredVoters": 283
+            }
+          ]
+        },
+        {
           "id": "nuku-nuku",
           "name": "Nuku LLG",
           "electorateSlug": "nuku",
           "wards": [
             {
-              "id": "nuku-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3773
+              "id": "nuku-nuku-1-yilwombuk",
+              "name": "1 - YILWOMBUK",
+              "registeredVoters": 645
             },
             {
-              "id": "nuku-w02",
-              "name": "Ward 2",
-              "registeredVoters": 6389
+              "id": "nuku-nuku-2-seleput",
+              "name": "2 - SELEPUT",
+              "registeredVoters": 437
             },
             {
-              "id": "nuku-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3039
+              "id": "nuku-nuku-3-nuku",
+              "name": "3 - NUKU",
+              "registeredVoters": 917
+            },
+            {
+              "id": "nuku-nuku-4-mantsuku",
+              "name": "4 - MANTSUKU",
+              "registeredVoters": 504
+            },
+            {
+              "id": "nuku-nuku-5-yiminum",
+              "name": "5 - YIMINUM",
+              "registeredVoters": 478
+            },
+            {
+              "id": "nuku-nuku-6-ifindu",
+              "name": "6 - IFINDU",
+              "registeredVoters": 693
+            },
+            {
+              "id": "nuku-nuku-7-wilwil",
+              "name": "7 - WILWIL",
+              "registeredVoters": 691
+            },
+            {
+              "id": "nuku-nuku-8-kaflei-1",
+              "name": "8 - KAFLEI 1",
+              "registeredVoters": 563
+            },
+            {
+              "id": "nuku-nuku-9-kaflei-2",
+              "name": "9 - KAFLEI 2",
+              "registeredVoters": 382
+            },
+            {
+              "id": "nuku-nuku-10-kaflei-3",
+              "name": "10 - KAFLEI 3",
+              "registeredVoters": 564
+            },
+            {
+              "id": "nuku-nuku-11-arkosame-1",
+              "name": "11 - ARKOSAME 1",
+              "registeredVoters": 428
+            },
+            {
+              "id": "nuku-nuku-12-arkosame-2",
+              "name": "12 - ARKOSAME 2",
+              "registeredVoters": 304
+            },
+            {
+              "id": "nuku-nuku-13-arkosame-3",
+              "name": "13 - ARKOSAME 3",
+              "registeredVoters": 749
+            },
+            {
+              "id": "nuku-nuku-14-hambanori",
+              "name": "14 - HAMBANORI",
+              "registeredVoters": 849
+            },
+            {
+              "id": "nuku-nuku-15-usitamu",
+              "name": "15 - USITAMU",
+              "registeredVoters": 518
+            },
+            {
+              "id": "nuku-nuku-16-abigu",
+              "name": "16 - ABIGU",
+              "registeredVoters": 683
+            },
+            {
+              "id": "nuku-nuku-17-yirwondi",
+              "name": "17 - YIRWONDI",
+              "registeredVoters": 876
+            },
+            {
+              "id": "nuku-nuku-18-awes",
+              "name": "18 - AWES",
+              "registeredVoters": 916
+            },
+            {
+              "id": "nuku-nuku-19-sepitala",
+              "name": "19 - SEPITALA",
+              "registeredVoters": 420
+            },
+            {
+              "id": "nuku-nuku-20-hambasama",
+              "name": "20 - HAMBASAMA",
+              "registeredVoters": 634
+            },
+            {
+              "id": "nuku-nuku-21-suau",
+              "name": "21 - SUAU",
+              "registeredVoters": 242
+            },
+            {
+              "id": "nuku-nuku-22-wulbowe",
+              "name": "22 - WULBOWE",
+              "registeredVoters": 646
+            },
+            {
+              "id": "nuku-nuku-23-tuginaro",
+              "name": "23 - TUGINARO",
+              "registeredVoters": 467
+            },
+            {
+              "id": "nuku-nuku-24-engiep",
+              "name": "24 - ENGIEP",
+              "registeredVoters": 680
+            },
+            {
+              "id": "nuku-nuku-25-wombiu",
+              "name": "25 - WOMBIU",
+              "registeredVoters": 842
             }
           ]
         },
         {
-          "id": "nuku-maimai",
-          "name": "Maimai LLG",
+          "id": "nuku-palai",
+          "name": "Palai LLG",
           "electorateSlug": "nuku",
           "wards": [
             {
-              "id": "maimai-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2259
+              "id": "nuku-palai-1-yambil",
+              "name": "1 - YAMBIL",
+              "registeredVoters": 613
             },
             {
-              "id": "maimai-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1088
+              "id": "nuku-palai-2-monandin",
+              "name": "2 - MONANDIN",
+              "registeredVoters": 362
             },
             {
-              "id": "maimai-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2092
+              "id": "nuku-palai-3-sengi",
+              "name": "3 - SENGI",
+              "registeredVoters": 204
             },
             {
-              "id": "maimai-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1257
+              "id": "nuku-palai-4-yapunda",
+              "name": "4 - YAPUNDA",
+              "registeredVoters": 295
             },
             {
-              "id": "maimai-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1277
+              "id": "nuku-palai-5-sibilanga",
+              "name": "5 - SIBILANGA",
+              "registeredVoters": 564
             },
             {
-              "id": "maimai-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1264
+              "id": "nuku-palai-6-yanungen",
+              "name": "6 - YANUNGEN",
+              "registeredVoters": 674
             },
             {
-              "id": "maimai-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2991
+              "id": "nuku-palai-7-kolembi",
+              "name": "7 - KOLEMBI",
+              "registeredVoters": 408
             },
             {
-              "id": "maimai-w08",
-              "name": "Ward 8",
-              "registeredVoters": 2032
+              "id": "nuku-palai-8-sundun",
+              "name": "8 - SUNDUN",
+              "registeredVoters": 443
+            },
+            {
+              "id": "nuku-palai-9-wasareng",
+              "name": "9 - WASARENG",
+              "registeredVoters": 383
+            },
+            {
+              "id": "nuku-palai-10-womerau",
+              "name": "10 - WOMERAU",
+              "registeredVoters": 797
+            },
+            {
+              "id": "nuku-palai-11-mai",
+              "name": "11 - MAI",
+              "registeredVoters": 424
+            },
+            {
+              "id": "nuku-palai-12-sulimortei",
+              "name": "12 - SULIMORTEI",
+              "registeredVoters": 601
+            },
+            {
+              "id": "nuku-palai-13-ori",
+              "name": "13 - ORI",
+              "registeredVoters": 342
+            },
+            {
+              "id": "nuku-palai-14-munumbal",
+              "name": "14 - MUNUMBAL",
+              "registeredVoters": 178
+            },
+            {
+              "id": "nuku-palai-15-yeresi",
+              "name": "15 - YERESI",
+              "registeredVoters": 397
+            },
+            {
+              "id": "nuku-palai-16-sabig",
+              "name": "16 - SABIG",
+              "registeredVoters": 490
+            },
+            {
+              "id": "nuku-palai-17-woluk",
+              "name": "17 - WOLUK",
+              "registeredVoters": 473
+            },
+            {
+              "id": "nuku-palai-18-wuro",
+              "name": "18 - WURO",
+              "registeredVoters": 494
             }
           ]
         },
         {
-          "id": "nuku-torricelli",
-          "name": "Torricelli LLG",
+          "id": "nuku-yangkok",
+          "name": "Yangkok LLG",
           "electorateSlug": "nuku",
           "wards": [
             {
-              "id": "torricelli-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2037
+              "id": "nuku-yangkok-1-ausin",
+              "name": "1 - AUSIN",
+              "registeredVoters": 560
             },
             {
-              "id": "torricelli-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2660
+              "id": "nuku-yangkok-2-mupun",
+              "name": "2 - MUPUN",
+              "registeredVoters": 375
             },
             {
-              "id": "torricelli-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2167
+              "id": "nuku-yangkok-3-weikint",
+              "name": "3 - WEIKINT",
+              "registeredVoters": 315
             },
             {
-              "id": "torricelli-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2424
+              "id": "nuku-yangkok-4-yuwil",
+              "name": "4 - YUWIL",
+              "registeredVoters": 521
             },
             {
-              "id": "torricelli-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1777
+              "id": "nuku-yangkok-5-laingim-1",
+              "name": "5 - LAINGIM 1",
+              "registeredVoters": 258
             },
             {
-              "id": "torricelli-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1318
+              "id": "nuku-yangkok-6-wulukum",
+              "name": "6 - WULUKUM",
+              "registeredVoters": 489
             },
             {
-              "id": "torricelli-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1985
+              "id": "nuku-yangkok-7-piyom",
+              "name": "7 - PIYOM",
+              "registeredVoters": 363
+            },
+            {
+              "id": "nuku-yangkok-8-bimon",
+              "name": "8 - BIMON",
+              "registeredVoters": 237
+            },
+            {
+              "id": "nuku-yangkok-9-yili",
+              "name": "9 - YILI",
+              "registeredVoters": 690
+            },
+            {
+              "id": "nuku-yangkok-10-pinkil",
+              "name": "10 - PINKIL",
+              "registeredVoters": 356
+            },
+            {
+              "id": "nuku-yangkok-11-bairap",
+              "name": "11 - BAIRAP",
+              "registeredVoters": 299
+            },
+            {
+              "id": "nuku-yangkok-12-warin",
+              "name": "12 - WARIN",
+              "registeredVoters": 485
+            },
+            {
+              "id": "nuku-yangkok-13-puang-1",
+              "name": "13 - PUANG 1",
+              "registeredVoters": 390
+            },
+            {
+              "id": "nuku-yangkok-14-puang-2",
+              "name": "14 - PUANG 2",
+              "registeredVoters": 488
+            },
+            {
+              "id": "nuku-yangkok-15-weis",
+              "name": "15 - WEIS",
+              "registeredVoters": 808
+            },
+            {
+              "id": "nuku-yangkok-16-yemnu",
+              "name": "16 - YEMNU",
+              "registeredVoters": 929
+            },
+            {
+              "id": "nuku-yangkok-17-anguganak",
+              "name": "17 - ANGUGANAK",
+              "registeredVoters": 633
+            },
+            {
+              "id": "nuku-yangkok-18-rawot",
+              "name": "18 - RAWOT",
+              "registeredVoters": 479
+            },
+            {
+              "id": "nuku-yangkok-19-maibel",
+              "name": "19 - MAIBEL",
+              "registeredVoters": 502
+            },
+            {
+              "id": "nuku-yangkok-20-bogasip",
+              "name": "20 - BOGASIP",
+              "registeredVoters": 333
+            },
+            {
+              "id": "nuku-yangkok-21-yangkok",
+              "name": "21 - YANGKOK",
+              "registeredVoters": 480
+            },
+            {
+              "id": "nuku-yangkok-22-ningil-1",
+              "name": "22 - NINGIL 1",
+              "registeredVoters": 476
+            },
+            {
+              "id": "nuku-yangkok-23-ningil-2",
+              "name": "23 - NINGIL 2",
+              "registeredVoters": 386
+            },
+            {
+              "id": "nuku-yangkok-24-mushu",
+              "name": "24 - MUSHU",
+              "registeredVoters": 435
+            },
+            {
+              "id": "nuku-yangkok-25-laingim-2",
+              "name": "25 - LAINGIM 2",
+              "registeredVoters": 290
+            },
+            {
+              "id": "nuku-yangkok-26-brugap",
+              "name": "26 - BRUGAP",
+              "registeredVoters": 478
             }
           ]
         }
@@ -252,76 +1070,340 @@
       "electorateSlug": "aitape-lumi",
       "llgs": [
         {
-          "id": "aitape-lumi-aitape-urban",
-          "name": "Aitape Urban LLG",
+          "id": "aitape-lumi-aitape-central",
+          "name": "Aitape Central LLG",
           "electorateSlug": "aitape-lumi",
           "wards": [
             {
-              "id": "aitape-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 6271
+              "id": "aitape-lumi-aitape-central-1-poro-1",
+              "name": "1 - Poro 1",
+              "registeredVoters": 612
             },
             {
-              "id": "aitape-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 4915
+              "id": "aitape-lumi-aitape-central-2-poro-2",
+              "name": "2 - Poro 2",
+              "registeredVoters": 339
             },
             {
-              "id": "aitape-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3034
+              "id": "aitape-lumi-aitape-central-3-lupai",
+              "name": "3 - Lupai",
+              "registeredVoters": 188
+            },
+            {
+              "id": "aitape-lumi-aitape-central-4-karaite",
+              "name": "4 - Karaite",
+              "registeredVoters": 311
+            },
+            {
+              "id": "aitape-lumi-aitape-central-5-wauningi",
+              "name": "5 - Wauningi",
+              "registeredVoters": 183
+            },
+            {
+              "id": "aitape-lumi-aitape-central-6-siaute",
+              "name": "6 - Siaute",
+              "registeredVoters": 387
+            },
+            {
+              "id": "aitape-lumi-aitape-central-7-pes-statation",
+              "name": "7 - Pes Statation",
+              "registeredVoters": 221
+            },
+            {
+              "id": "aitape-lumi-aitape-central-8-marok",
+              "name": "8 - Marok",
+              "registeredVoters": 358
+            },
+            {
+              "id": "aitape-lumi-aitape-central-9-pes",
+              "name": "9 - Pes",
+              "registeredVoters": 397
+            },
+            {
+              "id": "aitape-lumi-aitape-central-10-poltultul",
+              "name": "10 - Poltultul",
+              "registeredVoters": 341
+            },
+            {
+              "id": "aitape-lumi-aitape-central-11-yakoi",
+              "name": "11 - Yakoi",
+              "registeredVoters": 459
+            },
+            {
+              "id": "aitape-lumi-aitape-central-12-tepir",
+              "name": "12 - Tepir",
+              "registeredVoters": 156
+            },
+            {
+              "id": "aitape-lumi-aitape-central-13-tales",
+              "name": "13 - Tales",
+              "registeredVoters": 344
+            },
+            {
+              "id": "aitape-lumi-aitape-central-14-lambu",
+              "name": "14 - Lambu",
+              "registeredVoters": 379
+            },
+            {
+              "id": "aitape-lumi-aitape-central-15-kopom",
+              "name": "15 - Kopom",
+              "registeredVoters": 478
+            },
+            {
+              "id": "aitape-lumi-aitape-central-16-kriel",
+              "name": "16 - Kriel",
+              "registeredVoters": 287
+            },
+            {
+              "id": "aitape-lumi-aitape-central-17-kara",
+              "name": "17 - Kara",
+              "registeredVoters": 178
+            },
+            {
+              "id": "aitape-lumi-aitape-central-18-tumeleu-island",
+              "name": "18 - Tumeleu Island",
+              "registeredVoters": 521
+            },
+            {
+              "id": "aitape-lumi-aitape-central-19-ali-island",
+              "name": "19 - Ali Island",
+              "registeredVoters": 507
+            },
+            {
+              "id": "aitape-lumi-aitape-central-20-seleo-angel-island",
+              "name": "20 - Seleo/Angel Island",
+              "registeredVoters": 276
             }
           ]
         },
         {
-          "id": "aitape-lumi-lumi",
-          "name": "Lumi LLG",
+          "id": "aitape-lumi-aitape-lumi-urban",
+          "name": "Aitape Lumi Urban LLG",
           "electorateSlug": "aitape-lumi",
           "wards": [
             {
-              "id": "lumi-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1756
+              "id": "aitape-lumi-aitape-lumi-urban-1-town-1",
+              "name": "1 - Town 1",
+              "registeredVoters": 1839
             },
             {
-              "id": "lumi-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1466
+              "id": "aitape-lumi-aitape-lumi-urban-2-town-2",
+              "name": "2 - Town 2",
+              "registeredVoters": 137
             },
             {
-              "id": "lumi-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2359
+              "id": "aitape-lumi-aitape-lumi-urban-3-town-3",
+              "name": "3 - Town 3",
+              "registeredVoters": 103
             },
             {
-              "id": "lumi-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2179
+              "id": "aitape-lumi-aitape-lumi-urban-4-st-anna",
+              "name": "4 - St. Anna",
+              "registeredVoters": 1254
             },
             {
-              "id": "lumi-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1890
+              "id": "aitape-lumi-aitape-lumi-urban-5-fatima-hill",
+              "name": "5 - Fatima Hill",
+              "registeredVoters": 493
             },
             {
-              "id": "lumi-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1591
+              "id": "aitape-lumi-aitape-lumi-urban-6-raihu-1",
+              "name": "6 - Raihu 1",
+              "registeredVoters": 573
             },
             {
-              "id": "lumi-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1581
+              "id": "aitape-lumi-aitape-lumi-urban-7-raihu-2",
+              "name": "7 - Raihu 2",
+              "registeredVoters": 396
             },
             {
-              "id": "lumi-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1031
+              "id": "aitape-lumi-aitape-lumi-urban-8-tadji",
+              "name": "8 - Tadji",
+              "registeredVoters": 158
             },
             {
-              "id": "lumi-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1512
+              "id": "aitape-lumi-aitape-lumi-urban-9-tarau-point",
+              "name": "9 - Tarau Point",
+              "registeredVoters": 214
+            }
+          ]
+        },
+        {
+          "id": "aitape-lumi-east-aitape",
+          "name": "East Aitape LLG",
+          "electorateSlug": "aitape-lumi",
+          "wards": [
+            {
+              "id": "aitape-lumi-east-aitape-1-vokau",
+              "name": "1 - Vokau",
+              "registeredVoters": 316
+            },
+            {
+              "id": "aitape-lumi-east-aitape-2-prou",
+              "name": "2 - Prou",
+              "registeredVoters": 333
+            },
+            {
+              "id": "aitape-lumi-east-aitape-3-lemieng",
+              "name": "3 - Lemieng",
+              "registeredVoters": 695
+            },
+            {
+              "id": "aitape-lumi-east-aitape-4-chinapelli",
+              "name": "4 - Chinapelli",
+              "registeredVoters": 352
+            },
+            {
+              "id": "aitape-lumi-east-aitape-5-paupi-1",
+              "name": "5 - Paupi 1",
+              "registeredVoters": 368
+            },
+            {
+              "id": "aitape-lumi-east-aitape-6-paupi-2",
+              "name": "6 - Paupi 2",
+              "registeredVoters": 752
+            },
+            {
+              "id": "aitape-lumi-east-aitape-7-yakamul-1",
+              "name": "7 - Yakamul 1",
+              "registeredVoters": 676
+            },
+            {
+              "id": "aitape-lumi-east-aitape-8-yakamul-2",
+              "name": "8 - Yakamul 2",
+              "registeredVoters": 605
+            },
+            {
+              "id": "aitape-lumi-east-aitape-9-yakamul-3",
+              "name": "9 - Yakamul 3",
+              "registeredVoters": 205
+            },
+            {
+              "id": "aitape-lumi-east-aitape-10-ulau-1",
+              "name": "10 - Ulau 1",
+              "registeredVoters": 801
+            },
+            {
+              "id": "aitape-lumi-east-aitape-11-ulau-2",
+              "name": "11 - Ulau 2",
+              "registeredVoters": 432
+            },
+            {
+              "id": "aitape-lumi-east-aitape-12-ulau-3",
+              "name": "12 - Ulau 3",
+              "registeredVoters": 996
+            },
+            {
+              "id": "aitape-lumi-east-aitape-13-suain-1",
+              "name": "13 - Suain 1",
+              "registeredVoters": 1002
+            },
+            {
+              "id": "aitape-lumi-east-aitape-14-suain-2",
+              "name": "14 - Suain 2",
+              "registeredVoters": 350
+            },
+            {
+              "id": "aitape-lumi-east-aitape-15-labuain",
+              "name": "15 - Labuain",
+              "registeredVoters": 449
+            },
+            {
+              "id": "aitape-lumi-east-aitape-16-womsis",
+              "name": "16 - Womsis",
+              "registeredVoters": 670
+            },
+            {
+              "id": "aitape-lumi-east-aitape-17-balup",
+              "name": "17 - Balup",
+              "registeredVoters": 302
+            },
+            {
+              "id": "aitape-lumi-east-aitape-18-matapau",
+              "name": "18 - Matapau",
+              "registeredVoters": 175
+            }
+          ]
+        },
+        {
+          "id": "aitape-lumi-east-wapei",
+          "name": "East Wapei LLG",
+          "electorateSlug": "aitape-lumi",
+          "wards": [
+            {
+              "id": "aitape-lumi-east-wapei-1-kamnom",
+              "name": "1 - KAMNOM",
+              "registeredVoters": 505
+            },
+            {
+              "id": "aitape-lumi-east-wapei-2-bulwo",
+              "name": "2 - BULWO",
+              "registeredVoters": 227
+            },
+            {
+              "id": "aitape-lumi-east-wapei-3-yiklau",
+              "name": "3 - YIKLAU",
+              "registeredVoters": 702
+            },
+            {
+              "id": "aitape-lumi-east-wapei-4-maurom",
+              "name": "4 - MAUROM",
+              "registeredVoters": 244
+            },
+            {
+              "id": "aitape-lumi-east-wapei-5-kulnom",
+              "name": "5 - KULNOM",
+              "registeredVoters": 176
+            },
+            {
+              "id": "aitape-lumi-east-wapei-6-kweftim",
+              "name": "6 - KWEFTIM",
+              "registeredVoters": 156
+            },
+            {
+              "id": "aitape-lumi-east-wapei-7-eritei-2",
+              "name": "7 - ERITEI 2",
+              "registeredVoters": 264
+            },
+            {
+              "id": "aitape-lumi-east-wapei-8-taute",
+              "name": "8 - TAUTE",
+              "registeredVoters": 748
+            },
+            {
+              "id": "aitape-lumi-east-wapei-9-maui-talbibi",
+              "name": "9 - MAUI-TALBIBI",
+              "registeredVoters": 1057
+            },
+            {
+              "id": "aitape-lumi-east-wapei-10-lumi",
+              "name": "10 - LUMI",
+              "registeredVoters": 584
+            },
+            {
+              "id": "aitape-lumi-east-wapei-11-oute",
+              "name": "11 - OUTE",
+              "registeredVoters": 1027
+            },
+            {
+              "id": "aitape-lumi-east-wapei-12-tabale",
+              "name": "12 - TABALE",
+              "registeredVoters": 1265
+            },
+            {
+              "id": "aitape-lumi-east-wapei-13-karate",
+              "name": "13 - KARATE",
+              "registeredVoters": 831
+            },
+            {
+              "id": "aitape-lumi-east-wapei-14-sainde",
+              "name": "14 - SAINDE",
+              "registeredVoters": 195
+            },
+            {
+              "id": "aitape-lumi-east-wapei-15-mabul",
+              "name": "15 - MABUL",
+              "registeredVoters": 382
             }
           ]
         },
@@ -331,76 +1413,211 @@
           "electorateSlug": "aitape-lumi",
           "wards": [
             {
-              "id": "west-aitape-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1445
+              "id": "aitape-lumi-west-aitape-1-nimas",
+              "name": "1 - NIMAS",
+              "registeredVoters": 578
             },
             {
-              "id": "west-aitape-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1321
+              "id": "aitape-lumi-west-aitape-2-manyer",
+              "name": "2 - MANYER",
+              "registeredVoters": 1173
             },
             {
-              "id": "west-aitape-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1553
+              "id": "aitape-lumi-west-aitape-3-mandroin",
+              "name": "3 - MANDROIN",
+              "registeredVoters": 693
             },
             {
-              "id": "west-aitape-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1482
+              "id": "aitape-lumi-west-aitape-4-paupa",
+              "name": "4 - PAUPA",
+              "registeredVoters": 974
             },
             {
-              "id": "west-aitape-w05",
-              "name": "Ward 5",
-              "registeredVoters": 696
+              "id": "aitape-lumi-west-aitape-5-moriri",
+              "name": "5 - MORIRI",
+              "registeredVoters": 998
             },
             {
-              "id": "west-aitape-w06",
-              "name": "Ward 6",
-              "registeredVoters": 802
+              "id": "aitape-lumi-west-aitape-6-arop-1",
+              "name": "6 - AROP 1",
+              "registeredVoters": 811
             },
             {
-              "id": "west-aitape-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1091
+              "id": "aitape-lumi-west-aitape-7-arop-2",
+              "name": "7 - AROP 2",
+              "registeredVoters": 578
             },
             {
-              "id": "west-aitape-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1025
+              "id": "aitape-lumi-west-aitape-8-mainyen",
+              "name": "8 - MAINYEN",
+              "registeredVoters": 1128
             },
             {
-              "id": "west-aitape-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1262
+              "id": "aitape-lumi-west-aitape-9-tanyapin",
+              "name": "9 - TANYAPIN",
+              "registeredVoters": 684
             },
             {
-              "id": "west-aitape-w10",
-              "name": "Ward 10",
-              "registeredVoters": 1590
+              "id": "aitape-lumi-west-aitape-10-aipokon",
+              "name": "10 - AIPOKON",
+              "registeredVoters": 630
+            },
+            {
+              "id": "aitape-lumi-west-aitape-11-nengian",
+              "name": "11 - NENGIAN",
+              "registeredVoters": 300
+            },
+            {
+              "id": "aitape-lumi-west-aitape-12-kointri",
+              "name": "12 - KOINTRI",
+              "registeredVoters": 246
+            },
+            {
+              "id": "aitape-lumi-west-aitape-13-walwale",
+              "name": "13 - WALWALE",
+              "registeredVoters": 212
+            },
+            {
+              "id": "aitape-lumi-west-aitape-14-rome",
+              "name": "14 - ROME",
+              "registeredVoters": 238
+            },
+            {
+              "id": "aitape-lumi-west-aitape-15-barera",
+              "name": "15 - BARERA",
+              "registeredVoters": 342
+            },
+            {
+              "id": "aitape-lumi-west-aitape-16-kaiye",
+              "name": "16 - KAIYE",
+              "registeredVoters": 154
+            },
+            {
+              "id": "aitape-lumi-west-aitape-17-mafoka",
+              "name": "17 - MAFOKA",
+              "registeredVoters": 168
+            },
+            {
+              "id": "aitape-lumi-west-aitape-18-mori",
+              "name": "18 - MORI",
+              "registeredVoters": 222
+            },
+            {
+              "id": "aitape-lumi-west-aitape-19-mumuru",
+              "name": "19 - MUMURU",
+              "registeredVoters": 179
+            },
+            {
+              "id": "aitape-lumi-west-aitape-20-sumo",
+              "name": "20 - SUMO",
+              "registeredVoters": 290
+            },
+            {
+              "id": "aitape-lumi-west-aitape-21-ramo",
+              "name": "21 - RAMO",
+              "registeredVoters": 529
+            },
+            {
+              "id": "aitape-lumi-west-aitape-22-pou",
+              "name": "22 - POU",
+              "registeredVoters": 402
+            },
+            {
+              "id": "aitape-lumi-west-aitape-23-sarai",
+              "name": "23 - SARAI",
+              "registeredVoters": 309
+            },
+            {
+              "id": "aitape-lumi-west-aitape-24-rainuk",
+              "name": "24 - RAINUK",
+              "registeredVoters": 436
+            },
+            {
+              "id": "aitape-lumi-west-aitape-25-amsuku",
+              "name": "25 - AMSUKU",
+              "registeredVoters": 260
             }
           ]
         },
         {
-          "id": "aitape-lumi-sissano",
-          "name": "Sissano LLG",
+          "id": "aitape-lumi-west-wapei",
+          "name": "West Wapei LLG",
           "electorateSlug": "aitape-lumi",
           "wards": [
             {
-              "id": "sissano-w01",
-              "name": "Ward 1",
-              "registeredVoters": 4411
+              "id": "aitape-lumi-west-wapei-1-kabore",
+              "name": "1 - KABORE",
+              "registeredVoters": 351
             },
             {
-              "id": "sissano-w02",
-              "name": "Ward 2",
-              "registeredVoters": 5092
+              "id": "aitape-lumi-west-wapei-2-molmo",
+              "name": "2 - MOLMO",
+              "registeredVoters": 718
             },
             {
-              "id": "sissano-w03",
-              "name": "Ward 3",
-              "registeredVoters": 4547
+              "id": "aitape-lumi-west-wapei-3-pelama",
+              "name": "3 - PELAMA",
+              "registeredVoters": 411
+            },
+            {
+              "id": "aitape-lumi-west-wapei-4-kakoi",
+              "name": "4 - KAKOI",
+              "registeredVoters": 438
+            },
+            {
+              "id": "aitape-lumi-west-wapei-5-yebil",
+              "name": "5 - YEBIL",
+              "registeredVoters": 479
+            },
+            {
+              "id": "aitape-lumi-west-wapei-6-inebu",
+              "name": "6 - INEBU",
+              "registeredVoters": 846
+            },
+            {
+              "id": "aitape-lumi-west-wapei-7-mokai",
+              "name": "7 - MOKAI",
+              "registeredVoters": 401
+            },
+            {
+              "id": "aitape-lumi-west-wapei-8-karaitem",
+              "name": "8 - KARAITEM",
+              "registeredVoters": 657
+            },
+            {
+              "id": "aitape-lumi-west-wapei-9-minate",
+              "name": "9 - MINATE",
+              "registeredVoters": 820
+            },
+            {
+              "id": "aitape-lumi-west-wapei-10-sibote",
+              "name": "10 - SIBOTE",
+              "registeredVoters": 878
+            },
+            {
+              "id": "aitape-lumi-west-wapei-11-miwaute",
+              "name": "11 - MIWAUTE",
+              "registeredVoters": 796
+            },
+            {
+              "id": "aitape-lumi-west-wapei-12-wabute",
+              "name": "12 - Wabute",
+              "registeredVoters": 631
+            },
+            {
+              "id": "aitape-lumi-west-wapei-13-kupuom",
+              "name": "13 - KUPUOM",
+              "registeredVoters": 776
+            },
+            {
+              "id": "aitape-lumi-west-wapei-14-wigote",
+              "name": "14 - WIGOTE",
+              "registeredVoters": 466
+            },
+            {
+              "id": "aitape-lumi-west-wapei-15-kumnate",
+              "name": "15 - KUMNATE",
+              "registeredVoters": 588
             }
           ]
         }
@@ -410,133 +1627,736 @@
       "electorateSlug": "telefomin",
       "llgs": [
         {
+          "id": "telefomin-east-oksapmin",
+          "name": "East Oksapmin LLG",
+          "electorateSlug": "telefomin",
+          "wards": [
+            {
+              "id": "telefomin-east-oksapmin-1-betianap",
+              "name": "1 - BETIANAP",
+              "registeredVoters": 691
+            },
+            {
+              "id": "telefomin-east-oksapmin-2-kusanap",
+              "name": "2 - KUSANAP",
+              "registeredVoters": 498
+            },
+            {
+              "id": "telefomin-east-oksapmin-3-mitihanap",
+              "name": "3 - MITIHANAP",
+              "registeredVoters": 470
+            },
+            {
+              "id": "telefomin-east-oksapmin-4-trangap",
+              "name": "4 - TRANGAP",
+              "registeredVoters": 782
+            },
+            {
+              "id": "telefomin-east-oksapmin-5-oksapmin-s-d-hq",
+              "name": "5 - OKSAPMIN S/D HQ",
+              "registeredVoters": 324
+            },
+            {
+              "id": "telefomin-east-oksapmin-6-duban",
+              "name": "6 - DUBAN",
+              "registeredVoters": 440
+            },
+            {
+              "id": "telefomin-east-oksapmin-7-akiapmin",
+              "name": "7 - AKIAPMIN",
+              "registeredVoters": 887
+            },
+            {
+              "id": "telefomin-east-oksapmin-8-lembanap",
+              "name": "8 - LEMBANAP",
+              "registeredVoters": 95
+            },
+            {
+              "id": "telefomin-east-oksapmin-9-monduman",
+              "name": "9 - MONDUMAN",
+              "registeredVoters": 189
+            },
+            {
+              "id": "telefomin-east-oksapmin-10-tomware",
+              "name": "10 - TOMWARE",
+              "registeredVoters": 295
+            },
+            {
+              "id": "telefomin-east-oksapmin-11-waulap",
+              "name": "11 - WAULAP",
+              "registeredVoters": 369
+            },
+            {
+              "id": "telefomin-east-oksapmin-12-sambate",
+              "name": "12 - SAMBATE",
+              "registeredVoters": 344
+            },
+            {
+              "id": "telefomin-east-oksapmin-13-oheha",
+              "name": "13 - OHEHA",
+              "registeredVoters": 263
+            },
+            {
+              "id": "telefomin-east-oksapmin-14-sanapte",
+              "name": "14 - SANAPTE",
+              "registeredVoters": 220
+            },
+            {
+              "id": "telefomin-east-oksapmin-15-gene-keuha",
+              "name": "15 - GENE KEUHA",
+              "registeredVoters": 210
+            },
+            {
+              "id": "telefomin-east-oksapmin-16-sisimin",
+              "name": "16 - SISIMIN",
+              "registeredVoters": 214
+            },
+            {
+              "id": "telefomin-east-oksapmin-17-liawep",
+              "name": "17 - LIAWEP",
+              "registeredVoters": 64
+            },
+            {
+              "id": "telefomin-east-oksapmin-18-timoli",
+              "name": "18 - TIMOLI",
+              "registeredVoters": 101
+            }
+          ]
+        },
+        {
+          "id": "telefomin-namea",
+          "name": "Namea LLG",
+          "electorateSlug": "telefomin",
+          "wards": [
+            {
+              "id": "telefomin-namea-1-abrau",
+              "name": "1 - ABRAU",
+              "registeredVoters": 280
+            },
+            {
+              "id": "telefomin-namea-2-alendami",
+              "name": "2 - ALENDAMI",
+              "registeredVoters": 591
+            },
+            {
+              "id": "telefomin-namea-3-akwom",
+              "name": "3 - AKWOM",
+              "registeredVoters": 550
+            },
+            {
+              "id": "telefomin-namea-4-augom",
+              "name": "4 - AUGOM",
+              "registeredVoters": 247
+            },
+            {
+              "id": "telefomin-namea-5-alai",
+              "name": "5 - ALAI",
+              "registeredVoters": 190
+            },
+            {
+              "id": "telefomin-namea-6-ameni",
+              "name": "6 - AMENI",
+              "registeredVoters": 636
+            },
+            {
+              "id": "telefomin-namea-7-iwani",
+              "name": "7 - IWANI",
+              "registeredVoters": 238
+            },
+            {
+              "id": "telefomin-namea-8-magleri",
+              "name": "8 - MAGLERI",
+              "registeredVoters": 1020
+            },
+            {
+              "id": "telefomin-namea-9-mantopai",
+              "name": "9 - MANTOPAI",
+              "registeredVoters": 431
+            },
+            {
+              "id": "telefomin-namea-10-warukori",
+              "name": "10 - WARUKORI",
+              "registeredVoters": 659
+            },
+            {
+              "id": "telefomin-namea-11-norambalip",
+              "name": "11 - NORAMBALIP",
+              "registeredVoters": 660
+            },
+            {
+              "id": "telefomin-namea-12-yakaltim",
+              "name": "12 - YAKALTIM",
+              "registeredVoters": 915
+            },
+            {
+              "id": "telefomin-namea-13-yegarapi",
+              "name": "13 - YEGARAPI",
+              "registeredVoters": 226
+            },
+            {
+              "id": "telefomin-namea-14-yilui",
+              "name": "14 - YILUI",
+              "registeredVoters": 698
+            },
+            {
+              "id": "telefomin-namea-15-edwaki",
+              "name": "15 - EDWAKI",
+              "registeredVoters": 150
+            }
+          ]
+        },
+        {
+          "id": "telefomin-nekalimin",
+          "name": "Nekalimin LLG",
+          "electorateSlug": "telefomin",
+          "wards": [
+            {
+              "id": "telefomin-nekalimin-1-tumolbil",
+              "name": "1 - TUMOLBIL",
+              "registeredVoters": 223
+            },
+            {
+              "id": "telefomin-nekalimin-2-bakading",
+              "name": "2 - BAKADING",
+              "registeredVoters": 50
+            },
+            {
+              "id": "telefomin-nekalimin-3-fungal",
+              "name": "3 - FUNGAL",
+              "registeredVoters": 160
+            },
+            {
+              "id": "telefomin-nekalimin-4-bilka",
+              "name": "4 - BILKA",
+              "registeredVoters": 57
+            },
+            {
+              "id": "telefomin-nekalimin-5-bokembil",
+              "name": "5 - BOKEMBIL",
+              "registeredVoters": 132
+            },
+            {
+              "id": "telefomin-nekalimin-6-defakbil",
+              "name": "6 - DEFAKBIL",
+              "registeredVoters": 260
+            },
+            {
+              "id": "telefomin-nekalimin-7-mututeimin",
+              "name": "7 - MUTUTEIMIN",
+              "registeredVoters": 119
+            },
+            {
+              "id": "telefomin-nekalimin-8-unfokmin",
+              "name": "8 - UNFOKMIN",
+              "registeredVoters": 171
+            },
+            {
+              "id": "telefomin-nekalimin-9-atensikin",
+              "name": "9 - ATENSIKIN",
+              "registeredVoters": 152
+            },
+            {
+              "id": "telefomin-nekalimin-10-nongapvip",
+              "name": "10 - NONGAPVIP",
+              "registeredVoters": 111
+            },
+            {
+              "id": "telefomin-nekalimin-11-busulmin",
+              "name": "11 - BUSULMIN",
+              "registeredVoters": 153
+            },
+            {
+              "id": "telefomin-nekalimin-12-tumoldum",
+              "name": "12 - TUMOLDUM",
+              "registeredVoters": 189
+            },
+            {
+              "id": "telefomin-nekalimin-13-maskabil-1",
+              "name": "13 - MASKABIL 1",
+              "registeredVoters": 408
+            },
+            {
+              "id": "telefomin-nekalimin-14-maskabil-2",
+              "name": "14 - MASKABIL 2",
+              "registeredVoters": 50
+            },
+            {
+              "id": "telefomin-nekalimin-15-maskabil-3",
+              "name": "15 - MASKABIL 3",
+              "registeredVoters": 61
+            },
+            {
+              "id": "telefomin-nekalimin-16-maskabil-4",
+              "name": "16 - MASKABIL 4",
+              "registeredVoters": 66
+            },
+            {
+              "id": "telefomin-nekalimin-17-maskabil-5",
+              "name": "17 - MASKABIL 5",
+              "registeredVoters": 86
+            },
+            {
+              "id": "telefomin-nekalimin-18-maskabil-6",
+              "name": "18 - MASKABIL 6",
+              "registeredVoters": 61
+            },
+            {
+              "id": "telefomin-nekalimin-19-ninending",
+              "name": "19 - NINENDING",
+              "registeredVoters": 68
+            },
+            {
+              "id": "telefomin-nekalimin-20-ibil",
+              "name": "20 - IBIL",
+              "registeredVoters": 151
+            },
+            {
+              "id": "telefomin-nekalimin-21-kuripding",
+              "name": "21 - KURIPDING",
+              "registeredVoters": 102
+            },
+            {
+              "id": "telefomin-nekalimin-22-bukdakding",
+              "name": "22 - BUKDAKDING",
+              "registeredVoters": 151
+            },
+            {
+              "id": "telefomin-nekalimin-23-bongmakbil",
+              "name": "23 - BONGMAKBIL",
+              "registeredVoters": 132
+            },
+            {
+              "id": "telefomin-nekalimin-24-oktul",
+              "name": "24 - OKTUL",
+              "registeredVoters": 149
+            },
+            {
+              "id": "telefomin-nekalimin-25-mingnidal",
+              "name": "25 - MINGNIDAL",
+              "registeredVoters": 92
+            },
+            {
+              "id": "telefomin-nekalimin-26-imbrinis",
+              "name": "26 - IMBRINIS",
+              "registeredVoters": 103
+            }
+          ]
+        },
+        {
           "id": "telefomin-telefomin",
           "name": "Telefomin LLG",
           "electorateSlug": "telefomin",
           "wards": [
             {
-              "id": "telefomin-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1667
+              "id": "telefomin-telefomin-1-amaromin",
+              "name": "1 - AMAROMIN",
+              "registeredVoters": 90
             },
             {
-              "id": "telefomin-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2026
+              "id": "telefomin-telefomin-2-fuiaimin",
+              "name": "2 - FUIAIMIN",
+              "registeredVoters": 334
             },
             {
-              "id": "telefomin-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2219
+              "id": "telefomin-telefomin-3-bovripmin",
+              "name": "3 - BOVRIPMIN",
+              "registeredVoters": 178
             },
             {
-              "id": "telefomin-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1799
+              "id": "telefomin-telefomin-4-sogamin",
+              "name": "4 - SOGAMIN",
+              "registeredVoters": 89
             },
             {
-              "id": "telefomin-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2470
+              "id": "telefomin-telefomin-5-temsapmin",
+              "name": "5 - TEMSAPMIN",
+              "registeredVoters": 161
             },
             {
-              "id": "telefomin-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1719
+              "id": "telefomin-telefomin-6-abungtamin",
+              "name": "6 - ABUNGTAMIN",
+              "registeredVoters": 341
             },
             {
-              "id": "telefomin-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1683
+              "id": "telefomin-telefomin-7-agamdevip",
+              "name": "7 - AGAMDEVIP",
+              "registeredVoters": 252
+            },
+            {
+              "id": "telefomin-telefomin-8-afogavip",
+              "name": "8 - AFOGAVIP",
+              "registeredVoters": 272
+            },
+            {
+              "id": "telefomin-telefomin-9-wabia",
+              "name": "9 - WABIA",
+              "registeredVoters": 435
+            },
+            {
+              "id": "telefomin-telefomin-10-bofulmin-tifalmin",
+              "name": "10 - BOFULMIN/TIFALMIN",
+              "registeredVoters": 191
+            },
+            {
+              "id": "telefomin-telefomin-11-famokmin",
+              "name": "11 - FAMOKMIN",
+              "registeredVoters": 233
+            },
+            {
+              "id": "telefomin-telefomin-12-inantigin",
+              "name": "12 - INANTIGIN",
+              "registeredVoters": 227
+            },
+            {
+              "id": "telefomin-telefomin-13-kialikman-framin",
+              "name": "13 - KIALIKMAN/ FRAMIN",
+              "registeredVoters": 350
+            },
+            {
+              "id": "telefomin-telefomin-14-kobrenmin-framin",
+              "name": "14 - KOBRENMIN/ FRAMIN",
+              "registeredVoters": 264
+            },
+            {
+              "id": "telefomin-telefomin-15-freda-base",
+              "name": "15 - FREDA BASE",
+              "registeredVoters": 277
+            },
+            {
+              "id": "telefomin-telefomin-16-komduvip",
+              "name": "16 - KOMDUVIP",
+              "registeredVoters": 300
+            },
+            {
+              "id": "telefomin-telefomin-17-ofektaman",
+              "name": "17 - OFEKTAMAN",
+              "registeredVoters": 206
+            },
+            {
+              "id": "telefomin-telefomin-18-okbilavip",
+              "name": "18 - OKBILAVIP",
+              "registeredVoters": 319
+            },
+            {
+              "id": "telefomin-telefomin-19-siliambil",
+              "name": "19 - SILIAMBIL",
+              "registeredVoters": 166
+            },
+            {
+              "id": "telefomin-telefomin-20-fumenavip",
+              "name": "20 - FUMENAVIP",
+              "registeredVoters": 149
+            },
+            {
+              "id": "telefomin-telefomin-21-fiamuk",
+              "name": "21 - FIAMUK",
+              "registeredVoters": 69
+            },
+            {
+              "id": "telefomin-telefomin-22-kareimin",
+              "name": "22 - KAREIMIN",
+              "registeredVoters": 130
+            },
+            {
+              "id": "telefomin-telefomin-23-timelmin",
+              "name": "23 - TIMELMIN",
+              "registeredVoters": 185
+            },
+            {
+              "id": "telefomin-telefomin-24-kombreimein-eliptamin",
+              "name": "24 - KOMBREIMEIN-ELIPTAMIN",
+              "registeredVoters": 332
+            },
+            {
+              "id": "telefomin-telefomin-25-biltevip",
+              "name": "25 - BILTEVIP",
+              "registeredVoters": 140
+            },
+            {
+              "id": "telefomin-telefomin-26-bolbil",
+              "name": "26 - BOLBIL",
+              "registeredVoters": 217
+            },
+            {
+              "id": "telefomin-telefomin-27-unamo",
+              "name": "27 - UNAMO",
+              "registeredVoters": 203
+            },
+            {
+              "id": "telefomin-telefomin-28-dongbil",
+              "name": "28 - DONGBIL",
+              "registeredVoters": 267
+            },
+            {
+              "id": "telefomin-telefomin-29-oksimin",
+              "name": "29 - OKSIMIN",
+              "registeredVoters": 113
+            },
+            {
+              "id": "telefomin-telefomin-30-siktaman",
+              "name": "30 - SIKTAMAN",
+              "registeredVoters": 84
             }
           ]
         },
         {
-          "id": "telefomin-oksapmin",
-          "name": "Oksapmin LLG",
+          "id": "telefomin-telefomin-urban",
+          "name": "Telefomin Urban LLG",
           "electorateSlug": "telefomin",
           "wards": [
             {
-              "id": "oksapmin-w01",
-              "name": "Ward 1",
-              "registeredVoters": 910
+              "id": "telefomin-telefomin-urban-1-anlavip-kalikman",
+              "name": "1 - ANLAVIP-KALIKMAN",
+              "registeredVoters": 289
             },
             {
-              "id": "oksapmin-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1413
+              "id": "telefomin-telefomin-urban-2-atemtkiakmin",
+              "name": "2 - ATEMTKIAKMIN",
+              "registeredVoters": 182
             },
             {
-              "id": "oksapmin-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1555
+              "id": "telefomin-telefomin-urban-3-bogelmin",
+              "name": "3 - BOGELMIN",
+              "registeredVoters": 399
             },
             {
-              "id": "oksapmin-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1108
+              "id": "telefomin-telefomin-urban-4-drolengam",
+              "name": "4 - DROLENGAM",
+              "registeredVoters": 405
             },
             {
-              "id": "oksapmin-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1365
+              "id": "telefomin-telefomin-urban-5-urapmin-no-1",
+              "name": "5 - URAPMIN NO. 1",
+              "registeredVoters": 210
             },
             {
-              "id": "oksapmin-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1072
+              "id": "telefomin-telefomin-urban-6-kombremin-local",
+              "name": "6 - KOMBREMIN LOCAL",
+              "registeredVoters": 284
             },
             {
-              "id": "oksapmin-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1545
+              "id": "telefomin-telefomin-urban-7-telefolip",
+              "name": "7 - TELEFOLIP",
+              "registeredVoters": 334
             },
             {
-              "id": "oksapmin-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1904
+              "id": "telefomin-telefomin-urban-8-telefomin-town",
+              "name": "8 - TELEFOMIN TOWN",
+              "registeredVoters": 346
             },
             {
-              "id": "oksapmin-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1409
+              "id": "telefomin-telefomin-urban-9-misinmin",
+              "name": "9 - MISINMIN",
+              "registeredVoters": 195
+            },
+            {
+              "id": "telefomin-telefomin-urban-10-urapmin-no-2",
+              "name": "10 - URAPMIN NO. 2",
+              "registeredVoters": 174
             }
           ]
         },
         {
-          "id": "telefomin-tifalmin",
-          "name": "Tifalmin LLG",
+          "id": "telefomin-west-oksapmin",
+          "name": "West Oksapmin LLG",
           "electorateSlug": "telefomin",
           "wards": [
             {
-              "id": "tifalmin-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2923
+              "id": "telefomin-west-oksapmin-1-ranimap",
+              "name": "1 - RANIMAP",
+              "registeredVoters": 434
             },
             {
-              "id": "tifalmin-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2679
+              "id": "telefomin-west-oksapmin-2-divanap-1",
+              "name": "2 - DIVANAP 1",
+              "registeredVoters": 480
             },
             {
-              "id": "tifalmin-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1705
+              "id": "telefomin-west-oksapmin-3-kuiva",
+              "name": "3 - KUIVA",
+              "registeredVoters": 271
             },
             {
-              "id": "tifalmin-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2027
+              "id": "telefomin-west-oksapmin-4-tekap",
+              "name": "4 - TEKAP",
+              "registeredVoters": 956
             },
             {
-              "id": "tifalmin-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1105
+              "id": "telefomin-west-oksapmin-5-tomianap",
+              "name": "5 - TOMIANAP",
+              "registeredVoters": 339
             },
             {
-              "id": "tifalmin-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2395
+              "id": "telefomin-west-oksapmin-6-serenity",
+              "name": "6 - SERENITY",
+              "registeredVoters": 317
+            },
+            {
+              "id": "telefomin-west-oksapmin-7-bimin",
+              "name": "7 - BIMIN",
+              "registeredVoters": 476
+            },
+            {
+              "id": "telefomin-west-oksapmin-8-daburap",
+              "name": "8 - DABURAP",
+              "registeredVoters": 456
+            },
+            {
+              "id": "telefomin-west-oksapmin-9-kweptanap",
+              "name": "9 - KWEPTANAP",
+              "registeredVoters": 781
+            },
+            {
+              "id": "telefomin-west-oksapmin-10-sungten",
+              "name": "10 - SUNGTEN",
+              "registeredVoters": 183
+            },
+            {
+              "id": "telefomin-west-oksapmin-11-kunanap-umanap",
+              "name": "11 - KUNANAP (UMANAP)",
+              "registeredVoters": 293
+            },
+            {
+              "id": "telefomin-west-oksapmin-12-singoh",
+              "name": "12 - SINGOH",
+              "registeredVoters": 422
+            },
+            {
+              "id": "telefomin-west-oksapmin-13-divanap-2",
+              "name": "13 - DIVANAP 2",
+              "registeredVoters": 577
+            },
+            {
+              "id": "telefomin-west-oksapmin-14-rimor",
+              "name": "14 - RIMOR",
+              "registeredVoters": 226
+            },
+            {
+              "id": "telefomin-west-oksapmin-15-huti",
+              "name": "15 - HUTI",
+              "registeredVoters": 109
+            },
+            {
+              "id": "telefomin-west-oksapmin-16-sindip",
+              "name": "16 - SINDIP",
+              "registeredVoters": 297
+            },
+            {
+              "id": "telefomin-west-oksapmin-17-tum-makuk",
+              "name": "17 - TUM/ MAKUK",
+              "registeredVoters": 597
+            },
+            {
+              "id": "telefomin-west-oksapmin-18-yentanap",
+              "name": "18 - YENTANAP",
+              "registeredVoters": 202
+            },
+            {
+              "id": "telefomin-west-oksapmin-19-bakanap-yeriba",
+              "name": "19 - BAKANAP/ YERIBA",
+              "registeredVoters": 370
+            },
+            {
+              "id": "telefomin-west-oksapmin-20-menmahap",
+              "name": "20 - MENMAHAP",
+              "registeredVoters": 288
+            },
+            {
+              "id": "telefomin-west-oksapmin-21-kasamin",
+              "name": "21 - KASAMIN",
+              "registeredVoters": 55
+            }
+          ]
+        },
+        {
+          "id": "telefomin-yapsie",
+          "name": "Yapsie LLG",
+          "electorateSlug": "telefomin",
+          "wards": [
+            {
+              "id": "telefomin-yapsie-1-imanai-1",
+              "name": "1 - IMANAI 1",
+              "registeredVoters": 242
+            },
+            {
+              "id": "telefomin-yapsie-2-imanai-2",
+              "name": "2 - IMANAI 2",
+              "registeredVoters": 91
+            },
+            {
+              "id": "telefomin-yapsie-3-betapena-1",
+              "name": "3 - BETAPENA 1",
+              "registeredVoters": 84
+            },
+            {
+              "id": "telefomin-yapsie-4-ivikmin",
+              "name": "4 - IVIKMIN",
+              "registeredVoters": 65
+            },
+            {
+              "id": "telefomin-yapsie-5-sokonga",
+              "name": "5 - SOKONGA",
+              "registeredVoters": 108
+            },
+            {
+              "id": "telefomin-yapsie-6-kemeimin",
+              "name": "6 - KEMEIMIN",
+              "registeredVoters": 88
+            },
+            {
+              "id": "telefomin-yapsie-7-urapmin",
+              "name": "7 - URAPMIN",
+              "registeredVoters": 149
+            },
+            {
+              "id": "telefomin-yapsie-8-wauru",
+              "name": "8 - WAURU",
+              "registeredVoters": 251
+            },
+            {
+              "id": "telefomin-yapsie-9-yapsie-station",
+              "name": "9 - YAPSIE STATION",
+              "registeredVoters": 23
+            },
+            {
+              "id": "telefomin-yapsie-10-yasiru",
+              "name": "10 - YASIRU",
+              "registeredVoters": 124
+            },
+            {
+              "id": "telefomin-yapsie-11-fiarimin",
+              "name": "11 - FIARIMIN",
+              "registeredVoters": 59
+            },
+            {
+              "id": "telefomin-yapsie-12-sabalmin",
+              "name": "12 - SABALMIN",
+              "registeredVoters": 68
+            },
+            {
+              "id": "telefomin-yapsie-13-kuima",
+              "name": "13 - KUIMA",
+              "registeredVoters": 89
+            },
+            {
+              "id": "telefomin-yapsie-14-illis",
+              "name": "14 - ILLIS",
+              "registeredVoters": 128
+            },
+            {
+              "id": "telefomin-yapsie-15-island",
+              "name": "15 - ISLAND",
+              "registeredVoters": 36
+            },
+            {
+              "id": "telefomin-yapsie-16-apokirom",
+              "name": "16 - APOKIROM",
+              "registeredVoters": 116
+            },
+            {
+              "id": "telefomin-yapsie-17-betapena-2",
+              "name": "17 - BETAPENA 2",
+              "registeredVoters": 73
             }
           ]
         }

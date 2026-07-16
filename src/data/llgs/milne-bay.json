@@ -10,68 +10,131 @@
           "electorateSlug": "alotau",
           "wards": [
             {
-              "id": "alotau-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2892
+              "id": "alotau-alotau-urban-1-kwaia-blue-compound",
+              "name": "1 - KWAIA BLUE COMPOUND",
+              "registeredVoters": 1231
             },
             {
-              "id": "alotau-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 5985
+              "id": "alotau-alotau-urban-2-bottom-town",
+              "name": "2 - BOTTOM TOWN",
+              "registeredVoters": 1368
             },
             {
-              "id": "alotau-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3518
+              "id": "alotau-alotau-urban-3-red-hill",
+              "name": "3 - RED HILL",
+              "registeredVoters": 277
+            },
+            {
+              "id": "alotau-alotau-urban-4-middle-town",
+              "name": "4 - MIDDLE TOWN",
+              "registeredVoters": 756
+            },
+            {
+              "id": "alotau-alotau-urban-5-top-town",
+              "name": "5 - TOP TOWN",
+              "registeredVoters": 231
+            },
+            {
+              "id": "alotau-alotau-urban-6-goilanai",
+              "name": "6 - GOILANAI",
+              "registeredVoters": 1107
             }
           ]
         },
         {
-          "id": "alotau-weraura",
-          "name": "Weraura LLG",
+          "id": "alotau-daga",
+          "name": "Daga LLG",
           "electorateSlug": "alotau",
           "wards": [
             {
-              "id": "weraura-w01",
-              "name": "Ward 1",
-              "registeredVoters": 6587
+              "id": "alotau-daga-1-gaunani",
+              "name": "1 - GAUNANI",
+              "registeredVoters": 235
             },
             {
-              "id": "weraura-w02",
-              "name": "Ward 2",
-              "registeredVoters": 4199
+              "id": "alotau-daga-2-birat",
+              "name": "2 - BIRAT",
+              "registeredVoters": 279
             },
             {
-              "id": "weraura-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3578
-            }
-          ]
-        },
-        {
-          "id": "alotau-suau",
-          "name": "Suau LLG",
-          "electorateSlug": "alotau",
-          "wards": [
-            {
-              "id": "suau-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2496
+              "id": "alotau-daga-3-bonenau",
+              "name": "3 - BONENAU",
+              "registeredVoters": 463
             },
             {
-              "id": "suau-w02",
-              "name": "Ward 2",
-              "registeredVoters": 4180
+              "id": "alotau-daga-4-param",
+              "name": "4 - PARAM",
+              "registeredVoters": 136
             },
             {
-              "id": "suau-w03",
-              "name": "Ward 3",
-              "registeredVoters": 4123
+              "id": "alotau-daga-5-kakaia",
+              "name": "5 - KAKAIA",
+              "registeredVoters": 352
             },
             {
-              "id": "suau-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2312
+              "id": "alotau-daga-6-payawa",
+              "name": "6 - PAYAWA",
+              "registeredVoters": 390
+            },
+            {
+              "id": "alotau-daga-7-ilakai-modenai",
+              "name": "7 - ILAKAI/MODENAI",
+              "registeredVoters": 195
+            },
+            {
+              "id": "alotau-daga-8-uni",
+              "name": "8 - UNI",
+              "registeredVoters": 258
+            },
+            {
+              "id": "alotau-daga-9-bibitan",
+              "name": "9 - BIBITAN",
+              "registeredVoters": 156
+            },
+            {
+              "id": "alotau-daga-10-danawan",
+              "name": "10 - DANAWAN",
+              "registeredVoters": 288
+            },
+            {
+              "id": "alotau-daga-11-biman",
+              "name": "11 - BIMAN",
+              "registeredVoters": 147
+            },
+            {
+              "id": "alotau-daga-12-gwagut",
+              "name": "12 - GWAGUT",
+              "registeredVoters": 71
+            },
+            {
+              "id": "alotau-daga-13-gwadede",
+              "name": "13 - GWADEDE",
+              "registeredVoters": 243
+            },
+            {
+              "id": "alotau-daga-14-eviaua",
+              "name": "14 - EVIAUA",
+              "registeredVoters": 203
+            },
+            {
+              "id": "alotau-daga-15-gwaira",
+              "name": "15 - GWAIRA",
+              "registeredVoters": 52
+            },
+            {
+              "id": "alotau-daga-16-kanaturu",
+              "name": "16 - KANATURU",
+              "registeredVoters": 118
+            },
+            {
+              "id": "alotau-daga-17-gauwe",
+              "name": "17 - GAUWE",
+              "registeredVoters": 106
+            },
+            {
+              "id": "alotau-daga-18-gwiroro",
+              "name": "18 - GWIRORO",
+              "registeredVoters": 188
             }
           ]
         },
@@ -81,39 +144,692 @@
           "electorateSlug": "alotau",
           "wards": [
             {
-              "id": "huhu-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1591
+              "id": "alotau-huhu-1-mutu-uwa",
+              "name": "1 - MUTU’UWA",
+              "registeredVoters": 814
             },
             {
-              "id": "huhu-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1591
+              "id": "alotau-huhu-2-divinai",
+              "name": "2 - DIVINAI",
+              "registeredVoters": 612
             },
             {
-              "id": "huhu-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1944
+              "id": "alotau-huhu-3-daio",
+              "name": "3 - DAIO",
+              "registeredVoters": 321
             },
             {
-              "id": "huhu-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1244
+              "id": "alotau-huhu-4-rabe",
+              "name": "4 - RABE",
+              "registeredVoters": 848
             },
             {
-              "id": "huhu-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2488
+              "id": "alotau-huhu-5-ianeianene",
+              "name": "5 - IANEIANENE",
+              "registeredVoters": 1390
             },
             {
-              "id": "huhu-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2613
+              "id": "alotau-huhu-6-siasiada",
+              "name": "6 - SIASIADA",
+              "registeredVoters": 579
             },
             {
-              "id": "huhu-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1329
+              "id": "alotau-huhu-7-gibara",
+              "name": "7 - GIBARA",
+              "registeredVoters": 151
+            },
+            {
+              "id": "alotau-huhu-8-lamhaga",
+              "name": "8 - LAMHAGA",
+              "registeredVoters": 333
+            },
+            {
+              "id": "alotau-huhu-9-lelehudi",
+              "name": "9 - LELEHUDI",
+              "registeredVoters": 244
+            },
+            {
+              "id": "alotau-huhu-10-watunou",
+              "name": "10 - WATUNOU",
+              "registeredVoters": 289
+            },
+            {
+              "id": "alotau-huhu-11-nigila",
+              "name": "11 - NIGILA",
+              "registeredVoters": 493
+            },
+            {
+              "id": "alotau-huhu-12-ahioma",
+              "name": "12 - AHIOMA",
+              "registeredVoters": 2050
+            },
+            {
+              "id": "alotau-huhu-13-waema",
+              "name": "13 - WAEMA",
+              "registeredVoters": 791
+            },
+            {
+              "id": "alotau-huhu-14-gabugabuna",
+              "name": "14 - GABUGABUNA",
+              "registeredVoters": 443
+            },
+            {
+              "id": "alotau-huhu-15-maiwara",
+              "name": "15 - MAIWARA",
+              "registeredVoters": 483
+            },
+            {
+              "id": "alotau-huhu-16-naura",
+              "name": "16 - NAURA",
+              "registeredVoters": 1171
+            },
+            {
+              "id": "alotau-huhu-17-gelemalaia",
+              "name": "17 - GELEMALAIA",
+              "registeredVoters": 875
+            },
+            {
+              "id": "alotau-huhu-18-gamadoudou",
+              "name": "18 - GAMADOUDOU",
+              "registeredVoters": 464
+            },
+            {
+              "id": "alotau-huhu-19-wagawaga",
+              "name": "19 - WAGAWAGA",
+              "registeredVoters": 480
+            },
+            {
+              "id": "alotau-huhu-20-gwavili",
+              "name": "20 - GWAVILI",
+              "registeredVoters": 447
+            },
+            {
+              "id": "alotau-huhu-21-upper-dawadawa",
+              "name": "21 - UPPER DAWADAWA",
+              "registeredVoters": 215
+            },
+            {
+              "id": "alotau-huhu-22-bubuleta",
+              "name": "22 - BUBULETA",
+              "registeredVoters": 962
+            },
+            {
+              "id": "alotau-huhu-23-walalaia",
+              "name": "23 - WALALAIA",
+              "registeredVoters": 516
+            },
+            {
+              "id": "alotau-huhu-24-bou",
+              "name": "24 - BOU",
+              "registeredVoters": 637
+            },
+            {
+              "id": "alotau-huhu-25-ipouli",
+              "name": "25 - IPOULI",
+              "registeredVoters": 479
+            },
+            {
+              "id": "alotau-huhu-26-kilakilana",
+              "name": "26 - KILAKILANA",
+              "registeredVoters": 296
+            },
+            {
+              "id": "alotau-huhu-27-borowai",
+              "name": "27 - BOROWAI",
+              "registeredVoters": 342
+            },
+            {
+              "id": "alotau-huhu-28-laviam",
+              "name": "28 - LAVIAM",
+              "registeredVoters": 613
+            },
+            {
+              "id": "alotau-huhu-29-lower-dawadawa",
+              "name": "29 - LOWER DAWADAWA",
+              "registeredVoters": 174
+            }
+          ]
+        },
+        {
+          "id": "alotau-makamaka",
+          "name": "Makamaka LLG",
+          "electorateSlug": "alotau",
+          "wards": [
+            {
+              "id": "alotau-makamaka-1-baiawa",
+              "name": "1 - BAIAWA",
+              "registeredVoters": 218
+            },
+            {
+              "id": "alotau-makamaka-2-midino",
+              "name": "2 - MIDINO",
+              "registeredVoters": 270
+            },
+            {
+              "id": "alotau-makamaka-3-iarame",
+              "name": "3 - IARAME",
+              "registeredVoters": 174
+            },
+            {
+              "id": "alotau-makamaka-4-pem",
+              "name": "4 - PEM",
+              "registeredVoters": 212
+            },
+            {
+              "id": "alotau-makamaka-5-magabara",
+              "name": "5 - MAGABARA",
+              "registeredVoters": 142
+            },
+            {
+              "id": "alotau-makamaka-6-tapio",
+              "name": "6 - TAPIO",
+              "registeredVoters": 185
+            },
+            {
+              "id": "alotau-makamaka-7-mukawa",
+              "name": "7 - MUKAWA",
+              "registeredVoters": 465
+            },
+            {
+              "id": "alotau-makamaka-8-bogaboga",
+              "name": "8 - BOGABOGA",
+              "registeredVoters": 365
+            },
+            {
+              "id": "alotau-makamaka-9-ginada",
+              "name": "9 - GINADA",
+              "registeredVoters": 223
+            },
+            {
+              "id": "alotau-makamaka-10-irikaba",
+              "name": "10 - IRIKABA",
+              "registeredVoters": 260
+            },
+            {
+              "id": "alotau-makamaka-11-wabubu",
+              "name": "11 - WABUBU",
+              "registeredVoters": 226
+            },
+            {
+              "id": "alotau-makamaka-12-dabora",
+              "name": "12 - DABORA",
+              "registeredVoters": 201
+            },
+            {
+              "id": "alotau-makamaka-13-banapa",
+              "name": "13 - BANAPA",
+              "registeredVoters": 196
+            },
+            {
+              "id": "alotau-makamaka-14-menapi",
+              "name": "14 - MENAPI",
+              "registeredVoters": 302
+            },
+            {
+              "id": "alotau-makamaka-15-pora",
+              "name": "15 - PORA",
+              "registeredVoters": 117
+            },
+            {
+              "id": "alotau-makamaka-16-abuaro",
+              "name": "16 - ABUARO",
+              "registeredVoters": 261
+            },
+            {
+              "id": "alotau-makamaka-17-giwa",
+              "name": "17 - GIWA",
+              "registeredVoters": 482
+            },
+            {
+              "id": "alotau-makamaka-18-koiyabagira",
+              "name": "18 - KOIYABAGIRA",
+              "registeredVoters": 297
+            },
+            {
+              "id": "alotau-makamaka-19-kwagila",
+              "name": "19 - KWAGILA",
+              "registeredVoters": 110
+            },
+            {
+              "id": "alotau-makamaka-20-biniguni",
+              "name": "20 - BINIGUNI",
+              "registeredVoters": 286
+            },
+            {
+              "id": "alotau-makamaka-21-wapon",
+              "name": "21 - WAPON",
+              "registeredVoters": 192
+            },
+            {
+              "id": "alotau-makamaka-22-borovia",
+              "name": "22 - BOROVIA",
+              "registeredVoters": 140
+            },
+            {
+              "id": "alotau-makamaka-23-pumani",
+              "name": "23 - PUMANI",
+              "registeredVoters": 362
+            },
+            {
+              "id": "alotau-makamaka-24-bemberi",
+              "name": "24 - BEMBERI",
+              "registeredVoters": 94
+            },
+            {
+              "id": "alotau-makamaka-25-gurukwaia",
+              "name": "25 - GURUKWAIA",
+              "registeredVoters": 219
+            },
+            {
+              "id": "alotau-makamaka-26-mapouna",
+              "name": "26 - MAPOUNA",
+              "registeredVoters": 169
+            }
+          ]
+        },
+        {
+          "id": "alotau-maramatana",
+          "name": "Maramatana LLG",
+          "electorateSlug": "alotau",
+          "wards": [
+            {
+              "id": "alotau-maramatana-1-lavora",
+              "name": "1 - LAVORA",
+              "registeredVoters": 224
+            },
+            {
+              "id": "alotau-maramatana-2-topura",
+              "name": "2 - TOPURA",
+              "registeredVoters": 312
+            },
+            {
+              "id": "alotau-maramatana-3-iapoa-no-1",
+              "name": "3 - IAPOA NO. 1",
+              "registeredVoters": 127
+            },
+            {
+              "id": "alotau-maramatana-4-wamawamana",
+              "name": "4 - WAMAWAMANA",
+              "registeredVoters": 325
+            },
+            {
+              "id": "alotau-maramatana-5-taupota",
+              "name": "5 - TAUPOTA",
+              "registeredVoters": 610
+            },
+            {
+              "id": "alotau-maramatana-6-garuahi",
+              "name": "6 - GARUAHI",
+              "registeredVoters": 382
+            },
+            {
+              "id": "alotau-maramatana-7-awaiama",
+              "name": "7 - AWAIAMA",
+              "registeredVoters": 463
+            },
+            {
+              "id": "alotau-maramatana-8-keia",
+              "name": "8 - KEIA",
+              "registeredVoters": 271
+            },
+            {
+              "id": "alotau-maramatana-9-iapoa-no-2",
+              "name": "9 - IAPOA NO. 2",
+              "registeredVoters": 437
+            },
+            {
+              "id": "alotau-maramatana-10-porotona",
+              "name": "10 - POROTONA",
+              "registeredVoters": 304
+            },
+            {
+              "id": "alotau-maramatana-11-huhuna",
+              "name": "11 - HUHUNA",
+              "registeredVoters": 601
+            },
+            {
+              "id": "alotau-maramatana-12-guga",
+              "name": "12 - GUGA",
+              "registeredVoters": 398
+            },
+            {
+              "id": "alotau-maramatana-13-wagohuhu",
+              "name": "13 - WAGOHUHU",
+              "registeredVoters": 391
+            },
+            {
+              "id": "alotau-maramatana-14-biwa",
+              "name": "14 - BIWA",
+              "registeredVoters": 190
+            },
+            {
+              "id": "alotau-maramatana-15-ronana",
+              "name": "15 - RONANA",
+              "registeredVoters": 447
+            },
+            {
+              "id": "alotau-maramatana-16-east-cape",
+              "name": "16 - EAST CAPE",
+              "registeredVoters": 369
+            },
+            {
+              "id": "alotau-maramatana-17-iabam-pahilele",
+              "name": "17 - IABAM/PAHILELE",
+              "registeredVoters": 74
+            },
+            {
+              "id": "alotau-maramatana-18-nuakata",
+              "name": "18 - NUAKATA",
+              "registeredVoters": 438
+            },
+            {
+              "id": "alotau-maramatana-19-ibulai",
+              "name": "19 - IBULAI",
+              "registeredVoters": 197
+            }
+          ]
+        },
+        {
+          "id": "alotau-suau",
+          "name": "Suau LLG",
+          "electorateSlug": "alotau",
+          "wards": [
+            {
+              "id": "alotau-suau-1-ilo-ilo",
+              "name": "1 - ILO’ILO",
+              "registeredVoters": 263
+            },
+            {
+              "id": "alotau-suau-2-bonarua",
+              "name": "2 - BONARUA",
+              "registeredVoters": 117
+            },
+            {
+              "id": "alotau-suau-3-baibaisiga",
+              "name": "3 - BAIBAISIGA",
+              "registeredVoters": 104
+            },
+            {
+              "id": "alotau-suau-4-modewa",
+              "name": "4 - MODEWA",
+              "registeredVoters": 185
+            },
+            {
+              "id": "alotau-suau-5-sibalai",
+              "name": "5 - SIBALAI",
+              "registeredVoters": 240
+            },
+            {
+              "id": "alotau-suau-6-suau-island",
+              "name": "6 - SUAU ISLAND",
+              "registeredVoters": 298
+            },
+            {
+              "id": "alotau-suau-7-ipulai",
+              "name": "7 - IPULAI",
+              "registeredVoters": 354
+            },
+            {
+              "id": "alotau-suau-8-savalala",
+              "name": "8 - SAVALALA",
+              "registeredVoters": 147
+            },
+            {
+              "id": "alotau-suau-9-navabu",
+              "name": "9 - NAVABU",
+              "registeredVoters": 319
+            },
+            {
+              "id": "alotau-suau-10-isuae",
+              "name": "10 - ISUAE",
+              "registeredVoters": 121
+            },
+            {
+              "id": "alotau-suau-11-oyamamania",
+              "name": "11 - OYAMAMANIA",
+              "registeredVoters": 140
+            },
+            {
+              "id": "alotau-suau-12-savaia",
+              "name": "12 - SAVAIA",
+              "registeredVoters": 177
+            },
+            {
+              "id": "alotau-suau-13-saga-aho",
+              "name": "13 - SAGA’AHO",
+              "registeredVoters": 286
+            },
+            {
+              "id": "alotau-suau-14-isu-isu",
+              "name": "14 - ISU’ISU",
+              "registeredVoters": 318
+            },
+            {
+              "id": "alotau-suau-15-isudau",
+              "name": "15 - ISUDAU",
+              "registeredVoters": 209
+            },
+            {
+              "id": "alotau-suau-16-sea-sea-north",
+              "name": "16 - SEA’SEA NORTH",
+              "registeredVoters": 275
+            },
+            {
+              "id": "alotau-suau-17-silosilo",
+              "name": "17 - SILOSILO",
+              "registeredVoters": 391
+            },
+            {
+              "id": "alotau-suau-18-kaukau",
+              "name": "18 - KAUKAU",
+              "registeredVoters": 209
+            },
+            {
+              "id": "alotau-suau-19-dahuni",
+              "name": "19 - DAHUNI",
+              "registeredVoters": 480
+            },
+            {
+              "id": "alotau-suau-20-lei-leiafa",
+              "name": "20 - LEI’LEIAFA",
+              "registeredVoters": 240
+            },
+            {
+              "id": "alotau-suau-21-bonabona-island",
+              "name": "21 - BONABONA ISLAND",
+              "registeredVoters": 148
+            },
+            {
+              "id": "alotau-suau-22-boilave",
+              "name": "22 - BOILAVE",
+              "registeredVoters": 748
+            },
+            {
+              "id": "alotau-suau-23-suieabina",
+              "name": "23 - SUIEABINA",
+              "registeredVoters": 385
+            },
+            {
+              "id": "alotau-suau-24-gadaisu",
+              "name": "24 - GADAISU",
+              "registeredVoters": 295
+            },
+            {
+              "id": "alotau-suau-25-wadauda",
+              "name": "25 - WADAUDA",
+              "registeredVoters": 212
+            },
+            {
+              "id": "alotau-suau-26-sea-sea-south",
+              "name": "26 - SEA’SEA SOUTH",
+              "registeredVoters": 158
+            },
+            {
+              "id": "alotau-suau-27-isudiudiu",
+              "name": "27 - ISUDIUDIU",
+              "registeredVoters": 169
+            },
+            {
+              "id": "alotau-suau-28-koukou",
+              "name": "28 - KOUKOU",
+              "registeredVoters": 155
+            }
+          ]
+        },
+        {
+          "id": "alotau-weraura",
+          "name": "Weraura LLG",
+          "electorateSlug": "alotau",
+          "wards": [
+            {
+              "id": "alotau-weraura-1-divari",
+              "name": "1 - DIVARI",
+              "registeredVoters": 236
+            },
+            {
+              "id": "alotau-weraura-2-rumaruma",
+              "name": "2 - RUMARUMA",
+              "registeredVoters": 363
+            },
+            {
+              "id": "alotau-weraura-3-wedau",
+              "name": "3 - WEDAU",
+              "registeredVoters": 406
+            },
+            {
+              "id": "alotau-weraura-4-manubada",
+              "name": "4 - MANUBADA",
+              "registeredVoters": 397
+            },
+            {
+              "id": "alotau-weraura-5-vidia",
+              "name": "5 - VIDIA",
+              "registeredVoters": 340
+            },
+            {
+              "id": "alotau-weraura-6-radava",
+              "name": "6 - RADAVA",
+              "registeredVoters": 534
+            },
+            {
+              "id": "alotau-weraura-7-wodobuna",
+              "name": "7 - WODOBUNA",
+              "registeredVoters": 404
+            },
+            {
+              "id": "alotau-weraura-8-kwabunaki",
+              "name": "8 - KWABUNAKI",
+              "registeredVoters": 138
+            },
+            {
+              "id": "alotau-weraura-9-gadoa",
+              "name": "9 - GADOA",
+              "registeredVoters": 186
+            },
+            {
+              "id": "alotau-weraura-10-nakara",
+              "name": "10 - NAKARA",
+              "registeredVoters": 425
+            },
+            {
+              "id": "alotau-weraura-11-awawa",
+              "name": "11 - AWAWA",
+              "registeredVoters": 238
+            },
+            {
+              "id": "alotau-weraura-12-uga",
+              "name": "12 - UGA",
+              "registeredVoters": 228
+            },
+            {
+              "id": "alotau-weraura-13-augwana",
+              "name": "13 - AUGWANA",
+              "registeredVoters": 74
+            },
+            {
+              "id": "alotau-weraura-14-sirisiri",
+              "name": "14 - SIRISIRI",
+              "registeredVoters": 367
+            },
+            {
+              "id": "alotau-weraura-15-taramugu",
+              "name": "15 - TARAMUGU",
+              "registeredVoters": 165
+            },
+            {
+              "id": "alotau-weraura-16-ikara",
+              "name": "16 - IKARA",
+              "registeredVoters": 340
+            },
+            {
+              "id": "alotau-weraura-17-taubadi",
+              "name": "17 - TAUBADI",
+              "registeredVoters": 451
+            },
+            {
+              "id": "alotau-weraura-18-bidiesi",
+              "name": "18 - BIDIESI",
+              "registeredVoters": 260
+            },
+            {
+              "id": "alotau-weraura-19-dombosaina",
+              "name": "19 - DOMBOSAINA",
+              "registeredVoters": 354
+            },
+            {
+              "id": "alotau-weraura-20-warawadidi",
+              "name": "20 - WARAWADIDI",
+              "registeredVoters": 228
+            },
+            {
+              "id": "alotau-weraura-21-bowadi",
+              "name": "21 - BOWADI",
+              "registeredVoters": 184
+            },
+            {
+              "id": "alotau-weraura-22-danobu",
+              "name": "22 - DANOBU",
+              "registeredVoters": 218
+            },
+            {
+              "id": "alotau-weraura-23-karagautu",
+              "name": "23 - KARAGAUTU",
+              "registeredVoters": 310
+            },
+            {
+              "id": "alotau-weraura-24-boiaboia",
+              "name": "24 - BOIABOIA",
+              "registeredVoters": 338
+            },
+            {
+              "id": "alotau-weraura-25-wanama",
+              "name": "25 - WANAMA",
+              "registeredVoters": 367
+            },
+            {
+              "id": "alotau-weraura-26-gadovisu",
+              "name": "26 - GADOVISU",
+              "registeredVoters": 287
+            },
+            {
+              "id": "alotau-weraura-27-didia",
+              "name": "27 - DIDIA",
+              "registeredVoters": 268
+            },
+            {
+              "id": "alotau-weraura-28-mainawa",
+              "name": "28 - MAINAWA",
+              "registeredVoters": 154
+            },
+            {
+              "id": "alotau-weraura-29-pova",
+              "name": "29 - POVA",
+              "registeredVoters": 251
+            },
+            {
+              "id": "alotau-weraura-30-damayadona",
+              "name": "30 - DAMAYADONA",
+              "registeredVoters": 270
             }
           ]
         }
@@ -123,123 +839,321 @@
       "electorateSlug": "kiriwina-goodenough",
       "llgs": [
         {
+          "id": "kiriwina-goodenough-goodenough",
+          "name": "Goodenough LLG",
+          "electorateSlug": "kiriwina-goodenough",
+          "wards": [
+            {
+              "id": "kiriwina-goodenough-goodenough-1-waibula",
+              "name": "1 - WAIBULA",
+              "registeredVoters": 203
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-2-ufaufa",
+              "name": "2 - UFAUFA",
+              "registeredVoters": 832
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-3-watuluma-south-upper",
+              "name": "3 - WATULUMA SOUTH (UPPER)",
+              "registeredVoters": 395
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-4-watuluma-north-lower",
+              "name": "4 - WATULUMA NORTH (LOWER)",
+              "registeredVoters": 346
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-5-idakamenai",
+              "name": "5 - IDAKAMENAI",
+              "registeredVoters": 510
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-6-ulutuya",
+              "name": "6 - ULUTUYA",
+              "registeredVoters": 767
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-7-wakonai",
+              "name": "7 - WAKONAI",
+              "registeredVoters": 406
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-8-vivigani",
+              "name": "8 - VIVIGANI",
+              "registeredVoters": 677
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-9-eweli",
+              "name": "9 - EWELI",
+              "registeredVoters": 580
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-10-kalauna",
+              "name": "10 - KALAUNA",
+              "registeredVoters": 784
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-11-belebele",
+              "name": "11 - BELEBELE",
+              "registeredVoters": 623
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-12-mataita-east",
+              "name": "12 - MATAITA EAST",
+              "registeredVoters": 319
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-13-mataita-west",
+              "name": "13 - MATAITA WEST",
+              "registeredVoters": 1139
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-14-faiava",
+              "name": "14 - FAIAVA",
+              "registeredVoters": 707
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-15-ufu-ufu",
+              "name": "15 - UFU'UFU",
+              "registeredVoters": 694
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-16-bwaidoga-east",
+              "name": "16 - BWAIDOGA EAST",
+              "registeredVoters": 1191
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-17-bwaidoga-west",
+              "name": "17 - BWAIDOGA WEST",
+              "registeredVoters": 501
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-18-wagifa",
+              "name": "18 - WAGIFA",
+              "registeredVoters": 696
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-19-abolu",
+              "name": "19 - ABOLU",
+              "registeredVoters": 695
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-20-kilia",
+              "name": "20 - KILIA",
+              "registeredVoters": 950
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-21-iauwela",
+              "name": "21 - IAUWELA",
+              "registeredVoters": 675
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-22-awale",
+              "name": "22 - AWALE",
+              "registeredVoters": 370
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-23-utalo",
+              "name": "23 - UTALO",
+              "registeredVoters": 645
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-24-diodio",
+              "name": "24 - DIODIO",
+              "registeredVoters": 862
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-25-yauyaula",
+              "name": "25 - YAUYAULA",
+              "registeredVoters": 221
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-26-awaya-bolubolu",
+              "name": "26 - AWAYA/BOLUBOLU",
+              "registeredVoters": 322
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-27-ibwama",
+              "name": "27 - IBWAMA",
+              "registeredVoters": 349
+            },
+            {
+              "id": "kiriwina-goodenough-goodenough-28-kalimtabutabu",
+              "name": "28 - KALIMTABUTABU",
+              "registeredVoters": 499
+            }
+          ]
+        },
+        {
           "id": "kiriwina-goodenough-kiriwina",
           "name": "Kiriwina LLG",
           "electorateSlug": "kiriwina-goodenough",
           "wards": [
             {
-              "id": "kiriwina-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1963
+              "id": "kiriwina-goodenough-kiriwina-1-dayagila",
+              "name": "1 - DAYAGILA",
+              "registeredVoters": 339
             },
             {
-              "id": "kiriwina-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1418
+              "id": "kiriwina-goodenough-kiriwina-2-kabwaku",
+              "name": "2 - KABWAKU",
+              "registeredVoters": 688
             },
             {
-              "id": "kiriwina-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2826
+              "id": "kiriwina-goodenough-kiriwina-3-kaibola",
+              "name": "3 - KAIBOLA",
+              "registeredVoters": 554
             },
             {
-              "id": "kiriwina-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1663
+              "id": "kiriwina-goodenough-kiriwina-4-kuruvitu",
+              "name": "4 - KURUVITU",
+              "registeredVoters": 721
             },
             {
-              "id": "kiriwina-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1785
+              "id": "kiriwina-goodenough-kiriwina-5-kwebwaga",
+              "name": "5 - KWEBWAGA",
+              "registeredVoters": 608
             },
             {
-              "id": "kiriwina-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2483
+              "id": "kiriwina-goodenough-kiriwina-6-mwatawa",
+              "name": "6 - MWATAWA",
+              "registeredVoters": 689
             },
             {
-              "id": "kiriwina-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2105
+              "id": "kiriwina-goodenough-kiriwina-7-omarakana",
+              "name": "7 - OMARAKANA",
+              "registeredVoters": 874
             },
             {
-              "id": "kiriwina-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1773
-            }
-          ]
-        },
-        {
-          "id": "kiriwina-goodenough-goodenough-island",
-          "name": "Goodenough Island LLG",
-          "electorateSlug": "kiriwina-goodenough",
-          "wards": [
-            {
-              "id": "goodenough-island-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1947
+              "id": "kiriwina-goodenough-kiriwina-8-okaikoda",
+              "name": "8 - OKAIKODA",
+              "registeredVoters": 696
             },
             {
-              "id": "goodenough-island-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1721
+              "id": "kiriwina-goodenough-kiriwina-9-liluta",
+              "name": "9 - LILUTA",
+              "registeredVoters": 1330
             },
             {
-              "id": "goodenough-island-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3305
+              "id": "kiriwina-goodenough-kiriwina-10-tubowada",
+              "name": "10 - TUBOWADA",
+              "registeredVoters": 710
             },
             {
-              "id": "goodenough-island-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3039
+              "id": "kiriwina-goodenough-kiriwina-11-koma",
+              "name": "11 - KOMA",
+              "registeredVoters": 848
             },
             {
-              "id": "goodenough-island-w05",
-              "name": "Ward 5",
-              "registeredVoters": 3006
+              "id": "kiriwina-goodenough-kiriwina-12-kaduwaga",
+              "name": "12 - KADUWAGA",
+              "registeredVoters": 909
             },
             {
-              "id": "goodenough-island-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2642
-            }
-          ]
-        },
-        {
-          "id": "kiriwina-goodenough-losuia",
-          "name": "Losuia LLG",
-          "electorateSlug": "kiriwina-goodenough",
-          "wards": [
-            {
-              "id": "losuia-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3627
+              "id": "kiriwina-goodenough-kiriwina-13-simsimla",
+              "name": "13 - SIMSIMLA",
+              "registeredVoters": 217
             },
             {
-              "id": "losuia-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2897
+              "id": "kiriwina-goodenough-kiriwina-14-wabutuma",
+              "name": "14 - WABUTUMA",
+              "registeredVoters": 519
             },
             {
-              "id": "losuia-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1765
+              "id": "kiriwina-goodenough-kiriwina-15-yalaka",
+              "name": "15 - YALAKA",
+              "registeredVoters": 740
             },
             {
-              "id": "losuia-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1578
+              "id": "kiriwina-goodenough-kiriwina-16-gumilababa",
+              "name": "16 - GUMILABABA",
+              "registeredVoters": 1342
             },
             {
-              "id": "losuia-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2524
+              "id": "kiriwina-goodenough-kiriwina-17-ilalilma",
+              "name": "17 - ILALILMA",
+              "registeredVoters": 693
             },
             {
-              "id": "losuia-w06",
-              "name": "Ward 6",
-              "registeredVoters": 3543
+              "id": "kiriwina-goodenough-kiriwina-18-kapwapu",
+              "name": "18 - KAPWAPU",
+              "registeredVoters": 474
+            },
+            {
+              "id": "kiriwina-goodenough-kiriwina-19-kavataria",
+              "name": "19 - KAVATARIA",
+              "registeredVoters": 968
+            },
+            {
+              "id": "kiriwina-goodenough-kiriwina-20-mulosaida",
+              "name": "20 - MULOSAIDA",
+              "registeredVoters": 602
+            },
+            {
+              "id": "kiriwina-goodenough-kiriwina-21-obulaku",
+              "name": "21 - OBULAKU",
+              "registeredVoters": 556
+            },
+            {
+              "id": "kiriwina-goodenough-kiriwina-22-oyuveyova",
+              "name": "22 - OYUVEYOVA",
+              "registeredVoters": 601
+            },
+            {
+              "id": "kiriwina-goodenough-kiriwina-23-okaiboma",
+              "name": "23 - OKAIBOMA",
+              "registeredVoters": 964
+            },
+            {
+              "id": "kiriwina-goodenough-kiriwina-24-tukwaukwa",
+              "name": "24 - TUKWAUKWA",
+              "registeredVoters": 773
+            },
+            {
+              "id": "kiriwina-goodenough-kiriwina-25-bwetalu",
+              "name": "25 - BWETALU",
+              "registeredVoters": 906
+            },
+            {
+              "id": "kiriwina-goodenough-kiriwina-26-sinaketa",
+              "name": "26 - SINAKETA",
+              "registeredVoters": 710
+            },
+            {
+              "id": "kiriwina-goodenough-kiriwina-27-vakuta",
+              "name": "27 - VAKUTA",
+              "registeredVoters": 939
+            },
+            {
+              "id": "kiriwina-goodenough-kiriwina-28-loya",
+              "name": "28 - LOYA",
+              "registeredVoters": 620
+            },
+            {
+              "id": "kiriwina-goodenough-kiriwina-29-kwumwagea",
+              "name": "29 - KWUMWAGEA",
+              "registeredVoters": 438
+            },
+            {
+              "id": "kiriwina-goodenough-kiriwina-30-lalela",
+              "name": "30 - LALELA",
+              "registeredVoters": 699
+            },
+            {
+              "id": "kiriwina-goodenough-kiriwina-31-okabulula",
+              "name": "31 - OKABULULA",
+              "registeredVoters": 1135
+            },
+            {
+              "id": "kiriwina-goodenough-kiriwina-32-kuyawa",
+              "name": "32 - KUYAWA",
+              "registeredVoters": 448
+            },
+            {
+              "id": "kiriwina-goodenough-kiriwina-33-yalumgwa",
+              "name": "33 - YALUMGWA",
+              "registeredVoters": 989
             }
           ]
         }
@@ -249,44 +1163,291 @@
       "electorateSlug": "samarai-murua",
       "llgs": [
         {
-          "id": "samarai-murua-samarai",
-          "name": "Samarai LLG",
+          "id": "samarai-murua-bwanabwana",
+          "name": "Bwanabwana LLG",
           "electorateSlug": "samarai-murua",
           "wards": [
             {
-              "id": "samarai-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1573
+              "id": "samarai-murua-bwanabwana-1-hamama",
+              "name": "1 - HAMAMA",
+              "registeredVoters": 475
             },
             {
-              "id": "samarai-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1584
+              "id": "samarai-murua-bwanabwana-2-loani",
+              "name": "2 - LOANI",
+              "registeredVoters": 257
             },
             {
-              "id": "samarai-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1712
+              "id": "samarai-murua-bwanabwana-3-logea",
+              "name": "3 - LOGEA",
+              "registeredVoters": 508
             },
             {
-              "id": "samarai-w04",
-              "name": "Ward 4",
-              "registeredVoters": 944
+              "id": "samarai-murua-bwanabwana-4-kwato",
+              "name": "4 - KWATO",
+              "registeredVoters": 220
             },
             {
-              "id": "samarai-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1458
+              "id": "samarai-murua-bwanabwana-5-tegorauan",
+              "name": "5 - TEGORAUAN",
+              "registeredVoters": 355
             },
             {
-              "id": "samarai-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1012
+              "id": "samarai-murua-bwanabwana-6-gotai",
+              "name": "6 - GOTAI",
+              "registeredVoters": 363
             },
             {
-              "id": "samarai-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1739
+              "id": "samarai-murua-bwanabwana-7-dawson",
+              "name": "7 - DAWSON",
+              "registeredVoters": 170
+            },
+            {
+              "id": "samarai-murua-bwanabwana-8-samarai-east",
+              "name": "8 - SAMARAI EAST",
+              "registeredVoters": 61
+            },
+            {
+              "id": "samarai-murua-bwanabwana-9-kwaraiwa",
+              "name": "9 - KWARAIWA",
+              "registeredVoters": 290
+            },
+            {
+              "id": "samarai-murua-bwanabwana-10-sawasawaga",
+              "name": "10 - SAWASAWAGA",
+              "registeredVoters": 359
+            },
+            {
+              "id": "samarai-murua-bwanabwana-11-anagusa",
+              "name": "11 - ANAGUSA",
+              "registeredVoters": 174
+            },
+            {
+              "id": "samarai-murua-bwanabwana-12-samarai-north",
+              "name": "12 - SAMARAI NORTH",
+              "registeredVoters": 78
+            },
+            {
+              "id": "samarai-murua-bwanabwana-13-tubetube",
+              "name": "13 - TUBETUBE",
+              "registeredVoters": 331
+            },
+            {
+              "id": "samarai-murua-bwanabwana-14-yokowa",
+              "name": "14 - YOKOWA",
+              "registeredVoters": 167
+            },
+            {
+              "id": "samarai-murua-bwanabwana-15-gigia",
+              "name": "15 - GIGIA",
+              "registeredVoters": 195
+            },
+            {
+              "id": "samarai-murua-bwanabwana-16-habani",
+              "name": "16 - HABANI",
+              "registeredVoters": 197
+            },
+            {
+              "id": "samarai-murua-bwanabwana-17-simagahi",
+              "name": "17 - SIMAGAHI",
+              "registeredVoters": 252
+            },
+            {
+              "id": "samarai-murua-bwanabwana-18-ware",
+              "name": "18 - WARE",
+              "registeredVoters": 609
+            },
+            {
+              "id": "samarai-murua-bwanabwana-19-bedauna",
+              "name": "19 - BEDAUNA",
+              "registeredVoters": 279
+            },
+            {
+              "id": "samarai-murua-bwanabwana-20-sidea",
+              "name": "20 - SIDEA",
+              "registeredVoters": 34
+            },
+            {
+              "id": "samarai-murua-bwanabwana-21-kuiaro",
+              "name": "21 - KUIARO",
+              "registeredVoters": 200
+            },
+            {
+              "id": "samarai-murua-bwanabwana-22-sekuku",
+              "name": "22 - SEKUKU",
+              "registeredVoters": 152
+            },
+            {
+              "id": "samarai-murua-bwanabwana-23-sidudu",
+              "name": "23 - SIDUDU",
+              "registeredVoters": 797
+            }
+          ]
+        },
+        {
+          "id": "samarai-murua-louisade",
+          "name": "Louisade LLG",
+          "electorateSlug": "samarai-murua",
+          "wards": [
+            {
+              "id": "samarai-murua-louisade-1-mwabua",
+              "name": "1 - MWABUA",
+              "registeredVoters": 481
+            },
+            {
+              "id": "samarai-murua-louisade-2-narian",
+              "name": "2 - NARIAN",
+              "registeredVoters": 608
+            },
+            {
+              "id": "samarai-murua-louisade-3-bwagaoia",
+              "name": "3 - BWAGAOIA",
+              "registeredVoters": 538
+            },
+            {
+              "id": "samarai-murua-louisade-4-hinauta",
+              "name": "4 - HINAUTA",
+              "registeredVoters": 418
+            },
+            {
+              "id": "samarai-murua-louisade-5-kaubwaga",
+              "name": "5 - KAUBWAGA",
+              "registeredVoters": 520
+            },
+            {
+              "id": "samarai-murua-louisade-6-boiou",
+              "name": "6 - BOIOU",
+              "registeredVoters": 504
+            },
+            {
+              "id": "samarai-murua-louisade-7-siagara-east",
+              "name": "7 - SIAGARA EAST",
+              "registeredVoters": 476
+            },
+            {
+              "id": "samarai-murua-louisade-8-siagara-west",
+              "name": "8 - SIAGARA WEST",
+              "registeredVoters": 695
+            },
+            {
+              "id": "samarai-murua-louisade-9-gulewa",
+              "name": "9 - GULEWA",
+              "registeredVoters": 670
+            },
+            {
+              "id": "samarai-murua-louisade-10-east-liak",
+              "name": "10 - EAST LIAK",
+              "registeredVoters": 507
+            },
+            {
+              "id": "samarai-murua-louisade-11-west-liak",
+              "name": "11 - WEST LIAK",
+              "registeredVoters": 474
+            },
+            {
+              "id": "samarai-murua-louisade-12-bagilina",
+              "name": "12 - BAGILINA",
+              "registeredVoters": 815
+            },
+            {
+              "id": "samarai-murua-louisade-13-ewena",
+              "name": "13 - EWENA",
+              "registeredVoters": 348
+            },
+            {
+              "id": "samarai-murua-louisade-14-ebora",
+              "name": "14 - EBORA",
+              "registeredVoters": 484
+            },
+            {
+              "id": "samarai-murua-louisade-15-bwagabwaga",
+              "name": "15 - BWAGABWAGA",
+              "registeredVoters": 362
+            },
+            {
+              "id": "samarai-murua-louisade-16-awaibi",
+              "name": "16 - AWAIBI",
+              "registeredVoters": 541
+            },
+            {
+              "id": "samarai-murua-louisade-17-alhoga",
+              "name": "17 - ALHOGA",
+              "registeredVoters": 384
+            },
+            {
+              "id": "samarai-murua-louisade-18-eiaus-north",
+              "name": "18 - EIAUS NORTH",
+              "registeredVoters": 492
+            },
+            {
+              "id": "samarai-murua-louisade-19-eiaus-south",
+              "name": "19 - EIAUS SOUTH",
+              "registeredVoters": 809
+            },
+            {
+              "id": "samarai-murua-louisade-20-gaibobo",
+              "name": "20 - GAIBOBO",
+              "registeredVoters": 551
+            },
+            {
+              "id": "samarai-murua-louisade-21-kimuta",
+              "name": "21 - KIMUTA",
+              "registeredVoters": 442
+            },
+            {
+              "id": "samarai-murua-louisade-22-west-panaeati",
+              "name": "22 - WEST PANAEATI",
+              "registeredVoters": 613
+            },
+            {
+              "id": "samarai-murua-louisade-23-east-panaeati",
+              "name": "23 - EAST PANAEATI",
+              "registeredVoters": 618
+            },
+            {
+              "id": "samarai-murua-louisade-24-panapompom",
+              "name": "24 - PANAPOMPOM",
+              "registeredVoters": 419
+            },
+            {
+              "id": "samarai-murua-louisade-25-brooker",
+              "name": "25 - BROOKER",
+              "registeredVoters": 392
+            },
+            {
+              "id": "samarai-murua-louisade-26-motorina-east",
+              "name": "26 - MOTORINA EAST",
+              "registeredVoters": 147
+            },
+            {
+              "id": "samarai-murua-louisade-27-motorina-west",
+              "name": "27 - MOTORINA WEST",
+              "registeredVoters": 176
+            },
+            {
+              "id": "samarai-murua-louisade-28-bagaman",
+              "name": "28 - BAGAMAN",
+              "registeredVoters": 208
+            },
+            {
+              "id": "samarai-murua-louisade-29-panaumala",
+              "name": "29 - PANAUMALA",
+              "registeredVoters": 281
+            },
+            {
+              "id": "samarai-murua-louisade-30-baimatana",
+              "name": "30 - BAIMATANA",
+              "registeredVoters": 191
+            },
+            {
+              "id": "samarai-murua-louisade-31-loba",
+              "name": "31 - LOBA",
+              "registeredVoters": 293
+            },
+            {
+              "id": "samarai-murua-louisade-32-bwana",
+              "name": "32 - BWANA",
+              "registeredVoters": 134
             }
           ]
         },
@@ -296,128 +1457,181 @@
           "electorateSlug": "samarai-murua",
           "wards": [
             {
-              "id": "murua-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2985
+              "id": "samarai-murua-murua-1-kulumadau",
+              "name": "1 - KULUMADAU",
+              "registeredVoters": 437
             },
             {
-              "id": "murua-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1785
+              "id": "samarai-murua-murua-2-guasopa",
+              "name": "2 - GUASOPA",
+              "registeredVoters": 464
             },
             {
-              "id": "murua-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3055
+              "id": "samarai-murua-murua-3-wabunuma",
+              "name": "3 - WABUNUMA",
+              "registeredVoters": 435
             },
             {
-              "id": "murua-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3573
+              "id": "samarai-murua-murua-4-kavatana",
+              "name": "4 - KAVATANA",
+              "registeredVoters": 316
+            },
+            {
+              "id": "samarai-murua-murua-5-kaurai",
+              "name": "5 - KAURAI",
+              "registeredVoters": 283
+            },
+            {
+              "id": "samarai-murua-murua-6-iwa",
+              "name": "6 - IWA",
+              "registeredVoters": 513
+            },
+            {
+              "id": "samarai-murua-murua-7-unumatana",
+              "name": "7 - UNUMATANA",
+              "registeredVoters": 293
+            },
+            {
+              "id": "samarai-murua-murua-8-budibudi",
+              "name": "8 - BUDIBUDI",
+              "registeredVoters": 152
+            },
+            {
+              "id": "samarai-murua-murua-9-yanaba",
+              "name": "9 - YANABA",
+              "registeredVoters": 224
+            },
+            {
+              "id": "samarai-murua-murua-10-gawa",
+              "name": "10 - GAWA",
+              "registeredVoters": 673
+            },
+            {
+              "id": "samarai-murua-murua-11-kauwai",
+              "name": "11 - KAUWAI",
+              "registeredVoters": 283
+            },
+            {
+              "id": "samarai-murua-murua-12-madau",
+              "name": "12 - MADAU",
+              "registeredVoters": 361
+            },
+            {
+              "id": "samarai-murua-murua-13-dikoiasi",
+              "name": "13 - DIKOIASI",
+              "registeredVoters": 176
+            },
+            {
+              "id": "samarai-murua-murua-14-kwaiwata",
+              "name": "14 - KWAIWATA",
+              "registeredVoters": 275
+            },
+            {
+              "id": "samarai-murua-murua-15-muneiyova",
+              "name": "15 - MUNEIYOVA",
+              "registeredVoters": 211
+            },
+            {
+              "id": "samarai-murua-murua-16-oyavata",
+              "name": "16 - OYAVATA",
+              "registeredVoters": 106
+            },
+            {
+              "id": "samarai-murua-murua-17-alcester",
+              "name": "17 - ALCESTER",
+              "registeredVoters": 107
             }
           ]
         },
         {
-          "id": "samarai-murua-misima",
-          "name": "Misima LLG",
+          "id": "samarai-murua-yaleyemba",
+          "name": "Yaleyemba LLG",
           "electorateSlug": "samarai-murua",
           "wards": [
             {
-              "id": "misima-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1774
+              "id": "samarai-murua-yaleyemba-1-sabara",
+              "name": "1 - SABARA",
+              "registeredVoters": 677
             },
             {
-              "id": "misima-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1658
+              "id": "samarai-murua-yaleyemba-2-grass-island",
+              "name": "2 - GRASS ISLAND",
+              "registeredVoters": 575
             },
             {
-              "id": "misima-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1225
+              "id": "samarai-murua-yaleyemba-3-joanett-island",
+              "name": "3 - JOANETT ISLAND",
+              "registeredVoters": 431
             },
             {
-              "id": "misima-w04",
-              "name": "Ward 4",
-              "registeredVoters": 782
+              "id": "samarai-murua-yaleyemba-4-western-point",
+              "name": "4 - WESTERN POINT",
+              "registeredVoters": 276
             },
             {
-              "id": "misima-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1503
+              "id": "samarai-murua-yaleyemba-5-griffin-point",
+              "name": "5 - GRIFFIN POINT",
+              "registeredVoters": 400
             },
             {
-              "id": "misima-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1089
+              "id": "samarai-murua-yaleyemba-6-rambuso",
+              "name": "6 - RAMBUSO",
+              "registeredVoters": 452
             },
             {
-              "id": "misima-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1120
+              "id": "samarai-murua-yaleyemba-7-rehuwo",
+              "name": "7 - REHUWO",
+              "registeredVoters": 421
             },
             {
-              "id": "misima-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1138
-            }
-          ]
-        },
-        {
-          "id": "samarai-murua-woodlark",
-          "name": "Woodlark LLG",
-          "electorateSlug": "samarai-murua",
-          "wards": [
-            {
-              "id": "woodlark-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1183
+              "id": "samarai-murua-yaleyemba-8-madawa",
+              "name": "8 - MADAWA",
+              "registeredVoters": 205
             },
             {
-              "id": "woodlark-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1133
+              "id": "samarai-murua-yaleyemba-9-jelewaga",
+              "name": "9 - JELEWAGA",
+              "registeredVoters": 186
             },
             {
-              "id": "woodlark-w03",
-              "name": "Ward 3",
-              "registeredVoters": 972
+              "id": "samarai-murua-yaleyemba-10-damunu",
+              "name": "10 - DAMUNU",
+              "registeredVoters": 487
             },
             {
-              "id": "woodlark-w04",
-              "name": "Ward 4",
-              "registeredVoters": 880
+              "id": "samarai-murua-yaleyemba-11-morpa",
+              "name": "11 - MORPA",
+              "registeredVoters": 482
             },
             {
-              "id": "woodlark-w05",
-              "name": "Ward 5",
-              "registeredVoters": 929
+              "id": "samarai-murua-yaleyemba-12-wulanga-bay",
+              "name": "12 - WULANGA BAY",
+              "registeredVoters": 412
             },
             {
-              "id": "woodlark-w06",
-              "name": "Ward 6",
-              "registeredVoters": 866
+              "id": "samarai-murua-yaleyemba-13-jinjo",
+              "name": "13 - JINJO",
+              "registeredVoters": 620
             },
             {
-              "id": "woodlark-w07",
-              "name": "Ward 7",
-              "registeredVoters": 923
+              "id": "samarai-murua-yaleyemba-14-abeleti",
+              "name": "14 - ABELETI",
+              "registeredVoters": 419
             },
             {
-              "id": "woodlark-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1450
+              "id": "samarai-murua-yaleyemba-15-n-jaru",
+              "name": "15 - N’JARU",
+              "registeredVoters": 393
             },
             {
-              "id": "woodlark-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1047
+              "id": "samarai-murua-yaleyemba-16-buwo",
+              "name": "16 - BUWO",
+              "registeredVoters": 252
             },
             {
-              "id": "woodlark-w10",
-              "name": "Ward 10",
-              "registeredVoters": 1492
+              "id": "samarai-murua-yaleyemba-17-pambwa-saman",
+              "name": "17 - PAMBWA/SAMAN",
+              "registeredVoters": 471
             }
           ]
         }
@@ -427,81 +1641,114 @@
       "electorateSlug": "esa-ala",
       "llgs": [
         {
-          "id": "esa-ala-esa-ala",
-          "name": "Esa'ala LLG",
-          "electorateSlug": "esa-ala",
-          "wards": [
-            {
-              "id": "esa-ala-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3219
-            },
-            {
-              "id": "esa-ala-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1425
-            },
-            {
-              "id": "esa-ala-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3243
-            },
-            {
-              "id": "esa-ala-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2180
-            },
-            {
-              "id": "esa-ala-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2380
-            },
-            {
-              "id": "esa-ala-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2149
-            }
-          ]
-        },
-        {
           "id": "esa-ala-dobu",
           "name": "Dobu LLG",
           "electorateSlug": "esa-ala",
           "wards": [
             {
-              "id": "dobu-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1779
+              "id": "esa-ala-dobu-1-kenaia",
+              "name": "1 - KENAIA",
+              "registeredVoters": 478
             },
             {
-              "id": "dobu-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2208
+              "id": "esa-ala-dobu-2-buduwagula",
+              "name": "2 - BUDUWAGULA",
+              "registeredVoters": 488
             },
             {
-              "id": "dobu-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1313
+              "id": "esa-ala-dobu-3-nade",
+              "name": "3 - NADE",
+              "registeredVoters": 431
             },
             {
-              "id": "dobu-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1530
+              "id": "esa-ala-dobu-4-siulugu",
+              "name": "4 - SIULUGU",
+              "registeredVoters": 391
             },
             {
-              "id": "dobu-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1948
+              "id": "esa-ala-dobu-5-kwalaitoya",
+              "name": "5 - KWALAITOYA",
+              "registeredVoters": 83
             },
             {
-              "id": "dobu-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2062
+              "id": "esa-ala-dobu-6-wesoiliwe",
+              "name": "6 - WESOILIWE",
+              "registeredVoters": 35
             },
             {
-              "id": "dobu-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2481
+              "id": "esa-ala-dobu-7-galubwa",
+              "name": "7 - GALUBWA",
+              "registeredVoters": 522
+            },
+            {
+              "id": "esa-ala-dobu-8-neboluwa",
+              "name": "8 - NEBOLUWA",
+              "registeredVoters": 230
+            },
+            {
+              "id": "esa-ala-dobu-9-salamo",
+              "name": "9 - SALAMO",
+              "registeredVoters": 243
+            },
+            {
+              "id": "esa-ala-dobu-10-gomwa",
+              "name": "10 - GOMWA",
+              "registeredVoters": 352
+            },
+            {
+              "id": "esa-ala-dobu-11-begasi",
+              "name": "11 - BEGASI",
+              "registeredVoters": 227
+            },
+            {
+              "id": "esa-ala-dobu-12-du-una",
+              "name": "12 - DU’UNA",
+              "registeredVoters": 144
+            },
+            {
+              "id": "esa-ala-dobu-13-daguiara",
+              "name": "13 - DAGUIARA",
+              "registeredVoters": 348
+            },
+            {
+              "id": "esa-ala-dobu-14-deidei",
+              "name": "14 - DEIDEI",
+              "registeredVoters": 291
+            },
+            {
+              "id": "esa-ala-dobu-15-bwaiowa",
+              "name": "15 - BWAIOWA",
+              "registeredVoters": 353
+            },
+            {
+              "id": "esa-ala-dobu-16-sawaedi",
+              "name": "16 - SAWAEDI",
+              "registeredVoters": 463
+            },
+            {
+              "id": "esa-ala-dobu-17-waluma-east",
+              "name": "17 - WALUMA EAST",
+              "registeredVoters": 219
+            },
+            {
+              "id": "esa-ala-dobu-18-waluma-west",
+              "name": "18 - WALUMA WEST",
+              "registeredVoters": 421
+            },
+            {
+              "id": "esa-ala-dobu-19-sebutuya",
+              "name": "19 - SEBUTUYA",
+              "registeredVoters": 515
+            },
+            {
+              "id": "esa-ala-dobu-20-momoawa",
+              "name": "20 - MOMOAWA",
+              "registeredVoters": 142
+            },
+            {
+              "id": "esa-ala-dobu-21-sanaroa",
+              "name": "21 - SANAROA",
+              "registeredVoters": 516
             }
           ]
         },
@@ -511,39 +1758,440 @@
           "electorateSlug": "esa-ala",
           "wards": [
             {
-              "id": "duau-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1484
+              "id": "esa-ala-duau-1-mwatebu",
+              "name": "1 - MWATEBU",
+              "registeredVoters": 334
             },
             {
-              "id": "duau-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1380
+              "id": "esa-ala-duau-2-sawatupwa",
+              "name": "2 - SAWATUPWA",
+              "registeredVoters": 499
             },
             {
-              "id": "duau-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2021
+              "id": "esa-ala-duau-3-kelologea",
+              "name": "3 - KELOLOGEA",
+              "registeredVoters": 558
             },
             {
-              "id": "duau-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1675
+              "id": "esa-ala-duau-4-meudana",
+              "name": "4 - MEUDANA",
+              "registeredVoters": 601
             },
             {
-              "id": "duau-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1572
+              "id": "esa-ala-duau-5-weyoko",
+              "name": "5 - WEYOKO",
+              "registeredVoters": 422
             },
             {
-              "id": "duau-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2667
+              "id": "esa-ala-duau-6-sipupu",
+              "name": "6 - SIPUPU",
+              "registeredVoters": 519
             },
             {
-              "id": "duau-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2269
+              "id": "esa-ala-duau-7-mwadauna",
+              "name": "7 - MWADAUNA",
+              "registeredVoters": 227
+            },
+            {
+              "id": "esa-ala-duau-8-lomitawa",
+              "name": "8 - LOMITAWA",
+              "registeredVoters": 175
+            },
+            {
+              "id": "esa-ala-duau-9-sigasiga",
+              "name": "9 - SIGASIGA",
+              "registeredVoters": 376
+            },
+            {
+              "id": "esa-ala-duau-10-siausi",
+              "name": "10 - SIAUSI",
+              "registeredVoters": 244
+            },
+            {
+              "id": "esa-ala-duau-11-dawada",
+              "name": "11 - DAWADA",
+              "registeredVoters": 380
+            },
+            {
+              "id": "esa-ala-duau-12-loboda",
+              "name": "12 - LOBODA",
+              "registeredVoters": 315
+            },
+            {
+              "id": "esa-ala-duau-13-kwanaula",
+              "name": "13 - KWANAULA",
+              "registeredVoters": 292
+            },
+            {
+              "id": "esa-ala-duau-14-mwalakwasia",
+              "name": "14 - MWALAKWASIA",
+              "registeredVoters": 224
+            },
+            {
+              "id": "esa-ala-duau-15-somwadina",
+              "name": "15 - SOMWADINA",
+              "registeredVoters": 306
+            },
+            {
+              "id": "esa-ala-duau-16-bihawa",
+              "name": "16 - BIHAWA",
+              "registeredVoters": 435
+            },
+            {
+              "id": "esa-ala-duau-17-wamula",
+              "name": "17 - WAMULA",
+              "registeredVoters": 179
+            },
+            {
+              "id": "esa-ala-duau-18-sapisapia",
+              "name": "18 - SAPISAPIA",
+              "registeredVoters": 396
+            },
+            {
+              "id": "esa-ala-duau-19-kalotau",
+              "name": "19 - KALOTAU",
+              "registeredVoters": 590
+            },
+            {
+              "id": "esa-ala-duau-20-kumwalau",
+              "name": "20 - KUMWALAU",
+              "registeredVoters": 214
+            },
+            {
+              "id": "esa-ala-duau-21-makedakwadakwa",
+              "name": "21 - MAKEDAKWADAKWA",
+              "registeredVoters": 87
+            },
+            {
+              "id": "esa-ala-duau-22-kasikasi",
+              "name": "22 - KASIKASI",
+              "registeredVoters": 478
+            }
+          ]
+        },
+        {
+          "id": "esa-ala-eyagu",
+          "name": "Eyagu LLG",
+          "electorateSlug": "esa-ala",
+          "wards": [
+            {
+              "id": "esa-ala-eyagu-1-maiabari",
+              "name": "1 - MAIABARI",
+              "registeredVoters": 239
+            },
+            {
+              "id": "esa-ala-eyagu-2-poponawai",
+              "name": "2 - POPONAWAI",
+              "registeredVoters": 460
+            },
+            {
+              "id": "esa-ala-eyagu-3-kasialai",
+              "name": "3 - KASIALAI",
+              "registeredVoters": 90
+            },
+            {
+              "id": "esa-ala-eyagu-4-tupi",
+              "name": "4 - TUPI",
+              "registeredVoters": 150
+            },
+            {
+              "id": "esa-ala-eyagu-5-koruweia",
+              "name": "5 - KORUWEIA",
+              "registeredVoters": 635
+            },
+            {
+              "id": "esa-ala-eyagu-6-io-o",
+              "name": "6 - IO'O",
+              "registeredVoters": 399
+            },
+            {
+              "id": "esa-ala-eyagu-7-taulu",
+              "name": "7 - TAULU",
+              "registeredVoters": 566
+            },
+            {
+              "id": "esa-ala-eyagu-8-esa-ala-station",
+              "name": "8 - ESA'ALA STATION",
+              "registeredVoters": 117
+            },
+            {
+              "id": "esa-ala-eyagu-9-wegadagada",
+              "name": "9 - WEGADAGADA",
+              "registeredVoters": 100
+            },
+            {
+              "id": "esa-ala-eyagu-10-sisiana",
+              "name": "10 - SISIANA",
+              "registeredVoters": 328
+            },
+            {
+              "id": "esa-ala-eyagu-11-miadeba",
+              "name": "11 - MIADEBA",
+              "registeredVoters": 239
+            },
+            {
+              "id": "esa-ala-eyagu-12-darubia",
+              "name": "12 - DARUBIA",
+              "registeredVoters": 317
+            },
+            {
+              "id": "esa-ala-eyagu-13-sawataatae",
+              "name": "13 - SAWATAATAE",
+              "registeredVoters": 306
+            },
+            {
+              "id": "esa-ala-eyagu-14-pwanapwana",
+              "name": "14 - PWANAPWANA",
+              "registeredVoters": 556
+            },
+            {
+              "id": "esa-ala-eyagu-15-sibonai",
+              "name": "15 - SIBONAI",
+              "registeredVoters": 409
+            },
+            {
+              "id": "esa-ala-eyagu-16-isumayaumatau",
+              "name": "16 - ISUMAYAUMATAU",
+              "registeredVoters": 489
+            },
+            {
+              "id": "esa-ala-eyagu-17-ulona",
+              "name": "17 - ULONA",
+              "registeredVoters": 176
+            },
+            {
+              "id": "esa-ala-eyagu-18-bwasiyaiyai",
+              "name": "18 - BWASIYAIYAI",
+              "registeredVoters": 340
+            },
+            {
+              "id": "esa-ala-eyagu-19-kurada",
+              "name": "19 - KURADA",
+              "registeredVoters": 520
+            },
+            {
+              "id": "esa-ala-eyagu-20-namoa",
+              "name": "20 - NAMOA",
+              "registeredVoters": 122
+            },
+            {
+              "id": "esa-ala-eyagu-21-barabara",
+              "name": "21 - BARABARA",
+              "registeredVoters": 356
+            },
+            {
+              "id": "esa-ala-eyagu-22-bunama",
+              "name": "22 - BUNAMA",
+              "registeredVoters": 502
+            },
+            {
+              "id": "esa-ala-eyagu-23-gudumuli",
+              "name": "23 - GUDUMULI",
+              "registeredVoters": 505
+            }
+          ]
+        },
+        {
+          "id": "esa-ala-oya-tabu",
+          "name": "Oya Tabu LLG",
+          "electorateSlug": "esa-ala",
+          "wards": [
+            {
+              "id": "esa-ala-oya-tabu-1-niubuo",
+              "name": "1 - NIUBUO",
+              "registeredVoters": 182
+            },
+            {
+              "id": "esa-ala-oya-tabu-2-ebadidi",
+              "name": "2 - EBADIDI",
+              "registeredVoters": 172
+            },
+            {
+              "id": "esa-ala-oya-tabu-3-tutubea",
+              "name": "3 - TUTUBEA",
+              "registeredVoters": 130
+            },
+            {
+              "id": "esa-ala-oya-tabu-4-bwayobwayo",
+              "name": "4 - BWAYOBWAYO",
+              "registeredVoters": 282
+            },
+            {
+              "id": "esa-ala-oya-tabu-5-agealuma",
+              "name": "5 - AGEALUMA",
+              "registeredVoters": 171
+            },
+            {
+              "id": "esa-ala-oya-tabu-6-nauifu",
+              "name": "6 - NAUIFU",
+              "registeredVoters": 195
+            },
+            {
+              "id": "esa-ala-oya-tabu-7-didiau",
+              "name": "7 - DIDIAU",
+              "registeredVoters": 421
+            },
+            {
+              "id": "esa-ala-oya-tabu-8-gwabegwabe",
+              "name": "8 - GWABEGWABE",
+              "registeredVoters": 244
+            },
+            {
+              "id": "esa-ala-oya-tabu-9-masimasi",
+              "name": "9 - MASIMASI",
+              "registeredVoters": 218
+            },
+            {
+              "id": "esa-ala-oya-tabu-10-bosalewa",
+              "name": "10 - BOSALEWA",
+              "registeredVoters": 566
+            },
+            {
+              "id": "esa-ala-oya-tabu-11-wadalei",
+              "name": "11 - WADALEI",
+              "registeredVoters": 575
+            },
+            {
+              "id": "esa-ala-oya-tabu-12-gumawana",
+              "name": "12 - GUMAWANA",
+              "registeredVoters": 304
+            },
+            {
+              "id": "esa-ala-oya-tabu-13-gameta",
+              "name": "13 - GAMETA",
+              "registeredVoters": 170
+            },
+            {
+              "id": "esa-ala-oya-tabu-14-urua",
+              "name": "14 - URUA",
+              "registeredVoters": 185
+            },
+            {
+              "id": "esa-ala-oya-tabu-15-basima",
+              "name": "15 - BASIMA",
+              "registeredVoters": 442
+            },
+            {
+              "id": "esa-ala-oya-tabu-16-duduna",
+              "name": "16 - DUDUNA",
+              "registeredVoters": 323
+            }
+          ]
+        },
+        {
+          "id": "esa-ala-west-ferguson",
+          "name": "West Ferguson LLG",
+          "electorateSlug": "esa-ala",
+          "wards": [
+            {
+              "id": "esa-ala-west-ferguson-1-fayayana",
+              "name": "1 - FAYAYANA",
+              "registeredVoters": 641
+            },
+            {
+              "id": "esa-ala-west-ferguson-2-euyamai",
+              "name": "2 - EUYAMAI",
+              "registeredVoters": 267
+            },
+            {
+              "id": "esa-ala-west-ferguson-3-allulual",
+              "name": "3 - ALLULUAL",
+              "registeredVoters": 725
+            },
+            {
+              "id": "esa-ala-west-ferguson-4-ukeoukeo",
+              "name": "4 - UKEOUKEO",
+              "registeredVoters": 938
+            },
+            {
+              "id": "esa-ala-west-ferguson-5-toagesi",
+              "name": "5 - TOAGESI",
+              "registeredVoters": 550
+            },
+            {
+              "id": "esa-ala-west-ferguson-6-igwageta",
+              "name": "6 - IGWAGETA",
+              "registeredVoters": 417
+            },
+            {
+              "id": "esa-ala-west-ferguson-7-kukuya",
+              "name": "7 - KUKUYA",
+              "registeredVoters": 360
+            },
+            {
+              "id": "esa-ala-west-ferguson-8-ibwananiu",
+              "name": "8 - IBWANANIU",
+              "registeredVoters": 558
+            },
+            {
+              "id": "esa-ala-west-ferguson-9-mapamoiwa",
+              "name": "9 - MAPAMOIWA",
+              "registeredVoters": 399
+            },
+            {
+              "id": "esa-ala-west-ferguson-10-bwalelei",
+              "name": "10 - BWALELEI",
+              "registeredVoters": 103
+            },
+            {
+              "id": "esa-ala-west-ferguson-11-iaupolo",
+              "name": "11 - IAUPOLO",
+              "registeredVoters": 79
+            },
+            {
+              "id": "esa-ala-west-ferguson-12-fagululu",
+              "name": "12 - FAGULULU",
+              "registeredVoters": 470
+            },
+            {
+              "id": "esa-ala-west-ferguson-13-laimanamana",
+              "name": "13 - LAIMANAMANA",
+              "registeredVoters": 73
+            },
+            {
+              "id": "esa-ala-west-ferguson-14-iamalele-south",
+              "name": "14 - IAMALELE SOUTH",
+              "registeredVoters": 423
+            },
+            {
+              "id": "esa-ala-west-ferguson-15-mabea",
+              "name": "15 - MABEA",
+              "registeredVoters": 60
+            },
+            {
+              "id": "esa-ala-west-ferguson-16-iamalele-north",
+              "name": "16 - IAMALELE NORTH",
+              "registeredVoters": 268
+            },
+            {
+              "id": "esa-ala-west-ferguson-17-saibutu",
+              "name": "17 - SAIBUTU",
+              "registeredVoters": 316
+            },
+            {
+              "id": "esa-ala-west-ferguson-18-atugamwana",
+              "name": "18 - ATUGAMWANA",
+              "registeredVoters": 168
+            },
+            {
+              "id": "esa-ala-west-ferguson-19-gewata",
+              "name": "19 - GEWATA",
+              "registeredVoters": 321
+            },
+            {
+              "id": "esa-ala-west-ferguson-20-koluwawa",
+              "name": "20 - KOLUWAWA",
+              "registeredVoters": 262
+            },
+            {
+              "id": "esa-ala-west-ferguson-21-kalokalo",
+              "name": "21 - KALOKALO",
+              "registeredVoters": 819
+            },
+            {
+              "id": "esa-ala-west-ferguson-22-fatavi",
+              "name": "22 - FATAVI",
+              "registeredVoters": 340
             }
           ]
         }

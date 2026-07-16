@@ -5,142 +5,256 @@
       "electorateSlug": "hagen",
       "llgs": [
         {
+          "id": "hagen-mt-hagen",
+          "name": "Mt. Hagen LLG",
+          "electorateSlug": "hagen",
+          "wards": [
+            {
+              "id": "hagen-mt-hagen-1-kumunga",
+              "name": "1 - KUMUNGA",
+              "registeredVoters": 1167
+            },
+            {
+              "id": "hagen-mt-hagen-2-kiliga",
+              "name": "2 - KILIGA",
+              "registeredVoters": 989
+            },
+            {
+              "id": "hagen-mt-hagen-3-kelua-2",
+              "name": "3 - KELUA 2",
+              "registeredVoters": 2012
+            },
+            {
+              "id": "hagen-mt-hagen-4-kuguma",
+              "name": "4 - KUGUMA",
+              "registeredVoters": 1005
+            },
+            {
+              "id": "hagen-mt-hagen-5-kelua-1",
+              "name": "5 - KELUA 1",
+              "registeredVoters": 1925
+            },
+            {
+              "id": "hagen-mt-hagen-6-kik",
+              "name": "6 - KIK",
+              "registeredVoters": 1367
+            },
+            {
+              "id": "hagen-mt-hagen-7-tega",
+              "name": "7 - TEGA",
+              "registeredVoters": 5985
+            },
+            {
+              "id": "hagen-mt-hagen-8-koglamp",
+              "name": "8 - KOGLAMP",
+              "registeredVoters": 11157
+            },
+            {
+              "id": "hagen-mt-hagen-9-tiling",
+              "name": "9 - TILING",
+              "registeredVoters": 1991
+            },
+            {
+              "id": "hagen-mt-hagen-10-kingalrui-1",
+              "name": "10 - KINGALRUI 1",
+              "registeredVoters": 931
+            },
+            {
+              "id": "hagen-mt-hagen-11-korobuk",
+              "name": "11 - KOROBUK",
+              "registeredVoters": 1030
+            },
+            {
+              "id": "hagen-mt-hagen-12-biaprui",
+              "name": "12 - BIAPRUI",
+              "registeredVoters": 1713
+            },
+            {
+              "id": "hagen-mt-hagen-13-keltiga",
+              "name": "13 - KELTIGA",
+              "registeredVoters": 2305
+            },
+            {
+              "id": "hagen-mt-hagen-14-gabina",
+              "name": "14 - GABINA",
+              "registeredVoters": 1189
+            },
+            {
+              "id": "hagen-mt-hagen-15-palimb-2",
+              "name": "15 - PALIMB 2",
+              "registeredVoters": 1614
+            },
+            {
+              "id": "hagen-mt-hagen-16-palimb-1",
+              "name": "16 - PALIMB 1",
+              "registeredVoters": 1645
+            },
+            {
+              "id": "hagen-mt-hagen-17-koge-1",
+              "name": "17 - KOGE 1",
+              "registeredVoters": 889
+            },
+            {
+              "id": "hagen-mt-hagen-18-koge-2",
+              "name": "18 - KOGE 2",
+              "registeredVoters": 1080
+            },
+            {
+              "id": "hagen-mt-hagen-19-minimp",
+              "name": "19 - MINIMP",
+              "registeredVoters": 1333
+            },
+            {
+              "id": "hagen-mt-hagen-20-ogelbeng",
+              "name": "20 - OGELBENG",
+              "registeredVoters": 1137
+            },
+            {
+              "id": "hagen-mt-hagen-21-anga",
+              "name": "21 - ANGA",
+              "registeredVoters": 1054
+            },
+            {
+              "id": "hagen-mt-hagen-22-pulgimp",
+              "name": "22 - PULGIMP",
+              "registeredVoters": 1149
+            },
+            {
+              "id": "hagen-mt-hagen-23-mulga",
+              "name": "23 - MULGA",
+              "registeredVoters": 1459
+            },
+            {
+              "id": "hagen-mt-hagen-24-kitiga",
+              "name": "24 - KITIGA",
+              "registeredVoters": 1365
+            },
+            {
+              "id": "hagen-mt-hagen-25-pungaminga",
+              "name": "25 - PUNGAMINGA",
+              "registeredVoters": 1129
+            },
+            {
+              "id": "hagen-mt-hagen-26-kogmul",
+              "name": "26 - KOGMUL",
+              "registeredVoters": 2360
+            },
+            {
+              "id": "hagen-mt-hagen-27-pits",
+              "name": "27 - PITS",
+              "registeredVoters": 1439
+            },
+            {
+              "id": "hagen-mt-hagen-28-togoba-1",
+              "name": "28 - TOGOBA 1",
+              "registeredVoters": 1293
+            },
+            {
+              "id": "hagen-mt-hagen-29-kagamuga",
+              "name": "29 - KAGAMUGA",
+              "registeredVoters": 447
+            },
+            {
+              "id": "hagen-mt-hagen-30-kingaldui-2",
+              "name": "30 - KINGALDUI 2",
+              "registeredVoters": 1082
+            },
+            {
+              "id": "hagen-mt-hagen-31-baisu",
+              "name": "31 - BAISU",
+              "registeredVoters": 1550
+            },
+            {
+              "id": "hagen-mt-hagen-32-wimbuka",
+              "name": "32 - WIMBUKA",
+              "registeredVoters": 1309
+            },
+            {
+              "id": "hagen-mt-hagen-33-kilam",
+              "name": "33 - KILAM",
+              "registeredVoters": 990
+            },
+            {
+              "id": "hagen-mt-hagen-34-kenta",
+              "name": "34 - KENTA",
+              "registeredVoters": 1069
+            },
+            {
+              "id": "hagen-mt-hagen-35-koibuga",
+              "name": "35 - KOIBUGA",
+              "registeredVoters": 997
+            },
+            {
+              "id": "hagen-mt-hagen-36-kagamuga-rural",
+              "name": "36 - KAGAMUGA RURAL",
+              "registeredVoters": 1388
+            },
+            {
+              "id": "hagen-mt-hagen-37-kugl",
+              "name": "37 - KUGL",
+              "registeredVoters": 1419
+            },
+            {
+              "id": "hagen-mt-hagen-38-waninga",
+              "name": "38 - WANINGA",
+              "registeredVoters": 699
+            },
+            {
+              "id": "hagen-mt-hagen-39-kuguramp",
+              "name": "39 - KUGURAMP",
+              "registeredVoters": 1464
+            },
+            {
+              "id": "hagen-mt-hagen-40-togoba-2",
+              "name": "40 - TOGOBA 2",
+              "registeredVoters": 1161
+            }
+          ]
+        },
+        {
           "id": "hagen-mt-hagen-urban",
-          "name": "Mt Hagen Urban LLG",
+          "name": "Mt. Hagen Urban LLG",
           "electorateSlug": "hagen",
           "wards": [
             {
-              "id": "mt-hagen-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2248
+              "id": "hagen-mt-hagen-urban-1-daibarili",
+              "name": "1 - DAIBARILI",
+              "registeredVoters": 5329
             },
             {
-              "id": "mt-hagen-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3372
+              "id": "hagen-mt-hagen-urban-2-gomis",
+              "name": "2 - GOMIS",
+              "registeredVoters": 2678
             },
             {
-              "id": "mt-hagen-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3069
+              "id": "hagen-mt-hagen-urban-3-kagamuga",
+              "name": "3 - KAGAMUGA",
+              "registeredVoters": 1032
             },
             {
-              "id": "mt-hagen-urban-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2813
+              "id": "hagen-mt-hagen-urban-4-kerebug",
+              "name": "4 - KEREBUG",
+              "registeredVoters": 3323
             },
             {
-              "id": "mt-hagen-urban-w05",
-              "name": "Ward 5",
-              "registeredVoters": 3236
+              "id": "hagen-mt-hagen-urban-5-kild",
+              "name": "5 - KILD",
+              "registeredVoters": 373
             },
             {
-              "id": "mt-hagen-urban-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2584
+              "id": "hagen-mt-hagen-urban-6-pungaspup",
+              "name": "6 - PUNGASPUP",
+              "registeredVoters": 1186
             },
             {
-              "id": "mt-hagen-urban-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1621
-            }
-          ]
-        },
-        {
-          "id": "hagen-hagen-central",
-          "name": "Hagen Central LLG",
-          "electorateSlug": "hagen",
-          "wards": [
-            {
-              "id": "hagen-central-w01",
-              "name": "Ward 1",
-              "registeredVoters": 5199
+              "id": "hagen-mt-hagen-urban-7-ults",
+              "name": "7 - ULTS",
+              "registeredVoters": 1841
             },
             {
-              "id": "hagen-central-w02",
-              "name": "Ward 2",
-              "registeredVoters": 4219
-            },
-            {
-              "id": "hagen-central-w03",
-              "name": "Ward 3",
-              "registeredVoters": 6162
-            },
-            {
-              "id": "hagen-central-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2993
-            }
-          ]
-        },
-        {
-          "id": "hagen-mul",
-          "name": "Mul LLG",
-          "electorateSlug": "hagen",
-          "wards": [
-            {
-              "id": "mul-w01",
-              "name": "Ward 1",
-              "registeredVoters": 5445
-            },
-            {
-              "id": "mul-w02",
-              "name": "Ward 2",
-              "registeredVoters": 5849
-            },
-            {
-              "id": "mul-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3626
-            }
-          ]
-        },
-        {
-          "id": "hagen-dei-south",
-          "name": "Dei South LLG",
-          "electorateSlug": "hagen",
-          "wards": [
-            {
-              "id": "dei-south-w01",
-              "name": "Ward 1",
-              "registeredVoters": 6494
-            },
-            {
-              "id": "dei-south-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3504
-            },
-            {
-              "id": "dei-south-w03",
-              "name": "Ward 3",
-              "registeredVoters": 7587
-            }
-          ]
-        },
-        {
-          "id": "hagen-togoba",
-          "name": "Togoba LLG",
-          "electorateSlug": "hagen",
-          "wards": [
-            {
-              "id": "togoba-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2735
-            },
-            {
-              "id": "togoba-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3638
-            },
-            {
-              "id": "togoba-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3770
-            },
-            {
-              "id": "togoba-w04",
-              "name": "Ward 4",
-              "registeredVoters": 6337
+              "id": "hagen-mt-hagen-urban-8-karagum",
+              "name": "8 - KARAGUM",
+              "registeredVoters": 1695
             }
           ]
         }
@@ -150,71 +264,141 @@
       "electorateSlug": "dei",
       "llgs": [
         {
-          "id": "dei-dei",
-          "name": "Dei LLG",
-          "electorateSlug": "dei",
-          "wards": [
-            {
-              "id": "dei-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1035
-            },
-            {
-              "id": "dei-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1785
-            },
-            {
-              "id": "dei-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2060
-            },
-            {
-              "id": "dei-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1862
-            },
-            {
-              "id": "dei-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1683
-            },
-            {
-              "id": "dei-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1368
-            },
-            {
-              "id": "dei-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1433
-            },
-            {
-              "id": "dei-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1803
-            }
-          ]
-        },
-        {
           "id": "dei-kotna",
           "name": "Kotna LLG",
           "electorateSlug": "dei",
           "wards": [
             {
-              "id": "kotna-w01",
-              "name": "Ward 1",
-              "registeredVoters": 5513
+              "id": "dei-kotna-1-rang",
+              "name": "1 - RANG",
+              "registeredVoters": 1927
             },
             {
-              "id": "kotna-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2900
+              "id": "dei-kotna-2-nunga-1",
+              "name": "2 - NUNGA 1",
+              "registeredVoters": 1711
             },
             {
-              "id": "kotna-w03",
-              "name": "Ward 3",
-              "registeredVoters": 5801
+              "id": "dei-kotna-3-nunga-2",
+              "name": "3 - NUNGA 2",
+              "registeredVoters": 1662
+            },
+            {
+              "id": "dei-kotna-4-kints-1",
+              "name": "4 - KINTS 1",
+              "registeredVoters": 1831
+            },
+            {
+              "id": "dei-kotna-5-kints-2",
+              "name": "5 - KINTS 2",
+              "registeredVoters": 1514
+            },
+            {
+              "id": "dei-kotna-6-ambuga",
+              "name": "6 - AMBUGA",
+              "registeredVoters": 1837
+            },
+            {
+              "id": "dei-kotna-7-kentkina",
+              "name": "7 - KENTKINA",
+              "registeredVoters": 1370
+            },
+            {
+              "id": "dei-kotna-8-kembuki",
+              "name": "8 - KEMBUKI",
+              "registeredVoters": 1746
+            },
+            {
+              "id": "dei-kotna-9-keya",
+              "name": "9 - KEYA",
+              "registeredVoters": 1351
+            },
+            {
+              "id": "dei-kotna-10-rulna",
+              "name": "10 - RULNA",
+              "registeredVoters": 1261
+            },
+            {
+              "id": "dei-kotna-11-kurunga",
+              "name": "11 - KURUNGA",
+              "registeredVoters": 962
+            }
+          ]
+        },
+        {
+          "id": "dei-mala-kinjibi",
+          "name": "Mala/Kinjibi LLG",
+          "electorateSlug": "dei",
+          "wards": [
+            {
+              "id": "dei-mala-kinjibi-1-minjim",
+              "name": "1 - MINJIM",
+              "registeredVoters": 1550
+            },
+            {
+              "id": "dei-mala-kinjibi-2-mala-1",
+              "name": "2 - MALA 1",
+              "registeredVoters": 3142
+            },
+            {
+              "id": "dei-mala-kinjibi-3-mala-2",
+              "name": "3 - MALA 2",
+              "registeredVoters": 1942
+            },
+            {
+              "id": "dei-mala-kinjibi-4-ramonga",
+              "name": "4 - RAMONGA",
+              "registeredVoters": 1725
+            },
+            {
+              "id": "dei-mala-kinjibi-5-keremunga",
+              "name": "5 - KEREMUNGA",
+              "registeredVoters": 1550
+            },
+            {
+              "id": "dei-mala-kinjibi-6-ruti",
+              "name": "6 - RUTI",
+              "registeredVoters": 2149
+            },
+            {
+              "id": "dei-mala-kinjibi-7-kutunga",
+              "name": "7 - KUTUNGA",
+              "registeredVoters": 2960
+            },
+            {
+              "id": "dei-mala-kinjibi-8-penda-1",
+              "name": "8 - PENDA 1",
+              "registeredVoters": 2167
+            },
+            {
+              "id": "dei-mala-kinjibi-9-penda-2",
+              "name": "9 - PENDA 2",
+              "registeredVoters": 1937
+            },
+            {
+              "id": "dei-mala-kinjibi-10-kinjipi-1",
+              "name": "10 - KINJIPI 1",
+              "registeredVoters": 2191
+            },
+            {
+              "id": "dei-mala-kinjibi-11-kinjipi-2",
+              "name": "11 - KINJIPI 2",
+              "registeredVoters": 1532
+            },
+            {
+              "id": "dei-mala-kinjibi-12-kondopina-1",
+              "name": "12 - KONDOPINA 1",
+              "registeredVoters": 2219
+            },
+            {
+              "id": "dei-mala-kinjibi-13-kondopina-2",
+              "name": "13 - KONDOPINA 2",
+              "registeredVoters": 1535
+            },
+            {
+              "id": "dei-mala-kinjibi-14-rombanga",
+              "name": "14 - ROMBANGA",
+              "registeredVoters": 2180
             }
           ]
         },
@@ -224,51 +408,134 @@
           "electorateSlug": "dei",
           "wards": [
             {
-              "id": "muglamp-w01",
-              "name": "Ward 1",
-              "registeredVoters": 4378
+              "id": "dei-muglamp-1-mopi",
+              "name": "1 - MOPI",
+              "registeredVoters": 2148
             },
             {
-              "id": "muglamp-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1933
+              "id": "dei-muglamp-2-kuk",
+              "name": "2 - KUK",
+              "registeredVoters": 2299
             },
             {
-              "id": "muglamp-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3471
+              "id": "dei-muglamp-3-gumanch-1",
+              "name": "3 - GUMANCH 1",
+              "registeredVoters": 2950
             },
             {
-              "id": "muglamp-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3157
-            }
-          ]
-        },
-        {
-          "id": "dei-nebilyer-north",
-          "name": "Nebilyer North LLG",
-          "electorateSlug": "dei",
-          "wards": [
-            {
-              "id": "nebilyer-north-w01",
-              "name": "Ward 1",
-              "registeredVoters": 4597
+              "id": "dei-muglamp-4-gumanch-2",
+              "name": "4 - GUMANCH 2",
+              "registeredVoters": 2032
             },
             {
-              "id": "nebilyer-north-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3280
+              "id": "dei-muglamp-5-muglamp-1",
+              "name": "5 - MUGLAMP 1",
+              "registeredVoters": 2842
             },
             {
-              "id": "nebilyer-north-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3771
+              "id": "dei-muglamp-6-muglamp-2",
+              "name": "6 - MUGLAMP 2",
+              "registeredVoters": 1452
             },
             {
-              "id": "nebilyer-north-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2527
+              "id": "dei-muglamp-7-keta",
+              "name": "7 - KETA",
+              "registeredVoters": 2181
+            },
+            {
+              "id": "dei-muglamp-8-kereldong",
+              "name": "8 - KERELDONG",
+              "registeredVoters": 1708
+            },
+            {
+              "id": "dei-muglamp-9-klenembo-1",
+              "name": "9 - KLENEMBO 1",
+              "registeredVoters": 887
+            },
+            {
+              "id": "dei-muglamp-10-klenembo-2",
+              "name": "10 - KLENEMBO 2",
+              "registeredVoters": 1655
+            },
+            {
+              "id": "dei-muglamp-11-klenembo-3",
+              "name": "11 - KLENEMBO 3",
+              "registeredVoters": 2582
+            },
+            {
+              "id": "dei-muglamp-12-klenembo-4",
+              "name": "12 - KLENEMBO 4",
+              "registeredVoters": 1030
+            },
+            {
+              "id": "dei-muglamp-13-klenembo-5",
+              "name": "13 - KLENEMBO 5",
+              "registeredVoters": 2245
+            },
+            {
+              "id": "dei-muglamp-14-komapana",
+              "name": "14 - KOMAPANA",
+              "registeredVoters": 1820
+            },
+            {
+              "id": "dei-muglamp-15-palgi",
+              "name": "15 - PALGI",
+              "registeredVoters": 2895
+            },
+            {
+              "id": "dei-muglamp-16-wimbuk",
+              "name": "16 - WIMBUK",
+              "registeredVoters": 1652
+            },
+            {
+              "id": "dei-muglamp-17-moga",
+              "name": "17 - MOGA",
+              "registeredVoters": 2185
+            },
+            {
+              "id": "dei-muglamp-18-pung",
+              "name": "18 - PUNG",
+              "registeredVoters": 1770
+            },
+            {
+              "id": "dei-muglamp-19-rapi",
+              "name": "19 - RAPI",
+              "registeredVoters": 1758
+            },
+            {
+              "id": "dei-muglamp-20-rauna",
+              "name": "20 - RAUNA",
+              "registeredVoters": 2277
+            },
+            {
+              "id": "dei-muglamp-21-kumbunga",
+              "name": "21 - KUMBUNGA",
+              "registeredVoters": 1759
+            },
+            {
+              "id": "dei-muglamp-22-tigi-1",
+              "name": "22 - TIGI 1",
+              "registeredVoters": 1840
+            },
+            {
+              "id": "dei-muglamp-23-tigi-2",
+              "name": "23 - TIGI 2",
+              "registeredVoters": 736
+            },
+            {
+              "id": "dei-muglamp-24-kenabuga",
+              "name": "24 - KENABUGA",
+              "registeredVoters": 1180
+            },
+            {
+              "id": "dei-muglamp-25-mun",
+              "name": "25 - MUN",
+              "registeredVoters": 2738
+            },
+            {
+              "id": "dei-muglamp-26-bitam",
+              "name": "26 - BITAM",
+              "registeredVoters": 1283
             }
           ]
         }
@@ -278,81 +545,249 @@
       "electorateSlug": "mul-baiyer",
       "llgs": [
         {
-          "id": "mul-baiyer-mul",
-          "name": "Mul LLG",
-          "electorateSlug": "mul-baiyer",
-          "wards": [
-            {
-              "id": "mul-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1600
-            },
-            {
-              "id": "mul-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2236
-            },
-            {
-              "id": "mul-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2336
-            },
-            {
-              "id": "mul-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3091
-            },
-            {
-              "id": "mul-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2976
-            },
-            {
-              "id": "mul-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1280
-            }
-          ]
-        },
-        {
           "id": "mul-baiyer-baiyer",
           "name": "Baiyer LLG",
           "electorateSlug": "mul-baiyer",
           "wards": [
             {
-              "id": "baiyer-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1456
+              "id": "mul-baiyer-baiyer-1-pokotapugl",
+              "name": "1 - POKOTAPUGL",
+              "registeredVoters": 533
             },
             {
-              "id": "baiyer-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3468
+              "id": "mul-baiyer-baiyer-2-manjip",
+              "name": "2 - MANJIP",
+              "registeredVoters": 681
             },
             {
-              "id": "baiyer-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2595
+              "id": "mul-baiyer-baiyer-3-sanap",
+              "name": "3 - SANAP",
+              "registeredVoters": 714
             },
             {
-              "id": "baiyer-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3264
+              "id": "mul-baiyer-baiyer-4-mainji-1",
+              "name": "4 - MAINJI 1",
+              "registeredVoters": 617
             },
             {
-              "id": "baiyer-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1447
+              "id": "mul-baiyer-baiyer-5-mainji-2",
+              "name": "5 - MAINJI 2",
+              "registeredVoters": 667
             },
             {
-              "id": "baiyer-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1657
+              "id": "mul-baiyer-baiyer-6-lyaporambo-2",
+              "name": "6 - LYAPORAMBO 2",
+              "registeredVoters": 430
             },
             {
-              "id": "baiyer-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2982
+              "id": "mul-baiyer-baiyer-7-lyaporambo-1",
+              "name": "7 - LYAPORAMBO 1",
+              "registeredVoters": 553
+            },
+            {
+              "id": "mul-baiyer-baiyer-8-kaleta",
+              "name": "8 - KALETA",
+              "registeredVoters": 432
+            },
+            {
+              "id": "mul-baiyer-baiyer-9-kuipbaut-1",
+              "name": "9 - KUIPBAUT 1",
+              "registeredVoters": 716
+            },
+            {
+              "id": "mul-baiyer-baiyer-10-kuipbaut-2",
+              "name": "10 - KUIPBAUT 2",
+              "registeredVoters": 647
+            },
+            {
+              "id": "mul-baiyer-baiyer-11-rogla",
+              "name": "11 - ROGLA",
+              "registeredVoters": 802
+            },
+            {
+              "id": "mul-baiyer-baiyer-12-endeman",
+              "name": "12 - ENDEMAN",
+              "registeredVoters": 434
+            },
+            {
+              "id": "mul-baiyer-baiyer-13-jukuma",
+              "name": "13 - JUKUMA",
+              "registeredVoters": 678
+            },
+            {
+              "id": "mul-baiyer-baiyer-14-tapikama-1",
+              "name": "14 - TAPIKAMA 1",
+              "registeredVoters": 483
+            },
+            {
+              "id": "mul-baiyer-baiyer-15-tapikama-2",
+              "name": "15 - TAPIKAMA 2",
+              "registeredVoters": 571
+            },
+            {
+              "id": "mul-baiyer-baiyer-16-kaliponga",
+              "name": "16 - KALIPONGA",
+              "registeredVoters": 528
+            },
+            {
+              "id": "mul-baiyer-baiyer-17-yaramanda-1",
+              "name": "17 - YARAMANDA 1",
+              "registeredVoters": 364
+            },
+            {
+              "id": "mul-baiyer-baiyer-18-yaramanda-2",
+              "name": "18 - YARAMANDA 2",
+              "registeredVoters": 361
+            },
+            {
+              "id": "mul-baiyer-baiyer-19-yaramanda-3",
+              "name": "19 - YARAMANDA 3",
+              "registeredVoters": 398
+            },
+            {
+              "id": "mul-baiyer-baiyer-20-pakalts-1",
+              "name": "20 - PAKALTS 1",
+              "registeredVoters": 375
+            },
+            {
+              "id": "mul-baiyer-baiyer-21-pakalts-2",
+              "name": "21 - PAKALTS 2",
+              "registeredVoters": 600
+            },
+            {
+              "id": "mul-baiyer-baiyer-22-dalapana-1",
+              "name": "22 - DALAPANA 1",
+              "registeredVoters": 378
+            },
+            {
+              "id": "mul-baiyer-baiyer-23-dalapana-2",
+              "name": "23 - DALAPANA 2",
+              "registeredVoters": 786
+            },
+            {
+              "id": "mul-baiyer-baiyer-24-dalapana-3",
+              "name": "24 - DALAPANA 3",
+              "registeredVoters": 599
+            },
+            {
+              "id": "mul-baiyer-baiyer-25-kulimbu-1",
+              "name": "25 - KULIMBU 1",
+              "registeredVoters": 713
+            },
+            {
+              "id": "mul-baiyer-baiyer-26-kulimbu-2",
+              "name": "26 - KULIMBU 2",
+              "registeredVoters": 525
+            },
+            {
+              "id": "mul-baiyer-baiyer-27-mandawasa-1",
+              "name": "27 - MANDAWASA 1",
+              "registeredVoters": 1051
+            },
+            {
+              "id": "mul-baiyer-baiyer-28-mandawasa-2",
+              "name": "28 - MANDAWASA 2",
+              "registeredVoters": 640
+            },
+            {
+              "id": "mul-baiyer-baiyer-29-kalepale",
+              "name": "29 - KALEPALE",
+              "registeredVoters": 438
+            },
+            {
+              "id": "mul-baiyer-baiyer-30-simunga",
+              "name": "30 - SIMUNGA",
+              "registeredVoters": 595
+            },
+            {
+              "id": "mul-baiyer-baiyer-31-kanan-1",
+              "name": "31 - KANAN 1",
+              "registeredVoters": 343
+            },
+            {
+              "id": "mul-baiyer-baiyer-32-kanan-2",
+              "name": "32 - KANAN 2",
+              "registeredVoters": 345
+            },
+            {
+              "id": "mul-baiyer-baiyer-33-yakasmanda-1",
+              "name": "33 - YAKASMANDA 1",
+              "registeredVoters": 263
+            },
+            {
+              "id": "mul-baiyer-baiyer-34-yakasmanda-2",
+              "name": "34 - YAKASMANDA 2",
+              "registeredVoters": 389
+            },
+            {
+              "id": "mul-baiyer-baiyer-35-iki-1",
+              "name": "35 - IKI 1",
+              "registeredVoters": 613
+            },
+            {
+              "id": "mul-baiyer-baiyer-36-iki-2",
+              "name": "36 - IKI 2",
+              "registeredVoters": 663
+            },
+            {
+              "id": "mul-baiyer-baiyer-37-dekenapona",
+              "name": "37 - DEKENAPONA",
+              "registeredVoters": 1189
+            },
+            {
+              "id": "mul-baiyer-baiyer-38-antengena-1",
+              "name": "38 - ANTENGENA 1",
+              "registeredVoters": 520
+            },
+            {
+              "id": "mul-baiyer-baiyer-39-antengena-2",
+              "name": "39 - ANTENGENA 2",
+              "registeredVoters": 803
+            },
+            {
+              "id": "mul-baiyer-baiyer-40-gelg-1",
+              "name": "40 - GELG 1",
+              "registeredVoters": 498
+            },
+            {
+              "id": "mul-baiyer-baiyer-41-gelg-2",
+              "name": "41 - GELG 2",
+              "registeredVoters": 970
+            },
+            {
+              "id": "mul-baiyer-baiyer-42-kul",
+              "name": "42 - KUL",
+              "registeredVoters": 630
+            },
+            {
+              "id": "mul-baiyer-baiyer-43-pila",
+              "name": "43 - PILA",
+              "registeredVoters": 583
+            },
+            {
+              "id": "mul-baiyer-baiyer-44-mangi",
+              "name": "44 - MANGI",
+              "registeredVoters": 623
+            },
+            {
+              "id": "mul-baiyer-baiyer-45-ruti",
+              "name": "45 - RUTI",
+              "registeredVoters": 1068
+            },
+            {
+              "id": "mul-baiyer-baiyer-46-tinsley-health-centre",
+              "name": "46 - TINSLEY HEALTH CENTRE",
+              "registeredVoters": 278
+            },
+            {
+              "id": "mul-baiyer-baiyer-47-baiyer-station",
+              "name": "47 - BAIYER STATION",
+              "registeredVoters": 284
+            },
+            {
+              "id": "mul-baiyer-baiyer-48-kaleta-2",
+              "name": "48 - KALETA 2",
+              "registeredVoters": 438
             }
           ]
         },
@@ -362,56 +797,376 @@
           "electorateSlug": "mul-baiyer",
           "wards": [
             {
-              "id": "lumusa-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2976
+              "id": "mul-baiyer-lumusa-1-mulipisa",
+              "name": "1 - MULIPISA",
+              "registeredVoters": 613
             },
             {
-              "id": "lumusa-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3254
+              "id": "mul-baiyer-lumusa-2-simakin",
+              "name": "2 - SIMAKIN",
+              "registeredVoters": 840
             },
             {
-              "id": "lumusa-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1994
+              "id": "mul-baiyer-lumusa-3-malipin",
+              "name": "3 - MALIPIN",
+              "registeredVoters": 536
             },
             {
-              "id": "lumusa-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2686
+              "id": "mul-baiyer-lumusa-4-kuwan",
+              "name": "4 - KUWAN",
+              "registeredVoters": 406
             },
             {
-              "id": "lumusa-w05",
-              "name": "Ward 5",
-              "registeredVoters": 2601
+              "id": "mul-baiyer-lumusa-5-wuwai",
+              "name": "5 - WUWAI",
+              "registeredVoters": 400
             },
             {
-              "id": "lumusa-w06",
-              "name": "Ward 6",
-              "registeredVoters": 2868
+              "id": "mul-baiyer-lumusa-6-kapale",
+              "name": "6 - KAPALE",
+              "registeredVoters": 436
+            },
+            {
+              "id": "mul-baiyer-lumusa-7-kolo-1",
+              "name": "7 - KOLO 1",
+              "registeredVoters": 981
+            },
+            {
+              "id": "mul-baiyer-lumusa-8-lai",
+              "name": "8 - LAI",
+              "registeredVoters": 576
+            },
+            {
+              "id": "mul-baiyer-lumusa-9-mofa-kumin",
+              "name": "9 - MOFA/KUMIN",
+              "registeredVoters": 472
+            },
+            {
+              "id": "mul-baiyer-lumusa-10-minigua",
+              "name": "10 - MINIGUA",
+              "registeredVoters": 911
+            },
+            {
+              "id": "mul-baiyer-lumusa-11-mano",
+              "name": "11 - MANO",
+              "registeredVoters": 523
+            },
+            {
+              "id": "mul-baiyer-lumusa-12-lena-yam",
+              "name": "12 - LENA YAM",
+              "registeredVoters": 515
+            },
+            {
+              "id": "mul-baiyer-lumusa-13-singelin",
+              "name": "13 - SINGELIN",
+              "registeredVoters": 528
+            },
+            {
+              "id": "mul-baiyer-lumusa-14-waiya",
+              "name": "14 - WAIYA",
+              "registeredVoters": 843
+            },
+            {
+              "id": "mul-baiyer-lumusa-15-silaka",
+              "name": "15 - SILAKA",
+              "registeredVoters": 344
+            },
+            {
+              "id": "mul-baiyer-lumusa-16-kiapus",
+              "name": "16 - KIAPUS",
+              "registeredVoters": 595
+            },
+            {
+              "id": "mul-baiyer-lumusa-17-lanbeyi",
+              "name": "17 - LANBEYI",
+              "registeredVoters": 653
+            },
+            {
+              "id": "mul-baiyer-lumusa-18-mulipisa",
+              "name": "18 - MULIPISA",
+              "registeredVoters": 274
+            },
+            {
+              "id": "mul-baiyer-lumusa-19-kale",
+              "name": "19 - KALE",
+              "registeredVoters": 372
+            },
+            {
+              "id": "mul-baiyer-lumusa-20-yama",
+              "name": "20 - YAMA",
+              "registeredVoters": 337
+            },
+            {
+              "id": "mul-baiyer-lumusa-21-kaiopolaa",
+              "name": "21 - KAIOPOLAA",
+              "registeredVoters": 394
+            },
+            {
+              "id": "mul-baiyer-lumusa-22-kolo-2",
+              "name": "22 - KOLO 2",
+              "registeredVoters": 568
+            },
+            {
+              "id": "mul-baiyer-lumusa-23-kugu",
+              "name": "23 - KUGU",
+              "registeredVoters": 315
+            },
+            {
+              "id": "mul-baiyer-lumusa-24-ipiylisina",
+              "name": "24 - IPIYLISINA",
+              "registeredVoters": 587
+            },
+            {
+              "id": "mul-baiyer-lumusa-25-indiypendent",
+              "name": "25 - INDIYPENDENT",
+              "registeredVoters": 301
             }
           ]
         },
         {
-          "id": "mul-baiyer-alkena",
-          "name": "Alkena LLG",
+          "id": "mul-baiyer-mul",
+          "name": "Mul LLG",
           "electorateSlug": "mul-baiyer",
           "wards": [
             {
-              "id": "alkena-w01",
-              "name": "Ward 1",
-              "registeredVoters": 6285
+              "id": "mul-baiyer-mul-1-bukapena-1",
+              "name": "1 - BUKAPENA 1",
+              "registeredVoters": 379
             },
             {
-              "id": "alkena-w02",
-              "name": "Ward 2",
-              "registeredVoters": 4214
+              "id": "mul-baiyer-mul-2-kileg-1",
+              "name": "2 - KILEG 1",
+              "registeredVoters": 1392
             },
             {
-              "id": "alkena-w03",
-              "name": "Ward 3",
-              "registeredVoters": 4826
+              "id": "mul-baiyer-mul-3-kileg-2",
+              "name": "3 - KILEG 2",
+              "registeredVoters": 1032
+            },
+            {
+              "id": "mul-baiyer-mul-4-kiliga-1",
+              "name": "4 - KILIGA 1",
+              "registeredVoters": 502
+            },
+            {
+              "id": "mul-baiyer-mul-5-kiliga-2",
+              "name": "5 - KILIGA 2",
+              "registeredVoters": 905
+            },
+            {
+              "id": "mul-baiyer-mul-6-wurup",
+              "name": "6 - WURUP",
+              "registeredVoters": 414
+            },
+            {
+              "id": "mul-baiyer-mul-7-kwinga-1",
+              "name": "7 - KWINGA 1",
+              "registeredVoters": 1077
+            },
+            {
+              "id": "mul-baiyer-mul-8-kwinga-2",
+              "name": "8 - KWINGA 2",
+              "registeredVoters": 688
+            },
+            {
+              "id": "mul-baiyer-mul-9-kwinga-3",
+              "name": "9 - KWINGA 3",
+              "registeredVoters": 692
+            },
+            {
+              "id": "mul-baiyer-mul-10-bita",
+              "name": "10 - BITA",
+              "registeredVoters": 353
+            },
+            {
+              "id": "mul-baiyer-mul-11-kum",
+              "name": "11 - KUM",
+              "registeredVoters": 413
+            },
+            {
+              "id": "mul-baiyer-mul-12-wara-1",
+              "name": "12 - WARA 1",
+              "registeredVoters": 935
+            },
+            {
+              "id": "mul-baiyer-mul-13-wara-2",
+              "name": "13 - WARA 2",
+              "registeredVoters": 961
+            },
+            {
+              "id": "mul-baiyer-mul-14-nengil-2",
+              "name": "14 - NENGIL 2",
+              "registeredVoters": 586
+            },
+            {
+              "id": "mul-baiyer-mul-15-mambuga",
+              "name": "15 - MAMBUGA",
+              "registeredVoters": 1022
+            },
+            {
+              "id": "mul-baiyer-mul-16-nenbil-3",
+              "name": "16 - NENBIL 3",
+              "registeredVoters": 409
+            },
+            {
+              "id": "mul-baiyer-mul-17-angiki-1",
+              "name": "17 - ANGIKI 1",
+              "registeredVoters": 859
+            },
+            {
+              "id": "mul-baiyer-mul-18-angiki-2",
+              "name": "18 - ANGIKI 2",
+              "registeredVoters": 468
+            },
+            {
+              "id": "mul-baiyer-mul-19-koibuga-1",
+              "name": "19 - KOIBUGA 1",
+              "registeredVoters": 596
+            },
+            {
+              "id": "mul-baiyer-mul-20-koibuga-2",
+              "name": "20 - KOIBUGA 2",
+              "registeredVoters": 2208
+            },
+            {
+              "id": "mul-baiyer-mul-21-koibuga-3",
+              "name": "21 - KOIBUGA 3",
+              "registeredVoters": 941
+            },
+            {
+              "id": "mul-baiyer-mul-22-koibuga-4",
+              "name": "22 - KOIBUGA 4",
+              "registeredVoters": 1368
+            },
+            {
+              "id": "mul-baiyer-mul-23-minimp",
+              "name": "23 - MINIMP",
+              "registeredVoters": 748
+            },
+            {
+              "id": "mul-baiyer-mul-24-murip",
+              "name": "24 - MURIP",
+              "registeredVoters": 692
+            },
+            {
+              "id": "mul-baiyer-mul-25-kiliga-3",
+              "name": "25 - KILIGA 3",
+              "registeredVoters": 716
+            },
+            {
+              "id": "mul-baiyer-mul-26-namba",
+              "name": "26 - NAMBA",
+              "registeredVoters": 1167
+            },
+            {
+              "id": "mul-baiyer-mul-27-kumbi",
+              "name": "27 - KUMBI",
+              "registeredVoters": 958
+            },
+            {
+              "id": "mul-baiyer-mul-28-rugli-1",
+              "name": "28 - RUGLI 1",
+              "registeredVoters": 650
+            },
+            {
+              "id": "mul-baiyer-mul-29-rugli-2",
+              "name": "29 - RUGLI 2",
+              "registeredVoters": 915
+            },
+            {
+              "id": "mul-baiyer-mul-30-keragmp",
+              "name": "30 - KERAGMP",
+              "registeredVoters": 645
+            },
+            {
+              "id": "mul-baiyer-mul-31-ebuga",
+              "name": "31 - EBUGA",
+              "registeredVoters": 513
+            },
+            {
+              "id": "mul-baiyer-mul-32-balk-2",
+              "name": "32 - BALK 2",
+              "registeredVoters": 999
+            },
+            {
+              "id": "mul-baiyer-mul-33-balk-1",
+              "name": "33 - BALK 1",
+              "registeredVoters": 911
+            },
+            {
+              "id": "mul-baiyer-mul-34-balk-3",
+              "name": "34 - BALK 3",
+              "registeredVoters": 805
+            },
+            {
+              "id": "mul-baiyer-mul-35-balk-4",
+              "name": "35 - BALK 4",
+              "registeredVoters": 713
+            },
+            {
+              "id": "mul-baiyer-mul-36-tondomong-1",
+              "name": "36 - TONDOMONG 1",
+              "registeredVoters": 485
+            },
+            {
+              "id": "mul-baiyer-mul-37-tondomong-2",
+              "name": "37 - TONDOMONG 2",
+              "registeredVoters": 1672
+            },
+            {
+              "id": "mul-baiyer-mul-38-tondomong-3",
+              "name": "38 - TONDOMONG 3",
+              "registeredVoters": 829
+            },
+            {
+              "id": "mul-baiyer-mul-39-kwip-1",
+              "name": "39 - KWIP 1",
+              "registeredVoters": 382
+            },
+            {
+              "id": "mul-baiyer-mul-40-kwip-2",
+              "name": "40 - KWIP 2",
+              "registeredVoters": 676
+            },
+            {
+              "id": "mul-baiyer-mul-41-kwip-3",
+              "name": "41 - KWIP 3",
+              "registeredVoters": 858
+            },
+            {
+              "id": "mul-baiyer-mul-42-kilimp",
+              "name": "42 - KILIMP",
+              "registeredVoters": 2077
+            },
+            {
+              "id": "mul-baiyer-mul-43-koibuga-5-kopagle",
+              "name": "43 - KOIBUGA 5/KOPAGLE",
+              "registeredVoters": 350
+            },
+            {
+              "id": "mul-baiyer-mul-44-kelenga-3-kelig-3",
+              "name": "44 - KELENGA 3/KELIG 3",
+              "registeredVoters": 1171
+            },
+            {
+              "id": "mul-baiyer-mul-45-kwinga-4",
+              "name": "45 - KWINGA 4",
+              "registeredVoters": 380
+            },
+            {
+              "id": "mul-baiyer-mul-46-bukapena-2",
+              "name": "46 - BUKAPENA 2",
+              "registeredVoters": 494
+            },
+            {
+              "id": "mul-baiyer-mul-47-nenbil-1",
+              "name": "47 - NENBIL 1",
+              "registeredVoters": 315
+            },
+            {
+              "id": "mul-baiyer-mul-48-marapana",
+              "name": "48 - MARAPANA",
+              "registeredVoters": 375
             }
           ]
         }
@@ -421,24 +1176,301 @@
       "electorateSlug": "tambul-nebilyer",
       "llgs": [
         {
-          "id": "tambul-nebilyer-tambul",
-          "name": "Tambul LLG",
+          "id": "tambul-nebilyer-lower-kaugel",
+          "name": "Lower Kaugel LLG",
           "electorateSlug": "tambul-nebilyer",
           "wards": [
             {
-              "id": "tambul-w01",
-              "name": "Ward 1",
-              "registeredVoters": 5973
+              "id": "tambul-nebilyer-lower-kaugel-1-gakop-1",
+              "name": "1 - GAKOP 1",
+              "registeredVoters": 492
             },
             {
-              "id": "tambul-w02",
-              "name": "Ward 2",
-              "registeredVoters": 4987
+              "id": "tambul-nebilyer-lower-kaugel-2-gakop-2",
+              "name": "2 - GAKOP 2",
+              "registeredVoters": 1102
             },
             {
-              "id": "tambul-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3783
+              "id": "tambul-nebilyer-lower-kaugel-3-gakop-3",
+              "name": "3 - GAKOP 3",
+              "registeredVoters": 830
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-4-alkena-3",
+              "name": "4 - ALKENA 3",
+              "registeredVoters": 1498
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-5-alkena-2",
+              "name": "5 - ALKENA 2",
+              "registeredVoters": 1678
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-6-alkena-1",
+              "name": "6 - ALKENA 1",
+              "registeredVoters": 1019
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-7-alkena-4",
+              "name": "7 - ALKENA 4",
+              "registeredVoters": 1112
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-8-wambul-1",
+              "name": "8 - WAMBUL 1",
+              "registeredVoters": 1193
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-9-wambul-2",
+              "name": "9 - WAMBUL 2",
+              "registeredVoters": 855
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-10-kopine-1",
+              "name": "10 - KOPINE 1",
+              "registeredVoters": 1087
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-11-kopine-2",
+              "name": "11 - KOPINE 2",
+              "registeredVoters": 652
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-12-bonga-1",
+              "name": "12 - BONGA 1",
+              "registeredVoters": 627
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-13-bonga-2",
+              "name": "13 - BONGA 2",
+              "registeredVoters": 623
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-14-koroka",
+              "name": "14 - KOROKA",
+              "registeredVoters": 1516
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-15-kiripia-1",
+              "name": "15 - KIRIPIA 1",
+              "registeredVoters": 1320
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-16-kiripia-2",
+              "name": "16 - KIRIPIA 2",
+              "registeredVoters": 1501
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-17-kiripia-3",
+              "name": "17 - KIRIPIA 3",
+              "registeredVoters": 982
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-18-tamal",
+              "name": "18 - TAMAL",
+              "registeredVoters": 1480
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-19-palnol",
+              "name": "19 - PALNOL",
+              "registeredVoters": 1722
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-20-gia-1",
+              "name": "20 - GIA 1",
+              "registeredVoters": 1022
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-21-gia-2",
+              "name": "21 - GIA 2",
+              "registeredVoters": 763
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-22-kombolga",
+              "name": "22 - KOMBOLGA",
+              "registeredVoters": 952
+            },
+            {
+              "id": "tambul-nebilyer-lower-kaugel-23-marapulg",
+              "name": "23 - MARAPULG",
+              "registeredVoters": 1162
+            }
+          ]
+        },
+        {
+          "id": "tambul-nebilyer-mount-giluwe",
+          "name": "Mount Giluwe LLG",
+          "electorateSlug": "tambul-nebilyer",
+          "wards": [
+            {
+              "id": "tambul-nebilyer-mount-giluwe-1-gihamu-1",
+              "name": "1 - GIHAMU 1",
+              "registeredVoters": 978
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-2-gihamu-2",
+              "name": "2 - GIHAMU 2",
+              "registeredVoters": 578
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-3-muga",
+              "name": "3 - MUGA",
+              "registeredVoters": 1063
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-4-paiakona-1",
+              "name": "4 - PAIAKONA 1",
+              "registeredVoters": 1979
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-5-paiakona-2",
+              "name": "5 - PAIAKONA 2",
+              "registeredVoters": 775
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-6-toroika",
+              "name": "6 - TOROIKA",
+              "registeredVoters": 1213
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-7-kamuga-1",
+              "name": "7 - KAMUGA 1",
+              "registeredVoters": 2627
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-8-kamuga-2",
+              "name": "8 - KAMUGA 2",
+              "registeredVoters": 1972
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-9-tomba",
+              "name": "9 - TOMBA",
+              "registeredVoters": 2168
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-10-tsinsibai-1",
+              "name": "10 - TSINSIBAI 1",
+              "registeredVoters": 1010
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-11-tsinsibai-2",
+              "name": "11 - TSINSIBAI 2",
+              "registeredVoters": 857
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-12-tsinsibai-3",
+              "name": "12 - TSINSIBAI 3",
+              "registeredVoters": 905
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-13-tsinsibai-4",
+              "name": "13 - TSINSIBAI 4",
+              "registeredVoters": 594
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-14-tsinsibai-5",
+              "name": "14 - TSINSIBAI 5",
+              "registeredVoters": 312
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-15-tsinsibai-6",
+              "name": "15 - TSINSIBAI 6",
+              "registeredVoters": 955
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-16-karapangi",
+              "name": "16 - KARAPANGI",
+              "registeredVoters": 1161
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-17-pulgumong",
+              "name": "17 - PULGUMONG",
+              "registeredVoters": 1055
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-18-kikuwa",
+              "name": "18 - KIKUWA",
+              "registeredVoters": 985
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-19-pommboli",
+              "name": "19 - POMMBOLI",
+              "registeredVoters": 1281
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-20-kumbaipulg",
+              "name": "20 - KUMBAIPULG",
+              "registeredVoters": 1253
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-21-maltaka-1",
+              "name": "21 - MALTAKA 1",
+              "registeredVoters": 670
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-22-maltaka-2",
+              "name": "22 - MALTAKA 2",
+              "registeredVoters": 517
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-23-kamindi-1",
+              "name": "23 - KAMINDI 1",
+              "registeredVoters": 814
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-24-kamindi-2",
+              "name": "24 - KAMINDI 2",
+              "registeredVoters": 811
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-25-papapena-1",
+              "name": "25 - PAPAPENA 1",
+              "registeredVoters": 1303
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-26-papapena-2",
+              "name": "26 - PAPAPENA 2",
+              "registeredVoters": 1717
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-27-papapena-3",
+              "name": "27 - PAPAPENA 3",
+              "registeredVoters": 1087
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-28-oiapulg-1",
+              "name": "28 - OIAPULG 1",
+              "registeredVoters": 976
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-29-oiapulg-2",
+              "name": "29 - OIAPULG 2",
+              "registeredVoters": 1019
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-30-awabo",
+              "name": "30 - AWABO",
+              "registeredVoters": 1115
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-31-laiagham-1",
+              "name": "31 - LAIAGHAM 1",
+              "registeredVoters": 1121
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-32-laiagham-2",
+              "name": "32 - LAIAGHAM 2",
+              "registeredVoters": 1005
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-33-malke",
+              "name": "33 - MALKE",
+              "registeredVoters": 1519
+            },
+            {
+              "id": "tambul-nebilyer-mount-giluwe-34-pokari",
+              "name": "34 - POKARI",
+              "registeredVoters": 1073
             }
           ]
         },
@@ -448,118 +1480,199 @@
           "electorateSlug": "tambul-nebilyer",
           "wards": [
             {
-              "id": "nebilyer-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1394
+              "id": "tambul-nebilyer-nebilyer-1-pabarabuk",
+              "name": "1 - PABARABUK",
+              "registeredVoters": 1573
             },
             {
-              "id": "nebilyer-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2309
+              "id": "tambul-nebilyer-nebilyer-2-papikola",
+              "name": "2 - PAPIKOLA",
+              "registeredVoters": 1340
             },
             {
-              "id": "nebilyer-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1334
-            },
-            {
-              "id": "nebilyer-w04",
-              "name": "Ward 4",
-              "registeredVoters": 1937
-            },
-            {
-              "id": "nebilyer-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1651
-            },
-            {
-              "id": "nebilyer-w06",
-              "name": "Ward 6",
-              "registeredVoters": 3520
-            }
-          ]
-        },
-        {
-          "id": "tambul-nebilyer-ka",
-          "name": "Ka LLG",
-          "electorateSlug": "tambul-nebilyer",
-          "wards": [
-            {
-              "id": "ka-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1742
-            },
-            {
-              "id": "ka-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1201
-            },
-            {
-              "id": "ka-w03",
-              "name": "Ward 3",
-              "registeredVoters": 910
-            },
-            {
-              "id": "ka-w04",
-              "name": "Ward 4",
-              "registeredVoters": 836
-            },
-            {
-              "id": "ka-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1653
-            },
-            {
-              "id": "ka-w06",
-              "name": "Ward 6",
-              "registeredVoters": 833
-            },
-            {
-              "id": "ka-w07",
-              "name": "Ward 7",
-              "registeredVoters": 1399
-            },
-            {
-              "id": "ka-w08",
-              "name": "Ward 8",
-              "registeredVoters": 1327
-            },
-            {
-              "id": "ka-w09",
-              "name": "Ward 9",
-              "registeredVoters": 1646
-            },
-            {
-              "id": "ka-w10",
-              "name": "Ward 10",
+              "id": "tambul-nebilyer-nebilyer-3-ouamul",
+              "name": "3 - OUAMUL",
               "registeredVoters": 1102
-            }
-          ]
-        },
-        {
-          "id": "tambul-nebilyer-alkena-south",
-          "name": "Alkena South LLG",
-          "electorateSlug": "tambul-nebilyer",
-          "wards": [
-            {
-              "id": "alkena-south-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3190
             },
             {
-              "id": "alkena-south-w02",
-              "name": "Ward 2",
-              "registeredVoters": 4786
+              "id": "tambul-nebilyer-nebilyer-4-kupeng",
+              "name": "4 - KUPENG",
+              "registeredVoters": 650
             },
             {
-              "id": "alkena-south-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3262
+              "id": "tambul-nebilyer-nebilyer-5-kongmul",
+              "name": "5 - KONGMUL",
+              "registeredVoters": 741
             },
             {
-              "id": "alkena-south-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2212
+              "id": "tambul-nebilyer-nebilyer-6-malda",
+              "name": "6 - MALDA",
+              "registeredVoters": 843
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-7-teka-1",
+              "name": "7 - TEKA 1",
+              "registeredVoters": 912
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-8-teka-2",
+              "name": "8 - TEKA 2",
+              "registeredVoters": 1393
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-9-kumbaia",
+              "name": "9 - KUMBAIA",
+              "registeredVoters": 1381
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-10-koibuga-1",
+              "name": "10 - KOIBUGA 1",
+              "registeredVoters": 2042
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-11-yumbiga-1",
+              "name": "11 - YUMBIGA 1",
+              "registeredVoters": 894
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-12-yumbiga-2",
+              "name": "12 - YUMBIGA 2",
+              "registeredVoters": 878
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-13-kaige-1",
+              "name": "13 - KAIGE 1",
+              "registeredVoters": 689
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-14-kaige-2",
+              "name": "14 - KAIGE 2",
+              "registeredVoters": 681
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-15-iriwaipa",
+              "name": "15 - IRIWAIPA",
+              "registeredVoters": 635
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-16-gomi",
+              "name": "16 - GOMI",
+              "registeredVoters": 1015
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-17-tapia",
+              "name": "17 - TAPIA",
+              "registeredVoters": 656
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-18-korkor",
+              "name": "18 - KORKOR",
+              "registeredVoters": 698
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-19-paraka",
+              "name": "19 - PARAKA",
+              "registeredVoters": 727
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-20-alimp-1",
+              "name": "20 - ALIMP 1",
+              "registeredVoters": 837
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-21-alimp-2",
+              "name": "21 - ALIMP 2",
+              "registeredVoters": 980
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-22-kumumbaga",
+              "name": "22 - KUMUMBAGA",
+              "registeredVoters": 981
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-23-wagil",
+              "name": "23 - WAGIL",
+              "registeredVoters": 1792
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-24-agega",
+              "name": "24 - AGEGA",
+              "registeredVoters": 993
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-25-olk",
+              "name": "25 - OLK",
+              "registeredVoters": 662
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-26-koibuga-2",
+              "name": "26 - KOIBUGA 2",
+              "registeredVoters": 1104
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-27-pangatibuk",
+              "name": "27 - PANGATIBUK",
+              "registeredVoters": 1342
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-28-dumakona",
+              "name": "28 - DUMAKONA",
+              "registeredVoters": 1183
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-29-kongra",
+              "name": "29 - KONGRA",
+              "registeredVoters": 2365
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-30-kend",
+              "name": "30 - KEND",
+              "registeredVoters": 1755
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-31-arowa",
+              "name": "31 - AROWA",
+              "registeredVoters": 1383
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-32-waipipi",
+              "name": "32 - WAIPIPI",
+              "registeredVoters": 1045
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-33-kenanum",
+              "name": "33 - KENANUM",
+              "registeredVoters": 1008
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-34-kolgmul",
+              "name": "34 - KOLGMUL",
+              "registeredVoters": 1255
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-35-gainitaka",
+              "name": "35 - GAINITAKA",
+              "registeredVoters": 671
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-36-kikuwa",
+              "name": "36 - KIKUWA",
+              "registeredVoters": 593
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-37-opral",
+              "name": "37 - OPRAL",
+              "registeredVoters": 464
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-38-kapiapulg-kulga",
+              "name": "38 - KAPIAPULG KULGA",
+              "registeredVoters": 800
+            },
+            {
+              "id": "tambul-nebilyer-nebilyer-39-kunmong",
+              "name": "39 - KUNMONG",
+              "registeredVoters": 481
             }
           ]
         }
@@ -569,150 +1682,236 @@
       "electorateSlug": "north-wahgi",
       "llgs": [
         {
-          "id": "north-wahgi-minj-urban",
-          "name": "Minj Urban LLG",
-          "electorateSlug": "north-wahgi",
-          "wards": [
-            {
-              "id": "minj-urban-w01",
-              "name": "Ward 1",
-              "registeredVoters": 3718
-            },
-            {
-              "id": "minj-urban-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3687
-            },
-            {
-              "id": "minj-urban-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3487
-            },
-            {
-              "id": "minj-urban-w04",
-              "name": "Ward 4",
-              "registeredVoters": 4904
-            }
-          ]
-        },
-        {
-          "id": "north-wahgi-north-wahgi",
-          "name": "North Wahgi LLG",
-          "electorateSlug": "north-wahgi",
-          "wards": [
-            {
-              "id": "north-wahgi-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2369
-            },
-            {
-              "id": "north-wahgi-w02",
-              "name": "Ward 2",
-              "registeredVoters": 2434
-            },
-            {
-              "id": "north-wahgi-w03",
-              "name": "Ward 3",
-              "registeredVoters": 2463
-            },
-            {
-              "id": "north-wahgi-w04",
-              "name": "Ward 4",
-              "registeredVoters": 3330
-            },
-            {
-              "id": "north-wahgi-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1762
-            },
-            {
-              "id": "north-wahgi-w06",
-              "name": "Ward 6",
-              "registeredVoters": 3412
-            }
-          ]
-        },
-        {
           "id": "north-wahgi-nondugl",
           "name": "Nondugl LLG",
           "electorateSlug": "north-wahgi",
           "wards": [
             {
-              "id": "nondugl-w01",
-              "name": "Ward 1",
-              "registeredVoters": 1338
+              "id": "north-wahgi-nondugl-1-bamuna-1",
+              "name": "1 - BAMUNA 1",
+              "registeredVoters": 1110
             },
             {
-              "id": "nondugl-w02",
-              "name": "Ward 2",
-              "registeredVoters": 1270
+              "id": "north-wahgi-nondugl-2-bamuna-2",
+              "name": "2 - BAMUNA 2",
+              "registeredVoters": 911
             },
             {
-              "id": "nondugl-w03",
-              "name": "Ward 3",
-              "registeredVoters": 1309
+              "id": "north-wahgi-nondugl-3-domil-1",
+              "name": "3 - DOMIL 1",
+              "registeredVoters": 1284
             },
             {
-              "id": "nondugl-w04",
-              "name": "Ward 4",
-              "registeredVoters": 997
+              "id": "north-wahgi-nondugl-4-domil-2",
+              "name": "4 - DOMIL 2",
+              "registeredVoters": 1600
             },
             {
-              "id": "nondugl-w05",
-              "name": "Ward 5",
-              "registeredVoters": 1419
+              "id": "north-wahgi-nondugl-5-kapalku-1",
+              "name": "5 - KAPALKU 1",
+              "registeredVoters": 1120
             },
             {
-              "id": "nondugl-w06",
-              "name": "Ward 6",
-              "registeredVoters": 1105
+              "id": "north-wahgi-nondugl-6-kapalku-2",
+              "name": "6 - KAPALKU 2",
+              "registeredVoters": 777
             },
             {
-              "id": "nondugl-w07",
-              "name": "Ward 7",
-              "registeredVoters": 2042
+              "id": "north-wahgi-nondugl-7-kaming",
+              "name": "7 - KAMING",
+              "registeredVoters": 1956
             },
             {
-              "id": "nondugl-w08",
-              "name": "Ward 8",
-              "registeredVoters": 2197
+              "id": "north-wahgi-nondugl-8-kombulno-1",
+              "name": "8 - KOMBULNO 1",
+              "registeredVoters": 998
             },
             {
-              "id": "nondugl-w09",
-              "name": "Ward 9",
-              "registeredVoters": 999
+              "id": "north-wahgi-nondugl-9-kombulno-2",
+              "name": "9 - KOMBULNO 2",
+              "registeredVoters": 1109
+            },
+            {
+              "id": "north-wahgi-nondugl-10-kombulno-3",
+              "name": "10 - KOMBULNO 3",
+              "registeredVoters": 988
+            },
+            {
+              "id": "north-wahgi-nondugl-11-kumbal-1",
+              "name": "11 - KUMBAL 1",
+              "registeredVoters": 836
+            },
+            {
+              "id": "north-wahgi-nondugl-12-kumbal-2",
+              "name": "12 - KUMBAL 2",
+              "registeredVoters": 1172
+            },
+            {
+              "id": "north-wahgi-nondugl-13-milep-1",
+              "name": "13 - MILEP 1",
+              "registeredVoters": 1388
+            },
+            {
+              "id": "north-wahgi-nondugl-14-milep-2",
+              "name": "14 - MILEP 2",
+              "registeredVoters": 1441
+            },
+            {
+              "id": "north-wahgi-nondugl-15-munumul-1",
+              "name": "15 - MUNUMUL 1",
+              "registeredVoters": 1364
+            },
+            {
+              "id": "north-wahgi-nondugl-16-munumul-2",
+              "name": "16 - MUNUMUL 2",
+              "registeredVoters": 1257
+            },
+            {
+              "id": "north-wahgi-nondugl-17-munumul-3",
+              "name": "17 - MUNUMUL 3",
+              "registeredVoters": 3013
+            },
+            {
+              "id": "north-wahgi-nondugl-18-nondugl-1",
+              "name": "18 - NONDUGL 1",
+              "registeredVoters": 1157
+            },
+            {
+              "id": "north-wahgi-nondugl-19-nondugl-2",
+              "name": "19 - NONDUGL 2",
+              "registeredVoters": 1325
+            },
+            {
+              "id": "north-wahgi-nondugl-20-ngumbkora",
+              "name": "20 - NGUMBKORA",
+              "registeredVoters": 1283
+            },
+            {
+              "id": "north-wahgi-nondugl-21-onil",
+              "name": "21 - ONIL",
+              "registeredVoters": 1358
             }
           ]
         },
         {
-          "id": "north-wahgi-kudjip",
-          "name": "Kudjip LLG",
+          "id": "north-wahgi-north-waghi",
+          "name": "North Waghi LLG",
           "electorateSlug": "north-wahgi",
           "wards": [
             {
-              "id": "kudjip-w01",
-              "name": "Ward 1",
-              "registeredVoters": 2311
+              "id": "north-wahgi-north-waghi-1-kimil-1",
+              "name": "1 - KIMIL 1",
+              "registeredVoters": 2172
             },
             {
-              "id": "kudjip-w02",
-              "name": "Ward 2",
-              "registeredVoters": 3499
+              "id": "north-wahgi-north-waghi-2-kimil-2",
+              "name": "2 - KIMIL 2",
+              "registeredVoters": 1070
             },
             {
-              "id": "kudjip-w03",
-              "name": "Ward 3",
-              "registeredVoters": 3675
+              "id": "north-wahgi-north-waghi-3-koskala-1",
+              "name": "3 - KOSKALA 1",
+              "registeredVoters": 1247
             },
             {
-              "id": "kudjip-w04",
-              "name": "Ward 4",
-              "registeredVoters": 2277
+              "id": "north-wahgi-north-waghi-4-koskala-2",
+              "name": "4 - KOSKALA 2",
+              "registeredVoters": 1363
             },
             {
-              "id": "kudjip-w05",
-              "name": "Ward 5",
-              "registeredVoters": 3038
+              "id": "north-wahgi-north-waghi-5-koskala-3",
+              "name": "5 - KOSKALA 3",
+              "registeredVoters": 1211
+            },
+            {
+              "id": "north-wahgi-north-waghi-6-molka-1",
+              "name": "6 - MOLKA 1",
+              "registeredVoters": 1126
+            },
+            {
+              "id": "north-wahgi-north-waghi-7-molka-2",
+              "name": "7 - MOLKA 2",
+              "registeredVoters": 1918
+            },
+            {
+              "id": "north-wahgi-north-waghi-8-kwiena-1",
+              "name": "8 - KWIENA 1",
+              "registeredVoters": 2527
+            },
+            {
+              "id": "north-wahgi-north-waghi-9-kwiena-2",
+              "name": "9 - KWIENA 2",
+              "registeredVoters": 885
+            },
+            {
+              "id": "north-wahgi-north-waghi-10-dumbola-1",
+              "name": "10 - DUMBOLA 1",
+              "registeredVoters": 1875
+            },
+            {
+              "id": "north-wahgi-north-waghi-11-dumbola-2",
+              "name": "11 - DUMBOLA 2",
+              "registeredVoters": 1133
+            },
+            {
+              "id": "north-wahgi-north-waghi-12-talu-1",
+              "name": "12 - TALU 1",
+              "registeredVoters": 2243
+            },
+            {
+              "id": "north-wahgi-north-waghi-13-talu-2",
+              "name": "13 - TALU 2",
+              "registeredVoters": 1127
+            },
+            {
+              "id": "north-wahgi-north-waghi-14-kendu-1",
+              "name": "14 - KENDU 1",
+              "registeredVoters": 1949
+            },
+            {
+              "id": "north-wahgi-north-waghi-15-kendu-2",
+              "name": "15 - KENDU 2",
+              "registeredVoters": 2014
+            },
+            {
+              "id": "north-wahgi-north-waghi-16-banz-town",
+              "name": "16 - BANZ TOWN",
+              "registeredVoters": 1079
+            },
+            {
+              "id": "north-wahgi-north-waghi-17-bung-1",
+              "name": "17 - BUNG 1",
+              "registeredVoters": 1467
+            },
+            {
+              "id": "north-wahgi-north-waghi-18-bung-2",
+              "name": "18 - BUNG 2",
+              "registeredVoters": 1417
+            },
+            {
+              "id": "north-wahgi-north-waghi-19-bung-3",
+              "name": "19 - BUNG 3",
+              "registeredVoters": 2315
+            },
+            {
+              "id": "north-wahgi-north-waghi-20-kakinjep-1",
+              "name": "20 - KAKINJEP 1",
+              "registeredVoters": 951
+            },
+            {
+              "id": "north-wahgi-north-waghi-21-kakinjep-2",
+              "name": "21 - KAKINJEP 2",
+              "registeredVoters": 1383
+            },
+            {
+              "id": "north-wahgi-north-waghi-22-bolimba-1",
+              "name": "22 - BOLIMBA 1",
+              "registeredVoters": 940
+            },
+            {
+              "id": "north-wahgi-north-waghi-23-bolimba-2",
+              "name": "23 - BOLIMBA 2",
+              "registeredVoters": 783
             }
           ]
         }
