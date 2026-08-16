@@ -419,7 +419,10 @@ export default function PopulationMap({
         {wards.map((w, i) => {
           const ov = overrides[w.id] ?? serverOverrides[w.id];
           const pos: LatLng = ov ?? [w.lat, w.lng];
-          const color = config.llgColors[w.llgId] ?? "#64748b";
+          // A named ward group overrides the LLG colour so the group reads as
+          // one block on the map.
+          const color =
+            w.groupColor ?? config.llgColors[w.llgId] ?? "#64748b";
           const isSelected = selectedWardId === w.id;
           const parts = splitWardLabel(w.name, String(i + 1));
           return (

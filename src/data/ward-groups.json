@@ -1,0 +1,21 @@
+{
+  "_comment": "Named groupings of wards that cut across (or sit inside) an LLG. Keyed by electorateSlug. Ward ids must match src/data/llgs/<province>.json exactly — buildMapWards drops unknown ids and reports them, it does not guess. Groups are display-only: they never change LLG membership or voter totals.",
+  "imbonggu": [
+    {
+      "id": "imbonggu-kiluwe-kale",
+      "name": "Kiluwe Kale",
+      "color": "#9333ea",
+      "wardIds": [
+        "imbonggu-ialibu-basin-11---yombi-1",
+        "imbonggu-ialibu-basin-21---kalano",
+        "imbonggu-ialibu-basin-17---yombi-2",
+        "imbonggu-ialibu-basin-15---pakulge",
+        "imbonggu-ialibu-basin-14---lepera",
+        "imbonggu-ialibu-basin-22---yawalangil-2",
+        "imbonggu-ialibu-basin-12---yawalangil",
+        "imbonggu-ialibu-basin-16---yawalinda",
+        "imbonggu-ialibu-basin-20---kendal-1"
+      ]
+    }
+  ]
+}

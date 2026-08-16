@@ -9,6 +9,11 @@ export type Ward = {
   registeredVoters: number;
   lat: number;
   lng: number;
+  /** Set when the ward belongs to a named group (see data/ward-groups.json). */
+  groupId?: string;
+  groupName?: string;
+  /** Group colour, which takes precedence over the LLG colour on map pins. */
+  groupColor?: string;
 };
 
 export type LlgSummary = {
@@ -16,4 +21,15 @@ export type LlgSummary = {
   name: string;
   registeredVoters: number;
   wardCount: number;
+};
+
+/** Rolled-up totals for a named ward group. Derived, never stored. */
+export type WardGroupSummary = {
+  id: string;
+  name: string;
+  color: string;
+  registeredVoters: number;
+  wardCount: number;
+  /** Group ward ids that matched no ward in this electorate — a data typo. */
+  missingWardIds: string[];
 };

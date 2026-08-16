@@ -10,6 +10,7 @@ import {
   type ElectorateMapConfig,
 } from "@/data/maps/registry";
 import { buildMapWards, DEFAULT_MAP_CONFIG } from "./build-wards";
+import { getWardGroups } from "@/data/ward-groups";
 import type { ElectorateLLGData } from "@/types";
 
 const PopulationMap = dynamic(() => import("./population-map"), {
@@ -59,9 +60,14 @@ export default function VoterDistributionView({
     [baseConfig, llgData],
   );
 
-  const { wards, llgs } = useMemo(
-    () => buildMapWards(llgData, config),
-    [llgData, config],
+  const wardGroups = useMemo(
+    () => getWardGroups(selectedElectorate.slug),
+    [selectedElectorate.slug],
+  );
+
+  const { wards, llgs, groups } = useMemo(
+    () => buildMapWards(llgData, config, wardGroups),
+    [llgData, config, wardGroups],
   );
 
   const wardsByLlg = useMemo(
@@ -161,6 +167,35 @@ export default function VoterDistributionView({
           ))}
         </div>
 
+        {groups.length > 0 && (
+          <div className="mb-4">
+            <h2 className="mb-2 text-[11px] font-semibold uppercase tracking-wider text-zinc-500">
+              Groups
+            </h2>
+            {groups.map((g) => (
+              <div key={g.id}>
+                <div className="flex items-center gap-2 py-1 text-[13px]">
+                  <span
+                    className="inline-block h-3 w-3 rounded-full border border-black/10"
+                    style={{ background: g.color }}
+                  />
+                  <span className="flex-1 truncate">{g.name}</span>
+                  <span className="text-zinc-500">
+                    {g.wardCount} · {fmt(g.registeredVoters)}
+                  </span>
+                </div>
+                {g.missingWardIds.length > 0 && (
+                  <p className="pl-5 text-[11px] text-amber-700">
+                    {g.missingWardIds.length} ward
+                    {g.missingWardIds.length === 1 ? "" : "s"} in this group
+                    couldn&apos;t be found in the electorate data
+                  </p>
+                )}
+              </div>
+            ))}
+          </div>
+        )}
+
         {wardsByLlg.map(({ llg, wards: llgWards }) => (
           <div key={llg.id} className="mb-3">
             <h2 className="mb-1.5 text-[11px] font-semibold uppercase tracking-wider text-zinc-500">
@@ -186,7 +221,16 @@ export default function VoterDistributionView({
                         : "hover:bg-zinc-50"
                     }`}
                   >
-                    <span className="truncate">{w.name}</span>
+                    <span className="flex min-w-0 items-center gap-1.5">
+                      {w.groupColor && (
+                        <span
+                          title={`In group: ${w.groupName}`}
+                          className="inline-block h-2 w-2 shrink-0 rounded-full"
+                          style={{ background: w.groupColor }}
+                        />
+                      )}
+                      <span className="truncate">{w.name}</span>
+                    </span>
                     <span className="font-mono text-zinc-600">
                       {fmt(w.registeredVoters)}
                     </span>
