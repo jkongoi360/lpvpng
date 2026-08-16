@@ -81,6 +81,19 @@ export default function VoterDistributionView({
     [llgs, wards],
   );
 
+  // Member wards for each group, biggest first — same ordering as the LLG
+  // lists so the sidebar reads consistently.
+  const wardsByGroup = useMemo(
+    () =>
+      groups.map((group) => ({
+        group,
+        wards: wards
+          .filter((w) => w.groupId === group.id)
+          .sort((a, b) => b.registeredVoters - a.registeredVoters),
+      })),
+    [groups, wards],
+  );
+
   const totalVoters = wards.reduce((s, w) => s + w.registeredVoters, 0);
 
   const handleSelectChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
@@ -172,14 +185,14 @@ export default function VoterDistributionView({
             <h2 className="mb-2 text-[11px] font-semibold uppercase tracking-wider text-zinc-500">
               Groups
             </h2>
-            {groups.map((g) => (
-              <div key={g.id}>
+            {wardsByGroup.map(({ group: g, wards: groupWards }) => (
+              <div key={g.id} className="mb-3">
                 <div className="flex items-center gap-2 py-1 text-[13px]">
                   <span
                     className="inline-block h-3 w-3 rounded-full border border-black/10"
                     style={{ background: g.color }}
                   />
-                  <span className="flex-1 truncate">{g.name}</span>
+                  <span className="flex-1 truncate font-semibold">{g.name}</span>
                   <span className="text-zinc-500">
                     {g.wardCount} · {fmt(g.registeredVoters)}
                   </span>
@@ -191,6 +204,28 @@ export default function VoterDistributionView({
                     couldn&apos;t be found in the electorate data
                   </p>
                 )}
+                <ul className="mt-1 list-none border-l-2 pl-2.5" style={{ borderColor: g.color }}>
+                  {groupWards.map((w) => {
+                    const active = selectedWardId === w.id;
+                    return (
+                      <li
+                        key={w.id}
+                        onClick={() => setSelectedWardId(w.id)}
+                        title="Click to locate on the map"
+                        className={`flex cursor-pointer justify-between gap-2 py-1 text-[12.5px] transition-colors ${
+                          active
+                            ? "bg-amber-50 font-semibold text-amber-900"
+                            : "hover:bg-zinc-50"
+                        }`}
+                      >
+                        <span className="truncate">{w.name}</span>
+                        <span className="font-mono text-zinc-600">
+                          {fmt(w.registeredVoters)}
+                        </span>
+                      </li>
+                    );
+                  })}
+                </ul>
               </div>
             ))}
           </div>
