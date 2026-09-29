@@ -59,12 +59,12 @@ export function SiteChrome({ children }: { children: React.ReactNode }) {
                 >
                   Open Seats
                 </Link>
-                <Link
-                  href="/voter-distribution"
+                <a
+                  href="https://smartvoterpng.com"
                   className="text-zinc-300 hover:text-png-gold transition-colors"
                 >
-                  Voter Distribution
-                </Link>
+                  Voter Distribution ↗
+                </a>
                 <Link
                   href="/about"
                   className="text-zinc-300 hover:text-png-gold transition-colors"

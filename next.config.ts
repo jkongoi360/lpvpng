@@ -14,6 +14,24 @@ const nextConfig: NextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
+  // Voter Distribution moved to its own site. Keep old links working: a
+  // specific ?electorate= goes to that electorate's map, anything else to the
+  // Imbonggu map.
+  async redirects() {
+    return [
+      {
+        source: "/voter-distribution",
+        has: [{ type: "query", key: "electorate", value: "(?<slug>[a-z0-9-]+)" }],
+        destination: "https://smartvoterpng.com/electorate/:slug",
+        permanent: true,
+      },
+      {
+        source: "/voter-distribution/:path*",
+        destination: "https://smartvoterpng.com/voter-distribution",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;

@@ -20,8 +20,7 @@ export default function AccessPage() {
         <p className="mt-4 text-zinc-600">
           Guest access is <strong>free for 1 hour</strong> and is view-only. For
           complete, ongoing access to the full platform — all 89 Open and 22
-          Regional electorates, ward-by-ward simulations, voter-distribution
-          maps and Governors — a one-time fee applies.
+          Regional electorates, ward-by-ward simulations and Governors — a one-time fee applies.
         </p>
 
         <div className="mt-6 rounded-xl border border-[#CE1126]/20 bg-[#CE1126]/5 p-6 text-center">

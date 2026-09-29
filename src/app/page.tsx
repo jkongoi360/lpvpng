@@ -22,8 +22,8 @@ const features = [
     body: "Run Limited Preferential Voting simulations down to the ward level across every Open electorate, with realistic preference transfers and elimination rounds.",
   },
   {
-    title: "Interactive district maps",
-    body: "Explore registered-voter distribution on satellite maps with real district boundaries for 97 electorates — pins for every ward, grouped by LLG.",
+    title: "Preference modelling",
+    body: "Tune first-preference shares and preference flows per candidate, then watch each elimination round redistribute votes until a winner clears the absolute majority.",
   },
   {
     title: "Full national coverage",
